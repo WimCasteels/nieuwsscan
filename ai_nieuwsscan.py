@@ -91,6 +91,15 @@ FEEDS = {
     "vrt_artikels": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
     "datanews_artikels": "https://trends.knack.be/feed/?host=datanews.knack.be",
     "humo_vandaag": "https://www.humo.be/vandaag/rss.xml",
+    # Nederlandse bronnen. Let op: de Tweakers-feed via feedburner.com is
+    # blijven steken in april 2025, deze op tweakers.net zelf is actueel.
+    "tweakers_mixed": "https://tweakers.net/feeds/mixed.xml",
+    "nos_tech": "https://feeds.nos.nl/nosnieuwstech",
+    "nu_tech": "https://www.nu.nl/rss/tech",
+    "nrc_artikels": "https://www.nrc.nl/rss/",
+    "trouw_voorpagina": "https://www.trouw.nl/voorpagina/rss.xml",
+    "trouw_wetenschap": "https://www.trouw.nl/wetenschap/rss.xml",
+    "trouw_opinie": "https://www.trouw.nl/opinie/rss.xml",
 }
 
 # Bronnen zonder feed, maar met een gewone webpagina die de artikellijst als
@@ -123,6 +132,11 @@ PREFIX_NAMES = {
     "datanews_": "Data News",
     "knack_": "Knack",
     "humo_": "Humo",
+    "tweakers_": "Tweakers",
+    "nos_": "NOS",
+    "nu_": "NU.nl",
+    "nrc_": "NRC",
+    "trouw_": "Trouw",
 }
 
 AI_KEYWORDS = [
@@ -1104,7 +1118,7 @@ def build_html(articles, feeds_overview, new_keys, page_days=PAGE_DAYS):
         "</head>\n<body>\n"
         "<header>\n"
         "    <h1>AI in het nieuws</h1>\n"
-        f'    <div class="subtitle">{len(sorted_articles)} artikelen uit de Vlaamse pers '
+        f'    <div class="subtitle">{len(sorted_articles)} artikelen uit de Nederlandstalige pers '
         f"{venster_tekst} &middot; {escape(range_text)}{archief_tekst}</div>\n"
         f'    <div class="subtitle">Laatst bijgewerkt op {dutch_date(TODAY)} '
         f"&middot; {len(new_keys)} nieuw</div>\n"

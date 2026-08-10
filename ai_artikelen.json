@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T22:56:32",
+ "generated": "2026-08-10T23:36:51",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -194,6 +194,48 @@
    "error": null
   },
   {
+   "name": "NOS - Tech",
+   "url": "https://feeds.nos.nl/nosnieuwstech",
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "NRC - Artikels",
+   "url": "https://www.nrc.nl/rss/",
+   "count": 145,
+   "error": null
+  },
+  {
+   "name": "NU.nl - Tech",
+   "url": "https://www.nu.nl/rss/tech",
+   "count": 30,
+   "error": null
+  },
+  {
+   "name": "Trouw - Opinie",
+   "url": "https://www.trouw.nl/opinie/rss.xml",
+   "count": 22,
+   "error": null
+  },
+  {
+   "name": "Trouw - Voorpagina",
+   "url": "https://www.trouw.nl/voorpagina/rss.xml",
+   "count": 100,
+   "error": null
+  },
+  {
+   "name": "Trouw - Wetenschap",
+   "url": "https://www.trouw.nl/wetenschap/rss.xml",
+   "count": 9,
+   "error": null
+  },
+  {
+   "name": "Tweakers - Mixed",
+   "url": "https://tweakers.net/feeds/mixed.xml",
+   "count": 40,
+   "error": null
+  },
+  {
    "name": "VRT NWS - Artificiele Intelligentie",
    "url": "https://www.vrt.be/vrtnws/nl/net-binnen/technologie-en-wetenschap/artificiele-intelligentie/",
    "count": 10,
@@ -208,6 +250,17 @@
  ],
  "articles": [
   {
+   "title": "Arthur Mensch, Europese tegenpool van de techbros, gelooft niet in de god van superintelligentie",
+   "link": "https://www.nrc.nl/nieuws/2026/08/10/arthur-mensch-europese-tegenpool-van-de-techbros-gelooft-niet-in-de-god-van-superintelligentie-a4933551",
+   "description": "Als ceo van het jonge Franse AI-bedrijf Mistral belichaamt Arthur Mensch (34) de hoop dat Europa nog kan meekomen bij de ontwikkeling van AI. Hij wil voorkomen dat Europa volledig afhankelijk wordt van Amerikaanse of Chinese AI. „Dan worden we een vazalstaat.”",
+   "date": "2026-08-10T20:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "'Wall Street-titanen werken aan 500 miljard dollar financiering voor AI-projecten Nvidia'",
    "link": "https://www.tijd.be/r/t/1/id/10681844",
    "description": "Een consortium met een waslijst van financiële sleutelspelers als Apollo en Goldman Sachs gaat 500 miljard dollar aan kredieten verstrekken aan de chipreus Nvidia, meldt de krant Financial Times. Het geld zou bestemd zijn voor de verdere uitbouw van AI-infrastructuur.",
@@ -216,6 +269,28 @@
     "De Tijd - Nieuws"
    ],
    "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Ente Photos 1.3.60",
+   "link": "https://tweakers.net/downloads/77860/ente-photos-1360.html",
+   "description": "Ente Photos is een oplossing voor het beheren van foto's. Het is opensource, maakt gebruik van end-to-endversleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. In versie 1.3.60 zijn de volgende veranderingen en verbeteringen in aangebracht: Changes in Ente Photos 1.3.60",
+   "date": "2026-08-10T20:02:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Online drukkerij Drukland meldt datalek met gehashte wachtwoorden",
+   "link": "https://tweakers.net/nieuws/250852/online-drukkerij-drukland-meldt-datalek-met-gehashte-wachtwoorden.html",
+   "description": "Drukland mailt klanten over een datalek waarbij e-mailadressen en gehashte wachtwoorden gestolen zijn. Het is niet bekend welk algoritme er is gebruikt. De online drukkerij is actief in zowel Nederland als België en contacteert klanten in beide landen.",
+   "date": "2026-08-10T19:37:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-10",
    "intro_geprobeerd": false
   },
   {
@@ -252,12 +327,56 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "‘Mensen moeten in hun hoofd krijgen dat we in een nieuw tijdperk van economische groei zitten’",
+   "link": "https://www.nrc.nl/nieuws/2026/08/10/mensen-moeten-in-hun-hoofd-krijgen-dat-we-in-een-nieuw-tijdperk-van-economische-groei-zitten-a4933522",
+   "description": "Niet een basisinkomen, maar een basiskapitaal voor iedereen: volgens denktankoprichter Nathan Gardels is dat dé manier om de opbrengsten van AI eerlijker te verdelen. „De welvaart die AI genereert, die komt uit jouw en mijn data.”",
+   "date": "2026-08-10T16:43:10",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Korea richt chipfonds van 3 miljard euro op",
+   "link": "https://tweakers.net/nieuws/250840/zuid-korea-richt-chipfonds-van-3-miljard-euro-op.html",
+   "description": "Zuid-Korea richt een fonds van zo'n 3 miljard euro op voor de chipindustrie. Het geld is bedoeld voor veelbelovende bedrijven die chipmaterialen, -onderdelen en -apparatuur maken of chips ontwerpen.",
+   "date": "2026-08-10T15:56:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta perst Muse Glimmer met 30 miljard parameters in minder dan 20GB",
+   "link": "https://tweakers.net/nieuws/250836/meta-perst-muse-glimmer-met-30-miljard-parameters-in-minder-dan-20gb.html",
+   "description": "Meta introduceert Muse Glimmer, een open-weight AI-model met 30 miljard parameters. Het AI-model is klein genoeg om lokaal op een Mac of pc met een enkele gpu te draaien. Het model is onder de Apache 2.0-licentie uitgebracht.",
+   "date": "2026-08-10T15:10:01",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "TSMC boekt versnelde omzetgroei in juli",
    "link": "https://trends.knack.be/beleggen/beursnieuws/tsmc-boekt-versnelde-omzetgroei-in-juli/",
    "description": "(ABM FN-Dow Jones) Taiwan Semiconductor Manufacturing Company heeft in juli een omzet geboekt van 467,58 miljard Taiwanese dollar, omgerekend 14,50 miljard dollar. Dit maakte de Taiwanese chipfabrikant maandag bekend.De omzet steeg daarmee met 5,6 procent ten opzichte van juni en met 44,7 procent vergeleken met juli vorig jaar.Over de periode van januari tot en met juli kwam …\nThe post TSMC boekt versnelde omzetgroei in juli appeared first on Trends.be.",
    "date": "2026-08-10T13:55:13",
    "feeds": [
     "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe Adobe-plug-in voor ChatGPT kiest automatisch juiste tool voor opdracht",
+   "link": "https://tweakers.net/nieuws/250828/nieuwe-adobe-plug-in-voor-chatgpt-kiest-automatisch-juiste-tool-voor-opdracht.html",
+   "description": "Adobe introduceert een nieuwe plug-in voor ChatGPT, die automatisch de juiste Adobe-software selecteert voor een opdracht. De plug-in kan daarbij kiezen uit meer dan zeventig tools uit de suite van Adobe.",
+   "date": "2026-08-10T12:39:22",
+   "feeds": [
+    "Tweakers - Mixed"
    ],
    "first_seen": "2026-08-10",
    "intro_geprobeerd": false
@@ -282,6 +401,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD vergroot focus op AI-chips met overname van start-up Taalas",
+   "link": "https://tweakers.net/nieuws/250820/amd-vergroot-focus-op-ai-chips-met-overname-van-start-up-taalas.html",
+   "description": "AMD neemt AI-chipmaker Taalas over voor een onbekend bedrag. De chips van de Canadese start-up vormen een aanvulling op het huidige AI-platform van AMD, met daarin onder meer de Helios-oplossingen van het bedrijf.",
+   "date": "2026-08-10T09:43:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-10",
    "intro_geprobeerd": false
   },
   {
@@ -319,6 +449,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Explainer | AI-model breekt uit testomgeving en hackt: zo wist het te ontsnappen",
+   "link": "https://www.nu.nl/329108/video/ai-model-breekt-uit-testomgeving-en-hackt-zo-wist-het-te-ontsnappen.html",
+   "description": "",
+   "date": "2026-08-09T07:03:28",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Jong Talent: Eva Blondeel (29) helpt boekhouders werken met AI",
    "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/jong-talent-eva-blondeel-29-helpt-boekhouders-werken-met-ai/",
    "description": "Econome Eva Blondeel (UGent) onderzoekt de mogelijkheden van generatieve AI voor financiële toepassingen. ‘AI dringt binnen in alle werkomgevingen, zeker ook bij boekhouders of CFO’s’, vertelt Blondeel. ‘Maar zelfs bij grote organisaties ontbreekt vaak wetenschappelijke onderbouwing om deze technologie doordacht en verantwoord in te zetten,’ vertelt Eva Blondeel.\nThe post Jong Talent: Eva Blondeel (29) helpt boekhouders werken met AI appeared first on Knack.",
@@ -327,6 +468,17 @@
     "Knack - Artikels"
    ],
    "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert ontwikkeling van Astra-model door kritieke hackvaardigheden",
+   "link": "https://tweakers.net/nieuws/250792/openai-pauzeert-ontwikkeling-van-astra-model-door-kritieke-hackvaardigheden.html",
+   "description": "OpenAI stopt tijdelijk alle interne activiteiten die niet voldoen aan verscherpte beveiligingsvereisten rond zijn Astra-model, omdat het bedrijf zich zorgen maakt over de hackingcapaciteiten ervan. Volgens de ChatGPT-maker tonen interne evaluaties 'aanzienlijke vooruitgang in agentisch programmeren en cyberbeveiliging'.",
+   "date": "2026-08-08T09:48:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-10",
    "intro_geprobeerd": false
   },
   {
@@ -374,6 +526,39 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Als iedereen muziek kan maken met AI, hebben we dan nog muzikanten nodig?",
+   "link": "https://www.trouw.nl/cultuur-media/als-iedereen-muziek-kan-maken-met-ai-hebben-we-dan-nog-muzikanten-nodig~b2c6d669/",
+   "description": "",
+   "date": "2026-08-07T22:00:07",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Why AI is a risk to Communist China",
+   "link": "https://www.nrc.nl/nieuws/2026/08/07/why-ai-is-a-risk-to-communist-china-a4934038",
+   "description": "It is not as well placed to take advantage of the technology as many people think.",
+   "date": "2026-08-07T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reclamewaakhond veroordeelt omstreden AI-campagne van tabaksfabrikant Philip Morris",
+   "link": "https://www.trouw.nl/binnenland/reclamewaakhond-veroordeelt-omstreden-ai-campagne-van-tabaksfabrikant-philip-morris~b790e6de/",
+   "description": "",
+   "date": "2026-08-07T16:17:54",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Deense studenten krijgen mondeling examen om AI-fraude te vermijden, AI helpt bij ontwikkelen van virussen",
    "link": "https://www.vrt.be/vrtnws/nl/liveblog/deense-studenten-krijgen-mondeling-examen-om-aifraude-te-vermij~1776671241366/",
    "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
@@ -404,6 +589,28 @@
     "De Tijd - Opinie"
    ],
    "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reclame Code Commissie: AI-campagne van tabaksgigant Philip Morris was tegen de regels",
+   "link": "https://www.nrc.nl/nieuws/2026/08/07/reclame-code-commissie-ai-campagne-van-tabaksgigant-philip-morris-was-tegen-de-regels-a4934012",
+   "description": "De tabaksfabrikant hielp burgers AI-teksten te maken voor de consultatie rond strengere EU-regelgeving. Volgens de commissie duwde Philip Morris consumenten daarmee richting een anti-wetgevingsstandpunt.",
+   "date": "2026-08-07T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "America’s startup boom offers hope for the future of work",
+   "link": "https://www.nrc.nl/nieuws/2026/08/06/americas-startup-boom-offers-hope-for-the-future-of-work-a4933613",
+   "description": "AI could make more people their own boss.",
+   "date": "2026-08-06T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-10",
    "intro_geprobeerd": false
   },
   {
@@ -440,6 +647,17 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "Moeten we de winsten uit AI herverdelen? (herhaling)",
+   "link": "https://www.nrc.nl/nieuws/2026/08/06/moeten-we-de-winsten-uit-ai-herverdelen-herhaling-a4933958",
+   "description": "(Hoe) kunnen overheden voorkomen dat slechts een kleine groep van de technologische revolutie uit kunstmatige intelligentie profiteert?",
+   "date": "2026-08-06T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Wiskundedoorbraken volgen elkaar razendsnel op dankzij AI",
    "link": "https://www.demorgen.be/nieuws/wiskundedoorbraken-volgen-elkaar-razendsnel-op-dankzij-ai~b0e6a508/",
    "description": "",
@@ -462,6 +680,17 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "Winst aandeel SpaceX verdampt, maar verlies twee maanden na beursgang valt mee",
+   "link": "https://nos.nl/l/2625581",
+   "description": "Na een succesvolle beursgang van SpaceX, waarbij het aandeel op een bepaald moment zelfs even de 225 dollar aantikte, is de winst inmiddels weer verdampt. De kwartaalcijfers van gisteren hebben dat - ondanks zeer positieve omzetcijfers en een verlies dat meeviel - nog niet kunnen rechttrekken.\n        Nabeurs stond het aandeel ruim 7 procent in de min. Oorzaak: het bedrijf blijft ook miljarden uitgeven aan kunstmatige intelligentie, en daarover leven in brede kring zorgen.\n        De beursintroductie van SpaceX was om verschillende redenen bijzonder. Er werd voor een recordbedrag aan geld opgehaald en particulieren konden veel meer aandelen kopen dan normaal. Verder moeten beleggers geloven in de gigantische ambities van Elon Musk. Het bedrijf kon profiteren van de enorme honger onder beleggers in alles wat te maken heeft met kunstmatige intelligentie (AI).\n        Ander sentiment\n        Nu - nog geen twee maanden later - is het bedrijf in een ander sentiment terechtgekomen. \"Er zijn zorgen over alle AI-ontwikkelingen\", zegt Joost Schmets van de Vereniging voor Effectenbezitters (VEB). \"Gaat het geld wel rendabel besteed worden? Als waarderingen heel hoog zijn, dan hoeft er maar heel weinig te gebeuren om dat sentiment om te draaien.\"\n        Dat sentiment leeft veel breder dan rond SpaceX alleen. Amazon, Microsoft, Google en Meta geven samen honderden miljarden dollars uit aan de bouw van nieuwe datacenters. Die zijn nodig - zo is de gedachte - om de verwachte groei van AI te faciliteren. Tegelijkertijd worden Chinese AI-modellen ook steeds beter, en die zijn veel goedkoper in ontwikkeling.\n        The Economist schreef recent dat de investeringsgolf \"in hoog tempo uitgroeit tot de grootste in de geschiedenis\". En rekende voor dat om de investeringen - dit jaar 900 miljard dollar en volgend jaar 1400 miljard dollar - terug te verdienen er een omzet van 2500 miljard dollar per jaar tegenover moet staan. De clouddiensten van Microsoft, Alphabet (Google) en Amazon - die de datacentermarkt domineren - waren vorig jaar samen goed voor 292 miljard dollar omzet.\n        Alleen Starlink winstgevend\n        SpaceX ontleent zijn naam aan waar het mee begon: ruimtevaart. De winst komt tegenwoordig bij Starlink vandaan, dat overal ter wereld razendsnel internet via satellieten aanbiedt. Alle andere onderdelen - waaronder AI-bedrijf xAI en X (het voormalige Twitter) zijn verlieslijdend.\n        Musk heeft daarnaast al twee grote datacentercomplexen en wil die uiteindelijk in de ruimte gaan bouwen. Ook wil hij dat zijn twee beursgenoteerde bedrijven SpaceX en Tesla samen een chipfabriek gaan bouwen die hij 'Terafabs' noemt. Kosten: 55 tot wel 119 miljard dollar.\n        Als dat ooit allemaal lukt - het is een plan dat omgeven is door vraagtekens - dan is SpaceX minder afhankelijk van andere partijen dan OpenAI en Anthropic. Dat kan een voordeel zijn, zegt Schmets van de VEB.\n        Terug naar de beurskoers. \"Beleggers zijn tot het besef gekomen dat dit toch wel een gehypte beursgang is\", zegt beuranalist Jim Tehupuring van 1Vermogensbeheer. \"De particuliere belegger die z'n buurman erover hoorde praten en de boot niet wilde missen heeft misschien gekocht toen de koers op 180, 190 of 200 dollar stond. Die zit nu naar een groot verlies te kijken.\"\n        Maar, benadrukt Tehupuring, wat dat betreft geldt ook het aloude advies om niet al je eieren (aandelen dus) in hetzelfde mandje (bedrijf) te leggen. \"Je moet wel beseffen dat dit een wilde rit gaat worden.\"\n        Niet alleen een bubbel\n        Ondanks die turbulentie is er voor SpaceX-belegger Tessel Majtlis weinig veranderd. Ze is mede-oprichter van beleggersclub You Got This, die zich specifiek op vrouwen richt. \"Voor mij gaat het om de techniek die Musk bouwt en de visie die hij heeft. Los van of je ooit op Mars terechtkomt, wordt er al veel ontwikkeld om dat doel te halen. Dat is waarom ik erin investeer.\"\n        Ze denkt tegelijkertijd dat er wel sprake is van een 'bubbel'. Dat betekent dat de waarderingen op de beurs op lange termijn niet vol te houden zijn en die bubbel op een gegeven moment uiteen spat. De vraag is wat er daarna overblijft van alle torenhoge waarderingen en investeringen.\n        \"Het is niet alleen maar bubbel. Ik kijk daardoorheen en ik zie een toekomst waarin we alles met AI doen en verdergaan dan alleen de aarde.\" Overigens is het sentiment binnen haar beleggersclub anders. \"Daar blijft veel argwaan naar Elon en naar de waarde van dit bedrijf.\" Daarbinnen is ze dus een uitzondering.",
+   "date": "2026-08-05T08:54:23",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Bedrijven staan op de rem voor IT-investeringen door hoge prijzen en tekorten",
    "link": "https://www.tijd.be/r/t/1/id/10680468",
    "description": "Bedrijven die hun IT-infrastructuur willen vernieuwen of uitbreiden, botsen op fors duurdere én schaarse hardware, veroorzaakt door de AI-race. Daardoor stellen IT-managers projecten uit, verlengen ze vervangingscycli of zoeken ze alternatieven.",
@@ -481,6 +710,17 @@
     "De Standaard - Binnenland"
    ],
    "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techgigant Amazon meer dan 3 biljoen dollar waard, als vijfde bedrijf ooit",
+   "link": "https://nos.nl/l/2625420",
+   "description": "De Amerikaanse techgigant Amazon is voor het eerst meer waard dan 3 biljoen dollar, omgerekend 2600 miljard euro. Na de opening van Wall Street vandaag boekte het bedrijf een koerswinst van ruim 5 procent.\n        Daarmee is het tech- en webwinkelconcern het vijfde bedrijf ooit dat zoveel waard is. Techgiganten Nvidia, Alphabet, Microsoft en Apple gingen Amazon voor.\n        Afgelopen week presenteerde Amazon sterke resultaten over het kwartaal, waarna het aandeel met 15 procent omhoog schoot. Dat leverde het bedrijf de beste beursdag in jaren op, met een gestegen marktwaarde van 400 miljard dollar.\n        Investeringen in AI\n        Het door Jeff Bezos opgerichte bedrijf had het de afgelopen maanden juist zwaar op de beurs. Beleggers vreesden dat de miljardeninvesteringen die het bedrijf doet in kunstmatige intelligentie (AI) zich niet zouden terug verdienen.\n        Maar ondertussen groeide de clouddivisie van het bedrijf door, waarmee die zorgen verdwenen. De clouddiensten zijn in trek door de grote vraag naar rekenkracht die nodig is voor AI.\n        De cloudtak van het bedrijf, Amazon Web Services (AWS), investeerde dit jaar onder meer fors in datacenters: vaak grote gebouwen vol rekken met computerservers. Daarop draaien computerprogramma's of worden bestanden opgeslagen. AWS verhuurt die computerruimte vervolgens aan andere bedrijven.\n        De ontwikkelingen rond kunstmatige intelligentie gaan hard, met name in de Verenigde Staten. Nieuwsuur maakte daar deze video over:",
+   "date": "2026-08-03T19:54:57",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-10",
    "intro_geprobeerd": false
   }
  ]
