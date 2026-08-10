@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Halve bestanden van een onderbroken run
+*.tmp
+
+# Ruwe feedarchieven van --archive, per datum
+20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]/

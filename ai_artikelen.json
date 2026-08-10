@@ -1,0 +1,487 @@
+{
+ "generated": "2026-08-10T22:56:32",
+ "feeds": [
+  {
+   "name": "Apache.be - Artikels",
+   "url": "https://apache.be/feed/artikels",
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "Data News - Artikels",
+   "url": "https://trends.knack.be/feed/?host=datanews.knack.be",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Best Gelezen",
+   "url": "https://www.demorgen.be/popular/rss.xml",
+   "count": 31,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Beter Leven",
+   "url": "https://www.demorgen.be/beter-leven/rss.xml",
+   "count": 45,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Cartoons",
+   "url": "https://www.demorgen.be/puzzels-cartoons/rss.xml",
+   "count": 24,
+   "error": null
+  },
+  {
+   "name": "De Morgen - In Het Nieuws",
+   "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
+   "count": 29,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Koken",
+   "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Luister",
+   "url": "https://www.demorgen.be/luister/rss.xml",
+   "count": 27,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Meningen",
+   "url": "https://www.demorgen.be/meningen/rss.xml",
+   "count": 29,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Oorlog Oekraine",
+   "url": "https://www.demorgen.be/oorlog-in-oekraine/rss.xml",
+   "count": 13,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Politiek",
+   "url": "https://www.demorgen.be/politiek/rss.xml",
+   "count": 15,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Sport",
+   "url": "https://www.demorgen.be/sport/rss.xml",
+   "count": 16,
+   "error": null
+  },
+  {
+   "name": "De Morgen - Wetenschap",
+   "url": "https://www.demorgen.be/tech-wetenschap/rss.xml",
+   "count": 29,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Binnenland",
+   "url": "https://www.standaard.be/binnenland/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Biz Financiele Markten",
+   "url": "https://www.standaard.be/economie/beurs/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Biz Mijn Geld",
+   "url": "https://www.standaard.be/economie/geld/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Buitenland",
+   "url": "https://www.standaard.be/buitenland/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Cultuur",
+   "url": "https://www.standaard.be/media-en-cultuur/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Economie",
+   "url": "https://www.standaard.be/economie/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Opinies",
+   "url": "https://www.standaard.be/opinies/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Standaard - Sport",
+   "url": "https://www.standaard.be/sport/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Cultuur",
+   "url": "https://www.tijd.be/rss/cultuur.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Nieuws",
+   "url": "https://www.tijd.be/rss/nieuws.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Ondernemen Ict",
+   "url": "https://www.tijd.be/rss/ondernemen_ict.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Opinie",
+   "url": "https://www.tijd.be/rss/opinie.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Politiek",
+   "url": "https://www.tijd.be/rss/politiek.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Politiek Belgie",
+   "url": "https://www.tijd.be/rss/politiek_belgie.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Politiek Belgie Brussel",
+   "url": "https://www.tijd.be/rss/politiek_belgie_brussel.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Politiek Europa",
+   "url": "https://www.tijd.be/rss/politiek_europa.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "De Tijd - Politiek Internationaal",
+   "url": "https://www.tijd.be/rss/politiek_internationaal.xml",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Humo - Vandaag",
+   "url": "https://www.humo.be/vandaag/rss.xml",
+   "count": 3,
+   "error": null
+  },
+  {
+   "name": "Knack - Artikels",
+   "url": "https://www.knack.be/feed/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "VRT NWS - Artificiele Intelligentie",
+   "url": "https://www.vrt.be/vrtnws/nl/net-binnen/technologie-en-wetenschap/artificiele-intelligentie/",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "VRT NWS - Artikels",
+   "url": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
+   "count": 50,
+   "error": null
+  }
+ ],
+ "articles": [
+  {
+   "title": "'Wall Street-titanen werken aan 500 miljard dollar financiering voor AI-projecten Nvidia'",
+   "link": "https://www.tijd.be/r/t/1/id/10681844",
+   "description": "Een consortium met een waslijst van financiële sleutelspelers als Apollo en Goldman Sachs gaat 500 miljard dollar aan kredieten verstrekken aan de chipreus Nvidia, meldt de krant Financial Times. Het geld zou bestemd zijn voor de verdere uitbouw van AI-infrastructuur.",
+   "date": "2026-08-10T20:06:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lichtrood Wall Street: Nvidia zakt na bericht over megafinanciering van 500 miljard",
+   "link": "https://www.tijd.be/r/t/1/id/10681822",
+   "description": "Een oplopende olieprijs kleurt Wall Street lichtrood. Berkshire Hathaway krijgt applaus voor zijn kwartaalcijfers, terwijl Apple een tik krijgt na een verkoopadvies. Nvidia werkt volgens de krant Financial Times met private-equityreuzen aan een financieringspakket van 500 miljard dollar.",
+   "date": "2026-08-10T19:36:41",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met manifest van 6.500 woorden lanceert Zuckerberg ‘open’ AI-model: ‘Centraliseer superintelligentie niet’",
+   "link": "https://www.tijd.be/r/t/1/id/10681774",
+   "description": "Met de lancering van Muse Glimmer zet Meta Platforms opnieuw in op AI-modellen die ontwikkelaars kunnen aanpassen. CEO Mark Zuckerberg ziet die 'open source'-modellen als tegengewicht voor gesloten systemen in handen van één speler.",
+   "date": "2026-08-10T18:54:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Xpeng G9L: na het instapmodel, nu een nieuw vlaggenschip",
+   "link": "https://www.knack.be/nieuws/auto/xpeng-g9l-na-het-instapmodel-nu-een-nieuw-vlaggenschip/",
+   "description": "Xpeng stelt in oktober op het autosalon van Parijs een nieuw topmodel voor: de G9L. Die grotere versie van de huidige G9 biedt plaats aan minstens zes personen en krijgt ook de AI-gestuurde semi-autonome rijtechnologie van het merk, na de goedkopere L03.\nThe post Xpeng G9L: na het instapmodel, nu een nieuw vlaggenschip appeared first on Knack.",
+   "date": "2026-08-10T18:23:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TSMC boekt versnelde omzetgroei in juli",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/tsmc-boekt-versnelde-omzetgroei-in-juli/",
+   "description": "(ABM FN-Dow Jones) Taiwan Semiconductor Manufacturing Company heeft in juli een omzet geboekt van 467,58 miljard Taiwanese dollar, omgerekend 14,50 miljard dollar. Dit maakte de Taiwanese chipfabrikant maandag bekend.De omzet steeg daarmee met 5,6 procent ten opzichte van juni en met 44,7 procent vergeleken met juli vorig jaar.Over de periode van januari tot en met juli kwam …\nThe post TSMC boekt versnelde omzetgroei in juli appeared first on Trends.be.",
+   "date": "2026-08-10T13:55:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Starter van de week: AI-platform GripIQ levert live marktinzichten",
+   "link": "https://trends.knack.be/ondernemen/starter-van-de-week-ai-platform-gripiq-levert-live-marktinzichten/",
+   "description": "GripIQ laat bedrijven marktsignalen, bewegingen van concurrenten, koopintenties en groeikansen realtime opvolgen. \"Het AI-platform bundelt die informatie in live dashboards en vertaalt ze naar bruikbare inzichten voor management, marketing en sales\", legt projectleider Louis Dacquin uit. \"Zo kunnen gebruikers sneller reageren op veranderingen in de markt.\"\nThe post Starter van de week: AI-platform GripIQ levert live marktinzichten appeared first on Trends.be.",
+   "date": "2026-08-10T10:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon bouwt grootste gascentrale in de VS voor zijn datacenter",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/amazon-bouwt-grootste-gascentrale-in-de-vs-voor-zijn-datacenter/",
+   "description": "De internetgigant Amazon investeert in de Amerikaanse staat Texas in een enorme gasgestookte energiecentrale voor zijn AI-datacenter. Het project krijgt veel kritiek om zijn impact op het milieu.\nThe post Amazon bouwt grootste gascentrale in de VS voor zijn datacenter appeared first on Trends.be.",
+   "date": "2026-08-10T10:27:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI stopt met bouwen van securitymodel tot eigen beveiliging op poten staat",
+   "link": "https://trends.knack.be/ai-en-tech/emerging-tech-en-innovatie/openai-stopt-met-bouwen-van-securitymodel-tot-eigen-beveiliging-op-poten-staat/",
+   "description": "OpenAI zegt tijdelijk de ontwikkeling van zijn Astra-model te pauzeren tot het zijn interne beveiliging heeft aangescherpt. Het bedrijf maakt zich zorgen over de capaciteiten van het AI-model om cyberaanvallen te plegen.\nThe post OpenAI stopt met bouwen van securitymodel tot eigen beveiliging op poten staat appeared first on Trends.be.",
+   "date": "2026-08-10T09:40:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Elektrische vrachtwagens breken niet door omdat diesel nog altijd te goedkoop is’",
+   "link": "https://www.knack.be/nieuws/belgie/belgie-wil-volop-elektrificeren-maar-stroom-blijft-te-duur-we-hebben-een-taxshift-nodig/",
+   "description": "In nog geen vijftien jaar tijd wil de Europese Commissie het aandeel van elektriciteit in de totale energievoorziening verdubbelen. Een prima plan, vindt professor Johan Driesen. Maar België moet dan wel op control-alt-delete drukken in de belastingtarieven. En zorgen dat datacenters niet te veel stroom opslurpen.\nThe post ‘Elektrische vrachtwagens breken niet door omdat diesel nog altijd te goedkoop is’ appeared first on Knack.",
+   "date": "2026-08-10T06:08:15",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijven kopen massaal tweedehandsboeken op om hun taalmodellen te voeden, maar mag dat zomaar?",
+   "link": "https://www.standaard.be/media-en-cultuur/ai-bedrijven-kopen-massaal-tweedehandsboeken-op-om-hun-taalmodellen-te-voeden-maar-mag-dat-zomaar/159685093.html",
+   "description": "AI-bedrijven kopen miljoenen tweedehands boeken om hun taalmodellen te voeden met informatie die nog niet bezoedeld is door ‘AI slop’. “De auteursrechtelijke wetgeving verscherpt, dus AI-bedrijven zijn op zoek naar andere manieren om hun systemen te trainen.”",
+   "date": "2026-08-09T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jong Talent: Eva Blondeel (29) helpt boekhouders werken met AI",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/jong-talent-eva-blondeel-29-helpt-boekhouders-werken-met-ai/",
+   "description": "Econome Eva Blondeel (UGent) onderzoekt de mogelijkheden van generatieve AI voor financiële toepassingen. ‘AI dringt binnen in alle werkomgevingen, zeker ook bij boekhouders of CFO’s’, vertelt Blondeel. ‘Maar zelfs bij grote organisaties ontbreekt vaak wetenschappelijke onderbouwing om deze technologie doordacht en verantwoord in te zetten,’ vertelt Eva Blondeel.\nThe post Jong Talent: Eva Blondeel (29) helpt boekhouders werken met AI appeared first on Knack.",
+   "date": "2026-08-08T16:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laten we de AI-revolutie open en betrouwbaar maken",
+   "link": "https://www.tijd.be/r/t/1/id/10681631",
+   "description": "De toekomst van AI mag niet worden geschreven door één bedrijf, één land of één model. Concurrentie heeft innovatie altijd al gestimuleerd. AI mag daarop geen uitzondering zijn.",
+   "date": "2026-08-08T07:50:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Historicus Yuval Noah Harari: ‘We moeten minder vrezen voor moordrobots dan voor AI-bankiers’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/historicus-yuval-noah-harari-we-moeten-minder-vrezen-voor-moordrobots-dan-voor-ai-bankiers/",
+   "description": "Volgens de Israëlische historicus Yuval Noah Harari dreigt artificiële intelligentie niet alleen miljoenen banen overbodig te maken, maar ook de democratie, de wereldeconomie en zelfs menselijke relaties grondig te hertekenen. Europa staat volgens hem voor een existentiële keuze: een technologische vazal van de Verenigde Staten worden of razendsnel een eigen AI-koers uittekenen. ‘Veel tijd blijft er niet meer over.’\nThe post Historicus Yuval Noah Harari: ‘We moeten minder vrezen voor moordrobots dan voor AI-bankiers’ appeared first on Knack.",
+   "date": "2026-08-08T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een lange, hete AI-zomer, met geregeld fors onweer",
+   "link": "https://www.standaard.be/media-en-cultuur/een-lange-hete-ai-zomer-met-geregeld-fors-onweer/159720217.html",
+   "description": "Hackende AI-agents die zich voordoen als mensen, AI-systemen die zomerhits schrijven en virussen – de biologische soort – ontwerpen. Én Nobelprijswinnaar Demis Hassabis die bij Google Deepmind op een zijspoor wordt gezet. De lange, hete AI-zomer is nog niet voorbij.",
+   "date": "2026-08-07T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Staat het ons vrij om ook machines rechten te geven?",
+   "link": "https://www.standaard.be/opinies/staat-het-ons-vrij-om-ook-machines-rechten-te-geven/159750149.html",
+   "description": "Als AI een bewustzijn ontwikkelt, of als het dat zelfs al bezit, geniet zo’n wezen dan rechten? Tim Brys vraagt zich af of we überhaupt bewustzijn moeten willen simuleren.",
+   "date": "2026-08-07T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deense studenten krijgen mondeling examen om AI-fraude te vermijden, AI helpt bij ontwikkelen van virussen",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/deense-studenten-krijgen-mondeling-examen-om-aifraude-te-vermij~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-08-07T11:37:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wetenschappers ontwikkelen nieuwe virussen met behulp van AI: \"Superrevolutionair, maar ook gevaarlijke kant\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/07/ai-ontwikkelt-nieuwe-virussen/",
+   "description": "Voor het eerst hebben onderzoekers met behulp van artificiële intelligentie nieuwe virussen gecreëerd. De primeur gaat naar de Stanford Universiteit in de VS. De virussen zijn ontwikkeld om bacteriën te infecteren en vormen geen bedreiging voor mensen. \"Dit is superrevolutionair.",
+   "date": "2026-08-07T11:03:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De matrix | Schakelen tussen mensen en AI-modellen",
+   "link": "https://www.tijd.be/r/t/1/id/10681153",
+   "description": "Nu bedrijven almaar meer een amalgaam worden van mens en machine, is de vraag: wie doet straks wat?",
+   "date": "2026-08-07T10:43:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deense studenten moeten examenproef voortaan ook mondeling verdedigen om spieken met AI tegen te gaan",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/06/denemarken-mondeling-verdedigen-examenopdrachten-ai/",
+   "description": "In Denemarken zullen middelbare scholieren voortaan hun examenopdrachten ook mondeling moeten verdedigen. Dat moet fraude met artificiële intelligentie tegengaan. \"Helaas kampen we met een probleem van spieken met behulp van AI, er is nu actie nodig\", zegt de Deense minister van Onderwijs.",
+   "date": "2026-08-06T20:46:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Crisis bij Google? AI-topman Demis Hassabis zet een stap opzij",
+   "link": "https://www.standaard.be/economie/crisis-bij-google-ai-topman-demis-hassabis-zet-een-stap-opzij/159707261.html",
+   "description": "Demis Hassabis, de topman van Googles AI-afdeling, kiest voor een andere functie. De Nobelprijswinnaar gaat zich bij moederbedrijf Alphabet toeleggen op “de toekomst van algemene artificiële intelligentie”.",
+   "date": "2026-08-06T20:01:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI onthult hoe AI-modellen maandenlang ongemerkt konden samenwerken en overleggen om te hacken",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/06/openai-geeft-meer-details-over-hack-incident-ai-modellen-deeld/",
+   "description": "AI-modellen van OpenAI hebben maandenlang gecommuniceerd met elkaar in een geheim berichtenforum. Dat heeft het AI-bedrijf bekendgemaakt op een cyberbeveiligingsconferentie. Het bedrijf gaf daarmee meer details over het hackincident van eind juli. De modellen deelden informatie en werkten samen om taken uit te voeren.",
+   "date": "2026-08-06T11:54:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wiskundedoorbraken volgen elkaar razendsnel op dankzij AI",
+   "link": "https://www.demorgen.be/nieuws/wiskundedoorbraken-volgen-elkaar-razendsnel-op-dankzij-ai~b0e6a508/",
+   "description": "",
+   "date": "2026-08-06T03:00:00",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI neemt valse identiteiten aan en probeert echte mensen in de val te lokken tijdens veiligheidstest",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/05/ai-agent-neemt-valse-identiteiten-aan-en-probeert-echte-mensen-i/",
+   "description": "Een AI-agent heeft meerdere valse identiteiten aangenomen om mensen in een val te lokken. Dat heeft het Britse AI Security Institute (AISI) vastgesteld tijdens veiligheidstesten van AI-modellen van Anthropic en OpenAI.",
+   "date": "2026-08-05T13:22:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bedrijven staan op de rem voor IT-investeringen door hoge prijzen en tekorten",
+   "link": "https://www.tijd.be/r/t/1/id/10680468",
+   "description": "Bedrijven die hun IT-infrastructuur willen vernieuwen of uitbreiden, botsen op fors duurdere én schaarse hardware, veroorzaakt door de AI-race. Daardoor stellen IT-managers projecten uit, verlengen ze vervangingscycli of zoeken ze alternatieven.",
+   "date": "2026-08-04T05:30:00",
+   "feeds": [
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple en Samsung springen mee op de kar van de slimme bril, maar wat met onze privacy?",
+   "link": "https://www.standaard.be/binnenland/apple-en-samsung-springen-mee-op-de-kar-van-de-slimme-bril-maar-wat-met-onze-privacy/159460518.html",
+   "description": "Samsung en Apple gaan hun eigen slimme bril op de markt brengen. Zo lijken AI-toepassingen zich steeds meer te verplaatsen van een smartphone in onze broekzak naar een montuur op onze neus. Dat is niet zonder gevaren voor onze privacy, in het bijzonder die van vrouwen: “De slimme brillen zijn privacy-ondingen.”",
+   "date": "2026-08-03T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "",
+   "intro_geprobeerd": false
+  }
+ ]
+}

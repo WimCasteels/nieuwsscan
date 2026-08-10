@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI in het nieuws</title>
+<style>
+:root {
+    --paars: #5B3A8C;
+    --diep: #3A2459;
+    --zacht: #9B7DC4;
+    --cream: #F5EFE3;
+    --inkt: #1F1A2E;
+}
+* { box-sizing: border-box; }
+body {
+    background-color: var(--cream);
+    color: var(--inkt);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Arial, sans-serif;
+    margin: 0;
+    padding: 0 20px 60px;
+    line-height: 1.55;
+}
+header {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 44px 0 20px;
+    text-align: center;
+    border-bottom: 2px solid var(--zacht);
+}
+header h1 { color: var(--paars); margin: 0 0 8px; font-size: 2rem; }
+header .subtitle { color: var(--diep); font-size: 1rem; opacity: 0.85; }
+main { max-width: 900px; margin: 0 auto; }
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 24px 0 8px;
+}
+.filters input, .filters select {
+    flex: 1 1 220px;
+    padding: 9px 12px;
+    border: 1px solid var(--zacht);
+    border-radius: 8px;
+    background: #ffffff;
+    color: var(--diep);
+    font-size: 0.95rem;
+    font-family: inherit;
+}
+.filters input:focus, .filters select:focus {
+    outline: 2px solid var(--paars);
+    outline-offset: 1px;
+}
+#teller { font-size: 0.85rem; color: var(--diep); opacity: 0.7; margin-bottom: 8px; }
+.daggroep { margin-top: 28px; }
+.daggroep > h2 {
+    color: var(--paars);
+    font-size: 1rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin: 0 0 4px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--zacht);
+}
+.card {
+    background: #ffffff;
+    border: 1px solid var(--zacht);
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin: 16px 0;
+    box-shadow: 0 2px 6px rgba(91, 58, 140, 0.08);
+}
+.card h3 { margin: 0 0 8px; font-size: 1.15rem; line-height: 1.35; }
+.card h3 a { color: var(--paars); text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; }
+.meta { color: var(--diep); font-size: 0.85rem; opacity: 0.7; margin-bottom: 10px; }
+.badges { margin-bottom: 10px; }
+.badge {
+    display: inline-block;
+    background: var(--zacht);
+    color: #ffffff;
+    border-radius: 12px;
+    padding: 3px 12px;
+    font-size: 0.75rem;
+    margin: 0 6px 4px 0;
+}
+.badge.nieuw { background: var(--paars); letter-spacing: 0.06em; }
+.desc { color: var(--diep); font-size: 0.95rem; margin: 0; }
+.leeg { text-align: center; margin-top: 40px; color: var(--diep); opacity: 0.7; }
+section.overview { margin-top: 54px; }
+section.overview h2 {
+    color: var(--paars);
+    border-bottom: 2px solid var(--zacht);
+    padding-bottom: 8px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    background: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+th, td {
+    text-align: left;
+    padding: 10px 14px;
+    border-bottom: 1px solid #e5ddc8;
+    font-size: 0.9rem;
+    word-break: break-word;
+}
+th { background: var(--paars); color: #ffffff; }
+td a { color: var(--paars); }
+td.fout { color: #7a2f2f; }
+footer {
+    max-width: 900px;
+    margin: 40px auto 0;
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--diep);
+    opacity: 0.6;
+}
+@media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    .card { padding: 16px; }
+}
+</style>
+</head>
+<body>
+<header>
+    <h1>AI in het nieuws</h1>
+    <div class="subtitle">25 artikelen uit de Vlaamse pers van de voorbije maand &middot; 03/08/2026 tot 10/08/2026</div>
+    <div class="subtitle">Laatst bijgewerkt op maandag 10 augustus 2026 &middot; 0 nieuw</div>
+</header>
+<main>
+    <div class="filters">
+        <input id="zoek" type="search" placeholder="Zoek in titels en samenvattingen">
+        <select id="bron"><option value="">Alle bronnen</option><option value="Data News">Data News</option><option value="De Morgen">De Morgen</option><option value="De Standaard">De Standaard</option><option value="De Tijd">De Tijd</option><option value="Knack">Knack</option><option value="VRT NWS">VRT NWS</option></select>
+    </div>
+    <div id="teller"></div>
+
+        <section class="daggroep">
+            <h2>maandag 10 augustus 2026</h2>
+            <article class="card" data-tekst="&#x27;wall street-titanen werken aan 500 miljard dollar financiering voor ai-projecten nvidia&#x27; een consortium met een waslijst van financiële sleutelspelers als apollo en goldman sachs gaat 500 miljard dollar aan kredieten verstrekken aan de chipreus nvidia, meldt de krant financial times. het geld zou bestemd zijn voor de verdere uitbouw van ai-infrastructuur. de tijd - nieuws" data-bronnen="|De Tijd|De Tijd - Nieuws|">
+                <h3><a href="https://www.tijd.be/r/t/1/id/10681844" target="_blank" rel="noopener noreferrer">&#x27;Wall Street-titanen werken aan 500 miljard dollar financiering voor AI-projecten Nvidia&#x27;</a></h3>
+                <div class="meta">10/08/2026 20:06</div>
+                <div class="badges"><span class="badge">De Tijd - Nieuws</span></div>
+                <p class="desc">Een consortium met een waslijst van financiële sleutelspelers als Apollo en Goldman Sachs gaat 500 miljard dollar aan kredieten verstrekken aan de chipreus Nvidia, meldt de krant Financial Times. Het geld zou bestemd zijn voor de verdere uitbouw van AI-infrastructuur.</p>
+            </article>
+            <article class="card" data-tekst="lichtrood wall street: nvidia zakt na bericht over megafinanciering van 500 miljard een oplopende olieprijs kleurt wall street lichtrood. berkshire hathaway krijgt applaus voor zijn kwartaalcijfers, terwijl apple een tik krijgt na een verkoopadvies. nvidia werkt volgens de krant financial times met private-equityreuzen aan een financieringspakket van 500 miljard dollar. de tijd - nieuws" data-bronnen="|De Tijd|De Tijd - Nieuws|">
+                <h3><a href="https://www.tijd.be/r/t/1/id/10681822" target="_blank" rel="noopener noreferrer">Lichtrood Wall Street: Nvidia zakt na bericht over megafinanciering van 500 miljard</a></h3>
+                <div class="meta">10/08/2026 19:36</div>
+                <div class="badges"><span class="badge">De Tijd - Nieuws</span></div>
+                <p class="desc">Een oplopende olieprijs kleurt Wall Street lichtrood. Berkshire Hathaway krijgt applaus voor zijn kwartaalcijfers, terwijl Apple een tik krijgt na een verkoopadvies. Nvidia werkt volgens de krant Financial Times met private-equityreuzen aan een financieringspakket van 500 miljard dollar.</p>
+            </article>
+            <article class="card" data-tekst="met manifest van 6.500 woorden lanceert zuckerberg ‘open’ ai-model: ‘centraliseer superintelligentie niet’ met de lancering van muse glimmer zet meta platforms opnieuw in op ai-modellen die ontwikkelaars kunnen aanpassen. ceo mark zuckerberg ziet die &#x27;open source&#x27;-modellen als tegengewicht voor gesloten systemen in handen van één speler. de tijd - nieuws" data-bronnen="|De Tijd|De Tijd - Nieuws|">
+                <h3><a href="https://www.tijd.be/r/t/1/id/10681774" target="_blank" rel="noopener noreferrer">Met manifest van 6.500 woorden lanceert Zuckerberg ‘open’ AI-model: ‘Centraliseer superintelligentie niet’</a></h3>
+                <div class="meta">10/08/2026 18:54</div>
+                <div class="badges"><span class="badge">De Tijd - Nieuws</span></div>
+                <p class="desc">Met de lancering van Muse Glimmer zet Meta Platforms opnieuw in op AI-modellen die ontwikkelaars kunnen aanpassen. CEO Mark Zuckerberg ziet die &#x27;open source&#x27;-modellen als tegengewicht voor gesloten systemen in handen van één speler.</p>
+            </article>
+            <article class="card" data-tekst="xpeng g9l: na het instapmodel, nu een nieuw vlaggenschip xpeng stelt in oktober op het autosalon van parijs een nieuw topmodel voor: de g9l. die grotere versie van de huidige g9 biedt plaats aan minstens zes personen en krijgt ook de ai-gestuurde semi-autonome rijtechnologie van het merk, na de goedkopere l03.
+the post xpeng g9l: na het instapmodel, nu een nieuw vlaggenschip appeared first on knack. knack - artikels" data-bronnen="|Knack|Knack - Artikels|">
+                <h3><a href="https://www.knack.be/nieuws/auto/xpeng-g9l-na-het-instapmodel-nu-een-nieuw-vlaggenschip/" target="_blank" rel="noopener noreferrer">Xpeng G9L: na het instapmodel, nu een nieuw vlaggenschip</a></h3>
+                <div class="meta">10/08/2026 18:23</div>
+                <div class="badges"><span class="badge">Knack - Artikels</span></div>
+                <p class="desc">Xpeng stelt in oktober op het autosalon van Parijs een nieuw topmodel voor: de G9L. Die grotere versie van de huidige G9 biedt plaats aan minstens zes personen en krijgt ook de AI-gestuurde semi-autonome rijtechnologie van het merk, na de goedkopere L03.
+The post Xpeng G9L: na het instapmodel, nu een nieuw vlaggenschip appeared first on Knack.</p>
+            </article>
+            <article class="card" data-tekst="tsmc boekt versnelde omzetgroei in juli (abm fn-dow jones) taiwan semiconductor manufacturing company heeft in juli een omzet geboekt van 467,58 miljard taiwanese dollar, omgerekend 14,50 miljard dollar. dit maakte de taiwanese chipfabrikant maandag bekend.de omzet steeg daarmee met 5,6 procent ten opzichte van juni en met 44,7 procent vergeleken met juli vorig jaar.over de periode van januari tot en met juli kwam …
+the post tsmc boekt versnelde omzetgroei in juli appeared first on trends.be. data news - artikels" data-bronnen="|Data News|Data News - Artikels|">
+                <h3><a href="https://trends.knack.be/beleggen/beursnieuws/tsmc-boekt-versnelde-omzetgroei-in-juli/" target="_blank" rel="noopener noreferrer">TSMC boekt versnelde omzetgroei in juli</a></h3>
+                <div class="meta">10/08/2026 13:55</div>
+                <div class="badges"><span class="badge">Data News - Artikels</span></div>
+                <p class="desc">(ABM FN-Dow Jones) Taiwan Semiconductor Manufacturing Company heeft in juli een omzet geboekt van 467,58 miljard Taiwanese dollar, omgerekend 14,50 miljard dollar. Dit maakte de Taiwanese chipfabrikant maandag bekend.De omzet steeg daarmee met 5,6 procent ten opzichte van juni en met 44,7 procent vergeleken met juli vorig jaar.Over de periode van januari tot en met juli kwam …
+The post TSMC boekt versnelde omzetgroei in juli appeared first on Trends.be.</p>
+            </article>
+            <article class="card" data-tekst="starter van de week: ai-platform gripiq levert live marktinzichten gripiq laat bedrijven marktsignalen, bewegingen van concurrenten, koopintenties en groeikansen realtime opvolgen. &quot;het ai-platform bundelt die informatie in live dashboards en vertaalt ze naar bruikbare inzichten voor management, marketing en sales&quot;, legt projectleider louis dacquin uit. &quot;zo kunnen gebruikers sneller reageren op veranderingen in de markt.&quot;
+the post starter van de week: ai-platform gripiq levert live marktinzichten appeared first on trends.be. data news - artikels" data-bronnen="|Data News|Data News - Artikels|">
+                <h3><a href="https://trends.knack.be/ondernemen/starter-van-de-week-ai-platform-gripiq-levert-live-marktinzichten/" target="_blank" rel="noopener noreferrer">Starter van de week: AI-platform GripIQ levert live marktinzichten</a></h3>
+                <div class="meta">10/08/2026 10:30</div>
+                <div class="badges"><span class="badge">Data News - Artikels</span></div>
+                <p class="desc">GripIQ laat bedrijven marktsignalen, bewegingen van concurrenten, koopintenties en groeikansen realtime opvolgen. &quot;Het AI-platform bundelt die informatie in live dashboards en vertaalt ze naar bruikbare inzichten voor management, marketing en sales&quot;, legt projectleider Louis Dacquin uit. &quot;Zo kunnen gebruikers sneller reageren op veranderingen in de markt.&quot;
+The post Starter van de week: AI-platform GripIQ levert live marktinzichten appeared first on Trends.be.</p>
+            </article>
+            <article class="card" data-tekst="amazon bouwt grootste gascentrale in de vs voor zijn datacenter de internetgigant amazon investeert in de amerikaanse staat texas in een enorme gasgestookte energiecentrale voor zijn ai-datacenter. het project krijgt veel kritiek om zijn impact op het milieu.
+the post amazon bouwt grootste gascentrale in de vs voor zijn datacenter appeared first on trends.be. data news - artikels" data-bronnen="|Data News|Data News - Artikels|">
+                <h3><a href="https://trends.knack.be/ai-en-tech/technieuws/amazon-bouwt-grootste-gascentrale-in-de-vs-voor-zijn-datacenter/" target="_blank" rel="noopener noreferrer">Amazon bouwt grootste gascentrale in de VS voor zijn datacenter</a></h3>
+                <div class="meta">10/08/2026 10:27</div>
+                <div class="badges"><span class="badge">Data News - Artikels</span></div>
+                <p class="desc">De internetgigant Amazon investeert in de Amerikaanse staat Texas in een enorme gasgestookte energiecentrale voor zijn AI-datacenter. Het project krijgt veel kritiek om zijn impact op het milieu.
+The post Amazon bouwt grootste gascentrale in de VS voor zijn datacenter appeared first on Trends.be.</p>
+            </article>
+            <article class="card" data-tekst="openai stopt met bouwen van securitymodel tot eigen beveiliging op poten staat openai zegt tijdelijk de ontwikkeling van zijn astra-model te pauzeren tot het zijn interne beveiliging heeft aangescherpt. het bedrijf maakt zich zorgen over de capaciteiten van het ai-model om cyberaanvallen te plegen.
+the post openai stopt met bouwen van securitymodel tot eigen beveiliging op poten staat appeared first on trends.be. data news - artikels" data-bronnen="|Data News|Data News - Artikels|">
+                <h3><a href="https://trends.knack.be/ai-en-tech/emerging-tech-en-innovatie/openai-stopt-met-bouwen-van-securitymodel-tot-eigen-beveiliging-op-poten-staat/" target="_blank" rel="noopener noreferrer">OpenAI stopt met bouwen van securitymodel tot eigen beveiliging op poten staat</a></h3>
+                <div class="meta">10/08/2026 09:40</div>
+                <div class="badges"><span class="badge">Data News - Artikels</span></div>
+                <p class="desc">OpenAI zegt tijdelijk de ontwikkeling van zijn Astra-model te pauzeren tot het zijn interne beveiliging heeft aangescherpt. Het bedrijf maakt zich zorgen over de capaciteiten van het AI-model om cyberaanvallen te plegen.
+The post OpenAI stopt met bouwen van securitymodel tot eigen beveiliging op poten staat appeared first on Trends.be.</p>
+            </article>
+            <article class="card" data-tekst="‘elektrische vrachtwagens breken niet door omdat diesel nog altijd te goedkoop is’ in nog geen vijftien jaar tijd wil de europese commissie het aandeel van elektriciteit in de totale energievoorziening verdubbelen. een prima plan, vindt professor johan driesen. maar belgië moet dan wel op control-alt-delete drukken in de belastingtarieven. en zorgen dat datacenters niet te veel stroom opslurpen.
+the post ‘elektrische vrachtwagens breken niet door omdat diesel nog altijd te goedkoop is’ appeared first on knack. knack - artikels" data-bronnen="|Knack|Knack - Artikels|">
+                <h3><a href="https://www.knack.be/nieuws/belgie/belgie-wil-volop-elektrificeren-maar-stroom-blijft-te-duur-we-hebben-een-taxshift-nodig/" target="_blank" rel="noopener noreferrer">‘Elektrische vrachtwagens breken niet door omdat diesel nog altijd te goedkoop is’</a></h3>
+                <div class="meta">10/08/2026 06:08</div>
+                <div class="badges"><span class="badge">Knack - Artikels</span></div>
+                <p class="desc">In nog geen vijftien jaar tijd wil de Europese Commissie het aandeel van elektriciteit in de totale energievoorziening verdubbelen. Een prima plan, vindt professor Johan Driesen. Maar België moet dan wel op control-alt-delete drukken in de belastingtarieven. En zorgen dat datacenters niet te veel stroom opslurpen.
+The post ‘Elektrische vrachtwagens breken niet door omdat diesel nog altijd te goedkoop is’ appeared first on Knack.</p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>zondag 9 augustus 2026</h2>
+            <article class="card" data-tekst="ai-bedrijven kopen massaal tweedehandsboeken op om hun taalmodellen te voeden, maar mag dat zomaar? ai-bedrijven kopen miljoenen tweedehands boeken om hun taalmodellen te voeden met informatie die nog niet bezoedeld is door ‘ai slop’. “de auteursrechtelijke wetgeving verscherpt, dus ai-bedrijven zijn op zoek naar andere manieren om hun systemen te trainen.” de standaard - economie de standaard - cultuur" data-bronnen="|De Standaard|De Standaard - Cultuur|De Standaard - Economie|">
+                <h3><a href="https://www.standaard.be/media-en-cultuur/ai-bedrijven-kopen-massaal-tweedehandsboeken-op-om-hun-taalmodellen-te-voeden-maar-mag-dat-zomaar/159685093.html" target="_blank" rel="noopener noreferrer">AI-bedrijven kopen massaal tweedehandsboeken op om hun taalmodellen te voeden, maar mag dat zomaar?</a></h3>
+                <div class="meta">09/08/2026 23:59</div>
+                <div class="badges"><span class="badge">De Standaard - Economie</span><span class="badge">De Standaard - Cultuur</span></div>
+                <p class="desc">AI-bedrijven kopen miljoenen tweedehands boeken om hun taalmodellen te voeden met informatie die nog niet bezoedeld is door ‘AI slop’. “De auteursrechtelijke wetgeving verscherpt, dus AI-bedrijven zijn op zoek naar andere manieren om hun systemen te trainen.”</p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>zaterdag 8 augustus 2026</h2>
+            <article class="card" data-tekst="jong talent: eva blondeel (29) helpt boekhouders werken met ai econome eva blondeel (ugent) onderzoekt de mogelijkheden van generatieve ai voor financiële toepassingen. ‘ai dringt binnen in alle werkomgevingen, zeker ook bij boekhouders of cfo’s’, vertelt blondeel. ‘maar zelfs bij grote organisaties ontbreekt vaak wetenschappelijke onderbouwing om deze technologie doordacht en verantwoord in te zetten,’ vertelt eva blondeel.
+the post jong talent: eva blondeel (29) helpt boekhouders werken met ai appeared first on knack. knack - artikels" data-bronnen="|Knack|Knack - Artikels|">
+                <h3><a href="https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/jong-talent-eva-blondeel-29-helpt-boekhouders-werken-met-ai/" target="_blank" rel="noopener noreferrer">Jong Talent: Eva Blondeel (29) helpt boekhouders werken met AI</a></h3>
+                <div class="meta">08/08/2026 16:00</div>
+                <div class="badges"><span class="badge">Knack - Artikels</span></div>
+                <p class="desc">Econome Eva Blondeel (UGent) onderzoekt de mogelijkheden van generatieve AI voor financiële toepassingen. ‘AI dringt binnen in alle werkomgevingen, zeker ook bij boekhouders of CFO’s’, vertelt Blondeel. ‘Maar zelfs bij grote organisaties ontbreekt vaak wetenschappelijke onderbouwing om deze technologie doordacht en verantwoord in te zetten,’ vertelt Eva Blondeel.
+The post Jong Talent: Eva Blondeel (29) helpt boekhouders werken met AI appeared first on Knack.</p>
+            </article>
+            <article class="card" data-tekst="laten we de ai-revolutie open en betrouwbaar maken de toekomst van ai mag niet worden geschreven door één bedrijf, één land of één model. concurrentie heeft innovatie altijd al gestimuleerd. ai mag daarop geen uitzondering zijn. de tijd - opinie" data-bronnen="|De Tijd|De Tijd - Opinie|">
+                <h3><a href="https://www.tijd.be/r/t/1/id/10681631" target="_blank" rel="noopener noreferrer">Laten we de AI-revolutie open en betrouwbaar maken</a></h3>
+                <div class="meta">08/08/2026 07:50</div>
+                <div class="badges"><span class="badge">De Tijd - Opinie</span></div>
+                <p class="desc">De toekomst van AI mag niet worden geschreven door één bedrijf, één land of één model. Concurrentie heeft innovatie altijd al gestimuleerd. AI mag daarop geen uitzondering zijn.</p>
+            </article>
+            <article class="card" data-tekst="historicus yuval noah harari: ‘we moeten minder vrezen voor moordrobots dan voor ai-bankiers’ volgens de israëlische historicus yuval noah harari dreigt artificiële intelligentie niet alleen miljoenen banen overbodig te maken, maar ook de democratie, de wereldeconomie en zelfs menselijke relaties grondig te hertekenen. europa staat volgens hem voor een existentiële keuze: een technologische vazal van de verenigde staten worden of razendsnel een eigen ai-koers uittekenen. ‘veel tijd blijft er niet meer over.’
+the post historicus yuval noah harari: ‘we moeten minder vrezen voor moordrobots dan voor ai-bankiers’ appeared first on knack. knack - artikels" data-bronnen="|Knack|Knack - Artikels|">
+                <h3><a href="https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/historicus-yuval-noah-harari-we-moeten-minder-vrezen-voor-moordrobots-dan-voor-ai-bankiers/" target="_blank" rel="noopener noreferrer">Historicus Yuval Noah Harari: ‘We moeten minder vrezen voor moordrobots dan voor AI-bankiers’</a></h3>
+                <div class="meta">08/08/2026 05:00</div>
+                <div class="badges"><span class="badge">Knack - Artikels</span></div>
+                <p class="desc">Volgens de Israëlische historicus Yuval Noah Harari dreigt artificiële intelligentie niet alleen miljoenen banen overbodig te maken, maar ook de democratie, de wereldeconomie en zelfs menselijke relaties grondig te hertekenen. Europa staat volgens hem voor een existentiële keuze: een technologische vazal van de Verenigde Staten worden of razendsnel een eigen AI-koers uittekenen. ‘Veel tijd blijft er niet meer over.’
+The post Historicus Yuval Noah Harari: ‘We moeten minder vrezen voor moordrobots dan voor AI-bankiers’ appeared first on Knack.</p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>vrijdag 7 augustus 2026</h2>
+            <article class="card" data-tekst="een lange, hete ai-zomer, met geregeld fors onweer hackende ai-agents die zich voordoen als mensen, ai-systemen die zomerhits schrijven en virussen – de biologische soort – ontwerpen. én nobelprijswinnaar demis hassabis die bij google deepmind op een zijspoor wordt gezet. de lange, hete ai-zomer is nog niet voorbij. de standaard - cultuur" data-bronnen="|De Standaard|De Standaard - Cultuur|">
+                <h3><a href="https://www.standaard.be/media-en-cultuur/een-lange-hete-ai-zomer-met-geregeld-fors-onweer/159720217.html" target="_blank" rel="noopener noreferrer">Een lange, hete AI-zomer, met geregeld fors onweer</a></h3>
+                <div class="meta">07/08/2026 23:59</div>
+                <div class="badges"><span class="badge">De Standaard - Cultuur</span></div>
+                <p class="desc">Hackende AI-agents die zich voordoen als mensen, AI-systemen die zomerhits schrijven en virussen – de biologische soort – ontwerpen. Én Nobelprijswinnaar Demis Hassabis die bij Google Deepmind op een zijspoor wordt gezet. De lange, hete AI-zomer is nog niet voorbij.</p>
+            </article>
+            <article class="card" data-tekst="staat het ons vrij om ook machines rechten te geven? als ai een bewustzijn ontwikkelt, of als het dat zelfs al bezit, geniet zo’n wezen dan rechten? tim brys vraagt zich af of we überhaupt bewustzijn moeten willen simuleren. de standaard - opinies" data-bronnen="|De Standaard|De Standaard - Opinies|">
+                <h3><a href="https://www.standaard.be/opinies/staat-het-ons-vrij-om-ook-machines-rechten-te-geven/159750149.html" target="_blank" rel="noopener noreferrer">Staat het ons vrij om ook machines rechten te geven?</a></h3>
+                <div class="meta">07/08/2026 23:59</div>
+                <div class="badges"><span class="badge">De Standaard - Opinies</span></div>
+                <p class="desc">Als AI een bewustzijn ontwikkelt, of als het dat zelfs al bezit, geniet zo’n wezen dan rechten? Tim Brys vraagt zich af of we überhaupt bewustzijn moeten willen simuleren.</p>
+            </article>
+            <article class="card" data-tekst="deense studenten krijgen mondeling examen om ai-fraude te vermijden, ai helpt bij ontwikkelen van virussen artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. de ontwikkelingen gaan razendsnel en de risico&#x27;s zijn soms niet voor iedereen meteen duidelijk. volg in deze liveblog al het nieuws over ai. vrt nws - artificiele intelligentie" data-bronnen="|VRT NWS|VRT NWS - Artificiele Intelligentie|">
+                <h3><a href="https://www.vrt.be/vrtnws/nl/liveblog/deense-studenten-krijgen-mondeling-examen-om-aifraude-te-vermij~1776671241366/" target="_blank" rel="noopener noreferrer">Deense studenten krijgen mondeling examen om AI-fraude te vermijden, AI helpt bij ontwikkelen van virussen</a></h3>
+                <div class="meta">07/08/2026 11:37</div>
+                <div class="badges"><span class="badge">VRT NWS - Artificiele Intelligentie</span></div>
+                <p class="desc">Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico&#x27;s zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.</p>
+            </article>
+            <article class="card" data-tekst="wetenschappers ontwikkelen nieuwe virussen met behulp van ai: &quot;superrevolutionair, maar ook gevaarlijke kant&quot; voor het eerst hebben onderzoekers met behulp van artificiële intelligentie nieuwe virussen gecreëerd. de primeur gaat naar de stanford universiteit in de vs. de virussen zijn ontwikkeld om bacteriën te infecteren en vormen geen bedreiging voor mensen. &quot;dit is superrevolutionair. vrt nws - artificiele intelligentie" data-bronnen="|VRT NWS|VRT NWS - Artificiele Intelligentie|">
+                <h3><a href="https://www.vrt.be/vrtnws/nl/2026/08/07/ai-ontwikkelt-nieuwe-virussen/" target="_blank" rel="noopener noreferrer">Wetenschappers ontwikkelen nieuwe virussen met behulp van AI: &quot;Superrevolutionair, maar ook gevaarlijke kant&quot;</a></h3>
+                <div class="meta">07/08/2026 11:03</div>
+                <div class="badges"><span class="badge">VRT NWS - Artificiele Intelligentie</span></div>
+                <p class="desc">Voor het eerst hebben onderzoekers met behulp van artificiële intelligentie nieuwe virussen gecreëerd. De primeur gaat naar de Stanford Universiteit in de VS. De virussen zijn ontwikkeld om bacteriën te infecteren en vormen geen bedreiging voor mensen. &quot;Dit is superrevolutionair.</p>
+            </article>
+            <article class="card" data-tekst="de matrix | schakelen tussen mensen en ai-modellen nu bedrijven almaar meer een amalgaam worden van mens en machine, is de vraag: wie doet straks wat? de tijd - opinie" data-bronnen="|De Tijd|De Tijd - Opinie|">
+                <h3><a href="https://www.tijd.be/r/t/1/id/10681153" target="_blank" rel="noopener noreferrer">De matrix | Schakelen tussen mensen en AI-modellen</a></h3>
+                <div class="meta">07/08/2026 10:43</div>
+                <div class="badges"><span class="badge">De Tijd - Opinie</span></div>
+                <p class="desc">Nu bedrijven almaar meer een amalgaam worden van mens en machine, is de vraag: wie doet straks wat?</p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>donderdag 6 augustus 2026</h2>
+            <article class="card" data-tekst="deense studenten moeten examenproef voortaan ook mondeling verdedigen om spieken met ai tegen te gaan in denemarken zullen middelbare scholieren voortaan hun examenopdrachten ook mondeling moeten verdedigen. dat moet fraude met artificiële intelligentie tegengaan. &quot;helaas kampen we met een probleem van spieken met behulp van ai, er is nu actie nodig&quot;, zegt de deense minister van onderwijs. vrt nws - artificiele intelligentie" data-bronnen="|VRT NWS|VRT NWS - Artificiele Intelligentie|">
+                <h3><a href="https://www.vrt.be/vrtnws/nl/2026/08/06/denemarken-mondeling-verdedigen-examenopdrachten-ai/" target="_blank" rel="noopener noreferrer">Deense studenten moeten examenproef voortaan ook mondeling verdedigen om spieken met AI tegen te gaan</a></h3>
+                <div class="meta">06/08/2026 20:46</div>
+                <div class="badges"><span class="badge">VRT NWS - Artificiele Intelligentie</span></div>
+                <p class="desc">In Denemarken zullen middelbare scholieren voortaan hun examenopdrachten ook mondeling moeten verdedigen. Dat moet fraude met artificiële intelligentie tegengaan. &quot;Helaas kampen we met een probleem van spieken met behulp van AI, er is nu actie nodig&quot;, zegt de Deense minister van Onderwijs.</p>
+            </article>
+            <article class="card" data-tekst="crisis bij google? ai-topman demis hassabis zet een stap opzij demis hassabis, de topman van googles ai-afdeling, kiest voor een andere functie. de nobelprijswinnaar gaat zich bij moederbedrijf alphabet toeleggen op “de toekomst van algemene artificiële intelligentie”. de standaard - economie" data-bronnen="|De Standaard|De Standaard - Economie|">
+                <h3><a href="https://www.standaard.be/economie/crisis-bij-google-ai-topman-demis-hassabis-zet-een-stap-opzij/159707261.html" target="_blank" rel="noopener noreferrer">Crisis bij Google? AI-topman Demis Hassabis zet een stap opzij</a></h3>
+                <div class="meta">06/08/2026 20:01</div>
+                <div class="badges"><span class="badge">De Standaard - Economie</span></div>
+                <p class="desc">Demis Hassabis, de topman van Googles AI-afdeling, kiest voor een andere functie. De Nobelprijswinnaar gaat zich bij moederbedrijf Alphabet toeleggen op “de toekomst van algemene artificiële intelligentie”.</p>
+            </article>
+            <article class="card" data-tekst="openai onthult hoe ai-modellen maandenlang ongemerkt konden samenwerken en overleggen om te hacken ai-modellen van openai hebben maandenlang gecommuniceerd met elkaar in een geheim berichtenforum. dat heeft het ai-bedrijf bekendgemaakt op een cyberbeveiligingsconferentie. het bedrijf gaf daarmee meer details over het hackincident van eind juli. de modellen deelden informatie en werkten samen om taken uit te voeren. vrt nws - artificiele intelligentie" data-bronnen="|VRT NWS|VRT NWS - Artificiele Intelligentie|">
+                <h3><a href="https://www.vrt.be/vrtnws/nl/2026/08/06/openai-geeft-meer-details-over-hack-incident-ai-modellen-deeld/" target="_blank" rel="noopener noreferrer">OpenAI onthult hoe AI-modellen maandenlang ongemerkt konden samenwerken en overleggen om te hacken</a></h3>
+                <div class="meta">06/08/2026 11:54</div>
+                <div class="badges"><span class="badge">VRT NWS - Artificiele Intelligentie</span></div>
+                <p class="desc">AI-modellen van OpenAI hebben maandenlang gecommuniceerd met elkaar in een geheim berichtenforum. Dat heeft het AI-bedrijf bekendgemaakt op een cyberbeveiligingsconferentie. Het bedrijf gaf daarmee meer details over het hackincident van eind juli. De modellen deelden informatie en werkten samen om taken uit te voeren.</p>
+            </article>
+            <article class="card" data-tekst="wiskundedoorbraken volgen elkaar razendsnel op dankzij ai  de morgen - wetenschap" data-bronnen="|De Morgen|De Morgen - Wetenschap|">
+                <h3><a href="https://www.demorgen.be/nieuws/wiskundedoorbraken-volgen-elkaar-razendsnel-op-dankzij-ai~b0e6a508/" target="_blank" rel="noopener noreferrer">Wiskundedoorbraken volgen elkaar razendsnel op dankzij AI</a></h3>
+                <div class="meta">06/08/2026 03:00</div>
+                <div class="badges"><span class="badge">De Morgen - Wetenschap</span></div>
+                <p class="desc"></p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>woensdag 5 augustus 2026</h2>
+            <article class="card" data-tekst="ai neemt valse identiteiten aan en probeert echte mensen in de val te lokken tijdens veiligheidstest een ai-agent heeft meerdere valse identiteiten aangenomen om mensen in een val te lokken. dat heeft het britse ai security institute (aisi) vastgesteld tijdens veiligheidstesten van ai-modellen van anthropic en openai. vrt nws - artificiele intelligentie" data-bronnen="|VRT NWS|VRT NWS - Artificiele Intelligentie|">
+                <h3><a href="https://www.vrt.be/vrtnws/nl/2026/08/05/ai-agent-neemt-valse-identiteiten-aan-en-probeert-echte-mensen-i/" target="_blank" rel="noopener noreferrer">AI neemt valse identiteiten aan en probeert echte mensen in de val te lokken tijdens veiligheidstest</a></h3>
+                <div class="meta">05/08/2026 13:22</div>
+                <div class="badges"><span class="badge">VRT NWS - Artificiele Intelligentie</span></div>
+                <p class="desc">Een AI-agent heeft meerdere valse identiteiten aangenomen om mensen in een val te lokken. Dat heeft het Britse AI Security Institute (AISI) vastgesteld tijdens veiligheidstesten van AI-modellen van Anthropic en OpenAI.</p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>dinsdag 4 augustus 2026</h2>
+            <article class="card" data-tekst="bedrijven staan op de rem voor it-investeringen door hoge prijzen en tekorten bedrijven die hun it-infrastructuur willen vernieuwen of uitbreiden, botsen op fors duurdere én schaarse hardware, veroorzaakt door de ai-race. daardoor stellen it-managers projecten uit, verlengen ze vervangingscycli of zoeken ze alternatieven. de tijd - ondernemen ict" data-bronnen="|De Tijd|De Tijd - Ondernemen Ict|">
+                <h3><a href="https://www.tijd.be/r/t/1/id/10680468" target="_blank" rel="noopener noreferrer">Bedrijven staan op de rem voor IT-investeringen door hoge prijzen en tekorten</a></h3>
+                <div class="meta">04/08/2026 05:30</div>
+                <div class="badges"><span class="badge">De Tijd - Ondernemen Ict</span></div>
+                <p class="desc">Bedrijven die hun IT-infrastructuur willen vernieuwen of uitbreiden, botsen op fors duurdere én schaarse hardware, veroorzaakt door de AI-race. Daardoor stellen IT-managers projecten uit, verlengen ze vervangingscycli of zoeken ze alternatieven.</p>
+            </article>
+        </section>
+        <section class="daggroep">
+            <h2>maandag 3 augustus 2026</h2>
+            <article class="card" data-tekst="apple en samsung springen mee op de kar van de slimme bril, maar wat met onze privacy? samsung en apple gaan hun eigen slimme bril op de markt brengen. zo lijken ai-toepassingen zich steeds meer te verplaatsen van een smartphone in onze broekzak naar een montuur op onze neus. dat is niet zonder gevaren voor onze privacy, in het bijzonder die van vrouwen: “de slimme brillen zijn privacy-ondingen.” de standaard - binnenland" data-bronnen="|De Standaard|De Standaard - Binnenland|">
+                <h3><a href="https://www.standaard.be/binnenland/apple-en-samsung-springen-mee-op-de-kar-van-de-slimme-bril-maar-wat-met-onze-privacy/159460518.html" target="_blank" rel="noopener noreferrer">Apple en Samsung springen mee op de kar van de slimme bril, maar wat met onze privacy?</a></h3>
+                <div class="meta">03/08/2026 23:59</div>
+                <div class="badges"><span class="badge">De Standaard - Binnenland</span></div>
+                <p class="desc">Samsung en Apple gaan hun eigen slimme bril op de markt brengen. Zo lijken AI-toepassingen zich steeds meer te verplaatsen van een smartphone in onze broekzak naar een montuur op onze neus. Dat is niet zonder gevaren voor onze privacy, in het bijzonder die van vrouwen: “De slimme brillen zijn privacy-ondingen.”</p>
+            </article>
+        </section>
+
+    <section class="overview">
+        <h2>Overzicht van alle gescande feeds</h2>
+        <table>
+            <thead>
+                <tr><th>Feed</th><th>URL</th><th>AI-artikelen</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>VRT NWS - Artificiele Intelligentie</td>
+                    <td><a href="https://www.vrt.be/vrtnws/nl/net-binnen/technologie-en-wetenschap/artificiele-intelligentie/" target="_blank" rel="noopener noreferrer">https://www.vrt.be/vrtnws/nl/net-binnen/technologie-en-wetenschap/artificiele-intelligentie/</a></td>
+                    <td>5</td>
+                </tr><tr>
+                    <td>Data News - Artikels</td>
+                    <td><a href="https://trends.knack.be/feed/?host=datanews.knack.be" target="_blank" rel="noopener noreferrer">https://trends.knack.be/feed/?host=datanews.knack.be</a></td>
+                    <td>4</td>
+                </tr><tr>
+                    <td>Knack - Artikels</td>
+                    <td><a href="https://www.knack.be/feed/" target="_blank" rel="noopener noreferrer">https://www.knack.be/feed/</a></td>
+                    <td>4</td>
+                </tr><tr>
+                    <td>De Tijd - Nieuws</td>
+                    <td><a href="https://www.tijd.be/rss/nieuws.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/nieuws.xml</a></td>
+                    <td>3</td>
+                </tr><tr>
+                    <td>De Standaard - Cultuur</td>
+                    <td><a href="https://www.standaard.be/media-en-cultuur/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/media-en-cultuur/rss/</a></td>
+                    <td>2</td>
+                </tr><tr>
+                    <td>De Standaard - Economie</td>
+                    <td><a href="https://www.standaard.be/economie/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/economie/rss/</a></td>
+                    <td>2</td>
+                </tr><tr>
+                    <td>De Tijd - Opinie</td>
+                    <td><a href="https://www.tijd.be/rss/opinie.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/opinie.xml</a></td>
+                    <td>2</td>
+                </tr><tr>
+                    <td>De Morgen - Wetenschap</td>
+                    <td><a href="https://www.demorgen.be/tech-wetenschap/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/tech-wetenschap/rss.xml</a></td>
+                    <td>1</td>
+                </tr><tr>
+                    <td>De Standaard - Binnenland</td>
+                    <td><a href="https://www.standaard.be/binnenland/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/binnenland/rss/</a></td>
+                    <td>1</td>
+                </tr><tr>
+                    <td>De Standaard - Opinies</td>
+                    <td><a href="https://www.standaard.be/opinies/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/opinies/rss/</a></td>
+                    <td>1</td>
+                </tr><tr>
+                    <td>De Tijd - Ondernemen Ict</td>
+                    <td><a href="https://www.tijd.be/rss/ondernemen_ict.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/ondernemen_ict.xml</a></td>
+                    <td>1</td>
+                </tr><tr>
+                    <td>Apache.be - Artikels</td>
+                    <td><a href="https://apache.be/feed/artikels" target="_blank" rel="noopener noreferrer">https://apache.be/feed/artikels</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Best Gelezen</td>
+                    <td><a href="https://www.demorgen.be/popular/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/popular/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Beter Leven</td>
+                    <td><a href="https://www.demorgen.be/beter-leven/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/beter-leven/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Cartoons</td>
+                    <td><a href="https://www.demorgen.be/puzzels-cartoons/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/puzzels-cartoons/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - In Het Nieuws</td>
+                    <td><a href="https://www.demorgen.be/in-het-nieuws/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/in-het-nieuws/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Koken</td>
+                    <td><a href="https://www.demorgen.be/koken-met-de-morgen/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/koken-met-de-morgen/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Luister</td>
+                    <td><a href="https://www.demorgen.be/luister/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/luister/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Meningen</td>
+                    <td><a href="https://www.demorgen.be/meningen/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/meningen/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Oorlog Oekraine</td>
+                    <td><a href="https://www.demorgen.be/oorlog-in-oekraine/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/oorlog-in-oekraine/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Politiek</td>
+                    <td><a href="https://www.demorgen.be/politiek/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/politiek/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Morgen - Sport</td>
+                    <td><a href="https://www.demorgen.be/sport/rss.xml" target="_blank" rel="noopener noreferrer">https://www.demorgen.be/sport/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Standaard - Biz Financiele Markten</td>
+                    <td><a href="https://www.standaard.be/economie/beurs/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/economie/beurs/rss/</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Standaard - Biz Mijn Geld</td>
+                    <td><a href="https://www.standaard.be/economie/geld/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/economie/geld/rss/</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Standaard - Buitenland</td>
+                    <td><a href="https://www.standaard.be/buitenland/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/buitenland/rss/</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Standaard - Sport</td>
+                    <td><a href="https://www.standaard.be/sport/rss/" target="_blank" rel="noopener noreferrer">https://www.standaard.be/sport/rss/</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Tijd - Cultuur</td>
+                    <td><a href="https://www.tijd.be/rss/cultuur.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/cultuur.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Tijd - Politiek</td>
+                    <td><a href="https://www.tijd.be/rss/politiek.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/politiek.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Tijd - Politiek Belgie</td>
+                    <td><a href="https://www.tijd.be/rss/politiek_belgie.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/politiek_belgie.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Tijd - Politiek Belgie Brussel</td>
+                    <td><a href="https://www.tijd.be/rss/politiek_belgie_brussel.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/politiek_belgie_brussel.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Tijd - Politiek Europa</td>
+                    <td><a href="https://www.tijd.be/rss/politiek_europa.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/politiek_europa.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>De Tijd - Politiek Internationaal</td>
+                    <td><a href="https://www.tijd.be/rss/politiek_internationaal.xml" target="_blank" rel="noopener noreferrer">https://www.tijd.be/rss/politiek_internationaal.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>Humo - Vandaag</td>
+                    <td><a href="https://www.humo.be/vandaag/rss.xml" target="_blank" rel="noopener noreferrer">https://www.humo.be/vandaag/rss.xml</a></td>
+                    <td>0</td>
+                </tr><tr>
+                    <td>VRT NWS - Artikels</td>
+                    <td><a href="https://www.vrt.be/vrtnws/nl.rss.articles.xml" target="_blank" rel="noopener noreferrer">https://www.vrt.be/vrtnws/nl.rss.articles.xml</a></td>
+                    <td>0</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</main>
+<footer>Gegenereerd op 10/08/2026 &middot; Het masker van AI</footer>
+<script>
+(function () {
+    var zoek = document.getElementById('zoek');
+    var bron = document.getElementById('bron');
+    var teller = document.getElementById('teller');
+    var kaarten = Array.prototype.slice.call(document.querySelectorAll('.card'));
+    var groepen = Array.prototype.slice.call(document.querySelectorAll('.daggroep'));
+
+    function filter() {
+        var term = zoek.value.trim().toLowerCase();
+        var gekozen = bron.value;
+        var zichtbaar = 0;
+        kaarten.forEach(function (kaart) {
+            var tekstOk = !term || kaart.dataset.tekst.indexOf(term) !== -1;
+            var bronOk = !gekozen || kaart.dataset.bronnen.indexOf('|' + gekozen + '|') !== -1;
+            var toon = tekstOk && bronOk;
+            kaart.hidden = !toon;
+            if (toon) { zichtbaar++; }
+        });
+        groepen.forEach(function (groep) {
+            var open = groep.querySelectorAll('.card:not([hidden])').length;
+            groep.hidden = open === 0;
+        });
+        teller.textContent = zichtbaar + ' van ' + kaarten.length + ' artikelen zichtbaar';
+    }
+
+    zoek.addEventListener('input', filter);
+    bron.addEventListener('change', filter);
+    filter();
+})();
+</script>
+</body>
+</html>

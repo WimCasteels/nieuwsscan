@@ -1,0 +1,55 @@
+name: AI-nieuwsscan
+
+on:
+  schedule:
+    # 01:00 UTC, dus 03:00 in de zomer en 02:00 in de winter. Cron volgt
+    # geen zomertijd. GitHub start geplande runs zelden op de minuut.
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # om het bijgewerkte archief terug te committen
+  pages: write      # om de site te publiceren
+  id-token: write   # vereist door deploy-pages
+
+# Nooit twee scans tegelijk, anders botsen de commits.
+concurrency:
+  group: nieuwsscan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      # Zonder dit staat de runner op UTC en verschuiven alle artikeltijden
+      # twee uur, waardoor nachtelijke artikelen onder de verkeerde dag komen.
+      TZ: Europe/Brussels
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan uitvoeren
+        run: python ai_nieuwsscan.py
+
+      - name: Archief en pagina vastleggen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html ai_artikelen.json
+          git diff --staged --quiet || git commit -m "Nieuwsscan $(date +%F)"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
