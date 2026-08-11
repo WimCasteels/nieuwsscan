@@ -725,9 +725,23 @@ class ExistingPageParser(HTMLParser):
 def load_existing(data_path, html_path):
     """Bestaande artikelen: eerst uit het JSON-bestand, anders gereconstrueerd
     uit de HTML-pagina."""
+    data = None
     if data_path.exists():
-        with open(data_path, encoding="utf-8") as f:
-            data = json.load(f)
+        rauw = data_path.read_text(encoding="utf-8")
+        try:
+            data = json.loads(rauw)
+        except json.JSONDecodeError as e:
+            # Gebeurt als git het archief met conflictmarkeringen heeft
+            # samengevoegd: de bot commit dit bestand en jij ook. Doorgaan met
+            # de pagina is beter dan de hele run laten mislukken.
+            reden = ("het bevat merge-conflictmarkeringen"
+                     if "<<<<<<<" in rauw else str(e))
+            print(f"! {data_path} is onleesbaar ({reden}).", file=sys.stderr)
+            print("  Het archief wordt hersteld uit de bestaande pagina. Artikelen "
+                  "die niet meer op de pagina staan, gaan daarbij verloren.",
+                  file=sys.stderr)
+
+    if data is not None:
         articles = {}
         for art in data.get("articles", []):
             dt = parse_date(art.get("date"))

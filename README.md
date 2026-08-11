@@ -55,6 +55,24 @@ op.
 
 Je kan hem ook met de hand starten via het tabblad Actions.
 
+## Lokaal draaien naast de workflow
+
+De nachtelijke run commit `docs/index.html` en `ai_artikelen.json`. Draai je het
+script ook op je eigen machine, dan wijzigen precies diezelfde twee bestanden,
+en dan botst een `git pull` daarop. Gooi je lokale versie weg voor je haalt,
+want het script bouwt ze toch opnieuw op:
+
+```
+git checkout -- docs/index.html ai_artikelen.json
+git pull
+python ai_nieuwsscan.py
+```
+
+Belandt er toch ooit een half samengevoegd archief in de repo, dan stopt het
+script niet. Het meldt dat het bestand onleesbaar is en herstelt de artikelen
+uit de bestaande pagina. Wat ouder is dan het venster van de pagina, gaat dan
+wel verloren.
+
 ## Aandachtspunten
 
 - Vrt.be verbreekt bij ongeveer vier op de tien verzoeken meteen de

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
- "generated": "2026-08-10T23:36:51",
-=======
- "generated": "2026-08-10T23:04:14",
->>>>>>> 9e6b76d2fdfa819afb8d6e294791b180d6cbcf74
+ "generated": "2026-08-11T09:40:59",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -26,7 +22,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 45,
+   "count": 44,
    "error": null
   },
   {
@@ -38,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -56,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -206,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 145,
+   "count": 137,
    "error": null
   },
   {
@@ -224,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 99,
    "error": null
   },
   {
@@ -253,6 +249,51 @@
   }
  ],
  "articles": [
+  {
+   "title": "Nvidia wil met Amerikaanse investeringsbedrijven half biljoen dollar ophalen",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/nvidia-wil-met-amerikaanse-investeringsbedrijven-half-biljoen-dollar-ophalen-307973/",
+   "description": "Het nieuws vandaag: lees in deze blog een dagelijks overzicht van het belangrijkste financieel-economische nieuws uit binnen- en buitenland. Volg het meest recente beursnieuws hier op ons beursplatform Beleggen Live.\nThe post Nvidia wil met Amerikaanse investeringsbedrijven half biljoen dollar ophalen appeared first on Trends.be.",
+   "date": "2026-08-11T08:23:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Waarom Europa digitale minnaars als Candy AI zou moeten weren’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/waarom-de-europese-ai-act-gezelschaps-apps-als-candy-ai-uit-europa-moet-weren/",
+   "description": "Het verdienmodel van schimmige techbedrijven, die cashen op eenzaamheid, krijgt met de ‘AI-act’ van de Europese Commissie een flinke knauw. Dat is alvast waar StampMedia-journalist Tomek Germis op hoopt.\nThe post ‘Waarom Europa digitale minnaars als Candy AI zou moeten weren’ appeared first on Knack.",
+   "date": "2026-08-11T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ik smeek u, laat AI niet meer in uw plaats schrijven",
+   "link": "https://www.demorgen.be/meningen/ik-smeek-u-laat-ai-niet-meer-in-uw-plaats-schrijven~b29539ca/",
+   "description": "",
+   "date": "2026-08-11T03:01:07",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bizarre nieuwe markt in China: mensen verhuren hun gezicht aan AI-platformen",
+   "link": "https://www.standaard.be/economie/bizarre-nieuwe-markt-in-china-mensen-verhuren-hun-gezicht-aan-ai-platformen/159820096.html",
+   "description": "In China is een vreemd soort markt ontstaan: mensen ‘verhuren’ er hun gezicht aan bedrijven die er AI-gegenereerde microdrama’s, games en advertenties mee maken. Maar dat houdt risico’s in.",
+   "date": "2026-08-10T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-11",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Arthur Mensch, Europese tegenpool van de techbros, gelooft niet in de god van superintelligentie",
    "link": "https://www.nrc.nl/nieuws/2026/08/10/arthur-mensch-europese-tegenpool-van-de-techbros-gelooft-niet-in-de-god-van-superintelligentie-a4933551",
