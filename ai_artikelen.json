@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11T09:43:13",
+ "generated": "2026-08-12T05:22:30",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,13 +16,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 33,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 137,
+   "count": 136,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 99,
+   "count": 100,
    "error": null
   },
   {
@@ -249,6 +249,259 @@
   }
  ],
  "articles": [
+  {
+   "title": "Amerikanen gooien biljoenen dollars tegen datacentra aan, maar wat levert het op? ‘Misschien gaan ze wel over de kop’",
+   "link": "https://www.demorgen.be/tech-ai/amerikanen-gooien-biljoenen-dollars-tegen-datacentra-aan-maar-wat-levert-het-op-misschien-gaan-ze-wel-over-de-kop~b5445169/",
+   "description": "",
+   "date": "2026-08-12T03:00:15",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Enige ethicus bij OpenAI verlaat het bedrijf",
+   "link": "https://www.standaard.be/economie/enige-ethicus-bij-openai-verlaat-het-bedrijf/159884229.html",
+   "description": "Amper een jaar nadat Chloé Bakalar was aangesteld als hoofd ethiek bij OpenAI, stapt ze op. Het is al de derde topper die het bedrijf verlaat op korte tijd.",
+   "date": "2026-08-11T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De wereld heeft er een superhacker bij, nu nog leren hoe we daarmee omgaan",
+   "link": "https://www.standaard.be/opinies/de-wereld-heeft-er-een-superhacker-bij-nu-nog-leren-hoe-we-daarmee-omgaan/159873818.html",
+   "description": "De kooi van OpenAI hield een infiltrerende AI-agent “bijna volledig” tegen, stellen Andres Algaba en Brecht Verbeken vast. Het gevaar zit precies in dat “bijna”.",
+   "date": "2026-08-11T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De VS zijn aan de verliezende hand, militair en economisch",
+   "link": "https://www.standaard.be/opinies/de-vs-zijn-aan-de-verliezende-hand-militair-en-economisch/159873446.html",
+   "description": "Een indrukwekkende AI-investeringsgolf overspoelt de Verenigde Staten. Als je verder kijkt, dan valt vooral de toenemende kaalslag op van het politieke en sociaaleconomische landschap, schrijft Hans Bevers.",
+   "date": "2026-08-11T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen-Group neemt Deens bedrijf volledig over",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/jensen-group-neemt-deens-bedrijf-volledig-over/",
+   "description": "(ABM FN) Jensen-Group neemt het Deense Inwatec ApS volledig over voor 11,7 miljoen euro. Dit meldde de leverancier van toepassingen voor wasserijen dinsdagavond.Het belang van Jensen wordt zo vergroot van de al bestaande 70 naar 100 procent, waarmee de langetermijnstrategie van de groep verder wordt versterkt om automatisering, robotica en door AI aangestuurde innovatie in de …\nThe post Jensen-Group neemt Deens bedrijf volledig over appeared first on Trends.be.",
+   "date": "2026-08-11T23:08:57",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Recordomzet voor CoreWeave",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/recordomzet-voor-coreweave/",
+   "description": "(ABM FN-Dow Jones) CoreWeave heeft in het tweede kwartaal een recordomzet geboekt, terwijl de orderportefeuille steeg naar 104 miljard dollar, wat wijst op de aanhoudend sterke vraag naar rekenkracht voor kunstmatige intelligentie. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse cloudcomputingbedrijf.CoreWeave koopt AI-chips in bij Nvidia, dat een belang heeft in het bedrijf, en …\nThe post Recordomzet voor CoreWeave appeared first on Trends.be.",
+   "date": "2026-08-11T22:51:56",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-ethicus Dennis Vanden Auweele over Zuckerbergs manifest: ‘Superintelligentie zit er nog niet meteen aan te komen’",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/ai-ethicus-dennis-vanden-auweele-over-zuckerbergs-manifest-superintelligentie-zit-er-nog-niet-meteen-aan-te-komen/",
+   "description": "Mark Zuckerberg ziet een toekomst waarin superintelligente artificiële intelligentie voor iedereen beschikbaar is. In een manifest van 6.500 woorden pleit de Meta-topman voor brede toegang tot AI en waarschuwt hij voor een te grote concentratie van macht. Volgens AI-ethicus Dennis Vanden Auweele is die toekomst echter nog lang niet voor morgen. Hij sprak daarover in de studio van Trends Z.\nThe post AI-ethicus Dennis Vanden Auweele over Zuckerbergs manifest: ‘Superintelligentie zit er nog niet meteen aan te komen’ appeared first on Trends.be.",
+   "date": "2026-08-11T22:40:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Super Micro profiteert van AI-hype",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/super-micro-profiteert-van-ai-hype/",
+   "description": "(ABM FN-Dow Jones) Super Micro Computer heeft in het vierde kwartaal van zijn gebroken boekjaar veel hogere resultaten geboekt, terwijl de orderportefeuille naar een recordniveau is gestegen. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse AI-bedrijf.\"Onze strategie voor totaaloplossingen op het gebied van AI en IT blijft sterke resultaten opleveren: we hebben het afgelopen jaar …\nThe post Super Micro profiteert van AI-hype appeared first on Trends.be.",
+   "date": "2026-08-11T22:37:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Stijgende olieprijs duwt Wall Street alsnog de min in",
+   "link": "https://www.tijd.be/r/t/1/id/10681980",
+   "description": "Ondanks winst voor aandelen rond AI-infrastructuur en een sterke beursstart, hielden geopolitieke twijfels en de aanstaande Amerikaanse inflatiecijfers de markt in hun greep.",
+   "date": "2026-08-11T22:11:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Governments are making a dangerous bet on the AI boom",
+   "link": "https://www.nrc.nl/nieuws/2026/08/11/governments-are-making-a-dangerous-bet-on-the-ai-boom-a4934042",
+   "description": "To see why, look to the bond markets.",
+   "date": "2026-08-11T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic zet watermerk in AI-gegenereerde teksten van nieuwe Claude-modellen",
+   "link": "https://tweakers.net/nieuws/250886/anthropic-zet-watermerk-in-ai-gegenereerde-teksten-van-nieuwe-claude-modellen.html",
+   "description": "Anthropic zet onzichtbare watermerken in teksten die nieuwe modellen van zijn AI-bot Claude genereert. Daarmee moet te bewijzen zijn dat teksten niet door mensen zijn geschreven. De Europese Unie schrijft sinds 2 augustus voor dat chatbots, deepfakes en AI-gemaakte teksten herkenbaar zijn als AI.",
+   "date": "2026-08-11T20:47:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gentse unicorn Aikido lanceert Machine met 200 AI-agents",
+   "link": "https://www.tijd.be/r/t/1/id/10681917",
+   "description": "Het Gentse cybersecuritybedrijf Aikido blijft razendsnel groeien, al ging dat vorig jaar nog gepaard met een verlies. De unicorn lanceerde ook een nieuw product: de Aikido Machine. Op die fysieke AI-server zoeken meer dan 200 AI-agents naar kwetsbaarheden.",
+   "date": "2026-08-11T19:59:45",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spotify markeert AI-gegenereerde artiesten vanaf half september met nieuw label",
+   "link": "https://tweakers.net/nieuws/250882/spotify-markeert-ai-gegenereerde-artiesten-vanaf-half-september-met-nieuw-label.html",
+   "description": "Spotify komt met een nieuw label waarmee gebruikers AI-gegenereerde artiesten kunnen herkennen. De badge voor zogeheten AI Personas verschijnt vanaf half september op diverse plekken in Spotify. Dit moet luisteraars duidelijk maken dat er geen echt mens achter bepaalde muziek zit.",
+   "date": "2026-08-11T19:42:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Sony en TSMC slaan handen ineen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/sony-en-tsmc-slaan-handen-ineen/",
+   "description": "(ABM FN-Dow Jones) Sony en TSMC willen een joint venture oprichten voor de productie van beeldsensoren van de volgende generatie smartphones. Dit werd dinsdag bekend.Sony zal ongeveer 465 miljard Japanse yen, wat overeenkomt met 2,92 miljard dollar, inbrengen via een combinatie van contanten en een overdracht van activa. TSMC is van plan ongeveer 282 miljard yen …\nThe post Sony en TSMC slaan handen ineen appeared first on Trends.be.",
+   "date": "2026-08-11T19:23:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spotify voert vanaf september label in voor AI-artiesten",
+   "link": "https://www.standaard.be/media-en-cultuur/spotify-voert-vanaf-september-label-in-voor-ai-artiesten/159898770.html",
+   "description": "Met een nieuw label wil Spotify het duidelijker maken als een artiest met AI gegenereerd is. Volledig fictieve artiesten zullen ook uit de aanbevelingen geweerd worden.",
+   "date": "2026-08-11T17:55:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia brengt aanpasbaar opensource-AI-model uit dat op één gpu draait - update",
+   "link": "https://tweakers.net/nieuws/250878/nvidia-brengt-aanpasbaar-opensource-ai-model-uit-dat-op-een-gpu-draait.html",
+   "description": "Nvidia brengt een opensource-AI-model uit dat aanpasbaar is en lokaal draait op een enkele gpu. De mogelijke aanpassingen die gebruikers en ontwikkelaars kunnen maken, zijn voor het trainen van Nemotron 3.5 Lightning. Daarmee krijgt het bijvoorbeeld een eigen schrijfwijze of programmeerstijl.",
+   "date": "2026-08-11T17:37:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipontwerper Nvidia levert de snelste AI-chips van dit moment. Nu wil het bedrijf 500 miljard dollar ophalen voor nieuwe AI-datacenters. Waarom?",
+   "link": "https://www.nrc.nl/nieuws/2026/08/11/chipontwerper-nvidia-ontpopt-zich-met-nieuw-investeringsvehikel-tot-ai-bankier-op-wall-street-een-nieuwe-beleggingscategorie-a4934263",
+   "description": "Chipontwerper Nvidia richt samen met grote vermogensbeheerders een investeringsfonds op om voor 500 miljard dollar in nieuwe AI-datacenters te steken. Waarom?",
+   "date": "2026-08-11T17:14:39",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spotify gaat aangeven wanneer je naar een AI-artiest luistert",
+   "link": "https://www.nu.nl/tech/6406014/spotify-gaat-aangeven-wanneer-je-naar-een-ai-artiest-luistert.html",
+   "description": "Spotify gaat vanaf halverwege september laten zien wanneer een artiest geen mens, maar (waarschijnlijk) kunstmatige intelligentie is. De streamingdienst neemt muziek van deze zogeheten AI Persona's niet op in afspeellijsten en persoonlijke aanbevelingen.",
+   "date": "2026-08-11T16:07:31",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘De eerste autonome AI-hack is een feit, wie houdt de controle?’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/de-eerste-autonome-ai-hack-is-een-feit-wie-houdt-de-controle/",
+   "description": "‘We hebben nu een concreet voorbeeld van wat AI kan: cyberaanvallen met ongekende snelheid, schaal en coördinatie’, schrijft Wim Casteels. ‘Voorlopig blijft het bij ontsporingen binnen de AI-labs zelf. Maar de onderliggende capaciteiten zitten deels in modellen die vandaag al beschikbaar zijn, en cybercriminelen lezen dezelfde rapporten.’\nThe post ‘De eerste autonome AI-hack is een feit, wie houdt de controle?’ appeared first on Knack.",
+   "date": "2026-08-11T16:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Straat in Essen afgesloten voor test met zelfrijdende oplegger voor Duits bedrijf",
+   "link": "https://vrtnws.be/p.0YJWa93wY",
+   "description": "In Essen is deze week de Duiventorenstraat op bedrijventerrein Rijkmaker afgesloten voor tests met zelfrijdende voertuigen. Het gaat om zogenoemde AGV's, die worden ingezet op bedrijventerreinen en in de logistiek. \"Dankzij de gemeente Essen kunnen we ze in een echte verkeersomgeving testen\", zegt Jens Deckers van bedrijf Actemium Handling Solutions.",
+   "date": "2026-08-11T15:17:19",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is de beursrally breder geworden dan AI? ‘Te vroeg uitstappen is ook ongelijk hebben’",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/is-de-beursrally-breder-geworden-dan-ai-te-vroeg-uitstappen-is-ook-ongelijk-hebben/",
+   "description": "De aandelenmarkten schoten vorige week fors hoger. Technologie en halfgeleiders liepen opnieuw voorop, maar ook banken en klassieke consumentenaandelen kwamen met resultaten die beleggers hoopvol stemden. Verbreedt de beursrally eindelijk, of blijft artificiële intelligentie (AI) alles naar zich toe trekken?\nThe post Is de beursrally breder geworden dan AI? ‘Te vroeg uitstappen is ook ongelijk hebben’ appeared first on Trends.be.",
+   "date": "2026-08-11T14:27:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mark Zuckerberg zegt ‘AI voor iedereen’ te willen en begint met draagbaar model",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/mark-zuckerberg-zegt-ai-voor-iedereen-te-willen-en-begint-met-draagbaar-model/",
+   "description": "Meta Platforms brengt een nieuw, klein model uit dat je kan draaien op een ‘normale’ computer. Muse Glimmer, een gestroomlijnde versie van het eerder uitgebrachte Muse Spark 1.2-model, moet passen in de strategie van CEO Mark Zuckerberg om \"iedereen een persoonlijke AI te geven\".\nThe post Mark Zuckerberg zegt ‘AI voor iedereen’ te willen en begint met draagbaar model appeared first on Trends.be.",
+   "date": "2026-08-11T10:40:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel verhoogt aandelenuitgifte naar 20 miljard",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/intel-verhoogt-aandelenuitgifte-naar-20-miljard/",
+   "description": "(ABM FN-Dow Jones) Intel wil 20 miljard dollar ophalen via een openbare aandelenuitgifte van 210,5 miljoen aandelen, tegen een prijs van 95,00 dollar per aandeel. Dit maakte de Amerikaanse chipfabrikant dinsdag bekend.De omvang van de uitgifte werd verhoogd naar 20 miljard dollar, in plaats van de maandag aangekondigde 15 miljard dollar. De transactie zal naar verwachting …\nThe post Intel verhoogt aandelenuitgifte naar 20 miljard appeared first on Trends.be.",
+   "date": "2026-08-11T10:37:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-12",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Nvidia wil met Amerikaanse investeringsbedrijven half biljoen dollar ophalen",
    "link": "https://trends.knack.be/nieuws/live/trends-live/nvidia-wil-met-amerikaanse-investeringsbedrijven-half-biljoen-dollar-ophalen-307973/",
