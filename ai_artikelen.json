@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T05:22:30",
+ "generated": "2026-08-13T05:25:57",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 27,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 32,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 136,
+   "count": 139,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 93,
    "error": null
   },
   {
@@ -249,6 +249,160 @@
   }
  ],
  "articles": [
+  {
+   "title": "Fotograaf Kaat Pype praat met haar overleden moeder in AI-theaterstuk: “Misschien krijgen we een nieuwe kans om afscheid te nemen”",
+   "link": "https://www.standaard.be/media-en-cultuur/fotograaf-kaat-pype-praat-met-haar-overleden-moeder-in-ai-theaterstuk-misschien-krijgen-we-een-nieuwe-kans-om-afscheid-te-nemen/159790135.html",
+   "description": "In ‘Sonder’ zullen fotograaf Kaat Pype en haar vader het podium delen met een AI-versie van hun overleden moeke. Daarvoor bouwen NTGent en de jonge start-up North Star een van de eerste open spraaksynthesemodellen voor West-Vlaams dialect. “Dankzij AI hebben we het ritme waarop we rouwen meer zelf in de hand.”",
+   "date": "2026-08-12T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belg heeft 10 procent in een van Europa’s waardevolste AI start-ups",
+   "link": "https://www.standaard.be/economie/belg-heeft-10-procent-in-een-van-europas-waardevolste-ai-start-ups/159932023.html",
+   "description": "Het Zweedse AI-bedrijf Lovable, dat nog maar twee jaar oud is, wordt al op 13,3 miljard dollar gewaardeerd. Het Belgische durfkapitaalfonds Hummingbird Ventures bezit er bijna 10 procent van.",
+   "date": "2026-08-12T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cisco overtreft verwachtingen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/cisco-overtreft-verwachtingen/",
+   "description": "(ABM FN-Dow Jones) Cisco Systems heeft de verwachtingen overtroffen door sterke vraag naar AI.Het Amerikaanse bedrijf meldde een aangepaste winst van 1,22 dollar per aandeel, op een omzet van 17,3 miljard dollar in het vierde kwartaal, dat eindigde op 25 juli.Analisten rekenden gemiddeld op 1,17 dollar per aandeel en een omzet van 16,8 miljard dollar, blijkt …\nThe post Cisco overtreft verwachtingen appeared first on Trends.be.",
+   "date": "2026-08-12T22:26:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk blaast SpaceX nieuw leven in met AI-visie, aandeel wint fors",
+   "link": "https://www.tijd.be/r/t/1/id/10682135",
+   "description": "Na weken van koersdruk bevindt het aandeel van SpaceX zich weer in de plus. Beleggers stuwden het aandeel woensdag omhoog, als reactie op uitgelekte details van een interne personeelsbijeenkomst. Daarin verraste CEO Elon Musk met groeicijfers voor Starlink en een miljardenstrategie rondom kunstmatige intelligentie.",
+   "date": "2026-08-12T22:16:29",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers duiken weer massaal in chips: Nasdaq klimt 0,5 procent",
+   "link": "https://www.tijd.be/r/t/1/id/10682138",
+   "description": "De AI-rotatie draait weer op volle toeren op Wall Street. Terwijl chip- en hardwareaandelen massaal omhoogschoten, incasseerde de softwaresector tikken.",
+   "date": "2026-08-12T22:12:02",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TPM-beveiligingschip in Ryzen-cpu's was lek, moederbordmakers brengen fixes uit",
+   "link": "https://tweakers.net/nieuws/250928/tpm-beveiligingschip-in-ryzen-cpus-was-lek-moederbordmakers-brengen-fixes-uit.html",
+   "description": "Er zaten kwetsbaarheden in de virtuele TPM-beveiligingschip in AMD Ryzen-processors. Hierdoor zouden aanvallers de chip, die verplicht is voor iedere Windows 11-installatie, kunnen uitlezen of uitschakelen. Moederbordfabrikanten hebben inmiddels al fixes uitgerold.",
+   "date": "2026-08-12T21:21:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spotify wil af van de hausse aan nummers van slechte kwaliteit en gaat artiesten vragen of ze echte mensen zijn of dat ze door AI zijn gegenereerd",
+   "link": "https://www.nrc.nl/nieuws/2026/08/12/spotify-gaat-artiesten-vragen-of-ze-echte-mensen-zijn-of-gegenereerd-met-ai-a4934330",
+   "description": "Muziekstreamingsdienst Spotify gaat vanaf september AI-artiesten als zodanig labelen. Doel is houvast voor de luisteraar, te midden van een groeiende stroom van AI-materiaal van slechte kwaliteit waar het platform mee te maken heeft.",
+   "date": "2026-08-12T17:37:14",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een AI-Hiroshima dreigt",
+   "link": "https://www.tijd.be/r/t/1/id/10682069",
+   "description": "Na de ontdekking van nucleaire energie was de eerste toepassing de kernbom, niet de kerncentrale. Regelgeving komt zelden proactief. Stevenen we met AI ook eerst af op een ramp voor er duidelijke internationale regels komen?",
+   "date": "2026-08-12T14:37:44",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom AI pauzeren geen goed idee is: het is vijf ná twaalf",
+   "link": "https://trends.knack.be/opinie/waarom-ai-pauzeren-geen-goed-idee-zou-zijn-het-is-vijf-na-twaalf/",
+   "description": "Van een AI-model dat uit z’n voegen treedt en op eigen houtje een volledig bedrijf hackt, tot een opmerkelijke oproep van bijna 1.300 werknemers van AI-bedrijven zoals OpenAI, Anthropic en Google DeepMind om de ontwikkeling van artificiële intelligentie wereldwijd doelbewust te vertragen. De signalen uit de sector worden steeds luider: zelfs de mensen die vandaag de meest geavanceerde AI-systemen bouwen, maken zich zorgen over het tempo waarin de technologie evolueert. Maar die verhalen tonen niet dat we AI moeten afremmen. Ze tonen vooral dat we moeite hebben om het tempo van de technologische vooruitgang bij te houden.\nThe post Waarom AI pauzeren geen goed idee is: het is vijf ná twaalf appeared first on Trends.be.",
+   "date": "2026-08-12T13:37:22",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-artiesten krijgen label op Spotify en worden niet meer aanbevolen",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/12/spotify-ai-label/",
+   "description": "Muziekstreamingdienst Spotify komt vanaf midden september met een label waarmee wordt aangegeven of een artiest met kunstmatige intelligentie (AI) is gegenereerd. Daarnaast weert het platform AI-muziek uit gepersonaliseerde aanbevelingen voor gebruikers.",
+   "date": "2026-08-12T13:01:47",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Is dat een AI-kaassoufflé? Hij oogt zo harig",
+   "link": "https://www.nrc.nl/nieuws/2026/08/12/is-dat-een-ai-kaassouffle-hij-oogt-zo-harig-a4934324",
+   "description": "Mensenwerk of AI, vraagt onze recensent zich af. De kaassoufflé uit ‘Goedenavond Nederland’ liet haar niet los.",
+   "date": "2026-08-12T12:06:10",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-uitgaven drukken winst Tencent",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ai-uitgaven-drukken-winst-tencent/",
+   "description": "(ABM FN-Dow Jones) Tencent heeft in het tweede kwartaal een hogere omzet geboekt dan verwacht, dankzij een versnelling bij de Chinese gametak en AI-gedreven advertentie-inkomsten, maar de kernwinst bleef achter bij de verwachtingen van analisten. Dit bleek woensdag uit cijfers van de Chinese techreus, waarin het in Amsterdam genoteerde Prosus een flink belang heeft.De winstgroei vlakte sterk …\nThe post AI-uitgaven drukken winst Tencent appeared first on Trends.be.",
+   "date": "2026-08-12T11:43:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-artiesten krijgen vanaf september een label op Spotify en worden niet meer aanbevolen",
+   "link": "https://www.demorgen.be/tv-cultuur/ai-artiesten-krijgen-vanaf-september-een-label-op-spotify-en-worden-niet-meer-aanbevolen~be6e8616/",
+   "description": "",
+   "date": "2026-08-12T10:59:00",
+   "feeds": [
+    "De Morgen - Best Gelezen"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Spotify en Anthropic voeren watermerk in voor AI-gegenereerde content",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/spotify-en-anthropic-voeren-watermerk-in-voor-ai-gegenereerde-content/",
+   "description": "Nu de nieuwe regels van de AI Act in voege zijn, beginnen meer bedrijven te werken aan watermerken die aangeven wanneer iets met AI werd gegenereerd.\nThe post Spotify en Anthropic voeren watermerk in voor AI-gegenereerde content appeared first on Trends.be.",
+   "date": "2026-08-12T09:14:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-13",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Amerikanen gooien biljoenen dollars tegen datacentra aan, maar wat levert het op? ‘Misschien gaan ze wel over de kop’",
    "link": "https://www.demorgen.be/tech-ai/amerikanen-gooien-biljoenen-dollars-tegen-datacentra-aan-maar-wat-levert-het-op-misschien-gaan-ze-wel-over-de-kop~b5445169/",
