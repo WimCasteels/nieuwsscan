@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T05:25:57",
+ "generated": "2026-08-14T05:23:27",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 30,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 32,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 35,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 139,
+   "count": 140,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 95,
    "error": null
   },
   {
@@ -249,6 +249,204 @@
   }
  ],
  "articles": [
+  {
+   "title": "Het blauwe versus het digitale goud: Bart Kerremans over ontluikend verzet in de VS tegen de komst van datacenters",
+   "link": "https://www.demorgen.be/meningen/het-blauwe-versus-het-digitale-goud-bart-kerremans-over-ontluikend-verzet-in-de-vs-tegen-de-komst-van-datacenters~bbab77a5/",
+   "description": "",
+   "date": "2026-08-14T03:00:56",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Willen we Zuckerbergs superintelligentie wel? “Het is geen chatbot zoals ChatGPT, maar een systeem dat autonoom kan handelen“",
+   "link": "https://www.standaard.be/economie/willen-we-zuckerbergs-superintelligentie-wel-het-is-geen-chatbot-zoals-chatgpt-maar-een-systeem-dat-autonoom-kan-handelen/159876223.html",
+   "description": "Metabaas Mark Zuckerberg publiceerde maandag een essay over superintelligentie. Daarin lijkt hij de gevaren te negeren. “Dit zou het summum van alle uitvindingen zijn. Maar dat is net een reden om er heel voorzichtig mee te zijn.”",
+   "date": "2026-08-13T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spotify gaat AI-artiesten ontmaskeren met een nieuwe functie",
+   "link": "https://www.trouw.nl/cultuur-media/spotify-gaat-ai-artiesten-ontmaskeren-met-een-nieuwe-functie~bc2d9e75/",
+   "description": "",
+   "date": "2026-08-13T22:00:46",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Streamingdiensten moeten menselijke makers behoeden voor AI-concurrentie",
+   "link": "https://www.trouw.nl/opinie/streamingdiensten-moeten-menselijke-makers-behoeden-voor-ai-concurrentie~b7df4b5d/",
+   "description": "",
+   "date": "2026-08-13T22:00:45",
+   "feeds": [
+    "Trouw - Opinie"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wie draagt de verliezen van een AI-bust?",
+   "link": "https://www.tijd.be/r/t/1/id/10682277",
+   "description": "Nvidia blijft maar nieuwe manieren verzinnen om de vraag naar zijn dure AI-chips op gang te houden. Ditmaal heeft het zes Wall Street-giganten aan boord gehaald om schuldproducten te ontwikkelen met aangekochte chips als onderpand. De verspreiding van de groeiende AI-schulden doet steeds meer vrezen voor een bail-out als het fout loopt.",
+   "date": "2026-08-13T21:50:26",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ruben Van Gucht en Charlotte Van Looy verwelkomen dochter, Acid zocht steun bij ChatGPT",
+   "link": "https://www.standaard.be/media-en-cultuur/ruben-van-gucht-en-charlotte-van-looy-verwelkomen-dochter-acid-zocht-steun-bij-chatgpt/159991181.html",
+   "description": "Wie in BV-land of Hollywood vertoeft, op de rode loper of in de wandelgangen, komt al eens op bezoek in deze rubriek.",
+   "date": "2026-08-13T19:43:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia brengt cloudgamingdienst GeForce NOW officieel uit voor Linux",
+   "link": "https://tweakers.net/nieuws/250952/nvidia-brengt-cloudgamingdienst-geforce-now-officieel-uit-voor-linux.html",
+   "description": "Nvidia heeft de GeForce NOW-client voor Linux officieel uitgebracht. Linux-gebruikers kunnen daarmee games via de cloud naar hun pc streamen. Eerder was alleen een bèta van de Linux-app beschikbaar.",
+   "date": "2026-08-13T17:28:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frank Smets (waarnemend hoofdeconoom BIB): ‘Het optimisme over AI is wat overdreven’",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/frank-smets-waarnemend-hoofdeconoom-bib-het-optimisme-over-ai-is-wat-overdreven/",
+   "description": "De wereldeconomie houdt zich kranig, met dank aan de duizelingwekkende investeringen in infrastructuur voor artificiële intelligentie. \"Maar het risico dat er te veel geïnvesteerd wordt, is groot\", zegt Frank Smets, waarnemend hoofdeconoom van de Bank voor Internationale Betalingen.\nThe post Frank Smets (waarnemend hoofdeconoom BIB): ‘Het optimisme over AI is wat overdreven’ appeared first on Trends.be.",
+   "date": "2026-08-13T15:14:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BNR: illegale gokreclames op platforms Meta gericht op kwetsbare gokkers",
+   "link": "https://nos.nl/l/2626675",
+   "description": "Goksites die illegaal zijn in Nederland adverteren op platformen van Meta met reclames die expliciet gericht zijn op mensen met gokproblemen. Dat blijkt uit onderzoek van BNR. De nieuwszender stelt dat Meta in Nederland mogelijk miljoenen verdient aan deze advertenties.\n        Het werkt als volgt: mensen die willen stoppen met (online) gokken kunnen zich registeren bij Cruks, het Centraal Register Uitsluiting Kansspelen. Op dit moment hebben ruim 120.000 mensen zich aangemeld. Zij krijgen dan voor een bepaalde periode geen toegang tot fysieke vestigingen van casino's en kunnen niet online gokken bij legale casino's.\n        En daar zit de kern van het probleem: als je op Facebook zoekt op termen als 'Cruks', 'geen Cruks' of 'zonder Cruks', krijg je tal van advertenties van illegale internetcasino's onder je neus. Die bieden zogenaamd hoge bonussen en maken gebruik van alternatieve betaalmethoden als Brite en Volt.\n        Die advertenties zouden volgens een vast stramien verlopen, meldt BNR: er wordt beweerd dat Cruks spelers zou beknotten, om hen vervolgens op te roepen om gebruik te maken van de illegale alternatieven.\n        In één van de door BNR gevonden reclames zegt een AI-gegenereerde vrouw: \"Sta je ingeschreven in Cruks en kan je nergens meer spelen? Geen probleem! Internationale casino's kijken niet naar het Nederlandse register. Speel vandaag nog bij betrouwbare casino's zonder Cruks. Bekijk de volledige lijst hier.\"\n        'Meta verdient zeker 10 miljoen euro per jaar'\n        De Facebookaccounts die de advertenties plaatsen, laten met namen als 'Zonder Cruks', 'ZonderCruks' en 'Betrouwbare Spelsites' weinig aan de verbeelding over. Dergelijke advertenties krijgen gebruikers vervolgens ook bij andere Meta-platformen als Instagram en Threads te zien.\n        Adverteren op Facebook kost geld, dus Meta verdient aan de advertenties van deze in Nederland verboden goksites. Het techbedrijf wilde BNR niet vertellen hoeveel er precies verdiend wordt. Volgens schattingen gaat het om minstens tien miljoen euro jaar denken het Keurmerk Verantwoorde Affiliates en de branchevereniging Vergunde Nederlandse Online Kansspelaanbieders (VNLOK).\n        Verslavingsdeskundigen zeggen tegen BNR dat ze zich zorgen maken dat mensen die in Cruks staan geregistreerd, de doelgroep zijn van de gokreclames. Zo kunnen mensen met gokproblemen een sterke drang krijgen om weer te gokken na het zien van zulke advertenties.\n        Meta heeft na vragen van BNR veel reclames uit de advertentiebibliotheek verwijderd. Ook stelt Meta in een schriftelijke reactie dat het \"handhaving serieus neemt\" en dat adverteerders zich aan de geldende wet- en regelgeving moeten houden. De Facebookaccounts 'Zonder Cruks' en 'Betrouwbare Spelsites' zijn offline gehaald.\n        \"Het gaat gewoon niet goed, de online gokmarkt is geëxplodeerd\", zei staatssecretaris Van Bruggen van Justitie en Veiligheid eerder over het toenemende aantal gokverslaafden. Verslavingsdeskundigen waarschuwen al jaren voor het toenemend aantal gokverslaafden, vooral onder jongeren en jongvolwassen en mensen met psychische en gedragsproblemen.\n        Online gokken werd in 2021 gelegaliseerd met als doel de consument beter te beschermen. Maar gokverslaving onder jongeren neemt nog steeds toe. Ook hebben illegale goksites een grotere omzet dan die van de bedrijven met een vergunning. De Kansspelautoriteit, de toezichthouder van de overheid, schat de omvang van de illegale markt op 617 miljoen euro en de legale markt op 600 miljoen euro.\n        Legale gokbedrijven stappen naar rechter\n        Legale gokbedrijven, die een vergunning hebben, zien deze ontwikkeling al langer. Zo werd in juni bekend dat ze naar de rechter zijn gestapt in een poging om Meta te dwingen illegale goksites harder aan te pakken. Ook dienden ze een klacht in bij de Europese Commissie. Die zou te weinig doen om de regels te handhaven die gelden voor online gokken.\n        Meta zou daartoe verplicht zijn volgens de Digital Service Act (DSA), de EU-wetgeving die geldt voor alle online bedrijven die actief zijn in de Europese Unie.\n        Volgens VNLOK haalt Meta alleen de advertenties van illegale goksites offline als die worden gemeld. Achteraf dus, wat VNLOK ziet als \"dweilen met de kraan open\". Meta liet eerder aan de NOS weten dat het kijkt naar verbeteringen om te voorkomen dat illegale gokadvertenties op Facebook en Instagram verschijnen.\n        Eerder dit jaar legde de Kansspelautoriteit een recordboete op van bijna 25 miljoen euro aan gokbedrijf Novatech omdat het illegaal kansspelen aanbood. Novatech is het bedrijf achter de websites Qbet.com en 55Bet.com. Er waren op de sites geen maatregelen getroffen om deelname vanuit Nederland te voorkomen. De boete voor het bedrijf is de hoogste boete die de Kansspelautoriteit ooit heeft uitgedeeld.",
+   "date": "2026-08-13T14:19:03",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel overweegt geheugenchips te maken, mogelijk door cpu en ram te combineren",
+   "link": "https://tweakers.net/nieuws/250942/intel-overweegt-geheugenchips-te-maken-mogelijk-door-cpu-en-ram-te-combineren.html",
+   "description": "Intel overweegt opnieuw geheugen te fabriceren, zegt ceo Lip-Bu Tan. De topman van de chipfabrikant geeft aan dat de geheugenmarkt interessant is voor Intel en dat het bedrijf nieuwe geheugenarchitecturen ontwikkelt. Intel zou onder meer cpu's en ram willen combineren.",
+   "date": "2026-08-13T13:38:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lenovo brengt volgens uitgelekte marketingfoto's MacBook Neo-rivaal uit",
+   "link": "https://tweakers.net/nieuws/250940/lenovo-brengt-volgens-uitgelekte-marketingfotos-macbook-neo-rivaal-uit.html",
+   "description": "Lenovo wil de MacBook Neo beconcurreren met een nieuwe, goedkope laptop met AMD- en Qualcomm-processors, blijkt uit uitgelekte marketingfoto's. De IdeaPad Vibe komt in zeven kleuren en heeft twee USB-A- en twee USB-C-poorten, een HDMI-aansluiting en een hoofdtelefoonaansluiting.",
+   "date": "2026-08-13T13:38:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-starter Lovable haalt 400 miljoen op bij onder meer het Europese Scaleup Fund",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-starter-lovable-haalt-400-miljard-op-bij-onder-meer-het-europese-scaleup-fund/",
+   "description": "Het Zweedse vibecodingbedrijf Lovable wordt na een nieuwe kapitaalsronde gewaardeerd op 13,3 miljard dollar. Het AI-bedrijf is meteen ook een van de eerste bedrijven die geld krijgt van het Scaleup Europe Fund, het nieuwe publiek-private fonds van de Europese Commissie.\nThe post AI-starter Lovable haalt 400 miljoen op bij onder meer het Europese Scaleup Fund appeared first on Trends.be.",
+   "date": "2026-08-13T10:36:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Twitch zet toestemming voor AI-training standaard aan omdat niemand die kiest",
+   "link": "https://tweakers.net/nieuws/250930/twitch-zet-toestemming-voor-ai-training-standaard-aan-omdat-niemand-die-kiest.html",
+   "description": "Amazon gebruikt alle content van Twitch-kanalen om zijn AI-modellen te trainen. Het bedrijf zet toestemming daarvoor automatisch aan. Twitch-streamers die dit niet willen, moeten zelf de toestemming uitschakelen. Amazon zou een deel van de Twitch-content al jaren gebruiken voor AI.",
+   "date": "2026-08-13T10:09:02",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na openhartige video van YouTuber Acid: kan ChatGPT een goede psycholoog zijn?",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/12/na-openhartige-video-van-youtuber-acid-kan-chagpt-een-goede-psy/",
+   "description": "De populaire YouTuber Acid deelde na een maand afwezig te zijn op het platform, weer een video deze week. Daarin vertelt hij dat de reden van zijn radiostilte, zijn mentale gezondheid is. Om dat aan te pakken zocht hij hulp bij ChatGPT. Hij is hier niet alleen in.",
+   "date": "2026-08-13T08:31:16",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic aast op overname start-up Decart voor 6 miljard dollar",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/anthropic-aast-op-overname-startup-decart-voor-6-miljard-dollar~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-08-13T08:15:34",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Belgisch familiebedrijf achter AI-notitieapp Leexi wil big tech verslaan door miljoenen euro’s te weigeren",
+   "link": "https://trends.knack.be/ai-en-tech/belgisch-familiebedrijf-achter-ai-notitieapp-leexi-wil-big-tech-verslaan-door-miljoenen-euros-te-weigeren/",
+   "description": "Een groeiend aantal start-ups wil met notitietools op basis van artificiële intelligentie (AI) een vaste waarde worden in elke vergaderruimte. Zo ook de Brusselse start-up Leexi, een familiebedrijf dat het op eigenzinnige wijze opneemt tegen concurrenten én tegen big tech. \"Ik weigerde vorig jaar alleen al 45 voorstellen van durfkapitaalinvesteerders, waaronder Sequoia Capital.\"\nThe post Belgisch familiebedrijf achter AI-notitieapp Leexi wil big tech verslaan door miljoenen euro’s te weigeren appeared first on Trends.be.",
+   "date": "2026-08-13T07:02:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Pixel-telefoons, AI-labels en Windows-verbeteringen - Tweakers Podcast #439",
+   "link": "https://tweakers.net/video/20508/pixel-telefoons-ai-labels-en-windows-verbeteringen-tweakers-podcast-439.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Jasper Bakker en Dennis de Vries over een onverwachte Lord of the Rings-game, Microsofts belofte om Windows te verbeteren, AI-labels in Spotify, onrust bij Googles Gemini en de nieuwe Pixel 11-serie.",
+   "date": "2026-08-13T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Pixel-telefoons, AI-labels en Windows-verbeteringen - Tweakers Podcast #439",
+   "link": "https://tweakers.net/geek/250914/pixel-telefoons-ai-labels-en-windows-verbeteringen-tweakers-podcast-439.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Jasper Bakker en Dennis de Vries over een onverwachte Lord of the Rings-game, Microsofts belofte om Windows te verbeteren, AI-labels in Spotify, onrust bij Googles Gemini en de nieuwe Pixel 11-serie.",
+   "date": "2026-08-13T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-14",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Fotograaf Kaat Pype praat met haar overleden moeder in AI-theaterstuk: “Misschien krijgen we een nieuwe kans om afscheid te nemen”",
    "link": "https://www.standaard.be/media-en-cultuur/fotograaf-kaat-pype-praat-met-haar-overleden-moeder-in-ai-theaterstuk-misschien-krijgen-we-een-nieuwe-kans-om-afscheid-te-nemen/159790135.html",
