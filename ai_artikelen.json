@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14T05:23:27",
+ "generated": "2026-08-15T04:13:00",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 32,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 32,
+   "count": 28,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 31,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 140,
+   "count": 143,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 100,
    "error": null
   },
   {
@@ -250,14 +250,225 @@
  ],
  "articles": [
   {
+   "title": "Google mag water van Samber niet gebruiken om datacenter te koelen: “De klimaatverandering dringt zich aan ons op”",
+   "link": "https://www.demorgen.be/snelnieuws/google-mag-water-van-samber-niet-gebruiken-om-datacenter-te-koelen-de-klimaatverandering-dringt-zich-aan-ons-op~b77c5680/",
+   "description": "",
+   "date": "2026-08-15T01:52:23",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "'Micromannen' Willy en Gunter klaar voor Dodentocht in Bornem: \"In 4 talen met ChatGPT\"",
+   "link": "https://vrtnws.be/p.vL4AP8eV3",
+   "description": "In de grote tent van de Dodentocht in Bornem hebben ook 'micromannen' Willy De Clercq en Gunter Michiels hun plaats ingenomen. Aanwijzingen waar je bagage kan achterlaten, oproepen om verkeerd geparkeerde wagens te verzetten en - dit jaar vooral - de raad om voldoende water te drinken... doen ze in Bornem weerklinken. \"En dat in 4 talen\", zeggen ze trots.",
+   "date": "2026-08-14T22:09:36",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "MDxHealth vlamt op lichtrood Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10682359",
+   "description": "Nu tenoren als SpaceX en Nvidia het voor één keer lieten afweten, zorgde een van de kleinste van de 3.396 aandelen die het koersenbord van Nasdaq rijk is voor vuurwerk.",
+   "date": "2026-08-14T22:01:15",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Derek Lomas: ‘Ik hoop dat we met positieve AI een nieuwe renaissance kunnen bewerkstelligen’",
+   "link": "https://www.trouw.nl/religie-filosofie/derek-lomas-ik-hoop-dat-we-met-positieve-ai-een-nieuwe-renaissance-kunnen-bewerkstelligen~b4dbb20f/",
+   "description": "",
+   "date": "2026-08-14T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google laat gebruikers zichtbaar watermerk op Gemini-beelden uitschakelen",
+   "link": "https://tweakers.net/nieuws/251000/google-laat-gebruikers-zichtbaar-watermerk-op-gemini-beelden-uitschakelen.html",
+   "description": "Gebruikers kunnen er binnenkort voor kiezen om het zichtbare watermerk te verwijderen bij afbeeldingen en video's die Google Gemini genereert. Ze bevatten nog steeds onzichtbare watermerken.",
+   "date": "2026-08-14T21:12:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceXAI is na miljardenovername eigenaar van AI-programmeertool Cursor",
+   "link": "https://tweakers.net/nieuws/250992/spacexai-is-na-miljardenovername-eigenaar-van-ai-programmeertool-cursor.html",
+   "description": "De AI-programmeertool Cursor is nu officieel onderdeel van SpaceXAI. Dat laatste bedrijf nam Cursor-maker Anysphere onlangs over voor 60 miljard dollar. SpaceXAI wil met de overname de programmeercapaciteiten zijn zijn AI-bot Grok verbeteren.",
+   "date": "2026-08-14T18:58:02",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoelang stuit de AI-race nog op de geheugenmuur?",
+   "link": "https://www.nrc.nl/nieuws/2026/08/14/hoelang-stuit-de-ai-race-nog-op-de-geheugenmuur-a4934424",
+   "description": "Het gebrek aan snelle geheugenchips houdt de AI-sector in de greep. Geld genoeg voor extra datacenters, maar de expansie stuit op een geheugenmuur.",
+   "date": "2026-08-14T18:27:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe Big Tech driftig datacenters bouwt en zijn schulden inventief verbergt",
+   "link": "https://www.nrc.nl/nieuws/2026/08/14/hoe-big-tech-driftig-datacenters-bouwt-en-zijn-schulden-inventief-verbergt-a4934353",
+   "description": "De drang van Big Tech om zo snel mogelijk datacenters te bouwen, vergt zoveel extra geld dat de rijkste techbedrijven moeten lenen. Die schulden worden in toenemende mate creatief verborgen. Beleggers eisen intussen een hogere vergoeding voor het risico dat ze nemen.",
+   "date": "2026-08-14T16:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "X maakt algoritme achter For You-feed openbaar",
+   "link": "https://tweakers.net/nieuws/250986/x-maakt-algoritme-achter-for-you-feed-openbaar.html",
+   "description": "X heeft het algoritme achter de For You-feed openbaar gemaakt. Ook brengt het netwerk een tool uit waarmee gebruikers kunnen zien hoe hun posts het doen binnen die filters. X maakt de laatste jaren steeds meer informatie openbaar over hoe het algoritme werkt.",
+   "date": "2026-08-14T15:29:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: Apple traint AI-model voor Chinese markt",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-apple-traint-ai-model-voor-chinese-markt/",
+   "description": "(ABM FN-Dow Jones) Apple heeft een groot taalmodel specifiek voor de Chinese markt getraind. Dit meldde persbureau Reuters vrijdag op basis van verschillende bronnen. Het AI-model is ontwikkeld in samenwerking met Alibaba, en getraind met de steun van de Chinese techgigant, aldus de ingewijden tegen het persbureau.De werkwijze wijkt af van de gebruikelijke strategie van de iPhone-fabrikant …\nThe post Media: Apple traint AI-model voor Chinese markt appeared first on Trends.be.",
+   "date": "2026-08-14T15:07:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gigabyte brengt ook moederbord met acht jaar oude B450-chipset uit",
+   "link": "https://tweakers.net/nieuws/250984/gigabyte-brengt-ook-moederbord-met-acht-jaar-oude-b450-chipset-uit.html",
+   "description": "Gigabyte brengt een moederbord uit met een B450-chipset. De B450M D3HP is een nieuw moederbord met AM4-socket dat is gebaseerd op de inmiddels acht jaar oude AMD-chipset. Het moederbord biedt ruimte voor DDR4-geheugen. Waarom Gigabyte het moederbord uitbrengt, is niet bekend. Ook de prijs is nog niet bekend.",
+   "date": "2026-08-14T15:06:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek gaat met piek- en dalprijzen werken en verhoogt prijzen tot 355 procent",
+   "link": "https://tweakers.net/nieuws/250982/deepseek-gaat-met-piek-en-dalprijzen-werken-en-verhoogt-prijzen-tot-355-procent.html",
+   "description": "Het Chinese AI-model DeepSeek verhoogt zijn prijzen. Het bedrijf komt met een dynamisch prijsmodel met piek- en dalprijzen. In het slechtste geval, namelijk tijdens piekuren, stijgt de prijs van outputtokens zo'n 355 procent. DeepSeek stond altijd bekend als een van de goedkoopste AI-modellen. Dat blijft het ook met de nieuwe prijzen, al wordt het verschil een stuk kleiner.",
+   "date": "2026-08-14T13:58:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Acid toont aan dat in dialoog gaan al kan helpen. Met een chatbot, of met je oma’",
+   "link": "https://www.knack.be/nieuws/gezondheid/de-catch-22-van-hulp-zoeken/",
+   "description": "Bij alle ophef over de recente video van Acid ging een belangrijke boodschap verloren, vindt expert mentaal welbevinden Daan Gielen: niet bij alle mentale problemen hoef je in therapie te gaan. Soms helpt ook een goed gesprek met je grootmoeder.\nThe post ‘Acid toont aan dat in dialoog gaan al kan helpen. Met een chatbot, of met je oma’ appeared first on Knack.",
+   "date": "2026-08-14T11:55:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nu Acid met een AI-psycholoog praat: verdienen AI-chatbots een plek in de geestelijke gezondheidszorg?",
+   "link": "https://www.knack.be/nieuws/gezondheid/psychologie/verdienen-chatbots-een-plek-in-de-geestelijke-gezondheidszorg-ik-drink-minder-eet-gezonder-en-slaap-beter/",
+   "description": "Stress, eenzaamheid, verdriet: steeds meer mensen praten erover met een AI-chatbot. Zo ook de populaire YouTuber Acid, die donderdag opbiechtte dat hij regelmatig met een AI-psycholoog spreekt. Die is goedkoop, altijd bereikbaar en oordeelt niet. Zijn chatbots een aanvulling op de geestelijke gezondheidszorg? Of houden ze kwetsbare mensen juist langer weg van professionele hulp?\nThe post Nu Acid met een AI-psycholoog praat: verdienen AI-chatbots een plek in de geestelijke gezondheidszorg? appeared first on Knack.",
+   "date": "2026-08-14T11:21:31",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft voegt verschillende Copilot-apps samen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/microsoft-voegt-verschillende-copilot-apps-samen/",
+   "description": "Microsoft gaat zijn consumentgerichte Copilot-app combineren met de meer zakelijke Microsoft 365 Copilot-app. Een en ander moet het gebruik van de chatbots minder ingewikkeld maken.\nThe post Microsoft voegt verschillende Copilot-apps samen appeared first on Trends.be.",
+   "date": "2026-08-14T10:10:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Googles Gemini 3.7 Flash is uit en kan code beter debuggen dan eerdere versie",
+   "link": "https://tweakers.net/nieuws/250972/googles-gemini-37-flash-is-uit-en-kan-code-beter-debuggen-dan-eerdere-versie.html",
+   "description": "Google heeft Gemini 3.7 Flash uitgebracht. Het bedrijf zegt dat het model vooral beter is in het debuggen van code en het oplossen van problemen in codebases. In benchmarks scoort het model vergelijkbaar met Anthropics Claude Sonnet 5, maar Gemini 3.7 Flash heeft lagere tokenprijzen.",
+   "date": "2026-08-14T09:49:03",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft voegt Copilot en Microsoft 365 Copilot samen in één app",
+   "link": "https://tweakers.net/nieuws/250970/microsoft-voegt-copilot-en-microsoft-365-copilot-samen-in-een-app.html",
+   "description": "Microsoft gaat verschillende Copilot-functies in Windows samenvoegen in één app. De Microsoft 365-integratie en de Office-apps worden ondergebracht in een losse app. Persoonlijke en werkaccounts worden ook samengevoegd. Ondertussen verdwijnen er meerdere Copilot-functies, zoals de mogelijkheid om AI-podcasts te maken.",
+   "date": "2026-08-14T08:45:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie dit leest en mens is, is in de minderheid",
+   "link": "https://www.nrc.nl/nieuws/2026/08/14/wie-dit-leest-en-mens-is-is-in-de-minderheid-a4934440",
+   "description": "Sinds kort zijn mensen online in de minderheid. Meer dan de helft van het internetverkeer is afkomstig van robots. En dat betekent dat het verdienmodel van veel bedrijven op de schop moet, want AI-bezoekers leveren geen advertentiegeld op.",
+   "date": "2026-08-14T07:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-15",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Het blauwe versus het digitale goud: Bart Kerremans over ontluikend verzet in de VS tegen de komst van datacenters",
    "link": "https://www.demorgen.be/meningen/het-blauwe-versus-het-digitale-goud-bart-kerremans-over-ontluikend-verzet-in-de-vs-tegen-de-komst-van-datacenters~bbab77a5/",
    "description": "",
    "date": "2026-08-14T03:00:56",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-08-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ondernemer Roland Duchâtelet: ‘Door AI zullen miljoenen jobs sneuvelen. Zeker dokters en leraars moeten zich zorgen maken’",
+   "link": "https://www.demorgen.be/nieuws/ondernemer-roland-duchatelet-door-ai-zullen-miljoenen-jobs-sneuvelen-zeker-dokters-en-leraars-moeten-zich-zorgen-maken~b893ffcb/",
+   "description": "",
+   "date": "2026-08-14T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-08-15",
    "intro_geprobeerd": true
   },
   {
