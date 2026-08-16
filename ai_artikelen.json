@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T04:13:00",
+ "generated": "2026-08-16T04:20:55",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 33,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 143,
+   "count": 141,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 99,
    "error": null
   },
   {
@@ -249,6 +249,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "Video - Custom smartphone-accutest & AMD's AI-event in San Francisco - Tweakers-vlog #27",
+   "link": "https://tweakers.net/video/20512/custom-smartphone-accutest-en-amds-ai-event-in-san-francisco-tweakers-vlog-27.html",
+   "description": "We nemen je in deze Redactievlog mee achter de schermen bij onze gloednieuwe smartphone-accutest, genaamd Tweakbench! Daarna schakelen we over naar Thomas in San Francisco! Hij neemt je mee naar AMD's gigantische 'Advancing AI'-event waar 10.000 developers, partners en ceo Lisa Su samenkwamen om de nieuwste datacenteroplossingen en hardware te bespreken. We sluiten natuurlijk weer af met de antwoorden op jullie kijkersvragen.",
+   "date": "2026-08-15T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT krijgt ook in Europa advertenties, eerst 'niet-gepersonaliseerd'",
+   "link": "https://tweakers.net/nieuws/251008/chatgpt-krijgt-ook-in-europa-advertenties-eerst-niet-gepersonaliseerd.html",
+   "description": "ChatGPT krijgt later deze maand in Nederland en mogelijk België advertenties. Deze komen bij gratis gebruik en bij het goedkoopste abonnement. De advertenties zijn 'in eerste instantie' niet gepersonaliseerd: ze gebruiken onder meer het onderwerp dat gebruikers bespreken met de AI-chatbot.",
+   "date": "2026-08-15T12:07:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic claimt dat nieuw AI-model beter is dan Mythos 5, houdt het intern",
+   "link": "https://tweakers.net/nieuws/251006/anthropic-claimt-dat-nieuw-ai-model-beter-is-dan-mythos-5-houdt-het-intern.html",
+   "description": "Anthropic claimt een nieuw AI-model te hebben ontwikkeld dat 'voor veel taken een aanzienlijke verbetering is' ten opzichte van Mythos 5. Dit stelt het bedrijf in zijn risicorapport van augustus 2026. Anthropic stelt Model 2 niet beschikbaar aan externe partijen, maar gebruikt het wel intern.",
+   "date": "2026-08-15T10:20:02",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | Waarom zou je praten met je kinderen uitbesteden aan AI?",
+   "link": "https://www.nu.nl/tech/6406207/waarom-zou-je-praten-met-je-kinderen-uitbesteden-aan-ai.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer ziet hij hoe kunstmatige intelligentie het gezinsleven probeert binnen te dringen.",
+   "date": "2026-08-15T08:31:25",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De 5 favoriete aandelen van Adrian Daniel (Laiqon): ‘Minder bekende speler die mee profiteert van wereldwijde uitbouw van datacenters’",
+   "link": "https://trends.knack.be/beleggen/adviezen/5-favoriete-aandelen-van-adrian-daniel-laiqo-amazon/",
+   "description": "Welke aandelen, obligaties of fondsen verdienen extra aandacht? In deze rubriek delen marktexperts hun favoriete keuzes.\nThe post De 5 favoriete aandelen van Adrian Daniel (Laiqon): ‘Minder bekende speler die mee profiteert van wereldwijde uitbouw van datacenters’ appeared first on Trends.be.",
+   "date": "2026-08-15T07:27:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Op zoek naar hedendaagse afgoden langs literaire kunstroute in Lo-Reninge: \"Wat vereren we vandaag?\"",
+   "link": "https://vrtnws.be/p.M9XYaa5kZ",
+   "description": "De tweelingzussen Cop – Uschi is schrijfster, Ilke kunstenares – blazen de artistieke wandelroute in het West-Vlaamse Lo-Reninge nieuw leven in. Met kunst en literatuur die vraagtekens zet bij de ‘afgoden’ van onze tijd: geld, schoonheid, macht, algoritmes. Serieuze thema’s om over te mijmeren tijdens een wandeling in een idyllische omgeving.",
+   "date": "2026-08-15T06:04:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Dit zit er achter Tilly Norwood, de AI-actrice die voor ophef zorgt in Hollywood",
+   "link": "https://tweakers.net/reviews/15162/dit-zit-er-achter-tilly-norwood-de-ai-actrice-die-voor-ophef-zorgt-in-hollywood.html",
+   "description": "De AI-actrice Tilly Norwood maakte veel los in Hollywood en in de media. Maar in werkelijkheid lijkt Tilly vooral een succesvolle marketingtool.",
+   "date": "2026-08-15T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Google mag water van Samber niet gebruiken om datacenter te koelen: “De klimaatverandering dringt zich aan ons op”",
    "link": "https://www.demorgen.be/snelnieuws/google-mag-water-van-samber-niet-gebruiken-om-datacenter-te-koelen-de-klimaatverandering-dringt-zich-aan-ons-op~b77c5680/",
