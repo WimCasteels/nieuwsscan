@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T04:20:55",
+ "generated": "2026-08-17T04:19:00",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 33,
+   "count": 23,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 25,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 141,
+   "count": 147,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 99,
+   "count": 96,
    "error": null
   },
   {
@@ -250,6 +250,105 @@
  ],
  "articles": [
   {
+   "title": "Zuid-Korea gaat datacenter bouwen op de zeebodem",
+   "link": "https://www.standaard.be/economie/zuid-korea-gaat-datacenter-bouwen-op-de-zeebodem/160092039.html",
+   "description": "Geen plaats op land voor datacenters? Zuid-Korea bouwt er dan maar een onder water.",
+   "date": "2026-08-16T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI agents lie, cheat and steal. That is putting off users",
+   "link": "https://www.nrc.nl/nieuws/2026/08/16/ai-agents-lie-cheat-and-steal-that-is-putting-off-users-a4934461",
+   "description": "It is time to impose law and order on the frontier.",
+   "date": "2026-08-16T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Omzet van AI-reus Anthropic in jaar tijd verveertienvoudigd’",
+   "link": "https://www.standaard.be/economie/omzet-van-ai-reus-anthropic-in-jaar-tijd-verveertienvoudigd/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-08-16T20:42:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuw Amerikaans datacenter in Amsterdam verbruikt veel meer drinkwater dan de bedoeling is. Overmacht, zegt de bouwer. Anders past het niet",
+   "link": "https://www.nrc.nl/nieuws/2026/08/16/nieuw-amerikaans-datacenter-in-amsterdam-verbruikt-veel-meer-drinkwater-dan-de-bedoeling-is-overmacht-zegt-de-bouwer-anders-past-het-niet-a4934490",
+   "description": "Een nieuw datacenter in Amsterdam-Zuidoost gaat veel meer drinkwater gebruiken dan de norm is. Na discussies over het beroep op de schaarse ruimte, het hoge stroomgebruik en de Amerikaanse uitbaters is het gebruik van drinkwater voor de koeling van datacenters het volgende strijdpunt.",
+   "date": "2026-08-16T18:56:56",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aantal AI-berichten op sociale media stijgt, platforms zien verbod niet zitten",
+   "link": "https://www.nu.nl/tech/6406318/aantal-ai-berichten-op-sociale-media-stijgt-platforms-zien-verbod-niet-zitten.html",
+   "description": "Het aantal door AI gemaakte berichten op sociale media neemt toe. Platforms als YouTube, TikTok en LinkedIn voelen er weinig voor om zulke berichten te verbieden. Wel willen ze duidelijk maken wanneer gebruikers met AI-materiaal te maken hebben.",
+   "date": "2026-08-16T16:55:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van ‘verborgen parels als de Eiffeltoren’ tot uw favoriete pizzapunt: de toekomst van AI-toerisme",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/van-verborgen-parels-als-de-eiffeltoren-tot-uw-favoriete-pizzapunt-de-toekomst-van-ai-toerisme/",
+   "description": "Nu we onze reizen vaker plannen met AI, vrezen experts dat toeristen nog meer naar dezelfde plekken zullen trekken. Of zal het tegenovergestelde gebeuren, en wordt AI-toerisme net hyperindividueel? Want reisgidsen en influencers delen hun favoriete adresjes, maar AI kiest het beste adres voor ú. \nThe post Van ‘verborgen parels als de Eiffeltoren’ tot uw favoriete pizzapunt: de toekomst van AI-toerisme appeared first on Knack.",
+   "date": "2026-08-16T16:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wetenschappers bouwen voor het eerst een virus met behulp van AI. ‘De regels om dit veilig te doen zijn er nog niet’",
+   "link": "https://www.nrc.nl/nieuws/2026/08/16/wetenschappers-bouwen-voor-het-eerst-een-virus-met-behulp-van-ai-de-regels-om-dit-veilig-te-doen-zijn-er-nog-niet-a4934346",
+   "description": "Het is wetenschappers gelukt om een virus te bouwen op basis van een AI-ontwerp. Dat roept fundamentele vragen op over de veiligheid van biotechnologie. Wie heeft toegang tot deze kennis?",
+   "date": "2026-08-16T15:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic legt voor het eerst uit hoe zijn watermerktechnologie werkt",
+   "link": "https://tweakers.net/nieuws/251018/anthropic-legt-voor-het-eerst-uit-hoe-zijn-watermerktechnologie-werkt.html",
+   "description": "Het watermerk dat Claude op teksten zet, heeft geen invloed op de output en kost geen extra tokens, zegt Anthropic. Het systeem werkt vergelijkbaar met andere watermerktechnologieën voor AI, aldus het bedrijf. Anthropic brengt nu voor het eerst gedetailleerde informatie naar buiten brengt over zijn plan om teksten in Claude van een watermerk te voorzien.",
+   "date": "2026-08-16T12:02:47",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Protons AI Paper Trail analyseert wat ChatGPT en Claude over gebruikers weten",
+   "link": "https://tweakers.net/nieuws/251028/protons-ai-paper-trail-analyseert-wat-chatgpt-en-claude-over-gebruikers-weten.html",
+   "description": "Proton heeft een tool uitgebracht waarmee gebruikers kunnen achterhalen wat concurrerende AI-modellen van hen weten. De tool, AI Paper Trail, is in de eerste plaats een marketingtruc om gebruikers naar Lumo over te halen, maar geeft desondanks wel inzicht in wat large language models (llm's) over hun gebruikers weten.",
+   "date": "2026-08-16T11:16:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-17",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Video - Custom smartphone-accutest & AMD's AI-event in San Francisco - Tweakers-vlog #27",
    "link": "https://tweakers.net/video/20512/custom-smartphone-accutest-en-amds-ai-event-in-san-francisco-tweakers-vlog-27.html",
    "description": "We nemen je in deze Redactievlog mee achter de schermen bij onze gloednieuwe smartphone-accutest, genaamd Tweakbench! Daarna schakelen we over naar Thomas in San Francisco! Hij neemt je mee naar AMD's gigantische 'Advancing AI'-event waar 10.000 developers, partners en ceo Lisa Su samenkwamen om de nieuwste datacenteroplossingen en hardware te bespreken. We sluiten natuurlijk weer af met de antwoorden op jullie kijkersvragen.",
@@ -258,6 +357,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-08-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Custom smartphoneaccutest & AMD's AI-event in San Francisco - Tweakers-vlog #27",
+   "link": "https://tweakers.net/video/20512/custom-smartphoneaccutest-en-amds-ai-event-in-san-francisco-tweakers-vlog-27.html",
+   "description": "We nemen je in deze Redactievlog mee achter de schermen bij onze gloednieuwe smartphone-accutest, genaamd Tweakbench! Daarna schakelen we over naar Thomas in San Francisco! Hij neemt je mee naar AMD's gigantische 'Advancing AI'-event waar 10.000 developers, partners en ceo Lisa Su samenkwamen om de nieuwste datacenteroplossingen en hardware te bespreken. We sluiten natuurlijk weer af met de antwoorden op jullie kijkersvragen.",
+   "date": "2026-08-15T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-17",
    "intro_geprobeerd": false
   },
   {
