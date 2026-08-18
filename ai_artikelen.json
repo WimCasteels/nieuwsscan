@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T04:19:00",
+ "generated": "2026-08-18T04:15:22",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,13 +16,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 23,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 25,
+   "count": 30,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 147,
+   "count": 153,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 96,
+   "count": 100,
    "error": null
   },
   {
@@ -249,6 +249,161 @@
   }
  ],
  "articles": [
+  {
+   "title": "Liefdadigheid zal big AI niet redden",
+   "link": "https://www.demorgen.be/meningen/liefdadigheid-zal-big-ai-niet-redden~b4ff2465/",
+   "description": "",
+   "date": "2026-08-18T03:00:10",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Prompt",
+   "link": "https://www.nrc.nl/nieuws/2026/08/18/prompt-a4934650",
+   "description": "Onderweg naar huis van onze jaarlijkse familievakantie. In de auto terug bespreken we de beurs. Vaderlief vertelt trots over zijn meest recente AI-automatisering en hoe die hem…",
+   "date": "2026-08-18T02:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alle teksten van Claude-chatbot krijgen digitaal watermerk, maar niet iedereen is daar blij mee",
+   "link": "https://www.standaard.be/media-en-cultuur/alle-teksten-van-claude-chatbot-krijgen-digitaal-watermerk-maar-niet-iedereen-is-daar-blij-mee/160124882.html",
+   "description": "Als eerste en voorlopig enige van de grote AI-bedrijven zal Anthropic de teksten van zijn AI-model Claude voorzien van een onzichtbaar digitaal watermerk, zoals Europa sinds 2 augustus verplicht. Sommige gebruikers dreigen daardoor hun abonnement op te zeggen.",
+   "date": "2026-08-17T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dario Amodei: de ‘ideologische gek’ die met Anthropic de mensheid wil redden",
+   "link": "https://www.nrc.nl/nieuws/2026/08/17/dario-amodei-de-ideologische-gek-die-met-anthropic-de-mensheid-wil-redden-a4933607",
+   "description": "Anthropic-oprichter Dario Amodei droomt van AI-systemen die klimaatverandering helpen tegengaan, een eind maken aan allerlei ziektes en economische groei aanjagen. Tegelijk schetst hij extreme doemscenario’s: wat als de modellen verkeerd worden ontwikkeld of in verkeerde handen vallen?",
+   "date": "2026-08-17T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Internetforum en bron van AI-modellen Reddit debuteert in S&P 500",
+   "link": "https://www.tijd.be/r/t/1/id/10682503",
+   "description": "Reddit krijgt een plek in de eredivisie van Wall Street. Het internetforum dat ooit bekendstond als een verzameling obscure community's, is nu een van de waardevolste bronnen van menselijke kennis en verdient geld door die kennis te verkopen aan de makers van AI-modellen. Dat is zowel zijn grootste opportuniteit als grootste bedreiging.",
+   "date": "2026-08-17T20:12:56",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bloomberg: kwartaalomzet Anthropic verveertienvoudigt tot 11,5 miljard dollar",
+   "link": "https://tweakers.net/nieuws/251064/bloomberg-kwartaalomzet-anthropic-verveertienvoudigt-tot-11-komma-5-miljard-dollar.html",
+   "description": "De omzet van Anthropic, maker van Claude, is in het tweede kwartaal van dit jaar verveertienvoudigd ten opzichte van dezelfde periode een jaar eerder. Dat stelt Bloomberg op basis van documenten die het heeft ingezien.",
+   "date": "2026-08-17T15:57:32",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: ArgenX smaakmaker in Brussel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-argenx-smaakmaker-in-brussel/",
+   "description": "(ABM FN) De Brusselse beurs stond maandag ruim hoger, dankzij een koerssprong voor ArgenX na goed onderzoeksnieuws en positief sentiment over de halfgeleidersector. Rond de klok van twee uur noteerde de Bel20-index 1,3 procent hoger op 5.736,98 punten.Beleggers bleven verder voorzichtig, terwijl de olieprijs hoog bleef en de impasse tussen de VS en Iran in het Midden-Oosten …\nThe post Beursupdate: ArgenX smaakmaker in Brussel appeared first on Trends.be.",
+   "date": "2026-08-17T14:20:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel brengt Nova Lake eerst naar desktops, datacenters volgen later",
+   "link": "https://tweakers.net/nieuws/251056/intel-brengt-nova-lake-eerst-naar-desktops-datacenters-volgen-later.html",
+   "description": "De nieuwe Nova Lake-cpu-architectuur komt als eerste naar desktops en pas daarna naar datacenters. Dat zegt Robert Hallock, vicepresident en general manager van de Enthusiast Channel Business bij Intel, in gesprek met Tom's Hardware.",
+   "date": "2026-08-17T14:19:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Linux-kernel 7.2 ondersteunt Apple M3-apparaten",
+   "link": "https://tweakers.net/nieuws/251054/linux-kernel-72-ondersteunt-apple-m3-apparaten.html",
+   "description": "Linux-kernel 7.2 is uit. Deze nieuwe versie introduceert onder meer ondersteuning voor de Apple M3-chip. Ook bevat de kernel Cache Aware Scheduling, die ervoor zorgt dat de kernel beter kan omgaan met data in caches op chips als AMD EPYC 5 en Intel Xeon 6.",
+   "date": "2026-08-17T13:50:55",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-tools vinden zoveel Exchange-bugs dat Microsoft grote update niet afkrijgt",
+   "link": "https://tweakers.net/nieuws/251044/ai-tools-vinden-zoveel-exchange-bugs-dat-microsoft-grote-update-niet-afkrijgt.html",
+   "description": "Microsoft stelt een grote update voor Exchange uit omdat de met AI gevonden beveiligingsgaten in die serversoftware veel werk vergen. De cumulatieve update voor de Subscription Edition van Exchange Server komt later. Het bedrijf noemt geen streefperiode meer voor de release van die update.",
+   "date": "2026-08-17T11:31:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Data-analyseplatform Databricks is na nieuwe ronde 190 miljard dollar waard",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/data-analyseplatform-databricks-is-na-nieuwe-ronde-190-miljard-dollar-waard/",
+   "description": "AI-bedrijf Databricks heeft in een nieuwe ronde 5 miljard dollar opgehaald. Het Amerikaanse bedrijf, dat een platform maakt voor databeheer en -analyse, zegt jaar op jaar met 80% te zijn gegroeid.\nThe post Data-analyseplatform Databricks is na nieuwe ronde 190 miljard dollar waard appeared first on Trends.be.",
+   "date": "2026-08-17T10:41:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia overweegt miljardeninvestering in bouwer van OpenAI-datacenter",
+   "link": "https://tweakers.net/nieuws/251040/nvidia-overweegt-miljardeninvestering-in-bouwer-van-openai-datacenter.html",
+   "description": "Nvidia overweegt 3 miljard dollar te investeren in SB Energy. Dat is een Amerikaans bedrijf dat datacenters en energiecentrales bouwt. SB Energy moet bijvoorbeeld een gepland datacenterproject van OpenAI in Ohio gaan ontwikkelen, waar Nvidia naar verluidt garant voor wil staan.",
+   "date": "2026-08-17T10:06:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Equinix gaat datacenter bouwen dat 1,1 miljard liter drinkwater gaat verbruiken",
+   "link": "https://tweakers.net/nieuws/251038/equinix-gaat-datacenter-bouwen-dat-1-komma-1-miljard-liter-drinkwater-gaat-verbruiken.html",
+   "description": "Een nieuw datacenter in Amsterdam-Zuidoost van het Amerikaanse Equinix gaat jaarlijks 1,1 miljard liter drinkwater gebruiken om servers mee te koelen. Daarmee is de waterefficiëntie veel lager dan de datacenterbranche eerder beloofd had. Maar alternatieven passen niet in het ontwerp van het gebouw, stelt het bedrijf.",
+   "date": "2026-08-17T09:21:26",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursblog: een futuresmarkt voor AI-rekenkracht",
+   "link": "https://trends.knack.be/beleggen/adviezen/beursblog-een-futuresmarkt-voor-ai-rekenkracht-wtf/",
+   "description": "De creativiteit van de financiële sector is onuitputtelijk. Die maakt van de meest verrassende dingen een beleggingsproduct. Zo kunnen we binnenkort beleggen in AI-rekenkracht.\nThe post Beursblog: een futuresmarkt voor AI-rekenkracht appeared first on Trends.be.",
+   "date": "2026-08-17T07:02:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-18",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Zuid-Korea gaat datacenter bouwen op de zeebodem",
    "link": "https://www.standaard.be/economie/zuid-korea-gaat-datacenter-bouwen-op-de-zeebodem/160092039.html",
