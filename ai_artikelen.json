@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T04:15:22",
+ "generated": "2026-08-19T04:17:38",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 153,
+   "count": 148,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 98,
    "error": null
   },
   {
@@ -250,6 +250,260 @@
  ],
  "articles": [
   {
+   "title": "In ‘AI confidential’ vertelt Hannah Fry échte verhalen over de impact van artificiële intelligentie ★★★★☆",
+   "link": "https://www.standaard.be/media-en-cultuur/in-ai-confidential-vertelt-hannah-fry-echte-verhalen-over-de-impact-van-artificiele-intelligentie/160129286.html",
+   "description": "De discussie over de gevaren van AI wordt vaak op een theoretische manier gevoerd. Wiskundige Hannah Fry maakt de gevolgen tastbaar.",
+   "date": "2026-08-18T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Brad Pitt pleit nu voor AI in films: maakt Hollywood een bocht?",
+   "link": "https://www.standaard.be/media-en-cultuur/ook-brad-pitt-pleit-nu-voor-ai-in-films-maakt-hollywood-een-bocht/159968950.html",
+   "description": "In Hollywood leek de angst voor AI de afgelopen jaren diep te zitten. Maar steeds meer grote namen breken een lans voor de technologie. De redenering van Brad Pitt en co.: films die nu niet eens gemaakt worden omdat grote studio’s het risico te groot vinden, zouden dankzij AI wél financieel haalbaar worden.",
+   "date": "2026-08-18T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Ontslagen Oekraïense defensieminister roept op tot verkiezingen • Chip van Amerikaans bedrijf Nvidia teruggevonden in nieuwe Russische kruisraket",
+   "link": "https://www.demorgen.be/oorlog-in-oekraine/live-ontslagen-oekraiense-defensieminister-roept-op-tot-verkiezingen-chip-van-amerikaans-bedrijf-nvidia-teruggevonden-in-nieuwe-russische-kruisraket~b38bed0a/",
+   "description": "",
+   "date": "2026-08-18T22:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Oorlog Oekraine"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Dreigende monsterboete van 200 miljard voert druk op Meta op om algoritmes aan te passen",
+   "link": "https://www.standaard.be/media-en-cultuur/dreigende-monsterboete-van-200-miljard-voert-druk-op-meta-op-om-algoritmes-aan-te-passen/160158708.html",
+   "description": "Meta moet zich alweer voor de rechtbank verdedigen omdat het met zijn apps jongeren bewust zou schaden. De klagers mikken op een gigaboete van 200 miljard dollar. Tegelijk neemt de druk op het bedrijf toe om zijn algoritmes ingrijpend te veranderen.",
+   "date": "2026-08-18T21:40:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen sluiten lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-lager-14/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa zijn dinsdag lager gesloten, nadat de olieprijs en de obligatierentes opliepen. De chipindustrie was uit de gratie.De Stoxx Europe 600 daalde 0,6 procent tot 652,27 punten en de Duitse DAX verloor 0,7 procent op 26.151,69 punten. De Franse CAC 40 sloot 0,7 procent lager op 8.518,23 punten en de …\nThe post Europese beurzen sluiten lager appeared first on Trends.be.",
+   "date": "2026-08-18T19:05:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT krijgt aparte modus voor tieners met strengere veiligheidsmaatregelen",
+   "link": "https://tweakers.net/nieuws/251112/chatgpt-krijgt-aparte-modus-voor-tieners-met-strengere-veiligheidsmaatregelen.html",
+   "description": "OpenAI brengt wereldwijd een modus van ChatGPT uit die bedoeld is voor minderjarigen. Deze heeft strengere veiligheidssystemen, belooft het bedrijf. Zo moet ChatGPT tieners 'minder blootstellen' aan schadelijke of ongepaste onderwerpen, zoals geweld.",
+   "date": "2026-08-18T17:59:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google koopt data van failliete luchtvaartmaatschappij Spirit Airlines om AI te trainen",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/google-koopt-data-van-failliete-luchtvaartmaatschappij-spirit-ai~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-08-18T16:03:07",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "ChatGPT rolt versie voor tieners uit",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/18/chatgpt-versie-voor-tieners/",
+   "description": "OpenAI, het Amerikaanse bedrijf achter ChatGPT, rolt een versie van zijn chatbot met kunstmatige intelligentie (AI) uit voor tieners. Die combineert uitgebreidere controlemogelijkheden voor ouders met bijkomende veiligheidsmaatregelen om een evenwichtig gebruik te bevorderen, zegt het bedrijf.",
+   "date": "2026-08-18T15:20:32",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "ChatGPT rolt versie voor tieners uit",
+   "link": "https://vrtnws.be/p.0YJbVv16E",
+   "description": "OpenAI, het Amerikaanse bedrijf achter ChatGPT, rolt een versie van zijn chatbot met kunstmatige intelligentie (AI) uit voor tieners. Die combineert uitgebreidere controlemogelijkheden voor ouders met bijkomende veiligheidsmaatregelen om een evenwichtig gebruik te bevorderen, zegt het bedrijf. Al wil het bedrijf natuurlijk ook zijn product bij een nog breder publiek krijgen.",
+   "date": "2026-08-18T15:20:32",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Krachtige Amerikaanse AI-chip van Nvidia gevonden in Russische kruisraket, ondanks sancties",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/18/amerikaanse-chip-van-nvidea-teruggevonden-in-nieuwe-raketten-van/",
+   "description": "De Oekraïense militaire inlichtingendienst zegt dat ze een Amerikaanse chip van hardwarebedrijf Nvidia hebben teruggevonden in de resten van een nieuwe Russische kruisraket. Daardoor heeft de raket een kleine, krachtige computer met artificiële intelligentie aan boord om onderweg camerabeelden te analyseren.",
+   "date": "2026-08-18T15:15:10",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Krachtige Amerikaanse AI-chip van Nvidia gevonden in Russische kruisraket, ondanks sancties",
+   "link": "https://vrtnws.be/p.dLyMk486m",
+   "description": "De Oekraïense militaire inlichtingendienst zegt dat ze een Amerikaanse chip van hardwarebedrijf Nvidia hebben teruggevonden in de resten van een nieuwe Russische kruisraket. Daardoor heeft de raket een kleine, krachtige computer met artificiële intelligentie aan boord om onderweg camerabeelden te analyseren. Ondanks de sancties slaagt Rusland er nog altijd in om Amerikaanse technologie te bemachtigen.",
+   "date": "2026-08-18T15:15:10",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street koerst af op lagere opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-koerst-af-op-lagere-opening-5/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, mede onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.Futures op de toonaangevende S&P 500 index noteerden een half uur voor de opening 0,5 …\nThe post Wall Street koerst af op lagere opening appeared first on Trends.be.",
+   "date": "2026-08-18T14:59:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: Intel gaat ook laptopchips uitbrengen die concurreren met AMD X3D-cpu's",
+   "link": "https://tweakers.net/nieuws/251098/gerucht-intel-gaat-ook-laptopchips-uitbrengen-die-concurreren-met-amd-x3d-cpus.html",
+   "description": "Intel gaat ook laptopprocessors uitbrengen die concurreren met AMD's populaire X3D-cpu's. Dat claimt de bekende leaker Jaykihn0. Dat soort processors krijgen extra cache en presteren daarmee een stuk beter in games. Wanneer Intels laptopchips uitkomen, is nog niet bekend.",
+   "date": "2026-08-18T13:39:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Megarechtszaak tegen Meta in de VS begint: maakt het bedrijf jongeren bewust verslaafd?",
+   "link": "https://nos.nl/l/2627352",
+   "description": "Vandaag start in Californië een grote rechtszaak van bijna dertig Amerikaanse staten tegen Meta, het moederbedrijf van Facebook en Instagram. Het techbedrijf maakt jongeren volgens de staten bewust verslaafd aan deze sociale media en gebruikt daarvoor tactieken waardoor zij zo veel mogelijk tijd doorbrengen op de platforms.\n        Door dat te doen heeft Meta bijgedragen aan een verslechterde mentale en fysieke gezondheid van jongeren en overtreedt het bedrijf de wet, stellen de staten.\n        Zij zeggen ook dat Meta gegevens van kinderen onder de 13 jaar verzamelt op de platforms, terwijl dat bij wet verboden is in de VS. De zaak werd in 2023 aangespannen en wordt aangevoerd door Californië, Kentucky, Colorado en New Jersey.\n        Niet meer 'eindeloos scrollen'\n        De staten willen afdwingen dat Meta de verslavende technieken achter de platforms aanpast. Zo willen ze dat het bedrijf stopt met verdwijnende berichten, de zogenoemde 'stories' op Facebook en Instagram. Ook moeten \"dopamine-manipulerende aanbevelingsalgoritmes\" verdwijnen, zoals het automatisch afspelen van video's op de platforms van Meta. Daarmee moet 'eindeloos scrollen' worden voorkomen. Het leuk vinden van berichten (liken) moet ook niet meer mogelijk zijn, vinden de staten.\n        Daarnaast moet wat de aanklagers betreft de functionaliteit waarmee gebruikers hun uiterlijk kunnen veranderen door filters verdwijnen. Ook moeten ouders de accounts van kinderen verifiëren voor gebruik en willen staten dat het aanmaken van meerdere accounts niet meer mogelijk is.\n        Bovendien eisen de staten een schadevergoeding, die theoretisch kan oplopen tot 1,2 biljoen dollar. Dat bedrag gebruikt Meta om aan te geven dat het de zaak onredelijk vindt. De werkelijke bedragen zijn nog onbekend, maar een advocaat van de staten sprak in een eerdere hoorzitting over een schadevergoeding van 200 miljard.\n        Naar verwachting duurt de zaak zo'n zes tot acht weken. Onder anderen Meta-oprichter Mark Zuckerberg wordt in de rechtbank gehoord, net als andere leidinggevenden en voormalig medewerkers van het bedrijf.\n        'Niet alleen moreel verwerpelijk'\n        De procureur-generaal van Californië, Rob Bonta, zegt dat het bedrijf \"Facebook en Instagram zo heeft ontworpen dat kinderen steeds langer op de platforms blijven, tot het punt van fysieke en mentale schade\". Hij noemt het \"niet alleen moreel verwerpelijk, maar ook illegaal om onze meest kwetsbare inwoners uit te buiten om de winst van bedrijven te verhogen\".\n        Jennifer Davenport, zijn collega uit New Jersey, zegt dat haar staat sinds 2021 duizenden uren heeft besteed aan het onderzoeken van het \"onrechtmatige gedrag\" van Meta. \"We hopen aan te tonen dat Meta de geestelijke gezondheid van een hele generatie kinderen in gevaar heeft gebracht met verslavende eigenschappen, waarvan het bedrijf wist dat deze afschuwelijke gevolgen zouden hebben.\"\n        Expres verslaafd gemaakt?\n        Meta zegt dat het veel heeft gedaan om tieners op de platforms te beschermen en zegt dat te kunnen bewijzen in de rechtbank. Naar eigen zeggen heeft het bedrijf gesproken met ouders, samengewerkt met experts en de politie en \"diepgaand onderzoek\" gedaan om de problemen te begrijpen.\n        Eerder beweerde Meta-baas Zuckerberg dat zijn bedrijf geen apps meer bouwt die erop gericht zijn mensen zo lang mogelijk naar hun scherm te laten kijken. Hij deed deze uitspraak in een andere lopende civiele procedure tegen socialemediabedrijven, waarin meer dan 1600 eisers stellen dat bedrijven als Meta en Youtube gebruikers expres verslaafd maken.\n        NOS op 3 dook eerder al eens in de vraag hoe verslavend sociale media zijn en welke gevolgen ze hebben voor onze mentale gezondheid:\n        De zaak die de staten hebben aangespannen tegen Meta staat los van duizenden andere rechtszaken die op dit moment lopen tegen het bedrijf.\n        Zaken tegen Meta eindigen geregeld in boetes voor het techbedrijf. Zo oordeelde een rechtbank in de Amerikaanse staat New Mexico deze maand dat het bedrijf verantwoordelijk is voor de schade aan de mentale gezondheid van kinderen. Meta moet van de rechter zijn platforms veiliger maken voor jongeren en kreeg een boete van ruim een half miljard dollar opgelegd.\n        In maart werd Meta, net als Google (het moederbedrijf van YouTube) door een jury in Los Angeles aansprakelijk gesteld voor de socialemediaverslaving van een vrouw. Zij claimde dat ze als kind verslaafd was geraakt aan sociale media, waardoor haar mentale gezondheid ernstig verslechterde.\n        De jury oordeelde dat de bedrijven gebruikers hadden moeten waarschuwen voor de gevaren van deze socialemediaplatforms en legde een boete op van 3 miljoen dollar, die grotendeels door Meta betaald moet worden.\n        Noot van de redactie:\n        In een eerdere versie van dit artikel stond de volgende passage: \"Bovendien eisen de staten een schadevergoeding die kan oplopen tot omgerekend 1,2 biljoen (1200.000.000.000) euro.\" Dat ligt anders. Dat is het bedrag dat Meta zelf als theoretisch wettelijk maximum naar buiten heeft gebracht, om aan te tonen dat het de zaak onredelijk vindt.",
+   "date": "2026-08-18T12:52:02",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google koopt bedrijfsdata van failliete luchtvaartmaatschappij om AI te trainen",
+   "link": "https://tweakers.net/nieuws/251092/google-koopt-bedrijfsdata-van-failliete-luchtvaartmaatschappij-om-ai-te-trainen.html",
+   "description": "Google koopt voor 10 miljoen dollar veel bedrijfsdata van Spirit Airlines, een Amerikaanse luchtvaartmaatschappij die dit jaar failliet ging. Het gaat bijvoorbeeld om e-mails, documenten en chatberichten, maar niet om klantendata. Google wil de bestanden gebruiken om AI-modellen te trainen.",
+   "date": "2026-08-18T12:13:56",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Winst Baidu schiet tekort",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/winst-baidu-schiet-tekort/",
+   "description": "(ABM FN-Dow Jones) Baidu heeft in het tweede kwartaal minder winst behaald dan verwacht, terwijl de omzet in lijn was met de consensus. Verder bleven de AI-activiteiten wel stevig groeien. Dit bleek dinsdag uit de cijfers van het Chinese bedrijf.\"Nu AI-gedreven bedrijfsactiviteiten stevig verankerd zijn als de kern van Baidu, versterken we de basis voor onze …\nThe post Winst Baidu schiet tekort appeared first on Trends.be.",
+   "date": "2026-08-18T11:39:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT geeft binnenkort niet alleen antwoord op je vraag, je krijgt er ook advertenties bij",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/chatgpt-geeft-binnenkort-niet-alleen-antwoord-op-je-vraag-je-krijgt-er-ook-advertenties-bij~b63775c6/",
+   "description": "",
+   "date": "2026-08-18T11:37:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI wordt duurder, de keuze groter",
+   "link": "https://trends.knack.be/ai-en-tech/emerging-tech-en-innovatie/ai-wordt-duurder-de-keuze-groter/",
+   "description": "Nu artificiële intelligentie van speeltuin naar productie verhuist, ontdekken organisaties dat elk antwoord en elke autonome actie tokens – en dus geld – kost. De prijs per token mag gemiddeld dan dalen; het verbruik neemt wel exponentieel toe. Gevolg: de AI-factuur van bedrijven gaat – soms onverwacht hard – de hoogte in. De IT-sector werkt …\nThe post AI wordt duurder, de keuze groter appeared first on Trends.be.",
+   "date": "2026-08-18T10:33:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reddit experimenteert met AI-functie die van posts korte video's maakt",
+   "link": "https://tweakers.net/nieuws/251086/reddit-experimenteert-met-ai-functie-die-van-posts-korte-videos-maakt.html",
+   "description": "Reddit experimenteert met een functie die van posts korte AI-video's maakt. De AI leest dan bijvoorbeeld de vraag van de post voor, samen met wat populaire reacties. Vergelijkbare video's zijn al populair op andere sociale media en Reddit wil die content daarom zelf aanbieden.",
+   "date": "2026-08-18T09:45:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - CPU-Z 2.21",
+   "link": "https://tweakers.net/downloads/77932/cpu-z-221.html",
+   "description": "CPUID heeft versie 2.21 van CPU-Z uitgebracht voor Windows. Dit kleine programma geeft uitgebreide informatie over de processor, het moederbord en het geheugen in de computer. Daarnaast kan het programma informatie over de grafische kaart in de computer geven, zij het beperkt. Hiervoor kan beter GPU-Z worden gebruikt, dat ondanks een vergelijkbare naam niet van dezelfde makers is. De download bevat aparte versies voor 32bit- en 64bit-omgevingen. Ook zijn er downloads beschikbaar met een thema van een specifieke fabrikant, zoals ASUS, MSI en Asrock. In deze uitgave is herkenning voor de volgende hardware toegevoegd: Changes in CPU-Z version 2.21:",
+   "date": "2026-08-18T09:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google koopt data van failliete luchtvaartmaatschappij Spirit Airlines om AI te trainen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/google-koopt-data-van-failliete-luchtvaartmaatschappij-spirit-airlines-om-ai-te-trainen/",
+   "description": "Google heeft voor 10 miljoen dollar (8,6 miljoen euro) een enorme hoeveelheid gegevens gekocht van de failliete Amerikaanse lagekostenmaatschappij Spirit Airlines om systemen voor artificiële intelligentie (AI) te trainen. Dat blijkt uit documenten die zijn ingediend in het kader van het faillissement van de luchtvaartmaatschappij.\nThe post Google koopt data van failliete luchtvaartmaatschappij Spirit Airlines om AI te trainen appeared first on Trends.be.",
+   "date": "2026-08-18T08:38:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe de VS met omstreden gezondheidsdeals toegang tot medische gegevens afdwingen",
+   "link": "https://apache.be/2026/08/18/hoe-vs-met-omstreden-gezondheidsdeals-toegang-tot-medische-gegevens-afdwingen",
+   "description": "Amerikaanse bedrijven krijgen een voordeel in de ontwikkeling van medische AI.",
+   "date": "2026-08-18T06:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI wordt de grootste investeringsgolf ooit: dreigt ook de grootste crash?",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/ai-wordt-de-grootste-investeringsgolf-ooit-dreigt-ook-de-grootste-bubbel/",
+   "description": "Duizenden miljarden dollars worden momenteel in kunstmatige intelligentie gepompt. Dat geld moet ooit worden terugverdiend, maar ondertussen investeren AI-bedrijven in elkaar, kopen ze elkaars producten en bouwen ze op steeds meer schuld. Groeit hier de technologie van de toekomst, of de financiële crash van morgen? \nThe post AI wordt de grootste investeringsgolf ooit: dreigt ook de grootste crash?   appeared first on Knack.",
+   "date": "2026-08-18T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Liefdadigheid zal big AI niet redden",
    "link": "https://www.demorgen.be/meningen/liefdadigheid-zal-big-ai-niet-redden~b4ff2465/",
    "description": "",
@@ -258,6 +512,18 @@
     "De Morgen - Meningen"
    ],
    "first_seen": "2026-08-18",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta schiet de AI-markt nog liever stuk, in de hoop daarmee de advertentiemarkt te domineren",
+   "link": "https://www.demorgen.be/meningen/meta-schiet-de-ai-markt-nog-liever-stuk-in-de-hoop-daarmee-de-advertentiemarkt-te-domineren~b4ff2465/",
+   "description": "",
+   "date": "2026-08-18T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-19",
    "intro_geprobeerd": true
   },
   {
