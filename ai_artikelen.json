@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T04:17:38",
+ "generated": "2026-08-20T04:16:20",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 31,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 33,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 148,
+   "count": 147,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 94,
    "error": null
   },
   {
@@ -249,6 +249,216 @@
   }
  ],
  "articles": [
+  {
+   "title": "De ethiek van AI kun je niet doorschuiven",
+   "link": "https://www.demorgen.be/nieuws/de-ethiek-van-ai-kun-je-niet-doorschuiven~bfe92518/",
+   "description": "",
+   "date": "2026-08-20T03:01:01",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Claude vs. Kimi: de AI-race tussen China en de VS splijt de wereld in tweeën",
+   "link": "https://www.standaard.be/buitenland/claude-vs.-kimi-de-ai-race-tussen-china-en-de-vs-splijt-de-wereld-in-tweeen/160159075.html",
+   "description": "Peking en Washington zijn verwikkeld in de geopolitieke tweekamp van onze tijd. Artificiële intelligentie vormt daarbij het strijdperk bij uitstek. China moet achtervolgen, maar heeft zijn eigen definitie van succes.",
+   "date": "2026-08-19T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een gedicht van Hugo Claus of van een AI-bot? Op kunstenfestival Watou zien veel bezoekers het verschil niet meer",
+   "link": "https://www.standaard.be/media-en-cultuur/een-gedicht-van-hugo-claus-of-van-een-ai-bot-op-kunstenfestival-watou-zien-veel-bezoekers-het-verschil-niet-meer/160208553.html",
+   "description": "Heel stilletjes sleepte dichter Maud Vanhauwaert AI-gegeneerde poëzie binnen in het kunstenfestival Watou, in de vorm van de AI-poëziebot Woutje. Een verdienstelijke dichter, die Woutje. “Ik voel me een speeltje van een apparaat.”",
+   "date": "2026-08-19T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Advocatuur staat voor een kantelpunt: “Investeren in jonge advocaten of in AI? Dat is de vraag”",
+   "link": "https://www.standaard.be/economie/advocatuur-staat-voor-een-kantelpunt-investeren-in-jonge-advocaten-of-in-ai-dat-is-de-vraag/160180062.html",
+   "description": "Door de komst van steeds betere juridische AI-tools moeten advocatenkantoren hun werking aanpassen. Cliënten verwachten lagere kosten, de jobs van startende advocaten komen onder druk. “Misschien moet het systeem van uurtje-factuurtje op de schop.”",
+   "date": "2026-08-19T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS vreest leveringen ASML aan China en wil Nederland verbod opleggen",
+   "link": "https://www.nu.nl/tech/6406832/vs-vreest-leveringen-asml-aan-china-en-wil-nederland-verbod-opleggen.html",
+   "description": "Het Nederlandse ASML produceert de technologie waarop de moderne wereld draait. Dat maakt het bedrijf regelmatig tot een geopolitieke speelbal. De Amerikanen maken zich op om Nederland te dwingen de verkoop van chipmachines van ASML aan China vrijwel volledig te verbieden.",
+   "date": "2026-08-19T20:00:44",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Red de AI-wet’ is een inkijkje in de invloed van big tech in Brussel",
+   "link": "https://www.trouw.nl/recensies/red-de-ai-wet-is-een-inkijkje-in-de-invloed-van-big-tech-in-brussel~b9ffc7b1/",
+   "description": "",
+   "date": "2026-08-19T19:58:04",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Universiteiten die op AI-detectietools sprongen, krabbelen terug: ‘Uit onze analyse bleek dat die software te onbetrouwbaar was’",
+   "link": "https://www.demorgen.be/tech-wetenschap/universiteiten-die-op-ai-detectietools-sprongen-krabbelen-terug-uit-onze-analyse-bleek-dat-die-software-te-onbetrouwbaar-was~b4e56e6f/",
+   "description": "",
+   "date": "2026-08-19T18:46:00",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Review - Google Pixel 11, 11 Pro & 11 Pro XL - Pixels volgens typisch Google-recept",
+   "link": "https://tweakers.net/reviews/15164/google-pixel-11-11-pro-en-11-pro-xl-pixels-volgens-typisch-google-recept.html",
+   "description": "De elfde generatie Pixel-telefoons bevat een mix van nieuwe hardware- en AI-upgrades. Is dit het jaar waarin Google de concurrentie achter zich laat?",
+   "date": "2026-08-19T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Videoreview - Is Google eigenwijs, of gewoon koppig? - Pixel 11 (Pro)",
+   "link": "https://tweakers.net/video/20514/is-google-eigenwijs-of-gewoon-koppig-pixel-11-pro.html",
+   "description": "Google's Pixel 11, 11 Pro en Pro XL volgen het vertrouwde recept: geen benchmarkrecords, wél fijne software en veel nadruk op camera en AI. De grootste stap zit in de nieuwe hoofd- en telecamera en in slimme features als Magic Capture. Daartegenover staan een hogere prijs, minder RAM in de basismodellen, een matige accuduur en trage laadtijden.",
+   "date": "2026-08-19T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hernieuwbare energie piekt in VS, ondanks Trump",
+   "link": "https://www.standaard.be/economie/hernieuwbare-energie-piekt-in-vs-ondanks-trump/160214317.html",
+   "description": "In de Verenigde Staten wordt er dit jaar naar schatting 45 gigawatt aan wind- en zonne-energie bijgebouwd, gedreven door AI en burgers die zich willen beschermen tegen hoge energieprijzen.",
+   "date": "2026-08-19T16:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia GeForce NOW werkt nu ook in Firefox",
+   "link": "https://tweakers.net/nieuws/251136/nvidia-geforce-now-werkt-nu-ook-in-firefox.html",
+   "description": "Nvidia GeForce NOW werkt nu ook in Firefox. De cloudgamingdienst was al beschikbaar in webbrowsers, maar dat gold tot nu toe alleen voor bepaalde Chromium-browsers en Safari. De dienst werkt in Firefox op maximaal 1440p met 120fps.",
+   "date": "2026-08-19T14:15:28",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT gebruiken? Vanaf volgende week toont chatbot ook in België reclame",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/19/chatgpt-reclame/",
+   "description": "OpenAI toont vanaf volgende week in 31 Europese landen, waaronder België, advertenties in zijn populaire chatbot met kunstmatige intelligentie (AI) ChatGPT. Dat maakte het Amerikaanse bedrijf bekend.",
+   "date": "2026-08-19T14:04:03",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Uroloog Piet Hoebeke over deepfakevideo's met zijn stem: \"Dit is gewoon misbruik van identiteit\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/19/piet-hoebeke-deepfake-video-reactie/",
+   "description": "Uroloog Piet Hoebeke van UZ Gent is er niet over te spreken dat zijn stem en uiterlijk worden misbruikt in deepfakevideo's om een voedingssupplement voor prostaatproblemen te verkopen. De video's zijn gemaakt met AI-technologie en bootsen zijn stem zo goed na dat het bijna echt lijkt.",
+   "date": "2026-08-19T13:54:42",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-bedrijf Cursor brengt GitHub-concurrent Origin uit",
+   "link": "https://tweakers.net/nieuws/251132/ai-bedrijf-cursor-brengt-github-concurrent-origin-uit.html",
+   "description": "AI-programmeertool Cursor komt met een concurrent voor GitHub. Het platform gaat Cursor Origin heten en is bedoeld om code op te hosten. Betalende gebruikers krijgen als eerste toegang tot een bèta van het platform.",
+   "date": "2026-08-19T13:25:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Update: SK Hynix trekt recordbedrag uit voor inkoop eigen aandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/update-sk-hynix-trekt-recordbedrag-uit-voor-inkoop-eigen-aandelen/",
+   "description": "(ABM FN-Dow Jones) SK Hynix koopt de komende drie maanden voor ruim 28 miljard dollar eigen aandelen in. Dit maakte de Zuid-Koreaanse chipmaker woensdag na sluiting van de beurs bekend. Het zou de grootste aandeleninkoop ooit in Zuid-Korea zijn.De raad van bestuur keurde een inkoopprogramma goed van circa 40,0 biljoen won, omgerekend 28,3 miljard dollar. Het …\nThe post Update: SK Hynix trekt recordbedrag uit voor inkoop eigen aandelen appeared first on Trends.be.",
+   "date": "2026-08-19T11:48:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Om AI te vertrouwen moeten we de bouwstenen kennen",
+   "link": "https://www.tijd.be/r/t/1/id/10682705",
+   "description": "Net zoals we van voedselproducenten verwachten dat ze aangeven wat er in hun producten zit, mogen we ook van AI-ontwikkelaars verwachten dat ze transparant zijn over de bouwstenen waarop hun systemen zijn gebaseerd.",
+   "date": "2026-08-19T11:07:55",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "UZ Gent waarschuwt voor misleidende AI-video's met uroloog Piet Hoebeke: professor dient klacht in",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/19/uz-gent-waarschuwt-voor-valse-video-uroloog-piet-hoebeke/",
+   "description": "Er zijn deepfakevideo's opgedoken waarin professor Piet Hoebeke van UZ Gent wordt opgevoerd om valse gezondheidsproducten te promoten. In dit geval middelen voor prostaatproblemen. De video's zijn gemaakt met AI en bootsen de stem en het uiterlijk van de dokter goed na.",
+   "date": "2026-08-19T10:36:28",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Fortinet koopt AI-beveiliger Virtue AI voor bescherming van autonome AI-agents",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/fortinet-koopt-ai-beveiliger-virtue-ai-voor-bescherming-van-autonome-ai-agents/",
+   "description": "Cybersecuritybedrijf Fortinet neemt Virtue AI over voor een niet nader genoemd bedrag. Virtue AI zet in op de beveiliging van AI-modellen en agentic systemen.\nThe post Fortinet koopt AI-beveiliger Virtue AI voor bescherming van autonome AI-agents appeared first on Trends.be.",
+   "date": "2026-08-19T09:54:49",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Adv - Windows 11-laptops en AI: dit voegen Copilot en Copilot+ PC's in de praktijk toe",
+   "link": "https://tweakers.net/plan/4782/windows-11-laptops-en-ai-dit-voegen-copilot-en-copilot+-pcs-in-de-praktijk-toe.html",
+   "description": "AI is in korte tijd een vast onderdeel geworden van de manier waarop laptops worden gepositioneerd. Waar de keuze voor een nieuwe laptop eerder vooral draaide om processor, geheugen, scherm, accuduur en prijs, komt daar nu een extra vraag bij: welke AI-functies zitten er in het systeem en wat merkt de gebruiker daar dagelijks van?",
+   "date": "2026-08-19T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
   {
    "title": "In ‘AI confidential’ vertelt Hannah Fry échte verhalen over de impact van artificiële intelligentie ★★★★☆",
    "link": "https://www.standaard.be/media-en-cultuur/in-ai-confidential-vertelt-hannah-fry-echte-verhalen-over-de-impact-van-artificiele-intelligentie/160129286.html",
@@ -314,6 +524,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT krijgt aparte modus met strengere veiligheidsmaatregelen voor tieners",
+   "link": "https://tweakers.net/nieuws/251112/chatgpt-krijgt-aparte-modus-met-strengere-veiligheidsmaatregelen-voor-tieners.html",
+   "description": "OpenAI brengt wereldwijd een modus van ChatGPT uit die bedoeld is voor minderjarigen. Deze heeft strengere veiligheidssystemen, belooft het bedrijf. Zo moet ChatGPT tieners 'minder blootstellen' aan schadelijke of ongepaste onderwerpen, zoals geweld.",
+   "date": "2026-08-18T17:59:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-20",
    "intro_geprobeerd": false
   },
   {
@@ -391,6 +612,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-08-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Filosofische bluf",
+   "link": "https://www.nrc.nl/nieuws/2026/08/18/filosofische-bluf-a4934636",
+   "description": "Rumoer in de filosofische wereld. Grote AI-bedrijven huren opeens om het hardst moraalfilosofen in om de toekomst vorm te geven. Zijn er niet ethische ethici? Of je je zinnen nu zet op ethische chocola, AI of ethici: oplettendheid is geboden.",
+   "date": "2026-08-18T13:21:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-20",
    "intro_geprobeerd": false
   },
   {
