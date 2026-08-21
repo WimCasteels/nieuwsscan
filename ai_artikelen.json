@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T04:16:20",
+ "generated": "2026-08-21T04:23:04",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -34,13 +34,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 10,
+   "count": 1,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 32,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 147,
+   "count": 145,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 100,
    "error": null
   },
   {
@@ -249,6 +249,172 @@
   }
  ],
  "articles": [
+  {
+   "title": "Van Telegram-groepen tot AI-brillen: waarom ‘creepshots’ zo moeilijk te stoppen zijn",
+   "link": "https://www.demorgen.be/beter-leven/van-telegram-groepen-tot-ai-brillen-waarom-creepshots-zo-moeilijk-te-stoppen-zijn~be3811a1/",
+   "description": "",
+   "date": "2026-08-21T03:00:16",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Advertenties in ChatGPT kunnen de reclamewereld in België flink opschudden",
+   "link": "https://www.standaard.be/media-en-cultuur/advertenties-in-chatgpt-kunnen-de-reclamewereld-in-belgie-flink-opschudden/160280695.html",
+   "description": "Experts uit de reclamewereld verwachten dat merken straks ook in België massaal zullen experimenteren met advertenties in ChatGPT. “Ik vrees dat dit ten koste zal gaan van lokale media.”",
+   "date": "2026-08-20T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De toekomst die biotechnoloog Adrian Woolfson voorspiegelt, is tegelijk fascinerend en ongemakkelijk ★★★★☆",
+   "link": "https://www.standaard.be/media-en-cultuur/boeken/de-toekomst-die-biotechnoloog-adrian-woolfson-voorspiegelt-is-tegelijk-fascinerend-en-ongemakkelijk/159922865.html",
+   "description": "Adrian Woolfson toont een toekomst waarin artificiële intelligentie en genetica de grenzen van het mogelijke verleggen. Bio-ethicus en recensent Kristien Hens zet er een kanttekening bij.",
+   "date": "2026-08-20T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijven kopen massaal boeken op van voor 2022, om ze na gebruik door de versnipperaar te halen",
+   "link": "https://www.trouw.nl/buitenland/ai-bedrijven-kopen-massaal-boeken-op-van-voor-2022-om-ze-na-gebruik-door-de-versnipperaar-te-halen~b999e9308/",
+   "description": "",
+   "date": "2026-08-20T22:00:54",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Turnaround Intel is ingeprijsd",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/turnaround-intel-is-ingeprijsd/",
+   "description": "Artificiële intelligentie (AI) deed Intel weer herleven van het kneusje in de halfgeleidersector naar een snelgroeiend bedrijf.\nThe post Turnaround Intel is ingeprijsd appeared first on Trends.be.",
+   "date": "2026-08-20T16:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - AMD Radeon Software Adrenalin Edition 26.8.1 WHQL",
+   "link": "https://tweakers.net/downloads/77962/amd-radeon-software-adrenalin-edition-2681-whql.html",
+   "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.8.1 is ondersteuning voor de Radeon RX 9050 uitgerust mer 4GB geheugen en de spellen Resonance: A Plague Tale Legacy, Star Wars Zero Company en Call of Duty: Modern Warfare 4 Open Beta Early Access toegevoegd, en zijn er enkele problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Product Support",
+   "date": "2026-08-20T15:30:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat eigent Anthropic zich allemaal toe met zijn watermerk op AI-content?",
+   "link": "https://www.tijd.be/r/t/1/id/10682900",
+   "description": "Anthropic zet met zijn watermerk, vlak onder onze neus, alles klaar om op lange termijn copyright te claimen.",
+   "date": "2026-08-20T14:23:19",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Winst Alibaba keldert door AI-investeringen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/winst-alibaba-keldert-door-ai-investeringen/",
+   "description": "(ABM FN-Dow Jones) Alibaba heeft in het afgelopen kwartaal meer omzet geboekt, maar zag de winst fors dalen door zware investeringen in kunstmatige intelligentie. Dat bleek donderdag uit de cijfers van de Chinese techreus.De omzet steeg met 9 procent tot 39,6 miljard dollar. Onder de streep resteerde een nettowinst van 1,5 miljard dollar, een daling van …\nThe post Winst Alibaba keldert door AI-investeringen appeared first on Trends.be.",
+   "date": "2026-08-20T12:06:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Twitch-gebruikers moeten datadelen met Amazon AI uitzetten, adviseert AP",
+   "link": "https://tweakers.net/nieuws/251172/twitch-gebruikers-moeten-datadelen-met-amazon-ai-uitzetten-adviseert-ap.html",
+   "description": "De Autoriteit Persoonsgegevens roept Twitch-gebruikers op de instelling uit te zetten waarmee ze hun data met Amazon delen voor AI-training. Het gamingplatform zet deze instelling standaard aan en mag daarmee streams, afbeeldingen en andere persoonsgegevens gebruiken, waarschuwt de AP.",
+   "date": "2026-08-20T11:59:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-techniek van Google kan lichaamsvet nauwkeurig inschatten met gewone foto's",
+   "link": "https://tweakers.net/nieuws/251164/ai-techniek-van-google-kan-lichaamsvet-nauwkeurig-inschatten-met-gewone-fotos.html",
+   "description": "Google gebruikt AI om lichaamsvet van mensen in te schatten op basis van smartphonefoto's die zij nemen. Deze methode zou lichaamsvet nauwkeuriger inschatten dan wearables. Dit PhotoScan AI zou ook insulineresistentie, vaak de voorbode van suikerziekte, kunnen 'zien'.",
+   "date": "2026-08-20T10:24:45",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kunnen kleinere AI-modellen ons elektriciteitsnet redden?",
+   "link": "https://trends.knack.be/ai-en-tech/kunnen-kleinere-ai-modellen-ons-elektriciteitsnet-redden/",
+   "description": "Artificiële intelligentie heeft een verbruiksprobleem. De energiehonger van de grote modellen en de gigantische datacenters die nodig zijn om die te trainen en te laten draaien, beginnen steeds meer protest uit te lokken. Kan dat niet efficiënter?\nThe post Kunnen kleinere AI-modellen ons elektriciteitsnet redden? appeared first on Trends.be.",
+   "date": "2026-08-20T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Toezichthouder vraagt TikTok om uitleg na dodelijke crash Ierse tieners",
+   "link": "https://nos.nl/l/2627570",
+   "description": "De Ierse mediawaakhond vraagt TikTok om uitleg over video's met gevaarlijk rijgedrag na een dodelijke crash dit weekend. Ook komt er nog dit jaar speciale training voor politieagenten die achtervolgingen uitvoeren.\n        Bij het ongeluk kwamen zondag vijf tieners om het leven toen de BMW waarin zij zaten tegen de rijrichting in reed en frontaal botste op een andere auto. Vier inzittenden van die auto raakten ernstig gewond.\n        Ierse media melden dat ten minste drie van de omgekomen tieners eerder video's op TikTok hadden gedeeld terwijl ze tegen het verkeer in reden of voor de politie vluchtten.\n        Op sociale media circuleert ook een video die volgens The Irish Sun de laatste rit van de tieners zou laten zien. Het is niet bevestigd of de beelden daadwerkelijk tijdens die rit zijn gemaakt en of die door de tieners zijn opgenomen.\n        De 18-jarige Jeremy O'Brien, die vermoedelijk de auto bestuurde, was in april in Carlow aangehouden wegens gevaarlijk rijden. De andere inzittenden, in leeftijd van 15 tot 17 jaar, worden ook in verband gebracht met groepen die zich bezighouden met autodiefstal, inbraken en gevaarlijk rijgedrag.\n        De auto waarmee ze afgelopen weekend crashten, zou enkele dagen voor de crash zijn gekocht door iemand die een bekende was van een van de overleden jongens, schrijft The Irish Independent. Eerder werd vermoed dat de auto was gestolen.\n        Onderzoek naar TikTok\n        De Ierse mediawaakhond Coimisiún na Meán heeft TikTok gevraagd om een volledig overzicht van de manier waarop het platform met video's over gevaarlijk rijgedrag is omgegaan in Ierland.\n        De toezichthouder wil weten wat TikTok heeft gezien, welke video's en accounts zijn verwijderd en wanneer dat gebeurde. Ook wil de commissie weten of informatie over mogelijke ernstige strafbare feiten aan de politie is doorgegeven, meldt de Ierse omroep RTÉ.\n        De toezichthouder wil beoordelen of TikTok zich aan de wettelijke regels heeft gehouden. Bij overtredingen kan de commissie een onderzoek beginnen en maatregelen nemen.\n        TikTok heeft gezegd video's te verwijderen die geweld verheerlijken of crimineel gedrag en gevaarlijk rijgedrag promoten. Volgens het bedrijf werd tussen januari en maart 99,1 procent van dergelijke content al verwijderd voordat die was gemeld.\n        Facebook wakkert ophef aan\n        Ook op Facebook ontstond na de crash veel verontwaardiging. De Ierse nieuwssite The Journal zag ongeveer twaalf openbare berichten waarin de overleden tieners werden herdacht. Die berichten werden door het aanbevelingssysteem van Facebook ook getoond aan gebruikers die de betreffende accounts niet volgden.\n        De berichten kregen gezamenlijk meer dan 2000 reacties, waarvan veel kritisch of boos waren. Door die negatieve aandacht konden de berichten juist verder verspreiden, omdat reacties en opmerkingen voor het algoritme een signaal zijn dat er veel belangstelling voor een bericht is.\n        Politieachtervolgingen\n        De crash heeft ook geleid tot discussie over de manier waarop de Ierse politie omgaat met achtervolgingen. Ierse politieagenten krijgen wel rijopleiding voor het rijden tijdens noodsituaties, maar zijn niet specifiek getraind voor achtervolgingen.\n        Voorafgaand aan het ongeluk probeerde de politie de BMW tot stoppen te brengen. Volgens de berichtgeving werd de auto daarna niet verder gevolgd. Op het moment van de fatale botsing was er volgens de politie ook geen achtervolging gaande.\n        De Ierse regering heeft inmiddels aangekondigd dat politieagenten nog dit jaar speciale training voor achtervolgingen krijgen. Ierse rijinstructeurs worden daarvoor opgeleid in Engeland en moeten hun kennis vervolgens in eigen land doorgeven.\n        Onderweg naar bruiloft\n        Bij de crash reed de auto rond 03.00 uur tegen de rijrichting in over van de M9. In County Kildare, ten zuidoosten van hoofdstad Dublin, botste de auto frontaal op een andere auto. Daarin zaten drie vrouwen en een jongen van 7 jaar. Ze waren onderweg naar het vliegveld van Dublin voor een bruiloft in het Verenigd Koninkrijk.\n        Twee vrouwen verkeren nog in kritieke toestand. De derde vrouw en de jongen zijn ernstig gewond.",
+   "date": "2026-08-20T09:58:44",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google geeft studenten een jaar gratis Gemini",
+   "link": "https://tweakers.net/nieuws/251158/google-geeft-studenten-een-jaar-gratis-gemini.html",
+   "description": "Studenten wereldwijd kunnen Googles AI-tool Gemini een jaar lang gratis gebruiken. Studenten buiten de VS krijgen een jaar toegang tot het Gemini AI Plus-abonnement. In de VS krijgen studenten Gemini AI Pro een jaar gratis aangeboden. Hierbij brengt Google ook nieuwe studiehulpmiddelen uit.",
+   "date": "2026-08-20T08:51:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Console-pc's, gpu-prijzen en AirPod-camera's - Tweakers Podcast #440",
+   "link": "https://tweakers.net/video/20518/console-pcs-gpu-prijzen-en-airpod-cameras-tweakers-podcast-440.html",
+   "description": "Deze week praten Wout Funnekotter, Arnoud Wokke en Tomas Hochstenbach over de aanklacht van Amerikaanse staten tegen Meta, de prijzen van videokaarten, AirPods met camera's en de Steam Machine.",
+   "date": "2026-08-20T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Console-pc's, gpu-prijzen en AirPod-camera's - Tweakers Podcast #440",
+   "link": "https://tweakers.net/geek/251140/console-pcs-gpu-prijzen-en-airpod-cameras-tweakers-podcast-440.html",
+   "description": "Deze week praten Wout Funnekotter, Arnoud Wokke en Tomas Hochstenbach over de aanklacht van Amerikaanse staten tegen Meta, de prijzen van videokaarten, AirPods met camera's en de Steam Machine.",
+   "date": "2026-08-20T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-21",
+   "intro_geprobeerd": false
+  },
   {
    "title": "De ethiek van AI kun je niet doorschuiven",
    "link": "https://www.demorgen.be/nieuws/de-ethiek-van-ai-kun-je-niet-doorschuiven~bfe92518/",
@@ -292,6 +458,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Advocatenkantoren staan voor een ongemakkelijke keuze: “Investeren in jonge juristen of in AI? Dat is de vraag”",
+   "link": "https://www.standaard.be/economie/advocatenkantoren-staan-voor-een-ongemakkelijke-keuze-investeren-in-jonge-juristen-of-in-ai-dat-is-de-vraag/160180062.html",
+   "description": "Door de komst van steeds betere juridische AI-tools moeten advocatenkantoren hun werking aanpassen. Cliënten verwachten lagere kosten, de jobs van startende advocaten komen onder druk. “Misschien moet het systeem van uurtje-factuurtje op de schop.”",
+   "date": "2026-08-19T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-21",
    "intro_geprobeerd": false
   },
   {
@@ -358,6 +535,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hernieuwbare energie piekt in de Verenigde Staten, ondanks het beleid van president Trump",
+   "link": "https://www.standaard.be/economie/hernieuwbare-energie-piekt-in-de-verenigde-staten-ondanks-het-beleid-van-president-trump/160214317.html",
+   "description": "In de Verenigde Staten wordt er dit jaar naar schatting 45 gigawatt aan wind- en zonne-energie bijgebouwd, gedreven door AI en burgers die zich willen beschermen tegen hoge energieprijzen.",
+   "date": "2026-08-19T16:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-21",
    "intro_geprobeerd": false
   },
   {
