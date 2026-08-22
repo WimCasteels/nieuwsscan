@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T04:23:04",
+ "generated": "2026-08-22T04:15:23",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 145,
+   "count": 144,
    "error": null
   },
   {
@@ -214,7 +214,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
@@ -249,6 +249,242 @@
   }
  ],
  "articles": [
+  {
+   "title": "Chipbedrijf Nvidia jaagt de AI-hausse aan om dominant te blijven, met alle risico’s van dien",
+   "link": "https://www.demorgen.be/tech-wetenschap/chipbedrijf-nvidia-jaagt-de-ai-hausse-aan-om-dominant-te-blijven-met-alle-risico-s-van-dien~b16484b1/",
+   "description": "",
+   "date": "2026-08-22T03:00:45",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-datacenters verhogen koerspotentieel voor energie- en netwerkspecialisten",
+   "link": "https://www.standaard.be/economie/geld/ai-datacenters-verhogen-koerspotentieel-voor-energie-en-netwerkspecialisten/160196510.html",
+   "description": "Baptist Vandenplas, fondsbeheerder bij Edmond de Rothschild, kiest aandelen uit de ‘top & recommended’- lijst van de groep. In de sectoren elektriciteit en netwerktechnologie vindt hij interessante keuzes.",
+   "date": "2026-08-22T01:00:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI zoekt inkomsten met advertenties in ChatGPT",
+   "link": "https://www.tijd.be/r/t/1/id/10683059",
+   "description": "OpenAI rolt vanaf maandag in 31 Europese landen, waaronder België, advertenties uit in ChatGPT. Daarmee wil het een extra inkomstenbron aanboren. ‘De geloofwaardigheid van ChatGPT staat op het spel.’",
+   "date": "2026-08-21T19:52:48",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Econoom Gert Peersman: ‘Ik ben optimistisch over AI, vanwaar moet de groei anders komen?’",
+   "link": "https://www.tijd.be/r/t/1/id/10683020",
+   "description": "In een klimaat van piekende rente en slabakkende groei moet de regering-De Wever op zoek naar 10 miljard euro. Broodnodig, want het begrotingstekort wordt er niet kleiner op, waarschuwt econoom Gert Peersman. 'In de volgende regeerperiode moeten we sowieso een nog grotere inspanning leveren.'",
+   "date": "2026-08-21T19:52:06",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het plan van 500 miljard dollar van Nvidia en Wall Street staat of valt met ‘oude chips’",
+   "link": "https://www.tijd.be/r/t/1/id/10682844",
+   "description": "500 miljard hier, 500 miljard daar... De bedragen waarmee de grote techbedrijven goochelen om AI-infrastructuur uit te bouwen, tarten alle verbeelding. Cruciaal in het verhaal zijn de chips die als onderpand fungeren voor de leningen, maar heeft AI-rekenkracht wel voldoende economische levensduur om die status te verantwoorden?",
+   "date": "2026-08-21T19:37:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse monsterboete van 825 miljoen euro voor Uber",
+   "link": "https://www.tijd.be/r/t/1/id/10683112",
+   "description": "De Nederlandse privacywaakhond heeft Uber de op een na grootste Europese privacyboete ooit opgelegd, omdat het Amerikaanse bedrijf deeltaxichauffeurs liet schorsen op basis van algoritmes.",
+   "date": "2026-08-21T16:38:10",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Europa"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mijn probleem is niet AI, mijn probleem is mijn collega",
+   "link": "https://www.standaard.be/opinies/mijn-probleem-is-niet-ai-mijn-probleem-is-mijn-collega/160321693.html",
+   "description": "Jolien Decleer heeft deze week een volledige dag besteed aan het ontcijferen van wat de artificiële intelligentie van een collega haar probeerde te vertellen.",
+   "date": "2026-08-21T16:30:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandstalige tweedehands boeken zijn een goudmijn voor AI-bedrijven: &#8216;Dit is een vorm van barbarisme&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/08/21/nederlandstalige-tweedehands-boeken-zijn-een-goudmijn-voor-ai-bedrijven-dit-is-een-vorm-van-barbarisme-a4934839",
+   "description": "Een aantal Nederlandse handelaren in tweedehandsboeken kreeg de afgelopen maanden ongewone bestellingen vanuit het buitenland. Het vermoeden is dat deze boeken uiteindelijk terechtkomen bij grote AI-bedrijven, die ogenschijnlijk willekeurige boeken zien als onontgonnen bronnen van hoogwaardige data om hun modellen mee te trainen.",
+   "date": "2026-08-21T15:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voortaan advertenties in ChatGPT: ‘Potentieel een gamechanger voor de reclamewereld’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/voortaan-advertenties-in-chatgpt-potentieel-een-gamechanger-voor-de-reclamewereld/",
+   "description": "Vanaf volgende week gaat OpenAI in Europa advertenties tonen in zijn populaire chatbot ChatGPT. Volgens trendwatcher en reclame-expert Fons Van Dyck, strategisch hoofd van reclamegroep BBDO, kan dat de reclamemarkt on­der­ste­bo­ven zetten. En klassieke media zullen nog meer in de klappen delen.\nThe post Voortaan advertenties in ChatGPT: ‘Potentieel een gamechanger voor de reclamewereld’ appeared first on Knack.",
+   "date": "2026-08-21T14:45:47",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SteamOS-bèta blijkt Intel Arc-gpu's te ondersteunen, maar nog geen XMX-engines",
+   "link": "https://tweakers.net/nieuws/251214/steamos-beta-blijkt-intel-arc-gpus-te-ondersteunen-maar-nog-geen-xmx-engines.html",
+   "description": "Een bètaversie van SteamOS blijkt Intel Arc-gpu's te ondersteunen, meldt YouTube-kanaal ETA Prime. Het kanaal krijgt het besturingssysteem werkend op een Arc B580. Gebruikers hoeven niet langer eerst een AMD-videokaart te gebruiken om SteamOS te installeren.",
+   "date": "2026-08-21T14:41:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - CPU-Z 3.01",
+   "link": "https://tweakers.net/downloads/77970/cpu-z-301.html",
+   "description": "CPUID heeft versie 3.01 van CPU-Z uitgebracht voor Windows. Dit kleine programma geeft uitgebreide informatie over de processor, het moederbord en het geheugen in de computer. Daarnaast kan het programma informatie over de grafische kaart in de computer geven, zij het beperkt. Hiervoor kan beter GPU-Z worden gebruikt, dat ondanks een vergelijkbare naam niet van dezelfde makers is. De download bevat aparte versies voor 32bit- en 64bit-omgevingen. Ook zijn er downloads beschikbaar met een thema van een specifieke fabrikant, zoals ASUS, MSI en Asrock. In deze uitgave wordt gebruikgemaakt van een compleet nieuwe validator. Changes in CPU-Z version 3.01:",
+   "date": "2026-08-21T13:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Uber biedt voor het eerst robotaxi's aan in Europa, nog niet in NL of BE",
+   "link": "https://tweakers.net/nieuws/251204/uber-biedt-voor-het-eerst-robotaxis-aan-in-europa-nog-niet-in-nl-of-be.html",
+   "description": "Uber is begonnen met een robotaxidienst in de Kroatische hoofdstad Zagreb. Daarmee biedt Uber voor het eerst robotaxi's aan in Europa. Het gaat om een samenwerking met twee andere bedrijven, waaronder het Chinese Pony.ai. Uber en Pony.ai willen uiteindelijk uitbreiden naar andere Europese landen. Het is niet duidelijk of de dienst ook naar Nederland of België komt.",
+   "date": "2026-08-21T11:51:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese industrie boekt sterkste groei in vier jaar",
+   "link": "https://www.tijd.be/r/t/1/id/10683024",
+   "description": "De opbouw van voorraden en de investeringen in artificiële intelligentie en defensie doen de industriële productie in de eurozone fors stijgen. Daardoor verdwijnen voorlopig geen jobs meer in de industrie.",
+   "date": "2026-08-21T11:43:39",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Europa"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Klimaatimpact van AI is een non-issue",
+   "link": "https://www.tijd.be/r/t/1/id/10682824",
+   "description": "We mogen het belangrijkste debat van onze tijd niet laten kapen door deugdpronkers.",
+   "date": "2026-08-21T11:00:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In het tijdperk van AI-agents primeert snelheid boven perfectie",
+   "link": "https://trends.knack.be/ai-en-tech/best-practices/in-het-tijdperk-van-ai-agents-primeert-snelheid-boven-perfectie/",
+   "description": "‘Vandaag maakt de fase van het experiment plaats voor AI op volle kracht’. Met die premisse warmde Google de IT-sector op voor zijn Cloud AI Live Summit in Amsterdam. Centraal stond de democratisering en versnelling van agentic AI. Je hoeft volgens Google niet langer over een leger developers en engineers te beschikken om binnen de kortste tijd agents in te zetten.\nThe post In het tijdperk van AI-agents primeert snelheid boven perfectie appeared first on Trends.be.",
+   "date": "2026-08-21T10:37:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vanaf volgende week reclame op ChatGPT: zo bescherm je je privacy",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/21/advertenties-op-chatgpt/",
+   "description": "OpenAI toont vanaf volgende week in 31 Europese landen, waaronder België, advertenties in zijn populaire chatbot ChatGPT. De reclame zal onder de chat te zien zijn. \"Voorlopig zullen er geen politieke advertenties te zien zijn. Voorlopig\", benadrukt VRT NWS-journalist en expert Tim Verheyden.",
+   "date": "2026-08-21T10:23:05",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe waterdicht zijn watermerken voor AI-tekst?",
+   "link": "https://trends.knack.be/ai-en-tech/data-en-cloud/hoe-waterdicht-zijn-watermerken-voor-ai-tekst/",
+   "description": "Anthropic kondigde pas aan dat elke tekst die de chatbot Claude genereert voortaan een onzichtbaar watermerk krijgt. De maatregel moet transparantie brengen in onze wereld vol AI-gegenereerde content. Maar hoe robuust is de technologie?\nThe post Hoe waterdicht zijn watermerken voor AI-tekst? appeared first on Trends.be.",
+   "date": "2026-08-21T08:55:34",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | Help, mijn AI wordt te duur",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/ai-tech-podcast-help-mijn-ai-wordt-te-duur/",
+   "description": "Nu kunstmatige intelligentie bij veel bedrijven de overstap maakt van de experimentele speeltuin naar echte bedrijfsproductie, botsen veel organisaties op een bittere, financiële realiteit: de AI-factuur loopt soms onverwacht hard op. Hoe kan dat? En vooral: hoe krijg je dat onder controle? We bespreken het deze week in de podcast AI & Tech.\nThe post AI & Tech-podcast | Help, mijn AI wordt te duur appeared first on Trends.be.",
+   "date": "2026-08-21T08:34:54",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Mark Zuckerberg heeft door dat de weerzin tegen AI groeit. Tijd voor een optimistisch tegengeluid, dacht hij. Maar lukt dat?",
+   "link": "https://www.nrc.nl/nieuws/2026/08/21/leven-met-een-ai-assistent-die-alles-van-je-weet-het-zonnige-toekomstbeeld-van-mark-zuckerberg-a4934882",
+   "description": "In een lang essay beschrijft Mark Zuckerberg hoe hij een zonnige toekomst met AI voor zich ziet. Maar is zijn visie niet eigenlijk een nachtmerriescenario?",
+   "date": "2026-08-21T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Review - Van AMD naar Nvidia in je laptop - RTX 5070 12GB in de Framework 16",
+   "link": "https://tweakers.net/reviews/15156/van-amd-naar-nvidia-in-je-laptop-rtx-5070-12gb-in-de-framework-16.html",
+   "description": "De Framework Laptop 16 heeft zijn eerste videokaartupgrade gekregen. We testen de RTX 5070 12GB en kijken hoeveel beter hij is dan de AMD 7700S.",
+   "date": "2026-08-21T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI op school: leerlingen die de technologie slim gebruiken, ondervinden nauwelijks nadeel",
+   "link": "https://www.knack.be/nieuws/belgie/onderwijs/ai-op-school-leerlingen-die-de-technologie-slim-gebruiken-ondervinden-nauwelijks-nadeel/",
+   "description": "Volgens een nieuwe studie halen leerlingen die AI gebruiken hogere punten op hun huiswerk, maar scoren ze minder goed tijdens examens. Tenzij ze verstandig omspringen met de technologie.\nThe post AI op school: leerlingen die de technologie slim gebruiken, ondervinden nauwelijks nadeel appeared first on Knack.",
+   "date": "2026-08-21T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-22",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Van Telegram-groepen tot AI-brillen: waarom ‘creepshots’ zo moeilijk te stoppen zijn",
    "link": "https://www.demorgen.be/beter-leven/van-telegram-groepen-tot-ai-brillen-waarom-creepshots-zo-moeilijk-te-stoppen-zijn~be3811a1/",
@@ -480,6 +716,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-08-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS vreest leveringen ASML aan China en gaat Nederland beperkingen opleggen",
+   "link": "https://www.nu.nl/tech/6406832/vs-vreest-leveringen-asml-aan-china-en-gaat-nederland-beperkingen-opleggen.html",
+   "description": "Het Nederlandse ASML produceert de technologie waarop de moderne wereld draait. Dat maakt het bedrijf regelmatig tot een geopolitieke speelbal. De Amerikanen maken zich op om Nederland te dwingen de verkoop van chipmachines van ASML aan China vrijwel volledig te verbieden.",
+   "date": "2026-08-19T20:00:44",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-22",
    "intro_geprobeerd": false
   },
   {
