@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T04:15:23",
+ "generated": "2026-08-23T04:22:46",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 27,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 27,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 28,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 144,
+   "count": 138,
    "error": null
   },
   {
@@ -249,6 +249,117 @@
   }
  ],
  "articles": [
+  {
+   "title": "Robot sprint voor het eerst sneller 100 meter dan de mens",
+   "link": "https://www.tijd.be/r/t/1/id/10683156",
+   "description": "Een humanoïde robot van de Chinese smartphonemaker Honor legde in Peking 100 meter af in 9,32 seconden. Voor het eerst duikt een robot zo onder de snelste menselijke tijd ooit op het koningsnummer van de atletiek.",
+   "date": "2026-08-22T19:49:05",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "U heeft recht te weten welke algoritmes uw overheid gebruikt",
+   "link": "https://www.trouw.nl/opinie/opinie-u-heeft-recht-te-weten-welke-algoritmes-uw-overheid-gebruikt~b78b25f4/",
+   "description": "",
+   "date": "2026-08-22T16:40:00",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Wij willen uw pipi\": hoe oproep om op computers te plassen onvrede over AI-datacentra in VS verwoordt",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/22/pipi-opsturen-datacentra-verenigde-staten-ontevredenheid/",
+   "description": "Een satirische oproep om massaal urine op te sturen naar AI-datacentra om computers te koelen: dat is te zien in een virale reclamespot van NFL-speler Jason Kelce in de VS. Hij wil daarmee het gigantische waterverbruik van zulke centra aanklagen, de grootste hebben tot 19 miljoen liter per dag nodig.",
+   "date": "2026-08-22T15:18:14",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Wij willen uw pipi\": hoe oproep om op computers te plassen onvrede over AI-datacentra in VS verwoordt",
+   "link": "https://vrtnws.be/p.M9Xb8mlnO",
+   "description": "Een satirische oproep om massaal urine op te sturen naar AI-datacentra om computers te koelen: dat is te zien in een virale reclamespot van NFL-speler Jason Kelce in de VS. Hij wil daarmee het gigantische waterverbruik van zulke centra aanklagen, de grootste hebben tot 19 miljoen liter per dag nodig. De onvrede over die centra groeit steeds meer uit tot een belangrijk onderwerp voor de tussentijdse verkiezingen in november.",
+   "date": "2026-08-22T15:18:14",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese robot breekt wereldrecord van Usain Bolt op de 100 meter sprint",
+   "link": "https://www.nu.nl/opmerkelijk/6407182/chinese-robot-breekt-wereldrecord-van-usain-bolt-op-de-100-meter-sprint.html",
+   "description": "Een robot van het Chinese technologiebedrijf Honor heeft een robot gemaakt die sneller is op de 100 meter sprint dan Usain Bolt, die het wereldrecord op die afstand vestigde. De robot deed 9,32 seconde over de afstand, ruim een kwart seconde sneller dan Bolt.",
+   "date": "2026-08-22T14:00:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "LinkedIn gaat gebruikers waarschuwen als anderen hun post zien als AI",
+   "link": "https://tweakers.net/nieuws/251244/linkedin-gaat-gebruikers-waarschuwen-als-anderen-hun-post-zien-als-ai.html",
+   "description": "LinkedIn gaat gebruikers waarschuwen als andere gebruikers hun post aanmerken als door AI geschreven. De melding doet niets met hoeveel de post in feeds van anderen opduikt. LinkedIn ziet het aanpakken van AI-gebruik als prioriteit.",
+   "date": "2026-08-22T11:14:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple ontslaat 200 mensen die werkten aan Siri en Vision Pro",
+   "link": "https://tweakers.net/nieuws/251240/apple-ontslaat-200-mensen-die-werkten-aan-siri-en-vision-pro.html",
+   "description": "Apple heeft ongeveer tweehonderd mensen ontslagen die onder meer werkten aan gaming en video's voor de Vision Pro-headset van de fabrikant. Ook mensen die werkten aan de Siri-versie zonder generatieve AI gaan weg.",
+   "date": "2026-08-22T09:19:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | De zeldzaamste boeken worden vermorzeld om AI te trainen",
+   "link": "https://www.nu.nl/tech/6406817/de-zeldzaamste-boeken-worden-vermorzeld-om-ai-te-trainen.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Deze week leest hij alwéér dat boeken worden vernietigd zodra er generatieve AI mee is getraind. Kan dat niet anders?",
+   "date": "2026-08-22T08:31:12",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-sterretje in hoek van foto of video is niet langer verplicht: hoe herken je een nepbeeld?",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/21/google-watermerk-gemini-verdwijnt-standaard/",
+   "description": "Hoe weet je nog of een foto echt is? Dat wordt opnieuw wat moeilijker nu Google haar gebruikers zelf laat kiezen of ze het zichtbare watermerk van foto's en video's die met AI gemaakt zijn, willen behouden. Het bekende Gemini-sterretje, normaal in de hoek van zulke beelden, is niet langer verplicht zichtbaar.",
+   "date": "2026-08-22T06:10:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-fraude zit verzekeraars vaker dwars: 'Uiteindelijk gaat premie omhoog'",
+   "link": "https://www.nu.nl/tech/6407072/ai-fraude-zit-verzekeraars-vaker-dwars-uiteindelijk-gaat-premie-omhoog.html",
+   "description": "Fraudeurs gebruiken steeds vaker kunstmatige intelligentie om verzekeraars op te lichten, bijvoorbeeld door facturen en schadefoto's te vervalsen. Onderzoekers proberen valse claims te onderscheppen. Als dat niet lukt, betalen we allemaal de prijs doordat premies stijgen.",
+   "date": "2026-08-22T05:00:29",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Chipbedrijf Nvidia jaagt de AI-hausse aan om dominant te blijven, met alle risico’s van dien",
    "link": "https://www.demorgen.be/tech-wetenschap/chipbedrijf-nvidia-jaagt-de-ai-hausse-aan-om-dominant-te-blijven-met-alle-risico-s-van-dien~b16484b1/",
