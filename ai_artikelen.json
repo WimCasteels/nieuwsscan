@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T04:22:46",
+ "generated": "2026-08-24T04:22:19",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 29,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 138,
+   "count": 142,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 93,
    "error": null
   },
   {
@@ -249,6 +249,95 @@
   }
  ],
  "articles": [
+  {
+   "title": "Opinie: Overheid moet AI Nederlands leren denken",
+   "link": "https://www.trouw.nl/opinie/opinie-overheid-moet-ai-nederlands-leren-denken~b9a65952/",
+   "description": "",
+   "date": "2026-08-23T22:00:00",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De week die komt: Nvidia, Iran, Jackson Hole, Oekraïne, Ageas, DEME, staatsbon en IJsland",
+   "link": "https://www.tijd.be/r/t/1/id/10683149",
+   "description": "Hoe wil Trump de Iranoorlog alsnog proberen te winnen? Blaast Nvidia de AI-rally nieuw leven in? Hoe presteren Ageas, AvH en DEME? Hoe evolueert de Belgische en Amerikaanse langetermijnrente, en wat zeggen de centrale bankiers in Jackson Hole? En kiest IJsland voor de EU? U komt het deze week te weten.",
+   "date": "2026-08-23T17:30:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schoonbroer Taylor Swift kaart probleem van datacenters aan met ludieke videoclip: “We want your pee”",
+   "link": "https://www.standaard.be/economie/schoonbroer-taylor-swift-kaart-probleem-van-datacenters-aan-met-ludieke-videoclip-we-want-your-pee/160393665.html",
+   "description": "In de Verenigde Staten zwengelt het protest tegen de bouw van steeds meer datacenters aan. Samen met twee drankmerken lanceert Jason Kelce, de schoonbroer van popster Taylor Swift, een ludieke protestactie.",
+   "date": "2026-08-23T14:07:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Focus op PCE-inflatie, Jackson Hole en cijfers Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/focus-op-pce-inflatie-jackson-hole-en-cijfers-nvidia/",
+   "description": "(ABM FN) De komende beursweek zal vooral in het teken staan van de kwartaalcijfers van Nvidia, terwijl verder de PCE-inflatie interessant is in het kader van het rentebeleid van de Federal Reserve, die aan het einde van de week in de schijnwerpers zal staan tijdens het jaarlijkse symposium in Jackson Hole.Wat betreft de PCE-inflatie wordt gerekend …\nThe post Focus op PCE-inflatie, Jackson Hole en cijfers Nvidia appeared first on Trends.be.",
+   "date": "2026-08-23T12:40:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alibaba tankt 10 miljard dollar bij voor AI-investeringen",
+   "link": "https://www.tijd.be/r/t/1/id/10683171",
+   "description": "Alibaba wil ruim 10 miljard dollar vers kapitaal ophalen om zijn investeringen in artificiële intelligentie verder op te voeren.",
+   "date": "2026-08-23T12:38:16",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Record op 100 meter van Usain Bolt voor het eerst gebroken door robot",
+   "link": "https://www.standaard.be/economie/record-op-100-meter-van-usain-bolt-voor-het-eerst-gebroken-door-robot/160389492.html",
+   "description": "Een Chinese robot heeft zaterdag de 100 meter gelopen in 9,39 seconden. Dat is 19 honderdsten sneller dan het mythische record van de Jamaicaan Usain Bolt.",
+   "date": "2026-08-23T11:26:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: Nvidia verhoogt prijzen van AI-servers",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-nvidia-verhoogt-prijzen-van-ai-servers/",
+   "description": "(ABM FN-Dow Jones) Nvidia heeft enkele van zijn grootste klanten laten weten dat het de prijzen van servers met zijn AI-chips in veel gevallen met meer dan 15 procent zal verhogen, nu de kosten van geheugenchips sterk stijgen. Dit meldde persbureau Bloomberg zaterdagavond op basis van bronnen. De prijsverhogingen gelden voor Nvidia-systemen die begin volgend jaar worden …\nThe post Media: Nvidia verhoogt prijzen van AI-servers appeared first on Trends.be.",
+   "date": "2026-08-23T10:59:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia verhoogt prijzen door duur geheugen, AI-servers ruim 15 procent duurder",
+   "link": "https://www.tijd.be/r/t/1/id/10683163",
+   "description": "De grootste klanten van Nvidia kregen te horen dat servers met AI-chips volgend jaar fors duurder worden, omdat geheugenchips fors duurder zijn geworden. Het toont de marktmacht van de grote geheugenchipbouwers Samsung, SK Hynix en Micron.",
+   "date": "2026-08-23T08:48:31",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-24",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Robot sprint voor het eerst sneller 100 meter dan de mens",
    "link": "https://www.tijd.be/r/t/1/id/10683156",
@@ -303,6 +392,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-08-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese robot breekt wereldrecord van Usain Bolt op 100 meter sprint",
+   "link": "https://www.nu.nl/opmerkelijk/6407182/chinese-robot-breekt-wereldrecord-van-usain-bolt-op-100-meter-sprint.html",
+   "description": "Een Chinese robot heeft sneller gelopen dan het wereldrecord van Usain Bolt op de 100 meter sprint. De robot deed 9,32 seconden over de afstand. Dat is ruim een kwartseconde sneller dan de toptijd uit 2009.",
+   "date": "2026-08-22T14:00:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-24",
    "intro_geprobeerd": false
   },
   {
@@ -369,6 +469,17 @@
     "De Morgen - Wetenschap"
    ],
    "first_seen": "2026-08-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘De groeiverwachtingen zijn nu zó hoog, dat het steeds moeilijker wordt daaraan te voldoen’: Nvidia is de spil van de AI-industrie",
+   "link": "https://www.demorgen.be/tech-ai/de-groeiverwachtingen-zijn-nu-zo-hoog-dat-het-steeds-moeilijker-wordt-daaraan-te-voldoen-nvidia-is-de-spil-van-de-ai-industrie~b16484b1/",
+   "description": "",
+   "date": "2026-08-22T03:00:00",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-08-24",
    "intro_geprobeerd": true
   },
   {
