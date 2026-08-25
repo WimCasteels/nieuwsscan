@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T04:22:19",
+ "generated": "2026-08-25T04:17:43",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,13 +16,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 24,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 27,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 142,
+   "count": 149,
    "error": null
   },
   {
@@ -249,6 +249,260 @@
   }
  ],
  "articles": [
+  {
+   "title": "Dinsdag op tv: AI in de gezondheidszorg, een onvergetelijke film over dementie en Axel Daeseleire in Amerika (deel 2)",
+   "link": "https://www.standaard.be/nieuws/dinsdag-op-tv-ai-in-de-gezondheidszorg-een-onvergetelijke-film-over-dementie-en-axel-daeseleire-in-amerika-deel-2/160418885.html",
+   "description": "Geen idee wat u vanavond kunt bekijken op tv of op zoek naar streamingtips? Hier vindt u dagelijks aanraders van onze mediaredacteurs.",
+   "date": "2026-08-24T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De vraag blijft of een watermerk in een AI-tekst wel waterdicht is",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/de-vraag-blijft-of-een-watermerk-in-een-ai-tekst-wel-waterdicht-is~b2bdaf67/",
+   "description": "",
+   "date": "2026-08-24T22:00:17",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Techaandelen wegen op Wall Street, ook Trump heeft impact",
+   "link": "https://www.tijd.be/r/t/1/id/10683317",
+   "description": "De chipsector stond onder druk in de aanloop naar de cijfers van Nvidia, waardoor de Nasdaq rood noteerde. Tegelijk zorgden de Amerikaanse handelspolitiek en de aangekondigde sancties van de Amerikaanse overheid voor bewegingen in de autosector en de oliemarkt.",
+   "date": "2026-08-24T20:40:19",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brakel na Wichelen 2e Vlaamse gemeente die TamTam gebruikt voor communicatie met inwoners",
+   "link": "https://vrtnws.be/p.vL43JpQ7N",
+   "description": "Brakel kan vanaf vandaag met haar inwoners communiceren via het WhatsApp-platform TamTam. Ze is na pionier Wichelen de tweede Vlaamse gemeente die dit zal gebruiken. Burgers kunnen via het platform antwoord krijgen op heel wat vragen. Omdat TamTam gebruikmaakt van AI, is de dienst 24 uur per dag en 7 dagen per week bereikbaar.",
+   "date": "2026-08-24T20:14:54",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brussels Airport test zelfrijdende trekker om vracht te vervoeren",
+   "link": "https://tweakers.net/nieuws/251306/brussels-airport-test-zelfrijdende-trekker-om-vracht-te-vervoeren.html",
+   "description": "Brussels Airport test momenteel een elektrische trekker die autonoom kan rondrijden. Het voertuig rijdt vooraf bepaalde routes in een afgebakend deel van de luchthaven. Tijdens de testritten is altijd een mens aan boord om eventueel in te grijpen.",
+   "date": "2026-08-24T20:10:32",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dr. Dre gebruikt AI in nieuwe muziek, Meghan Markle mist rol in Netflix-reeks ‘The gentlemen’",
+   "link": "https://www.standaard.be/media-en-cultuur/dr.-dre-gebruikt-ai-in-nieuwe-muziek-meghan-markle-mist-rol-in-netflix-reeks-the-gentlemen/160440489.html",
+   "description": "Wie in BV-land of Hollywood vertoeft, op de rode loper of in de wandelgangen, komt al eens op bezoek in deze rubriek.",
+   "date": "2026-08-24T19:01:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: nee, de bosbranden in Frankrijk zijn niet ‘toevallig begonnen op de plaatsen waar de bouw van nieuwe datacenters is gepland’",
+   "link": "https://www.knack.be/factcheck/factcheck-nee-de-bosbranden-in-frankrijk-zijn-niet-toevallig-begonnen-op-de-plaatsen-waar-de-bouw-van-nieuwe-datacenters-is-gepland/",
+   "description": "Op sociale media wordt gesteld dat de bosbranden van deze zomer in Frankrijk ‘niet toevallig’ zijn begonnen op die plaatsen waar, volgens een recente aankondiging van de Franse president Emmanuel Macron, datacenters zullen worden gebouwd. De aankondiging van die geplande datacenters dateert echter al van februari 2026 en de plaatsen waar de datacenters gepland zijn, komen niet overeen met de plekken waar deze zomer natuurbranden plaatsvonden.\nThe post Factcheck: nee, de bosbranden in Frankrijk zijn niet ‘toevallig begonnen op de plaatsen waar de bouw van nieuwe datacenters is gepland’ appeared first on Knack.",
+   "date": "2026-08-24T17:50:40",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'AI-platform Hugging Face overweegt overname voor 13 miljard dollar'",
+   "link": "https://tweakers.net/nieuws/251296/ai-platform-hugging-face-overweegt-overname-voor-13-miljard-dollar.html",
+   "description": "AI-platform Hugging Face overweegt zichzelf te laten overnemen. Dat zeggen ingewijden tegen Business Insider. Zo'n overname zou het platform waarderen op 13 miljard dollar of meer, aldus de nieuwswebsite. Er is nog geen definitieve deal gesloten.",
+   "date": "2026-08-24T17:46:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaams onderwijs moet leiden in AI",
+   "link": "https://www.tijd.be/r/t/1/id/10683255",
+   "description": "Bij de implementatie van generatieve artificiële intelligentie (GenAI) in ons onderwijs spelen Vlaamse leraren eerder een lijdende dan een leidende rol. Dat gaat ten koste van onze leerlingen en hun vaardigheden. Nochtans is niemand beter geschikt dan onze leraren om het enorme potentieel van AI voor ons onderwijs te benutten.",
+   "date": "2026-08-24T17:14:23",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een dystopische oorlog met autonome AI-drones begint. Zijn wij daar klaar voor?",
+   "link": "https://www.demorgen.be/meningen/een-dystopische-oorlog-met-autonome-ai-drones-begint-zijn-wij-daar-klaar-voor~bb34956e/",
+   "description": "",
+   "date": "2026-08-24T16:45:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Internetplatforms willen de AI-slop-kraan weer dichtdraaien",
+   "link": "https://www.standaard.be/media-en-cultuur/internetplatforms-willen-de-ai-slop-kraan-weer-dichtdraaien/160416528.html",
+   "description": "Linkedin, Reddit, Snapchat: steeds meer websites en apps proberen AI-slop te weren om hun menselijke gebruikers aan boord te houden. Is het al te laat?",
+   "date": "2026-08-24T16:25:02",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse streamer start rechtszaak tegen Twitch en Amazon om AI-training",
+   "link": "https://tweakers.net/nieuws/251288/amerikaanse-streamer-start-rechtszaak-tegen-twitch-en-amazon-om-ai-training.html",
+   "description": "Een Amerikaanse streamer start een rechtszaak tegen Twitch en moederbedrijf Amazon vanwege de instelling waarmee Twitch-gebruikers data met Amazon delen voor AI-training. De instelling staat tegenwoordig standaard aan.",
+   "date": "2026-08-24T15:40:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street koerst af op lager begin",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-koerst-af-op-lager-begin/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, mede door een daling van techaandelen voorbeurs. Maar ook de aanstaande kwartaalcijfers van Nvidia en de mogelijke uitkomsten van de Jackson Hole-conferentie zijn van invloed.Ongeveer een half uur voor de opening in New York noteerde de future op de S&P 500 ongeveer 0,2 procent …\nThe post Wall Street koerst af op lager begin appeared first on Trends.be.",
+   "date": "2026-08-24T14:50:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Bel20 zet recordstand iets scherper",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-bel20-zet-recordstand-iets-scherper/",
+   "description": "(ABM FN) De Bel20 index koerste maandagmiddag licht hoger. Beleggers wachten op de kwartaalcijfers van Nvidia op woensdag, terwijl ook de PCE-inflatie in de belangstelling staat in het kader van het rentebeleid van de Federal Reserve, die aan het einde van de week in de schijnwerpers zal staan tijdens het jaarlijkse symposium in Jackson Hole.De Bel20 …\nThe post Beursupdate: Bel20 zet recordstand iets scherper appeared first on Trends.be.",
+   "date": "2026-08-24T13:58:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Singapore onthult prototype van datacenterrack met levende neuronen",
+   "link": "https://tweakers.net/nieuws/251282/singapore-onthult-prototype-van-datacenterrack-met-levende-neuronen.html",
+   "description": "De National University of Singapore, datacenteroperator DayOne en het Australische Cortical Labs hebben een prototype van een biologisch datacenterrack onthuld. Het rack bestaat uit menselijke neuronen, die in een lab uit stamcellen zijn gekweekt. Volgens de makers is het rack onder meer interessant voor AI-toepassingen.",
+   "date": "2026-08-24T13:25:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Humanoïde robots breken hardlooprecords op 100 en 400 meter",
+   "link": "https://tweakers.net/geek/251280/humanoide-robots-breken-hardlooprecords-op-100-en-400-meter.html",
+   "description": "Hardlopen is voor humanoïde robots allang geen grote uitdaging meer. Dat blijkt wel tijdens de World Humanoid Robot Games in China. Robots braken daar twee hardlooprecords. Remmen is daarentegen nog wel een probleem.",
+   "date": "2026-08-24T12:35:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Brusselse beurs blijft dicht bij huis",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-brusselse-beurs-blijft-dicht-bij-huis-9/",
+   "description": "(ABM FN) De Bel20 index koerste maandagochtend nagenoeg vlak. Beleggers bleven afwachtend in aanloop naar de kwartaalcijfers van Nvidia op woensdag, terwijl ook de PCE-inflatie in de belangstelling staat in het kader van het rentebeleid van de Federal Reserve, die aan het einde van de week in de schijnwerpers zal staan tijdens het jaarlijkse symposium in …\nThe post Beursupdate: Brusselse beurs blijft dicht bij huis appeared first on Trends.be.",
+   "date": "2026-08-24T10:46:40",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ruim één op de drie nieuwe webpagina’s vertoont sporen van AI",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ruim-een-op-de-drie-nieuwe-webpaginas-vertoont-sporen-van-ai/",
+   "description": "Generatieve AI laat diepe sporen na op het wereldwijde web. Sinds de lancering van ChatGPT blijkt 35% van alle nieuwe webpagina’s op z’n minst bewerkt te zijn door AI.\nThe post Ruim één op de drie nieuwe webpagina’s vertoont sporen van AI appeared first on Trends.be.",
+   "date": "2026-08-24T10:38:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Starter van de week: Houston, AI-platform voor slimmere productie",
+   "link": "https://trends.knack.be/ondernemen/starter-van-de-week-houston-ai-platform-voor-slimmere-productie/",
+   "description": "Het Gentse Houston helpt productieteams te digitaliseren en voortdurend te verbeteren. \"Kwaliteit, veiligheid, onderhoud, inspecties en audits kunnen in één omgeving beheerd worden\", legt oprichter Reinout Declerck uit. \"Artificiële intelligentie (AI) speurt naar verbeterkansen en waarschuwt wanneer iets aandacht nodig heeft.\"Wat maakt Houston uniek?\"Mensen op de werkvloer kennen de operaties het best. Wij geven hen …\nThe post Starter van de week: Houston, AI-platform voor slimmere productie appeared first on Trends.be.",
+   "date": "2026-08-24T10:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI maakt de grens tussen belastingen en sociale zekerheid achterhaald’",
+   "link": "https://trends.knack.be/opinie/ai-maakt-de-grens-tussen-belastingen-en-sociale-zekerheid-achterhaald/",
+   "description": "We belasten vandaag vooral de mens die werkt. In een economie waarin technologie steeds meer waarde creëert, is dat niet alleen onrechtvaardig, maar wordt het ook onhoudbaar. \nThe post ‘AI maakt de grens tussen belastingen en sociale zekerheid achterhaald’ appeared first on Trends.be.",
+   "date": "2026-08-24T09:31:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agent geeft studenten bij waterstofraceteam TU Delft een jumpstart",
+   "link": "https://trends.knack.be/ai-en-tech/best-practices/ai-agent-geeft-studenten-bij-waterstofraceteam-tu-delft-een-jumpstart/",
+   "description": "AI-agenten kunnen ook in kleinere organisaties van pas komen. Forze Hydrogen Racing, het waterstofraceteam van de TU Delft, wilde de kennisdeling tussen verschillende generaties studenten vereenvoudigen en efficiënter maken. Samen met Randstad Digital creëerde het team Forze Mirate: een AI-agent, gebouwd met Gemini Enterprise van Google Cloud.\nThe post AI-agent geeft studenten bij waterstofraceteam TU Delft een jumpstart appeared first on Trends.be.",
+   "date": "2026-08-24T09:05:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "STMicroelectronics start onderzoekslab Singapore",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/stmicroelectronics-start-onderzoekslab-singapore/",
+   "description": "(ABM FN-Dow Jones) STMicroelectronics en de National University of Singapore (NUS) hebben het ST-NUS HELIX Corporate Lab gelanceerd, een vierjarig onderzoeksinitiatief gericht op de volgende generatie edge AI-technologie. Dit maakte de chipmaker maandagochtend bekend.HELIX, dat staat voor Hardware for Embodied Low-power Intelligent Xcceleration, moet nieuwe generatieve en belichaamde AI-toepassingen aan de rand van netwerken mogelijk …\nThe post STMicroelectronics start onderzoekslab Singapore appeared first on Trends.be.",
+   "date": "2026-08-24T08:12:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen wacht nagenoeg vlakke opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-wacht-nagenoeg-vlakke-opening/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen gaan maandag een nagenoeg vlakke opening tegemoet, aan een vrij rustig begin van de handelsweek, die de komende dagen in het teken zal staan van de kwartaalresultaten van Nvidia en de start van het jaarlijkse symposium voor centrale banken in Jackson Hole plaats. Beleggers zijn vooral benieuwd naar de toespraak …\nThe post Europese beurzen wacht nagenoeg vlakke opening appeared first on Trends.be.",
+   "date": "2026-08-24T07:08:26",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-25",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Opinie: Overheid moet AI Nederlands leren denken",
    "link": "https://www.trouw.nl/opinie/opinie-overheid-moet-ai-nederlands-leren-denken~b9a65952/",
