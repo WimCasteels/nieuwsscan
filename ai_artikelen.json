@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T04:17:43",
+ "generated": "2026-08-26T04:24:11",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,13 +16,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 24,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 27,
+   "count": 31,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 149,
+   "count": 152,
    "error": null
   },
   {
@@ -249,6 +249,216 @@
   }
  ],
  "articles": [
+  {
+   "title": "Demir wil duidelijke regels rond AI in onderwijs",
+   "link": "https://www.demorgen.be/nieuws/demir-wil-duidelijke-regels-rond-ai-in-onderwijs~bc035208/",
+   "description": "",
+   "date": "2026-08-26T03:00:44",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Door chips ‘in de hoogte’ te bouwen wil Belgisch bedrijf zich mengen in AI-wedloop tussen VS en China: “Waarom kan de volgende chipinnovatie niet uit Europa komen?”",
+   "link": "https://www.standaard.be/economie/door-chips-in-de-hoogte-te-bouwen-wil-belgisch-bedrijf-zich-mengen-in-ai-wedloop-tussen-vs-en-china-waarom-kan-de-volgende-chipinnovatie-niet-uit-europa-komen/159403572.html",
+   "description": "Europa is nog niet uitgeteld in de AI-race tussen de VS en China, zegt Sebastien Couet van de Belgische start-up Vertical Compute. Hij wil met een technologische doorbraak in chipontwerp de hele AI-architectuur hertekenen.",
+   "date": "2026-08-25T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wachten op het eerste AI-Hiroshima",
+   "link": "https://www.standaard.be/opinies/wachten-op-het-eerste-ai-hiroshima/160471396.html",
+   "description": "In Silicon Valley denken ze dat superintelligentie voor het grijpen ligt, schrijft Timothy Garton Ash. We zullen ons hart mogen vasthouden als het zover is.",
+   "date": "2026-08-25T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: nieuwe Macs en tegenvallend Dick's als voorsmaakje op Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10683412",
+   "description": "Wall Street veerde dinsdag op dankzij goedkopere olie en lagere obligatierentes. Vooral chipbedrijven herpakten zich in afwachting van de resultaten van Nvidia.",
+   "date": "2026-08-25T22:09:43",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoofdredacteur van ‘Schrijven Magazine’ Frank Noë wil dat auteurs AI als coach omarmen",
+   "link": "https://www.trouw.nl/cultuur-media/hoofdredacteur-van-schrijven-magazine-frank-noe-wil-dat-auteurs-ai-als-coach-omarmen-zolang-ze-zelf-maar-blijven-schrijven~b6353608/",
+   "description": "",
+   "date": "2026-08-25T22:06:57",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Eindhoven kent grote economische groei dankzij de hightechindustrie. Waarom krijgen kinderen in Woensel-West dan niet meer kansen?",
+   "link": "https://www.nrc.nl/nieuws/2026/08/25/eindhoven-kent-grote-economische-groei-dankzij-de-hightechindustrie-waarom-krijgen-kinderen-in-woensel-west-dan-niet-meer-kansen-a4933310",
+   "description": "Iedereen in Eindhoven moet kunnen profiteren van de economische impuls van de techindustrie, vinden bezorgde inwoners. Dus ook de mensen in minder succesvolle buurten. „Op verjaardagsfeestjes wordt niet gepraat over chipmachines, maar over waar onze kinderen moeten wonen.”",
+   "date": "2026-08-25T21:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GeForce Now krijgt ondersteuning voor Steam Controller en DLSS 4.5-instellingen",
+   "link": "https://tweakers.net/nieuws/251290/geforce-now-krijgt-ondersteuning-voor-steam-controller-en-dlss-45-instellingen.html",
+   "description": "GeForce Now krijgt ondersteuning voor de Steam Machine en de Steam Controller. Ook krijgen gebruikers van de gamestreamingdienst de mogelijkheid om eigen DLSS-instellingen te kiezen. Die aankondigingen deed Nvidia tijdens de GeForce On-stream aan de vooravond van gamescom.",
+   "date": "2026-08-25T20:12:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI stelt weer vijfuurslimiet voor Codex in voor Plus-abonnees",
+   "link": "https://tweakers.net/nieuws/251348/openai-stelt-weer-vijfuurslimiet-voor-codex-in-voor-plus-abonnees.html",
+   "description": "OpenAI stelt voor Plus-abonnees weer een vijfuurslimiet in voor het gebruik van zijn AI-agent ChatGPT Work en programmeertool Codex. Dat gebeurt vanaf dinsdag, schrijft Thibault Sottiaux, hoofd van Codex en ChatGPT. De limiet geldt niet voor gebruikers met een Pro-abo, dat minimaal 100 euro kost.",
+   "date": "2026-08-25T20:03:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia maakt DLSS 4.5 Ray Reconstruction beschikbaar via Nvidia-app",
+   "link": "https://tweakers.net/nieuws/251146/nvidia-maakt-dlss-45-ray-reconstruction-beschikbaar-via-nvidia-app.html",
+   "description": "Nvidia brengt ondersteuning voor DLSS 4.5 Ray Reconstruction uit. Dat AI-model combineert de nieuwste DLSS-upscaling met denoising voor raytracing en pathtracing. Tot nu toe moesten gamers kiezen.",
+   "date": "2026-08-25T17:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Liang Wenfeng: de techno-optimist met een &#8216;angstaanjagend vermogen om te leren&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/08/25/liang-wenfeng-de-techno-optimist-met-een-angstaanjagend-vermogen-om-te-leren-a4933608",
+   "description": "Na de doorbraak van zijn AI-bedrijf DeepSeek werd topman Liang Wenfeng plots het boegbeeld van ‘Team China’ in de techoorlog met de VS. Het is een rol waaraan hij niet ontkomt: zijn achtergrond als homegrown techneut past perfect bij China’s nationale strategie.",
+   "date": "2026-08-25T16:24:56",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google Cloud lanceert juridisch AI-model",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/google-cloud-lanceert-juridisch-ai-model/",
+   "description": "(ABM FN-Dow Jones) Google Cloud heeft dinsdag een nieuw juridisch AI-model gelanceerd.Met Gemini Enterprise for Legal wil Google een AI-oplossing bieden voor de juridische wereld.De eerste klanten van het model zijn Cleary, Freshfields, Weil en Williams & Connolly. \"Met agentic AI kunnen juristen onderzoek doen naar historische jurisprudentie, complexe argumenten opbouwen en routinematige taken automatiseren. Dit kan …\nThe post Google Cloud lanceert juridisch AI-model appeared first on Trends.be.",
+   "date": "2026-08-25T15:08:22",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft werkte volgens lek aan CopilotOS zonder startmenu, desktop en taakbalk",
+   "link": "https://tweakers.net/nieuws/251318/microsoft-werkte-volgens-lek-aan-copilotos-zonder-startmenu-desktop-en-taakbalk.html",
+   "description": "Microsoft werkte volgens uitgelekte documenten aan een besturingssysteem rond zijn AI-tool Copilot. Dit alternatief voor Windows 11 zou geen startmenu hebben, geen desktopomgeving en geen traditionele apps op de bekende taakbalk. Bediening en gebruik moesten geheel via Copilot gebeuren.",
+   "date": "2026-08-25T14:09:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen hoger rond lunchtijd",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-hoger-rond-lunchtijd-4/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa noteerden dinsdag licht hoger, terwijl de rentes en olieprijzen verder daalden. Halfgeleideraandelen deden goede zaken.De Stoxx Europe 600 won rond lunchtijd 0,5 procent op 657,31 punten en de Duitse DAX steeg 0,7 procent op 26.297,97 punten. De Franse CAC 40 noteerde 0,4 procent in de plus op 8.489,38 punten …\nThe post Europese beurzen hoger rond lunchtijd appeared first on Trends.be.",
+   "date": "2026-08-25T12:21:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Melexis koploper in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-melexis-koploper-in-groene-bel20/",
+   "description": "(ABM FN) De Brusselse beurs noteerde dinsdag tegen het einde van de ochtend licht hoger. Beleggers lijken wat afwachtend in aanloop naar de PCE-inflatiedata en de kwartaalcijfers van Nvidia die woensdag op de rol staan. Donderdag zal de aandacht dan verschuiven naar de jaarlijkse bijeenkomst van centrale bankiers in Jackson Hole.De Bel20 index noteert dinsdag rond …\nThe post Beursupdate: Melexis koploper in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-08-25T11:33:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Boodschappen doen via ChatGPT: Carrefour bereidt zich voor op de handel van morgen",
+   "link": "https://trends.knack.be/ai-en-tech/boodschappen-doen-via-chatgpt-carrefour-bereidt-zich-voor-op-de-handel-van-morgen/",
+   "description": "Carrefour lanceert, als eerste Belgische supermarktketen, een boodschappenassistent in ChatGPT. Het wil niet alleen het kopen van levensmiddelen vereenvoudigen: de keten test vooral wat wel eens het volgende grote kanaal voor digitale handel zou kunnen worden.\nThe post Boodschappen doen via ChatGPT: Carrefour bereidt zich voor op de handel van morgen appeared first on Trends.be.",
+   "date": "2026-08-25T11:18:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Europa dreigt tussen drie AI-vuren te belanden’",
+   "link": "https://trends.knack.be/opinie/europa-dreigt-tussen-drie-ai-vuren-te-belanden/",
+   "description": "Europa dreigt tussen drie vuren te belanden: afhankelijk voor de AI-fundamenten van de Verenigde Staten, afhankelijk van China voor de industriële en technologische toepassingen, en te verdeeld om de eigen Europese capaciteit te concentreren en op te schalen. \nThe post ‘Europa dreigt tussen drie AI-vuren te belanden’ appeared first on Trends.be.",
+   "date": "2026-08-25T11:05:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipmarkt explodeert door AI-boom: groei van 92% verwacht",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/chipmarkt-explodeert-door-ai-boom-groei-van-92-verwacht/",
+   "description": "Onderzoeksbureau Gartner verwacht dat de omzet van halfgeleiders dit jaar stijgt naar 1,6 biljoen dollar. Dat is een groei met 92% tegenover de 809 miljard dollar van 2025. Voor 2027 wordt een wereldwijde omzet van 1,9 biljoen dollar verwacht.\nThe post Chipmarkt explodeert door AI-boom: groei van 92% verwacht appeared first on Trends.be.",
+   "date": "2026-08-25T10:35:40",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen laten verdeeld beeld zien",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-laten-verdeeld-beeld-zien/",
+   "description": "(ABM FN) De Aziatische beurzen lieten dinsdagochtend een verdeeld beeld zien en de hoofdindices bleven overwegend dicht bij huis. In China koersten de hoofdindices enkele tienden van een procent lager, terwijl Sydney en Tokio ongeveer een half procent wonnen. Techaandelen stonden licht onder druk in aanloop naar de kwartaalcijfers van Nvidia woensdag nabeurs op Wall Street. De verwachtingen …\nThe post Aziatische beurzen laten verdeeld beeld zien appeared first on Trends.be.",
+   "date": "2026-08-25T07:24:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Melexis wordt rechtstreekse leverancier van BYD",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/melexis-wordt-rechtstreekse-leverancier-van-byd/",
+   "description": "(ABM FN) Melexis heeft een inkoopovereenkomst gesloten met BYD, waarmee het Belgische chipbedrijf overstapt naar een directe leveranciersrelatie binnen het wereldwijde inkoopnetwerk van de Chinese autobouwer. Dit maakte het Belgisch bedrijf gespecialiseerd in micro-elektronica dinsdagmorgen bekend. De overeenkomst, een zogeheten Master Purchase Agreement, formaliseert en verdiept de langlopende samenwerking tussen beide bedrijven op het gebied van …\nThe post Melexis wordt rechtstreekse leverancier van BYD appeared first on Trends.be.",
+   "date": "2026-08-25T07:16:49",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Dinsdag op tv: AI in de gezondheidszorg, een onvergetelijke film over dementie en Axel Daeseleire in Amerika (deel 2)",
    "link": "https://www.standaard.be/nieuws/dinsdag-op-tv-ai-in-de-gezondheidszorg-een-onvergetelijke-film-over-dementie-en-axel-daeseleire-in-amerika-deel-2/160418885.html",
