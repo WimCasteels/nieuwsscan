@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T04:24:11",
+ "generated": "2026-08-27T12:55:09",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,13 +16,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 152,
+   "count": 153,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 94,
    "error": null
   },
   {
@@ -249,6 +249,404 @@
   }
  ],
  "articles": [
+  {
+   "title": "Nu marktenchat over de staatsbon, Lotus Bakeries en Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10683525",
+   "description": "Van 12 tot 13 uur chatten we over de markten en de economie.",
+   "date": "2026-08-27T12:03:30",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Brusselse beurs zakt wat weg",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-brusselse-beurs-zakt-wat-weg/",
+   "description": "(ABM FN) De Bel20 index noteerde donderdag aan het einde van de ochtend op 5.848 punten, een daling van 0,2 procent. Nvidia leverde precies wat de markten wilden zien en horen: de AI-trein heeft volgens Frank Vranken van Bank Edmond de Rothschild nog altijd zijn momentum. De investeringen in deze technologie gaan onverminderd door en als …\nThe post Beursupdate: Brusselse beurs zakt wat weg appeared first on Trends.be.",
+   "date": "2026-08-27T11:26:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse chipindustrie verdubbelt omzet in vijf jaar tot 46 miljard euro",
+   "link": "https://tweakers.net/nieuws/251448/nederlandse-chipindustrie-verdubbelt-omzet-in-vijf-jaar-tot-46-miljard-euro.html",
+   "description": "De omzet van de Nederlandse chipindustrie is in vijf jaar tijd ruim verdubbeld, zegt het CBS. Vorig jaar had de Nederlandse halfgeleidersector een omzet van 46 miljard euro. In 2020 was dat nog 'slechts' 22 miljard euro. Nederlandse bedrijven in de chipsector zijn gegroeid, maar zijn zich ook meer op chips gaan richten.",
+   "date": "2026-08-27T11:14:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topcijfers voor chipreus Nvidia, die er geen graten in ziet dat het eigen klanten financiert",
+   "link": "https://www.standaard.be/economie/topcijfers-voor-chipreus-nvidia-die-er-geen-graten-in-ziet-dat-het-eigen-klanten-financiert/160570583.html",
+   "description": "Nvidia ziet zijn verkopen van chips voor artificiële intelligentie nog harder stijgen dan verwacht, en verdedigt zich tegen de kritiek dat het met “circulaire financiering” een bubbel creëert.",
+   "date": "2026-08-27T11:02:35",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe site bundelt honderden AI-recensies: ‘Als we auteur Anne Provoost mogen geloven zijn we zelfs heel overtuigend’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/nieuwe-site-bundelt-honderden-ai-recensies-als-we-auteur-anne-provoost-mogen-geloven-zijn-we-zelfs-heel-overtuigend/",
+   "description": "Zijn AI-gegenereerde boekbesprekingen even goed of zelfs beter dan die van beroepsrecensenten? In een commentaar op Facebook prees auteur Anne Provoost een bespreking van een van haar boeken omdat de recensent haar intenties als geen ander zou hebben begrepen. Wat Provoost toen nog niet wist: de lof is ‘met vrij veel zekerheid’ door AI gegenereerd.\nThe post Nieuwe site bundelt honderden AI-recensies: ‘Als we auteur Anne Provoost mogen geloven zijn we zelfs heel overtuigend’ appeared first on Knack.",
+   "date": "2026-08-27T10:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Nvidia neemt AI-platform Hugging Face over voor 12,9 miljard dollar'",
+   "link": "https://tweakers.net/nieuws/251442/nvidia-neemt-ai-platform-hugging-face-over-voor-12-komma-9-miljard-dollar.html",
+   "description": "Nvidia neemt Hugging Face over, zegt een bron tegen The Information. Zo wil het gpu-bedrijf relevant blijven in de AI-wereld, ook als grote AI-bedrijven zoals Microsoft en Google eigen AI-chips ontwikkelen en zo minder afhankelijk worden van Nvidia-chips.",
+   "date": "2026-08-27T09:16:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 scherpt record vermoedelijk verder aan na sterke cijfers Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-scherpt-record-vermoedelijk-verder-aan-na-sterke-cijfers-nvidia/",
+   "description": "(ABM FN) De Brusselse beurs maakt zich donderdag naar verwachting op voor een licht hogere opening. De Bel20 kon woensdag nog de hele dag in het groen blijven, waarbij de index uiteindelijk 0,5 procent hoger afsloot op 5860,95 punten, een nieuwe recordstand.Woensdag nabeurs op Wall Street maakte Nvidia vervolgens indruk met sterke kwartaalcijfers en een optimistische outlook …\nThe post Bel20 scherpt record vermoedelijk verder aan na sterke cijfers Nvidia appeared first on Trends.be.",
+   "date": "2026-08-27T08:11:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verbruikt EcoGPT echt minder energie dan ChatGPT of andere programma's? Experts twijfelen aan duurzaamheidsclaims",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/25/ecogpt/",
+   "description": "EcoGPT noemt zichzelf het groene alternatief: een artificiële intelligentie chatbot die minder energie verbruikt dan andere AI-programma's. Hij zou op groene stroom draaien en voor elke 100 vragen een boom planten.",
+   "date": "2026-08-27T07:59:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Verbruikt EcoGPT echt minder energie dan ChatGPT of andere programma's? Experts twijfelen aan duurzaamheidsclaims",
+   "link": "https://vrtnws.be/p.bDy7Rn36M",
+   "description": "EcoGPT noemt zichzelf het groene alternatief: een artificiële intelligentie chatbot die minder energie verbruikt dan andere AI-programma's. Hij zou op groene stroom draaien en voor elke 100 vragen een boom planten. We waren best nieuwsgierig naar dat \"groene\" alternatief, maar we botsten al snel op geheimhoudingsovereenkomsten en een chatbot die zijn eigen vragen niet wil beantwoorden.",
+   "date": "2026-08-27T07:59:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates wil jobs \"reserveren voor mensen\" om ons te beschermen tegen AI",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/08/27/bill-gates-microsoft-ai-voorbehouden-banen/",
+   "description": "Voormalig Microsoft-topman en filantroop Bill Gates wil dat er bepaalde jobs worden voorbehouden voor mensen en niet vervangen worden door artificiële intelligentie (AI). Hij stelt een 'Gereserveerd voor mensen'-label en een belasting op AI voor.",
+   "date": "2026-08-27T07:46:45",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bill Gates wil jobs \"reserveren voor mensen\" om ons te beschermen tegen AI",
+   "link": "https://vrtnws.be/p.NvXE81o08",
+   "description": "Voormalig Microsoft-topman en filantroop Bill Gates wil dat er bepaalde jobs worden voorbehouden voor mensen en niet vervangen worden door artificiële intelligentie (AI). Hij stelt een 'Gereserveerd voor mensen'-label en een belasting op AI voor.",
+   "date": "2026-08-27T07:46:45",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren verdeeld na sterke cijfers Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-verdeeld-na-sterke-cijfers-nvidia/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen lieten donderdagochtend een verdeeld beeld zien, nadat Nvidia woensdag nabeurs met sterke kwartaalcijfers en een optimistische outlook het vertrouwen in de AI-sector een impuls gaf. Het aandeel Nvidia won in de elektronische handel bijna 5 procent.Vooral Aziatische chip- en technologieaandelen profiteerden, hoewel de zorgen over de inflatie en het rentebeleid …\nThe post Aziatische beurzen noteren verdeeld na sterke cijfers Nvidia appeared first on Trends.be.",
+   "date": "2026-08-27T07:08:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen verdeeld",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-verdeeld-21/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen gaan donderdag een verdeelde opening tegemoet, na de positief ontvangen cijfers van Nvidia.Nvidia boekte in het tweede kwartaal een recordomzet, die ruim boven de verwachtingen van analisten uitkwam. De Europese beurzen sloten woensdag overwegend hoger in aanloop naar de cijfers van Nvidia.IG voorziet een openingswinst van 22 punten voor de Duitse …\nThe post Europese beurzen openen verdeeld appeared first on Trends.be.",
+   "date": "2026-08-27T07:04:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML speelt belangrijke rol in verdubbeling van Nederlandse chipindustrie",
+   "link": "https://www.nu.nl/economie/6407640/asml-speelt-belangrijke-rol-in-verdubbeling-van-nederlandse-chipindustrie.html",
+   "description": "De Nederlandse chipindustrie is in de afgelopen zes jaar verdubbeld, blijkt uit cijfers van het CBS. Het is voor het eerst dat de omzet en werkgelegenheid in deze industrie in kaart zijn gebracht. ASML speelt een aanzienlijke rol in die groei.",
+   "date": "2026-08-27T06:30:17",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom gaan de Nederlandse leerprestaties zo hard achteruit? (herhaling)",
+   "link": "https://www.nrc.nl/nieuws/2026/08/27/waarom-gaan-de-nederlandse-leerprestaties-zo-hard-achteruit-herhaling-a4935240",
+   "description": "Sinds een jaar of tien nemen de vaardigheden van Europese leerlingen hard af. Wat is er aan de hand? Hoe groot is de invloed van sociale media en kunstmatige intelligentie op het…",
+   "date": "2026-08-27T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-detectors onbetrouwbaar? Niet de goede",
+   "link": "https://www.demorgen.be/meningen/ai-detectors-onbetrouwbaar-niet-de-goede~bebf89d2/",
+   "description": "",
+   "date": "2026-08-27T03:00:29",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Terwijl de materiële omstandigheden offline verslechteren, beloont het algoritme onverminderd de gecureerde meetlat",
+   "link": "https://www.demorgen.be/meningen/terwijl-de-materiele-omstandigheden-offline-verslechteren-beloont-het-algoritme-onverminderd-de-gecureerde-meetlat~bb251d8f/",
+   "description": "",
+   "date": "2026-08-27T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-chipbedrijf Nvidia verdubbelt omzet en winst",
+   "link": "https://www.standaard.be/economie/ai-chipbedrijf-nvidia-verdubbelt-omzet-en-winst/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-08-27T02:06:56",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse overheid opent onderzoek naar gevallen AI-orakel",
+   "link": "https://www.standaard.be/economie/amerikaanse-overheid-opent-onderzoek-naar-gevallen-ai-orakel/160539417.html",
+   "description": "Met risicovolle gokken op AI-aandelen, wist de jonge Leopold Aschenbrenner in korte tijd van miljoenen miljarden te maken. Maar de Nostradamus van AI, zoals een podcaster hem noemde, bleek eerder een Icarus.",
+   "date": "2026-08-26T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates wil jobs “reserveren voor mensen” om ons te beschermen tegen AI",
+   "link": "https://www.standaard.be/economie/bill-gates-wil-jobs-reserveren-voor-mensen-om-ons-te-beschermen-tegen-ai/160538726.html",
+   "description": "Bill Gates gelooft dat AI en robots veel banen zullen kosten en dat een basisinkomen niet de oplossing is. De Microsoft-oprichter en filantroop ziet heil in jobs die we verplicht voor mensen reserveren, net als in een taks op tokens en robots.",
+   "date": "2026-08-26T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van slimme winkelkarren tot boodschappen doen via ChatGPT: ook technologie is wapen in supermarktenstrijd om consument",
+   "link": "https://www.standaard.be/economie/van-slimme-winkelkarren-tot-boodschappen-doen-via-chatgpt-ook-technologie-is-wapen-in-supermarktenstrijd-om-consument/160522418.html",
+   "description": "Boodschappen bestellen via ChatGPT, een slimme winkelkar of winkels zonder personeel. Supermarkten omarmen technologie, maar wat levert hun dat op? “Alles moet sneller gaan en wij moeten volgen, anders gaan klanten elders winkelen.”",
+   "date": "2026-08-26T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia overtreft verwachtingen ruimschoots",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-overtreft-verwachtingen-ruimschoots/",
+   "description": "(ABM FN-Dow Jones) Nvidia heeft in het tweede kwartaal een recordomzet geboekt die ruim boven de verwachtingen van analisten uitkwam. Dit maakte de Amerikaanse chipfabrikant woensdag na sluiting van de handel op Wall Street bekend.De omzet kwam uit op 96,2 miljard dollar, een stijging van 106 procent op jaarbasis en 18 procent ten opzichte van het …\nThe post Nvidia overtreft verwachtingen ruimschoots appeared first on Trends.be.",
+   "date": "2026-08-26T22:28:56",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Salesforce verhoogt outlook en breidt samenwerking Anthropic uit",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/salesforce-verhoogt-outlook-en-breidt-samenwerking-anthropic-uit/",
+   "description": "(ABM FN-Dow Jones) Salesforce heeft de outlook voor het lopende boekjaar verhoogd na een tweede kwartaal dat beter uitpakte dan verwacht. Tegelijk kondigde het Amerikaanse softwarebedrijf een uitgebreide samenwerking met AI-bedrijf Anthropic aan. Dit maakte Salesforce woensdag nabeurs bekend.De omzet steeg met 11 procent tot 11,35 miljard dollar, tegen een door LSEG samengestelde analistenconsensus van 11,32 …\nThe post Salesforce verhoogt outlook en breidt samenwerking Anthropic uit appeared first on Trends.be.",
+   "date": "2026-08-26T22:22:15",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates biedt concrete pistes voor toezicht op AI",
+   "link": "https://www.tijd.be/r/t/1/id/10683568",
+   "description": "Net nu de enorme aandacht voor de kwartaalcijfers van Nvidia het optimisme over AI nog eens onderstreept, waarschuwt Microsoft-oprichter Bill Gates voor de schaduwkanten van de technologie. Het toont dat internationale samenwerking nodig is.",
+   "date": "2026-08-26T19:52:57",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Instagram toont nieuwe functie die niet werkt met generatieve AI",
+   "link": "https://tweakers.net/nieuws/251432/instagram-toont-nieuwe-functie-die-niet-werkt-met-generatieve-ai.html",
+   "description": "Instagram heeft de videofunctie First Draft laten zien. De functie haalt stiltes weg en zoekt naar hoogtepunten in videomateriaal om videobewerking te versnellen. De functie werkt, in tegenstelling tot vrijwel alle andere nieuwe Instagram-functies, niet met generatieve AI.",
+   "date": "2026-08-26T19:41:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street zet zich schrap voor resultaten Nvidia. Hoe sterk is AI-rally nog?",
+   "link": "https://www.standaard.be/economie/beurs/wall-street-zet-zich-schrap-voor-resultaten-nvidia.-hoe-sterk-is-ai-rally-nog/160537600.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-08-26T19:00:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen overwegend hoger gesloten",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-overwegend-hoger-gesloten-5/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn woensdag overwegend hoger gesloten in aanloop  naar de cijfers van de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Wel kregen ze wat richting over de economische ontwikkeling van de VS na de publicatie van een aantal belangrijke macrocijfers.   De Stoxx Europe 600 sloot vlak …\nThe post Europese beurzen overwegend hoger gesloten appeared first on Trends.be.",
+   "date": "2026-08-26T18:55:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 klimt naar nieuw record",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-klimt-naar-nieuw-record/",
+   "description": "(ABM FN) De Brusselse beurs kon woensdag de hele dag in het groen blijven, waarbij de index uiteindelijk 0,5 procent hoger afsloot op 5860,95 punten, een nieuwe recordstand.Beleggers keken woensdag vooral uit naar de resultaten van chipproducent Nvidia, die vanavond nabeurs worden gepubliceerd. In de aanloop naar die cijfers moesten beleggers vooral focussen op macro-economische cijfers. …\nThe post Bel20 klimt naar nieuw record appeared first on Trends.be.",
+   "date": "2026-08-26T17:57:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Supermarkt Carrefour komt in België met ChatGPT-plug-in",
+   "link": "https://tweakers.net/nieuws/251424/supermarkt-carrefour-komt-in-belgie-met-chatgpt-plug-in.html",
+   "description": "Supermarktketen Carrefour heeft in België een plug-in voor ChatGPT van OpenAI uitgebracht. Daarin kunnen klanten gepersonaliseerde recepten vinden en de boodschappen op de site van de keten aan hun lijst laten toevoegen.",
+   "date": "2026-08-26T17:17:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates zegt dat techbedrijven AI-risico's bewust kleiner voordoen",
+   "link": "https://tweakers.net/nieuws/251412/bill-gates-zegt-dat-techbedrijven-ai-risicos-bewust-kleiner-voordoen.html",
+   "description": "Bill Gates uit bezorgdheid over huidige AI-ontwikkelingen: het turbulente AI-tijdperk is aangebroken en keuzes die we nu maken, zijn cruciaal. De Microsoft-grondlegger waarschuwt voor onder meer massale werkloosheid, psychologische en sociale schade, en stelt dat techbedrijven de risico's bewust verbergen.",
+   "date": "2026-08-26T16:28:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta schikt voor 18 miljard in zaak over verslaafd maken van kinderen",
+   "link": "https://nos.nl/l/2628386",
+   "description": "Meta heeft een schikking getroffen in de grote rechtszaak in de VS over het verslaafd maken van jongeren aan sociale media. Het moederbedrijf van Facebook en Instagram heeft ingestemd om zo'n 18 miljard dollar te betalen, omgerekend zo'n 15,4 miljard euro. Ook belooft Meta de apps aan te passen.\n        Afgelopen week begon de rechtszaak in Californië. Tal van Amerikaanse staten spanden die aan omdat het techbedrijf jongeren bewust verslaafd zou maken aan sociale media. Ook zou Meta tactieken gebruiken om gebruikers zo veel mogelijk tijd door te laten brengen op de platforms.\n        Ook werd Meta ervan beschuldigd dat het wetten heeft overtreden door regelmatig gegevens te verzamelen van kinderen onder de 13 jaar zonder toestemming van hun ouders.\n        Verslavende technieken\n        De staten wilden Meta dwingen de verslavende technieken achter de platforms aan te passen. Zo willen ze dat het bedrijf stopt met verdwijnende berichten op accounts van kinderen, de zogenoemde 'stories' op Facebook en Instagram.\n        Ook moeten \"dopamine-manipulerende aanbevelingsalgoritmes\" verdwijnen, zoals het automatisch afspelen van video's. Daarmee moet 'eindeloos scrollen' worden voorkomen. Het leuk vinden van berichten (liken) moet ook niet meer mogelijk zijn, vinden de staten.\n        VS-correspondent Rudy Bouma:\n        \"Het is de grootste schikking met een techbedrijf ooit. Meta voelde zich gedwongen te schikken nadat het bedrijf alleen al bij een rechtszaak in Californië 200 miljard dollar aan schadevergoedingen boven het hoofd hing, meer dan tien keer zoveel als het schikkingsbedrag dus.\n        Zo'n vonnis had bovendien als precedent kunnen dienen voor de duizenden andere lopende zaken van scholen en individuele tieners tegen Meta, vergelijkbaar met hoe de tabaksindustrie destijds definitief in de hoek werd gedreven nadat de eerste grote zaken waren verloren.\n        Bovendien lopen de advocatenkosten fors op. Meta gaf vorige maand aan alleen al in het tweede kwartaal zo'n 2 miljard dollar uit aan hun juridische strijd rond dit thema. En in maart verloren Meta en YouTube al de allereerste individuele zaak van dit type. Het bedrijf zag nu de bui dus al hangen. \n        Los van het geld was bij een verloren rechtszaak de reputatieschade enorm geweest. Mark Zuckerberg had in het getuigenbankje moeten plaatsnemen, en een rechterlijk vonnis met een jury die stelt dat Meta bewust kinderen heeft geschaad, weegt juridisch en publicitair veel zwaarder dan een schikking zonder schuldbekentenis.\"\n        Met de schikking komt een einde aan de rechtszaak. Naast het betalen van de schikking belooft Meta een reeks veiligheidsmaatregelen in te voeren op de platforms.\n        Zo komt er een strikte limiet voor de dagelijkse gebruiksduur en pauzes voor kinderen op Instagram en Facebook. Verder zal het bedrijf pushmeldingen tijdens schooluren uitschakelen en leeftijdscontroles uitvoeren om pesten en ander schadelijk materiaal te voorkomen. En als laatste komen er strengere ouderlijke controles en wordt het aantal likes verborgen bij minderjarige gebruikers.",
+   "date": "2026-08-26T16:26:54",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Argenx in trek op groene Brusselse beurs",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-argenx-in-trek-op-groene-brusselse-beurs/",
+   "description": "(ABM FN) De Brusselse beurs steeg woensdag verder. De Bel20 index noteerde rond twee uur 0,7 procent hoger aan 5.877,44 punten. Vandaag gaat de aandacht uit naar de cijfers van Nvidia, na het slot op Wall Street. \"De resultaten en verwachtingen van chipmaker Nvidia zijn een belangrijke test voor het sentiment rond kunstmatige intelligentie\", aldus investment manager …\nThe post Beursupdate: Argenx in trek op groene Brusselse beurs appeared first on Trends.be.",
+   "date": "2026-08-26T13:53:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI onthult eerste resultaten van Jalapeño-chip",
+   "link": "https://tweakers.net/nieuws/251344/openai-onthult-eerste-resultaten-van-jalapeno-chip.html",
+   "description": "OpenAI heeft de eerste resultaten van zijn Jalapeño-AI-chip gepubliceerd. Die chip is specifiek bedoeld voor inferentie. Volgens het AI-bedrijf heeft Jalapeño 1,5 tot 1,9 keer meer rekenkracht per kilowatt dan Nvidia's Blackwell-chips. Ook de latency zou lager zijn dan bij bestaande systemen.",
+   "date": "2026-08-26T12:39:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates wil met Xi Jinping actieplan opstellen tegen AI-risico’s",
+   "link": "https://www.tijd.be/r/t/1/id/10683489",
+   "description": "Microsoft-oprichter en bekend filantroop Bill Gates wil samen met de Chinese president Xi Jinping een internationaal actieplan opstellen om de groeiende risico's van kunstmatige intelligentie in te perken. Dat zegt Gates in een interview met Reuters.",
+   "date": "2026-08-26T10:38:09",
+   "feeds": [
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frederik Anseel | Waarom vinden we AI-teksten zo irritant?",
+   "link": "https://www.tijd.be/r/t/1/id/10683460",
+   "description": "Vermoedelijk gaat onze ontsteltenis over AI-teksten dieper dan irritatie: AI heeft een stilzwijgende afspraak tussen schrijver en lezer voorgoed veranderd.",
+   "date": "2026-08-26T08:53:41",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Explainer | Crisis in gamewereld: gamen wordt een luxe door AI-hype",
+   "link": "https://www.nu.nl/329586/video/crisis-in-gamewereld-gamen-wordt-een-luxe-door-ai-hype.html",
+   "description": "",
+   "date": "2026-08-26T06:13:27",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-27",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Demir wil duidelijke regels rond AI in onderwijs",
    "link": "https://www.demorgen.be/nieuws/demir-wil-duidelijke-regels-rond-ai-in-onderwijs~bc035208/",
@@ -281,6 +679,17 @@
     "De Standaard - Opinies"
    ],
    "first_seen": "2026-08-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De AI-ramp komt er sowieso. We mogen blij zijn als het niet de totale ondergang wordt",
+   "link": "https://www.standaard.be/opinies/de-ai-ramp-komt-er-sowieso.-we-mogen-blij-zijn-als-het-niet-de-totale-ondergang-wordt/160471396.html",
+   "description": "In Silicon Valley denken ze dat superintelligentie voor het grijpen ligt, schrijft Timothy Garton Ash. We zullen ons hart mogen vasthouden als het zover is.",
+   "date": "2026-08-25T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-08-27",
    "intro_geprobeerd": false
   },
   {
