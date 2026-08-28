@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T12:55:09",
+ "generated": "2026-08-28T14:30:48",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 153,
+   "count": 150,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 92,
    "error": null
   },
   {
@@ -250,6 +250,261 @@
  ],
  "articles": [
   {
+   "title": "De bizarre aanval op een topeconoom met AI-zorgen",
+   "link": "https://www.tijd.be/r/t/1/id/10683865",
+   "description": "Wat bezielde het gereputeerde magazine The Economist om in een atypisch giftig artikel Nobelprijswinnaar Economie Daron Acemoglu weg te zetten als een overroepen verkondiger van platitudes? Een heel andere visie op de beloftes en gevaren van AI - ook voor onze liberale democratie - lijkt aan de basis te liggen.",
+   "date": "2026-08-28T13:32:57",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Calibre 9.14",
+   "link": "https://tweakers.net/downloads/78060/calibre-914.html",
+   "description": "Versie 9.13 van Calibre is uitgekomen. Calibre is een opensource e-bookbeheerprogramma wat haast onmisbaar is voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 9 is onder meer een boekenplank toegevoegd, wat een nieuwe manier is om alle boeken te tonen. Ook zijn er enkele optionele AI-functies toegevoegd, die bijvoorbeeld een suggestie kunnen doen welk volgend boek je moet lezen of vragen over de inhoud van een boek kunnen beantwoorden. De changelog voor deze uitgave kan hieronder worden gevonden. New features",
+   "date": "2026-08-28T12:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Tarot, technologie en de menselijke zoektocht naar betekenis",
+   "link": "https://www.tijd.be/r/t/1/id/10683387",
+   "description": "Als ingenieur heb ik nooit veel gehad met tarot. Maar ik begrijp waarom het lezen van de kaarten opduikt in de top tien van populairste AI-toepassingen.",
+   "date": "2026-08-28T11:21:17",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia: einde groei nog niet in zicht",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/nvidia-einde-groei-nog-niet-in-zicht/",
+   "description": "Nvidia presteerde voor het vijftiende kwartaal op rij boven de verwachtingen. Dit leverde in de drie maanden tot 26 juli, het tweede kwartaal van het fiscaal boekjaar 2027, een omzet van 96,22 miljard dollar op. Dat was ruim het dubbele van dezelfde periode een jaar geleden (+106%) en ook 18 procent meer dan in het …\nThe post Nvidia: einde groei nog niet in zicht appeared first on Trends.be.",
+   "date": "2026-08-28T11:20:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump zou chips nog duurder willen maken",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/trump-zou-chips-nog-duurder-willen-maken/",
+   "description": "De regering-Trump zou nieuwe tarieven willen heffen op halfgeleiders. Dat meldt Politico op basis van ingewijden. De stap kan grote gevolgen hebben voor de Amerikaanse techsector, die nu al worstelt met een chiptekort en de daarbij horende prijsstijgingen.\nThe post Trump zou chips nog duurder willen maken appeared first on Trends.be.",
+   "date": "2026-08-28T10:07:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | Hoe werken watermerken in AI-teksten?",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/ai-tech-podcast-hoe-werken-watermerken-in-ai-teksten/",
+   "description": "Hoe werkt dat nu, zo’n onzichtbaar watermerk in AI-teksten zoals Anthropic dat toevoegt? En hoe betrouwbaar is het? En is dat nu een goed idee of net niet? We bespreken het deze week in de podcast AI & Tech.\nThe post AI & Tech-podcast | Hoe werken watermerken in AI-teksten? appeared first on Trends.be.",
+   "date": "2026-08-28T09:53:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rechter: overheid VS had Anthropic niet als veiligheidsrisico mogen aanduiden",
+   "link": "https://tweakers.net/nieuws/251478/rechter-overheid-vs-had-anthropic-niet-als-veiligheidsrisico-mogen-aanduiden.html",
+   "description": "De Amerikaanse overheid had Anthropic in februari niet mogen aanduiden als veiligheidsrisico. Dat heeft een rechter in de VS geoordeeld. Anthropic had de rechtszaak aangespannen, omdat het bedrijf het oneens was met de aanduiding.",
+   "date": "2026-08-28T09:43:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We zijn de grip op AI-ontwikkeling kwijtgeraakt",
+   "link": "https://www.nrc.nl/nieuws/2026/08/28/we-zijn-de-grip-op-ai-ontwikkeling-kwijtgeraakt-a4935287",
+   "description": "Hoe krijgen we AI-systemen zover om gehoorzaam te zijn? Dat is op dit moment in de AI-geschiedenis misschien wel de belangrijkste vraag. Dat we het antwoord nog altijd niet weten, terwijl de modellen inmiddels zo geavanceerd zijn, baart steeds meer leidende figuren in de techindustrie tot zorgen.",
+   "date": "2026-08-28T08:56:11",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-in-het-groen-14/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen vonden vrijdagochtend per saldo de weg omhoog, maar met de beurs in Seoel als dissonant. Beleggers reageerden donderdag positief op de cijfers van Nvidia, maar namen tegelijkertijd gas terug in aanloop naar een toespraak van Federal Reserve-voorzitter Kevin Warsh vanmiddag tijdens een bijeenkomst van centrale bankiers in Jackson Hole.De toespraak van …\nThe post Aziatische beurzen noteren in het groen appeared first on Trends.be.",
+   "date": "2026-08-28T07:13:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinees AI-model opent de deuren en zet zo cyberveiligheid onder druk: “Er is een groot risico op misbruik”",
+   "link": "https://www.standaard.be/economie/chinees-ai-model-opent-de-deuren-en-zet-zo-cyberveiligheid-onder-druk-er-is-een-groot-risico-op-misbruik/160576116.html",
+   "description": "Terwijl OpenAI en Anthropic hun sterkste modellen gesloten houden, gooit het Chinese Z.AI de deuren open. Het geeft de parameters voor zijn GLM-5.3 vrij en creëert zo een grote test voor de cyberveiligheid.",
+   "date": "2026-08-27T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook een robot kan weleens afgemat zijn – of gewoon kapot",
+   "link": "https://www.nrc.nl/nieuws/2026/08/27/ook-een-robot-kan-weleens-afgemat-zijn-of-gewoon-kapot-a4935191",
+   "description": "Ze kunnen angstaanjagend goed meekomen in sport en spel, en verbreken menselijke records. Maar gelukkig zijn er altijd dingen die mensen beter kunnen dan robots, zoals remmen.",
+   "date": "2026-08-27T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe Nvidia DLSS ontdekt in NBA 2K7, modders experimenteren ermee",
+   "link": "https://tweakers.net/nieuws/251472/nieuwe-nvidia-dlss-ontdekt-in-nba-2k7-modders-experimenteren-ermee.html",
+   "description": "Een nieuwe, experimentele release van Nvidia's upscalinglibrary zit in de vroege testversie van de basketbalgame NBA 2k7. Modders experimenteren nu met deze nvngx_dlssnr.dll en hebben het aan de praat gekregen in een heel andere game. Nvidia wil DLSS 5 in de herfst uitbrengen, meldt VideoCardz.",
+   "date": "2026-08-27T21:10:44",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen grotendeels lager gesloten",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-grotendeels-lager-gesloten/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn donderdag grotendeels lager gesloten. Halfgeleiders koersten  tegen de trend in hoger, na de kwartaalcijfers van Nvidia woensdagavond. Vanavond zullen de cijfers van Marvell Technology nabeurs de de aandacht grijpen van beleggers. De Stoxx Europe 600 sloot 0,7 procent lager op 651,85 punten en de Franse CAC 40 verloor 1,7 procent  op …\nThe post Europese beurzen grotendeels lager gesloten appeared first on Trends.be.",
+   "date": "2026-08-27T19:01:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia aast op AI-platform Hugging Face",
+   "link": "https://www.standaard.be/economie/beurs/nvidia-aast-op-ai-platform-hugging-face/160577529.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-08-27T18:43:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoek: 700 OpenAI-agents hackten Hugging Face",
+   "link": "https://tweakers.net/nieuws/251446/onderzoek-700-openai-agents-hackten-hugging-face.html",
+   "description": "OpenAI en twee onderzoeksinstituten hebben rapporten gepubliceerd over de hack op Hugging Face in juli. De rapporten onthullen meer opvallende details over de hack. Zo wisten de AI-agents via een soort forum met elkaar te praten, terwijl dit niet de bedoeling was. Daarbij werkten 700 agents samen om de hack op Hugging Face uit te voeren.",
+   "date": "2026-08-27T16:50:01",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De AI-wet is er, de scheidsrechter niet",
+   "link": "https://www.tijd.be/r/t/1/id/10683398",
+   "description": "Wie houdt straks toezicht op een AI-systeem in een Vlaams woonzorgcentrum dat werkt met federaal terugbetaalde zorg? Vandaag kan niemand die vraag beantwoorden.",
+   "date": "2026-08-27T16:40:44",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta zet de limiet voor jongeren op twee uur, maar geeft het algoritme nog altijd vrij spel",
+   "link": "https://www.standaard.be/media-en-cultuur/meta-zet-de-limiet-voor-jongeren-op-twee-uur-maar-geeft-het-algoritme-nog-altijd-vrij-spel/160571638.html",
+   "description": "Voor het eerst voert Meta – onder dwang – wezenlijke veranderingen door in zijn apps, bedoeld om jongeren te beschermen. Dat wordt ontvangen als een keerpunt, maar geen eindpunt. Ook de discussie over leeftijdsgrenzen is nog niet van de baan.",
+   "date": "2026-08-27T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Nachtslot, tijdslimiet en weg algoritme: Instagram verandert voor tieners in VS",
+   "link": "https://tweakers.net/reviews/15206/nachtslot-tijdslimiet-en-weg-algoritme-instagram-verandert-voor-tieners-in-vs.html",
+   "description": "Instagram verandert voor tieners in de VS, met een nachtslot, tijdslimiet en andere maatregelen tegen socialemediaverslaving.",
+   "date": "2026-08-27T15:45:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia toont eerste G-SYNC Pulsar-monitor met 5k-resolutie",
+   "link": "https://tweakers.net/nieuws/251454/nvidia-toont-eerste-g-sync-pulsar-monitor-met-5k-resolutie.html",
+   "description": "Nvidia laat op gamescom een nieuwe G-SYNC Pulsar-monitor zien met een grotere schermdiagonaal van 32\" en hogere 5k-resolutie: de AOC AGON Pro AGP327KG. Huidige modellen zijn 27\"-schermen met wqhd-resolutie. Het nieuwe scherm komt nog dit jaar uit.",
+   "date": "2026-08-27T15:43:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia verdubbelt omzet en winst, rekent volgend jaar op 70 procent groei",
+   "link": "https://tweakers.net/nieuws/251462/nvidia-verdubbelt-omzet-en-winst-rekent-volgend-jaar-op-70-procent-groei.html",
+   "description": "Nvidia heeft weer een bijzonder goed kwartaal achter de rug en heeft de omzet en winst verdubbeld ten opzichte van een jaar eerder. Het bedrijf verwacht dat het de piek nog niet heeft bereikt. Voor volgend kwartaal verwacht Nvidia een omzet van meer dan 100 miljard dollar en voor heel volgend jaar een stijging van 70 procent.",
+   "date": "2026-08-27T14:50:01",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street wacht groene opening terwijl Nvidia overtuigt",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-wacht-groene-opening-terwijl-nvidia-overtuigt/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan donderdag een overwegend groene opening tegemoet, waarbij Nvidia de techsector een impuls geeft na de cijfers van woensdagavond.Futures op de S&P 500 noteerden ongeveer een half uur voor de opening 0,4 procent hoger en de Nasdaq-futures wonnen 1,0 procent, terwijl Nvidia voorbeurs ruim 6 procent steeg tot 223 dollar.De …\nThe post Wall Street wacht groene opening terwijl Nvidia overtuigt appeared first on Trends.be.",
+   "date": "2026-08-27T14:48:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De moestuin naast het AI-imperium: waarom lokale veerkracht niet volstaat",
+   "link": "https://apache.be/2026/08/27/moestuin-naast-ai-imperium-waarom-lokale-veerkracht-niet-volstaat",
+   "description": "Hoe kan een gemeenschap die niet meer noodzakelijk is voor productie een tegenmacht vormen?",
+   "date": "2026-08-27T14:37:13",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: weinig spektakel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-weinig-spektakel-7/",
+   "description": "(ABM FN) De Brusselse beurs doet het donderdagmiddag rustig aan. De Bel20 index noteerde richting twee uur fractioneel lager op 5.860 punten.In de sterindex ging Melexis 1,9 procent hoger. Ook elders in Europa deden chipaandelen het goed, na de cijfers van Nvidia.Farmaceuten zaten ook in de lift omhoog. Argenx won 1,2 procent en UCB 1,1 procent.Tegenover …\nThe post Beursupdate: weinig spektakel appeared first on Trends.be.",
+   "date": "2026-08-27T13:50:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Nu marktenchat over de staatsbon, Lotus Bakeries en Nvidia",
    "link": "https://www.tijd.be/r/t/1/id/10683525",
    "description": "Van 12 tot 13 uur chatten we over de markten en de economie.",
@@ -258,6 +513,17 @@
     "De Tijd - Nieuws"
    ],
    "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen licht onder druk",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-licht-onder-druk-2/",
+   "description": "(ABM FN) De Europese beurzen noteerden donderdag rond het middaguur overwegend lager, waarbij halfgeleiders tegen de trend in hoger koersten. De breed samengestelde STOXX Europe 600 index daalde met 0,4 procent tot 654,10 punten, de Duitse DAX boekte een winst van 0,2 procent op 26.346,76 punten. Onder meer Infineon, Rheinmetall en Siemens Energy presteerden sterk in Frankfurt. Voor …\nThe post Europese beurzen licht onder druk appeared first on Trends.be.",
+   "date": "2026-08-27T11:56:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-28",
    "intro_geprobeerd": false
   },
   {
@@ -291,6 +557,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topcijfers voor chipreus Nvidia, dat er geen graten in ziet dat het eigen klanten financiert",
+   "link": "https://www.standaard.be/economie/topcijfers-voor-chipreus-nvidia-dat-er-geen-graten-in-ziet-dat-het-eigen-klanten-financiert/160570583.html",
+   "description": "Nvidia ziet zijn verkopen van chips voor artificiële intelligentie nog harder stijgen dan verwacht, en verdedigt zich tegen de kritiek dat het met “circulaire financiering” een bubbel creëert.",
+   "date": "2026-08-27T11:02:35",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-28",
    "intro_geprobeerd": false
   },
   {
@@ -420,7 +697,8 @@
    "description": "",
    "date": "2026-08-27T03:00:29",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-08-27",
    "intro_geprobeerd": true
@@ -479,6 +757,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van miljoenen maakte hij miljarden: Amerikaanse overheid opent onderzoek naar “de Nostradamus van AI”",
+   "link": "https://www.standaard.be/economie/van-miljoenen-maakte-hij-miljarden-amerikaanse-overheid-opent-onderzoek-naar-de-nostradamus-van-ai/160539417.html",
+   "description": "Met risicovolle gokken op AI-aandelen wist de jonge Leopold Aschenbrenner in korte tijd van miljoenen miljarden te maken. Maar de Nostradamus van AI, zoals een podcaster hem noemde, bleek eerder een Icarus.",
+   "date": "2026-08-26T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-28",
    "intro_geprobeerd": false
   },
   {
