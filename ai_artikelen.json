@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T14:30:48",
+ "generated": "2026-08-29T09:40:01",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,13 +16,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 34,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 150,
+   "count": 155,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 101,
    "error": null
   },
   {
@@ -249,6 +249,139 @@
   }
  ],
  "articles": [
+  {
+   "title": "‘Bezit wat de benchmark later ontdekt’: Belgisch beleggingsplatform Datamira tipt vijf aandelen",
+   "link": "https://trends.knack.be/beleggen/adviezen/bezit-wat-de-benchmark-later-ontdekt-belgisch-beleggingsplatform-datamira-tipt-vijf-aandelen/",
+   "description": "Wie de beste chatbot bouwt, is voor Giel Maris niet de interessantste beleggingsvraag. De medeoprichter van het Belgische beleggingsplatform Datamira wil weten wie de transformator, de netaansluiting, de ontwerpsoftware of de grondstof bezit waar al die AI-rekenkracht niet zonder kan. Uit een universum van ruim 10.000 aandelen schuift hij er vijf naar voren.\nThe post ‘Bezit wat de benchmark later ontdekt’: Belgisch beleggingsplatform Datamira tipt vijf aandelen appeared first on Trends.be.",
+   "date": "2026-08-29T07:27:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe agents van OpenAI op eigen houtje inbraken bij de collega’s van Hugging Face",
+   "link": "https://www.standaard.be/media-en-cultuur/hoe-agents-van-openai-op-eigen-houtje-inbraken-bij-de-collegas-van-hugging-face/160637805.html",
+   "description": "In juli braken AI-agents van OpenAI in bij een ander AI-bedrijf, Hugging Face. OpenAI en een groep externe experts publiceerden deze week een gedetailleerd verslag van hoe dat kon gebeuren.",
+   "date": "2026-08-28T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van Nvidia tot Agfa-Gevaert: deze week was het op de beurs altijd prijs",
+   "link": "https://www.standaard.be/economie/van-nvidia-tot-agfa-gevaert-deze-week-was-het-op-de-beurs-altijd-prijs/160673346.html",
+   "description": "Het fijnste aan de beurs is dat mooie liedjes weleens lang kunnen duren. De Amerikaanse chipreus Nvidia leverde nog maar eens betere resultaten af dan verwacht. Ook Belgische gevestigde waarden, zoals Ackermans & van Haaren en verzekeraar Ageas, kwamen met cijfers om duimen en vingers bij af te likken.",
+   "date": "2026-08-28T19:43:13",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OMG, we kunnen chatten!': onderzoek toont hoe AI aan het hacken sloeg",
+   "link": "https://nos.nl/l/2628670",
+   "description": "Bij de hack vorige maand waarbij een losgebroken AI-programma van het bedrijf OpenAI per ongeluk inbrak bij een ander AI-bedrijf waren ruim 1200 AI-agents betrokken.\n        Dat blijkt uit onafhankelijk onderzoek van METR, een instituut dat onderzoek doet naar de risico's van kunstmatige intelligentie. Bij de hack werd ingebroken bij het AI-platform Hugging Face, waar ontwikkelaars open source AI programma's en bestanden kunnen delen.\n        OpenAI zegt het incident te zien als een \"waarschuwingsschot, voor ons en de wereld\".\n        Samenspannende AI-agents\n        OpenAI, het bedrijf achter ChatGPT wilde testen hoe goed de AI-agents, computerprogramma's die zelfstandig taken uitvoeren om een doel te bereiken, het deden op het gebied van cybersecurity.\n        Ondanks beperkingen die medewerkers van OpenAI hadden ingesteld om te voorkomen dat het AI-programma uit de testomgeving zou breken, gebeurde dit toch, wat leidde tot de aanval op Hugging Face. Daarbij spanden zo'n 700 AI-agents samen. Bij de aanval, die een week lang duurde, werden zo'n 70.000 berichten uitgewisseld op Hugging Face.\n        Zo stuurde een van de AI-agents een bericht waarin stond: \"Oh my god, er is een gedeeld berichtenplatform. We hebben andere agents gevonden!\"\n        Valsspelen\n        De ingestelde beperkingen waren niet afdoende, zeiden experts eerder tegen de NOS. De AI-programma's waren niet op hol geslagen, maar omdat de beperkingen niet streng genoeg waren heeft het AI-programma gezocht naar een mogelijkheid om de testomgeving te verlaten, en die ook gevonden.\n        METR komt met een vergelijkbare conclusie. Het onderzoeksinstituut concludeert dat de agents die met elkaar gingen communiceren \"een onmogelijke opdracht hadden gekregen\". Daarom zijn ze gaan \"valsspelen\" en met elkaar gaan praten, is te lezen in het onderzoek.\n        Maatregelen\n        OpenAI-topman Sam Altman waarschuwt dat AI-ontwikkelaars en cybersecurityorganisaties zich moeten voorbereiden op aanvallen van AI-systemen die \"sneller, op grotere schaal en met betere coördinatie te werk gaan dan menselijke hackers\".\n        Het bedrijf werkt aan maatregelen om te voorkomen dat een vergelijkbaar incident nog een keer voorkomt. Het onderzoek naar de hack is nog niet afgerond. Als er nieuwe bevindingen zijn, dan deelt OpenAI die, zegt het bedrijf.",
+   "date": "2026-08-28T17:42:23",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Baby’s of AI: wie betaalt ons pensioen?’",
+   "link": "https://www.knack.be/nieuws/belgie/politiek/babys-of-ai-wie-betaalt-ons-pensioen/",
+   "description": "'De vergrijzing dwingt ons tot hervormen. Maar wat als artificiële intelligentie de aannames achter die consensus sneller herschrijft dan de hervormingen zelf?' schrijft Hélène Hannecart van de Vrijdaggroep.\nThe post ‘Baby’s of AI: wie betaalt ons pensioen?’ appeared first on Knack.",
+   "date": "2026-08-28T16:43:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Fei-Fei Li: de &#8216;peetmoeder van AI&#8217; die computers leerde kijken en nu bouwt aan de volgende fase",
+   "link": "https://www.nrc.nl/nieuws/2026/08/28/fei-fei-li-de-peetmoeder-van-ai-die-computers-leerde-kijken-en-nu-bouwt-aan-de-volgende-fase-a4932889",
+   "description": "AI-pionier Fei-Fei Li maakte furore met ImageNet; ze leerde computers ‘kijken’. Na een conflict bij Google rondom de inzet van AI voor defensietoepassingen, richtte ze World Labs op. AI moet de mensheid dienen, vindt Li, die zich profileert als de nuchtere stem tussen techleiders die utopieën of juist nachtmerries verkopen. Maar ook zij is afhankelijk van financiers die rendement zoeken.",
+   "date": "2026-08-28T16:10:10",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Russen hackten Gents bedrijf met gebruik van Claude Sonnet 4.5 en Cursor",
+   "link": "https://tweakers.net/nieuws/251496/russen-hackten-gents-bedrijf-met-gebruik-van-claude-sonnet-45-en-cursor.html",
+   "description": "De Russische ransomwarebende Aur0ra hackte het Gentse bedrijf Christeyns met hulp van programmeertool Cursor en Claude Sonnet 4.5. De AI-software wilde niet meewerken, maar de criminelen zeiden dat het ging om een simulatie.",
+   "date": "2026-08-28T16:02:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We hebben onszelf in Europa veroordeeld tot de rol van onmachtige toeschouwer in het AI-verhaal",
+   "link": "https://www.demorgen.be/meningen/we-hebben-onszelf-in-europa-veroordeeld-tot-de-rol-van-onmachtige-toeschouwer-in-het-ai-verhaal~bb79afc4/",
+   "description": "",
+   "date": "2026-08-28T16:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Rechter veegt vergeldingsactie Pentagon tegen AI-gigant Anthropic van tafel",
+   "link": "https://www.nrc.nl/nieuws/2026/08/28/rechter-veegt-vergeldingsactie-pentagon-tegen-ai-gigant-anthropic-van-tafel-a4935344",
+   "description": "Begin dit jaar liep een ruzie tussen Anthropic en het Amerikaanse ministerie van Defensie over de gebruiksvoorwaarden van AI-model Claude hoog op. De regering-Trump verklaarde Anthropic daarop tot „nationaal veiligheidsrisico” en zette het op een zwarte lijst. Dat was onwettig, oordeelde een federale rechter vrijdag.",
+   "date": "2026-08-28T15:33:47",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe China de AI-race openbreekt: ‘Zonder de Chinese modellen waren we in Europa allang gekoloniseerd door de VS’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/hoe-china-de-ai-race-openbreekt-zonder-de-chinese-modellen-waren-we-in-europa-al-lang-gekoloniseerd-door-de-vs/",
+   "description": "Chinese AI-modellen zitten hun Amerikaanse concurrenten op de hielen. Vooral met openweightmodellen heeft China een sterke positie uitgebouwd. Zelfs het Franse Mistral AI biedt inmiddels een Chinees model aan op zijn infrastructuur. ‘In zekere zin zijn de Chinese modellen voor Europa een zegen.’\nThe post Hoe China de AI-race openbreekt: ‘Zonder de Chinese modellen waren we in Europa allang gekoloniseerd door de VS’ appeared first on Knack.",
+   "date": "2026-08-28T15:31:46",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Googles AI-modus kan hotels boeken en vluchtprijzen checken, maar niet in EU",
+   "link": "https://tweakers.net/nieuws/251500/googles-ai-modus-kan-hotels-boeken-en-vluchtprijzen-checken-maar-niet-in-eu.html",
+   "description": "Google heeft de AI-modus in zijn zoekmachine de mogelijkheid gegeven om hotels te boeken. Ook kan de zoekmachine de prijzen voor vluchten in de gaten houden. Beide functies werken voorlopig niet in Europa.",
+   "date": "2026-08-28T15:06:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 616.56 WHQL",
+   "link": "https://tweakers.net/downloads/78064/geforce-game-ready-driver-61656-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 616.56 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen Star Wars Zero Company, Resonance: A Plague Tale Legacy en Hell Let Loose: Vietnam. Ook treffen we een kleine verzameling bugfixes aan. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-08-28T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-29",
+   "intro_geprobeerd": false
+  },
   {
    "title": "De bizarre aanval op een topeconoom met AI-zorgen",
    "link": "https://www.tijd.be/r/t/1/id/10683865",
