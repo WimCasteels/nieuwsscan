@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T09:40:01",
+ "generated": "2026-08-30T08:15:22",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,7 +16,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 34,
+   "count": 32,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 147,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 101,
+   "count": 97,
    "error": null
   },
   {
@@ -249,6 +249,50 @@
   }
  ],
  "articles": [
+  {
+   "title": "Drones als 'killerrobots': ontwikkeling van wapens met AI baart VN grote zorgen",
+   "link": "https://www.nu.nl/buitenland/6407643/drones-als-killerrobots-ontwikkeling-van-wapens-met-ai-baart-vn-grote-zorgen.html",
+   "description": "Komende week zijn er in Genève weer gesprekken tussen verschillende landen in de Verenigde Naties over volledig autonome wapensystemen. Met militaire kunstmatige intelligentie kunnen beslissingen over bombardementen in een mum van tijd worden genomen, maar de VN willen graag regels voor deze \"killerrobots\".",
+   "date": "2026-08-29T16:51:37",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-08-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rockstar: GTA VI bevat geen microtransacties of generatieve AI",
+   "link": "https://tweakers.net/nieuws/251518/rockstar-gta-vi-bevat-geen-microtransacties-of-generatieve-ai.html",
+   "description": "Grand Theft Auto VI bevat geen microtransacties. Dat zegt gameplatform Kinda Funny, dat sprak met co-studiohoofd Rob Nelson van Rockstar North. Er is ook geen generatieve AI gebruikt bij het maken van de game.",
+   "date": "2026-08-29T12:19:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Uitgelekte Nvidia DLSS 5-versie werkt al op RTX 40-gpu's en in meerdere games",
+   "link": "https://tweakers.net/nieuws/251516/uitgelekte-nvidia-dlss-5-versie-werkt-al-op-rtx-40-gpus-en-in-meerdere-games.html",
+   "description": "Nvidia DLSS 5 is nog niet officieel uit, maar werkt inmiddels al in een hoop games en zelfs op videokaarten uit de vorige generatie. Een dll-bestand voor DLSS 5 verscheen deze week in een vroege versie van NBA 2K27, waarna modders ermee aan de slag gingen.",
+   "date": "2026-08-29T11:11:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI levert geen AI-modellen meer aan Cursor, vertrouwt eigenaar SpaceX niet",
+   "link": "https://tweakers.net/nieuws/251514/openai-levert-geen-ai-modellen-meer-aan-cursor-vertrouwt-eigenaar-spacex-niet.html",
+   "description": "OpenAI levert geen AI-modellen meer aan programmeertool Cursor. Bestaande modellen worden op 12 november uit de tool geschrapt. OpenAI beëindigt zijn overeenkomst met Cursor omdat die tool is overgenomen door SpaceX. Het bedrijf zegt slechte ervaringen te hebben met bedrijven van Elon Musk.",
+   "date": "2026-08-29T09:41:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-30",
+   "intro_geprobeerd": false
+  },
   {
    "title": "‘Bezit wat de benchmark later ontdekt’: Belgisch beleggingsplatform Datamira tipt vijf aandelen",
    "link": "https://trends.knack.be/beleggen/adviezen/bezit-wat-de-benchmark-later-ontdekt-belgisch-beleggingsplatform-datamira-tipt-vijf-aandelen/",
@@ -406,6 +450,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Betekent AI straks het einde van de NAVO?",
+   "link": "https://www.nrc.nl/nieuws/2026/08/28/betekent-ai-straks-het-einde-van-de-navo-a4935048",
+   "description": "U schreef ons over AI binnen het leger, persvrijheid en de geesteswetenschappen.",
+   "date": "2026-08-28T12:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-08-30",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "De matrix | Tarot, technologie en de menselijke zoektocht naar betekenis",
    "link": "https://www.tijd.be/r/t/1/id/10683387",
    "description": "Als ingenieur heb ik nooit veel gehad met tarot. Maar ik begrijp waarom het lezen van de kaarten opduikt in de top tien van populairste AI-toepassingen.",
@@ -513,6 +568,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe Nvidia DLSS ontdekt in NBA 2K27, modders experimenteren ermee",
+   "link": "https://tweakers.net/nieuws/251472/nieuwe-nvidia-dlss-ontdekt-in-nba-2k27-modders-experimenteren-ermee.html",
+   "description": "Een nieuwe, experimentele release van Nvidia's upscalinglibrary zit in de vroege testversie van de basketbalgame NBA 2K27. Modders experimenteren nu met deze nvngx_dlssnr.dll en hebben het aan de praat gekregen in een heel andere game. Nvidia wil DLSS 5 in de herfst uitbrengen, meldt VideoCardz.",
+   "date": "2026-08-27T21:10:44",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-30",
    "intro_geprobeerd": false
   },
   {
