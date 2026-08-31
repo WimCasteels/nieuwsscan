@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T08:15:22",
+ "generated": "2026-08-31T08:41:33",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,25 +16,25 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
    "name": "De Morgen - Cartoons",
    "url": "https://www.demorgen.be/puzzels-cartoons/rss.xml",
-   "count": 24,
+   "count": 25,
    "error": null
   },
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 30,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 35,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 147,
+   "count": 144,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 93,
    "error": null
   },
   {
@@ -249,6 +249,40 @@
   }
  ],
  "articles": [
+  {
+   "title": "Factcheck: nee, de wagen die op een Nederlands boerenprotest inreed was niet gestolen",
+   "link": "https://www.knack.be/factcheck/factcheck-nee-de-wagen-die-op-een-nederlands-boerenprotest-inreed-was-niet-gestolen/",
+   "description": "Op sociale media circuleert een afbeelding van twee auto's die in de file van een Nederlands boerenprotest zijn gebotst. De nummerplaat zou aantonen dat een van de auto’s gestolen is of dat de botsing geënsceneerd werd. De nummerplaat blijkt niet bij de auto op de beelden te horen. De beelden blijken bewerkt met technologie van OpenAI. Het gaat om een verscherpte versie van een schermafbeelding van een video. Op de originele beelden is de nummerplaat niet zichtbaar.\nThe post Factcheck: nee, de wagen die op een Nederlands boerenprotest inreed was niet gestolen appeared first on Knack.",
+   "date": "2026-08-30T22:25:47",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-08-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Het heeft alles weg van een voortdurend kat-en-muisspel tussen de technologie en de marketeer’: hoe een onbestaande deo AI misleidde",
+   "link": "https://www.demorgen.be/nieuws/het-heeft-alles-weg-van-een-voortdurend-kat-en-muisspel-tussen-de-technologie-en-de-marketeer-hoe-een-onbestaande-deo-ai-misleidde~b81462c6/",
+   "description": "",
+   "date": "2026-08-30T19:56:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-08-31",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Muzieklabels Sony en Warner klagen Anthropic aan voor 'grote muziekdiefstal'",
+   "link": "https://tweakers.net/nieuws/251528/muzieklabels-sony-en-warner-klagen-anthropic-aan-voor-grote-muziekdiefstal.html",
+   "description": "De grote muzieklabels Sony en Warner Chappell klagen Anthropic aan wegens 'grootschalige diefstal' van muziek. Het AI-bedrijf zou duizenden nummers hebben gedownload om Claude te trainen, zonder toestemming van de muzieklabels. De labels eisen een flinke schadevergoeding.",
+   "date": "2026-08-30T10:51:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-08-31",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Drones als 'killerrobots': ontwikkeling van wapens met AI baart VN grote zorgen",
    "link": "https://www.nu.nl/buitenland/6407643/drones-als-killerrobots-ontwikkeling-van-wapens-met-ai-baart-vn-grote-zorgen.html",
