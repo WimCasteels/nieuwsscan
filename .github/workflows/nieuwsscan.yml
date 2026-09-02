@@ -2,9 +2,11 @@ name: AI-nieuwsscan
 
 on:
   schedule:
-    # 01:00 UTC, dus 03:00 in de zomer en 02:00 in de winter. Cron volgt
-    # geen zomertijd. GitHub start geplande runs zelden op de minuut.
-    - cron: "0 1 * * *"
+    # Middernacht en middag Belgische tijd. Cron volgt geen zomertijd, dus deze
+    # UTC-uren kloppen in de winter en lopen in de zomer een uur later
+    # (01:00 en 13:00). GitHub start geplande runs zelden op de minuut.
+    - cron: "0 23 * * *"
+    - cron: "0 11 * * *"
   workflow_dispatch:
 
 permissions:

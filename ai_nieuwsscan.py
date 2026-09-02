@@ -48,7 +48,7 @@ DEFAULT_DAYS = 7
 
 # Hoeveel dagen de pagina toont. Het archief in het JSON-bestand houdt alles
 # bij, ook wat van de pagina verdwijnt.
-PAGE_DAYS = 31
+PAGE_DAYS = 7
 
 # Aantal extra pogingen per bron bij een netwerkfout, en de basiswachttijd
 # (die verdubbelt per poging: 0,5 - 1 - 2 - 4 seconden).
@@ -100,6 +100,23 @@ FEEDS = {
     "trouw_voorpagina": "https://www.trouw.nl/voorpagina/rss.xml",
     "trouw_wetenschap": "https://www.trouw.nl/wetenschap/rss.xml",
     "trouw_opinie": "https://www.trouw.nl/opinie/rss.xml",
+    "volkskrant_tech": "https://www.volkskrant.nl/tech/rss.xml",
+    "ad_tech": "https://www.ad.nl/tech/rss.xml",
+    "emerce_artikels": "https://www.emerce.nl/rss",
+    "security_artikels": "https://www.security.nl/rss/headlines.xml",
+    # Vlaamse bronnen die vooral via hun tech- en economiesecties AI-nieuws
+    # brengen. Hun algemene feeds leverden bij het testen niets op en staan er
+    # daarom niet bij. Let op bij uitbreiden: Nieuwsblad, GVA en HBVL delen
+    # dezelfde economieredactie, dus een tweede van die drie geeft alleen maar
+    # dezelfde artikelen op een ander domein, en dus dubbele kaarten.
+    "hln_tech": "https://www.hln.be/tech/rss.xml",
+    "hln_multimedia": "https://www.hln.be/multimedia/rss.xml",
+    "hln_economie": "https://www.hln.be/economie/rss.xml",
+    "hln_opinie": "https://www.hln.be/opinie/rss.xml",
+    "gva_economie": "https://www.gva.be/economie/rss/",
+    "businessam_artikels": "https://businessam.be/feed/",
+    # Techzine.nl bevat exact dezelfde artikelen, eentje volstaat.
+    "techzine_artikels": "https://www.techzine.be/feed/",
 }
 
 # Bronnen zonder feed, maar met een gewone webpagina die de artikellijst als
@@ -137,6 +154,14 @@ PREFIX_NAMES = {
     "nu_": "NU.nl",
     "nrc_": "NRC",
     "trouw_": "Trouw",
+    "volkskrant_": "Volkskrant",
+    "ad_": "AD",
+    "emerce_": "Emerce",
+    "security_": "Security.NL",
+    "hln_": "HLN",
+    "gva_": "Gazet van Antwerpen",
+    "businessam_": "Business AM",
+    "techzine_": "Techzine",
 }
 
 AI_KEYWORDS = [
@@ -194,7 +219,7 @@ AI_KEYWORDS = [
     r"deepfake",
     r"gezichtsherkenning",
     r"robot(ica)?\b",
-    r"zelfrijdende",
+    r"zelfrijdend",
 ]
 AI_PATTERN = re.compile("|".join(AI_KEYWORDS), re.IGNORECASE)
 
