@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T08:01:37",
+ "generated": "2026-09-02T07:27:51",
  "feeds": [
   {
    "name": "Apache.be - Artikels",
@@ -16,19 +16,19 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
    "name": "De Morgen - Cartoons",
    "url": "https://www.demorgen.be/puzzels-cartoons/rss.xml",
-   "count": 29,
+   "count": 33,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 155,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 94,
    "error": null
   },
   {
@@ -249,6 +249,172 @@
   }
  ],
  "articles": [
+  {
+   "title": "Trump houdt van AI en datacenters, de kiezer niet",
+   "link": "https://www.standaard.be/buitenland/trump-houdt-van-ai-en-datacenters-de-kiezer-niet/160815530.html",
+   "description": "Wie tegen AI-datacenters is, wil volgens Donald Trump “achterlijk en arm eindigen”. Maar steeds meer Democraten én Republikeinen zien de strijd tegen datacenters en de AI-bedrijven die ze bouwen als een strijd tegen een oligarchie.",
+   "date": "2026-09-01T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Instagram gaat AI-accounts die zich voordoen als mensen minder vaak aanbevelen",
+   "link": "https://www.demorgen.be/snelnieuws/instagram-gaat-ai-accounts-die-zich-voordoen-als-mensen-minder-vaak-aanbevelen~bae44abe/",
+   "description": "",
+   "date": "2026-09-01T23:47:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Apple: ex-werknemer stal bedrijfsgegevens en gebruikte die bij OpenAI",
+   "link": "https://www.demorgen.be/snelnieuws/apple-ex-werknemer-stal-bedrijfsgegevens-en-gebruikte-die-bij-openai~b453cb50/",
+   "description": "",
+   "date": "2026-09-01T23:43:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Dell verhoogt outlook",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/dell-verhoogt-outlook-2/",
+   "description": "(ABM FN-Dow Jones) Dell heeft in het tweede kwartaal een recordomzet geboekt en verhoogt daarom de outlook voor heel het boekjaar. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse computerbedrijf.De resultaten werden gedreven door de vraag naar zowel traditionele servers en netwerkapparatuur als servers die zijn geoptimaliseerd voor kunstmatige intelligentie. Dell zag de omzet op …\nThe post Dell verhoogt outlook appeared first on Trends.be.",
+   "date": "2026-09-01T22:43:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Palo Alto verslaat verwachtingen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/palo-alto-verslaat-verwachtingen-2/",
+   "description": "(ABM FN-Dow Jones) Palo Alto Networks heeft afgelopen kwartaal de verwachtingen verslagen, terwijl ook de outlook sterk was. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse AI-bedrijf, dat gespecialiseerd is in cyberbeveiliging.CEO Nikesh Arora sprak van een sterk vierde kwartaal om het boekjaar mee te eindigen. Volgens de topman zorgen de nieuwste ontwikkelingen op het …\nThe post Palo Alto verslaat verwachtingen appeared first on Trends.be.",
+   "date": "2026-09-01T22:30:46",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dyson maakt slimste tandenborstel met AI",
+   "link": "https://www.standaard.be/economie/beurs/dyson-maakt-slimste-tandenborstel-met-ai/160827279.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-09-01T18:45:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Welk wereldbeeld hebben de architecten van AI?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/01/welk-wereldbeeld-hebben-de-architecten-van-ai-a4935588",
+   "description": "Een gesprek over hoe AI geopolitieke strijd aanjaagt en andersom: hoe wereldbeelden en geopolitieke ambities AI vormen.",
+   "date": "2026-09-01T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GoPro zet verder in op AI en fuseert met Starman Optical",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/gopro-zet-verder-in-op-ai-en-fuseert-met-starman-optical/",
+   "description": "(ABM FN-Dow Jones) GoPro heeft een definitieve overeenkomst gesloten om te fuseren met Starman Optical. Dit meldde het Amerikaanse bedrijf dat bekend is van zijn actiecamera's dinsdagmiddag.De aandeelhouders van GoPro ontvangen een vergoeding van 285 miljoen dollar, ofwel 1,14 dollar cash per aandeel, onder voorbehoud van een mogelijke aanpassing op basis van het netto werkkapitaal van …\nThe post GoPro zet verder in op AI en fuseert met Starman Optical appeared first on Trends.be.",
+   "date": "2026-09-01T15:47:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia brengt DLSS 5 vrijdag officieel naar NBA 2K27 als eerste game",
+   "link": "https://tweakers.net/nieuws/251600/nvidia-brengt-dlss-5-vrijdag-officieel-naar-nba-2k27-als-eerste-game.html",
+   "description": "Nvidia's DLSS 5-algoritme verschijnt komende vrijdag officieel in de eerste game. Dat is de basketbalgame NBA 2K27, die is ontwikkeld door Visual Concepts en wordt uitgegeven door 2K. DLSS 5 zal officieel alleen met de RTX 50-videokaarten en GeForce Now werken.",
+   "date": "2026-09-01T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "IJslands nee fnuikt Europa's AI-ambities",
+   "link": "https://www.tijd.be/r/t/1/id/10684233",
+   "description": "IJsland, het land met misschien wel de beste papieren voor grootschalige, duurzame AI-rekenkracht in heel Europa, mag straks toekijken hoe tot zeven gigafactory's elders worden neergezet.",
+   "date": "2026-09-01T14:35:08",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlanders en Belgen krijgen advertenties in ChatGPT",
+   "link": "https://tweakers.net/nieuws/251606/nederlanders-en-belgen-krijgen-advertenties-in-chatgpt.html",
+   "description": "Europese gebruikers van ChatGPT kunnen advertenties te zien krijgen in de AI-chatbot van OpenAI. Het Amerikaanse bedrijf laat dit weten in een nieuwsbrief, zo melden tweakers aan de redactie. Nederland en België staan op de lijst met landen waar adverteerders zich op kunnen richten.",
+   "date": "2026-09-01T14:08:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia en MediaTek breiden samenwerking uit",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-en-mediatek-breiden-samenwerking-uit/",
+   "description": "(ABM FN-Dow Jones) Nvidia en MediaTek hebben hun langjarige samenwerking uitgebreid. Dit meldde MediaTek maandagavond. MediaTek zal gaan werken met het nieuwe NVIDIA NVLink Fusion Platform voor versnelde computing, AI, grafische toepassingen en software platforms en dit combineren met onder meer de op maat gemaakte siliciumchips, computersystemen en geavanceerde verpakkingstechnologie van MediaTek. Zo willen zij hyperscalers, …\nThe post Nvidia en MediaTek breiden samenwerking uit appeared first on Trends.be.",
+   "date": "2026-09-01T12:14:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘OpenAI en Anthropic die AI integreren bij bedrijven? Dat is een belangenconflict’",
+   "link": "https://trends.knack.be/ai-en-tech/openai-en-anthropic-die-ai-integreren-bij-bedrijven-dat-is-een-belangenconflict/",
+   "description": "Artificiële intelligentie en het succes van vibecoding (coderen met AI) heeft het bedrijfsmodel van de IT-systeemintegrator Cognizant volledig omgegooid. De budgetten voor softwareontwikkeling veranderen en ‘uurtje factuurtje’ verdwijnt. AI-labs zoals OpenAI en Anthropic zijn tegelijk partner en concurrent van Cognizant, want ze integreren nu ook AI-oplossingen bij klanten. Geert Lejon, countrymanager Belux, vertelt hoe het bedrijf daarmee omgaat.\nThe post ‘OpenAI en Anthropic die AI integreren bij bedrijven? Dat is een belangenconflict’ appeared first on Trends.be.",
+   "date": "2026-09-01T11:43:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic steekt weer tientallen miljarden in clouddeal",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/anthropic-steekt-weer-tientallen-miljarden-in-clouddeal/",
+   "description": "AI-bedrijf Anthropic heeft een clouddeal van 35 miljard dollar gesloten met Lambda, een door Nvidia gesteunde cloudprovider. Dit maakt deel uit van een plan om de capaciteit voor toepassingen van artificiële intelligentie (AI) in hoog tempo uit te breiden, melden verschillende Amerikaanse media op basis van bronnen.\nThe post Anthropic steekt weer tientallen miljarden in clouddeal appeared first on Trends.be.",
+   "date": "2026-09-01T10:37:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple: ex-medewerker stal geheime tekening nadat hij overstapte naar OpenAI",
+   "link": "https://tweakers.net/nieuws/251590/apple-ex-medewerker-stal-geheime-tekening-nadat-hij-overstapte-naar-openai.html",
+   "description": "Een voormalig Apple-medewerker gebruikte een vertrouwelijke schematische tekening in zijn werk bij OpenAI. Dat claimt Apple in zijn rechtszaak tegen de AI-ontwikkelaar. Het bedrijf vond bewijs daarvoor op de voormalige werklaptop van de ex-werknemer.",
+   "date": "2026-09-01T10:22:33",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
   {
    "title": ".Adv - AI, Ingress en AWS: cloudtechniek achter de energietransitie van Nederland",
    "link": "https://tweakers.net/plan/4778/ai-ingress-en-aws-cloudtechniek-achter-de-energietransitie-van-nederland.html",
