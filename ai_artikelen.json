@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T02:58:21",
+ "generated": "2026-09-03T16:51:41",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 26,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 151,
+   "count": 152,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 95,
    "error": null
   },
   {
@@ -315,6 +315,414 @@
   }
  ],
  "articles": [
+  {
+   "title": "A la hausse op goedkoop Nvidia",
+   "link": "https://trends.knack.be/beleggen/opties-derivaten-grondstoffen/a-la-hausse-op-goedkoop-nvidia/",
+   "description": "Nvidia is een ideaal aandeel om te benaderen via opties. We zetten een constructie op om te profiteren van een koersstijging zonder de aandelen te moeten aankopen. Liefhebbers bieden we een mogelijkheid om te profiteren van een tijdelijke dip. Dat laatste doen we via een geschreven put.\nThe post A la hausse op goedkoop Nvidia appeared first on Trends.be.",
+   "date": "2026-09-03T16:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie Gent lanceert AI-chatbot: \"Digitale inspecteur helpt dag en nacht\"",
+   "link": "https://vrtnws.be/p.7n5j6QRdA",
+   "description": "De Gentse politie werkt voortaan met een AI-chatbot die dag en nacht bereikbaar is via de website. \"Zo krijgen burgers sneller en duidelijker antwoorden, en ontstaat er voor de politieagenten meer ruimte voor echte contacten\", zegt adjunct-korpschef Hans Moors. Het systeem is enkele maanden getest en wordt nu breed gelanceerd.",
+   "date": "2026-09-03T15:56:05",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia lijft AI-platform Hugging Face in voor 13 miljard",
+   "link": "https://www.standaard.be/economie/nvidia-lijft-ai-platform-hugging-face-in-voor-13-miljard/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-09-03T15:26:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia koopt AI-platform Hugging Face voor 12,93 miljard dollar",
+   "link": "https://tweakers.net/nieuws/251728/nvidia-koopt-ai-platform-hugging-face-voor-12-komma-93-miljard-dollar.html",
+   "description": "Nvidia koopt AI-platform Hugging Face voor 12,93 miljard dollar. Dat maakt de gpu-maker op donderdag bekend. Het bedrijf benadrukt dat Hugging Face een 'open platform voor het hele AI-ecosysteem' blijft na de overname, die nog goedgekeurd moet worden door toezichthouders.",
+   "date": "2026-09-03T15:05:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipreus Nvidia neemt AI-platform Hugging Face over",
+   "link": "https://www.nrc.nl/nieuws/2026/09/03/chipreus-nvidia-neemt-ai-platform-hugging-face-over-a4935790",
+   "description": "Techgigant Nvidia neemt voor 13 miljard dollar het AI-platform Hugging Face over. Het is de grootste aankoop ooit voor de chipmaker, die zelf het duurste beursbedrijf ter wereld…",
+   "date": "2026-09-03T14:47:11",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASUS stopt Nvidia RTX Spark-cpu in mini-pc met maximaal 128GB ram",
+   "link": "https://tweakers.net/nieuws/251726/asus-stopt-nvidia-rtx-spark-cpu-in-mini-pc-met-maximaal-128gb-ram.html",
+   "description": "ASUS toont de ProArt GR1X-mini-pc. Daarin zit een Nvidia RTX Spark-cpu met twintig Arm-cores en maximaal 128GB ram. Er draait Windows 11 op, net als op andere RTX Spark-apparaten. De adviesprijs en releasedatum zijn nog niet bekend.",
+   "date": "2026-09-03T14:44:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia neemt Hugging Face over",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-neemt-hugging-face-over/",
+   "description": "(ABM FN-Dow Jones) Nvidia heeft een akkoord bereikt over de overname van AI-platform Hugging Face voor 12,93 miljard dollar. Dit maakte topman Jensen Huang van Nvidia donderdag bekend. Hugging Face is uitgegroeid tot een centrale ontmoetingsplek voor de gemeenschap van openmodelontwikkelaars. Meer dan 18 miljoen ontwikkelaars, onderzoekers en makers gebruiken het platform om ruim 3 miljoen …\nThe post Nvidia neemt Hugging Face over appeared first on Trends.be.",
+   "date": "2026-09-03T14:24:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is het erg als opiniestukken geschreven worden met AI?",
+   "link": "https://www.trouw.nl/binnenland/is-het-erg-als-opiniestukken-geschreven-worden-met-ai~bc838b884/",
+   "description": "",
+   "date": "2026-09-03T13:59:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "VS noemen AI-training met auteursrechtelijk werk fair use",
+   "link": "https://tweakers.net/nieuws/251712/vs-noemen-ai-training-met-auteursrechtelijk-werk-fair-use.html",
+   "description": "Het Amerikaanse ministerie van Justitie steunt OpenAI in de rechtszaak van The New York Times over auteursrechtenschending bij AI-training. Het ministerie stelt dat AI-toepassingen nieuw materiaal maken op basis van hun trainingsdata. Verder zou AI-ontwikkeling van cruciaal belang zijn voor de VS.",
+   "date": "2026-09-03T13:20:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video: na sterke periode voor aandelen nu wat voorzichtiger",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-na-sterke-periode-voor-aandelen-nu-wat-voorzichtiger/",
+   "description": "(ABM FN-Dow Jones) Ondanks alle onzekerheden hebben de financiële markten wereldwijd acht sterke maanden achter de rug waarin de winstgroei werd aangejaagd door AI-investeringen, maar voor de tweede jaarhelft is ING iets voorzichtiger. Dit zei Simon Wiersma van het ING Global Investment Centre voor de camera van ABM Financial News op Beursplein 5.Klik hier voor: na …\nThe post Video: na sterke periode voor aandelen nu wat voorzichtiger appeared first on Trends.be.",
+   "date": "2026-09-03T13:05:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vrouw beschuldigt AI-chatbot van Elon Musk van maken illegale beelden op basis van foto’s van haar misbruik als kind",
+   "link": "https://www.hln.be/buitenland/vrouw-beschuldigt-ai-chatbot-van-elon-musk-van-maken-illegale-beelden-op-basis-van-fotos-van-haar-misbruik-als-kind~a951f6d3/",
+   "description": "Een slachtoffer van seksueel misbruik in haar jeugd heeft xAI, het bedrijf van Elon Musk, aangeklaagd. Volgens haar heeft de chatbot Grok foto’s van het misbruik dat zij meemaakte, gebruikt om nieuwe, illegale beelden van seksueel misbruik van kinderen te genereren.",
+   "date": "2026-09-03T12:46:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Voor het eerst in 100 jaar staat met Trump levende president op Amerikaanse munt • Regering in VS steunt OpenAI in copyright-rechtszaak",
+   "link": "https://www.demorgen.be/snelnieuws/live-voor-het-eerst-in-100-jaar-staat-met-trump-levende-president-op-amerikaanse-munt-regering-in-vs-steunt-openai-in-copyright-rechtszaak~b13cc951/",
+   "description": "",
+   "date": "2026-09-03T12:32:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beleggingstip van de week: Synopsys",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/tip-van-de-week-synopsys/",
+   "description": "Op 16 juli meldde Moonshot AI dat zijn model Kimi K3 in 48 uur met gratis software een chip had ontworpen. Als artificiële intelligentie zelfstandig chips kan bouwen, waarom zouden klanten dan nog betalen voor de software van Synopsys? Die vrees deed het aandeel die dag met 7,9 procent terugvallen. \nThe post Beleggingstip van de week: Synopsys appeared first on Trends.be.",
+   "date": "2026-09-03T12:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Lui, lelijk en ongeïnspireerd’: waarom AI-gebruik toegeven zo lastig blijkt",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/lui-lelijk-en-ongeinspireerd-waarom-ai-gebruik-toegeven-zo-lastig-blijkt/",
+   "description": "De lijst van prominenten en organisaties die ‘betrapt’ zijn op niet-aangegeven gebruik van AI-technologie groeit gestaag. Waarom is het zo moeilijk om toe te geven dat je een beroep hebt gedaan op artificiële intelligentie?\nThe post ‘Lui, lelijk en ongeïnspireerd’: waarom AI-gebruik toegeven zo lastig blijkt appeared first on Knack.",
+   "date": "2026-09-03T11:55:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "800 miljoen in tien maanden voor Nederlands AI-platform Wonderful",
+   "link": "https://www.emerce.nl/nieuws/800-miljoen-tien-maanden-nederlands-aiplatform-wonderful",
+   "description": "AI-platform Wonderful heeft een series C-financieringsronde van 550 miljoen dollar afgesloten, waarmee het bedrijf een waardering van 5 miljard dollar bereikt.",
+   "date": "2026-09-03T11:50:01",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "India en België willen handel komende jaren verdubbelen: \"We zijn 100 keer kleiner, maar hebben veel te bieden\"",
+   "link": "https://vrtnws.be/p.M9XMeEnAy",
+   "description": "India en België willen hun onderlinge handel in 5 jaar tijd verdubbelen. Dat heeft de Indiase premier Narendra Modi aangekondigd tijdens het bezoek van premier Bart De Wever aan India. De 2 landen willen hun economische samenwerking bovendien verbreden van de traditionele diamanthandel naar onder meer defensie, halfgeleiders, groene energie en kritieke grondstoffen.",
+   "date": "2026-09-03T11:09:33",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Taxichauffeurs Uber slepen hun bedrijf voor de rechter om ondoorzichtig AI-model",
+   "link": "https://www.nrc.nl/nieuws/2026/09/03/taxichauffeurs-uber-slepen-hun-bedrijf-voor-de-rechter-om-ai-model-a4935675",
+   "description": "Uber-chauffeurs beginnen een collectieve procedure tegen taxibedrijf Uber en zijn ‘dynamische prijzen’. Het systeem erachter, algoritmisch en AI-gestuurd, bepaalt hoe ritten worden verdeeld en hoeveel chauffeurs verdienen. „Uber jaagt ons weg.”",
+   "date": "2026-09-03T10:32:50",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Regering-Trump mengt zich in auteursrechtenstrijd tussen OpenAI en ‘The New York Times’",
+   "link": "https://www.hln.be/tech/regering-trump-mengt-zich-in-auteursrechtenstrijd-tussen-openai-en-the-new-york-times~a8ec4a0e/",
+   "description": "De regering-Trump steunt OpenAI in een rechtszaak tegen ‘The New York Times’ en pleit ervoor auteursrechtelijk beschermde teksten te gebruiken om AI-chatbots te trainen.",
+   "date": "2026-09-03T10:29:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgisch netwerkkastje belooft phishing en AI-slop lokaal te filteren",
+   "link": "https://tweakers.net/nieuws/251710/belgisch-netwerkkastje-belooft-phishing-en-ai-slop-lokaal-te-filteren.html",
+   "description": "Het Belgische bedrijf Aaltra belooft met een contentfilter voor thuisnetwerken consumenten te beschermen tegen phishing en AI-slop. Aaltra ontwikkelde het persoonlijke AI-filter in het Semek-apparaat samen met professor Ruben Verborgh van de Universiteit Gent. Gebruikers kunnen het zelf instellen.",
+   "date": "2026-09-03T10:21:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie en OM zien nieuwe generatie jonge, westerse cybercriminelen opkomen",
+   "link": "https://nos.nl/l/2629470",
+   "description": "De politie en het Openbaar Ministerie zien in westerse landen nieuwe hackers opkomen. Ze ontmoeten elkaar online in een los samenhangend netwerk van individuen. Ze zijn niet ideologisch of politiek gemotiveerd, het gaat ze vooral om geld en status. Dat schrijven de politie en het OM in hun Cybercrimebeeld van dit jaar.\n        \"Dit zijn personen tussen de 11 en 25 jaar\", zegt Stan Duijf, verantwoordelijk voor de aanpak van cybercriminaliteit bij de politie. \"Ze komen vooral uit westerse landen, spreken Engels, werken in een soort van online netwerk en plegen vooral data- en cryptodiefstallen.\"\n        Voorheen werd bij cybercriminaliteit eerst naar niet-westerse landen gekeken, zoals Rusland, waar westerse opsporingsautoriteiten niet of nauwelijks toegang toe hadden. \"Nu zien we dat er ook echt westerse criminelen op komst zijn die online samenwerken en serieuze vormen van cybercriminaliteit plegen.\"\n        Odido-hack\n        Als voorbeeld noemt het rapport de hack op telecomprovider Odido, begin dit jaar. Volgens het OM en de politie werd die uitgevoerd door criminelen die schuilgaan achter de naam ShinyHunters. Twee maanden geleden zei de politie dat er vermoedelijk Nederlandse criminelen bij betrokken waren.\n        De hackers eisten losgeld van Odido na het stelen van persoonsgegevens van zes miljoen klanten. Odido ging daar niet op in, met als gevolg dat de data online te koop werden aangeboden.\n        Klein beginnen\n        Volgens Duijf begint de verleiding van jongeren om de cybercriminaliteit in te gaan al vroeg, op games als Roblox, Fortnite of Minecraft. \"In die games chatten ze met andere mensen en worden ze op die manier verleid. Het gaat net zoals op het schoolplein, ze beginnen met kattenkwaad. Maar uiteindelijk kunnen ze uitgroeien tot cybercriminelen.\"\n        In 2025 werden naar schatting 2,5 miljoen mensen slachtoffer van cybercrime. Duijf ziet de dreiging van cybercriminaliteit steeds groter worden. De opkomst van AI helpt daarbij. Door gebruik te maken van kunstmatige intelligentie wordt het plegen van cybercriminaliteit steeds makkelijker en het herkennen door burgers van bijvoorbeeld phishingmails steeds moeilijker.\n        Politie en OM maken zich grote zorgen over deze ontwikkelingen. De politie kan die niet alleen tegenhouden. \"Dit is een verantwoordelijkheid voor iedereen, dus dat betekent organisaties, overheden, maar ook individuele burgers die hier alert op moeten zijn.",
+   "date": "2026-09-03T10:08:33",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ruben Verborgh (UGent) en techbedrijf Aaltra ontwikkelen prototype voor AI-filter",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ruben-verborgh-ugent-en-techbedrijf-aaltra-ontwikkelen-prototype-voor-ai-filter/",
+   "description": "Ruben Verborgh (professor aan UGent) en IoT-specialist Aaltra hebben een prototype voor een device ontwikkeld waarmee je zelf kan bepalen welke digitale content je huis (of bedrijf) al dan niet binnenkomt. Gisterenavond overhandigde Verborgh een eerste exemplaar aan Vlaams minister Zuhal Demir.\nThe post Ruben Verborgh (UGent) en techbedrijf Aaltra ontwikkelen prototype voor AI-filter appeared first on Trends.be.",
+   "date": "2026-09-03T09:55:57",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaanderen wil wel AI-soeverein worden in het onderwijs, maar leunt toch vooral nog op Microsoft",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/vlaanderen-wil-wel-ai-soeverein-worden-in-het-onderwijs-maar-leunt-toch-vooral-nog-op-microsoft/",
+   "description": "De retoriek rond technologische soevereiniteit en de inzet op - of voor sommigen net het afwenden van - AI in ons onderwijs is groot. Maar wat overblijft na het debat is toch vooral een ontnuchterende operationele realiteit in de klas.\nThe post Vlaanderen wil wel AI-soeverein worden in het onderwijs, maar leunt toch vooral nog op Microsoft appeared first on Trends.be.",
+   "date": "2026-09-03T09:50:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie: AI is katalysator van cybercrime, burger moet letten op Chinese apparatuur",
+   "link": "https://www.security.nl/posting/951530/Politie%3A+AI+is+katalysator+van+cybercrime%2C+burger+moet+letten+op+Chinese+apparatuur?channel=rss",
+   "description": "AI is een katalysator van cybercrime en burgers moeten letten op de apps die ze gebruiken en het kopen van Chinese apparatuur. ...",
+   "date": "2026-09-03T09:37:40",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoek: ChatGPT, Grok en Gemini schotelen gebruikers Russische staatsmedia voor",
+   "link": "https://www.ad.nl/buitenland/onderzoek-chatgpt-grok-en-gemini-schotelen-gebruikers-russische-staatsmedia-voor~a31995cc/",
+   "description": "Russische media zijn door de Europese Unie aan banden gelegd. Maar wie het aan AI-chatbots vraagt, krijgt gewoon alle Russische nieuwsbronnen en propaganda te zien, constateert journalistenvereniging RSF. ‘Deze chatbots zijn een uitstekend middel om Europese sancties te omzeilen.’",
+   "date": "2026-09-03T09:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Philips Hue introduceert camera voor tv-sync, sync box 4K en Nanoleaf-integratie",
+   "link": "https://tweakers.net/nieuws/251698/philips-hue-introduceert-camera-voor-tv-sync-sync-box-4k-en-nanoleaf-integratie.html",
+   "description": "Signify breidt het Philips Hue-ecosysteem uit met de Play Screen Sync. Dit camerasysteem leest televisiekleuren uit om Ambilight-licht te synchroniseren. Ook brengt Signify een compacte Play HDMI sync box 4K met één aansluiting uit. Daarnaast introduceert het bedrijf AI-gestuurde lichtautomatiseringen en een integratie voor Nanoleaf-panelen.",
+   "date": "2026-09-03T09:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Regering-Trump schaart zich achter OpenAI in rechtszaak met The New York Times",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/03/regering-trump-schaart-zich-achter-openai-in-rechtszaak-rond-aut/",
+   "description": "De Amerikaanse regering steunt OpenAI in een rechtszaak tegen onder meer The New York Times over auteursrechten.",
+   "date": "2026-09-03T08:45:05",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Samsung toont nieuwste innovaties voor het eerst buiten IFA Berlijn om",
+   "link": "https://www.emerce.nl/nieuws/samsung-toont-nieuwste-innovaties-eerst-buiten-ifa-berlijn",
+   "description": "Samsung staat niet langer op de Messe Berlin, waar deze week de jaarlijkse elektronicabeurs IFA beurs begint. Voor IFA 2026, van 4 tot en met 8 september, heeft Samsung gekozen voor een eigen locatie in het centrum van Berlijn: Humboldt Carré. Daar is het bedrijf vanaf 2 september aanwezig met een presentatie rond het thema ‘AI Living’, met onder meer televisies, huishoudelijke apparaten en Galaxy-producten.",
+   "date": "2026-09-03T08:41:20",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-CEO Huang pleit voor gerichte aanpak van AI-risico’s in plaats van hypothetische gevaren",
+   "link": "https://businessam.be/nvidia-ceo-huang-pleit-voor-gerichte-aanpak-van-ai-risicos-in-plaats-van-hypothetische-gevaren/",
+   "description": "Key takeaways Tijdens een technologietop voor G20-landen in Chapel Hill, North Carolina, pleitte Jensen Huang, CEO van Nvidia, voor een regelgevende aanpak die gericht is op concrete kwesties in plaats van op hypothetische gevaren. Concrete AI-problemen aanpakken In een toespraak samen met de Amerikaanse minister van Handel Howard Lutnick stelde Huang voor dat beleidsmakers prioriteit […]",
+   "date": "2026-09-03T07:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van je bankafschrift tot je beleggingsplan: zo kan AI je helpen om meer geld over te houden",
+   "link": "https://www.hln.be/mijn-geld/van-je-bankafschrift-tot-je-beleggingsplan-zo-kan-ai-je-helpen-om-meer-geld-over-te-houden~aa8c52f8/",
+   "description": "Onderaan het venster waar je een vraag kan stellen aan ChatGPT staat een belangrijke zin: “ChatGPT kan fouten maken.” Je moet dus altijd zélf blijven nadenken als je er iets aan vraagt. Maar kan artificiële intelligentie je desondanks helpen om geld te besparen en het meer te laten opbrengen? Spaargids.be overloopt drie niet te missen mogelijkheden.",
+   "date": "2026-09-03T07:20:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlander accepteert AI in marketing, maar wil altijd menselijke escape",
+   "link": "https://www.emerce.nl/nieuws/nederlander-accepteert-ai-marketing-altijd-menselijke-escape",
+   "description": "Ook al praten ze eerst met een chatbot, Nederlandse consumenten willen altijd het besef hebben dat ze het gesprek uiteindelijk naar een menselijke medewerker van een bedrijf kunnen schakelen.",
+   "date": "2026-09-03T06:35:11",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Digitale dreiging in Nederland groeit door vervagende grenzen en opkomst AI",
+   "link": "https://www.nu.nl/tech/6408416/digitale-dreiging-in-nederland-groeit-door-vervagende-grenzen-en-opkomst-ai.html",
+   "description": "De cyberdreiging in Nederland neemt toe, waarschuwen de politie en het OM. De landsgrenzen vervagen voor criminelen, waardoor hun netwerken groeien. Ook is technische kennis steeds minder nodig en maakt de opkomst van AI snellere en grootschaligere digitale aanvallen mogelijk.",
+   "date": "2026-09-03T06:01:14",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dit oranje bakje is nieuw wapen tegen phishing: Gentse prof vindt toestel uit dat je beschermt tegen oplichters",
+   "link": "https://www.hln.be/binnenland/dit-oranje-bakje-is-nieuw-wapen-tegen-phishing-gentse-prof-vindt-toestel-uit-dat-je-beschermt-tegen-oplichters~a275bb6d/",
+   "description": "Een slim bakje dat valse advertenties en nepbeelden tegenhoudt, nog voor ze op jouw scherm verschijnen. Dat is volgens professor Ruben Verborgh (UGent) de oplossing om phishing tegen te gaan. In samenwerking met het Gentse technologiebedrijf Aaltra ontwikkelde hij een AI-toestel dat valse berichten filtert en zelfs blokkeert. Zo werkt het.",
+   "date": "2026-09-03T06:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - DLSS 5-gedachten, GTA-beelden en tandenborstelcamera's - Tweakers Podcast #442",
+   "link": "https://tweakers.net/video/20540/dlss-5-gedachten-gta-beelden-en-tandenborstelcameras-tweakers-podcast-442.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Daan van Monsjou over GTA VI, de verkoop van GoPro, camera's in tandenborstels, dictatiesoftware en de komst van Nvidia DLSS 5.",
+   "date": "2026-09-03T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - DLSS 5-gedachten, GTA-beelden en tandenborstelcamera's - Tweakers Podcast #442",
+   "link": "https://tweakers.net/geek/251684/dlss-5-gedachten-gta-beelden-en-tandenborstelcameras-tweakers-podcast-442.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Daan van Monsjou over GTA VI, de verkoop van GoPro, camera's in tandenborstels, dicteersoftware en de komst van Nvidia DLSS 5.",
+   "date": "2026-09-03T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het oranje bakje dat phishing en AI-bagger uit uw huis moet houden",
+   "link": "https://www.demorgen.be/nieuws/het-oranje-bakje-dat-phishing-en-ai-bagger-uit-uw-huis-moet-houden~bc9261bf/",
+   "description": "",
+   "date": "2026-09-03T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Het gameschijfje verdwijnt, AI rukt op: vier pijnpunten voor de game-industrie",
+   "link": "https://www.demorgen.be/tv-cultuur/het-gameschijfje-verdwijnt-ai-rukt-op-vier-pijnpunten-voor-de-game-industrie~bbea8268/",
+   "description": "",
+   "date": "2026-09-03T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Europa maakt zich op voor robotrevolutie: “Deze sector kan even groot worden als de auto-industrie",
+   "link": "https://www.gva.be/binnenland/europa-maakt-zich-op-voor-robotrevolutie-deze-sector-kan-even-groot-worden-als-de-auto-industrie/160895831.html",
+   "description": "De EU hoeft niet lijdzaam toe te kijken hoe China en de VS koploper zijn in de AI-robotica-revolutie. Dat was de boodschap gisteren in het Europees Parlement, waar de laatste generatie robots werd gedemonstreerd. “Deze sector kan even groot worden als de auto-industrie.”",
+   "date": "2026-09-03T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Chipspeler Broadcom verhoogt prognose voor AI-verkopen",
    "link": "https://www.tijd.be/r/t/1/id/10684509",
@@ -909,6 +1317,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-09-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Explainer | Steeds minder Chinezen, is AI de schuldige?",
+   "link": "https://www.nu.nl/329798/video/steeds-minder-chinezen-is-ai-de-schuldige.html",
+   "description": "",
+   "date": "2026-09-01T06:06:25",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": true
   },
   {
