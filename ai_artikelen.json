@@ -1,10 +1,22 @@
 {
- "generated": "2026-09-02T07:27:51",
+ "generated": "2026-09-03T02:58:21",
  "feeds": [
+  {
+   "name": "AD - Tech",
+   "url": "https://www.ad.nl/tech/rss.xml",
+   "count": 30,
+   "error": null
+  },
   {
    "name": "Apache.be - Artikels",
    "url": "https://apache.be/feed/artikels",
    "count": 20,
+   "error": null
+  },
+  {
+   "name": "Business AM - Artikels",
+   "url": "https://businessam.be/feed/",
+   "count": 100,
    "error": null
   },
   {
@@ -16,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -34,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -52,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 26,
    "error": null
   },
   {
@@ -182,6 +194,42 @@
    "error": null
   },
   {
+   "name": "Emerce - Artikels",
+   "url": "https://www.emerce.nl/rss",
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Gazet van Antwerpen - Economie",
+   "url": "https://www.gva.be/economie/rss/",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "HLN - Economie",
+   "url": "https://www.hln.be/economie/rss.xml",
+   "count": 30,
+   "error": null
+  },
+  {
+   "name": "HLN - Multimedia",
+   "url": "https://www.hln.be/multimedia/rss.xml",
+   "count": 30,
+   "error": null
+  },
+  {
+   "name": "HLN - Opinie",
+   "url": "https://www.hln.be/opinie/rss.xml",
+   "count": 30,
+   "error": null
+  },
+  {
+   "name": "HLN - Tech",
+   "url": "https://www.hln.be/tech/rss.xml",
+   "count": 30,
+   "error": null
+  },
+  {
    "name": "Humo - Vandaag",
    "url": "https://www.humo.be/vandaag/rss.xml",
    "count": 3,
@@ -202,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 151,
    "error": null
   },
   {
@@ -210,6 +258,18 @@
    "url": "https://www.nu.nl/rss/tech",
    "count": 30,
    "error": null
+  },
+  {
+   "name": "Security.NL - Artikels",
+   "url": "https://www.security.nl/rss/headlines.xml",
+   "count": 50,
+   "error": null
+  },
+  {
+   "name": "Techzine - Artikels",
+   "url": "https://www.techzine.be/feed/",
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Trouw - Opinie",
@@ -220,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 97,
    "error": null
   },
   {
@@ -246,9 +306,324 @@
    "url": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
    "count": 50,
    "error": null
+  },
+  {
+   "name": "Volkskrant - Tech",
+   "url": "https://www.volkskrant.nl/tech/rss.xml",
+   "count": 34,
+   "error": null
   }
  ],
  "articles": [
+  {
+   "title": "Chipspeler Broadcom verhoogt prognose voor AI-verkopen",
+   "link": "https://www.tijd.be/r/t/1/id/10684509",
+   "description": "De AI-chipontwikkelaar Broadcom wist beter dan verwachte kwartaalcijfers af te leveren. Belangrijker was echter de verhoging van de vooruitzichten voor de AI-verkopen in de komende jaren.",
+   "date": "2026-09-03T00:27:22",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verenigde Staten pleiten op G20-meeting tegen nieuwe AI-regulering",
+   "link": "https://www.standaard.be/economie/verenigde-staten-pleiten-op-g20-meeting-tegen-nieuwe-ai-regulering/160865269.html",
+   "description": "Het Witte Huis staat nog steeds op één lijn met de AI-bedrijven, blijkt op de G20-innovatietop in North Carolina. Ondanks een woelige zomer met AI-agents die cyberinbraken pleegden en een groeiende weerstand in de VS tegen nieuwe datacenters.",
+   "date": "2026-09-02T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-gebruik schudt de reclamesector flink op: “Een senior kan morgen een junior zijn”",
+   "link": "https://www.standaard.be/economie/ai-gebruik-schudt-de-reclamesector-flink-op-een-senior-kan-morgen-een-junior-zijn/160847079.html",
+   "description": "Dankzij artificiële intelligentie kan de reclamesector meer doen met minder budget. “Maar onze omzet ligt verrassend dicht bij onze AI-uitgaven.”",
+   "date": "2026-09-02T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse regering steunt OpenAI in copyright rechtszaak van The New York Times",
+   "link": "https://www.volkskrant.nl/tech/liveblog-tech-musk-ai-meta-amazon~b96b97a1/",
+   "description": "",
+   "date": "2026-09-02T22:46:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Snowflake verhoogt omzetverwachting",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/snowflake-verhoogt-omzetverwachting/",
+   "description": "(ABM FN-Dow Jones) Snowflake heeft zijn prognose voor de productomzet dit jaar naar boven bijgesteld na een kleiner verlies in het tweede kwartaal, met kunstmatige intelligentie als drijvende kracht. Dat maakte het cloudopslagbedrijf woensdag nabeurs bekend. Het cloudopslagbedrijf rapporteerde een verlies van 191,7 miljoen dollar, of 55 cent per aandeel, vergeleken met een verlies van 298 miljoen …\nThe post Snowflake verhoogt omzetverwachting appeared first on Trends.be.",
+   "date": "2026-09-02T22:42:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omzetverwachting Broadcom verrast niet",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/omzetverwachting-broadcom-verrast-niet/",
+   "description": "(ABM FN-Dow Jones) Broadcom heeft in het derde kwartaal de verwachtingen in de markt voor de omzet en winst verslagen, dankzij sterke vraag naar AI-versnellers en netwerkapparatuur, maar de omzetverwachting voor het lopende kwartaal overtreft de analistenconsensus niet. Dat bleek woensdag nabeurs.Het Amerikaanse bedrijf boekte een nettowinst van 2,68 dollar per aandeel in het derde kwartaal. …\nThe post Omzetverwachting Broadcom verrast niet appeared first on Trends.be.",
+   "date": "2026-09-02T22:35:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: Dell sluit 16 procent hoger na forse prognoseverhoging dankzij AI-boom",
+   "link": "https://www.tijd.be/r/t/1/id/10684493",
+   "description": "Wall Street kleurde groen dankzij afkoelende langetermijnrentes. Dell kreeg een impuls na spetterende cijfers en prognoses. Beleggers applaudisseerden voor het plan van Uber om 10 procent van zijn personeelsbestand te schrappen. Palo Alto Networks kreeg dan weer een dreun.",
+   "date": "2026-09-02T22:10:20",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-immigranten zijn pas echt gevaarlijk, en die hebben geen visum nodig",
+   "link": "https://www.trouw.nl/opinie/ai-immigranten-zijn-pas-echt-gevaarlijk-en-die-hebben-geen-visum-nodig~b6250248/",
+   "description": "",
+   "date": "2026-09-02T22:00:12",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Een trouwfeest zoals AI het had bedacht: kan ‘Blind getrouwd’ nog lustelozer? ★★☆☆☆",
+   "link": "https://www.standaard.be/media-en-cultuur/een-trouwfeest-zoals-ai-het-had-bedacht-kan-blind-getrouwd-nog-lustelozer/160836547.html",
+   "description": "Verliefd zijn op het gevoel van verliefd te zijn. Verder komen we nog niet in de eerste afleveringen van ‘Blind getrouwd’. En dat begint ondertussen aardig te vervelen.",
+   "date": "2026-09-02T22:00:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom Belgische AI-start-ups Conveo en Converge New York verkiezen: ‘Hier zijn deals soms in een dag gesloten’",
+   "link": "https://www.tijd.be/r/t/1/id/10683287",
+   "description": "De Amerikaanse droom is springlevend, althans voor Belgische start-ups. De Tijd ging in New York langs bij Conveo en Converge, twee snelgroeiende bedrijven van landgenoten die resoluut voor de VS kiezen. Een tactiek die lijkt te lonen. ‘Start-ups zijn hier cooler.’",
+   "date": "2026-09-02T20:30:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-baas Sam Altman vindt het ‘erg onaangenaam’ om met mensen te praten met een slimme bril op de neus",
+   "link": "https://www.demorgen.be/nieuws/openai-baas-sam-altman-vindt-het-erg-onaangenaam-om-met-mensen-te-praten-met-een-slimme-bril-op-de-neus~b4c6a457/",
+   "description": "",
+   "date": "2026-09-02T18:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-teksten hebben nu een onzichtbaar watermerk. Wat heb je er dan aan?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/02/ai-teksten-hebben-nu-een-onzichtbaar-watermerk-wat-heb-je-er-dan-aan-a4935477",
+   "description": "Met een watermerk is te ontdekken of een tekst door AI is gemaakt. Hoe komt zo’n watermerk tot stand? En wat is de invloed ervan op de inhoud?",
+   "date": "2026-09-02T16:55:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgische AI-start-up Conveo tankt 50 miljoen dollar",
+   "link": "https://trends.knack.be/ondernemen/belgische-ai-start-up-conveo-tankt-50-miljoen-dollar/",
+   "description": "De start-up Conveo heeft een spectaculaire groeispurt ingezet. Het bedrijf, dat met behulp van artificiële intelligentie (AI) kwalitatief marktonderzoek automatiseert, heeft in een Series A-financieringsronde 50 miljoen dollar opgehaald. \nThe post Belgische AI-start-up Conveo tankt 50 miljoen dollar appeared first on Trends.be.",
+   "date": "2026-09-02T15:26:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Uitgaven voor AI-datacenters kunnen in 2050 oplopen tot 31,6 biljoen dollar",
+   "link": "https://businessam.be/uitgaven-voor-ai-datacenters-kunnen-in-2050-oplopen-tot-316-biljoen-dollar/",
+   "description": "Key takeaways Een nieuw rapport van PricewaterhouseCoopers suggereert dat het wereldwijde streven om artificiële intelligentie te ondersteunen een ongekende investeringsgolf zal veroorzaken, waarbij de uitgaven voor datacenters naar verwachting in 2050 31,6 biljoen dollar zullen bedragen. Deze financiële inzet is zo enorm dat deze de omvang van historische mijlpalen zoals de komst van elektriciteit, het […]",
+   "date": "2026-09-02T13:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Z.AI, maker van GLM-model, groeit stevig",
+   "link": "https://www.emerce.nl/nieuws/z-ai-maker-van-glm-model-groeit-stevig",
+   "description": "Het Chinese AI-bedrijf Z.AI, de ontwikkelaar achter het GLM-model, laat zien dat het een plek begint in te nemen in de internationale softwarewereld. De omzet groeit fors, maar de resultaten kleuren nog donkerrood.",
+   "date": "2026-09-02T11:56:21",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Conversational AI op de winkelvloer: hoe klantcontact in de winkel gaat veranderen",
+   "link": "https://www.emerce.nl/best-practice/conversational-ai-winkelvloer-hoe-klantcontact-winkel-gaat-veranderen",
+   "description": "De komende jaren zullen sociale robots en digital humans een nieuwe fase inluiden voor klantcontact in winkels. Niet omdat ze simpelweg weer een extra scherm, app of chatbot toevoegen, maar omdat ze conversational AI een gezicht, stem en herkenbare plek op de winkelvloer geven.",
+   "date": "2026-09-02T11:37:02",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-foto’s schrikbarend echt geworden, maar je kunt ze nog altijd herkennen",
+   "link": "https://www.ad.nl/economie/ai-fotos-schrikbarend-echt-geworden-maar-je-kunt-ze-nog-altijd-herkennen~a4ceb0cc/",
+   "description": "De tijd dat je een AI-foto kon herkennen aan handen met zes vingers ligt achter ons. De AI-modellen zijn bijgestuurd en deepfakes ogen nu angstaanjagend echt. Experts leggen uit hoe je nepbeelden nu nog kunt herkennen en trekken aan de bel omdat oplichting makkelijker en laagdrempeliger is dan ooit. „Het probleem zit hem vooral in de snelheid waarmee nepbeelden de wereld rond kunnen gaan.”",
+   "date": "2026-09-02T11:37:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘We staan te weinig stil bij wat er achter de schermen gebeurt als een klasfoto in een AI-tool wordt opgeladen’",
+   "link": "https://www.knack.be/nieuws/belgie/onderwijs/we-staan-te-weinig-stil-bij-wat-er-achter-de-schermen-gebeurt-als-een-klasfoto-in-een-ai-tool-wordt-opgeladen/",
+   "description": "'Net zoals we het ondertussen geleerd hebben om voorzichtig om te gaan met foto's van kinderen op sociale media, zal dat besef ook moeten indalen als het gaat over AI-tools', schrijft Janna Everaert (UGent).\nThe post ‘We staan te weinig stil bij wat er achter de schermen gebeurt als een klasfoto in een AI-tool wordt opgeladen’ appeared first on Knack.",
+   "date": "2026-09-02T11:25:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic: Claude Fable 5.1 kost gemiddeld kwart minder door lagere cachekosten",
+   "link": "https://tweakers.net/nieuws/251656/anthropic-claude-fable-51-kost-gemiddeld-kwart-minder-door-lagere-cachekosten.html",
+   "description": "De AI-programmeertool Claude Fable kost volgens Anthropic met versie 5.1 ongeveer 25 procent minder dan versie 5. Dat komt omdat de kosten van cachegebruik dalen. Volgens de AI-maker zijn de prestaties van het nieuwe model ook aanzienlijk verbeterd. Claude Fable 5.1 en het niet-openbare Mythos 5.1 zijn nu beschikbaar.",
+   "date": "2026-09-02T11:15:15",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GoPro is verkocht en trekt van de koraalriffen naar het AI-datacenter",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/gopro-is-verkocht-en-trekt-van-de-koraalriffen-naar-het-ai-datacenter/",
+   "description": "GoPro, het Amerikaanse bedrijf dat de actiecamera zo’n beetje op de markt heeft gezet, fuseert met het Amerikaanse fotonicabedrijf Starman Optical. Het bedrijf, dat het al even moeilijk heeft, vermijdt zo een failissement.\nThe post GoPro is verkocht en trekt van de koraalriffen naar het AI-datacenter appeared first on Trends.be.",
+   "date": "2026-09-02T10:50:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als de AI-bubbel barst, is de bodem al verschoven",
+   "link": "https://apache.be/2026/09/02/als-ai-bubbel-barst-bodem-al-verschoven",
+   "description": "De belofte van AI verandert nu al de positie van werknemers.",
+   "date": "2026-09-02T09:49:23",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na Google zwicht ook Apple: op kaarten heet Lake Ontario nu Lake America",
+   "link": "https://nos.nl/l/2629337",
+   "description": "Na Google gaat ook Apple de naam van Lake Ontario wijzigen naar Lake America in zijn uitingen, zoals Apple Maps. De Amerikaanse president Trump had de bedrijven bevolen dit te doen, onder meer vanwege de handelsoorlog die zijn regering voert met Canada.\n        Vorige week ondertekende Trump een decreet waardoor het meer in Amerikaanse overheidsdocumenten voortaan Lake America heet. Het meer ligt op de grens tussen de Verenigde Staten en Canada. De doorgevoerde naamswijziging van Apple is alleen te zien voor gebruikers in de VS. Canadezen en mensen in de rest van de wereld blijven gewoon Lake Ontario zien. Gebruikers van Google Maps buiten de VS zien ook de naam Lake Ontario staan. Daarachter staat tussen haakjes wel Lake America.\n        De naamswijziging komt op het moment dat de relatie tussen de VS en Canada flink bekoeld is. Na mislukte onderhandelingen kwam de VS onlangs met een importheffing van 50 procent op Canadese goederen ter waarde van ongeveer 20 miljard dollar. Canada reageerde met vergelijkbare heffingen op Amerikaanse producten.\n        Nieuwe spanningen\n        Ook de naamswijziging leidde tot nieuwe spanningen. Kort na het ondertekenen van het decreet onthulde de premier van de Canadese provincie Ontario, Doug Ford, afgelopen weekend een enorm bord. Daarop stond de tekst: \"Lake Ontario. Now and Always\" (Ontariomeer. Nu en altijd). Ook verklaarde hij dat Canada zijn soevereiniteit altijd zal beschermen en dat het land \"nooit zal wijken voor een pestkop\".\n        Trump reageerde daar weer op met een door AI gemaakte video waarin hij het bord met 'Lake Ontario' weghaalt en een nieuw bord met 'Lake America' op die plek zet.\n        Iets meer dan de helft van Lake Ontario ligt in Canada. De rest ligt in de Amerikaanse staat New York. De gouverneur van die staat zei eerder al de nieuwe naam niet over te nemen. Er is geen internationale organisatie die bepaalt welke naam een grensoverschrijdend meer officieel heeft.\n        Nieuwe peilingen slecht nieuws voor Trump\n        De nieuwe handelsoorlog en de daaropvolgende beslissing om de naam van Lake Ontario te veranderen, doen Trump geen goed in peilingen voor de tussentijdse verkiezingen van dit najaar.\n        63 procent van de Amerikanen is tegen het besluit van de president om het meer vanaf nu Lake America te noemen, blijkt een peiling van Reuters en Ipsos. Ook veel Republikeinse stemmers zijn tegen. Ook verzet zo'n 60 procent zich tegen de handelsoorlog met Canada.",
+   "date": "2026-09-02T09:25:49",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS roepen G20-landen op strenge nieuwe AI-regels te mijden",
+   "link": "https://tweakers.net/nieuws/251648/vs-roepen-g20-landen-op-strenge-nieuwe-ai-regels-te-mijden.html",
+   "description": "De Amerikaanse overheid dringt er bij G20-landen op aan geen nieuwe, strenge regels voor AI-gebruik aan te nemen. De VS pleiten voor een terughoudende aanpak van AI door overheden. Nieuwe regulering van AI zou alleen in bijzondere gevallen moeten worden ingevoerd, aldus de regering van de VS.",
+   "date": "2026-09-02T08:34:56",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hugging Face scoort met Microduck: robot haalt meer dan 4 miljoen dollar omzet",
+   "link": "https://businessam.be/hugging-face-scoort-met-microduck-robot-haalt-meer-dan-4-miljoen-dollar-omzet/",
+   "description": "Key takeaways De Microduck, een programmeerbare persoonlijke robot ontwikkeld door Pollen Robotics – een Franse start-up die is overgenomen door Hugging Face – heeft een explosieve marktintroductie gekend. Sinds de lancering afgelopen donderdag heeft het apparaat meer dan 4 miljoen dollar (3,5 miljoen euro) aan omzet gegenereerd met meer dan 10.000 verkochte exemplaren. Hardwarebeperkingen De […]",
+   "date": "2026-09-02T08:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Actie - Be quiet lanceert Dark Power Pro 14 IO: krachtige slimme voeding",
+   "link": "https://tweakers.net/plan/4756/be-quiet-lanceert-dark-power-pro-14-io-krachtige-slimme-voeding.html",
+   "description": "De nieuwe voeding van be quiet, de Dark Power Pro 14 IO, is de opvolger van de Dark Power Pro 13 en komt in uitvoeringen van 1300W en 1600W. Daarmee blijft de voeding duidelijk gericht op het topsegment: zware gaming-pc’s, werkstations, systemen met krachtige gpu’s en gebruikers die liever te veel marge hebben dan te weinig.",
+   "date": "2026-09-02T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brussel zet ChatGPT onder DSA, want grote Google-concurrent",
+   "link": "https://www.emerce.nl/nieuws/brussel-chatgpt-geen-chatbot-meer-grote-googleconcurrent",
+   "description": "De Europese Commissie heeft ChatGPT aangewezen als een ‘zeer grote online zoekmachine’ (VLOSE) onder de Digital Services Act. Daarmee komt het onder verscherpt toezicht en gelden strengere regels die concurrentie overeind moeten houden.",
+   "date": "2026-09-02T07:41:58",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Digitale soevereiniteit: het is schalen of falen voor de Europese cloud en AI",
+   "link": "https://trends.knack.be/ai-en-tech/data-en-cloud/digitale-soevereiniteit-harmonisatie-is-noodzaak-voor-europese-clouds/",
+   "description": "Europa heeft de eerste cloudgolf grotendeels aan zich voorbij laten gaan, met een verregaande afhankelijkheid van niet-Europese technologiegiganten tot gevolg. Met de opkomst van artificiële intelligentie en de introductie van de Cloud and AI Development Act (CADA) krijgt Europa nu een tweede kans om de regie over zijn digitale toekomst terug te grijpen. Toch klinkt er een scherpe waarschuwing: zonder strikte Europese harmonisatie dreigt de broodnodige schaalbaarheid verloren te gaan.\nThe post Digitale soevereiniteit: het is schalen of falen voor de Europese cloud en AI appeared first on Trends.be.",
+   "date": "2026-09-02T07:34:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brand New Day introduceert AI-pensioenassistent Daisy",
+   "link": "https://www.emerce.nl/nieuws/brand-new-day-introduceert-aipensioenassistent-daisy",
+   "description": "Brand New Day introduceert Daisy, een door de online pensioenbank zelf ontwikkelde AI-assistent voor vragen over pensioen, sparen en beleggen. De assistent is 24 uur per dag beschikbaar en moet klanten sneller inzicht geven in hun persoonlijke pensioensituatie.",
+   "date": "2026-09-02T06:05:13",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Trump houdt van AI en datacenters, de kiezer niet",
    "link": "https://www.standaard.be/buitenland/trump-houdt-van-ai-en-datacenters-de-kiezer-niet/160815530.html",
@@ -258,6 +633,17 @@
     "De Standaard - Buitenland"
    ],
    "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie tegen AI-datacenters is, wil volgens Donald Trump “achterlijk en arm eindigen”. Maar de Amerikaanse kiezer lust ze niet",
+   "link": "https://www.standaard.be/buitenland/wie-tegen-ai-datacenters-is-wil-volgens-donald-trump-achterlijk-en-arm-eindigen-.-maar-de-amerikaanse-kiezer-lust-ze-niet/160815530.html",
+   "description": "Steeds meer Democraten én Republikeinen zien de strijd tegen datacenters en de AI-bedrijven die ze bouwen als een strijd tegen een oligarchie. Tot onvrede van Donald Trump, want de Amerikaanse president dankt aan de AI-boom een van zijn economische goednieuwsverhalen.",
+   "date": "2026-09-01T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -305,6 +691,28 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Instagram gaat AI-accounts die zich voordoen als mensen minder vaak aanbevelen",
+   "link": "https://www.hln.be/internet/instagram-gaat-ai-accounts-die-zich-voordoen-als-mensen-minder-vaak-aanbevelen~aae44abe/",
+   "description": "Instagram neemt maatregelen tegen AI-gegenereerde profielen die geen AI-label gebruiken. Als dergelijke profielen zich voordoen als mensen, zal het platform hun posts niet langer aanbevelen aan gebruikers die het profiel in kwestie niet volgen.",
+   "date": "2026-09-01T19:51:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple: ex-werknemer stal bedrijfsgegevens en gebruikte die bij OpenAI",
+   "link": "https://www.hln.be/tech/apple-ex-werknemer-stal-bedrijfsgegevens-en-gebruikte-die-bij-openai~a453cb50/",
+   "description": "Apple zegt nieuw bewijs te hebben dat een voormalige medewerker geheime bedrijfsinformatie meenam naar OpenAI. De werknemer zou vertrouwelijke schematische tekeningen hebben gebruikt voor zijn nieuwe werk bij het AI-bedrijf.",
+   "date": "2026-09-01T19:41:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Dyson maakt slimste tandenborstel met AI",
    "link": "https://www.standaard.be/economie/beurs/dyson-maakt-slimste-tandenborstel-met-ai/160827279.html",
    "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
@@ -325,6 +733,17 @@
     "NRC - Artikels"
    ],
    "first_seen": "2026-09-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dyson lanceert tandenborstel met een ingebouwde AI-camera: “Een volledig nieuwe manier om je tanden te poetsen”",
+   "link": "https://www.hln.be/tech/dyson-lanceert-tandenborstel-met-een-ingebouwde-ai-camera-een-volledig-nieuwe-manier-om-je-tanden-te-poetsen~ad759de0/",
+   "description": "Het Britse bedrijf Dyson waagt zich aan een nieuw product: een slimme tandenborstel. Het toestel gebruikt een camera en AI om tijdens het poetsen de ruimtes tussen de tanden te detecteren.",
+   "date": "2026-09-01T15:59:24",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -361,6 +780,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Onderzoek: ingezonden opiniestukken in Nederlandse kranten vol met AI",
+   "link": "https://www.volkskrant.nl/tech/onderzoek-ingezonden-opiniestukken-in-nederlandse-kranten-vol-met-ai~b6613b1f/",
+   "description": "",
+   "date": "2026-09-01T14:11:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Nederlanders en Belgen krijgen advertenties in ChatGPT",
    "link": "https://tweakers.net/nieuws/251606/nederlanders-en-belgen-krijgen-advertenties-in-chatgpt.html",
    "description": "Europese gebruikers van ChatGPT kunnen advertenties te zien krijgen in de AI-chatbot van OpenAI. Het Amerikaanse bedrijf laat dit weten in een nieuwsbrief, zo melden tweakers aan de redactie. Nederland en België staan op de lijst met landen waar adverteerders zich op kunnen richten.",
@@ -394,6 +824,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Advertentie-inkomsten van OpenAI bereiken jaaromzet van 1 miljard dollar",
+   "link": "https://businessam.be/advertentie-inkomsten-van-openai-bereiken-jaaromzet-van-1-miljard-dollar/",
+   "description": "Key takeaways De advertentietak van OpenAI heeft een belangrijke financiële mijlpaal bereikt met een jaaromzet van 1 miljard dollar (862,3 miljoen euro). Die groei is te danken aan een bredere wereldwijde uitrol en een toenemend aantal gebruikers dat de commerciële functies van het platform benut. Wereldwijde marktuitbreiding In het kader van een recente uitbreiding heeft […]",
+   "date": "2026-09-01T11:27:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Anthropic steekt weer tientallen miljarden in clouddeal",
    "link": "https://trends.knack.be/ai-en-tech/technieuws/anthropic-steekt-weer-tientallen-miljarden-in-clouddeal/",
    "description": "AI-bedrijf Anthropic heeft een clouddeal van 35 miljard dollar gesloten met Lambda, een door Nvidia gesteunde cloudprovider. Dit maakt deel uit van een plan om de capaciteit voor toepassingen van artificiële intelligentie (AI) in hoog tempo uit te breiden, melden verschillende Amerikaanse media op basis van bronnen.\nThe post Anthropic steekt weer tientallen miljarden in clouddeal appeared first on Trends.be.",
@@ -416,6 +857,28 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Deense voetbalclubs mogen automatische gezichtsherkenning inzetten",
+   "link": "https://www.security.nl/posting/951290/Deense+voetbalclubs+mogen+automatische+gezichtsherkenning+inzetten?channel=rss",
+   "description": "Twee Deense voetbalclubs mogen tijdens voetbalwedstrijden automatische gezichtsherkenning inzetten, zo heeft de Deense ...",
+   "date": "2026-09-01T10:21:39",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lithiummijnbedrijven boeken recordwinsten nu de vraag naar energieopslag sterk stijgt",
+   "link": "https://businessam.be/lithiummijnbedrijven-boeken-recordwinsten-nu-de-vraag-naar-energieopslag-sterk-stijgt/",
+   "description": "Key takeaways Een aanzienlijke stijging van de vraag naar energieopslagsystemen heeft lithiummijnbedrijven naar recordwinsten gestuwd. Dat meldt Bloomberg. Die stijging wordt grotendeels aangedreven door de uitbreiding van de infrastructuur voor hernieuwbare energie en de toename van datacenters. Nettowinst Als gevolg daarvan boekten grote spelers in de sector, zoals Ganfeng Lithium Group en Tianqi Lithium, in […]",
+   "date": "2026-09-01T10:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": ".Adv - AI, Ingress en AWS: cloudtechniek achter de energietransitie van Nederland",
    "link": "https://tweakers.net/plan/4778/ai-ingress-en-aws-cloudtechniek-achter-de-energietransitie-van-nederland.html",
    "description": "De energietransitie is allang niet meer alleen een kwestie van kabels,\ntransformatorhuisjes en monteurs in de straat. Onder dat fysieke net ligt een\ndigitale infrastructuur die minstens zo cruciaal is. Cloud engineer Ismail Beder\nwerkt bij Alliander aan het AWS-platform waar diverse teams mee werken. Van\nconfigureerbare time-outs tot AI als extra controlelaag: zijn werk laat zien hoe\ntechnische keuzes doorwerken in maatschappelijke vooruitgang.",
@@ -424,6 +887,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-09-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple begint aan nieuw tijdperk onder de nieuwe CEO John Ternus: Dit staat hem te wachten",
+   "link": "https://businessam.be/apple-begint-aan-nieuw-tijdperk-onder-de-nieuwe-ceo-john-ternus-dit-staat-hem-te-wachten/",
+   "description": "Key takeaways John Ternus is op 1 september aangetreden als CEO van Apple en neemt daarmee een bedrijf over dat op een cruciaal kruispunt staat. Zijn belangrijkste doel is om de techgigant door de revolutie op het gebied van artificiële intelligentie te loodsen en ervoor te zorgen dat de historische dominantie van het bedrijf in […]",
+   "date": "2026-09-01T06:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -516,6 +990,40 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Warner en Sony slepen Anthropic voor de rechter om misbruik songteksten",
+   "link": "https://businessam.be/warner-en-sony-slepen-anthropic-voor-de-rechter-om-misbruik-songteksten/",
+   "description": "Key takeaways Anthropic heeft te maken met een federale rechtszaak in Californië, aangespannen door de uitgeverijdivisies van Warner Music en Sony Music. De eisers beweren dat de AI-ontwikkelaar illegaal auteursrechtelijk beschermde songteksten heeft gebruikt om zijn Claude AI-systeem te ontwikkelen. Volgens de rechtszaak zijn honderden werken van iconische artiesten zoals Michael Jackson, Taylor Swift en […]",
+   "date": "2026-08-31T19:46:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Muzieklabels Sony en Warner klagen Anthropic aan voor grootschalige muziekdiefstal",
+   "link": "https://www.hln.be/multimedia/muzieklabels-sony-en-warner-klagen-anthropic-aan-voor-grootschalige-muziekdiefstal~a33c4326/",
+   "description": "De grote muzieklabels Sony en Warner Chappell beschuldigen AI-bedrijf Anthropic van grootschalige muziekdiefstal. Het bedrijf zou zonder toestemming duizenden nummers van de muzieklabels hebben gedownload om Claude te trainen. De AI-chatbot zou onder meer songteksten op illegale wijze in antwoorden aan gebruikers geven.",
+   "date": "2026-08-31T19:27:00",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT, Reddit en Roblox vallen voortaan onder strengste EU-regels",
+   "link": "https://businessam.be/chatgpt-reddit-en-roblox-vallen-voortaan-onder-strengste-eu-regels/",
+   "description": "Key takeaways De Europese Commissie heeft haar strengste regelgevingskader voor digitale diensten uitgebreid naar Roblox, Reddit en ChatGPT. Classificatie Op grond van de Wet inzake digitale diensten heeft de Commissie Reddit en Roblox geclassificeerd als zeer grote onlineplatforms, terwijl ChatGPT is aangemerkt als een zeer grote onlinezoekmachine. Door die classificatie vallen die Amerikaanse bedrijven onmiddellijk […]",
+   "date": "2026-08-31T19:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Europese beurzen sluiten wisselvallige maand lager af",
    "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-wisselvallige-maand-lager-af/",
    "description": "(ABM FN-Dow Jones) De Europese beurzen zijn maandag lager gesloten. Hiermee eindigde een wisselvallige maand die vooral in het teken stond van de oplopende rentes die in de meeste landen inmiddels meerjarige niveaus hebben bereikt. De hardnekkige inflatie, gebrek aan begrotingsdiscipline en toegenomen concurrentie van hyperscalers om de AI-revolutie te financieren zijn hier debet aan.De breed …\nThe post Europese beurzen sluiten wisselvallige maand lager af appeared first on Trends.be.",
@@ -593,6 +1101,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "ChatGPT, Reddit en Roblox moeten van Brussel aan extra DSA-regels voldoen",
+   "link": "https://www.security.nl/posting/951165/ChatGPT%2C+Reddit+en+Roblox+moeten+van+Brussel+aan+extra+DSA-regels+voldoen?channel=rss",
+   "description": "De Europese Commissie heeft ChatGPT, Reddit en Roblox aangewezen als respectievelijk zeer grote onlinezoekmachine (VLOSE) en ...",
+   "date": "2026-08-31T13:48:28",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AI-scrapers slokken 20 procent van cpu-capaciteit Kernel.org op",
    "link": "https://tweakers.net/nieuws/251546/ai-scrapers-slokken-20-procent-van-cpu-capaciteit-kernel-punt-org-op.html",
    "description": "Bij Kernel.org gaat inmiddels zo’n twintig procent van de cpu-capaciteit op aan het renderen van commits voor AI-scrapers. Dat vergt veel meer cpu-capaciteit dan andere vormen van legitieme toegang, waaronder Git-clones. Kernel.org ziet zich daardoor genoodzaakt om bepaalde functionaliteit uit te schakelen.",
@@ -637,6 +1156,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Hoe China met onverwachte ‘hulp’ van Amerika zijn eigen ASML-machine probeert te bouwen",
+   "link": "https://www.ad.nl/economie/hoe-china-met-onverwachte-hulp-van-amerika-zijn-eigen-asml-machine-probeert-te-bouwen~a0ceb901/",
+   "description": "Vierdubbele salarissen voor overlopers en duizend ingewikkelde puzzelstukjes: China bouwt met man en macht aan een eigen chipproductie. En dat allemaal dankzij een weigerachtig Amerika. Drie kenners over de ratrace met ASML. „Ineens ging iedereen in China aan.”",
+   "date": "2026-08-31T11:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Starter van de week: FirstHour.ai, platform gebruikt AI voor snelle crisiscommunicatie",
    "link": "https://trends.knack.be/ondernemen/firsthour-ai-platform-gebruikt-ai-voor-snelle-crisiscommunicatie/",
    "description": "FirstHour.ai helpt organisaties tijdens een crisis sneller te beslissen wat ze communiceren en om meteen duidelijke boodschappen op te stellen voor medewerkers, klanten en media. \"Zo kunnen zij snel consistent communiceren en de controle behouden\", legt medeoprichter Peter Otten uit. \"Op zo’n moment telt elke minuut.\"\nThe post Starter van de week: FirstHour.ai, platform gebruikt AI voor snelle crisiscommunicatie appeared first on Trends.be.",
@@ -645,6 +1175,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-09-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic waarschuwt Claude-gebruikers voor malware die tokens steelt",
+   "link": "https://www.security.nl/posting/951101/Anthropic+waarschuwt+Claude-gebruikers+voor+malware+die+tokens+steelt?channel=rss",
+   "description": "AI-bedrijf Anthropic waarschuwt Claude-gebruikers voor infostealer-malware die van gecompromitteerde accounts tokens steelt. ...",
+   "date": "2026-08-31T09:46:37",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -682,6 +1223,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "AI-systemen liegen en omzeilen menselijke toestemming steeds meer: incidenten in één maand bijna verdubbeld",
+   "link": "https://www.gva.be/buitenland/ai-systemen-liegen-en-omzeilen-menselijke-toestemming-steeds-meer-incidenten-in-een-maand-bijna-verdubbeld/160701836.html",
+   "description": "Het aantal gemelde incidenten waarbij AI-systemen liegen, instructies negeren of schadelijke doelen nastreven, heeft in juli een nieuw record bereikt. Onderzoekers telden meer dan 300 gevallen, bijna dubbel zoveel als een maand eerder.",
+   "date": "2026-08-30T03:01:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Drones als 'killerrobots': ontwikkeling van wapens met AI baart VN grote zorgen",
    "link": "https://www.nu.nl/buitenland/6407643/drones-als-killerrobots-ontwikkeling-van-wapens-met-ai-baart-vn-grote-zorgen.html",
    "description": "Komende week zijn er in Genève weer gesprekken tussen verschillende landen in de Verenigde Naties over volledig autonome wapensystemen. Met militaire kunstmatige intelligentie kunnen beslissingen over bombardementen in een mum van tijd worden genomen, maar de VN willen graag regels voor deze \"killerrobots\".",
@@ -690,6 +1242,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-08-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nu wordt duidelijk hoeveel AI-agents wisten uit te breken bij OpenAI: “De schaal waarop dit kon gebeuren is hallucinant, maar nu kan de stekker er nog uit”",
+   "link": "https://www.gva.be/economie/technologie/nu-wordt-duidelijk-hoeveel-ai-agents-wisten-uit-te-breken-bij-openai-de-schaal-waarop-dit-kon-gebeuren-is-hallucinant-maar-nu-kan-de-stekker-er-nog-uit/160688291.html",
+   "description": "Meer dan 1.000 AI-agents hadden stiekem een forum opgericht waar ze 70.000 berichten uitwisselden. Dat en veel meer nieuwe details staan in een nieuw rapport van OpenAI over wat het ‘Tsjernobyl van AI’ had kunnen zijn.",
+   "date": "2026-08-29T15:03:08",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -859,6 +1422,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "ServiceNow waarschuwt voor kritieke CVSS 10.0-lekken in AI-platform",
+   "link": "https://www.security.nl/posting/950862/ServiceNow+waarschuwt+voor+kritieke+CVSS+10_0-lekken+in+AI-platform?channel=rss",
+   "description": "Softwarebedrijf ServiceNow waarschuwt voor meerdere kritieke kwetsbaarheden in het eigen AI-platform waardoor ...",
+   "date": "2026-08-28T13:35:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "De bizarre aanval op een topeconoom met AI-zorgen",
    "link": "https://www.tijd.be/r/t/1/id/10683865",
    "description": "Wat bezielde het gereputeerde magazine The Economist om in een atypisch giftig artikel Nobelprijswinnaar Economie Daron Acemoglu weg te zetten als een overroepen verkondiger van platitudes? Een heel andere visie op de beloftes en gevaren van AI - ook voor onze liberale democratie - lijkt aan de basis te liggen.",
@@ -948,6 +1522,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Nvidia wint op één dag 442 miljard dollar aan beurswaarde",
+   "link": "https://www.hln.be/economie/nvidia-wint-op-een-dag-442-miljard-dollar-aan-beurswaarde~ad3f311b/",
+   "description": "De Amerikaanse chipreus Nvidia heeft er op één dag 442 miljard dollar aan beurswaarde bij gekregen. Het bedrijf was bij de sluiting van de beurs in New York donderdagavond bijna 9 procent in waarde gestegen. De dagwinst van 442 miljard dollar is een van de grootste dagwinsten ooit op de Amerikaanse beurs.",
+   "date": "2026-08-28T09:26:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "We zijn de grip op AI-ontwikkeling kwijtgeraakt",
    "link": "https://www.nrc.nl/nieuws/2026/08/28/we-zijn-de-grip-op-ai-ontwikkeling-kwijtgeraakt-a4935287",
    "description": "Hoe krijgen we AI-systemen zover om gehoorzaam te zijn? Dat is op dit moment in de AI-geschiedenis misschien wel de belangrijkste vraag. Dat we het antwoord nog altijd niet weten, terwijl de modellen inmiddels zo geavanceerd zijn, baart steeds meer leidende figuren in de techindustrie tot zorgen.",
@@ -967,6 +1552,28 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia wint in een dag 442 miljard dollar aan beurswaarde, ‘GTA’-maker zakt",
+   "link": "https://www.gva.be/economie/beurs/nvidia-wint-in-een-dag-442-miljard-dollar-aan-beurswaarde-gta-maker-zakt/160624127.html",
+   "description": "De Amerikaanse chipreus Nvidia heeft er in een dag 442 miljard dollar aan beurswaarde bij gekregen. Het bedrijf was bij de sluiting van de beurs in New York donderdagavond bijna 9 procent in waarde gestegen. De dagwinst van 442 miljard dollar betreft een van de grootste dagwinsten op de Amerikaanse beurs ooit.",
+   "date": "2026-08-28T03:13:12",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gents bedrijf gehackt met AI-tool van SpaceX",
+   "link": "https://www.gva.be/economie/bedrijven/gents-bedrijf-gehackt-met-ai-tool-van-spacex/160624098.html",
+   "description": "Een Gents bedrijf is gehackt door Russisch sprekende cybercriminelen die een AI-agent gebruikten die intussen onderdeel is van SpaceX. Dat meldt persagentschap Reuters. Ook bij minstens zes andere bedrijven werd zo ingebroken.",
+   "date": "2026-08-28T02:04:24",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -1025,6 +1632,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Alweer overtroeft Nvidia de verwachtingen van analisten: “AI heeft een absoluut keerpunt bereikt”",
+   "link": "https://www.gva.be/economie/alweer-overtroeft-nvidia-de-verwachtingen-van-analisten-ai-heeft-een-absoluut-keerpunt-bereikt/160612469.html",
+   "description": "Voor het achtste kwartaal op rij doet Nvidia beter dan wat de analisten verwachtten. En CEO Jensen Huang is er zeker van: het zal alleen maar beter worden. “AI heeft een absoluut keerpunt bereikt, over de hele wereld zien we een groei.”",
+   "date": "2026-08-27T19:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Nvidia aast op AI-platform Hugging Face",
    "link": "https://www.standaard.be/economie/beurs/nvidia-aast-op-ai-platform-hugging-face/160577529.html",
    "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
@@ -1056,6 +1674,17 @@
     "De Tijd - Opinie"
    ],
    "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia wint 360 miljard dollar aan beurswaarde",
+   "link": "https://www.gva.be/economie/bedrijven/nvidia-wint-360-miljard-dollar-aan-beurswaarde/160605127.html",
+   "description": "Bij de opening van de beurs in New York is het aandeel van “s werelds waardevolste bedrijf Nvidia donderdag met ruim 7 procent gestegen. De beurswaarde van de Amerikaanse chipmaker steeg zo met ongeveer 360 miljard tot meer dan 5,4 biljoen dollar.",
+   "date": "2026-08-27T16:32:45",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -1136,6 +1765,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Bill Gates gooit het roer radicaal om en waarschuwt nu voor AI",
+   "link": "https://www.volkskrant.nl/tech/bill-gates-gooit-het-roer-radicaal-om-en-waarschuwt-nu-voor-ai~b5728986/",
+   "description": "",
+   "date": "2026-08-27T12:10:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Nu marktenchat over de staatsbon, Lotus Bakeries en Nvidia",
    "link": "https://www.tijd.be/r/t/1/id/10683525",
    "description": "Van 12 tot 13 uur chatten we over de markten en de economie.",
@@ -1199,6 +1839,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-08-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Vier op tien werknemers zien meerwaarde van AI in job niet”",
+   "link": "https://www.gva.be/economie/technologie/vier-op-tien-werknemers-zien-meerwaarde-van-ai-in-job-niet/160575725.html",
+   "description": "Meer dan vier op de tien werknemers zoeken nog naar wat artificiële intelligentie concreet kan betekenen in hun job. Dat blijkt uit een online bevraging van opleidingenaanbieder Cevora.",
+   "date": "2026-08-27T10:38:14",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
@@ -1279,6 +1930,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Eerste hersentumor ooit verwijderd met hulp van AI",
+   "link": "https://www.gva.be/economie/technologie/eerste-hersentumor-ooit-verwijderd-met-hulp-van-ai/160571530.html",
+   "description": "Neurochirurgen in Londen hebben ‘s werelds eerste succesvolle, door AI ondersteunde operatie uitgevoerd om een ​​hersentumor te verwijderen, waardoor het zicht van een 48-jarige man werd gered.",
+   "date": "2026-08-27T07:25:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Aziatische beurzen noteren verdeeld na sterke cijfers Nvidia",
    "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-verdeeld-na-sterke-cijfers-nvidia/",
    "description": "(ABM FN-Dow Jones) De Aziatische beurzen lieten donderdagochtend een verdeeld beeld zien, nadat Nvidia woensdag nabeurs met sterke kwartaalcijfers en een optimistische outlook het vertrouwen in de AI-sector een impuls gaf. Het aandeel Nvidia won in de elektronische handel bijna 5 procent.Vooral Aziatische chip- en technologieaandelen profiteerden, hoewel de zorgen over de inflatie en het rentebeleid …\nThe post Aziatische beurzen noteren verdeeld na sterke cijfers Nvidia appeared first on Trends.be.",
@@ -1298,6 +1960,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-08-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates trekt aan alarmbel over AI: “De wereld heeft nood aan een plan”",
+   "link": "https://www.gva.be/economie/technologie/bill-gates-trekt-aan-alarmbel-over-ai-de-wereld-heeft-nood-aan-een-plan/160568470.html",
+   "description": "Voormalig Microsoft-topman Bill Gates roept op tot begeleiding van de veranderingen die artificiële intelligentie teweegbrengt. Hij stelt een belasting op AI voor, de oprichting van een internationaal toezichtsorgaan en het vastleggen van banen die voorbehouden zijn aan mensen.",
+   "date": "2026-08-27T06:46:45",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-03",
    "intro_geprobeerd": false
   },
   {
