@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T16:51:41",
+ "generated": "2026-09-04T02:48:22",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 152,
+   "count": 160,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
@@ -315,6 +315,171 @@
   }
  ],
  "articles": [
+  {
+   "title": "OpenAI lanceert nieuwe AI-tool in wedloop met rivaal Anthropic",
+   "link": "https://www.tijd.be/r/t/1/id/10684682",
+   "description": "AI-reus OpenAI lanceert een nieuwe tool, GPT-6 Astra, die alle concurrentie zou verslaan in rekenkracht. De bedrijfstop beweert zelfs dat het de kiem draagt van AGI, de term voor de intelligentie waarbij een machine elke intellectuele taak kan uitvoeren die een mens kan.",
+   "date": "2026-09-03T22:15:42",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: Microsoft en Snowflake stuwen Nasdaq, Broadcom glijdt uit",
+   "link": "https://www.tijd.be/r/t/1/id/10684671",
+   "description": "Wall Street trok donderdag stevig hoger dankzij hoop op een rentepauze. Microsoft en Snowflake schitterden, terwijl beleggers bij Broadcom op nog sterkere AI-vooruitzichten hadden gerekend.",
+   "date": "2026-09-03T22:08:46",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipgigant Nvidia blijft maar geld uitgeven: ruim 11 miljard euro voor overname van AI-platform Hugging Face",
+   "link": "https://www.volkskrant.nl/tech/chipgigant-nvidia-blijft-maar-geld-uitgeven-ruim-11-miljard-euro-voor-overname-van-ai-platform-hugging-face~b0136d0f/",
+   "description": "",
+   "date": "2026-09-03T21:17:35",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI lanceert nieuw, krachtiger AI-model",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/openai-lanceert-nieuw-krachtiger-aimodel~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-03T21:01:12",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI brengt GPT-6 Astra uit en suggereert dat het 'agi' is",
+   "link": "https://tweakers.net/nieuws/251754/openai-brengt-gpt-6-astra-uit-en-suggereert-dat-het-agi-is.html",
+   "description": "OpenAI heeft GPT-6 Astra geïntroduceerd. Dat model komt op donderdag beschikbaar voor een aantal geselecteerde bedrijven. Binnenkort volgt een versie voor betalende ChatGPT-gebruikers. Tijdens een persbriefing wekte OpenAI de suggestie dat Astra 'agi' is, al is dat een vage term zonder duidelijke betekenis.",
+   "date": "2026-09-03T20:59:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI lanceert nieuw, krachtiger AI-model",
+   "link": "https://www.gva.be/economie/technologie/openai-lanceert-nieuw-krachtiger-ai-model/160953786.html",
+   "description": "OpenAI is donderdag gestart met de uitrol van een nieuw, krachtiger AI-model GPT-6 Astra. Het model is volgens het bedrijf in staat om in zijn eentje een computer te runnen, en is uitgerust met een systeem dat het kan stoppen als het te ver zou gaan.",
+   "date": "2026-09-03T20:19:34",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frankrijk begint tests met Tesla FSD",
+   "link": "https://tweakers.net/nieuws/251750/frankrijk-begint-tests-met-tesla-fsd.html",
+   "description": "Frankrijk is begonnen met het testen van Tesla's Full Self-Driving Supervised-techniek op Franse wegen. Dat bevestigt Philippe Tabarot, de Franse transportminister. Daarmee moet goedkeuring van de techniek voor zelfrijdende auto's een stapje dichterbij komen.",
+   "date": "2026-09-03T19:46:23",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lenovo IdeaPad Vibe-laptops concurreren met MacBook Neo vanaf 799 euro",
+   "link": "https://tweakers.net/nieuws/251746/lenovo-ideapad-vibe-laptops-concurreren-met-macbook-neo-vanaf-799-euro.html",
+   "description": "Ook Lenovo komt met een aantal betaalbaardere laptops, die moeten concurreren met de MacBook Neo van Apple. De IdeaPad Vibe komt beschikbaar vanaf 799 euro. Er komen in eerste instantie alleen varianten met cpu's van AMD en Qualcomm. Intel-modellen volgen later.",
+   "date": "2026-09-03T18:41:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - TomTom is 35 jaar: het kastje verdween, kaarten wijzen autonome auto's de weg",
+   "link": "https://tweakers.net/reviews/15232/tomtom-is-35-jaar-het-kastje-verdween-kaarten-wijzen-autonome-autos-de-weg.html",
+   "description": "TomTom is dit jaar 35 jaar. Het bedrijf werd groot met de navigatiesystemen, maar focust inmiddels op digitale kaarten voor bedrijven en zelfrijdende auto's.",
+   "date": "2026-09-03T18:30:32",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia koopt belangrijk AI-platform, een boost voor de verspreiding van open modellen",
+   "link": "https://www.standaard.be/economie/nvidia-koopt-belangrijk-ai-platform-een-boost-voor-de-verspreiding-van-open-modellen/160940753.html",
+   "description": "De chipreus Nvidia koopt het deels Europese AI-platform Hugging Face voor 13 miljard dollar. Zo krijgt Nvidia de controle over een belangrijk verdeelkanaal voor open modellen, die gebruikers zelf kunnen aanpassen.",
+   "date": "2026-09-03T18:28:58",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook zonder termen als ‘geheime AI-beschavingen’ is de Hugging Face-hack al zorgelijk genoeg",
+   "link": "https://www.volkskrant.nl/tech/ook-zonder-termen-als-geheime-ai-beschavingen-is-de-hugging-face-hack-al-zorgelijk-genoeg~babedfc3/",
+   "description": "",
+   "date": "2026-09-03T18:00:24",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Kloof tussen leidinggevenden en HR over impact van AI op aanwerving",
+   "link": "https://businessam.be/kloof-tussen-leidinggevenden-en-hr-over-impact-van-ai-op-aanwerving/",
+   "description": "Key takeaways Uit een recent onderzoek van Partena Professional, in samenwerking met iVOX en arbeidsdeskundige Stijn Baert, blijkt dat er een aanzienlijke kloof bestaat in hoe Belgische werkgevers de impact van AI op het wervingsproces ervaren. Met name bedrijfseigenaren en managers uiten veel meer bezorgdheid over het gebruik van artificiële intelligentie door werkzoekenden dan HR-professionals. […]",
+   "date": "2026-09-03T17:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI: ChatGPT en Codex zijn verslechterd bereikbaar door storing",
+   "link": "https://tweakers.net/nieuws/251742/openai-chatgpt-en-codex-zijn-verslechterd-bereikbaar-door-storing.html",
+   "description": "OpenAI heeft momenteel last van een storing. Daardoor kunnen AI-chatbot ChatGPT en programmeerassistent Codex slecht bereikbaar zijn. Het bedrijf 'doet onderzoek' naar de problemen, maar geeft geen details. Wanneer de storing naar verwachting is opgelost, is ook niet bekend.",
+   "date": "2026-09-03T17:24:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Staatssecretaris: Nederland afhankelijk van VS voor meest geavanceerde AI",
+   "link": "https://www.security.nl/posting/951652/Staatssecretaris%3A+Nederland+afhankelijk+van+VS+voor+meest+geavanceerde+AI?channel=rss",
+   "description": "Nederland is voor de meest geavanceerde AI-modellen afhankelijk van Amerikaanse aanbieders. Daarnaast zijn er op dit moment ...",
+   "date": "2026-09-03T16:52:17",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse regering schaart zich achter OpenAI in rechtszaak ‘The New York Times’",
+   "link": "https://www.standaard.be/media-en-cultuur/amerikaanse-regering-schaart-zich-achter-openai-in-rechtszaak-the-new-york-times/160904531.html",
+   "description": "De Amerikaanse regering maant een rechter aan om OpenAI gelijk te geven in een zaak van The New York Times tegen het bedrijf. De krant klaagt aan dat Open AI haar artikels gebruikte om AI-systemen te trainen. “Nationaal veiligheidsbelang”, vindt de regering.",
+   "date": "2026-09-03T16:48:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
   {
    "title": "A la hausse op goedkoop Nvidia",
    "link": "https://trends.knack.be/beleggen/opties-derivaten-grondstoffen/a-la-hausse-op-goedkoop-nvidia/",
@@ -657,6 +822,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Kant-en-klare cyberaanvallen te koop op darkweb, digitale dreiging neemt toe",
+   "link": "https://www.nu.nl/tech/6408416/kant-en-klare-cyberaanvallen-te-koop-op-darkweb-digitale-dreiging-neemt-toe.html",
+   "description": "De cyberdreiging in Nederland neemt toe, waarschuwen de politie en het OM. De landsgrenzen vervagen voor criminelen, waardoor hun netwerken groeien. Ook is technische kennis steeds minder nodig en maakt de opkomst van AI snellere en grootschaligere digitale aanvallen mogelijk.",
+   "date": "2026-09-03T06:01:14",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Dit oranje bakje is nieuw wapen tegen phishing: Gentse prof vindt toestel uit dat je beschermt tegen oplichters",
    "link": "https://www.hln.be/binnenland/dit-oranje-bakje-is-nieuw-wapen-tegen-phishing-gentse-prof-vindt-toestel-uit-dat-je-beschermt-tegen-oplichters~a275bb6d/",
    "description": "Een slim bakje dat valse advertenties en nepbeelden tegenhoudt, nog voor ze op jouw scherm verschijnen. Dat is volgens professor Ruben Verborgh (UGent) de oplossing om phishing tegen te gaan. In samenwerking met het Gentse technologiebedrijf Aaltra ontwikkelde hij een AI-toestel dat valse berichten filtert en zelfs blokkeert. Zo werkt het.",
@@ -844,6 +1020,17 @@
    ],
    "first_seen": "2026-09-03",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "Niet krachtige algoritmen zijn het probleem, maar waarvoor techbedrijven ze inzetten",
+   "link": "https://www.nrc.nl/nieuws/2026/09/02/niet-krachtige-algoritmen-zijn-het-probleem-maar-waarvoor-techbedrijven-ze-inzetten-a4935211",
+   "description": "Overal ter wereld proberen overheden jongeren te beschermen tegen de schadelijke gevolgen van sociale media. Maar waarom zouden we alleen proberen jongeren te beschermen, vragen Hedda van ’t Land en Vittorio Busato zich af, als we hun digitale omgeving ook gezonder kunnen inrichten?",
+   "date": "2026-09-02T17:37:20",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
   },
   {
    "title": "AI-teksten hebben nu een onzichtbaar watermerk. Wat heb je er dan aan?",
