@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T02:48:22",
+ "generated": "2026-09-04T16:46:03",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -40,13 +40,13 @@
   {
    "name": "De Morgen - Cartoons",
    "url": "https://www.demorgen.be/puzzels-cartoons/rss.xml",
-   "count": 33,
+   "count": 34,
    "error": null
   },
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 155,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 97,
    "error": null
   },
   {
@@ -315,6 +315,295 @@
   }
  ],
  "articles": [
+  {
+   "title": "Moeten scholen AI omarmen of weren? 'Een goede prompt schrijven is ook een les Nederlands'",
+   "link": "https://www.tijd.be/r/t/1/id/10684354",
+   "description": "Terwijl minister van Onderwijs Zuhal Demir aan een AI-beleid werkt, zijn scholen dit jaar op zichzelf aangewezen. Moeten ze de razendsnel oprukkende technologie omarmen of weren? ‘Huiswerk is sowieso zinloos geworden.’",
+   "date": "2026-09-04T16:38:15",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zelfs Apple-chips kunnen meedoen in lokaal AI-cluster van Nvidia's PAIR",
+   "link": "https://tweakers.net/nieuws/251640/zelfs-apple-chips-kunnen-meedoen-in-lokaal-ai-cluster-van-nvidias-pair.html",
+   "description": "Nvidia komt met Personal AI Router (PAIR): opensourcesoftware waarmee je apparaten op je lokale netwerk kunt laten samenwerken aan AI-taken. Dat werkt niet alleen met GeForce-kaarten, maar ook met andere gpu's of socs. PAIR is nu beschikbaar om te downloaden als bètaversie.",
+   "date": "2026-09-04T16:32:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia: RTX Spark-laptops zijn vanaf oktober beschikbaar",
+   "link": "https://tweakers.net/nieuws/251642/nvidia-rtx-spark-laptops-zijn-vanaf-oktober-beschikbaar.html",
+   "description": "Op IFA maakt Nvidia officieel bekend dat laptops en pc's met zijn RTX Spark N1X-chips vanaf oktober in de winkels liggen. De Spark N1X komt in eerste instantie beschikbaar in twee varianten, die verschillen in coreconfiguratie en hoeveelheid ram.",
+   "date": "2026-09-04T16:14:55",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI neemt steeds meer taken van werknemers over bij BNP Paribas Fortis",
+   "link": "https://trends.knack.be/ondernemen/ai-neemt-steeds-meer-taken-van-werknemers-over-bij-bnp-paribas-fortis/",
+   "description": "Artificiële intelligentie doet nu al het werk van 370 voltijdse medewerkers bij BNP Paribas Fortis, de grootste bank van het land. Daarmee zit de instelling op schema om haar strategische doelstelling van 1.000 medewerkers tegen 2028 te behalen.\nThe post AI neemt steeds meer taken van werknemers over bij BNP Paribas Fortis appeared first on Trends.be.",
+   "date": "2026-09-04T15:27:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wiskundeprofessor Ann Dooms | Ontsnappende AI-agents zijn geen superhelden",
+   "link": "https://www.tijd.be/r/t/1/id/10684615",
+   "description": "‘AI-beschavingen’, waarbij agents communiceren via geheime berichten, ingenieus samenwerken en verzekeren dat de beschaving kan herrijzen. Het lijkt wel alsof OpenAI een superkracht heeft gebaard. Maar de realiteit zit toch iets anders in elkaar.",
+   "date": "2026-09-04T14:36:36",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI lanceert Astra en ziet model als nieuwe stap richting AGI",
+   "link": "https://businessam.be/openai-lanceert-astra-en-ziet-model-als-nieuwe-stap-richting-agi/",
+   "description": "Key takeaways OpenAI heeft Astra geïntroduceerd, dat door de organisatie wordt omschreven als haar meest geavanceerde en krachtige AI-architectuur tot nu toe. Astra is ontworpen om de grenzen te verleggen van de manier waarop gebruikers omgaan met webbrowsers en computers, en wordt gepromoot als een oplossing die superieure precisie, snelheid en beveiliging biedt. De uitrol […]",
+   "date": "2026-09-04T14:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "4 Vlaamse borstklinieken testen AI-systeem dat voorspelt welke kankerbehandeling meest geschikt is voor welke patiënt",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/04/az-delta-borstkanker-ai-systeem-roeselare/",
+   "description": "4 Vlaamse borstklinieken testen een nieuw AI-systeem dat dokters helpt om in te schatten welke behandeling borstkankerpatiënten het best zouden krijgen. Daardoor zouden patiënten een gerichtere behandeling kunnen krijgen en zouden onnodige operaties kunnen worden vermeden.",
+   "date": "2026-09-04T13:57:33",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "4 Vlaamse borstklinieken testen AI-systeem dat voorspelt welke kankerbehandeling meest geschikt is voor welke patiënt",
+   "link": "https://vrtnws.be/p.E1Xj7mGNj",
+   "description": "4 Vlaamse borstklinieken testen een nieuw AI-systeem dat dokters helpt om in te schatten welke behandeling borstkankerpatiënten het best zouden krijgen. Daardoor zouden patiënten een gerichtere behandeling kunnen krijgen en zouden onnodige operaties kunnen worden vermeden.",
+   "date": "2026-09-04T13:57:33",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OpenAI verzwijgt nieuw misbruik door zijn AI-agents bij Duitse wiki'",
+   "link": "https://tweakers.net/nieuws/251770/openai-verzwijgt-nieuw-misbruik-door-zijn-ai-agents-bij-duitse-wiki.html",
+   "description": "AI-agents van OpenAI misbruikten een Duitse wiki als forum om zo met elkaar te communiceren. Dat schrijft Reuters op basis van een recent onderzoeksrapport. OpenAI zou het incident onder de pet willen houden. Agents van het bedrijf probeerden eerder een programma te misbruiken als forum.",
+   "date": "2026-09-04T13:47:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techexpert Siddy Jobe over lancering Tesla Cybercab: ‘Dit is een gamechanger’",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/techexpert-siddy-jobe-over-lancering-tesla-cybercab-dit-is-een-gamechanger/",
+   "description": "Tesla heeft zijn zelfrijdende robotaxi gelanceerd in de Amerikaanse staat Texas. Techexpert Siddy Jobe (Econopolis) gaf in Z-Beurs op Trends Z uitleg bij de verwachtingen rond de Cybercab.\nThe post Techexpert Siddy Jobe over lancering Tesla Cybercab: ‘Dit is een gamechanger’ appeared first on Trends.be.",
+   "date": "2026-09-04T11:27:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Sony, Universal en Warner investeren in Stability AI",
+   "link": "https://www.emerce.nl/nieuws/sony-universal-warner-investeren-stability-ai",
+   "description": "Muziekmaatschappijen Sony Music Group, Universal Music Group en Warner Music Group leiden de investeringsronde van 76 miljoen dollar in het Britse Stability AI.",
+   "date": "2026-09-04T10:56:23",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het 'wonderapparaatje' om huidflapjes te verwijderen, maar de tevreden klanten op socials zijn gemaakt met AI",
+   "link": "https://vrtnws.be/p.w784y1Yap",
+   "description": "‘Skin tags’ of goedaardige huidgezwelletjes zouden volgens video’s op TikTok en Instagram makkelijk verwijderd kunnen worden met een apparaatje dat je zelf in huis kan halen. Tientallen filmpjes op socials tonen hoe je dat veilig en succesvol kan doen. Maar al die filmpjes zijn gemaakt met artificiële intelligentie. Werkt het apparaatje? Of zijn er andere tips op socials die vlot werken? Dermatologen zijn niet overtuigd.",
+   "date": "2026-09-04T10:36:41",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[column] Het ontbrekende stuk in de AI-strategie: een company brain",
+   "link": "https://www.emerce.nl/opinie/column-ontbrekende-stuk-aistrategie-company-brain",
+   "description": "Deze column behandelt de rol van een company brain (bedrijfsgeheugen) in succesvolle AI-integratie. AI-modellen missen specifieke bedrijfscontext, waardoor elke sessie opnieuw opgestart moet worden en agents langs elkaar heen werken. co-Founded by AI lost dit op door 55 gestructureerde markdown-bestanden te gebruiken als één centrale 'waarheid'. Het artikel benadrukt het belang van context engineering (de juiste info op het juiste moment geven), menselijke controle op wat bedrijfswaarheid wordt, en model-onafhankelijke kennisopslag. Het grootste voordeel blijkt dat ook menselijke teams beter gaan werken door het expliciet vastleggen van keuzes en argumentatie.",
+   "date": "2026-09-04T10:30:39",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI lanceert GPT-6 Astra: zijn krachtigste model tot nu toe",
+   "link": "https://trends.knack.be/ai-en-tech/emerging-tech-en-innovatie/openai-lanceert-gpt-6-astra-zijn-krachtigste-en-mogelijk-gevaarlijkste-model-tot-nu-toe/",
+   "description": "OpenAI is begonnen met de uitrol van GPT-6 Astra, het nieuwste krachtige AI-model van het bedrijf. Astra is controversieel, omdat het in staat zou kunnen zijn om op eigen kracht in te breken bij bedrijven. Ondertussen denkt het bedrijf erachter dat het misschien AGI bereikt heeft.\nThe post OpenAI lanceert GPT-6 Astra: zijn krachtigste model tot nu toe appeared first on Trends.be.",
+   "date": "2026-09-04T10:30:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Daan De Wever (CEO Dstny): ‘Als investeerder zie ik hoe hard de start-upwereld is geworden’",
+   "link": "https://trends.knack.be/ondernemen/daan-de-wever-ceo-dstny-als-investeerder-zie-ik-hoe-hard-de-start-upwereld-is-geworden/",
+   "description": "Softwareontwikkelaars voelen de hete adem van artificiële intelligentie in hun nek. Dstny, dat zakelijke communicatieoplossingen voor kmo’s aanbiedt, maakt een radicale bocht om relevant te blijven. Met zijn nieuwe producten jaagt het op de grootste Europese telecombedrijven. \"Soevereiniteit is opeens belangrijker dan innovatie\", stelt CEO Daan De Wever vast. \nThe post Daan De Wever (CEO Dstny): ‘Als investeerder zie ik hoe hard de start-upwereld is geworden’ appeared first on Trends.be.",
+   "date": "2026-09-04T10:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | Komt Twitter terug, maar dan zonder Elon Musk?",
+   "link": "https://trends.knack.be/ai-en-tech/ai-tech-podcast-twitternew/",
+   "description": "Twitter is terug, of toch een sociaal netwerk met die naam. Met de website Twitter.new wil de start-up Operation Bluebird het bekende sociale netwerk herlanceren. Kan en mag dat? We bespreken het deze week in de podcast AI & Tech.\nThe post AI & Tech-podcast | Komt Twitter terug, maar dan zonder Elon Musk? appeared first on Trends.be.",
+   "date": "2026-09-04T10:02:18",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 616.64 WHQL",
+   "link": "https://tweakers.net/downloads/78138/geforce-game-ready-driver-61664-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 616.64 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen NBA 2K27 en Onimusha: Way of the Sword aan. Er zijn deze keer geen problemen verholpen, maar er zijn er nog wel twee die wel bekend zijn maar waar nog geen oplossing voor is. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-09-04T09:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Uber aangeklaagd door Europese chauffeurs om algoritmische loonsverlagingen",
+   "link": "https://businessam.be/uber-aangeklaagd-door-europese-chauffeurs-om-algoritmische-loonsverlagingen/",
+   "description": "Key takeaways Duizenden Uber-chauffeurs uit heel Europa hebben bij een rechtbank in Amsterdam een collectieve rechtszaak aangespannen. De eisers – afkomstig uit Roemenië, Polen, Duitsland, Frankrijk, het VK en België – worden vertegenwoordigd door Worker Info Exchange International (WIE) en beweren dat het Amerikaanse taxibedrijf dynamische prijsmechanismen heeft gebruikt om de inkomsten van chauffeurs te […]",
+   "date": "2026-09-04T08:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe de theologie ons mensbeeld kan redden in tijden van AI",
+   "link": "https://www.trouw.nl/religie-filosofie/hoe-de-theologie-ons-mensbeeld-kan-redden-in-tijden-van-ai~bc501ebb/",
+   "description": "",
+   "date": "2026-09-04T06:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Review - Nvidia DLSS 5 in NBA 2K27 - Eerste benchmarks en praktijkervaring",
+   "link": "https://tweakers.net/reviews/15230/nvidia-dlss-5-in-nba-2k27-eerste-benchmarks-en-praktijkervaring.html",
+   "description": "DLSS 5 verschijnt officieel in de eerste game: NBA 2K27. In deze review vind je onze praktijkervaringen en eerste benchmarks.",
+   "date": "2026-09-04T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Videopreview - Nvidia DLSS 5: Eerste ervaringen en benchmarks",
+   "link": "https://tweakers.net/video/20544/nvidia-dlss-5-eerste-ervaringen-en-benchmarks.html",
+   "description": "Het is het ultieme doel van computergraphics: beelden die zó realistisch zijn dat je niet meer ziet dat ze nep zijn. Met traditionele rendertechnieken komen we daar de komende jaren nog niet. Toch moet DLSS 5 met neural rendering een serieuze stap in die richting zetten.",
+   "date": "2026-09-04T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia draait bij: DLSS 5 komt later toch wel naar RTX 40-videokaarten",
+   "link": "https://tweakers.net/nieuws/251730/nvidia-draait-bij-dlss-5-komt-later-toch-wel-naar-rtx-40-videokaarten.html",
+   "description": "Nvidia DLSS 5 komt op termijn toch naar videokaarten uit de RTX 40-serie. Dat bevestigt de gpu-maker tegenover media, waaronder Tweakers. De AI-techniek zou eigenlijk alleen op RTX 50-gpu's draaien, maar nu komt het bedrijf daar toch op terug.",
+   "date": "2026-09-04T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI trekt 1 miljard dollar uit nu angst voor geavanceerde cyberaanvallen met AI snel groeit",
+   "link": "https://www.gva.be/buitenland/openai-trekt-1-miljard-dollar-uit-nu-angst-voor-geavanceerde-cyberaanvallen-met-ai-snel-groeit/160959748.html",
+   "description": "OpenAI stelt voor 1 miljard dollar aan gesubsidieerde toegang tot zijn AI-tools voor cyberbeveiliging, opleidingen en technische ondersteuning beschikbaar. Het initiatief richt zich op organisaties die essentiële diensten beschermen tegen steeds geavanceerdere cyberaanvallen met artificiële intelligentie.",
+   "date": "2026-09-04T03:44:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ze deden onderzoek naar het bewustzijn van AI. Opeens begonnen bots hen op te zoeken",
+   "link": "https://www.demorgen.be/tech-wetenschap/ze-deden-onderzoek-naar-het-bewustzijn-van-ai-opeens-begonnen-bots-hen-op-te-zoeken~b27212751/",
+   "description": "",
+   "date": "2026-09-04T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Delsia sloeg 26 miljoen dollar af voor haar landbouwgrond en werd heldin van Amerikaans verzet tegen datacenters",
+   "link": "https://www.demorgen.be/meningen/delsia-sloeg-26-miljoen-dollar-af-voor-haar-landbouwgrond-en-werd-heldin-van-amerikaans-verzet-tegen-datacenters~bce72934/",
+   "description": "",
+   "date": "2026-09-04T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Oplichters bespelen nu ook AI-modellen die je elke dag gebruikt, om frauduleuze energiecontracten aan te smeren",
+   "link": "https://www.gva.be/economie/technologie/oplichters-bespelen-nu-ook-ai-modellen-die-je-elke-dag-gebruikt-om-frauduleuze-energiecontracten-aan-te-smeren/160943428.html",
+   "description": "Online oplichters bespelen nu ook de AI-modellen die je elke dag gebruikt, zoals automatische samenvattingen bij zoekmachines. Ze prijzen zo onder meer frauduleuze energiecontracten aan. “Websites worden nu geoptimaliseerd voor taalmodellen en oplichters weten dat ook.”",
+   "date": "2026-09-04T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI lanceert nieuwe AI-tool in wedloop met rivaal Anthropic",
    "link": "https://www.tijd.be/r/t/1/id/10684682",
