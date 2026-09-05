@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T16:46:03",
+ "generated": "2026-09-05T02:38:00",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 157,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 20,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 95,
    "error": null
   },
   {
@@ -315,6 +315,193 @@
   }
  ],
  "articles": [
+  {
+   "title": "Tesla zoekt grenzen van Amerikaanse regelgeving op met Cybercab zonder stuur of pedalen",
+   "link": "https://www.gva.be/buitenland/tesla-zoekt-grenzen-van-amerikaanse-regelgeving-op-met-cybercab-zonder-stuur-of-pedalen/161017605.html",
+   "description": "Tesla is in Austin begonnen met betalende ritten in zijn Cybercab, een zelfrijdende tweezitter zonder stuur, pedalen of spiegels. De introductie dreigt uit te monden in een juridisch gevecht over de vraag of het voertuig aan de Amerikaanse veiligheidsnormen voldoet.",
+   "date": "2026-09-05T01:14:21",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is nieuwste model GPT-6 echt zo slim als een mens, zoals OpenAI beweert?",
+   "link": "https://www.standaard.be/economie/is-nieuwste-model-gpt-6-echt-zo-slim-als-een-mens-zoals-openai-beweert/160980304.html",
+   "description": "Is GPT-6 een even grote mijlpaal voor artificiële intelligentie als GPT-3 en GPT-4? OpenAI zegt van wel, het suggereert zelfs uitdrukkelijk dat het met zijn nieuwe AI-model misschien wel de heilige graal heeft bereikt: ‘artificial general intelligence’.",
+   "date": "2026-09-04T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wordt chipleider Nvidia niet té machtig door de overname van Hugging Face?",
+   "link": "https://www.standaard.be/economie/wordt-chipleider-nvidia-niet-te-machtig-door-de-overname-van-hugging-face/160969865.html",
+   "description": "De overname door chipontwerper Nvidia van het ontwikkelaarsplatform Hugging Face is een belangrijke duw in de rug voor voorstanders van opensource-AI. Maar wordt de macht van Nvidia niet erg groot?",
+   "date": "2026-09-04T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Paul Verhagen over de spanning tussen big tech en democratie: “China is vandaag een voorspelbaarder partner dan de VS”",
+   "link": "https://www.standaard.be/economie/paul-verhagen-over-de-spanning-tussen-big-tech-en-democratie-china-is-vandaag-een-voorspelbaarder-partner-dan-de-vs/160857916.html",
+   "description": "Van ruimtevaart tot AI, techreuzen domineren vandaag technologie die vroeger voor het militair-industrieel complex was voorbehouden. Dat maakt ze stilaan machtiger dan natiestaten, waarschuwt de Nederlands-Amerikaanse docent Paul Verhagen. “Big tech is vergif voor onze democratie.”",
+   "date": "2026-09-04T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ByteDance haalt recordlening van bijna 30 miljard dollar op voor AI-expansie",
+   "link": "https://businessam.be/bytedance-haalt-recordlening-van-bijna-30-miljard-dollar-op-voor-ai-expansie/",
+   "description": "Key takeaways Aangedreven door een agressieve uitbreiding op het gebied van artificiële intelligentie heeft ByteDance een lening van in totaal 29,6 miljard dollar (25,5 miljard euro) verkregen van een consortium van bijna 30 financiële instellingen. Dit financieringspakket is een van de belangrijkste kredietovereenkomsten in Azië dit jaar, en staat op de tweede plaats na een […]",
+   "date": "2026-09-04T22:12:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia claimt opnieuw de AI-troon op Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10684885",
+   "description": "De Amerikaanse beurzen sloten vrijdag met verlies na een veel sterker dan verwacht jobrapport. Nvidia, het allergrootste aandeel, won terrein.",
+   "date": "2026-09-04T22:03:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla rolt Cybercab-robotaxi uit in Texas",
+   "link": "https://businessam.be/tesla-lanceert-zelfrijdende-cybercab-robotaxi-in-amerikaanse-staat-texas/",
+   "description": "Key takeaways Tesla heeft in Texas zijn autonome robotaxi, bekend als de “Cybercab”, geïntroduceerd, met als doel concurrenten zoals Waymo en Uber uit te dagen. Het goudkleurige voertuig met twee zitplaatsen, dat oorspronkelijk in oktober 2024 werd onthuld, is exclusief gebouwd voor zelfrijdend vervoer en heeft opvallend genoeg geen stuur en pedalen. Inzet in Austin […]",
+   "date": "2026-09-04T21:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuw tijdperk van superintelligente AI aangebroken, zegt OpenAI",
+   "link": "https://nos.nl/l/2629704",
+   "description": "Er is een nieuw tijdperk aangebroken in de wereld van kunstmatige intelligentie (AI), zegt topman Greg Brockman van OpenAI, het bedrijf achter ChatGPT. Hij heeft het over 'AGI', de afkorting van artificial general intelligence: kunstmatige algemene intelligentie. Daarvan is volgens het bedrijf sprake als computersystemen \"zeer zelfstandig werken en beter presteren dan mensen\".\n        \"De term AGI gaat voor sommigen in de AI-industrie over veel meer dan alleen intelligentie\", zegt Jan Broersen, hoogleraar kunstmatige intelligentie aan de Universiteit Utrecht. \"Dat gaat vaak samen met doembeelden van kwaadaardige robots die de wereld gaan overnemen.\"\n        \"En dan zeggen de AI-bedrijven daarna: 'Laat ons die AGI maar maken, wij zorgen dat het goedkomt.' Daarvoor trekken ze heel veel geld en macht naar zich toe.\"\n        Vergelijken met menselijke intelligentie\n        Kunstmatige intelligentie vergelijken met menselijke intelligentie is heel raar, vindt AI-adviseur Ilyaz Nasrullah. \"Alsof je een duikboot vergelijkt met een mens. Een mens kan zwemmen, een duikboot kan ook in het water bewegen. Het heeft geen zin om dat met elkaar te vergelijken.\"\n        Daarmee zegt hij niet dat AI-programma's nutteloos zijn. \"Als je bijvoorbeeld informatie wilt vinden op het internet, heb je computers nodig om door al die informatie heen te gaan. Dat zullen computers altijd sneller kunnen dan mensen.\"\n        Dus computers zijn heel nuttig, vindt Nasrullah: \"Maar het is heel raar om te zeggen: computers zijn beter dan mensen. Het ene is een machine die werkt op basis van rekenkracht en de ander een levend wezen.\"\n        Betekenis van AGI onduidelijk\n        Daar komt nog bij dat er geen betekenis van AGI is waarover iedereen het eens is. \"De term bestaat al tientallen jaren\", zegt Broersen. \"In het begin ging het om een vorm van kunstmatige intelligentie die niet één ding kan, maar meerdere dingen. Later zijn daar allemaal dingen aan toegevoegd. Sommige mensen spreken van AGI als het allerlei menselijke eigenschappen heeft, zoals bewustzijn of verlangens. Niemand weet meer wat het betekent.\"\n        Ook OpenAI-topman Brockman kan het aanbreken van het AGI-tijdperk niet onderbouwen. In een gesprek met onder meer de Amerikaanse nieuwssite TechCrunch noemde hij het \"een spiritueel concept\". Met andere woorden: het gevoel dat het zover is en iedereen mag zelf bepalen of je er ook zo over denkt. \"Persoonlijk denk ik van wel\", zei hij.\n        Brockman zegt dus dat je zelf mag bepalen wat AGI is, terwijl zijn bedrijf OpenAI zegt dat het zijn doel is om AI-systemen te ontwikkelen die \"beter presteren dan mensen\". \"Heel verwarrend\", zegt Nasrullah. \"Wat moet je daar nou mee?\"\n        \"Het is moeilijk om te weten wat in het hoofd van Brockman omgaat. Mijn conclusie is: AGI bestaat niet, want je kan niet inhoudelijk vaststellen wat het inhoudt. Dat doet Brockman zelf ook niet.\"\n        Marketing of religie\n        Waarom zegt Brockman dan dat het \"AGI-tijdperk\" is aangebroken? Nasrullah denkt dat het vooral bedoeld is als marketing. \"Het zorgt ervoor dat mensen over OpenAI praten. Sommige mensen gaan er heel serieus op in: het is wel zo, het is niet zo.\"\n        \"Het maakt voor OpenAI niet uit of mensen voor of tegen zijn, er wordt in ieder geval over het bedrijf gepraat. En dan ook nog rond een AI-systeem dat 'beter presteert dan mensen', dat klinkt heel aantrekkelijk. Alle reclame is goede reclame.\"\n        Dat, of hij maakt er een soort religie van, zegt Nasrullah: \"Je moet geloven dat AGI gemaakt is.\"\n        Broersen denkt dat dat een serieuze optie is. \"Een aantal mensen in de AI-industrie gelooft echt dat zij AI-systemen kunnen ontwikkelen die in alle opzichten beter zijn dan mensen\", zegt hij. \"Het geld is leuk, maar ze vinden het vooral fantastisch dat ze dit kunnen doen. Zij komen in de geschiedenisboeken als de mensen die AGI hebben gemaakt. Ze willen God spelen.\"\n        De AI-industrie die gelooft in AGI, koppelt die vaak ook aan allerlei doemscenario's, maar in de wetenschap wordt AGI niet heel serieus genomen. Hoe dat zit, zie je in deze video die NOS op 3 eerder maakte:",
+   "date": "2026-09-04T21:15:34",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: AI-cloudbedrijf Nscale zoekt miljarden aan financiering",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-ai-cloudbedrijf-nscale-zoekt-miljarden-aan-financiering/",
+   "description": "(ABM FN-Dow Jones) Het Britse AI-cloudbedrijf Nscale voert gesprekken met potentiële investeerders om tot 3,5 miljard dollar aan financiering aan te trekken in de aanloop naar een geplande beursgang, die mogelijk nog deze maand plaatsvindt. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.Het in Londen gevestigde bedrijf wil voor maximaal 1,5 miljard dollar aan converteerbare …\nThe post Media: AI-cloudbedrijf Nscale zoekt miljarden aan financiering appeared first on Trends.be.",
+   "date": "2026-09-04T21:03:46",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Modders lijken DLSS Multi Frame Generation te draaien op RTX 40-serie gpu's",
+   "link": "https://tweakers.net/nieuws/251794/modders-lijken-dlss-multi-frame-generation-te-draaien-op-rtx-40-serie-gpus.html",
+   "description": "Modders lijken het voor elkaar te hebben gekregen om Multi Frame Generation te activeren op videokaarten uit de RTX 40-serie. De DLSS-functie wordt officieel alleen op RTX 50-gpu's ondersteund. Nvidia bracht na de release van de mod een update uit die de functie weer zou blokkeren, maar de modders zouden die inmiddels opnieuw hebben omzeild.",
+   "date": "2026-09-04T20:46:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "5 favoriete aandelen: ‘Een zeldzame manier om te beleggen in Europa’s eigen AI-infrastructuur’",
+   "link": "https://www.tijd.be/r/t/1/id/10684086",
+   "description": "Jörg Held, de beursexpert van Ethenea, kiest voor twee Amerikaanse en twee Europese aandelen, aangevuld met een Chinees exemplaar.",
+   "date": "2026-09-04T19:00:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen verdeeld het weekend in",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-verdeeld-het-weekend-in-2/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn vrijdag verdeeld geëindigd, nadat een sterk Amerikaans banencijfer de rentevrees weer wat aanwakkerde.De Stoxx Europe 600 won 0,1 procent op 649,88 punten, geholpen door onder meer ASML en Volkswagen. De autobouwer gaf ook de Duitse DAX een zetje in het groen. De index steeg 0,2 procent en sloot op …\nThe post Europese beurzen verdeeld het weekend in appeared first on Trends.be.",
+   "date": "2026-09-04T18:46:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI verzweeg nieuwe casus van &#8216;losgebroken&#8217; zwerm AI-systemen die Duitse website overnamen als communicatiekanaal",
+   "link": "https://www.nrc.nl/nieuws/2026/09/04/openai-verzweeg-nieuwe-casus-van-losgebroken-zwerm-ai-systemen-die-duitse-website-overnamen-als-communicatiekanaal-a4935944",
+   "description": "Onderzoekers hebben opnieuw een zwerm uit een testomgeving ‘losgebroken’ AI-systemen van ChatGPT-maker OpenAI gevonden op internet.",
+   "date": "2026-09-04T18:35:14",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jarenlang kon AI-troep welig tieren, maar nu is er eindelijk een goed uitgeruste vijand",
+   "link": "https://www.nrc.nl/nieuws/2026/09/04/jarenlang-kon-ai-troep-welig-tieren-maar-nu-is-er-eindelijk-een-goed-uitgeruste-vijand-a4935622",
+   "description": "AI-detectie bestaat al jaren, maar had de reputatie onbetrouwbaar te zijn. Nu is de detectietechnologie zo goed dat het tijdperk van stiekem AI-gebruik voorbij lijkt te zijn.",
+   "date": "2026-09-04T18:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla Cybercab rijdt zonder stuur of pedalen door Austin: Amerikaanse verkeerswaakhond opent meteen onderzoek",
+   "link": "https://vrtnws.be/p.ZWylP8RWE",
+   "description": "De Amerikaanse techgigant Tesla heeft zijn Cybercab, een zelfrijdende taxi, gelanceerd in Austin, Texas. Tesla had al een robotaxi, maar de Cybercab is het eerste model dat er speciaal voor ontworpen is. Met de lancering wil het bedrijf de achterstand proberen goed te maken op marktleider Waymo (Alphabet). Intussen opent de Amerikaanse verkeerswaakhond een onderzoek naar de Cybercab.",
+   "date": "2026-09-04T18:09:33",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-tools zorgen voor competentiekloof op de werkplek, blijkt uit onderzoek",
+   "link": "https://businessam.be/ai-tools-zorgen-voor-competentiekloof-op-de-werkplek-blijkt-uit-onderzoek/",
+   "description": "Key takeaways Uit een recent onderzoek onder bijna 10.000 professionals in Noord-Amerika, Europa en Latijns-Amerika blijkt dat artificiële intelligentie een kloof creëert tussen de waargenomen en de werkelijke competentie van werknemers. Dat schrijft Euronews. Volgens gegevens van Use.AI is 52 procent van de respondenten van mening dat de technologie hen ervarener doet lijken dan ze […]",
+   "date": "2026-09-04T17:42:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI bouwt de “slimste AI ooit”, beweert het zelf. En zet die meteen ook zélf op het hoogste alarmniveau",
+   "link": "https://www.hln.be/tech/openai-bouwt-de-slimste-ai-ooit-beweert-het-zelf-en-zet-die-meteen-ook-zelf-op-het-hoogste-alarmniveau~a2db107b/",
+   "description": "Een AI die zelfstandig spreadsheets bijwerkt, complexe taken uitvoert zonder hulp en ... je computer hackt: OpenAI presenteert GPT-6 Astra als zijn slimste model ooit. Maar het bedrijf geeft het ook als eerste model een ‘kritiek’-alarm mee. Wat betekent dat voor gewone gebruikers als jij en ik? En wat kan dit zoveel beter dan de vorige?",
+   "date": "2026-09-04T17:00:20",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Moeten scholen AI omarmen of weren? 'Een goede prompt schrijven is ook een les Nederlands'",
    "link": "https://www.tijd.be/r/t/1/id/10684354",
