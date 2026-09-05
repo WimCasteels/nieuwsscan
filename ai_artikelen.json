@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T02:38:00",
+ "generated": "2026-09-05T15:40:01",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 26,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 152,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 96,
    "error": null
   },
   {
@@ -315,6 +315,117 @@
   }
  ],
  "articles": [
+  {
+   "title": "Software-update - PTGui 13.10",
+   "link": "https://tweakers.net/downloads/78154/ptgui-1310.html",
+   "description": "Een regelmatig besproken stukje software in het Foto & Video Workflow-subforum is PTGui. Dit programma richt zich op het maken en aanpassen van samengestelde beelden. Dat kan een verticaal of horizontaal panorama zijn, maar ook één groot beeld met een enorme resolutie dat samengesteld is uit talloze afzonderlijke opnames. Met een stapel foto's als invoer kan het programma daarna zelf uitzoeken hoe ze naast elkaar gezet moeten worden. Voor het rekenintensieve deel kan bovendien via OpenCL de gpu worden ingezet om sneller klaar te zijn. De software is beschikbaar is een standaard- en pro-versie; de verschillen tussen beide worden op deze pagina tegen elkaar afgezet. Sinds versie 13.8 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in PTGui version 13.10:",
+   "date": "2026-09-05T12:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Polen en Tsjechië gaan samenwerken voor AI-gigafabrieken in Europa",
+   "link": "https://businessam.be/polen-en-tsjechie-gaan-samenwerken-voor-ai-gigafabrieken-in-europa/",
+   "description": "Key takeaways Polen en Tsjechië zijn een formeel partnerschap aangegaan om door de EU gefinancierde gigafabrieken voor artificiële intelligentie te realiseren. Deze stap is gericht op het vestigen van een toonaangevend AI-computercentrum in Centraal-Europa. Deze samenwerking is bekrachtigd door een memorandum van overeenstemming dat donderdag tijdens de CEE AI Summit in Praag werd ondertekend. Volgens […]",
+   "date": "2026-09-05T10:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI brengt GPT-6 Astra uit voor betalende klanten, ook in Nederland en België",
+   "link": "https://tweakers.net/nieuws/251802/openai-brengt-gpt-6-astra-uit-voor-betalende-klanten-ook-in-nederland-en-belgie.html",
+   "description": "OpenAI heeft twee dagen na de release van GPT-6 Astra het model beschikbaar gemaakt voor betalende abonnees. Eerst was het alleen te gebruiken voor enterprise-klanten en daarop kwam veel kritiek. GPT-6 Astra is ook beschikbaar in Nederland en België.",
+   "date": "2026-09-05T10:18:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Korea onderhandelt met VS over miljardeninvesteringen in Amerikaanse chipsector",
+   "link": "https://businessam.be/zuid-korea-onderhandelt-met-vs-over-miljardeninvesteringen-in-amerikaanse-chipsector/",
+   "description": "Key takeaways Zuid-Korea voert momenteel gesprekken met de Verenigde Staten over investeringen in de Amerikaanse halfgeleidersector. Lokale productie Onlangs gaf de Amerikaanse minister van Handel Howard Lutnick aan dat de VS gerichte invoerheffingen op geïmporteerde halfgeleiders willen invoeren. Hij benadrukte dat bedrijven die geen lokale productiefaciliteiten opzetten, rekening moeten houden met extra kosten om toegang […]",
+   "date": "2026-09-05T09:47:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | Een robot die sneller rent dan Usain Bolt: nou en?",
+   "link": "https://www.nu.nl/tech/6408520/een-robot-die-sneller-rent-dan-usain-bolt-nou-en.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Deze week: waarom robots die sneller rennen dan mensen ook weer niet zó bijzonder zijn.",
+   "date": "2026-09-05T08:30:06",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van vacuümpomp tot koelklep: 6 Europese aandelen achter de AI-hausse",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/van-vacuumpomp-tot-koelklep-6-europese-aandelen-achter-de-ai-hausse/",
+   "description": "De AI-hausse steunt op Amerikaanse kleppers. Het ketelhuis is, verrassend vaak, Europees. Zes bedrijven leveren de onderdelen die datacenters draaiende houden.\nThe post Van vacuümpomp tot koelklep: 6 Europese aandelen achter de AI-hausse appeared first on Trends.be.",
+   "date": "2026-09-05T07:27:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In de wereld van AI-porno kan alles, ook wat in de echte wereld niet mag",
+   "link": "https://www.volkskrant.nl/tech/in-de-wereld-van-ai-porno-kan-alles-ook-wat-in-de-echte-wereld-niet-mag~b9009a8a/",
+   "description": "",
+   "date": "2026-09-05T05:00:14",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Welk wereldbeeld hebben de architecten van AI?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/05/welk-wereldbeeld-hebben-de-architecten-van-ai-a4935966",
+   "description": "Een gesprek over hoe AI geopolitieke strijd aanjaagt en andersom: hoe wereldbeelden en geopolitieke ambities AI vormen.",
+   "date": "2026-09-05T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van squats tot ontbijtideeën: wanneer AI je ochtendroutine kan verbeteren, en wanneer je beter zelf blijft nadenken",
+   "link": "https://www.demorgen.be/beter-leven/van-squats-tot-ontbijtideeen-wanneer-ai-je-ochtendroutine-kan-verbeteren-en-wanneer-je-beter-zelf-blijft-nadenken~b1f59f3e/",
+   "description": "",
+   "date": "2026-09-05T03:00:00",
+   "feeds": [
+    "De Morgen - Beter Leven",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic maakt zich op voor indrukwekkende beursgang van mogelijk 2 biljoen dollar maar schuift startdatum voor zich uit",
+   "link": "https://www.gva.be/buitenland/anthropic-maakt-zich-op-voor-indrukwekkende-beursgang-van-mogelijk-2-biljoen-dollar-maar-schuift-startdatum-voor-zich-uit/161017795.html",
+   "description": "AI-bedrijf Anthropic zou zijn beursgang ten vroegste midden oktober aan beleggers voorstellen. De onderneming mikt volgens ingewijden nog altijd op een notering vlak voor de Amerikaanse tussentijdse verkiezingen in november.",
+   "date": "2026-09-05T02:42:59",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Tesla zoekt grenzen van Amerikaanse regelgeving op met Cybercab zonder stuur of pedalen",
    "link": "https://www.gva.be/buitenland/tesla-zoekt-grenzen-van-amerikaanse-regelgeving-op-met-cybercab-zonder-stuur-of-pedalen/161017605.html",
