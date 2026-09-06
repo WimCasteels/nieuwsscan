@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T02:35:53",
+ "generated": "2026-09-06T15:55:24",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 152,
+   "count": 151,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 100,
    "error": null
   },
   {
@@ -315,6 +315,39 @@
   }
  ],
  "articles": [
+  {
+   "title": "192GB-mini-pc's met nieuwe AMD-processor kosten rond 8000 dollar",
+   "link": "https://tweakers.net/nieuws/251824/192gb-mini-pcs-met-nieuwe-amd-processor-kosten-rond-8000-dollar.html",
+   "description": "Meerdere merken tonen op de IFA mini-pc's op basis van een AMD Ryzen AI Max+ PRO 495-processor, die maximaal 192GB unified werkgeheugen kan ondersteunen. Met hun grote hoeveelheid ram zijn de pc'tjes primair bedoeld voor AI-taken.",
+   "date": "2026-09-06T14:32:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI belooft incidenten sneller te melden na verzwegen hack van Duitse wiki",
+   "link": "https://tweakers.net/nieuws/251816/openai-belooft-incidenten-sneller-te-melden-na-verzwegen-hack-van-duitse-wiki.html",
+   "description": "OpenAI bevestigt dat zijn agents een Duitse wiki hebben misbruikt om met elkaar te kunnen communiceren. Dat gebeurde al in mei, maar het bedrijf brengt het nu pas naar buiten. OpenAI belooft met een systeem te komen waardoor dergelijke incidenten in het vervolg sneller worden gemeld.",
+   "date": "2026-09-06T11:49:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Daft Studios is een creatieve hotspot in de Ardennen: ‘In deze sector moet je wel een beetje gek zijn’",
+   "link": "https://trends.knack.be/ondernemen/daft-studios-is-een-creatieve-hotspot-in-de-ardennen-in-deze-sector-moet-je-wel-een-beetje-gek-zijn/",
+   "description": "Midden in de bossen van Malmedy runnen twee West-Vlamingen een internationale studio die al tien jaar lang groeit in een sector waar streaming, krimpende opnamebudgetten en artificiële intelligentie de spelregels radicaal herschrijven. \"Bij ons boek je niet zomaar een studio. We bieden een plek waar muzikanten zich helemaal kunnen concentreren op hun creativiteit.\" \nThe post Daft Studios is een creatieve hotspot in de Ardennen: ‘In deze sector moet je wel een beetje gek zijn’ appeared first on Trends.be.",
+   "date": "2026-09-06T07:10:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-06",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Anthropic stelt beursgang uit tot oktober en mikt op waardering van 2 biljoen dollar",
    "link": "https://businessam.be/anthropic-stelt-beursgang-uit-tot-oktober-en-mikt-op-waardering-van-2-biljoen-dollar/",
@@ -415,6 +448,18 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Op het vlak van computerchips en AI denderde China in een rotvaart voort, terwijl Europa languit van de vakantie genoot",
+   "link": "https://www.demorgen.be/meningen/op-het-vlak-van-computerchips-en-ai-denderde-china-in-een-rotvaart-voort-terwijl-europa-languit-van-de-vakantie-genoot~bef3ad72/",
+   "description": "",
+   "date": "2026-09-05T03:01:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-06",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Van squats tot ontbijtideeën: wanneer AI je ochtendroutine kan verbeteren, en wanneer je beter zelf blijft nadenken",
    "link": "https://www.demorgen.be/beter-leven/van-squats-tot-ontbijtideeen-wanneer-ai-je-ochtendroutine-kan-verbeteren-en-wanneer-je-beter-zelf-blijft-nadenken~b1f59f3e/",
    "description": "",
@@ -479,6 +524,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-09-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Plots blijken we in een giftig huwelijk te zitten. De VS proberen Europa bewust te verzwakken”",
+   "link": "https://www.standaard.be/economie/plots-blijken-we-in-een-giftig-huwelijk-te-zitten.-de-vs-proberen-europa-bewust-te-verzwakken/160857916.html",
+   "description": "Van ruimtevaart tot AI, techreuzen domineren vandaag technologie die vroeger voor het militair-industrieel complex was voorbehouden. Dat maakt ze stilaan machtiger dan natiestaten, waarschuwt de Nederlands-Amerikaanse docent Paul Verhagen. “Big tech is vergif voor onze democratie.”",
+   "date": "2026-09-04T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-06",
    "intro_geprobeerd": false
   },
   {
@@ -722,6 +778,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-09-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eindeloos proberen te voldoen aan het schoonheidsideaal verandert ons in robots",
+   "link": "https://www.nrc.nl/nieuws/2026/09/04/eindeloos-proberen-te-voldoen-aan-het-schoonheidsideaal-verandert-ons-in-robots-a4934798",
+   "description": "Het gebeeldhouwde AI-uiterlijk dat op sociale media doorgaat voor schoonheid, heeft zich ontwikkeld tot een statussymbool. Iets om ons tegen te blijven verzetten, schrijft Tatjana Almuli. Anders verliezen we de verbinding met wie we zijn.",
+   "date": "2026-09-04T11:41:14",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-06",
    "intro_geprobeerd": false
   },
   {
