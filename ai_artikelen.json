@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T15:40:01",
+ "generated": "2026-09-06T02:35:53",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 96,
+   "count": 95,
    "error": null
   },
   {
@@ -315,6 +315,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "Anthropic stelt beursgang uit tot oktober en mikt op waardering van 2 biljoen dollar",
+   "link": "https://businessam.be/anthropic-stelt-beursgang-uit-tot-oktober-en-mikt-op-waardering-van-2-biljoen-dollar/",
+   "description": "Key takeaways Volgens insiders wordt nu verwacht dat Anthropic medio oktober begint met de promotie van zijn beursgang. Het bedrijf wil het proces afronden voordat in november de midterms in de Verenigde Staten plaatsvinden. Dat meldt Reuters. Hoewel eerdere verwachtingen suggereerden dat het bedrijf zijn beursprospectus al volgende week zou publiceren, is deze mijlpaal nu […]",
+   "date": "2026-09-05T20:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-06",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Software-update - PTGui 13.10",
    "link": "https://tweakers.net/downloads/78154/ptgui-1310.html",
