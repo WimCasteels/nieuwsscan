@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T15:55:24",
+ "generated": "2026-09-07T02:42:25",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 151,
+   "count": 149,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 20,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 103,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "VRAAG HET AAN DE NOTARIS. Gert is single en wil zijn familie onterven: “ChatGPT heeft me geholpen met mijn testament”",
+   "link": "https://www.gva.be/economie/geld/vraag-het-aan-de-notaris.-gert-is-single-en-wil-zijn-familie-onterven-chatgpt-heeft-me-geholpen-met-mijn-testament/160807609.html",
+   "description": "Gert* (44) is alleenstaand, heeft geen kinderen en heeft geen contact meer met zijn familie. Hij wil dat ze niets van hem erven, en vroeg hulp aan ChatGPT om een testament op te stellen, maar is dat testament ook geldig?",
+   "date": "2026-09-07T02:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Leve Wikipedia, oase van menselijke kennis",
+   "link": "https://www.standaard.be/media-en-cultuur/leve-wikipedia-oase-van-menselijke-kennis/160977781.html",
+   "description": "Wikipedia is geen betrouwbare bron, zo werd mij ingeprent door de geschiedenisleerkracht in het middelbaar. Maar in tijden van AI is de online-encyclopedie een aandoenlijk zooitje menselijke kennis, wiens fouten je toch sneller vergeeft dan die van een AI-bot.",
+   "date": "2026-09-06T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gevallen Uber-oprichter gooit zich (opnieuw) op zelfrijdende taxi’s",
+   "link": "https://www.standaard.be/economie/gevallen-uber-oprichter-gooit-zich-opnieuw-op-zelfrijdende-taxis/161046151.html",
+   "description": "Travis Kalanick, de man die met Uber de taxiwereld heeft veroverd, maar er na talloze schandalen moest opstappen, stort zich op een oude droom: chauffeurs overbodig maken met zelfrijdende taxi’s.",
+   "date": "2026-09-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie leert nog het vak als AI de instapjob doet?",
+   "link": "https://www.standaard.be/opinies/wie-leert-nog-het-vak-als-ai-de-instapjob-doet/161050604.html",
+   "description": "AI neemt niet eerst het beroep over, maar wel het werk waarmee beginners het vak leren. Als minister van Onderwijs én Werk heeft Zuhal Demir de hefbomen om dat te voorkomen, schrijft Dieter Struyf.",
+   "date": "2026-09-06T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Consensus tijdens het Paradisodebat: Europa moet minder afhankelijk worden van Amerikaanse Big Tech",
+   "link": "https://www.nrc.nl/nieuws/2026/09/06/consensus-tijdens-het-paradisodebat-europa-moet-minder-afhankelijk-worden-van-amerikaanse-big-tech-a4935638",
+   "description": "Het Paradisodebat in Amsterdam trapt jaarlijks het nieuwe culturele seizoen af. Tijdens de 25ste editie gingen makers, media en de politiek in gesprek over de macht en kracht van AI in het cultuurlandschap. Conclusie: we moeten uit de Amerikaanse tech-trein stappen.",
+   "date": "2026-09-06T17:21:30",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI kondigt met veel bombarie een nieuw model aan, terwijl kritiek over ‘losgeslagen’ systemen aanzwelt",
+   "link": "https://www.volkskrant.nl/tech/openai-kondigt-met-veel-bombarie-een-nieuw-model-aan-terwijl-kritiek-over-losgeslagen-systemen-aanzwelt~b145d643/",
+   "description": "",
+   "date": "2026-09-06T16:36:19",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-favoriet Bloom Energy en genomicapionier Illumina komen in S&P500",
+   "link": "https://www.tijd.be/r/t/1/id/10684921",
+   "description": "De nieuwe, toekomstige leden van de S&P500 gaan een sterke beurssessie tegemoet. Zo'n 20.000 miljard dollar is op de of andere manier gekoppeld aan de beursbarometer.",
+   "date": "2026-09-06T16:17:18",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
   {
    "title": "192GB-mini-pc's met nieuwe AMD-processor kosten rond 8000 dollar",
    "link": "https://tweakers.net/nieuws/251824/192gb-mini-pcs-met-nieuwe-amd-processor-kosten-rond-8000-dollar.html",
