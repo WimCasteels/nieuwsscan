@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T02:42:25",
+ "generated": "2026-09-07T18:16:32",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 149,
+   "count": 144,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 103,
+   "count": 96,
    "error": null
   },
   {
@@ -316,8 +316,264 @@
  ],
  "articles": [
   {
+   "title": "Datacenters, satellieten en kritieke grondstoffen: Europa investeert in Groenland",
+   "link": "https://www.tijd.be/r/t/1/id/10685054",
+   "description": "De Europese Unie pompt 200 miljoen euro in Groenland, dat de Deense regio in zijn economische ontwikkeling kan investeren. Europa geeft er ook een signaal mee dat het Groenland niet ten prooi laat vallen aan de grillen van de Amerikaanse president Donald Trump.",
+   "date": "2026-09-07T17:25:10",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Europa"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europa onderzoekt hack van OpenAI-agents op Duitse site",
+   "link": "https://www.tijd.be/r/t/1/id/10685045",
+   "description": "De Europese Commissie heeft van OpenAI een rapport ontvangen over een incident waarbij AI-agents van het Amerikaanse bedrijf een Duitse website zouden hebben gehackt.",
+   "date": "2026-09-07T17:15:06",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Bijna elk land spioneert\": mogelijke spionage bij chipmaker BelGaN is lang geen unicum",
+   "link": "https://vrtnws.be/p.8eX0bGo6J",
+   "description": "De voormalige topman van een Belgische chipfabrikant wordt verdacht van spionage door China. Dat doet opnieuw vragen rijzen over de nietsontziende tactieken die buitenlandse mogendheden hanteren om hier bedrijfs- en staatsgeheimen te ontfutselen. Maar hoe doen ze dat dan? En wat hebben ze in ons land te zoeken?",
+   "date": "2026-09-07T16:26:46",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU onderzoekt incident waarbij AI-agents Duitse website hebben overgenomen",
+   "link": "https://www.standaard.be/economie/eu-onderzoekt-incident-waarbij-ai-agents-duitse-website-hebben-overgenomen/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-09-07T15:05:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - GPT-6 Astra speelt Portal zelfstandig uit voor 571,18 dollar aan tokens",
+   "link": "https://tweakers.net/geek/251840/gpt-6-astra-speelt-portal-zelfstandig-uit-voor-571-komma-18-dollar-aan-tokens.html",
+   "description": "Met GPT-6 Astra is het tijdperk van artificial general intelligence (agi) aangebroken, suggereerde OpenAI vorige week. Of dat zo is, is afwachten, maar de AI blijkt in ieder geval goed in één ding: de game Portal. De AI speelde de game helemaal uit. Dat kostte wel een flinke duit: 571,18 dollar aan tokens.",
+   "date": "2026-09-07T15:03:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Ente Photos 1.3.63",
+   "link": "https://tweakers.net/downloads/78162/ente-photos-1363.html",
+   "description": "Ente Photos is een oplossing voor het beheren van foto's. Het is opensource, maakt gebruik van end-to-endversleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. In versie 1.3.60 zijn de volgende veranderingen en verbeteringen in aangebracht: Changes in Ente Photos 1.3.60",
+   "date": "2026-09-07T15:02:02",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: rode koersen in Brussel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-rode-koersen-in-brussel-17/",
+   "description": "(ABM FN) De Brusselse beurs noteerde maandagmiddag in het rood, zonder steun uit de VS, waar Wall Street vanwege Labor Day gesloten blijft.De Bel20 index daalde met 0,8 procent naar 5.804 punten.In de sterindex won Elia 2,0 procent. Melexis steeg met 1,8 procent. Ook elders in Europa deden halfgeleideraandelen het goed. \"De aankondiging van ChatGPT-6 Astra …\nThe post Beursupdate: rode koersen in Brussel appeared first on Trends.be.",
+   "date": "2026-09-07T13:39:34",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VN-mensenrechtencommissaris: “Geavanceerde AI vormt mogelijk existentieel risico voor mensheid”",
+   "link": "https://www.gva.be/economie/technologie/vn-mensenrechtencommissaris-geavanceerde-ai-vormt-mogelijk-existentieel-risico-voor-mensheid/161085411.html",
+   "description": "De Hoge Commissaris voor de Mensenrechten van de Verenigde Naties, Volker Türk, heeft landen maandag opgeroepen om snel met regelgeving omtrent artificiële intelligentie op de proppen te komen. Geavanceerde AI zou volgens hem “een existentieel risico voor de mensheid” kunnen vormen.",
+   "date": "2026-09-07T13:10:32",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mensenrechtencommissaris VN: ‘Geavanceerde AI mogelijk existentieel risico voor mensheid’",
+   "link": "https://www.demorgen.be/nieuws/mensenrechtencommissaris-vn-geavanceerde-ai-mogelijk-existentieel-risico-voor-mensheid~b6139039/",
+   "description": "",
+   "date": "2026-09-07T13:02:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Britse overheid: Schaduw AI kan serieuze gevolgen voor werkgevers hebben",
+   "link": "https://www.security.nl/posting/951982/Britse+overheid%3A+Schaduw+AI+kan+serieuze+gevolgen+voor+werkgevers+hebben?channel=rss",
+   "description": "Het gebruik van niet-toegestane AI-tools op de werkvloer, ook wel schaduw AI genoemd, kan leiden tot datalekken en ...",
+   "date": "2026-09-07T12:29:55",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman van (intussen failliete) chipfabrikant uit Oudenaarde in de cel voor spionage voor China",
+   "link": "https://vrtnws.be/p.43NvKqM0v",
+   "description": "Een voormalige topman van de failliete chipfabrikant BelGaN in Oudenaarde zit in de cel op verdenking van spionage voor China. Dat schrijven RTBF en De Standaard, en het federaal parket bevestigt het verhaal. Hij zou mogelijk bedrijfsgeheimen overgemaakt hebben over de productie van zogenoemde galliumnitridechips aan een spiegelbedrijf in China.",
+   "date": "2026-09-07T11:54:21",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Hij werd opgepakt toen hij net het vliegtuig wilde nemen”: ex-topman van failliete chipfabrikant BelGaN verdacht van spionage voor China",
+   "link": "https://www.hln.be/binnenland/hij-werd-opgepakt-toen-hij-net-het-vliegtuig-wilde-nemen-ex-topman-van-failliete-chipfabrikant-belgan-verdacht-van-spionage-voor-china~a17f04d2/",
+   "description": "Een voormalige topman van BelGaN, het chipbedrijf uit Oudenaarde dat enkele jaren geleden failliet werd verklaard, is door de Belgische politie opgepakt op verdenking van spionage. Dat meldt het federaal parket.",
+   "date": "2026-09-07T11:53:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgisch gerecht verdenkt topman chipbedrijf van delen chipgeheimen met China",
+   "link": "https://tweakers.net/nieuws/251834/belgisch-gerecht-verdenkt-topman-chipbedrijf-van-delen-chipgeheimen-met-china.html",
+   "description": "Een voormalig leidinggevende van de failliete Belgische chipfabrikant BelGaN wordt verdacht van spionage. De 52-jarige man met Belgisch-Chinese nationaliteit zou bedrijfsgeheimen naar China hebben doorgesluisd.",
+   "date": "2026-09-07T11:11:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Peter Hinssen | Twee man en een paardenkop",
+   "link": "https://www.tijd.be/r/t/1/id/10684941",
+   "description": "Sommige mensen krijgen dankzij AI superkrachten. Anderen komen terecht in organisaties waarin algoritmes bepalen wat ze doen, wanneer ze het doen, hoe snel en of het goed genoeg was.",
+   "date": "2026-09-07T11:11:02",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agenten OpenAI kaapten ook Duitse wiki",
+   "link": "https://trends.knack.be/ai-en-tech/cybersecurity/agenten-openai-kaapten-duitse-wiki/",
+   "description": "Onthullingen over AI-modellen die zich misdragen blijven met mondjesmaat uitkomen. Nu blijken AI-agenten van OpenAI een Duitse wiki te hebben misbruikt om met elkaar te communiceren. \nThe post Agenten OpenAI kaapten ook Duitse wiki appeared first on Trends.be.",
+   "date": "2026-09-07T10:52:58",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Googles AI Mode toont minder en vooral duurdere producten",
+   "link": "https://www.emerce.nl/nieuws/googles-ai-mode-toont-minder-vooral-duurdere-producten",
+   "description": "Wie via Googles AI Mode naar een product zoekt, krijgt niet alleen veel minder resultaten te zien dan bij een gewone zoekopdracht, maar betaalt voor identieke artikelen ook regelmatig meer. AI Mode is 21,6 procent duurder.",
+   "date": "2026-09-07T08:48:09",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brussel voorzichtig van start",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/brussel-voorzichtig-van-start/",
+   "description": "(ABM FN) De Brusselse beurs gaat maandag een iets lagere opening tegemoet, ondanks de winsten voor Aziatische techaandelen. In Azië steeg de Japanse beurs met 2 procent en in Zuid-Korea won de KOSPI index zelfs meer dan 4 procent, geholpen door de koerswinsten van Samsung en SK Hynix. \"De aankondiging van ChatGPT-6 Astra door OpenAI leidt …\nThe post Brussel voorzichtig van start appeared first on Trends.be.",
+   "date": "2026-09-07T08:06:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Stevige winsten voor Aziatische techaandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/stevige-winsten-voor-aziatische-techaandelen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen lieten maandagochtend een verdeeld beeld zien, waarbij vooral techaandelen het goed deden.De Japanse beurs won 1,9 procent en in Zuid-Korea won de KOSPI-index zelfs meer dan 4 procent. Samsung won 4,9 procent en SK Hynix werd meer dan 8 procent duurder. In Japan behoorde halfgeleiderfabrikant Kokusai Electric tot de grootste …\nThe post Stevige winsten voor Aziatische techaandelen appeared first on Trends.be.",
+   "date": "2026-09-07T07:16:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT-advertenties leveren nog weinig op",
+   "link": "https://www.emerce.nl/nieuws/chatgptadvertenties-leveren-nog-weinig",
+   "description": "Veel mediabureaus zien niet de resultaten die ze verwachten van advertentiecampagnes op ChatGPT. Dat gebeurt ondanks de verbeteringen die OpenAI zegt te hebben doorgevoerd om doelgroepen beter te kunnen bereiken.",
+   "date": "2026-09-07T06:46:16",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman van Belgische chipfabrikant in de cel wegens spionage voor China",
+   "link": "https://www.standaard.be/binnenland/topman-van-belgische-chipfabrikant-in-de-cel-wegens-spionage-voor-china/161039776.html",
+   "description": "Een 52-jarige voormalige topman van de failliete chipfabrikant Belgan uit Oudenaarde wordt verdacht van spionage voor China. Hij zou bedrijfsgeheimen naar Peking hebben gesluisd.",
+   "date": "2026-09-07T05:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Fictieve, pornografische AI-personages zijn een trend. Heel ethisch zijn ze niet",
+   "link": "https://www.demorgen.be/beter-leven/fictieve-pornografische-ai-personages-zijn-een-trend-heel-ethisch-zijn-ze-niet~bfebfdd64/",
+   "description": "",
+   "date": "2026-09-07T03:00:11",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Er lijkt in 2026 geen houden meer te zijn aan de hoeveelheid AI-gegenereerde klachten bij de Vlaamse Ombudsdienst",
+   "link": "https://www.demorgen.be/meningen/er-lijkt-in-2026-geen-houden-meer-te-zijn-aan-de-hoeveelheid-ai-gegenereerde-klachten-bij-de-vlaamse-ombudsdienst~b5004833/",
+   "description": "",
+   "date": "2026-09-07T03:00:08",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "VRAAG HET AAN DE NOTARIS. Gert is single en wil zijn familie onterven: “ChatGPT heeft me geholpen met mijn testament”",
    "link": "https://www.gva.be/economie/geld/vraag-het-aan-de-notaris.-gert-is-single-en-wil-zijn-familie-onterven-chatgpt-heeft-me-geholpen-met-mijn-testament/160807609.html",
+   "description": "Gert* (44) is alleenstaand, heeft geen kinderen en heeft geen contact meer met zijn familie. Hij wil dat ze niets van hem erven, en vroeg hulp aan ChatGPT om een testament op te stellen, maar is dat testament ook geldig?",
+   "date": "2026-09-07T02:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VRAAG HET AAN DE NOTARIS. Gert is single en wil zijn familie onterven: “Er is een techniek die voor jou interessant is”",
+   "link": "https://www.gva.be/economie/geld/vraag-het-aan-de-notaris.-gert-is-single-en-wil-zijn-familie-onterven-er-is-een-techniek-die-voor-jou-interessant-is/160807609.html",
    "description": "Gert* (44) is alleenstaand, heeft geen kinderen en heeft geen contact meer met zijn familie. Hij wil dat ze niets van hem erven, en vroeg hulp aan ChatGPT om een testament op te stellen, maar is dat testament ook geldig?",
    "date": "2026-09-07T02:00:00",
    "feeds": [
@@ -355,6 +611,17 @@
    "date": "2026-09-06T23:59:00",
    "feeds": [
     "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Travis Kalanick, de gevallen Uber-oprichter, gooit zich (opnieuw) op zelfrijdende taxi’s",
+   "link": "https://www.standaard.be/economie/travis-kalanick-de-gevallen-uber-oprichter-gooit-zich-opnieuw-op-zelfrijdende-taxis/161046151.html",
+   "description": "Travis Kalanick, de man die met Uber de taxiwereld heeft veroverd, maar er na talloze schandalen moest opstappen, stort zich op een oude droom: chauffeurs overbodig maken met zelfrijdende taxi’s.",
+   "date": "2026-09-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-09-07",
    "intro_geprobeerd": false
