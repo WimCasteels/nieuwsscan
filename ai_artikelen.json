@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T02:55:21",
+ "generated": "2026-09-08T16:52:27",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -58,13 +58,13 @@
   {
    "name": "De Morgen - Luister",
    "url": "https://www.demorgen.be/luister/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 147,
+   "count": 146,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 90,
    "error": null
   },
   {
@@ -316,6 +316,282 @@
  ],
  "articles": [
   {
+   "title": "Werknemers Wikimedia Foundation stemmen voor vakbondschap om meer inspraak af te dwingen over AI",
+   "link": "https://www.volkskrant.nl/tech/werknemers-wikimedia-foundation-stemmen-voor-vakbondschap-om-meer-inspraak-af-te-dwingen-over-ai~ba318034/",
+   "description": "",
+   "date": "2026-09-08T16:46:26",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Stevige kapitaalronde voor Europese AI-belofte Mistral",
+   "link": "https://www.standaard.be/economie/stevige-kapitaalronde-voor-europese-ai-belofte-mistral/161141619.html",
+   "description": "Het Franse Mistral haalt 3 miljard euro op in de grootste private Europese kapitaalronde ooit. Tegenover de Amerikanen blijft Mistral klein grut, maar het komt wel de Europese noden tegemoet.",
+   "date": "2026-09-08T16:45:25",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TDF: Voorlopig geen AI-features in standaard-installatie LibreOffice",
+   "link": "https://www.security.nl/posting/952219/TDF%3A+Voorlopig+geen+AI-features+in+standaard-installatie+LibreOffice?channel=rss",
+   "description": "De standaard-installatie van LibreOffice zal voorlopig geen AI-features bevatten, zo laat The Document Foundation (TDF) weten, ...",
+   "date": "2026-09-08T16:34:11",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI in onderwijs is ook een sociale kwestie",
+   "link": "https://www.tijd.be/r/t/1/id/10685170",
+   "description": "Als we AI niet integreren in ons onderwijs, dreigt de ongelijkheid te versnellen.",
+   "date": "2026-09-08T16:20:58",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Qualcomm op winst na deal met Amazon",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/qualcomm-op-winst-na-deal-met-amazon/",
+   "description": "(ABM FN-Dow Jones) Het aandeel Qualcomm schoot dinsdag omhoog, nadat de chipfabrikant een samenwerking aankondigde met Amazon, om infrastructuur voor datacenters te bouwen, waaronder chips en producten voor optische netwerken. Het aandeel Qualcomm steeg met 3,4 procent naar 174,42 dollar. Het aandeel Amazon daalde met 0,7 procent. De samenwerking moet de AI-infrastructuur van Amazon combineren met …\nThe post Qualcomm op winst na deal met Amazon appeared first on Trends.be.",
+   "date": "2026-09-08T15:44:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia DLSS 5-mod verplaatst neural rendering naar tweede gpu",
+   "link": "https://tweakers.net/nieuws/251880/nvidia-dlss-5-mod-verplaatst-neural-rendering-naar-tweede-gpu.html",
+   "description": "Er is een Nvidia DLSS 5-mod uitgebracht waarmee een tweede aangesloten grafische kaart de neural rendering kan overnemen. De oorspronkelijke grafische kaart rendert dan alleen de game zelf, wat leidt tot prestatieverbeteringen.",
+   "date": "2026-09-08T15:42:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - ASML en TSMC slaan de handen ineen: high-NA-machines krijgen grote upgrade",
+   "link": "https://tweakers.net/reviews/15266/asml-en-tsmc-slaan-de-handen-ineen-high-na-machines-krijgen-grote-upgrade.html",
+   "description": "ASML's high-NA-machines zijn al even klaar voor de praktijk, maar werden nog niet veel ingezet. Nu is ook marktleider TSMC, de grootste twijfelaar, aan boord.",
+   "date": "2026-09-08T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese export groeit fors door wereldwijde techvraag",
+   "link": "https://businessam.be/chinese-export-groeit-fors-door-wereldwijde-techvraag/",
+   "description": "Key takeaways Aangedreven door een wereldwijde vraag naar geavanceerde technologie kende de Chinese exportsector in augustus een aanzienlijke stijging van 25 procent. Die groei, die de eerdere cijfers van juli overtrof, werd grotendeels gedreven door de internationale vraag naar elektrische voertuigen, lithium-ionbatterijen, zonnecellen en AI-gerelateerde infrastructuur. Door de focus te verleggen naar hoogwaardigere goederen zoals […]",
+   "date": "2026-09-08T13:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Palantir kiest voor Nebius",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/palantir-kiest-voor-nebius/",
+   "description": "(ABM FN-Dow Jones) Nebius en Palantir Technologies hebben dinsdag een strategische samenwerking aangekondigd.Doel is om de AI-producten en diensten van Nebius aan te bieden aan klanten van Palantir. Daarmee wordt Nebius de voornaamste AI-infrastructuur partner van Palantir.\"Organisaties hebben zowel de prestaties van grootschalige AI-infrastructuur als controle over hun data en modellen nodig. Samen met Palantir bieden …\nThe post Palantir kiest voor Nebius appeared first on Trends.be.",
+   "date": "2026-09-08T13:17:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "RELX: van AI-angst tot AI-kans",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/relx-van-ai-angst-tot-ai-kans/",
+   "description": "RELX is duurder dan Wolters Kluwer, maar biedt een snellere groei, een grotere schaal, sterkere datasets en een hogere aandeelhoudersrendement.\nThe post RELX: van AI-angst tot AI-kans appeared first on Trends.be.",
+   "date": "2026-09-08T13:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Australië wil big tech en sociale media verder aan banden leggen: gebruikers moeten recht krijgen om algoritme uit te zetten",
+   "link": "https://www.gva.be/binnenland/australie-wil-big-tech-en-sociale-media-verder-aan-banden-leggen-gebruikers-moeten-recht-krijgen-om-algoritme-uit-te-zetten/161136362.html",
+   "description": "De Australische regering wil nog verder gaan in het beteugelen van big tech. De regering heeft een wetsvoorstel klaar dat sociale media zou verplichten om gebruikers de mogelijkheid te geven het algoritme uit te zetten. “Een keuze zou ontegensprekelijk ‘goed’ zijn, want de algoritmes van nu zijn ontegensprekelijk ‘slecht’ voor de mensheid.”",
+   "date": "2026-09-08T11:59:29",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistral haalt 3 miljard op tegen waardering van 21 miljard euro",
+   "link": "https://www.emerce.nl/nieuws/mistral-haalt-3-miljard-tegen-waardering-21-miljard-euro",
+   "description": "Het Franse AI-bedrijf Mistral haalt in een investeringsronde, met Samsung als hoofdinvesteerder, drie miljard euro groeigeld op.",
+   "date": "2026-09-08T11:54:49",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistral AI haalt 3 miljard euro op in recordronde voor Europese tech",
+   "link": "https://businessam.be/mistral-ai-haalt-3-miljard-euro-op-in-recordronde-voor-europese-tech/",
+   "description": "Key takeaways Het Franse AI-bedrijf Mistral heeft 3 miljard euro opgehaald in de grootste particuliere financieringsronde voor een Europees technologiebedrijf ooit. Daarmee komt de waardering van het bedrijf uit op ruim 21 miljard euro. Die enorme investering, onder leiding van het Scaleup Europe Fund, Samsung Electronics en PSG Equity, maakt Mistral de op één na […]",
+   "date": "2026-09-08T11:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Australië wil dat gebruikers via melding kunnen kiezen voor chronologische feed",
+   "link": "https://tweakers.net/nieuws/251874/australie-wil-dat-gebruikers-via-melding-kunnen-kiezen-voor-chronologische-feed.html",
+   "description": "De Australische regering werkt aan een wetsvoorstel dat moet regelen dat sociale media alle gebruikers een melding moeten sturen die hen laat kiezen tussen een chronologische en een algoritmische feed. De gekozen feed moet vervolgens de standaardinstelling blijven.",
+   "date": "2026-09-08T11:22:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We labelen wat fake is, maar wie bewaakt wat waar is?",
+   "link": "https://trends.knack.be/ai-en-tech/we-labelen-wat-fake-is-maar-wie-bewaakt-wat-waar-is/",
+   "description": "Europa verplicht voortaan om AI-gegenereerde content herkenbaar te maken. Dat zorgt voor meer transparantie over wat artificieel is, maar lost een fundamenteler probleem niet op: hoe weten we nog wat we kunnen vertrouwen? Bedrijven en organisaties moeten dat vertrouwen steeds bewuster organiseren, stelt Tom Van den Bergh, CEO van marketing- en communicatiegroep Friends of Cartel.\nThe post We labelen wat fake is, maar wie bewaakt wat waar is? appeared first on Trends.be.",
+   "date": "2026-09-08T10:48:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump overlaadt Truth Social met kaartjeswaanzin en controversiële AI-beelden",
+   "link": "https://www.standaard.be/buitenland/trump-overlaadt-truth-social-met-kaartjeswaanzin-en-controversiele-ai-beelden/161125422.html",
+   "description": "President Donald Trump gebruikt almaar intenser zijn socialemediakanaal Truth Social om opruiende AI-beelden en hertekende landkaarten te delen.",
+   "date": "2026-09-08T09:19:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frans AI-bedrijf Mistral is nu 21 miljard euro waard: ‘Het kan OpenAI en Anthropic het vuur aan de schenen leggen’",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/frans-ai-bedrijf-mistral-haalt-3-miljard-euro-op/",
+   "description": "Het Franse AI-bedrijf Mistral heeft 3 miljard euro opgehaald, onder meer bij de Zuid-Koreaanse smartphonemaker Samsung. Het bedrijf wordt nu gewaardeerd op ruim 21 miljard euro. Met de focus op opensource-AI en industriële toepassingen kan Mistral zich onderscheiden van de Amerikaanse AI-labs.\nThe post Frans AI-bedrijf Mistral is nu 21 miljard euro waard: ‘Het kan OpenAI en Anthropic het vuur aan de schenen leggen’ appeared first on Trends.be.",
+   "date": "2026-09-08T08:37:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistral haalt 3 miljard euro op",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/mistral-haalt-3-miljard-euro-op/",
+   "description": "(ABM FN) Mistral heeft 3 miljard euro opgehaald in een Series D-financieringsronde. Dit maakte het Franse AI-bedrijf dinsdag bekend. Met deze kapitaalronde wordt het bedrijf gewaardeerd op meer dan 21 miljard euro, amper drie jaar nadat Mistral werd opgericht. De financieringsronde, geleid door Samsung, is de grootste kapitaalronde ooit voor een Europees technologiebedrijf. Dankzij de extra …\nThe post Mistral haalt 3 miljard euro op appeared first on Trends.be.",
+   "date": "2026-09-08T08:34:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DigiTimes: Samsung zet 4nm-fabrieken voor meer dan helft in voor AI-geheugen",
+   "link": "https://tweakers.net/nieuws/251864/digitimes-samsung-zet-4nm-fabrieken-voor-meer-dan-helft-in-voor-ai-geheugen.html",
+   "description": "Samsung Electronics gebruikt naar verluidt meer dan de helft van al zijn 4nm-productiecapaciteit om HBM4-geheugen te maken. Dat is speciaal geheugen voor datacenter-gpu's. Vanwege de enorme vraag naar geheugen door AI-bedrijven is er een aanhoudende geheugencrisis en hoge prijzen.",
+   "date": "2026-09-08T08:15:56",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Podcast] Shaping the Future: Straks hebben we vooral de marketingafdeling geautomatiseerd",
+   "link": "https://www.emerce.nl/interviews/podcast-shaping-the-future-straks-hebben-vooral-marketingafdeling-geautomatiseerd",
+   "description": "AI wordt volgens merk- en marketingstrateeg Edgar Molenaars te veel gebruikt als kostenbespaarder, wat leidt tot de automatisering van bestaande processen en een overvloed aan goedkope AI-content. Hij pleit voor een terugkeer naar de basis: het merk. Merkbouw, mental availability en pricing power blijven essentieel voor groei. Ook met de opkomst van AI-agents blijft een betrouwbaar en relevant merk doorslaggevend in de keuze van de consument. AI verandert de middelen, maar niet de fundamenten van marketing.",
+   "date": "2026-09-08T08:00:54",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML gaat samenwerken met Taiwanese chipgigant TSMC om zijn nieuwste chipmachines te upgraden",
+   "link": "https://www.nrc.nl/nieuws/2026/09/08/asml-gaat-samenwerken-met-taiwanese-chipgigant-tsmc-om-zijn-nieuwste-chipmachines-te-upgraden-a4936073",
+   "description": "Chipmachinemaker ASML smeedt een coalitie van chipfabrikanten om zijn meest geavanceerde High-NA EUV-machine te upgraden, samen met chipgigant TSMC. Het doel: snellere AI-chips.",
+   "date": "2026-09-08T08:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beslist.nl: ‘Twee keer hogere doorklikratio ChatGPT Ads’",
+   "link": "https://www.emerce.nl/nieuws/beslistnl-twee-keer-hogere-doorklikratio-chatgpt-ads",
+   "description": "Beslist.nl ziet in de eerste dagen van adverteren binnen ChatGPT een doorklikratio die meer dan twee keer zo hoog ligt dan bij Google Shopping. Ook de kosten per klik vallen fors lager uit dan de markt tot nu toe aannam.",
+   "date": "2026-09-08T06:39:51",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-model GPT-6 Astra kraakt alle puzzels in ‘Portal’, maar dat kost bijna 600 dollar",
+   "link": "https://www.hln.be/pc/ai-model-gpt-6-astra-kraakt-alle-puzzels-in-portal-maar-dat-kost-bijna-600-dollar~ad278caf/",
+   "description": "GPT-6 Astra, het nieuwste AI-model van OpenAI, heeft de puzzelgame ‘Portal’ zelfstandig uitgespeeld. De poging duurde in totaal bijna 24 uur en kostte 571,18 dollar aan rekenkracht.",
+   "date": "2026-09-08T06:37:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-tool analyseert TV-commercials op regelgeving",
+   "link": "https://www.emerce.nl/nieuws/aitool-analyseert-tvcommercials-regelgeving",
+   "description": "Een nieuwe AI-tool gaat in Nederland TV-commercials controleren op reclamecodes en regelgeving.",
+   "date": "2026-09-08T06:10:32",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Arm zet met zijn 2026-platform vol in op AI en games",
+   "link": "https://tweakers.net/reviews/15250/arm-zet-met-zijn-2026-platform-vol-in-op-ai-en-games.html",
+   "description": "Hoe ziet het nieuwe platform van Arm eruit? Het Compute Subsystems (CSS) for Mobile 2 richt zijn pijlen op AI, maar ook gaming wordt steeds belangrijker voor het platform.",
+   "date": "2026-09-08T04:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Is GPT-6 zo slim als een mens? “Als het écht zover is, zal het meteen duidelijk zijn”",
    "link": "https://www.standaard.be/media-en-cultuur/is-gpt-6-zo-slim-als-een-mens-als-het-echt-zover-is-zal-het-meteen-duidelijk-zijn/161078883.html",
    "description": "“Artificial general intelligence is gearriveerd”, tweette de ceo van Nvidia zondag. Daarmee steunt hij de claim die OpenAI maakte bij de voorstelling van zijn GPT-6 Astra: dat het de mens kan evenaren. Maar niet iedereen is overtuigd.",
@@ -330,6 +606,17 @@
   {
    "title": "De failliete chipsproducent Belgan had een strategisch zeer interessant stukje technologie in handen",
    "link": "https://www.standaard.be/economie/de-failliete-chipsproducent-belgan-had-een-strategisch-zeer-interessant-stukje-technologie-in-handen/161076438.html",
+   "description": "Dat een ex-manager werd aangehouden omdat hij mogelijk bedrijfsgeheimen doorsluisde, werpt een ander licht op het faillissement van de Oudenaardse chipfabrikant Belgan. “Ik heb geregeld aangekaart dat er verdachte zaken plaatsvonden.”",
+   "date": "2026-09-07T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Failliete chipsproducent Belgan, waar spion voor China werkte, had zeer interessant stukje technologie in handen",
+   "link": "https://www.standaard.be/economie/failliete-chipsproducent-belgan-waar-spion-voor-china-werkte-had-zeer-interessant-stukje-technologie-in-handen/161076438.html",
    "description": "Dat een ex-manager werd aangehouden omdat hij mogelijk bedrijfsgeheimen doorsluisde, werpt een ander licht op het faillissement van de Oudenaardse chipfabrikant Belgan. “Ik heb geregeld aangekaart dat er verdachte zaken plaatsvonden.”",
    "date": "2026-09-07T23:59:00",
    "feeds": [
