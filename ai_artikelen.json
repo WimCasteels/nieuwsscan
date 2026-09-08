@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T18:16:32",
+ "generated": "2026-09-08T02:55:21",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 144,
+   "count": 147,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 96,
+   "count": 98,
    "error": null
   },
   {
@@ -315,6 +315,95 @@
   }
  ],
  "articles": [
+  {
+   "title": "Is GPT-6 zo slim als een mens? “Als het écht zover is, zal het meteen duidelijk zijn”",
+   "link": "https://www.standaard.be/media-en-cultuur/is-gpt-6-zo-slim-als-een-mens-als-het-echt-zover-is-zal-het-meteen-duidelijk-zijn/161078883.html",
+   "description": "“Artificial general intelligence is gearriveerd”, tweette de ceo van Nvidia zondag. Daarmee steunt hij de claim die OpenAI maakte bij de voorstelling van zijn GPT-6 Astra: dat het de mens kan evenaren. Maar niet iedereen is overtuigd.",
+   "date": "2026-09-07T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland",
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De failliete chipsproducent Belgan had een strategisch zeer interessant stukje technologie in handen",
+   "link": "https://www.standaard.be/economie/de-failliete-chipsproducent-belgan-had-een-strategisch-zeer-interessant-stukje-technologie-in-handen/161076438.html",
+   "description": "Dat een ex-manager werd aangehouden omdat hij mogelijk bedrijfsgeheimen doorsluisde, werpt een ander licht op het faillissement van de Oudenaardse chipfabrikant Belgan. “Ik heb geregeld aangekaart dat er verdachte zaken plaatsvonden.”",
+   "date": "2026-09-07T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Patagonië in Argentinië ontpopt zich als knooppunt voor AI-datacenters",
+   "link": "https://businessam.be/patagonie-in-argentinie-ontpopt-zich-als-knooppunt-voor-ai-datacenters/",
+   "description": "Key takeaways Het ruige terrein van het Argentijnse Patagonië wordt steeds meer gezien als een uitstekende locatie voor de ontwikkeling van enorme AI-datacenters, schrijft Firstpost. Gunstige omstandigheden Investeerders worden aangetrokken door het gebied door de uitgestrekte beschikbare grond, de overvloedige schaliegasreserves, het potentieel voor hernieuwbare energie en het van nature koude klimaat, wat helpt de […]",
+   "date": "2026-09-07T22:57:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "KIJK. De perfecte Vinted koop blijkt steeds vaker AI: onze techexpert toont hoe makkelijk de regels te omzeilen zijn",
+   "link": "https://www.hln.be/vtm-nieuws/kijk-de-perfecte-vinted-koop-blijkt-steeds-vaker-ai-onze-techexpert-toont-hoe-makkelijk-de-regels-te-omzeilen-zijn~a3d1cb25/",
+   "description": "Wie door het populaire tweedehandsplatform Vinted scrolt, heeft het vast al gemerkt: de modellen zien er steeds knapper uit en de kleding splinternieuw. Steeds meer verkopers gebruiken AI om hun kledij te verkopen, mét succes. Al wringt het wel met de Europese wetgeving: “Het zou logischer zijn om dit te verbieden”",
+   "date": "2026-09-07T20:04:00",
+   "feeds": [
+    "HLN - Multimedia"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese en andere bedrijven azen op Belgische spitstechnologie: “We mogen echt niet meer naïef zijn”",
+   "link": "https://www.gva.be/economie/chinese-en-andere-bedrijven-azen-op-belgische-spitstechnologie-we-mogen-echt-niet-meer-naef-zijn/161115877.html",
+   "description": "Een voormalige topman van het inmiddels failliete chipbedrijf Belgan zit in de cel op verdenking van geheimen doorsluizen naar China. Het is een praktijk waar bedrijven – en bij uitbreiding heel Europa – zich maar beter tegen wapenen.",
+   "date": "2026-09-07T19:30:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Korea en VS onderhandelen over energieproject van 22,3 miljard dollar in Texas voor AI-datacenters",
+   "link": "https://businessam.be/zuid-korea-en-vs-onderhandelen-over-energieproject-van-223-miljard-dollar-in-texas-voor-ai-datacenters/",
+   "description": "Key takeaways Volgens de Koreaanse nieuwsbron Edaily hebben Zuid-Korea en de Verenigde Staten een voorlopige overeenkomst bereikt over een gasgerelateerde onderneming in Texas ter waarde van ongeveer 22,3 miljard dollar (19,2 miljard euro). Datacenters Dit initiatief omvat de bouw van een elektriciteitscentrale van 6,3 gigawatt in Encinal, Texas, die is ontworpen om te voorzien in […]",
+   "date": "2026-09-07T19:04:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI dient incidentrapport over misbruik van Duitse wiki in bij EC",
+   "link": "https://tweakers.net/nieuws/251858/openai-dient-incidentrapport-over-misbruik-van-duitse-wiki-in-bij-ec.html",
+   "description": "De EC heeft een rapport van OpenAI ontvangen over het misbruik van een Duitse website door AI-agents. De zelfstandig opererende agents communiceerden onderling via de site. Dit gebeurde al in mei, maar OpenAI maakte het pas zaterdag bekend nadat Reuters er vrijdag over schreef.",
+   "date": "2026-09-07T18:36:31",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML start met de bouw van nieuwe campus in Eindhoven. En alles moet ervoor wijken",
+   "link": "https://www.nrc.nl/nieuws/2026/09/07/asml-start-met-de-bouw-van-nieuwe-campus-in-eindhoven-en-alles-moet-ervoor-wijken-a4936078",
+   "description": "Terwijl ASML dinsdag het begin viert van de bouw van een nieuwe campus, tracht de gemeente Eindhoven met man en macht de laatste hindernissen in de omgeving te slechten.",
+   "date": "2026-09-07T18:23:08",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Datacenters, satellieten en kritieke grondstoffen: Europa investeert in Groenland",
    "link": "https://www.tijd.be/r/t/1/id/10685054",
@@ -558,6 +647,17 @@
     "De Morgen - Meningen"
    ],
    "first_seen": "2026-09-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe ethisch is AI-porno? ‘Een AI-versie van een vrouwelijk lichaam stelt geen vragen of grenzen’",
+   "link": "https://www.demorgen.be/beter-leven/hoe-ethisch-is-ai-porno-een-ai-versie-van-een-vrouwelijk-lichaam-stelt-geen-vragen-of-grenzen~bfebfdd64/",
+   "description": "",
+   "date": "2026-09-07T03:00:00",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-09-08",
    "intro_geprobeerd": true
   },
   {
