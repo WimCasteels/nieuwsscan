@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T16:52:27",
+ "generated": "2026-09-09T03:03:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 146,
+   "count": 151,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,117 @@
   }
  ],
  "articles": [
+  {
+   "title": "Ethisch hacker Inti De Ceukelaire ontfutselde honderden bedrijven gevoelige data door AI-agents te misleiden: ‘Bij een mens zouden de alarmbellen afgaan’",
+   "link": "https://www.demorgen.be/nieuws/ethisch-hacker-inti-de-ceukelaire-ontfutselde-honderden-bedrijven-gevoelige-data-door-ai-agents-te-misleiden-bij-een-mens-zouden-de-alarmbellen-afgaan~bbd85542/",
+   "description": "",
+   "date": "2026-09-09T03:00:53",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amerikaanse veiligheidsdiensten beschuldigen China van AI-diefstal ‘op industriële schaal’",
+   "link": "https://www.tijd.be/r/t/1/id/10685265",
+   "description": "De Amerikaanse overheid beschuldigt Chinese AI-bedrijven er opnieuw van op industriële schaal technologie van Amerikaanse AI-ontwikkelaars te kopiëren.",
+   "date": "2026-09-08T22:09:27",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel, AMD en Qualcomm blinken uit op rood Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10685208",
+   "description": "De oplopende olieprijs kleurde Wall Street rood na een verlengd weekend. Intel vlamde na positieve geluiden over de productie met high-NA-EUV-chipmachines van ASML. AMD deelde gunstige vraagvooruitzichten, terwijl Qualcomm een deal met Amazon sloot.",
+   "date": "2026-09-08T22:09:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frans AI-bedrijf Mistral wijzigt koers en wil ook controle over eigen servers",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/frans-ai-bedrijf-mistral-wijzigt-koers-en-wil-ook-controle-over-eigen-servers~b7e98904/",
+   "description": "",
+   "date": "2026-09-08T22:00:41",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Opinie: Ik gebruik als schrijver AI, en daar schaam ik me niet voor",
+   "link": "https://www.trouw.nl/opinie/opinie-ik-gebruik-als-schrijver-ai-en-daar-schaam-ik-me-niet-voor~bfdf3c96/",
+   "description": "",
+   "date": "2026-09-08T22:00:40",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Lek in ChatGPT gaf onderzoekers toegang tot data uit Gmail, Drive, Teams, GitHub",
+   "link": "https://tweakers.net/nieuws/251914/lek-in-chatgpt-gaf-onderzoekers-toegang-tot-data-uit-gmail-drive-teams-github.html",
+   "description": "Securityonderzoekers ontdekten een lek in ChatGPT waarlangs een aanvaller toegang kan krijgen tot apps die zijn verbonden met de AI-chatbot. Via een aparte AI-prompt kon ChatGPT ongezien data uit apps als Gmail, Google Drive, Microsoft Teams en GitHub doorgeven. OpenAI heeft dit afgesloten.",
+   "date": "2026-09-08T20:47:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-startup Cognition haalt 2 miljard dollar op",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ai-startup-cognition-haalt-2-miljard-dollar-op/",
+   "description": "(ABM FN-Dow Jones) AI-startup Cognition heeft 2 miljard dollar opgehaald in een nieuwe financieringsronde, waardoor de waardering van het bedrijf is gestegen naar 48 miljard dollar. Dit meldde de onderneming dinsdag op zijn website.De financieringsronde werd geleid door Andreessen Horowitz, Accel, Founders Fund, General Catalyst en Avenir, aldus Cognition. Ook Nvidia investeerde in het AI-bedrijf.Cognition is …\nThe post AI-startup Cognition haalt 2 miljard dollar op appeared first on Trends.be.",
+   "date": "2026-09-08T20:21:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DaVinci Resolve laat video-editors routinewerk uitvoeren door Claude en Codex",
+   "link": "https://tweakers.net/nieuws/251906/davinci-resolve-laat-video-editors-routinewerk-uitvoeren-door-claude-en-codex.html",
+   "description": "Videobewerkingsapp DaVinci Resolve krijgt in versie 21.1 integratie met AI-assistenten als Claude, Claude Code en ChatGPT Codex. Gebruikers kunnen daarmee hun projecten analyseren, media organiseren, instellingen aanpassen en video's laten renderen. De nieuwe versie is nu te downloaden.",
+   "date": "2026-09-08T17:39:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe AI het hoofd op hol brengt: de beste podcasts van het moment",
+   "link": "https://www.standaard.be/media-en-cultuur/hoe-ai-het-hoofd-op-hol-brengt-de-beste-podcasts-van-het-moment/160530015.html",
+   "description": "Weet je niet meer wat te beluisteren? Onze redacteurs selecteren de beste podcasts.",
+   "date": "2026-09-08T17:26:08",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML bouwt nieuwe campus in Eindhoven voor 20.000 medewerkers",
+   "link": "https://tweakers.net/nieuws/251904/asml-bouwt-nieuwe-campus-in-eindhoven-voor-20000-medewerkers.html",
+   "description": "ASML begint met de bouw van een nieuwe campus in Eindhoven, die uiteindelijk werkruimte voor twintigduizend werknemers moet bieden. Dat betekent bijna een verdubbeling van het Nederlandse personeelsbestand van de chipmachinemaker. De nieuwe campus krijgt ook een nieuwe fabriek.",
+   "date": "2026-09-08T16:58:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Werknemers Wikimedia Foundation stemmen voor vakbondschap om meer inspraak af te dwingen over AI",
    "link": "https://www.volkskrant.nl/tech/werknemers-wikimedia-foundation-stemmen-voor-vakbondschap-om-meer-inspraak-af-te-dwingen-over-ai~ba318034/",
@@ -468,6 +579,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-09-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Love-22-Love’ en ‘Sovereign Son’ geven een openhartige blik in leven met mentale kwetsbaarheid",
+   "link": "https://www.nrc.nl/nieuws/2026/09/08/love-22-love-en-sovereign-son-geven-een-openhartige-blik-in-leven-met-mentale-kwetsbaarheid-a4935921",
+   "description": "Beeldend kunstenaar Jeroen Kooijmans monteerde in ‘Love-22-Love’ een indrukwekkend zelfportret uit drieduizend uur videomateriaal. Cindy Jansen gebruikte in ‘Sovereign Son’ AI om een zoon zijn afwezige vader terug te geven. Beide films peilen de diepte van leven met depressies en psychoses.",
+   "date": "2026-09-08T10:49:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-09",
    "intro_geprobeerd": false
   },
   {
