@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T03:03:47",
+ "generated": "2026-09-09T17:00:28",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 151,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,315 @@
   }
  ],
  "articles": [
+  {
+   "title": "Meta komt met AI-agent met eigen sandbox, nadat ander model daaruit ontsnapte",
+   "link": "https://tweakers.net/nieuws/251932/meta-komt-met-ai-agent-met-eigen-sandbox-nadat-ander-model-daaruit-ontsnapte.html",
+   "description": "Meta heeft een AI-agent uitgebracht op basis van het large language model (llm) Muse Spark. De 'assistent' heet zelf ook Muse. Het model draait in een aparte, afgesloten virtuele machine, waardoor gebruikers zelf kunnen bepalen hoeveel toegang de agent krijgt tot de rest van het systeem. Meta moest juist vorige maand nog toegeven dat een van zijn AI-modellen uit een sandbox was ontsnapt en een bedrijf had gehackt.",
+   "date": "2026-09-09T16:34:11",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-onderzoeker stapt op: ‘OpenAI en Anthropic gokken met onze levens’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/anthropic-onderzoeker-stapt-op-openai-en-anthropic-gokken-met-onze-levens/",
+   "description": "Een artificiële intelligentie-onderzoeker, die OpenAI verliet om bij Anthropic te gaan werken, heeft besloten de sector te verlaten. Hij beschuldigt de twee Amerikaanse bedrijven ervan ‘met onze levens te gokken’ in hun wedloop om zelfverbeterende AI te ontwikkelen.\nThe post Anthropic-onderzoeker stapt op: ‘OpenAI en Anthropic gokken met onze levens’ appeared first on Knack.",
+   "date": "2026-09-09T16:32:17",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Ze spelen met onze levens”: Anthropic-onderzoeker Jacob Coxon slaakt noodkreet bij AI-race",
+   "link": "https://www.standaard.be/economie/ze-spelen-met-onze-levens-anthropic-onderzoeker-jacob-coxon-slaakt-noodkreet-bij-ai-race/161189317.html",
+   "description": "“OpenAI en Anthropic racen recht naar zichzelf verbeterende superintelligentie, en ze spelen met onze levens.” Met die noodkreet op X maakte onderzoeker Jacob Coxon (27) bekend dat hij opstapt bij Anthropic.",
+   "date": "2026-09-09T16:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Ze spelen met ons leven”: toponderzoeker stapt op bij Anthropic uit vrees voor AI die niet meer onder controle te houden is",
+   "link": "https://www.hln.be/tech/ze-spelen-met-ons-leven-toponderzoeker-stapt-op-bij-anthropic-uit-vrees-voor-ai-die-niet-meer-onder-controle-te-houden-is~ab48cd4b/",
+   "description": "Een vooraanstaand onderzoeker van AI-ontwikkelaar Anthropic heeft ontslag genomen omdat hij zich grote zorgen maakt over de evolutie binnen de sector. Jacob Coxon (27) vreest voor het ontstaan van een zichzelf verbeterende superintelligentie, die niet meer onder controle te houden is. “AI-ontwikkelaars geloven oprecht dat deze technologie ons tegen het einde van dit decennium compleet kan uitroeien”, meent hij.",
+   "date": "2026-09-09T15:29:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "​Drones en data helpen brandweer om natuurbranden te bestrijden",
+   "link": "https://trends.knack.be/ai-en-tech/brandweer-krijgt-hulp-van-drones-en-data-in-de-strijd-tegen-natuurbranden/",
+   "description": "De ramp in de Hoge Venen toonde aan dat ook ons land niet immuun is voor verwoestende natuurbranden.  VITO werkt in een project van de ESA aan een nieuwe toepassing op basis van geo-intelligentie. Door satellietdata, drones en AI te combineren ontstaat voor het eerst een digital twin van de vuurlinie. Dat kan levens redden. \nThe post ​Drones en data helpen brandweer om natuurbranden te bestrijden appeared first on Trends.be.",
+   "date": "2026-09-09T15:24:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-onderzoeker neemt ontslag: ‘OpenAI en Anthropic handelen onverantwoordelijk en gokken met ons leven’",
+   "link": "https://www.demorgen.be/tech-ai/anthropic-onderzoeker-neemt-ontslag-openai-en-anthropic-handelen-onverantwoordelijk-en-gokken-met-ons-leven~b1e5486a/",
+   "description": "",
+   "date": "2026-09-09T15:21:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Onderzoeker bij Anthropic stapt op en waarschuwt voor destructieve potentieel van AI: “Ze spelen met onze levens”",
+   "link": "https://www.gva.be/economie/technologie/onderzoeker-bij-anthropic-stapt-op-en-waarschuwt-voor-destructieve-potentieel-van-ai-ze-spelen-met-onze-levens/161204910.html",
+   "description": "Een onderzoeker bij het artificiële intelligentiebedrijf Anthropic heeft ontslag genomen en gewaarschuwd dat de ontwikkelaars van artificiële intelligentie (AI) onverantwoord handelen en “met onze levens spelen”. Volgens de onderzoeker, Jacob Coxon, zullen er binnenkort computersystemen zijn waarvan de capaciteiten die van de mens overtreffen.",
+   "date": "2026-09-09T14:58:13",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tor Browser krijgt belangrijke update wegens kwetsbaarheden gevonden door AI",
+   "link": "https://www.security.nl/posting/952369/Tor+Browser+krijgt+belangrijke+update+wegens+kwetsbaarheden+gevonden+door+AI?channel=rss",
+   "description": "De makers van Tor Browser hebben een belangrijke beveiligingsupdate uitgebracht wegens verschillende kwetsbaarheden die door ...",
+   "date": "2026-09-09T14:36:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Patch Tuesday wordt steeds drukker met bijna 1000 fixes van Microsoft",
+   "link": "https://tweakers.net/nieuws/251930/patch-tuesday-wordt-steeds-drukker-met-bijna-1000-fixes-van-microsoft.html",
+   "description": "Microsoft heeft tijdens Patch Tuesday 974 kwetsbaarheden verholpen, het hoogste aantal tot nu toe. De bugs zitten vooral in Windows, maar ook in Office en Edge. Twee kwetsbaarheden worden actief misbruikt. Het aantal fixes per maand stijgt sinds Microsoft vaker AI inzet om bugs op te sporen.",
+   "date": "2026-09-09T14:35:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Qualcomms deal met Amazon verlegt focus van chipmaker verder naar AI-hardware",
+   "link": "https://tweakers.net/nieuws/251934/qualcomms-deal-met-amazon-verlegt-focus-van-chipmaker-verder-naar-ai-hardware.html",
+   "description": "Qualcomm gaat AI-datacenterchips voor Amazon produceren. Daarnaast gaan de twee bedrijven samenwerken om optische verbindingen tussen AI-systemen te verbeteren voor een hogere bandbreedte. Qualcomm is een van de vele grote techbedrijven die bekend werden via hun consumententech, maar hun focus nu verleggen naar AI-bedrijven.",
+   "date": "2026-09-09T13:42:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI lost een van zeven grootste wiskundige vraagstukken op, maar doorbraak is omgeven door controverse",
+   "link": "https://www.volkskrant.nl/tech/openai-lost-een-van-zeven-grootste-wiskundige-vraagstukken-op-maar-doorbraak-is-omgeven-door-controverse~bfaa6ffe/",
+   "description": "",
+   "date": "2026-09-09T13:40:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta lanceert Muse AI-agent om persoonlijke taken te automatiseren",
+   "link": "https://businessam.be/meta-lanceert-muse-ai-agent-om-persoonlijke-taken-te-automatiseren/",
+   "description": "Key takeaways Meta heeft een nieuwe AI-assistent geïntroduceerd, genaamd Muse, die is ontworpen om zelfstandig taken uit te voeren zoals het plannen van reizen, het beheren van e-mails en het afhandelen van financiële transacties namens zijn gebruikers. ‘Persoonlijke superintelligentie’ De tool, ontwikkeld onder de interne codenaam Hatch, weerspiegelt de ambitie van Mark Zuckerberg om ‘persoonlijke […]",
+   "date": "2026-09-09T13:12:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Artificiële intelligentie lost een van de grootste wiskundige raadsels ooit op in 4 dagen",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/09/ai-lost-navier-stokes-probleem/",
+   "description": "Een AI-model van OpenAI heeft in 88 uur het Navier-Stokes-probleem kunnen oplossen. Dat is een wiskundig probleem waar wetenschappers al meer dan een eeuw geen oplossing voor vonden. Professor wiskunde Ann Dooms is onder de indruk, \"al is dit voor de wiskunde zelf niet zo'n goed nieuws\".",
+   "date": "2026-09-09T12:24:11",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Artificiële intelligentie lost een van de grootste wiskundige raadsels ooit op in 4 dagen",
+   "link": "https://vrtnws.be/p.0YJKJ94em",
+   "description": "Een AI-model van OpenAI heeft in 88 uur het Navier-Stokes-probleem kunnen oplossen. Dat is een wiskundig probleem waar wetenschappers al meer dan een eeuw geen oplossing voor vonden. Professor wiskunde Ann Dooms is onder de indruk, \"al is dit voor de wiskunde zelf niet zo'n goed nieuws\".",
+   "date": "2026-09-09T12:24:11",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS beschuldigt Chinese AI-bedrijven van massaal kopiëren van technologie",
+   "link": "https://nos.nl/l/2630302",
+   "description": "Drie grote Amerikaanse veiligheidsdiensten beschuldigen Chinese AI-bedrijven van het op grote schaal kopiëren van AI-modellen van Amerikaanse bedrijven. Deze \"agressieve en kwaadaardige\" praktijken vormen volgens de veiligheidsdiensten \"de kern\" van de ontwikkeling van Chinese AI-technologie.\n        De overheidsorganisaties zeggen dat onder meer de Chinese bedrijven DeepSeek, Moonshot, Alibaba en Z.ai op grote schaal kennis \"onttrekken\" uit Amerikaanse AI-modellen zoals Claude (van Anthropic), GPT (van OpenAI) en Gemini (van Google).\n        \"De enorme omvang van deze operaties en de gespecialiseerdheid, wijzen erop dat onttrekking geen aanvulling is op de ontwikkeling van AI-modellen door deze bedrijven, maar juist de kern ervan vormt\", schrijven de Amerikaanse veiligheidsdiensten.\n        AI-model ontwikkelen\n        'Onttrekking' is een methode waarbij een AI-toepassing wordt ontwikkeld op basis van een ander krachtig AI-model. Het krachtige AI-model genereert antwoorden die gebruikt worden om een nieuw AI-model te ontwikkelen.\n        De techniek wordt veel gebruikt in onderzoek en ontwikkeling rond kunstmatige intelligentie, maar de Chinese AI-industrie gebruikt de methode volgens de Amerikaanse veiligheidsdiensten om \"het gat tussen hun AI-modellen en de krachtigste Amerikaanse modellen te overbruggen\".\n        Amerikaanse AI-bedrijven klagen al langer over kopieergedrag door Chinese concurrentie. In februari beschuldigde Anthropic, het bedrijf achter AI-model Claude, de Chinese bedrijven DeepSeek, Moonshot en MiniMax van het \"illegaal onttrekken van Claudes vaardigheden om hun eigen modellen te verbeteren\".\n        Politieke discussie\n        De Chinese AI-bedrijven hebben de aandacht van het Witte Huis. In juli beschuldigde een belangrijke adviseur van president Trump het Chinese bedrijf Moonshot al van het kopiëren van AI-technologie van Anthropic.\n        Een woordvoerder van de Chinese overheid spreekt van valse beschuldigingen, meldt persbureau Reuters. De kwaliteit van AI-technologie uit China is volgens haar het resultaat van \"wetenschap op hoog niveau en technologische zelfstandigheid\".",
+   "date": "2026-09-09T12:05:28",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS beschuldigen Chinese AI-bedrijven van grootschalige diefstal van Amerikaanse technologie",
+   "link": "https://businessam.be/vs-beschuldigt-chinese-ai-bedrijven-van-grootschalige-diefstal-van-amerikaanse-technologie/",
+   "description": "Key takeaways Amerikaanse autoriteiten hebben beschuldigingen geuit tegen verschillende Chinese AI-bedrijven en stellen dat zij systematisch technologie van Amerikaanse ontwikkelaars hebben gestolen. Distillatie Volgens rapporten van inlichtingen- en wetshandhavingsinstanties in de Verenigde Staten maakten Chinese bedrijven gebruik van een methode die ‘distillatie’ wordt genoemd om intellectueel eigendom te misbruiken. Die specifieke techniek houdt in dat […]",
+   "date": "2026-09-09T12:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-onderzoeker neemt ontslag: ‘OpenAI en Anthropic handelen onverantwoordelijk en gokken met ons leven’",
+   "link": "https://www.volkskrant.nl/tech/anthropic-onderzoeker-neemt-ontslag-openai-en-anthropic-handelen-onverantwoordelijk-en-gokken-met-ons-leven~b1e5486a/",
+   "description": "",
+   "date": "2026-09-09T11:59:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google investeert ruim 15 miljard dollar in Finse AI-infrastructuur",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/google-investeert-ruim-15-miljard-dollar-in-finse-ai-infrastructuur/",
+   "description": "(ABM FN-Dow Jones) Google gaat de komende twee jaar meer dan 15 miljard dollar gaat uitgeven aan de bouw van infrastructuur voor AI in Finland. Dat heeft het Amerikaanse bedrijf bekendgemaakt.Het betreft de nieuwste grote investering van een Amerikaans technologiebedrijf om zijn AI-capaciteit in het buitenland te versterken.Google liet weten dat de investering van minstens 15,1 …\nThe post Google investeert ruim 15 miljard dollar in Finse AI-infrastructuur appeared first on Trends.be.",
+   "date": "2026-09-09T11:45:49",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frederik Anseel | De ultieme vaardigheid voor de toekomst",
+   "link": "https://www.tijd.be/r/t/1/id/10685328",
+   "description": "Ervaren medewerkers kunnen AI doeltreffend gebruiken dankzij de expertise die ze jarenlang hebben opgebouwd.",
+   "date": "2026-09-09T11:37:23",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noord-Holland eist strengere regels voor nieuwe datacenters - update",
+   "link": "https://tweakers.net/nieuws/251922/noord-holland-eist-strengere-regels-voor-nieuwe-datacenters.html",
+   "description": "De Provinciale Staten van Noord-Holland hebben maandag unaniem een motie aangenomen voor strengere regels voor nieuwe datacenters in de provincie. Het is nu aan de Gedeputeerde Staten om dit beleid uit te voeren.",
+   "date": "2026-09-09T11:18:57",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Qualcomm gaat samenwerking aan met Amazon voor AI-chips voor datacenters",
+   "link": "https://businessam.be/qualcomm-gaat-samenwerking-aan-met-amazon-voor-ai-chips-voor-datacenters/",
+   "description": "Key takeaways Qualcomm heeft een overeenkomst gesloten met Amazon voor de ontwikkeling van gespecialiseerde halfgeleiders voor AI-aangedreven datacenters. Dit partnerschap omvat een financiële stimulans waarbij Amazon warrants ontvangt om in de komende tien jaar voor ongeveer 4 miljard dollar (3,4 miljard euro) aan aandelen van Qualcomm te kopen, op voorwaarde dat er voor 60 miljard […]",
+   "date": "2026-09-09T11:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het wiskundeprobleem van 1 miljoen dollar zou gekraakt zijn door OpenAI, alleen rijzen er al vragen bij de oplossing",
+   "link": "https://www.demorgen.be/nieuws/het-wiskundeprobleem-van-1-miljoen-dollar-zou-gekraakt-zijn-door-openai-alleen-rijzen-er-al-vragen-bij-de-oplossing~b6168fdc/",
+   "description": "",
+   "date": "2026-09-09T10:31:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Slechts kwart bedrijven schaalt AI succesvol op’",
+   "link": "https://www.emerce.nl/nieuws/slechts-kwart-bedrijven-schaalt-ai-succesvol-op",
+   "description": "Bedrijven blijven fors investeren in kunstmatige intelligentie, ook al slaagt de overgrote meerderheid er niet in om die technologie daadwerkelijk breed in de organisatie te verankeren.",
+   "date": "2026-09-09T09:45:23",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI claimt wiskundig Millenniumprijsprobleem binnen 88 uur te hebben opgelost",
+   "link": "https://tweakers.net/nieuws/251916/openai-claimt-wiskundig-millenniumprijsprobleem-binnen-88-uur-te-hebben-opgelost.html",
+   "description": "OpenAI claimt een van de zeven Millenniumprijsproblemen te hebben opgelost met een intern AI-model. Het gaat om de Navier–Stokes-vergelijkingen, een van de onopgeloste wiskundige raadsels over vloeistof- en gasdynamica. Twee andere onderzoekers zeggen op het punt te hebben gestaan om zelf de oplossing te presenteren.",
+   "date": "2026-09-09T09:16:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Plan - Dev Summit 2026 met Jim Stolze over AI-boeven én -helden",
+   "link": "https://tweakers.net/plan/4802/dev-summit-2026-met-jim-stolze-over-ai-boeven-en-helden.html",
+   "description": "Wie bepaalt hoe onze toekomst met kunstmatige intelligentie eruitziet? Zijn dat de bekende gezichten uit Silicon Valley, wetenschappers die buiten de schijnwerpers aan doorbraken werken, of juist de developers die iedere dag concrete keuzes maken in code? Met die vragen opent Jim Stolze op woensdag 28 oktober de Tweakers Developers Summit 2026.",
+   "date": "2026-09-09T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom jouw AI-strategie niet aan één model moet hangen",
+   "link": "https://www.emerce.nl/achtergrond/waarom-jouw-aistrategie-n-model-moet-hangen",
+   "description": "Deze Emerce-column behandelt de strategische noodzaak van een multi-model AI-strategie en een flexibele gateway-architectuur. Het afhankelijk zijn van één AI-model (zoals OpenAI of Claude) creëert risico's op het gebied van lock-in, onvoorspelbare tokenkosten en compliance (EU AI Act, DORA). Door een gateway in te zetten en te werken met een portfolio van closed en open-weights modellen, kunnen organisaties per workload de optimale balans kiezen tussen kwaliteit, latency en kosten.",
+   "date": "2026-09-09T06:22:02",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Solliciteren in tijden van AI: waarom starters het moeilijker hebben op de arbeidsmarkt",
+   "link": "https://trends.knack.be/ai-en-tech/best-practices/solliciteren-in-tijden-van-ai-waarom-starters-het-moeilijker-hebben-op-de-arbeidsmarkt/",
+   "description": "Artificiële intelligentie belooft onze arbeidsmarkt sterk overhoop te halen. Voeg daar nog een economische malaise aan toe, aangespoord door geopolitieke spanningen, en het water lijkt wel erg diep voor pas afgestudeerden. Maar die hoeven nog niet meteen te panikeren. Al is er zowel voor hen als voor de bedrijven werk aan de winkel. \nThe post Solliciteren in tijden van AI: waarom starters het moeilijker hebben op de arbeidsmarkt appeared first on Trends.be.",
+   "date": "2026-09-09T06:01:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS beschuldigt Chinese AI-bedrijven van “kwaadwillig” kopiëren Amerikaanse technologie",
+   "link": "https://www.gva.be/economie/bedrijven/vs-beschuldigt-chinese-ai-bedrijven-van-kwaadwillig-kopieren-amerikaanse-technologie/161178872.html",
+   "description": "De Amerikaanse overheid heeft Chinese AI-bedrijven er dinsdag van beschuldigd technologie van Amerikaanse AI-bedrijven \"agressief en kwaadwillig” te hebben gekopieerd. Zo drukken ze niet alleen de kosten, maar versterken ze de defensie van China ook.",
+   "date": "2026-09-09T05:22:27",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-09",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Ethisch hacker Inti De Ceukelaire ontfutselde honderden bedrijven gevoelige data door AI-agents te misleiden: ‘Bij een mens zouden de alarmbellen afgaan’",
    "link": "https://www.demorgen.be/nieuws/ethisch-hacker-inti-de-ceukelaire-ontfutselde-honderden-bedrijven-gevoelige-data-door-ai-agents-te-misleiden-bij-een-mens-zouden-de-alarmbellen-afgaan~bbd85542/",
