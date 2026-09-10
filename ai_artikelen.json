@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T17:00:28",
+ "generated": "2026-09-10T02:52:04",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 156,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 94,
    "error": null
   },
   {
@@ -316,6 +316,150 @@
  ],
  "articles": [
   {
+   "title": "Heeft OpenAI een wiskundeprobleem gekraakt dat geen mens al kon oplossen?",
+   "link": "https://www.standaard.be/natuur-en-wetenschap/heeft-openai-een-wiskundeprobleem-gekraakt-dat-geen-mens-al-kon-oplossen/161202338.html",
+   "description": "Al negentig jaar breken wiskundigen hun hoofd over de beschrijving van vloeistoffen en gassen in beweging. Nu zegt OpenAI binnen 88 uur de oplossing te hebben gevonden. “Als je de zoektocht naar de oplossing uitbesteedt aan computers, verliest die haar grootste waarde.”",
+   "date": "2026-09-09T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geen doomscroll, alleen vrienden: Australië wil sociale media zoals vroeger terugbrengen",
+   "link": "https://www.standaard.be/buitenland/geen-doomscroll-alleen-vrienden-australie-wil-sociale-media-zoals-vroeger-terugbrengen/161186781.html",
+   "description": "Een Australisch wetsvoorstel geeft gebruikers de optie om content-algoritmes op sociale media uit te schakelen. Tegenstanders vrezen censuur, big tech stelt zich defensief op.",
+   "date": "2026-09-09T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een zomer offgrid. In mijn hoofd waren er geen influencers, geen excels, geen chatbots",
+   "link": "https://www.standaard.be/media-en-cultuur/een-zomer-offgrid.-in-mijn-hoofd-waren-er-geen-influencers-geen-excels-geen-chatbots/160964961.html",
+   "description": "Deze zomer ging Yelena Schmitz offline in het Hoge Noorden met een knalgele kajak. Na een maand in haar midzomernachtsdroom vraagt ze zich af: wat heb ik eigenlijk gemist?",
+   "date": "2026-09-09T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met AI worden taal en wiskunde een menselijk overlevingsgevecht",
+   "link": "https://www.standaard.be/opinies/met-ai-worden-taal-en-wiskunde-een-menselijk-overlevingsgevecht/161205170.html",
+   "description": "Belangrijke wiskundigen betreuren dat AI een van hun grootste problemen in hun plaats heeft opgelost. Wat helpt een oplossing ons als mens vooruit als we daar niet meer inzicht door verwerven? Dat verzet kan het onderwijs inspireren na de dramatische Pisa-resultaten.",
+   "date": "2026-09-09T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VAE pompen 860 miljoen euro in Frans AI-satellietnetwerk",
+   "link": "https://businessam.be/vae-pompen-860-miljoen-euro-in-frans-ai-satellietnetwerk/",
+   "description": "Key takeaways De Verenigde Arabische Emiraten hebben een aanzienlijke investering van 860 miljoen euro toegezegd om een ruimtevaartinitiatief op het gebied van artificiële intelligentie in Frankrijk te bevorderen. Dit kapitaal, verstrekt door Marlan Space, zal de ontwikkeling financieren van een satellietnetwerk dat wordt beheerd door de Frans-Amerikaanse joint venture Loft Orbital. De aankondiging viel samen […]",
+   "date": "2026-09-09T23:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: Meta ruim 6 procent hoger na lancering AI-agent Muse",
+   "link": "https://www.tijd.be/r/t/1/id/10685425",
+   "description": "De Amerikaanse beurzen verloren terrein door oplopende olieprijzen en langetermijnrentes. Meta kreeg een flinke boost na de lancering van zijn AI-chatbot voor consumenten, Muse. Apple beleefde tijdens zijn productshow een volatiele sessie.",
+   "date": "2026-09-09T22:07:37",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google investeert 13 miljard euro in Finland voor AI en kernenergie",
+   "link": "https://businessam.be/google-investeert-13-miljard-euro-in-finland-voor-ai-en-kernenergie/",
+   "description": "Key takeaways Google heeft een omvangrijke financiële toezegging aan Finland aangekondigd, waarbij het de komende twee jaar meer dan € 13 miljard uittrekt om zijn AI-infrastructuur te verbeteren. Dit initiatief is de grootste investering van Google in Europa tot nu toe. De middelen zijn bestemd voor de bouw van datacenters, de modernisering van elektriciteitsnetten en […]",
+   "date": "2026-09-09T21:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ontslag met slaande deuren bij Anthropic zet spotlicht op gevaren industriële AI-wedloop",
+   "link": "https://www.tijd.be/r/t/1/id/10685391",
+   "description": "Het ontslag van een onderzoeker bij het AI-bedrijf Anthropic krijgt op sociale media veel weerklank. Jacob Coxon zegt te vertrekken omdat de AI-bedrijven meer bezig zijn met geld verdienen dan met de veiligheid van een 'technologie die in staat zal zijn de mensheid uit te roeien'.",
+   "date": "2026-09-09T20:27:56",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-medewerker neemt ontslag door \"onverantwoord gedrag\" AI-bedrijven: \"Ze gokken met ons leven\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/anthropicmedewerker-neemt-ontslag-door-onverantwoord-gedrag-a~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-09T20:21:58",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Suno verandert wereld van AI-muziek met nieuw royaltymodel",
+   "link": "https://businessam.be/suno-verandert-wereld-van-ai-muziek-met-nieuw-royaltymodel/",
+   "description": "Key takeaways Suno Inc. heeft zijn nieuwste AI-tools voor het genereren van muziek geïntroduceerd, v6, die zijn ontworpen om efficiënter te werken en een superieure geluidskwaliteit te produceren. Samenwerking Deze vernieuwde modellen betekenen een strategische verschuiving voor het bedrijf, aangezien ze zijn ontwikkeld in samenwerking met vooraanstaande partijen uit de sector, waaronder Warner Music Group […]",
+   "date": "2026-09-09T19:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China wil humanoïde robots in de nabije toekomst gebruiken voor militaire doeleinden",
+   "link": "https://businessam.be/china-wil-humanoide-robots-steeds-vaker-gebruiken-voor-militaire-doeleinden/",
+   "description": "Key takeaways China is actief bezig met het herbestemmen van commerciële humanoïde robotica voor militair gebruik, met als doel deze machines te integreren in toekomstige conflictgebieden. Uit onderzoek van officiële publicaties, octrooien en aanbestedingsdocumenten blijkt dat Chinese defensie-instanties zich gezamenlijk inspannen om robottechnologie aan te passen voor oorlogsvoering. Daarbij is het onderzoek in de loop […]",
+   "date": "2026-09-09T19:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Persoonlijke AI-assistent Muse stuwt waarde Meta 7 procent omhoog",
+   "link": "https://www.standaard.be/economie/beurs/persoonlijke-ai-assistent-muse-stuwt-waarde-meta-7-procent-omhoog/161220074.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-09-09T18:30:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TomTom wijst na 35 jaar nog steeds de weg, maar niet meer via het klassieke gps-toestel",
+   "link": "https://www.hln.be/tech/tomtom-wijst-na-35-jaar-nog-steeds-de-weg-maar-niet-meer-via-het-klassieke-gps-toestel~ae282efd/",
+   "description": "TomTom bestaat dit jaar 35 jaar. De bekende gps-toestellen verdwenen bijna volledig, maar het Nederlandse bedrijf richt zich nu op digitale kaarten voor autofabrikanten, zelfrijdende auto’s en overheden.",
+   "date": "2026-09-09T17:59:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Meta komt met AI-agent met eigen sandbox, nadat ander model daaruit ontsnapte",
    "link": "https://tweakers.net/nieuws/251932/meta-komt-met-ai-agent-met-eigen-sandbox-nadat-ander-model-daaruit-ontsnapte.html",
    "description": "Meta heeft een AI-agent uitgebracht op basis van het large language model (llm) Muse Spark. De 'assistent' heet zelf ook Muse. Het model draait in een aparte, afgesloten virtuele machine, waardoor gebruikers zelf kunnen bepalen hoeveel toegang de agent krijgt tot de rest van het systeem. Meta moest juist vorige maand nog toegeven dat een van zijn AI-modellen uit een sandbox was ontsnapt en een bedrijf had gehackt.",
@@ -349,6 +493,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "“Ze spelen met onze levens”: Anthropic-onderzoeker Jacob Coxon slaakt noodkreet over AI-race",
+   "link": "https://www.standaard.be/economie/ze-spelen-met-onze-levens-anthropic-onderzoeker-jacob-coxon-slaakt-noodkreet-over-ai-race/161189317.html",
+   "description": "“OpenAI en Anthropic racen recht naar zichzelf verbeterende superintelligentie. Geen van beide bedrijven stelt zich verantwoordelijk op.” Met die noodkreet op X maakte onderzoeker Jacob Coxon (27) bekend dat hij opstapt bij Anthropic.",
+   "date": "2026-09-09T16:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "“Ze spelen met ons leven”: toponderzoeker stapt op bij Anthropic uit vrees voor AI die niet meer onder controle te houden is",
    "link": "https://www.hln.be/tech/ze-spelen-met-ons-leven-toponderzoeker-stapt-op-bij-anthropic-uit-vrees-voor-ai-die-niet-meer-onder-controle-te-houden-is~ab48cd4b/",
    "description": "Een vooraanstaand onderzoeker van AI-ontwikkelaar Anthropic heeft ontslag genomen omdat hij zich grote zorgen maakt over de evolutie binnen de sector. Jacob Coxon (27) vreest voor het ontstaan van een zichzelf verbeterende superintelligentie, die niet meer onder controle te houden is. “AI-ontwikkelaars geloven oprecht dat deze technologie ons tegen het einde van dit decennium compleet kan uitroeien”, meent hij.",
@@ -376,7 +531,8 @@
    "description": "",
    "date": "2026-09-09T15:21:00",
    "feeds": [
-    "De Morgen - In Het Nieuws"
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-09-09",
    "intro_geprobeerd": true
