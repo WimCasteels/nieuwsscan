@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T02:52:04",
+ "generated": "2026-09-10T16:48:09",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 153,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,303 @@
   }
  ],
  "articles": [
+  {
+   "title": "Limburgse snelwegen zijn testterrein voor zelfrijdende auto's van niveau 4",
+   "link": "https://vrtnws.be/p.mR0xQ6EVj",
+   "description": "Het bedrijf Aidoptation uit Sint-Truiden is gestart met het testen van zelfrijdende auto's van niveau 4. Dat zijn auto's waarbij de bestuurder bij een hoge snelheid niet meer op de weg moet letten of de handen in de buurt van het stuur moet houden. Intussen heeft Aidaptation 200 kilometer gereden op de Limburgse snelwegen.",
+   "date": "2026-09-10T15:46:35",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese cyberwaakhond kan Mythos 5 na maanden vertraging testen",
+   "link": "https://tweakers.net/nieuws/252006/europese-cyberwaakhond-kan-mythos-5-na-maanden-vertraging-testen.html",
+   "description": "Het Europese cyberbeveiligingsagentschap ENISA krijgt na drie maanden vertraging toegang tot Mythos 5 van Anthropic. Dat AI-model is goed in het opsporen van kwetsbaarheden in ict-systemen. Eerder hadden zowel Anthropic als de Amerikaanse overheid de toegang tot Mythos beperkt.",
+   "date": "2026-09-10T15:43:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Moet de geest van AI terug in de fles?",
+   "link": "https://www.trouw.nl/religie-filosofie/moet-de-geest-van-ai-terug-in-de-fles~bab78701/",
+   "description": "",
+   "date": "2026-09-10T15:10:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Anthropic verkoopt hier gretig tokens, maar negeert schaamteloos onze instituten’",
+   "link": "https://trends.knack.be/ai-en-tech/anthropic-verkoopt-hier-gretig-tokens-maar-negeert-schaamteloos-onze-instituten/",
+   "description": "Heuglijk nieuws voor de veiligheid van Europese burgers en bedrijven. Amper vijf maanden na de uitrol heeft het cyberbeveiligingsagentschap van de Europese Unie (ENISA) toegang gekregen tot Claude Mythos. Om uw geheugen op te frissen: Mythos is het ontwrichtende AI-model van Anthropic dat vlot in staat zou zijn om binnen te dringen in netwerken en …\nThe post ‘Anthropic verkoopt hier gretig tokens, maar negeert schaamteloos onze instituten’ appeared first on Trends.be.",
+   "date": "2026-09-10T15:06:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "WeTransfer-eigenaar legt 1,355 miljard dollar neer voor Miro",
+   "link": "https://tweakers.net/nieuws/252008/wetransfer-eigenaar-legt-1-komma-355-miljard-dollar-neer-voor-miro.html",
+   "description": "Bending Spoons koopt voor 1,355 miljard dollar het zakelijke AI-samenwerkingsplatform Miro. Toezichthouders moeten nog wel goedkeuring geven aan deze overname door de Italiaanse seriekoper die onder meer WeTransfer, Evernote, Vimeo, Meetup en AOL bezit.",
+   "date": "2026-09-10T15:03:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Analist waarschuwt: ‘Koper zit in een zeepbel’",
+   "link": "https://www.tijd.be/r/t/1/id/10685455",
+   "description": "Door speculatief geld is de koperprijs volgens het beurshuis Natixis voorbij zijn fundamentals gehold, zelfs rekening houdend met de extra vraag voor AI-datacenters. 'Zodra de onzekerheid over invoertarieven verdwijnt, zijn de huidige prijzen onhoudbaar.'",
+   "date": "2026-09-10T14:59:16",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TSMC boekt recordomzet in augustus dankzij sterke stijging van vraag naar AI-chips",
+   "link": "https://businessam.be/tsmc-boekt-recordomzet-in-augustus-dankzij-sterke-stijging-van-de-vraag-naar-ai-chips/",
+   "description": "Key takeaways Aangedreven door een aanhoudende vraag naar hardware voor artificiële intelligentie heeft Taiwan Semiconductor Manufacturing (TSMC) in augustus een ongekende omzetmijlpaal bereikt. Recordomzet De toonaangevende contractfabrikant van chips behaalde een omzet van 514,8 miljard nieuwe Taiwanese dollar (ongeveer 13,9 miljard euro), wat neerkomt op een stijging van 53,3 procent ten opzichte van vorig jaar […]",
+   "date": "2026-09-10T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als we ruimte geven aan de menselijke rafelranden, komen we los van het AI-infuus",
+   "link": "https://www.nrc.nl/nieuws/2026/09/10/als-we-ruimte-geven-aan-de-menselijke-rafelranden-komen-we-los-van-het-ai-infuus-a4936040",
+   "description": "Het is volgens Roxane van Iperen de grote paradox van sociale media en AI: we worden eindeloos persoonlijk bediend, maar collectief verdwijnen we in dezelfde monocultuur. Dat stelt universiteiten voor een radicale keuze.",
+   "date": "2026-09-10T14:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU heeft na maanden toegang tot Mythos, het krachtigste AI-model van Anthropic",
+   "link": "https://www.hln.be/tech/eu-heeft-na-maanden-toegang-tot-mythos-het-krachtigste-ai-model-van-anthropic~ae78f122/",
+   "description": "Het Europese cyberveiligheidsagentschap Enisa heeft na maanden van onderhandelingen eindelijk toegang gekregen tot Mythos 5, het krachtigste AI-model van de belangrijke Amerikaanse AI-speler Anthropic. Dat meldt een woordvoerder van de Europese Commissie donderdag.",
+   "date": "2026-09-10T13:31:30",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Prijzen van Chinese AI-chips schieten omhoog door tekort aan HBM-geheugen",
+   "link": "https://businessam.be/prijzen-van-chinese-ai-chips-schieten-omhoog-door-tekort-aan-hbm-geheugen/",
+   "description": "Key takeaways Door een ernstig tekort aan geheugen met hoge bandbreedte (HBM) verhogen toonaangevende Chinese producenten van artificiële-intelligentie-chips de prijzen van hun processors aanzienlijk. Reuters meldt dat bedrijven zoals Cambricon en Huawei Technologies de prijzen voor zowel huidige als toekomstige hardware hebben verhoogd, aangezien de stijgende kosten voor het inkopen van essentiële geheugencomponenten de inspanningen […]",
+   "date": "2026-09-10T13:27:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Volkskrant: AI schreef socialemediaberichten voor premier Jetten",
+   "link": "https://tweakers.net/nieuws/251998/volkskrant-ai-schreef-socialemediaberichten-voor-premier-jetten.html",
+   "description": "Honderden socialemediaberichten van de Nederlandse premier Rob Jetten en zijn partij D66 zijn geschreven door AI. Dat blijkt uit onderzoek van de Volkskrant. D66 bevestigt dat het soms AI gebruikt als hulpmiddel, maar dat iedere post 'begint en eindigt' bij medewerkers.",
+   "date": "2026-09-10T13:01:03",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU heeft na maanden toegang tot Mythos, het krachtigste AI-model van Anthropic",
+   "link": "https://www.gva.be/economie/technologie/eu-heeft-na-maanden-toegang-tot-mythos-het-krachtigste-ai-model-van-anthropic/161250540.html",
+   "description": "Het Europese cyberveiligheidsagentschap Enisa heeft na maanden van onderhandelingen toegang gekregen tot Mythos 5, het krachtigste AI-model van de Amerikaanse groep Anthropic. Dat heeft een woordvoerder van de Europese Commissie donderdag gemeld.",
+   "date": "2026-09-10T12:44:57",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Evapco in Tongeren-Borgloon haalt meer werknemers binnen dan gepland dankzij vraag naar koeling AI-datacenters",
+   "link": "https://vrtnws.be/p.Yby0jELdM",
+   "description": "De Amerikaanse producent van koelsystemen Evapco heeft zijn uitbreiding in Tongeren-Borgloon sneller dan verwacht gerealiseerd. Het bedrijf wilde 100 extra medewerkers aanwerven voor zijn nieuwe fabriek, maar intussen zijn al 112 mensen aan boord gehaald. De groei wordt vooral aangedreven door de sterke vraag naar koelsystemen voor datacenters en toepassingen rond artificiële intelligentie.",
+   "date": "2026-09-10T12:32:24",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat onthoudt een AI-chatbot van je gesprekken of vragen en wat zeg je beter niet tegen AI?",
+   "link": "https://vrtnws.be/p.OvXGpaVyB",
+   "description": "AI-chatbots zoals ChatGPT, Claude of Copilot onthouden meer dan je denkt en houden meer gegevens van je bij dan je misschien lief is. Dat vertelt digitaal expert Tim Verheyden in consumentenprogramma 'WinWin' op Radio 2. Veel hangt af van je instellingen en of de functie 'trainen' geactiveerd is. In sommige gevallen houdt een chatbot bepaalde gegevens tot 5 jaar lang bij.",
+   "date": "2026-09-10T12:30:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaanderen start testen met 'Vlaams Vuurschild' dat natuurbranden onmiddellijk moet detecteren",
+   "link": "https://vrtnws.be/p.jGyJeOA8Y",
+   "description": "Vanaf 2027 wil Vlaams minister van Omgeving Jo Brouns (CD&V) een netwerk van slimme camera's, AI en andere detectietechnologie inzetten om natuurbranden veel sneller op te sporen. Het technologisch schild moet natuurgebied met een hoog brandrisico permanent in de gaten houden en automatisch alarm slaan wanneer rook ontstaat. Onder andere in Noord-Limburg zullen dit najaar verschillende systemen getest worden.",
+   "date": "2026-09-10T11:51:16",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Machtsbronnen | AI boven geopolitiek? ‘TSMC is te groot om links te laten liggen’",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/machtsbronnen-ai-boven-geopolitiek-tsmc-is-te-groot-om-links-te-laten-liggen/",
+   "description": "Taiwan staat centraal in de machtsstrijd tussen China en de Verenigde Staten, maar voor techbelegger Siddy Jobe is dat geen reden om het eiland te mijden. In de nieuwe aflevering van de geopolitieke podcast Machtsbronnen wegen Jobe en Gino Delaere van Econopolis de kansen in Taiwan, Zuid-Korea, Japan en Singapore af. Vooral AI en hervormingen in het Koreaanse bedrijfsleven kunnen de komende jaren voor vuurwerk zorgen.\nThe post Machtsbronnen | AI boven geopolitiek? ‘TSMC is te groot om links te laten liggen’ appeared first on Trends.be.",
+   "date": "2026-09-10T11:21:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 616.92 WHQL",
+   "link": "https://tweakers.net/downloads/78190/geforce-game-ready-driver-61692-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 616.92 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen 007 First Light, Matter, Aniimo, PUBG en Wardogs. Ook zijn er enkele problemen verholpen, maar er zijn er een paar die wel bekend zijn, maar waar nog geen oplossing voor is. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-09-10T11:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-datacenters leveren minder banen op dan gedacht, waarschuwt Britse denktank",
+   "link": "https://businessam.be/ai-datacenters-leveren-minder-banen-op-dan-gedacht-waarschuwt-britse-denktank/",
+   "description": "Key takeaways Een economische denktank waarschuwt dat de uitbreiding van AI-datacenters in het Verenigd Koninkrijk mogelijk veel minder banen oplevert dan de technologiesector voorspiegelt. Terwijl overheidsfunctionarissen en bedrijfsleiders zich bij de rechtvaardiging van nieuwe datacenters hebben gebaseerd op prognoses van brancheorganisatie techUK, stelt de denktank Verdant dat die cijfers het aantal langdurig gecreëerde banen aanzienlijk […]",
+   "date": "2026-09-10T10:57:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] De innovator is de meest irritante collega die je hebt (en dat ben ik)",
+   "link": "https://www.emerce.nl/opinie/innovator-irritantste-collega-ai",
+   "description": "Innovators botsen vaak met behoudende polderculturen, maar door de razendsnelle opkomst van AI is hun ongeduld noodzaak geworden. Technologie zoals AI-agents verandert traditionele bedrijfsprocessen en functietitels in een tempo dat niet kan wachten op trage goedkeuringsrondes. Om niet achter te blijven, moet het management innovators mandaat en de ruimte geven om heilige huisjes omver te schoppen en te sturen op daadwerkelijke, AI-gedreven output.",
+   "date": "2026-09-10T10:30:21",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML steekt nog eens 400 miljoen euro in Europese AI-maker Mistral",
+   "link": "https://tweakers.net/nieuws/251986/asml-steekt-nog-eens-400-miljoen-euro-in-europese-ai-maker-mistral.html",
+   "description": "ASML investeert opnieuw in Europese AI-ontwikkelaar Mistral. De chipmachinemaker steekt deze keer 400 miljoen euro in het AI-bedrijf. Vorig jaar investeerde ASML al in Mistral, toen in ruil voor 11 procent van de aandelen.",
+   "date": "2026-09-10T10:09:11",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opwinding in de wiskunde: OpenAI lost raadsel op waar een miljoen voor was uitgeloofd – in 88 uur",
+   "link": "https://www.nrc.nl/nieuws/2026/09/10/opwinding-in-de-wiskunde-openai-lost-miljoendollarprobleem-op-in-88-uur-a4936274",
+   "description": "OpenAI claimt een van de grootste wiskundige raadsels te hebben opgelost. Het gaat om het Navier-Stokesprobleem, dat door tienduizend samenwerkende ‘agents’ is gekraakt. Zorgen zijn er ook.",
+   "date": "2026-09-10T09:41:37",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omzet TSMC groeit harder in augustus",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/omzet-tsmc-groeit-harder-in-augustus/",
+   "description": "(ABM FN) Taiwan Semiconductor Manufacturing Company heeft in augustus een omzet geboekt van 514,8 miljard Taiwanese dollar. Dit maakte de Taiwanese chipfabrikant donderdag bekend.De omzet steeg daarmee met 10,1 procent ten opzichte van juli en met 53,3 procent vergeleken met augustus vorig jaar. In juli was de omzetgroei op maandbasis 5,6 procent en op jaarbasis 44,7 …\nThe post Omzet TSMC groeit harder in augustus appeared first on Trends.be.",
+   "date": "2026-09-10T09:12:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techbedrijven kijken naar Patagonië voor enorme (AI) datacenters",
+   "link": "https://www.emerce.nl/nieuws/techbedrijven-kijken-patagoni-enorme-ai-datacenters",
+   "description": "De Argentijnse regio Patagonië trekt steeds meer belangstelling van technologiebedrijven en investeerders die op zoek zijn naar locaties voor zeer grote datacenters. Vooral de combinatie van een relatief koel klimaat, veel beschikbare energie en de geringe bevolkingsdichtheid maakt het gebied aantrekkelijk.",
+   "date": "2026-09-10T08:59:31",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump en Xi weten waarover te praten in Washington",
+   "link": "https://www.tijd.be/r/t/1/id/10685284",
+   "description": "De Verenigde Staten en China zijn verwikkeld in een AI-wedloop. Kunnen ze vermijden dat dat conflict uit de hand loopt?",
+   "date": "2026-09-10T08:12:34",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-expert waarschuwt: 10 procent kans dat AI leidt tot uitsterven van de mensheid",
+   "link": "https://businessam.be/anthropic-expert-waarschuwt-10-procent-kans-dat-ai-leidt-tot-uitsterven-van-de-mensheid/",
+   "description": "Key takeaways Een vooraanstaande veiligheidsexpert bij Anthropic heeft de zorgen van een voormalige collega bevestigd en suggereert dat er een kans van meer dan 10 procent bestaat dat kunstmatige intelligentie in de komende tien jaar tot het uitsterven van de mensheid zou kunnen leiden. Evan Hubinger, die bij de organisatie leiding geeft aan Alignment Science, […]",
+   "date": "2026-09-10T07:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom AI nu een pauze nodig heeft (maar die er niet komt)",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/08/waarom-ai-nu-een-pauze-nodig-heeft-en-die-er-niet-komt/",
+   "description": "Computers die zelf gaan hacken. Chatbots die vragen stellen over hun eigen bewustzijn. En AI-modellen die elkaar razendsnel opvolgen. Het tempo van de technologische race smeekt om een pauze, maar die komt er niet: overheden hebben de macht om dat af te dwingen, maar niet de kennis.",
+   "date": "2026-09-10T05:30:03",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-Siri verschijnt deze maand in het Engels, vijf talen volgen in oktober",
+   "link": "https://www.emerce.nl/nieuws/aisiri-verschijnt-deze-maand-engels-vijf-talen-volgen-oktober",
+   "description": "Apple heeft tijdens het evenement Surprise and Shine meer details bekendgemaakt over de uitrol van de vernieuwde Siri met AI. De nieuwe Siri wordt vanaf 14 september, tegelijk met de officiële release van iOS 27, beschikbaar in het Engels. In oktober volgen vijf andere talen: Frans, Japans, Koreaans, Portugees en Spaans.",
+   "date": "2026-09-10T04:25:10",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Heeft OpenAI een wiskundeprobleem gekraakt dat geen mens al kon oplossen?",
    "link": "https://www.standaard.be/natuur-en-wetenschap/heeft-openai-een-wiskundeprobleem-gekraakt-dat-geen-mens-al-kon-oplossen/161202338.html",
@@ -380,6 +677,17 @@
    ],
    "first_seen": "2026-09-10",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Het antwoord op AI in de kunsten is heel simpel",
+   "link": "https://www.trouw.nl/columnisten/het-antwoord-op-ai-in-de-kunsten-is-heel-simpel~b43fd2473/",
+   "description": "",
+   "date": "2026-09-09T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-10",
+   "intro_geprobeerd": true
   },
   {
    "title": "Google investeert 13 miljard euro in Finland voor AI en kernenergie",
