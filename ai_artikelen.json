@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T02:50:21",
+ "generated": "2026-09-11T16:49:58",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 26,
+   "count": 29,
    "error": null
   },
   {
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 1,
+   "count": 2,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 151,
+   "count": 158,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,237 @@
   }
  ],
  "articles": [
+  {
+   "title": "Laat lezen niet aan een chatbot over. Ons denkvermogen staat op het spel",
+   "link": "https://www.standaard.be/opinies/laat-lezen-niet-aan-een-chatbot-over.-ons-denkvermogen-staat-op-het-spel/161303609.html",
+   "description": "Begrijpend lezen hoort in hetzelfde rijtje overlevingsskills als zwemmen, schrijft Charlotte Baert: zonder kun je het hoofd niet boven water houden.",
+   "date": "2026-09-11T16:01:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Britse economie groeit in juli met 0,4 procent dankzij productiviteitsstijging door AI",
+   "link": "https://businessam.be/britse-economie-groeit-in-juli-met-04-procent-dankzij-productiviteitsstijging-door-ai/",
+   "description": "Key takeaways De Britse economie kende in juli een verrassende groei van 0,4 procent, waarmee de voorspellingen van analisten over stagnatie werden overtroffen. Volgens gegevens van het Office for National Statistics (ONS) werd de opwaartse trend grotendeels aangedreven door de dienstensector, met name op het gebied van administratieve functies en IT-consultancy. Een aanzienlijk deel van […]",
+   "date": "2026-09-11T15:48:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI kan alle mensen doden’, zeggen AI-ontwikkelaars in de VS, en dus vragen politici om maatregelen",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/ai-kan-alle-mensen-doden-zeggen-ai-ontwikkelaars-in-de-vs-en-dus-vragen-politici-om-maatregelen~b0317e74/",
+   "description": "",
+   "date": "2026-09-11T15:01:41",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Walter Damen ziet digitale revolutie versnellen: “Laat machines gerust slimmer worden, zolang wij niet dommer worden”",
+   "link": "https://www.hln.be/showbizz/walter-damen-ziet-digitale-revolutie-versnellen-laat-machines-gerust-slimmer-worden-zolang-wij-niet-dommer-worden~ad9f8819/",
+   "description": "Scherp als het moet, mild als het kan... Met dezelfde passie waarmee hij zijn pleidooien voert, becommentarieert topadvocaat Walter Damen (52) in ‘Dag Allemaal’ wat hem én u bezighoudt. Vandaag ziet hij hoe de digitale revolutie door AI in een hogere versnelling schiet. “Fascinerend, maar het verplicht ons ook tot waakzaamheid.”",
+   "date": "2026-09-11T13:00:00",
+   "feeds": [
+    "HLN - Opinie"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Adobe kan beleggers niet overtuigen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/adobe-kan-beleggers-niet-overtuigen/",
+   "description": "(ABM FN-Dow Jones) Adobe heeft in het derde kwartaal van zijn lopende boekjaar beter dan verwachte resultaten geboekt en de outlook werd donderdagavond verhoogd. Toch lijken beleggers niet overtuigd, want het aandeel is vrijdag op weg naar een openingsverlies van bijna 4 procent. CEO Shantanu Narayen sprak evenwel van recordresultaten, die \"de kracht van onze AI-innovatie, …\nThe post Adobe kan beleggers niet overtuigen appeared first on Trends.be.",
+   "date": "2026-09-11T12:52:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De doemscenario’s rond AI stapelen zich op: is dit het kantelpunt?",
+   "link": "https://www.standaard.be/economie/de-doemscenarios-rond-ai-stapelen-zich-op-is-dit-het-kantelpunt/161294921.html",
+   "description": "Zwermen van AI-agents die aan menselijke controle ontsnappen, booswichten die Claude gebruikten om een biologisch wapen te ontwikkelen (maar op tijd werden gestopt): de ergste angsten rond artificiële intelligentie werden de voorbije dagen bevestigd. Kan dit een keerpunt worden?",
+   "date": "2026-09-11T12:39:07",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Computerlinguïst Walter Daelemans: ‘Geef alle studenten een abonnement op een goed AI-model’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/computerlinguist-walter-daelemans-ik-geloof-niet-in-een-ai-hiroshima-ai-modellen-hebben-geen-intenties/",
+   "description": "Taalmodellen als ChatGPT werken al verbluffend goed en zullen alleen maar beter worden. Aan de vooravond van zijn emeritaat ziet computerlinguïst Walter Daelemans (UAntwerpen) naast de evidente voordelen één groot gevaar. ‘Je moet zelf wel weten wat een goede tekst, een sterke vertaling of een deugdelijk onderzoek is.’\nThe post Computerlinguïst Walter Daelemans: ‘Geef alle studenten een abonnement op een goed AI-model’ appeared first on Knack.",
+   "date": "2026-09-11T11:50:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deze toponderzoeker beweert dat AI de mensheid kan uitroeien tegen het einde van dit decennium. Hoe serieus moeten we dat nemen?",
+   "link": "https://www.hln.be/binnenland/deze-toponderzoeker-beweert-dat-ai-de-mensheid-kan-uitroeien-tegen-het-einde-van-dit-decennium-hoe-serieus-moeten-we-dat-nemen~a6ab6604/",
+   "description": "Gaat AI ons tegen het einde van het decennium allemaal doden? Het klinkt als de nieuwste blockbuster van Christopher Nolan, maar in de bestuurskamers van Silicon Valley is het dodelijke ernst. “De mensen die AI bouwen, geloven oprecht dat het kan”, waarschuwt de 27-jarige toponderzoeker Jacob Coxon, die abrupt de deur achter zich dichttrok bij AI-gigant Anthropic. AI-hacker Inti De Ceukelaire erkent het gevaar, maar ziet ook opportuniteiten: welke rol kunnen tech-Belgen spelen?",
+   "date": "2026-09-11T11:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Een werkomgeving op maat van AI-agents",
+   "link": "https://www.tijd.be/r/t/1/id/10685369",
+   "description": "Zoals websites ooit werden geoptimaliseerd voor Google, kunnen bedrijven straks ook gaan optimaliseren voor agents. Maar wat dan met menselijke gebruikers?",
+   "date": "2026-09-11T10:45:46",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[column] Onze strijd tegen AI-slop",
+   "link": "https://www.emerce.nl/opinie/column-onze-strijd-tegen-aislop",
+   "description": "Het aanbod van AI-gegenereerde content groeit explosief, maar leidt vaak tot lage kwaliteit: zogenaamde 'AI-slop' of 'AI-rotzooi'. Platforms proberen zich hiertegen te wapenen, maar ook bedrijven merken de gevolgen. Aan de hand van een praktijkexperiment met co-Founded by AI laten de auteurs zien dat AI de productie weliswaar razendsnel maakt, maar nooit de menselijke verantwoordelijkheid kan overnemen. Zowel bij teksten, productbeelden als technische ontwerpen blijkt menselijk oordeel, broncontrole en kwaliteitsbewaking onmisbaar. Snelle AI-productie moet altijd worden gecombineerd met kritische menselijke keuzes.",
+   "date": "2026-09-11T10:30:04",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Infographic: Scandinavische investeringen in AI-infra 2026",
+   "link": "https://www.emerce.nl/nieuws/infographic-scandinavische-ai-infra-2026",
+   "description": "Goedkope stroom, natuurlijke koeling en heel veel ruimte voor datacentra. Scandinavië blijkt een vruchtbare voedingsbodem voor investeringen in AI-infra en datacentra. Wat gebeurde er in 2026 alleen?",
+   "date": "2026-09-11T09:51:56",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI staat open voor vertraging in ontwikkeling AI",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/openai-staat-open-voor-vertraging-in-ontwikkeling-ai/",
+   "description": "OpenAI overweegt de ontwikkeling van geavanceerde artificiële intelligentie (AI) af te remmen. Bronnen van persbureau Bloomberg melden dat topman Sam Altman dat deze week tijdens een vergadering aan zijn medewerkers heeft laten weten.\nThe post OpenAI staat open voor vertraging in ontwikkeling AI appeared first on Trends.be.",
+   "date": "2026-09-11T09:10:41",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Plan - Dev Summit 2026 met Dylan Beattie: 'Aan DNS valt niet te ontsnappen'",
+   "link": "https://tweakers.net/plan/4810/dev-summit-2026-met-dylan-beattie-aan-dns-valt-niet-te-ontsnappen.html",
+   "description": "In amper twaalf maanden is AI veranderd van een zichtbaar gebrekkige code-assistent in gereedschap dat Dylan Beattie daadwerkelijk bij echte projecten gebruikt. Die snelle ontwikkeling maakt hem enthousiast, maar roept ook een ongemakkelijke vraag op: als AI steeds meer code schrijft, wie begrijpt dan nog de systemen onder die code?",
+   "date": "2026-09-11T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GPT-6 Astra vraagt zoveel rekenkracht dat OpenAI Pro pauzeert",
+   "link": "https://tweakers.net/nieuws/252034/gpt-6-astra-vraagt-zoveel-rekenkracht-dat-openai-pro-pauzeert.html",
+   "description": "OpenAI laat tijdelijk geen nieuwe gebruikers toe tot ChatGPT Pro, het duurste abonnement van 103 euro per maand. Volgens het bedrijf wordt het nieuwe Astra-model zo veel gebruikt dat ook andere systemen onder druk komen te staan.",
+   "date": "2026-09-11T07:50:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Adobe passeert grens van 1 miljard maandelijks actieve gebruikers en verhoogt jaarverwachting",
+   "link": "https://www.emerce.nl/nieuws/adobe-passeert-grens-1-miljard-maandelijks-actieve-gebruikers-verhoogt-jaarverwachting",
+   "description": "Adobe heeft in het derde kwartaal de grens van 1 miljard maandelijks actieve gebruikers overschreden. Het softwarebedrijf verhoogt daarnaast zijn verwachting voor het volledige boekjaar, terwijl het steeds meer inzet op gratis AI-functionaliteit om nieuwe gebruikers aan te trekken.",
+   "date": "2026-09-11T07:43:10",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD introduceert de Threadripper Halo Station AI-supercomputer",
+   "link": "https://businessam.be/amd-introduceert-de-threadripper-halo-station-ai-supercomputer/",
+   "description": "Key takeaways Op de Internationale Funkausstellung in Berlijn introduceerde AMD het Threadripper Halo Station, een apparaat dat zij omschrijven als een ‘persoonlijke supercomputer’, gebouwd voor een AI-gericht computertijdperk. Dit high-end werkstation, gepresenteerd door Senior Vice President Jack Huynh, is ontworpen om datacenter-mogelijkheden te bieden binnen de voetafdruk van een desktop, om zo te voldoen aan […]",
+   "date": "2026-09-11T07:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Artificiële intelligentie maakt verzekeringen menselijker’",
+   "link": "https://trends.knack.be/opinie/artificiele-intelligentie-maakt-verzekeringen-menselijker/",
+   "description": "Als CEO van een verzekeringsmakelaar heb ik regelmatig persoonlijk contact met bedrijfsleiders. Wat me telkens opvalt, is hoeveel belang zij hechten aan de menselijke kant van ondernemen. Maar ook het vertrouwen dat zij stellen in hun verzekeringsmakelaar. Verzekeringen raken aan de continuïteit van hun onderneming, en daar ligt elke ondernemer van wakker. Brandt een fabriekshal …\nThe post ‘Artificiële intelligentie maakt verzekeringen menselijker’ appeared first on Trends.be.",
+   "date": "2026-09-11T07:17:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI overweegt ontwikkeling van geavanceerde AI af te remmen na waarschuwingen over risico’s",
+   "link": "https://www.demorgen.be/tech-wetenschap/openai-overweegt-ontwikkeling-van-geavanceerde-ai-af-te-remmen-na-waarschuwingen-over-risico-s~bfd5bd10/",
+   "description": "",
+   "date": "2026-09-11T06:38:00",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Print.com sluit dienstverlening aan op ChatGPT",
+   "link": "https://www.emerce.nl/nieuws/printcom-sluit-dienstverlening-chatgpt",
+   "description": "Print.com is deze week als eerste printplatform met een eigen plugin in ChatGPT live gegaan. Klanten van het bedrijf uit Deventer kunnen sinds deze lancering rechtstreeks in de chat vragen naar prijzen, levertijden en productopties, en komen met één klik uit bij hun eigen bestelling in de webapp.",
+   "date": "2026-09-11T06:35:03",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI zegt open te staan voor vertraging in ontwikkeling AI",
+   "link": "https://www.ad.nl/tech/openai-zegt-open-te-staan-voor-vertraging-in-ontwikkeling-ai~afd5bd10/",
+   "description": "OpenAI zegt te overwegen om de ontwikkeling van geavanceerde kunstmatige intelligentie af te remmen. Bronnen van persbureau Bloomberg melden dat topman Sam Altman dat deze week tijdens een vergadering aan zijn medewerkers heeft laten weten.",
+   "date": "2026-09-11T05:40:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI staat open voor vertraging in ontwikkeling AI",
+   "link": "https://www.gva.be/economie/bedrijven/openai-staat-open-voor-vertraging-in-ontwikkeling-ai/161291443.html",
+   "description": "OpenAI overweegt de ontwikkeling van geavanceerde artificiële intelligentie (AI) af te remmen. Bronnen van persbureau Bloomberg melden dat topman Sam Altman dat deze week tijdens een vergadering aan zijn medewerkers heeft laten weten.",
+   "date": "2026-09-11T05:36:02",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Steven Van Ammel: “U wilt dat uw kinderen lezen? Bezoek dan ook eens de jeugdafdeling van de boekhandel”",
    "link": "https://www.standaard.be/media-en-cultuur/boeken/steven-van-ammel-u-wilt-dat-uw-kinderen-lezen-bezoek-dan-ook-eens-de-jeugdafdeling-van-de-boekhandel/161075075.html",
@@ -453,6 +684,17 @@
   {
    "title": "DeepSeek lanceert V4.1-Flash en stopt met V4-Pro",
    "link": "https://tweakers.net/nieuws/252018/deepseek-lanceert-v41-flash-en-stopt-met-v4-pro.html",
+   "description": "Het Chinese AI-bedrijf DeepSeek heeft V4.1-Flash uitgebracht, een nieuwe versie van zijn AI-model. Wie vanaf komende week nog V4-Pro wil gebruiken, komt automatisch uit bij V4.1-Flash, dat volgens het bedrijf beter presteert en veel goedkoper is.",
+   "date": "2026-09-10T18:31:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek brengt V4.1-Flash uit en stopt met V4-Pro",
+   "link": "https://tweakers.net/nieuws/252018/deepseek-brengt-v41-flash-uit-en-stopt-met-v4-pro.html",
    "description": "Het Chinese AI-bedrijf DeepSeek heeft V4.1-Flash uitgebracht, een nieuwe versie van zijn AI-model. Wie vanaf komende week nog V4-Pro wil gebruiken, komt automatisch uit bij V4.1-Flash, dat volgens het bedrijf beter presteert en veel goedkoper is.",
    "date": "2026-09-10T18:31:00",
    "feeds": [
