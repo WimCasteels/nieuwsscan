@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T16:48:09",
+ "generated": "2026-09-11T02:50:21",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 153,
+   "count": 151,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,207 @@
   }
  ],
  "articles": [
+  {
+   "title": "Steven Van Ammel: “U wilt dat uw kinderen lezen? Bezoek dan ook eens de jeugdafdeling van de boekhandel”",
+   "link": "https://www.standaard.be/media-en-cultuur/boeken/steven-van-ammel-u-wilt-dat-uw-kinderen-lezen-bezoek-dan-ook-eens-de-jeugdafdeling-van-de-boekhandel/161075075.html",
+   "description": "Behalve talloze besparingen en kwalijke algoritmes is er nog een schuldige van de ontlezing bij kinderen en jongeren, weet Steven Van Ammel.",
+   "date": "2026-09-10T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle boekte sterke groei in eerste kwartaal",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/oracle-boekte-sterke-groei-in-eerste-kwartaal/",
+   "description": "(ABM FN-Dow Jones) Oracle heeft een erg solide eerste kwartaal achter de rug. Dit bleek donderdag nabeurs uit de gepubliceerde kwartaalcijfers. Het aandeel steeg nabeurs met bijna zeven procent.Dankzij een enorme vraag naar AI-diensten en cloudinfrastructuur schoot de totale omzet met 30 procent omhoog naar 19,3 miljard dollar. Het techbedrijf profiteert volop van de AI-boom en …\nThe post Oracle boekte sterke groei in eerste kwartaal appeared first on Trends.be.",
+   "date": "2026-09-10T22:36:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zweden bestrijdt AI-desinformatie in de aanloop naar de parlementsverkiezingen",
+   "link": "https://businessam.be/zweden-bestrijdt-ai-desinformatie-in-de-aanloop-naar-de-parlementsverkiezingen/",
+   "description": "Key takeaways Zweden voert zijn strategieën ter bestrijding van buitenlandse desinformatie en systematische manipulatie van het politieke debat op in de aanloop naar de parlementsverkiezingen op 13 september. Deze verhoogde waakzaamheid komt voort uit het besef van de regering dat de snelle ontwikkeling van sociale media en artificiële intelligentie een veerkrachtigere aanpak vereist om het […]",
+   "date": "2026-09-10T22:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opinie: AI-detectie als Pangram inzetten creëert een cultuur van wantrouwen",
+   "link": "https://www.trouw.nl/opinie/opinie-ai-detectie-als-pangram-inzetten-creeert-een-cultuur-van-wantrouwen~b5bc8a501/",
+   "description": "",
+   "date": "2026-09-10T22:00:32",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic verijdelt mogelijke plannen om biologische wapens met AI-modellen te maken",
+   "link": "https://www.standaard.be/buitenland/anthropic-verijdelt-mogelijke-plannen-om-biologische-wapens-met-ai-modellen-te-maken/161283346.html",
+   "description": "AI-bedrijf Anthropic zou het afgelopen jaar verschillende onderzoeken geblokkeerd hebben die gebruikmaakten van zijn modellen. Zo zou dezelfde technologie die tot nieuwe vaccins kan leiden, ook gebruikt kunnen worden om nieuwe ziekteverwekkers te ontwikkelen.",
+   "date": "2026-09-10T20:57:57",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'DeepSeek stuurde prompts door naar Claude zonder dat klanten dat wisten'",
+   "link": "https://tweakers.net/nieuws/252032/deepseek-stuurde-prompts-door-naar-claude-zonder-dat-klanten-dat-wisten.html",
+   "description": "Chinese AI-bedrijven, waaronder DeepSeek en Moonshot, zouden zonder klanten daarvan op de hoogte te stellen prompts hebben laten beantwoorden door Claude in plaats van de eigen modellen. Dat deden ze via proxy-accounts in onder meer Singapore en Japan.",
+   "date": "2026-09-10T20:56:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Grote platenmaatschappij werkt aan eigen AI-platform voor remixes en mash-ups",
+   "link": "https://tweakers.net/nieuws/252028/grote-platenmaatschappij-werkt-aan-eigen-ai-platform-voor-remixes-en-mash-ups.html",
+   "description": "Universal Music Group (UMG), een van de grootste platenmaatschappijen ter wereld, gaat een AI-platform uitbrengen om muziek van zijn artiesten te remixen, mash-ups te maken en liedjes te herinterpreteren.",
+   "date": "2026-09-10T20:32:23",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta brengt AI-agent uit die zelfstandig kan e-mails versturen en reizen boeken",
+   "link": "https://www.hln.be/internet/meta-brengt-ai-agent-uit-die-zelfstandig-kan-e-mails-versturen-en-reizen-boeken~a01de7f5/",
+   "description": "Meta brengt een AI-agent uit die zelfstandig taken kan uitvoeren in opdracht van een gebruiker. De digitale assistent, die Muse heet, is beschikbaar via een webbrowser en een app voor Android en iOS. De agent werkt in een afgesloten omgeving, maar onlangs ontsnapte een AI van Meta juist uit zo’n omgeving.",
+   "date": "2026-09-10T19:13:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Muse de band ruimt baan voor Muse de AI, Britten breken wereldrecord Vulcan-groet",
+   "link": "https://www.standaard.be/media-en-cultuur/muse-de-band-ruimt-baan-voor-muse-de-ai-britten-breken-wereldrecord-vulcan-groet/161238317.html",
+   "description": "Wie in BV-land of Hollywood vertoeft, op de rode loper of in de wandelgangen, komt al eens op bezoek in deze rubriek.",
+   "date": "2026-09-10T19:01:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brederode boekt hoogste winst in jaren",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/brederode-boekt-hoogste-winst-in-jaren/",
+   "description": "(ABM FN) Brederode heeft in de eerste helft van het jaar de hoogste winst geboekt in jaren, nadat de aandelenportefeuille profiteerde van enthousiasme bij beleggers voor kunstmatige intelligentie (AI). Dat bleek donderdag uit de halfjaarupdate van de Luxemburgse investeerder met een notering in Brussel. De nettowinst van 347,6 miljoen euro is de hoogste winst sinds 2021. Een …\nThe post Brederode boekt hoogste winst in jaren appeared first on Trends.be.",
+   "date": "2026-09-10T19:00:46",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe schadelijk is het dat een premier AI gebruikt voor berichten op sociale media? Jetten reageert luchtig: ‘Ja, net als driekwart van de Nederlanders gebruik ik af en toe AI’",
+   "link": "https://www.nrc.nl/nieuws/2026/09/10/hoe-schadelijk-is-het-dat-een-premier-ai-gebruikt-voor-berichten-op-sociale-media-jetten-reageert-luchtig-ja-net-als-driekwart-van-de-nederlanders-gebruik-ik-af-en-toe-ai-a4936349",
+   "description": "Ineens duikt op sociale media weer zijn bijnaam ‘Robot Jetten’ op, nu blijkt dat een aantal berichten van premier Rob Jetten is gegenereerd door AI. Volgens experts dreigt afbreuk aan het imago en de authenticiteit van een politicus die zoiets doet.",
+   "date": "2026-09-10T18:47:25",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-onderzoeker waarschuwt voor uitroeiing tegen 2030: waarom experts vooral vrezen voor verlies van controle",
+   "link": "https://www.demorgen.be/tech-ai/ai-onderzoeker-waarschuwt-voor-uitroeiing-tegen-2030-waarom-experts-vooral-vrezen-voor-verlies-van-controle~b8007137/",
+   "description": "",
+   "date": "2026-09-10T18:33:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "DeepSeek lanceert V4.1-Flash en stopt met V4-Pro",
+   "link": "https://tweakers.net/nieuws/252018/deepseek-lanceert-v41-flash-en-stopt-met-v4-pro.html",
+   "description": "Het Chinese AI-bedrijf DeepSeek heeft V4.1-Flash uitgebracht, een nieuwe versie van zijn AI-model. Wie vanaf komende week nog V4-Pro wil gebruiken, komt automatisch uit bij V4.1-Flash, dat volgens het bedrijf beter presteert en veel goedkoper is.",
+   "date": "2026-09-10T18:31:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het Duitse leger test AI-tools om beslissingen in gevechtssituaties te versnellen",
+   "link": "https://businessam.be/het-duitse-leger-test-ai-tools-om-beslissingen-in-gevechtssituaties-te-versnellen/",
+   "description": "Key takeaways De Duitse strijdkrachten beoordelen momenteel 30 verschillende AI-toepassingen die zijn ontworpen om de tactische besluitvorming tijdens gevechtssituaties te versnellen. Volgens vice-admiraal Thomas Daum, hoofd van de cyberdivisie van het leger, is het doel om tegen het tweede kwartaal van 2027 een functioneel prototype te ontwikkelen, waarbij de volledige implementatie naar verwachting in 2028 […]",
+   "date": "2026-09-10T18:26:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alle jubelverhalen van de grote spelers in AI gaan vergezeld met alarmerende berichten uit exact hetzelfde kamp",
+   "link": "https://www.volkskrant.nl/tech/alle-jubelverhalen-van-de-grote-spelers-in-ai-gaan-vergezeld-met-alarmerende-berichten-uit-exact-hetzelfde-kamp~b6b1ba11/",
+   "description": "",
+   "date": "2026-09-10T18:00:20",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe weet je of teksten of beelden met AI zijn gemaakt? Met AI-detectie: zo werkt het",
+   "link": "https://www.volkskrant.nl/beter-leven/hoe-weet-je-of-teksten-of-beelden-met-ai-zijn-gemaakt-met-ai-detectie-zo-werkt-het~b415d8fb/",
+   "description": "",
+   "date": "2026-09-10T18:00:14",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Toponderzoekers Anthropic waarschuwen: AI kan mensheid uitroeien voor 2030, maar hoe realistisch is dat?",
+   "link": "https://www.ad.nl/tech/toponderzoekers-anthropic-waarschuwen-ai-kan-mensheid-uitroeien-voor-2030-maar-hoe-realistisch-is-dat~af9fcf8a/",
+   "description": "Toponderzoekers van AI-gigant Anthropic luiden de noodklok: AI kan de mensheid uitroeien. Hun bedrijf zou veel meer moeten doen om zo’n scenario te voorkomen, menen zij. Gaan we er allemaal aan door AI? Onderzoekers zitten in twee kampen, de doomers en de boomers.",
+   "date": "2026-09-10T17:27:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS onderzoeken Nvidia-deal met Groq op mogelijke antitrustschending",
+   "link": "https://businessam.be/vs-onderzoeken-nvidia-deal-met-groq-op-mogelijke-antitrustschending/",
+   "description": "Key takeaways Volgens The New York Times onderzoekt het Amerikaanse Ministerie van Justitie een licentieovereenkomst tussen Nvidia en de AI-startup Groq. Ambtenaren onderzoeken of de voorwaarden van de samenwerking bewust zijn opgesteld om de antitrustregels te omzeilen. Overeenkomst De controverse draait om een vorig jaar gesloten overeenkomst ter waarde van 17 miljard dollar (14,6 miljard […]",
+   "date": "2026-09-10T16:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Limburgse snelwegen zijn testterrein voor zelfrijdende auto's van niveau 4",
    "link": "https://vrtnws.be/p.mR0xQ6EVj",
