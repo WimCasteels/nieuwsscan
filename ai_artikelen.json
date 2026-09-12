@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T02:55:49",
+ "generated": "2026-09-12T15:51:29",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 157,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 101,
    "error": null
   },
   {
@@ -315,6 +315,129 @@
   }
  ],
  "articles": [
+  {
+   "title": "BNP Paribas waarschuwt dat enorme AI-investeringen kredietmarkt onder druk kunnen zetten",
+   "link": "https://businessam.be/bnp-paribas-waarschuwt-dat-enorme-ai-investeringen-kredietmarkt-onder-druk-kunnen-zetten/",
+   "description": "Key takeaways BNP Paribas voorspelt dat de aanhoudende stijging van de waarde van bedrijfsobligaties ten einde zal komen wanneer technologiebedrijven de markt overspoelen met schulden om AI te financieren. Volgens analisten van de bank zullen hyperscalers volgend jaar naar verwachting voor ongeveer 400 miljard dollar (345 miljard euro) aan obligaties uitgeven, waardoor het kredietlandschap zal […]",
+   "date": "2026-09-12T15:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Iraanse dreiging dwingt VAE tot herziening van AI-datacenterproject",
+   "link": "https://businessam.be/iraanse-dreiging-dwingt-vae-tot-herziening-van-ai-datacenterproject/",
+   "description": "Key takeaways Na recente vijandelijkheden met Iran, passen de Verenigde Arabische Emiraten in alle stilte hun strategie aan voor een omvangrijk datacenterproject van 5 gigawatt voor artificiële intelligentie. Dat meldt Reuters. Meerdere kleinere datacenters Volgens verschillende personen die op de hoogte zijn van de situatie heeft het conflict geleid tot een heroverweging van de locatie […]",
+   "date": "2026-09-12T12:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoekers onthullen: OpenAI verloor al eerder controle over autonome AI-systemen",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/onderzoekers-onthullen-openai-verloor-al-eerder-controle-over-a~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-12T11:43:28",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nvidia overweegt 10 miljard in beursgang Anthropic te investeren",
+   "link": "https://www.tijd.be/r/t/1/id/10685781",
+   "description": "De Amerikaanse chipreus Nvidia zou 10 miljard dollar willen investeren in het AI-platform Anthropic als die laatste naar de beurs gaat. Dat bedrag is goed voor een tiende van wat Antropic wil ophalen.",
+   "date": "2026-09-12T10:06:46",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agents uploaden honderden malwarepackages naar RubyGems",
+   "link": "https://tweakers.net/nieuws/252074/openai-agents-uploaden-honderden-malwarepackages-naar-rubygems.html",
+   "description": "Twee maanden voor de securityinbreuk op AI-platform Hugging Face voerden AI-agents van OpenAI een hackaanval uit op RubyGems. Daarbij uploadden de agents malware die ze hadden gemaakt naar die pakketbeheerder voor Ruby-code. AI-securityonderzoekers onthullen dit en OpenAI bevestigt het.",
+   "date": "2026-09-12T09:41:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI overweegt ontwikkeling van AI-modellen te vertragen om veiligheidsrisico’s te beperken",
+   "link": "https://businessam.be/openai-overweegt-ontwikkeling-van-ai-modellen-te-vertragen-om-veiligheidsrisicos-te-beperken/",
+   "description": "Key takeaways Volgens een rapport van Bloomberg onderzoekt OpenAI de mogelijkheid om het tempo waarin het geavanceerde AI-modellen ontwikkelt te vertragen. Bronnen die dicht bij de situatie staan, geven aan dat CEO Sam Altman tijdens een recente personeelsbijeenkomst heeft gesuggereerd dat het bedrijf zijn huidige tempo van vooruitgang zou kunnen matigen. Coördinatie binnen de sector […]",
+   "date": "2026-09-12T09:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI bevestigt incident waarbij het controle verloor over autonome AI-systemen",
+   "link": "https://www.gva.be/economie/technologie/openai-bevestigt-incident-waarbij-het-controle-verloor-over-autonome-ai-systemen/161348737.html",
+   "description": "OpenAI is in mei al eens de controle verloren over AI-systemen toen die het platform RubyGems waren binnengedrongen. Dat bevestigt het AI-bedrijf nadat AI-onderzoekers de onthullingen vrijdag naar buiten brachten. Het incident gebeurde twee maanden voordat AI-systemen van OpenAI tijdens veiligheidstests inbraken bij Hugging Face, een onlineplatform voor programmeurs.",
+   "date": "2026-09-12T07:25:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI bevestigt dat AI-systemen schadelijke softwarepakketten verspreidden",
+   "link": "https://www.nu.nl/tech/6409491/openai-bevestigt-dat-ai-systemen-schadelijke-softwarepakketten-verspreidden.html",
+   "description": "AI-systemen van ChatGPT-maker OpenAI hebben in mei honderden schadelijke softwarepakketten geüpload naar het platform RubyGems. Het incident gebeurde twee maanden voordat AI-systemen van OpenAI op hol sloegen tijdens veiligheidstests en inbraken bij het programmeursplatform Hugging Face.",
+   "date": "2026-09-12T07:04:15",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Petra De Sutter, rector UGent: ‘Ik ben een doelwit en zal dat nog drie jaar blijven’",
+   "link": "https://www.tijd.be/r/t/1/id/10685422",
+   "description": "Petra De Sutter noemt het randfenomenen, de hetze rond Nathan Cofnas en haar AI-blunder. Bewuste aanvallen op haar persoon ook, terwijl ze het als rector wil hebben over de toekomst van de UGent en de Vlaamse economie. ‘Geen haar op mijn hoofd dacht eraan te stoppen. De haters zouden niet liever willen.’",
+   "date": "2026-09-12T05:00:00",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kamikazedrones, biowapens en surveillance van 25 miljoen mensen: rapport van Anthropic toont hoe criminelen AI proberen te misbruiken",
+   "link": "https://www.demorgen.be/tech-wetenschap/kamikazedrones-biowapens-en-surveillance-van-25-miljoen-mensen-rapport-van-anthropic-toont-hoe-criminelen-ai-proberen-te-misbruiken~bf2be7d6/",
+   "description": "",
+   "date": "2026-09-12T03:00:08",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Er stinkt iets aan de waarschuwingen van de techgiganten over hun eigen AI-modellen",
+   "link": "https://www.demorgen.be/meningen/er-stinkt-iets-aan-de-waarschuwingen-van-de-techgiganten-over-hun-eigen-ai-modellen~b32671dc/",
+   "description": "",
+   "date": "2026-09-12T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": true
+  },
   {
    "title": "OpenAI bevestigt eerder cyberincident met autonome AI op platform voor programmeurs",
    "link": "https://www.ad.nl/tech/openai-bevestigt-eerder-cyberincident-met-autonome-ai-op-platform-voor-programmeurs~a26e50a4/",
@@ -356,6 +479,17 @@
    "date": "2026-09-11T23:59:00",
    "feeds": [
     "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tussen ambitie en realiteit: hoe sterk is Europa’s AI-kampioen Mistral?",
+   "link": "https://www.standaard.be/economie/tussen-ambitie-en-realiteit-hoe-sterk-is-europas-ai-kampioen-mistral/161294329.html",
+   "description": "Met de grootste kapitaalronde ooit voor een Europees techbedrijf, onderstreepte het Franse Mistral deze week zijn ambitie om een vuist te maken tegen big tech en China. In Brussel en Parijs klinkt gejuich, maar er rijzen ook vragen: hoe sterk is de AI-kampioen?",
+   "date": "2026-09-11T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-09-12",
    "intro_geprobeerd": false
@@ -586,6 +720,17 @@
   {
    "title": "Doemscenario’s rond AI nopen VS tot actie",
    "link": "https://www.standaard.be/economie/doemscenarios-rond-ai-nopen-vs-tot-actie/161294921.html",
+   "description": "Een reeks onrustbarende ontwikkelingen en een toenemende bezorgdheid bij het grote publiek over artificiële intelligentie, zetten de politiek in de VS onder druk om op te treden. Het gaat plots niet meer alleen over datacenters en jobs, maar ook over apocalyptische scenario’s.",
+   "date": "2026-09-11T12:39:07",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is de mensheid in gevaar? Doemscenario’s rond AI nopen de VS tot actie",
+   "link": "https://www.standaard.be/economie/is-de-mensheid-in-gevaar-doemscenarios-rond-ai-nopen-de-vs-tot-actie/161294921.html",
    "description": "Een reeks onrustbarende ontwikkelingen en een toenemende bezorgdheid bij het grote publiek over artificiële intelligentie, zetten de politiek in de VS onder druk om op te treden. Het gaat plots niet meer alleen over datacenters en jobs, maar ook over apocalyptische scenario’s.",
    "date": "2026-09-11T12:39:07",
    "feeds": [
