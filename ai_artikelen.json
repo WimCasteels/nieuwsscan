@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T16:49:58",
+ "generated": "2026-09-12T02:55:49",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 97,
    "error": null
   },
   {
@@ -316,6 +316,197 @@
  ],
  "articles": [
   {
+   "title": "OpenAI bevestigt eerder cyberincident met autonome AI op platform voor programmeurs",
+   "link": "https://www.ad.nl/tech/openai-bevestigt-eerder-cyberincident-met-autonome-ai-op-platform-voor-programmeurs~a26e50a4/",
+   "description": "AI-systemen van ChatGPT-maker OpenAI hebben al in mei honderden schadelijke softwarepakketten geüpload naar het programmeursplatform RubyGems. Dat zeggen AI-onderzoekers.",
+   "date": "2026-09-12T02:01:20",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jim Tehupuring (1Vermogensbeheer) vertrouwt op een solide retailer en zet in op de energie- en AI-revolutie",
+   "link": "https://www.standaard.be/economie/geld/jim-tehupuring-1vermogensbeheer-vertrouwt-op-een-solide-retailer-en-zet-in-op-de-energie-en-ai-revolutie/161230418.html",
+   "description": "De actief beheerde portefeuilles bij 1Vermogensbeheer, met de focus op de lange termijn, bestaan uit drie segmenten: BeNe (België en Nederland), Holdings en Global Opportunities.",
+   "date": "2026-09-12T01:00:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kan het Franse Mistral Europa’s eigen AI-kampioen worden?",
+   "link": "https://www.standaard.be/economie/kan-het-franse-mistral-europas-eigen-ai-kampioen-worden/161294329.html",
+   "description": "Met de grootste kapitaalronde ooit voor een Europees techbedrijf, onderstreepte het Franse Mistral deze week zijn ambitie om een vuist te maken tegen big tech en China. In Brussel en Parijs klinkt gejuich, maar er rijzen ook vragen: hoe sterk is de AI-kampioen?",
+   "date": "2026-09-11T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Je kunt niet eeuwig blijven beweren dat AGI een pr-stunt is",
+   "link": "https://www.standaard.be/opinies/je-kunt-niet-eeuwig-blijven-beweren-dat-agi-een-pr-stunt-is/161311961.html",
+   "description": "Het heeft geen zin het nog langer te ontkennen, schrijft Vincent Ginis: AGI krijgt volop gestalte en evolueert snel voorbij onze controle.",
+   "date": "2026-09-11T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Terugval olieprijs stuwt Wall Street, met Dell in glansrol",
+   "link": "https://www.tijd.be/r/t/1/id/10685770",
+   "description": "Het dikke orderboekje van Oracle gaf de producenten van AI-servers vleugels.",
+   "date": "2026-09-11T22:03:05",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Houthi-rebellen gebruikten Claude AI om raketsoftware te ontwikkelen",
+   "link": "https://businessam.be/houthi-rebellen-gebruikten-claude-ai-om-raketsoftware-te-ontwikkelen/",
+   "description": "Key takeaways Uit een recent beveiligingsrapport van Anthropic blijkt dat activisten in het noorden van Jemen hebben geprobeerd het Claude AI-model in te zetten om software voor ballistische raketten te ontwikkelen. Dat meldt Financial Times. Houthi-rebellen Hoewel het bedrijf de Houthi-rebellen niet expliciet bij naam noemde, wijst de locatie van de activiteiten sterk op hun […]",
+   "date": "2026-09-11T22:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De werkelijkheid is een stuk genuanceerder dan AI-detectieprogramma’s doen vermoeden",
+   "link": "https://www.trouw.nl/opinie/de-werkelijkheid-is-een-stuk-genuanceerder-dan-ai-detectieprogramma-s-doen-vermoeden~b4a1b7fb6/",
+   "description": "",
+   "date": "2026-09-11T22:00:09",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Opinie: Rob Jetten is vanwege zijn AI-appjes niet meteen een leugenaar",
+   "link": "https://www.trouw.nl/opinie/opinie-rob-jetten-is-vanwege-zijn-ai-appjes-niet-meteen-een-leugenaar~b6a3a510/",
+   "description": "",
+   "date": "2026-09-11T22:00:05",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Van raketten tot massasurveillance: zo wordt AI nu al misbruikt",
+   "link": "https://www.standaard.be/buitenland/van-raketten-tot-massasurveillance-zo-wordt-ai-nu-al-misbruikt/161326073.html",
+   "description": "Houthi’s voor hun raketten, China tegen Oeigoeren, Rusland voor beïnvloeding: AI inzetten voor malafide doeleinden is mainstream geworden. Van dat misbruik schetst Anthropic een grondig en concreet beeld dat scherpstelt op niet-westerse landen.",
+   "date": "2026-09-11T21:00:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De onzichtbare hand | Meten is niet altijd weten",
+   "link": "https://www.tijd.be/r/t/1/id/10685747",
+   "description": "Spraakmakende testen beheersten recent het nieuws, van de PISA-resultaten over ons onderwijsniveau tot een test waarop het nieuwste AI-model van OpenAI zo hoog scoorde dat wel sprake moet zijn van superintelligentie. Helaas blijft de vloek van ‘Goodharts wet’ een hardnekkige spelbederver.",
+   "date": "2026-09-11T20:27:34",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD brengt met Ryzen 5 5500F nieuwe AM4-cpu uit, tien jaar na introductie",
+   "link": "https://tweakers.net/nieuws/252060/amd-brengt-met-ryzen-5-5500f-nieuwe-am4-cpu-uit-tien-jaar-na-introductie.html",
+   "description": "AMD brengt de Ryzen 5 5500F-processor uit. Die is gebaseerd op de Zen 3-architectuur en daarmee geschikt voor socket AM4. AMD ondersteunt dat platform zo nog altijd, tien jaar nadat AM4 werd geïntroduceerd. De chipmaker komt ook met een nieuwe Ryzen 5 7500.",
+   "date": "2026-09-11T20:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe bang moeten we zijn voor de ‘AI-pocalyps’?",
+   "link": "https://www.tijd.be/r/t/1/id/10685647",
+   "description": "Een ontslagnemende AI-onderzoeker van Anthropic trok deze week aan de alarmbel over de mogelijke apocalyptische gevaren van de AI-wedloop. Hoe realistisch is de angst voor een door AI ondersteund einde der tijden? En hoe zou dat er dan uit kunnen zien?",
+   "date": "2026-09-11T19:54:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Welke politicus is nog helemaal zichzelf in een tijd van AI?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/11/welke-politicus-is-nog-helemaal-zichzelf-in-een-tijd-van-ai-a4936419",
+   "description": "Premier Jetten en andere politici leunen op generatieve kunstmatige intelligentie (AI) bij het formuleren van hun politieke boodschappen. Wie dat weet, heeft minder vertrouwen in politici, leert onderzoek. Terwijl dezelfde boodschap zónder AI-label juist voor meer vertrouwen zorgt.",
+   "date": "2026-09-11T19:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google brengt Gemini-app naar Windows 10 en 11",
+   "link": "https://tweakers.net/nieuws/252048/google-brengt-gemini-app-naar-windows-10-en-11.html",
+   "description": "Google komt met een Gemini-app voor Windows-pc's. Die biedt toegang tot Googles AI-chatbot, inclusief extra functies, zoals een sneltoets om de dienst te activeren. Er was al een Gemini-app voor macOS beschikbaar.",
+   "date": "2026-09-11T19:07:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "5 favoriete aandelen: ‘Alphabet toont dat AI-investeringen beginnen te renderen’",
+   "link": "https://www.tijd.be/r/t/1/id/10684993",
+   "description": "Maxim Van Loocke van Leleux AB kiest voor drie Amerikaanse namen, aangevuld met een Belgisch en een Duits exemplaar.",
+   "date": "2026-09-11T19:00:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De machtsovername: hoe AI-agents ‘samenzweren’ tegen hun makers",
+   "link": "https://www.nrc.nl/nieuws/2026/09/11/de-machtsovername-hoe-ai-agents-samenzweren-tegen-hun-makers-a4936163",
+   "description": "Wat jarenlang sciencefiction was, is nu gebeurd: deze zomer spanden agents van OpenAI samen om hun menselijke makers te misleiden. Experts, AI-bedrijven en politici reageren geschokt op nieuwe zorgelijke details. Er dreigt een „catastrofaal en onomkeerbaar verlies van controle”, volgens OpenAI zelf.",
+   "date": "2026-09-11T18:28:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI overweegt om AI-ontwikkeling af te remmen 'vanwege veiligheid'",
+   "link": "https://tweakers.net/nieuws/252062/openai-overweegt-om-ai-ontwikkeling-af-te-remmen-vanwege-veiligheid.html",
+   "description": "ChatGPT-maker OpenAI overweegt om de ontwikkeling van geavanceerde AI af te remmen 'uit veiligheidsoverwegingen'. Ceo Sam Altman hoopt dat andere AI-bedrijven hetzelfde pad zullen volgen, zeggen bronnen tegen Bloomberg.",
+   "date": "2026-09-11T17:50:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-12",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Laat lezen niet aan een chatbot over. Ons denkvermogen staat op het spel",
    "link": "https://www.standaard.be/opinies/laat-lezen-niet-aan-een-chatbot-over.-ons-denkvermogen-staat-op-het-spel/161303609.html",
    "description": "Begrijpend lezen hoort in hetzelfde rijtje overlevingsskills als zwemmen, schrijft Charlotte Baert: zonder kun je het hoofd niet boven water houden.",
@@ -324,6 +515,17 @@
     "De Standaard - Opinies"
    ],
    "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laat lezen niet aan een AI-bot over. Ons denkvermogen staat op het spel",
+   "link": "https://www.standaard.be/opinies/laat-lezen-niet-aan-een-ai-bot-over.-ons-denkvermogen-staat-op-het-spel/161303609.html",
+   "description": "Begrijpend lezen hoort in hetzelfde rijtje overlevingsskills als zwemmen, schrijft Charlotte Baert: zonder kun je het hoofd niet boven water houden.",
+   "date": "2026-09-11T16:01:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-12",
    "intro_geprobeerd": false
   },
   {
@@ -379,6 +581,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-09-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Doemscenario’s rond AI nopen VS tot actie",
+   "link": "https://www.standaard.be/economie/doemscenarios-rond-ai-nopen-vs-tot-actie/161294921.html",
+   "description": "Een reeks onrustbarende ontwikkelingen en een toenemende bezorgdheid bij het grote publiek over artificiële intelligentie, zetten de politiek in de VS onder druk om op te treden. Het gaat plots niet meer alleen over datacenters en jobs, maar ook over apocalyptische scenario’s.",
+   "date": "2026-09-11T12:39:07",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-12",
    "intro_geprobeerd": false
   },
   {
