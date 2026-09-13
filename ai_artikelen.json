@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T15:51:29",
+ "generated": "2026-09-13T02:38:02",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 149,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 101,
+   "count": 98,
    "error": null
   },
   {
@@ -315,6 +315,139 @@
   }
  ],
  "articles": [
+  {
+   "title": "Toplui van Anthropic en OpenAI roepen op tot vertraging in AI-ontwikkeling",
+   "link": "https://www.demorgen.be/nieuws/toplui-van-anthropic-en-openai-roepen-op-tot-vertraging-in-ai-ontwikkeling~babf1e9d/",
+   "description": "",
+   "date": "2026-09-12T21:37:55",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "EU pleit voor wereldwijde regels om risico’s van AI te beperken",
+   "link": "https://businessam.be/eu-pleit-voor-wereldwijde-regels-om-risicos-van-ai-te-beperken/",
+   "description": "Key takeaways Naar aanleiding van een veel gedeelde waarschuwing van een voormalig medewerker van Anthropic over de mogelijkheid dat AI het uitsterven van de mensheid zou kunnen veroorzaken, dringt de Europese Unie aan op de vaststelling van wereldwijde regelgevingsnormen. Tijdens een conferentie in Dublin over de digitale veiligheid van minderjarigen verklaarde Henna Virkkunen, uitvoerend vicevoorzitter […]",
+   "date": "2026-09-12T21:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-topman roept op ontwikkeling AI-modellen te vertragen",
+   "link": "https://www.trouw.nl/buitenland/anthropic-topman-roept-op-ontwikkeling-ai-modellen-te-vertragen~b7119fe4/",
+   "description": "",
+   "date": "2026-09-12T20:42:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Topman Anthropic wil AI-ontwikkeling vertragen, zijn oproep krijgt bijval",
+   "link": "https://www.standaard.be/buitenland/topman-anthropic-wil-ai-ontwikkeling-vertragen-zijn-oproep-krijgt-bijval/161363284.html",
+   "description": "De topman van het AI-bedrijf Anthropic, Dario Amodei, roept op om de ontwikkeling van kunstmatige intelligentie te vertragen. Volgens hem is het noodzakelijk de evolutie ervan beter te controleren.",
+   "date": "2026-09-12T20:04:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman van Anthropic roept op om ontwikkeling AI-modellen te vertragen",
+   "link": "https://www.demorgen.be/nieuws/topman-van-anthropic-roept-op-om-ontwikkeling-ai-modellen-te-vertragen~bb6c8b88/",
+   "description": "",
+   "date": "2026-09-12T19:59:26",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Topman Anthropic wil vertraging in ontwikkeling kunstmatige intelligentie",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/topman-anthropic-wil-vertraging-in-ontwikkeling-kunstmatige-inte~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-12T19:44:34",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic pleit voor rem op AI-ontwikkelingen",
+   "link": "https://www.tijd.be/r/t/1/id/10685793",
+   "description": "In een blogpost pleit Dario Amodei, CEO van AI-bedrijf Anthropic, ervoor de ontwikkeling van geavanceerde AI-modellen af te remmen. Eerder deze week pleitte ook Sam Altman, de topman van ChatGPT-moeder OpenAI, daarvoor.",
+   "date": "2026-09-12T19:40:49",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman Anthropic pleit nu ook voor vertraging AI",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/topman-anthropic-pleit-nu-ook-voor-vertraging-ai/",
+   "description": "De topman van het AI-bedrijf Anthropic, Dario Amodei, roept op om de ontwikkeling van kunstmatige intelligentie te vertragen. Volgens hem is het noodzakelijk de evolutie ervan beter te controleren.\nThe post Topman Anthropic pleit nu ook voor vertraging AI appeared first on Knack.",
+   "date": "2026-09-12T18:49:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na eerdere incidenten doet topman van AI-reus Anthropic opvallende oproep: \"We moeten het tempo vertragen\"",
+   "link": "https://www.hln.be/internet/na-eerdere-incidenten-doet-topman-van-ai-reus-anthropic-opvallende-oproep-we-moeten-het-tempo-vertragen~a6e67ad0/",
+   "description": "Dario Amodei, de topman van Anthropic, roept AI-bedrijven op om het tempo waarop AI-modellen slimmer gemaakt worden bewust te vertragen. “Met de tijd die we daarmee winnen, moeten we verstandig omgaan”, schrijft hij in een essay.",
+   "date": "2026-09-12T18:46:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia rekent op 70 procent omzetgroei door aanhoudende AI-investeringen",
+   "link": "https://businessam.be/nvidia-rekent-op-70-procent-omzetgroei-door-aanhoudende-ai-investeringen/",
+   "description": "Key takeaways Tijdens een recente presentatie op het Goldman Sachs Communacopia + Technology-evenement zette Jensen Huang, CEO van Nvidia, uiteen waarom zijn bedrijf klaar is voor een buitengewone omzetstijging van 70 procent tegen volgend jaar. Hoewel sommige waarnemers vrezen dat toenemende concurrentie van AI-onderzoeksbedrijven zoals OpenAI en Anthropic, of techgiganten zoals Google en Microsoft, het […]",
+   "date": "2026-09-12T18:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook CEO AI-bedrijf Anthropic wil ontwikkeling AI-modellen vertragen",
+   "link": "https://www.nu.nl/tech/6409531/ook-ceo-ai-bedrijf-anthropic-wil-ontwikkeling-ai-modellen-vertragen.html",
+   "description": "Dario Amodei, CEO van AI-bedrijf Anthropic, heeft AI-bedrijven opgeroepen om de ontwikkeling van hun modellen bewust te vertragen. Eerder deze week riep ook OpenAI-topman Sam Altman op tot een vertraging.",
+   "date": "2026-09-12T16:58:11",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Universal Music Group ontwikkelt AI-platform om remixes en mash-ups te maken",
+   "link": "https://www.hln.be/multimedia/universal-music-group-ontwikkelt-ai-platform-om-remixes-en-mash-ups-te-maken~a55dca16/",
+   "description": "Platenlabel Universal Music Group (UMG) gaat een eigen AI-platform uitbrengen om muziek van zijn artiesten te remixen, mash-ups van te maken en te herinterpreteren. UMG behoort tot de grootste muziekdistributeurs ter wereld en vertegenwoordigt artiesten zoals Taylor Swift, Billie Eilish en The Weeknd.",
+   "date": "2026-09-12T15:59:00",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
   {
    "title": "BNP Paribas waarschuwt dat enorme AI-investeringen kredietmarkt onder druk kunnen zetten",
    "link": "https://businessam.be/bnp-paribas-waarschuwt-dat-enorme-ai-investeringen-kredietmarkt-onder-druk-kunnen-zetten/",
