@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T02:38:02",
+ "generated": "2026-09-13T16:47:31",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 149,
+   "count": 152,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,127 @@
   }
  ],
  "articles": [
+  {
+   "title": "Artificiële intelligentie vs. de mens: wie schrijft het beste interview?",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/ai-versus-mens-wie-schrijft-het-beste-interview/",
+   "description": "Kan ChatGPT lange en ingewikkelde gesprekken uitschrijven en bewerken tot een leesbaar interview? En zo ja, kan het resultaat wedijveren met een ‘ambachtelijk’ interview van een Knack-journalist? We namen de proef op de som.\nThe post Artificiële intelligentie vs. de mens: wie schrijft het beste interview? appeared first on Knack.",
+   "date": "2026-09-13T16:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia overweegt investering van 10 miljard dollar in beursgang van Anthropic",
+   "link": "https://businessam.be/nvidia-overweegt-investering-van-10-miljard-dollar-in-beursgang-van-anthropic/",
+   "description": "Key takeaways Nvidia overweegt een enorme investering van maximaal 10 miljard dollar (8,6 miljard euro) als hoofdinvesteerder in de aanstaande beursgang van Anthropic. Anthropic streeft ernaar maar liefst 100 miljard dollar (86 miljard euro) op te halen, met een beoogde marktwaardering van ongeveer 2 biljoen dollar (1,7 biljoen euro). Dat meldt Reuters. Als dit wordt […]",
+   "date": "2026-09-13T15:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als ik AI om een stukje vraag, krijg ik vast een dikke middelvinger",
+   "link": "https://www.nrc.nl/nieuws/2026/09/13/als-ik-ai-om-een-stukje-vraag-krijg-ik-vast-een-dikke-middelvinger-a4936386",
+   "description": "Ik hoorde op NPO Radio 1 dat columns tegenwoordig vooral door AI worden geschreven. Ik schrok: dan kon ik wel inpakken.",
+   "date": "2026-09-13T15:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - RTX 5090 kost nu meer dan 5090 euro",
+   "link": "https://tweakers.net/geek/252098/rtx-5090-kost-nu-meer-dan-5090-euro.html",
+   "description": "Als je om wat voor reden dan ook nu nog in staat bent om een heel dure videokaart te kopen, moet je in de Pricewatch even heel goed opletten dat je modelnummers en prijzen niet door elkaar haalt. De duurste videokaart van dit moment, Nvidia's RTX 5090, heeft namelijk ook de dubieuze prijsgrens van 5090 euro bereikt. De RTX 5090 kost overal inmiddels méér dan 5090 euro.",
+   "date": "2026-09-13T13:37:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI dit jaar niet naar de beurs: bedrijf richt zich eerst op 'veiligheid'",
+   "link": "https://www.nu.nl/tech/6409591/openai-dit-jaar-niet-naar-de-beurs-bedrijf-richt-zich-eerst-op-veiligheid.html",
+   "description": "OpenAI, het bedrijf achter ChatGPT, gaat dit jaar niet naar de beurs. Topman Sam Altman spreekt in een interview met Fortune van een \"ongelukkig moment\" en zegt bezig te zijn met het aanpakken van veiligheidsproblemen rond AI.",
+   "date": "2026-09-13T12:08:55",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoekers, CEO's en nu ook Obama: waarom iedereen plots lijkt te waarschuwen voor een AI-apocalyps",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/13/ai-apocalyps-bezorgdheid-barack-obama-dario-amodei/",
+   "description": "Voormalig Amerikaans president Barack Obama heeft de Democraten gewaarschuwd dat artificiële intelligentie de komende jaren \"gevaarlijk\" kan worden als we het niet in handen houden. Nog maar eens een hooggeplaatste persoon die gealarmeerd klinkt.",
+   "date": "2026-09-13T11:49:22",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Onderzoekers, CEO's en nu ook Obama: waarom iedereen plots lijkt te waarschuwen voor een AI-apocalyps",
+   "link": "https://vrtnws.be/p.8eXWZ15a4",
+   "description": "Voormalig Amerikaans president Barack Obama heeft de Democraten gewaarschuwd dat artificiële intelligentie de komende jaren \"gevaarlijk\" kan worden als we het niet in handen houden. Nog maar eens een hooggeplaatste persoon die gealarmeerd klinkt. Wat is er eigenlijk gaande in AI-land dat we ons plots zorgen moeten maken?",
+   "date": "2026-09-13T11:49:22",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-topmannen waarschuwen: AI dreigt ons de baas te worden",
+   "link": "https://nos.nl/l/2630799",
+   "description": "De topmannen van grote westerse AI-bedrijven zeggen dat hun sector dusdanig snel groeit dat het lastig wordt om de veiligheid te waarborgen. De ontwikkeling van nieuwe AI-modellen moet vertraagd worden, omdat AI-agents binnen zes tot twaalf maanden het hele internet zouden kunnen overnemen.\n        Met die waarschuwing komt Anthropic-topman Dario Amodei, de ontwikkelaar van Claude, in een essay. OpenAI-topman Sam Altman (ChatGPT), SpaceXAI-baas Elon Musk (Grok) en voorzitter Demis Hassabis van Google DeepMind (Gemini) hebben zich achter de oproep van Amodei geschaard.\n        Meer doen aan risicopreventie\n        Amodei zegt dat hij gelooft dat kunstmatige intelligentie veel voordelen kan brengen, maar dat de ontwikkeling ervan op dit moment te snel gaat. \"De laatste maanden ben ik ervan overtuigd geraakt dat we nog voorzichtiger moeten zijn als we de risico's willen aanpakken.\"\n        Hij zegt dat bedrijven niet alleen moeten investeren in risicopreventie, maar ook ervoor moeten zorgen dat risicopreventie niet gaat achterlopen op de ontwikkeling van de technologie. Met andere woorden: \"We moeten de mogelijkheden van onze AI-modellen minder snel verbeteren. De vooruitgang zal nog steeds snel lijken, en we moeten verstandig omgaan met de tijd die we daarmee winnen.\"\n        Zo pleit Amodei voor onafhankelijke controleurs die bedrijven moeten gaan toetsen aan veiligheidsnormen. Ook wil hij meer wereldwijde samenwerking bij het opstellen van regels voor de ontwikkeling van AI.\n        Incident met losgebroken AI\n        De afgelopen weken wordt er steeds luider opgeroepen om de pauzeknop in de drukken als het gaat om AI-ontwikkelingen. Aanleiding is een incident rond een losgebroken AI-programma van OpenAI, dat deze zomer in het nieuws kwam. Honderden AI-agents braken uit hun testomgeving en hackten een week lang een ander bedrijf, Hugging Face.\n        OpenAI zei het incident te zien als \"waarschuwingsschot, voor ons en voor de wereld\".\n        Daar kwam bij dat deze week een onderzoeker van Anthropic ontslag nam bij het bedrijf omdat hij naar eigen zeggen had gezien hoe onverantwoord de topbedrijven omgaan met veiligheid en zo mensenlevens op het spel zetten. De 27-jarige Jacob Coxon zette zijn ervaringen op sociale media, die de afgelopen dagen miljoenen keren werden gelezen. Dit weekend zei hij in een interview met de BBC dat andere AI-onderzoekers ook \"oprecht bang\" zijn over de snelheid van de technologische ontwikkelingen.\n        De vrees bestaat dat er een dag komt waarop AI-systemen zichzelf verder ontwikkelen, zonder tussenkomst van mensen. Over het ontstaan van artificial general intelligence, kunstmatige algemene intelligentie, wordt al langer gesproken.\n        De AI-industrie die gelooft in artificial general intelligence, koppelt die vaak ook aan allerlei doemscenario's, maar in de wetenschap worden die niet heel serieus genomen. Hoe dat zit, zie je in deze video die NOS op 3 eerder maakte:\n        \"Als we hier niet bovenop zitten, zou de ontwikkeling van AI ons vermogen om deze systemen te begrijpen en te beheersen kunnen overstijgen\", zegt Anthropic-baas Amodei. Altman van OpenAI is het met hem eens. \"Het idee om onafhankelijke inspecteurs toegang te geven, is uitstekend. Wij zullen dat ook doen.\" Elon Musk plaatste simpelweg \"Dario heeft gelijk\" op zijn X-account.\n        Binnen Silicon Valley klinkt ook dat de AI-topmannen niet oprecht bezorgd zijn. Zo denken sommige critici dat Anthropic en OpenAI door angst te zaaien ervoor willen zorgen dat de Amerikaanse regering gaat reguleren, wat er in de praktijk op zou neerkomen dat kleinere bedrijven niet meer met de AI-reuzen zouden kunnen concurreren.\n        Het is ook maar de vraag of het indrukken van de pauzeknop een realistisch scenario is. De Verenigde Staten en China zijn verwikkeld in een race om de beste AI te ontwikkelen. Het is onbekend of China het ook ziet zitten om de ontwikkeling te vertragen ten behoeve van veiligheid. Anthropic-topman Amodei zegt dan ook dat zijn plan gecoördineerd moet worden met China, iets waar onderzoeker Coxon ook op wijst.",
+   "date": "2026-09-13T11:08:13",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Moonshot AI mikt op jaaromzet van 2 miljard dollar tegen eind 2026",
+   "link": "https://businessam.be/moonshot-ai-mikt-op-jaaromzet-van-2-miljard-dollar-tegen-eind-2026/",
+   "description": "Key takeaways Moonshot AI, een toonaangevend onderzoekscentrum voor AI in China, streeft naar een belangrijke financiële mijlpaal: het bedrijf wil tegen het einde van het jaar een jaaromzet van 2 miljard dollar (zo’n 1,7 miljard euro) behalen. Volgens een rapport van Bloomberg zou deze doelstelling een verdubbeling betekenen ten opzichte van het omzetritme dat in […]",
+   "date": "2026-09-13T10:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI trekt dit jaar dan toch niet naar beurs, maar focust op veiligheid",
+   "link": "https://www.hln.be/tech/openai-trekt-dit-jaar-dan-toch-niet-naar-beurs-maar-focust-op-veiligheid~a374e408/",
+   "description": "OpenAI zal dit jaar niet naar de beurs gaan. Dat heeft topman Sam Altman gezegd in een interview met het economische tijdschrift ‘Fortune’. Altman uitte ook zijn bezorgdheid over de veiligheid van artificiële intelligentie (AI).",
+   "date": "2026-09-13T10:14:39",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump negeert AI-risico’s en geeft voorrang aan Amerikaanse technologische dominantie",
+   "link": "https://businessam.be/trump-negeert-ai-risicos-en-geeft-voorrang-aan-amerikaanse-technologische-dominantie/",
+   "description": "Key takeaways President Donald Trump heeft waarschuwingen over de potentieel dodelijke gevaren van AI van de hand gewezen en geeft voorrang aan het nationale concurrentievermogen boven existentiële angsten. Tijdens een persconferentie in Dallas verklaarde de president dat hij zich geen zorgen maakt over een bedreiging van de mensheid door AI. In plaats daarvan stelde hij […]",
+   "date": "2026-09-13T07:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Toplui van Anthropic en OpenAI roepen op tot vertraging in AI-ontwikkeling",
    "link": "https://www.demorgen.be/nieuws/toplui-van-anthropic-en-openai-roepen-op-tot-vertraging-in-ai-ontwikkeling~babf1e9d/",
