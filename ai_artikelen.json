@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T16:47:31",
+ "generated": "2026-09-14T02:46:27",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 152,
+   "count": 155,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,176 @@
   }
  ],
  "articles": [
+  {
+   "title": "AI-columnisten zijn als Chinese dierentuinen met nepleeuwen",
+   "link": "https://www.standaard.be/media-en-cultuur/ai-columnisten-zijn-als-chinese-dierentuinen-met-nepleeuwen/160634429.html",
+   "description": "Een vijfde van de opiniestukken in Nederland blijkt een AI-product te zijn. Een dieptreurige vaststelling.",
+   "date": "2026-09-13T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Olieprijs, staatsschuld, klimaat: de ene crisis versterkt de andere",
+   "link": "https://www.standaard.be/opinies/olieprijs-staatsschuld-klimaat-de-ene-crisis-versterkt-de-andere/161381226.html",
+   "description": "Rente, energieprijzen, schuld, kiesintenties, AI-dreiging ... traag maar gestaag gaan alle risico-indicatoren dieper in het rood. En alles is met elkaar verbonden.",
+   "date": "2026-09-13T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Russische marine verlegt focus naar robotica en onderwatertechnologie",
+   "link": "https://businessam.be/russische-marine-verlegt-strategie-naar-robotica-en-onderwatertechnologie/",
+   "description": "Key takeaways Volgens admiraal Nikolai Yevmenov ondergaat de Russische marine een transformatie in haar benadering van maritieme conflicten, industriële productie en de voorbereiding van personeel als gevolg van de integratie van geavanceerde onderwater- en robottechnologieën. Hedendaagse oorlogsvoering Hoewel traditionele maritieme strategieën nog steeds worden toegepast, benadrukte Yevmenov tijdens het People of the Sea-forum dat de […]",
+   "date": "2026-09-13T23:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opinie: AI vergroot de verschillen tussen goede en slechte leerlingen",
+   "link": "https://www.trouw.nl/opinie/opinie-ai-vergroot-de-verschillen-tussen-goede-en-slechte-leerlingen~b9447441/",
+   "description": "",
+   "date": "2026-09-13T22:00:18",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nieuwe zesde-generatie gevechtsvliegtuigen van China krijgen kwantumnavigatie en AI",
+   "link": "https://businessam.be/nieuwe-zesde-generatie-gevechtsvliegtuigen-van-china-krijgen-kwantumnavigatie-en-ai/",
+   "description": "Key takeaways Recente publicaties van het Shenyang Aircraft Design & Research Institute hebben licht geworpen op de architecturale filosofie achter het aanstaande Chinese stealthvliegtuig van de zesde generatie. Hoewel het grotere, driemotorige model uit Chengdu meer publieke belangstelling heeft getrokken, zal het door Shenyang ontwikkelde gevechtsvliegtuig – door online waarnemers vaak de ‘J-50’ genoemd – […]",
+   "date": "2026-09-13T21:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alle AI-bazen vinden dat het te snel gaat, maar bij Trump valt dat in dovemansoren",
+   "link": "https://www.standaard.be/buitenland/alle-ai-bazen-vinden-dat-het-te-snel-gaat-maar-bij-trump-valt-dat-in-dovemansoren/161377663.html",
+   "description": "“Over zes maanden tot een jaar kan een AI-zwerm het hele internet overnemen.” Anthropic-ceo Dario Amodei waarschuwt in een essay voor de dreiging van zijn eigen werk, en roept opnieuw op tot een vertraging van de ontwikkeling van AI. Andere techbazen sloten zich meteen aan, maar wie durft echt in te grijpen in een sector waarin niemand achterop wil raken?",
+   "date": "2026-09-13T20:44:52",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Concurrerende AI-bedrijven opvallend eensgezind: AI-ontwikkeling moet langzamer en onder toezicht",
+   "link": "https://www.nrc.nl/nieuws/2026/09/13/concurrerende-ai-bedrijven-opvallend-eensgezind-ai-ontwikkeling-moet-langzamer-en-onder-toezicht-a4936519",
+   "description": "De medeoprichter van AI-ontwikkelaar Anthropic waarschuwt dat ongecontroleerde kunstmatige intelligentie binnen maanden het internet kan domineren. In een essay pleit hij voor langzamere ontwikkeling onder toezicht. Hij krijgt bijval van zijn concurrenten – ook van Elon Musk.",
+   "date": "2026-09-13T19:45:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het gaat te snel met AI, waarschuwt de CEO van AI-bedrijf Anthropic op een curieus moment",
+   "link": "https://www.volkskrant.nl/tech/het-gaat-te-snel-met-ai-waarschuwt-de-ceo-van-ai-bedrijf-anthropic-op-een-curieus-moment~ba81cbca/",
+   "description": "",
+   "date": "2026-09-13T19:37:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Trump haalt uit naar “negatieve krachten” die uitrol AI willen vertragen",
+   "link": "https://www.standaard.be/buitenland/trump-haalt-uit-naar-negatieve-krachten-die-uitrol-ai-willen-vertragen/35131945.html",
+   "description": "In zijn tweede ambtstermijn is Donald Trump alomtegenwoordig. Volg in deze liveblog alle updates over de Amerikaanse president en zijn beleid.",
+   "date": "2026-09-13T18:25:05",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump ziet niets in plan om AI-ontwikkeling te vertragen: 'Wil voorsprong houden'",
+   "link": "https://www.nu.nl/buitenland/6409617/trump-ziet-niets-in-plan-om-ai-ontwikkeling-te-vertragen-wil-voorsprong-houden.html",
+   "description": "De Amerikaanse president Donald Trump ziet niets in het plan van verschillende AI-ontwikkelaars om de ontwikkeling van hun modellen te vertragen. Trump vreest dat vertraging de positie van de Verenigde Staten op het gebied van kunstmatige intelligentie verzwakt.",
+   "date": "2026-09-13T18:13:41",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Obama trekt aan de alarmbel: ‘Democraten moeten artificiële intelligentie centraal stellen’",
+   "link": "https://www.demorgen.be/nieuws/obama-trekt-aan-de-alarmbel-democraten-moeten-artificiele-intelligentie-centraal-stellen~bee3b9c4/",
+   "description": "",
+   "date": "2026-09-13T17:42:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Dreigend einde van de mensheid’ en ontsnappende agents: ceo’s van AI-bedrijven willen ontwikkeling vertragen",
+   "link": "https://www.ad.nl/tech/dreigend-einde-van-de-mensheid-en-ontsnappende-agents-ceos-van-ai-bedrijven-willen-ontwikkeling-vertragen~a38c85b1/",
+   "description": "Ceo’s van bigtechbedrijven pleiten er dit weekend voor om als de bliksem op de pauzeknop te drukken bij de ontwikkeling van AI. Want kunstmatige intelligentie ontwikkelt zich zo snel dat die de mensheid misschien wel kan uitroeien. Duidelijk is dat de nieuwste AI-modellen al in het geniep op eigen houtje opereren.",
+   "date": "2026-09-13T17:20:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donald Trump haalt uit naar \"negatieve krachten\" die ontwikkeling van AI willen vertragen",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/donald-trump-haalt-uit-naar-negatieve-krachten-die-ontwikkelin~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-13T17:19:18",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "'Zeer negatieve krachten': Trump veegt AI-alarm van tafel",
+   "link": "https://www.tijd.be/r/t/1/id/10685820",
+   "description": "De Amerikaanse president Donald Trump ziet geen reden om de ontwikkeling van artificiële intelligentie te vertragen, ondanks oproepen van toppers in de sector. 'Zeer negatieve krachten' overdrijven volgens hem de risico's.",
+   "date": "2026-09-13T17:03:13",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een alarm uit de AI-industrie",
+   "link": "https://www.tijd.be/r/t/1/id/10685819",
+   "description": "Als het kruim van de AI-wereld smeekt om meer controle, moet de politiek dat signaal ernstig nemen. Het is maar zeer de vraag of ze dat kan.",
+   "date": "2026-09-13T17:00:51",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Artificiële intelligentie vs. de mens: wie schrijft het beste interview?",
    "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/ai-versus-mens-wie-schrijft-het-beste-interview/",
