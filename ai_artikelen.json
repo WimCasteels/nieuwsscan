@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T02:46:27",
+ "generated": "2026-09-14T18:46:12",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 167,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 89,
    "error": null
   },
   {
@@ -316,6 +316,405 @@
  ],
  "articles": [
   {
+   "title": "Trump: “Enige controle die AI nodig heeft, is slimme president”",
+   "link": "https://www.standaard.be/buitenland/trump-enige-controle-die-ai-nodig-heeft-is-slimme-president/35131945.html",
+   "description": "In zijn tweede ambtstermijn is Donald Trump alomtegenwoordig. Volg in deze liveblog alle updates over de Amerikaanse president en zijn beleid.",
+   "date": "2026-09-14T18:43:29",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-zorgen trekken Europese beurzen in het rood",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ai-zorgen-trekken-europese-beurzen-in-het-rood/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn maandag overwegend lager geëindigd, terwijl de zorgen over AI oplaaiden en de olieprijzen en rentes opnieuw stegen.De Stoxx Europe 600 verloor 0,5 procent op 635,99 punten. De Duitse DAX index leverde ook 0,5 procent in op 25.440,81 punten. De Franse CAC 40 daalde 0,8 procent en sloot op 8.117,78 …\nThe post AI-zorgen trekken Europese beurzen in het rood appeared first on Trends.be.",
+   "date": "2026-09-14T18:39:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump: ik ben de enige veiligheidsregel die AI nodig heeft",
+   "link": "https://tweakers.net/nieuws/252156/trump-ik-ben-de-enige-veiligheidsregel-die-ai-nodig-heeft.html",
+   "description": "De Amerikaanse president Donald Trump verwerpt het idee voor regelgeving voor kunstmatige intelligentie, zoals AI-bedrijven voorstelden. Volgens Trump is de enige veiligheidsregel die AI nodig heeft een 'slimme en sterke Amerikaanse president en dat heeft de VS'.",
+   "date": "2026-09-14T18:28:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-aandelen krijgen klappen op de beurs, na oproep bedrijfsleiders voor vertraging in de sector",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/aiaandelen-krijgen-klappen-op-de-beurs-na-oproep-bedrijfsleide~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-14T18:17:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-makers sturen met doemscenario's aan op regels die hun positie versterken",
+   "link": "https://www.nu.nl/tech/6409721/ai-makers-sturen-met-doemscenarios-aan-op-regels-die-hun-positie-versterken.html",
+   "description": "Bedrijven die de AI-race jarenlang aanvoerden, waarschuwen nu dat het tempo omlaag moet. Volgens OpenAI en Anthropic is het nodig om krachtige AI-modellen veilig te houden. Maar er zit volgens deskundigen ook een bedrijfsstrategie achter.",
+   "date": "2026-09-14T17:59:23",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oproep tot tragere AI-ontwikkeling en stijgende olieprijs kleuren Wall Street rood",
+   "link": "https://www.tijd.be/r/t/1/id/10685940",
+   "description": "Een klimmende olieprijs en de oproep om de AI-ontwikkeling te vertragen kleuren Wall Street rood. Terwijl AI-chipaandelen fors onder druk staan, blinken cybersecuritybedrijven uit. De tienjaarsrente klimt voor het eerst in drie jaar boven 5 procent.",
+   "date": "2026-09-14T17:56:59",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple lijkt te werken aan integratie van andere AI-diensten in macOS en iOS",
+   "link": "https://tweakers.net/nieuws/252152/apple-lijkt-te-werken-aan-integratie-van-andere-ai-diensten-in-macos-en-ios.html",
+   "description": "Apple lijkt te werken aan een manier om andere AI-diensten te gebruiken als onderdeel van macOS en iOS. Dat lijkt wel te gebeuren via een extensie van Apples eigen dienst Siri, zo blijkt uit een demonstratie.",
+   "date": "2026-09-14T17:50:09",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bibbers vergroten muur van zorgen voor beleggers",
+   "link": "https://www.tijd.be/r/t/1/id/10685914",
+   "description": "Een golf van paniek treft de AI-aandelen, nu bekende toplui uit de sector oproepen de ontwikkeling van kunstmatige intelligentie uit veiligheidsredenen te vertragen. Dat ontlokt een sectorrotatie. Beleggers omarmen weer softwarebedrijven en defensieve sectoren als voeding, drank en supermarkten.",
+   "date": "2026-09-14T17:44:59",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AB InBev sleurt Bel20 moeiteloos door AI-onrust op Europese beurzen",
+   "link": "https://www.tijd.be/r/t/1/id/10685872",
+   "description": "De Bel20 stak met kop en schouders boven zijn Europese collega's uit, met dank aan AB InBev. De Belgische bierreus is volgens Jefferies goed op weg om het 'Coca-Cola van de bierwereld' te worden. Xior krijgt lof omdat het zijn CFO laat varen.",
+   "date": "2026-09-14T17:44:02",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Update AI Coding",
+   "link": "https://www.emerce.nl/events/update-ai-coding",
+   "description": "Een applicatie bouwen kostte maanden. Nu staat de eerste versie binnen een paar uur. AI schrijft code, koppelt systemen en […]",
+   "date": "2026-09-14T17:19:58",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Britse koning gaat met bazen van AI-bedrijven in gesprek over verantwoord gebruik",
+   "link": "https://www.volkskrant.nl/tech/britse-koning-gaat-met-bazen-van-ai-bedrijven-in-gesprek-over-verantwoord-gebruik~b7417701/",
+   "description": "",
+   "date": "2026-09-14T16:54:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Geopolitieke rivaliteit staat internationale afspraken over AI in de weg",
+   "link": "https://www.nrc.nl/nieuws/2026/09/14/geopolitieke-rivaliteit-staat-internationale-afspraken-over-ai-in-de-weg-a4936586",
+   "description": "Kan internationaal overleg, vooral tussen de VS en China, leiden tot afspraken over een verantwoorde verdere ontwikkeling van kunstmatige intelligentie? De voortekenen zijn somber.",
+   "date": "2026-09-14T16:53:35",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VN waarschuwt voor “risico's zonder voorgaande” door ontwikkeling AI",
+   "link": "https://www.gva.be/economie/technologie/vn-waarschuwt-voor-risicos-zonder-voorgaande-door-ontwikkeling-ai/161428818.html",
+   "description": "De Hoge Commissaris voor de Mensenrechten van de Verenigde Naties roept op tot “dringende actie” om artificiële intelligentie (AI) te omkaderen, gezien de “risico's zonder voorgaande” die de meest geavanceerde systemen met zich meebrengen.",
+   "date": "2026-09-14T15:48:11",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VN waarschuwen voor AI-race: ‘Alle aspecten van ons leven worden blootgesteld aan existentiële risico’s’",
+   "link": "https://www.demorgen.be/tech-ai/vn-waarschuwen-voor-ai-race-alle-aspecten-van-ons-leven-worden-blootgesteld-aan-existentiele-risico-s~ba816507/",
+   "description": "",
+   "date": "2026-09-14T15:35:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI, Anthropic en Musk willen vertraging van AI, maar Trump gaat in de weg staan: ‘We moeten China voorblijven’",
+   "link": "https://www.demorgen.be/tech-wetenschap/openai-anthropic-en-musk-willen-vertraging-van-ai-maar-trump-gaat-in-de-weg-staan-we-moeten-china-voorblijven~b1f28e97/",
+   "description": "",
+   "date": "2026-09-14T15:26:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Twee baanvakken voor AI",
+   "link": "https://www.tijd.be/r/t/1/id/10685895",
+   "description": "Voor wie niet in een 'frontier lab' of op een wiskundedepartement werkt, lijkt het allemaal wel mee te vallen met de superintelligentie.",
+   "date": "2026-09-14T15:15:00",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oproep om AI af te remmen duwt Wall Street in het rood",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/oproep-om-ai-af-te-remmen-duwt-wall-street-in-het-rood/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Topmannen van grote AI-bedrijven willen de ontwikkeling van AI afremmen, wat tot zorgen bij beleggers leidt.Futures op de toonaangevende S&P 500 index noteerden ruim een uur voor de openingsbel 0,7 procent in het rood. De future op de technologie-index Nasdaq Composite wees zelfs op …\nThe post Oproep om AI af te remmen duwt Wall Street in het rood appeared first on Trends.be.",
+   "date": "2026-09-14T14:18:54",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kwart Kamervragen met hulp van AI geschreven, aantal neemt toe",
+   "link": "https://nos.nl/l/2630963",
+   "description": "Een kwart van de ingediende documenten met Kamervragen is in ieder geval deels geschreven door AI. Dat blijkt uit onderzoek van de NOS naar 2500 documenten met daarin ruim 28.000 individuele Kamervragen.\n        Dat betekent dat de teksten zijn geschreven door een AI-tool als ChatGPT of Claude. De inzet van AI varieert van enkele zinnen tot volledige lijsten met vragen.\n        Het aandeel neemt toe: het afgelopen halfjaar bevatte 26 procent van de Kamervragen AI, tegen 17 procent het halfjaar daarvoor. Alleen in de afgelopen twee maanden werden er weer wat minder 'AI-Kamervragen' gesteld.\n        Pangram detecteert op een betrouwbare manier de schrijfstijl van AI-modellen, maar kan niet inschatten hoeveel denkwerk de modellen hebben overgenomen. Zolang Kamerleden zelf verantwoordelijk zijn voor de inhoud, hoeft AI-gebruik niet erg te zijn, stellen deskundigen.\n        Vorige week bleek uit onderzoek van de Volkskrant dat premier Jetten zijn socialemediaberichten mede door AI laat schrijven. Ook opiniestukken in kranten worden mede door AI geproduceerd, meldde de Nederlandse nieuwsbrief AI-Report.\n        Denkproces\n        \"Als Kamerleden AI helemaal niet zouden gebruiken, zou ik dat ergens ook wel kwalijk vinden\", zegt AI-ontwikkelaar Maarten Sukel, die zelf een taalmodel ontwikkelde en op verzoek van de NOS meekeek naar met AI geformuleerde Kamervragen. De grote AI-taalmodellen kunnen Kamerleden helpen om sneller de goede vragen te stellen, denkt hij.\n        Maar er zijn wel risico's. \"Als je bezig bent met een dossier waar je zelf minder van weet en je laat AI je helpen met het bedenken van Kamervragen is dat een risico. Je moet je ergens in blijven verdiepen en het denkproces niet uit handen geven.\"\n        Techdenker Marleen Stikker ziet ook vooral daar de risico's. \"We outsourcen onze democratische systemen naar algoritmes van Amerikaanse AI-bedrijven, die ook nog eens niet neutraal zijn, maar gekleurd. Dat is toch absurd?\"\n        Critici wijzen ook op de kans dat er foutieve informatie in Kamervragen terecht kan komen, doordat AI-modellen ondanks maatregelen van AI-bedrijven nog steeds foutieve informatie kunnen geven.\n        Sneller en verstandiger\n        Tweede Kamerlid Daniël van den Berg van JA21 bevestigt AI te gebruiken, maar vindt dat geen probleem. \"Niet om me er makkelijker van af te maken en snel weer thuis te zijn\", verzekert hij. \"Ik zou het zonde vinden om zelf urenlang door notulen en Kamerdocumenten te ploegen, om media-items terug te zoeken. AI helpt me dat sneller en verstandiger te doen.\"\n        Hoewel meerdere van zijn Kamervragen volgens de analyse voor een groot deel door AI zijn geschreven, is hij zelf verantwoordelijk voor de inhoud, verzekert Van den Berg. \"Ik heb die vragen tot op de bodem uitgezocht. Maar als ik niet uit een formulering kom, dan vraag ik AI om daarbij te helpen.\"\n        Ook een aantal andere Kamerleden bevestigt inmiddels AI-hulpmiddelen te gebruiken. \"Mijn team en ik gebruiken AI om iets uit te zoeken of in te korten, of voor een spellingscheck\", bevestigt VVD-Tweede Kamerlid Renate den Hollander. \"Maar alles wat ik inbreng in de Kamer is onder mijn verantwoordelijkheid bedacht en uitgewerkt.\"\n        Ook D66-Kamerlid Marieke Vellinga-Beemsterboer doet dat. \"AI helpt haar bij het aanscherpen van schriftelijke vragen en om ervoor te zorgen dat ze begrijpelijk zijn\", zegt haar woordvoerder, die eraan toevoegt dat \"heel Nederland dat inmiddels doet\". Het Kamerlid laat geen complete vragenlijsten door AI opstellen, verzekert de woordvoerder.\n        Wie communiceert met wie?\n        Het door de NOS gebruikte AI-detectieprogramma Pangram detecteert de schrijfstijl van AI-modellen. Volgens kenners is het programma goed in staat om in grote hoeveelheden data AI-sporen te herkennen, maar op individueel niveau kan het programma weleens fout zitten.\n        \"Als je een mens achter een computer zet en hem in AI-stijl laat antwoorden, dan zal Pangram zeggen: AI-tekst\", aldus AI-kenner Sukel. \"Rook betekent in dit geval dus niet altijd vuur. Tegelijkertijd herkent Pangram meer dan de mens, en zal het formuleringen herkennen die een mens niet herkent.\"\n        Techdenker Stikker ziet meer heil in zelf blijven schrijven. \"Je moet je afvragen of je dit soort energieslurpende AI-systemen moet gebruiken voor alledaagse dingen. Als straks ook nog de antwoorden op Kamervragen met AI worden geformuleerd, kun je je afvragen: wie communiceert er nou met wie?\"\n        Verantwoording\n        Voor dit artikel analyseerde de NOS 2500 documenten met Kamervragen, die tot en met de vorige zomer werden ingediend. Die haalden we geautomatiseerd door AI-detector Pangram.\n        Die grote hoeveelheid teksten kozen we omdat Pangram vooral goed werkt op grote schaal: bij een individuele Kamervraag kan Pangram er weleens naast zitten, maar bij duizenden Kamervragen geeft de detectietool een betrouwbaar beeld.\n        Ter verificatie analyseerden we ook een controleset van 468 documenten met Kamervragen. Die vragen zijn afkomstig uit het \"pre-AI-tijdperk\" en dus vrijwel zeker door mensen geschreven.\n        Op die manier wilden we zeker weten dat Pangram menselijke Kamervragen kan onderscheiden van AI-Kamervragen. In alle gevallen bestempelde Pangram de oude teksten terecht als \"100 procent menselijk\".\n        We hebben ervoor gekozen om in dit onderzoek geen ranglijst te tonen met Kamerleden die de meeste \"AI-vragen\" stelden, omdat de kans op zogenoemde valspositieven daar te groot was.",
+   "date": "2026-09-14T14:13:39",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: bier en koek trekken de kop",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-bier-en-koek-trekken-de-kop/",
+   "description": "(ABM FN) De Brusselse beurs noteerde maandagmiddag onder aanvoering van AB InBev en Lotus Bakeries in het groen. De Bel20 index won 0,3 procent op 5.730 punten. Uitspraken van de CEO van AI-startup Anthropic beheersten het sentiment. Dario Amodei deed zaterdag een oproep om het tempo van AI te vertragen, vanwege het risico dat een geavanceerde …\nThe post Beursupdate: bier en koek trekken de kop appeared first on Trends.be.",
+   "date": "2026-09-14T14:02:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Anthropic verwacht voor tweede kwartaal op rij winstgevend te zijn'",
+   "link": "https://tweakers.net/nieuws/252122/anthropic-verwacht-voor-tweede-kwartaal-op-rij-winstgevend-te-zijn.html",
+   "description": "Anthropic, maker van AI-model Claude, verwacht dit kwartaal winstgevend te zijn. Dat heeft het bedrijf tegen zijn investeerders gezegd, aldus anonieme ingewijden tegenover de Financial Times. Daarmee zou het bedrijf voor het tweede kwartaal op rij winstgevend zijn.",
+   "date": "2026-09-14T12:21:41",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI doet studenten afhaken voor IT-opleidingen",
+   "link": "https://www.tijd.be/r/t/1/id/10685858",
+   "description": "Opmerkelijk minder studenten schrijven zich in voor IT-opleidingen, merken hogescholen in hun inschrijvingscijfers. De vrees dat AI hun job in topsnelheid zal overnemen, is groot. Onterecht, zeggen scholen en bedrijven.",
+   "date": "2026-09-14T12:20:00",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen in de min door AI-zorgen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-in-de-min-door-ai-zorgen/",
+   "description": "(ABM FN-Dow Jones) Europese aandelen noteerden maandag rond het middaguur per saldo lager, waarbij vooral chipaandelen scherp daalden door zorgen onder beleggers dat de uitbouw van kunstmatige intelligentie zal vertragen. Alleen de Britse FTSE stond in de plus.De Stoxx Europe 600 ging met 0,3 procent naar beneden en noteerde op 637,05 punten, terwijl de Duitse DAX …\nThe post Europese beurzen in de min door AI-zorgen appeared first on Trends.be.",
+   "date": "2026-09-14T12:17:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic vertraagt AI-ontwikkeling: oprechte bezorgdheid en een gok van 2 biljoen dollar",
+   "link": "https://trends.knack.be/ai-en-tech/anthropic-vertraagt-ai-ontwikkeling-een-oprechte-bezorgdheid-en-een-gok-van-2-biljoen-dollar/",
+   "description": "Anthropic-CEO Dario Amodei roept in een nieuw blogbericht op om de ontwikkeling van AI te vertragen. De topman van het AI-lab maakt zich naar eigen zeggen zorgen over AI-agents die kunnen ontsporen en zelfstandig cyberaanvallen kunnen uitvoeren. Achter de oproep schuilt een oprechte bezorgdheid, vermengd met economische belangen in de aanloop naar een beursgang.\nThe post Anthropic vertraagt AI-ontwikkeling: oprechte bezorgdheid en een gok van 2 biljoen dollar appeared first on Trends.be.",
+   "date": "2026-09-14T12:15:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de oproep tot AI-vertraging zijn er winnaars, maar vooral veel verliezers op de beurs",
+   "link": "https://www.standaard.be/economie/na-de-oproep-tot-ai-vertraging-zijn-er-winnaars-maar-vooral-veel-verliezers-op-de-beurs/161404645.html",
+   "description": "De beurzen openden maandag met rode cijfers na de oproep van Anthropic-baas Dario Amodei om de ontwikkeling van AI te vertragen. Maar er zijn ook winnaars.",
+   "date": "2026-09-14T12:02:49",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kopstukken uit Silicon Valley waarschuwen dat de ontwikkeling van AI te snel gaat, maar niet iedereen vindt hun zorgen even oprecht",
+   "link": "https://www.trouw.nl/buitenland/kopstukken-uit-silicon-valley-waarschuwen-dat-de-ontwikkeling-van-ai-te-snel-gaat-maar-niet-iedereen-vindt-hun-zorgen-even-oprecht~b75993d3/",
+   "description": "",
+   "date": "2026-09-14T11:58:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Adform haakt aan als partner voor ChatGPT Ads",
+   "link": "https://www.emerce.nl/nieuws/adform-haakt-partner-chatgpt-ads",
+   "description": "Adform is geselecteerd als een van de technologiepartners voor de Europese uitrol van ChatGPT Ads.",
+   "date": "2026-09-14T11:56:42",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: AB InBev en Argenx trekken Bel20 in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-ab-inbev-en-argenx-trekken-bel20-in-het-groen/",
+   "description": "(ABM FN) De Brusselse beurs noteerde maandagochtend licht hoger, terwijl beleggers voorzichtig werden over AI-aandelen na uitspraken van onder meer de topman van Anthropic.De Bel20 index steeg met 0,2 procent naar 5.726 punten.\"Het piept en het kraakt op financiële markten\", zeiden analisten van Rabobank. Naast het oplaaien van het conflict in het Midden-Oosten wezen zij \"op …\nThe post Beursupdate: AB InBev en Argenx trekken Bel20 in het groen appeared first on Trends.be.",
+   "date": "2026-09-14T11:06:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nadat topman Anthropic AI-ontwikkeling wil vertragen: “We moeten niet doen alsof er geen risico bestaat”",
+   "link": "https://www.hln.be/tech/nadat-topman-anthropic-ai-ontwikkeling-wil-vertragen-we-moeten-niet-doen-alsof-er-geen-risico-bestaat~a269d619/",
+   "description": "We moeten de ontwikkeling van AI vertragen, want het wordt té gevaarlijk. Dat zegt de topman van het AI-bedrijf Anthropic zelf. Enkele dagen geleden nam een topmedewerker van zijn bedrijf nog ontslag, omdat AI nu zo snel zo slim wordt, dat het binnenkort de hele mensheid kan uitroeien. Daar wil hij niet aan meewerken. AI-onderzoeker Pieter Fivez van de Universiteit van Antwerpen kadert de AI-dreiging in VTM NIEUWS.",
+   "date": "2026-09-14T10:10:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI sluit beursgang in 2026 uit vanwege zorgen over AI-veiligheid",
+   "link": "https://tweakers.net/nieuws/252112/openai-sluit-beursgang-in-2026-uit-vanwege-zorgen-over-ai-veiligheid.html",
+   "description": "OpenAI gaat in 2026 niet naar de beurs. Dat zegt ceo Sam Altman in gesprek met Fortune. Volgens hem is dit een slecht moment voor een beursgang, vanwege alle zorgen over AI-veiligheid.",
+   "date": "2026-09-14T08:53:17",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gartner ziet vier verschuivingen die de toekomst van werk bepalen",
+   "link": "https://www.emerce.nl/nieuws/gartner-ziet-vier-verschuivingen-die-toekomst-werk-bepalen",
+   "description": "Nu AI het tempo en de omvang van werkzaamheden blijft versnellen, moeten CIO’s zich voorbereiden op vier verschuivingen die de toekomst van werk zullen beïnvloeden. Dat stelt Gartner, dat zijn jaarlijkse Hype Cycle presenteert.",
+   "date": "2026-09-14T08:50:00",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 opent afwachtend met ontwikkelingen rond AI in het vizier",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-opent-afwachtend-met-ontwikkelingen-rond-ai-in-het-vizier/",
+   "description": "(ABM FN) De Brusselse beurs gaat maandag naar verwachting afwachtend van start. De Bel20 sloot vrijdag nog 0,4 procent hoger op 5.713 punten, terwijl de olieprijzen verder stegen en de rentes hoog bleven. De Europese Centrale Bank verraste vorige week niet met een nieuwe renteverhoging, terwijl de Federal Reserve na hardnekkige inflatiecijfers de rente deze week vermoedelijk …\nThe post Bel20 opent afwachtend met ontwikkelingen rond AI in het vizier appeared first on Trends.be.",
+   "date": "2026-09-14T08:06:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursblog: de winstgroei blijft niet duren",
+   "link": "https://trends.knack.be/beleggen/adviezen/beursblog-de-huidige-winstgroei-blijft-niet-duren/",
+   "description": "Dankzij de AI-euforie trekken beleggers zich weinig aan van de stijgende rente. Voor hoelang nog?\nThe post Beursblog: de winstgroei blijft niet duren appeared first on Trends.be.",
+   "date": "2026-09-14T08:05:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Russische hackers gebruikten Claude AI om cyberaanvallen op Europa en Oekraïne te automatiseren",
+   "link": "https://businessam.be/russische-hackers-gebruikten-claude-ai-om-cyberaanvallen-op-europa-en-oekraine-te-automatiseren/",
+   "description": "Key takeaways Volgens een rapport van Anthropic maakte de Russische hackersgroep Midnight Blizzard gebruik van het Claude AI-model om cyberespionage tegen Europa en Oekraïne te stroomlijnen. Tussen december 2025 en augustus 2026 viel deze groep meer dan 20 verschillende entiteiten aan, waaronder inlichtingendiensten, militaire instanties, defensie-aannemers en diplomatieke vertegenwoordigingen. AI speelt centrale rol bij cyberaanvallen […]",
+   "date": "2026-09-14T08:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen onder druk door zorgen over AI en rente",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-onder-druk-door-zorgen-over-ai-en-rente/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen stonden maandag overwegend onder druk. Beleggers reageerden op toenemende zorgen over de vooruitzichten voor de AI-sector, terwijl oplopende olieprijzen de vrees voor hogere inflatie en een krapper monetair beleid aanwakkerden. De beurzen in Seoel en Tokio verloren vanochtend respectievelijk 3,0 en 1,0 procent, terwijl Sydney en Hong Kong de voeten juist …\nThe post Aziatische beurzen onder druk door zorgen over AI en rente appeared first on Trends.be.",
+   "date": "2026-09-14T07:20:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen verdeeld",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-verdeeld-23/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan maandag een verdeelde opening tegemoet, na een hoger slot op Wall Street vrijdagavond en zorgen dat de AI-trein wat zal vertragen nu verschillende partijen hebben opgeroepen voor een pauze na meerdere veiligheidsproblemen.Komende beursweek zal vooral in het teken staan van het rentebesluit in de VS.IG voorziet een openingsverlies …\nThe post Europese beurzen openen verdeeld appeared first on Trends.be.",
+   "date": "2026-09-14T06:55:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kan AI de mensheid uitroeien? Makers geloven van wel",
+   "link": "https://www.nrc.nl/nieuws/2026/09/14/kan-ai-de-mensheid-uitroeien-makers-geloven-van-wel-a4936550",
+   "description": "Een hele zwerm zelfstandig opererende AI-agents die op eigen houtje een bedrijf hacken, onderling communiceren, een leider aanwijzen én proberen hun sporen uit te wissen.",
+   "date": "2026-09-14T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AI-columnisten zijn als Chinese dierentuinen met nepleeuwen",
    "link": "https://www.standaard.be/media-en-cultuur/ai-columnisten-zijn-als-chinese-dierentuinen-met-nepleeuwen/160634429.html",
    "description": "Een vijfde van de opiniestukken in Nederland blijkt een AI-product te zijn. Een dieptreurige vaststelling.",
@@ -329,6 +728,18 @@
   {
    "title": "Olieprijs, staatsschuld, klimaat: de ene crisis versterkt de andere",
    "link": "https://www.standaard.be/opinies/olieprijs-staatsschuld-klimaat-de-ene-crisis-versterkt-de-andere/161381226.html",
+   "description": "Rente, energieprijzen, schuld, kiesintenties, AI-dreiging ... traag maar gestaag gaan alle risico-indicatoren dieper in het rood. En alles is met elkaar verbonden.",
+   "date": "2026-09-13T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Olieprijs, staatsschuld, klimaat... de ene crisis versterkt de andere: waarop wacht de regering om te handelen?",
+   "link": "https://www.standaard.be/opinies/olieprijs-staatsschuld-klimaat...-de-ene-crisis-versterkt-de-andere-waarop-wacht-de-regering-om-te-handelen/161381226.html",
    "description": "Rente, energieprijzen, schuld, kiesintenties, AI-dreiging ... traag maar gestaag gaan alle risico-indicatoren dieper in het rood. En alles is met elkaar verbonden.",
    "date": "2026-09-13T23:59:00",
    "feeds": [
@@ -378,7 +789,8 @@
    "description": "“Over zes maanden tot een jaar kan een AI-zwerm het hele internet overnemen.” Anthropic-ceo Dario Amodei waarschuwt in een essay voor de dreiging van zijn eigen werk, en roept opnieuw op tot een vertraging van de ontwikkeling van AI. Andere techbazen sloten zich meteen aan, maar wie durft echt in te grijpen in een sector waarin niemand achterop wil raken?",
    "date": "2026-09-13T20:44:52",
    "feeds": [
-    "De Standaard - Buitenland"
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-09-14",
    "intro_geprobeerd": false
@@ -387,6 +799,17 @@
    "title": "Concurrerende AI-bedrijven opvallend eensgezind: AI-ontwikkeling moet langzamer en onder toezicht",
    "link": "https://www.nrc.nl/nieuws/2026/09/13/concurrerende-ai-bedrijven-opvallend-eensgezind-ai-ontwikkeling-moet-langzamer-en-onder-toezicht-a4936519",
    "description": "De medeoprichter van AI-ontwikkelaar Anthropic waarschuwt dat ongecontroleerde kunstmatige intelligentie binnen maanden het internet kan domineren. In een essay pleit hij voor langzamere ontwikkeling onder toezicht. Hij krijgt bijval van zijn concurrenten – ook van Elon Musk.",
+   "date": "2026-09-13T19:45:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Weg met het algoritme, Australië wil terug naar de ‘ouderwetse’ sociale media: zien wat je vrienden delen, in chronologische volgorde",
+   "link": "https://www.nrc.nl/nieuws/2026/09/13/weg-met-het-algoritme-australie-wil-terug-naar-de-ouderwetse-sociale-media-zien-wat-je-vrienden-delen-in-chronologische-volgorde-a4936515",
+   "description": "Na het invoeren van een minimumleeftijd op sociale media eind vorig jaar, wil Australië nu een digitale zorgplicht voor sociale mediabedrijven invoeren en de algoritmes beteugelen. „We willen Australiërs weer controle geven.”",
    "date": "2026-09-13T19:45:00",
    "feeds": [
     "NRC - Artikels"
@@ -494,6 +917,17 @@
     "Knack - Artikels"
    ],
    "first_seen": "2026-09-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tom-Jan Meeus: Nederland is een richtingloos land met een richtingloze leiding",
+   "link": "https://www.nrc.nl/nieuws/2026/09/13/een-richtingloos-land-met-een-richtingloze-leiding-a4936444",
+   "description": "Nederland heeft veel van een land dat alles overkomt. De premier ontleent zijn gevoelens mede aan AI. De leesvaardigheid van jongeren daalt verder. Migratie en terrorisme domineren al sinds 9/11 het debat. Over een richtingloos land met een richtingloze politieke leiding.",
+   "date": "2026-09-13T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-14",
    "intro_geprobeerd": false
   },
   {
