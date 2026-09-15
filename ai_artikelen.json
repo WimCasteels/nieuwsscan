@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T03:10:54",
+ "generated": "2026-09-15T17:26:36",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 25,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -58,13 +58,13 @@
   {
    "name": "De Morgen - Luister",
    "url": "https://www.demorgen.be/luister/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,347 @@
   }
  ],
  "articles": [
+  {
+   "title": ".Geek - Geen Willem-AI-lexander: troonrede is volledig door mensen geschreven",
+   "link": "https://tweakers.net/geek/252202/geen-willem-ai-lexander-troonrede-is-volledig-door-mensen-geschreven.html",
+   "description": "De Nederlandse premier Rob Jetten laat een deel van zijn posts op sociale media schrijven door AI. Hoe zit dat met zijn belangrijkste tekst van het jaar? De troonrede blijkt volledig door mensen geschreven.",
+   "date": "2026-09-15T17:15:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gent ontwikkelt veilig AI-platform voor eigen diensten: \"Willen niet afhangen van enkele onethische rijke ondernemers\"",
+   "link": "https://vrtnws.be/p.5wjjWn5lm",
+   "description": "Gent heeft een platform uitgewerkt dat de privacy, veiligheid en onafhankelijkheid moet garanderen bij het gebruik van AI-tools door stadsdiensten. \"We mogen niet afhangen van enkele rijke ondernemers die onze Europese regels en waarden niet onderschrijven\", zegt de stad. In Gent is er de komende dagen een internationale AI-conferentie die net focust op betrouwbare AI-toepassingen.",
+   "date": "2026-09-15T16:51:33",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang, de apolitieke Nvidia-ceo die steeds meer bondgenoot van Trump wordt",
+   "link": "https://www.standaard.be/economie/jensen-huang-de-apolitieke-nvidia-ceo-die-steeds-meer-bondgenoot-van-trump-wordt/161469032.html",
+   "description": "De Nvidia-topman Jensen Huang vindt een oproep tot AI-vertraging paniekzaaierij. “Het is aan de AI-labs om alleen met veilige producten op de markt te komen.”",
+   "date": "2026-09-15T16:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donderdag marktenchat over de mogelijke AI-vertraging, het rentebesluit van de Fed en nog veel meer",
+   "link": "https://www.tijd.be/r/t/1/id/10686072",
+   "description": "Onze experts beantwoorden ook deze week uw beleggersvragen.",
+   "date": "2026-09-15T16:38:10",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eindhovense chipmaker Euclyd haalt 200 miljoen euro op om te concurreren met Nvidia",
+   "link": "https://www.volkskrant.nl/wetenschap/eindhovense-chipmaker-euclyd-haalt-200-miljoen-euro-op-om-te-concurreren-met-nvidia~b23e7b6f/",
+   "description": "",
+   "date": "2026-09-15T16:18:12",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Kabinet trekt ruim 10 miljoen euro uit voor AI in het funderend onderwijs",
+   "link": "https://www.security.nl/posting/953123/Kabinet+trekt+ruim+10+miljoen+euro+uit+voor+AI+in+het+funderend+onderwijs?channel=rss",
+   "description": "Het kabinet trekt volgend jaar ruim 10 miljoen euro uit voor AI in het funderend onderwijs, zo is vandaag bekendgemaakt. ...",
+   "date": "2026-09-15T15:50:10",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het Duitse AI-wonderkind Leopold Aschenbrenner was met zijn hoofd in de sterren, maar is weer helemaal terug op aarde",
+   "link": "https://www.demorgen.be/tech-ai/het-duitse-ai-wonderkind-leopold-aschenbrenner-was-met-zijn-hoofd-in-de-sterren-maar-is-weer-helemaal-terug-op-aarde~b2a6f0de/",
+   "description": "",
+   "date": "2026-09-15T15:42:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bill Gates waarschuwt: “Geen enkel land klaar voor de risico’s van AI”",
+   "link": "https://businessam.be/bill-gates-waarschuwt-geen-enkel-land-klaar-voor-de-risicos-van-ai/",
+   "description": "Key takeaways Bill Gates heeft zijn ernstige bezorgdheid geuit over het gebrek aan paraatheid bij overheden wereldwijd om de maatschappelijke veranderingen aan te pakken die door artificiële intelligentie worden veroorzaakt. “Geen enkel land klaar voor de risico’s van AI” In een gesprek met Reuters waarschuwde de medeoprichter van Microsoft dat geen enkel land een toereikende […]",
+   "date": "2026-09-15T15:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De 7 Extra | Moeten we echt vrezen voor een AI-pocalyps?",
+   "link": "https://www.tijd.be/r/t/1/id/10686068",
+   "description": "'De 7 Extra' is een podcast van De Tijd. Bij grote nieuwsverhalen krijgt u meer achtergrond, analyse en duiding.",
+   "date": "2026-09-15T15:19:44",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'AI-bedrijven bespreken oprichting van standaardenorgaan dat veiligheid test'",
+   "link": "https://tweakers.net/nieuws/252144/ai-bedrijven-bespreken-oprichting-van-standaardenorgaan-dat-veiligheid-test.html",
+   "description": "Anthropic, Google en OpenAI voeren gesprekken over de oprichting van een standaardenorgaan. Dat melden anonieme bronnen aan CNN. Het orgaan moet geavanceerde AI-modellen testen op veiligheid voordat de makers ze uitrollen. De betrokken AI-bedrijven hebben nog niet gereageerd.",
+   "date": "2026-09-15T14:08:55",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk trekt rechtszaak tegen Apple in verband met OpenAI-deal in",
+   "link": "https://businessam.be/elon-musk-trekt-rechtszaak-tegen-apple-in-verband-met-openai-deal-in/",
+   "description": "Key takeaways Elon Musk heeft besloten zijn rechtszaak tegen Apple in te trekken. De rechtszaak draaide om beschuldigingen dat de techgigant ChatGPT van OpenAI een oneerlijk voordeel gaf ten opzichte van concurrerende AI-diensten. Hoewel het geschil met Apple is bijgelegd, zet Musk zijn juridische strijd tegen OpenAI voort. “Oneerlijke concurrentie” Het conflict vloeit voort uit […]",
+   "date": "2026-09-15T13:04:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia RTX PRO 5500-gpu heeft 84GB geheugen en evenveel CUDA-cores als RTX 5090",
+   "link": "https://tweakers.net/nieuws/252178/nvidia-rtx-pro-5500-gpu-heeft-84gb-geheugen-en-evenveel-cuda-cores-als-rtx-5090.html",
+   "description": "Nvidia heeft de RTX PRO 5500 Blackwell Workstation Edition onthuld. De AI-accelerator heeft 84GB GDDR7-geheugen met error-correcting code (ECC) en 21.760 CUDA-cores, evenveel als de RTX 5090. De tgp van de kaart bedraagt 600W.",
+   "date": "2026-09-15T12:20:47",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI-agents kunnen uw website niet vinden of openen’: 4 redenen om nu al klaar te zijn voor agents",
+   "link": "https://trends.knack.be/ai-en-tech/ai-agents-kunnen-uw-website-niet-vinden-of-openen-vier-redenen-om-nu-al-klaar-te-zijn-voor-agents/",
+   "description": "Belgische websites van bedrijven en overheden zijn niet gebruiksklaar voor AI-agents. Dat blijkt uit een onderzoek van het digital agency In The Pocket. Amper twee van de 245 onderzochte websites van overheden en grote bedrijven zijn aangepast voor gebruik door agents, en een kwart was zelfs helemaal niet toegankelijk. Dit zijn vier argumenten waarom bedrijven er beter aan doen nu al websites te bouwen voor een toekomst met AI-agents.\nThe post ‘AI-agents kunnen uw website niet vinden of openen’: 4 redenen om nu al klaar te zijn voor agents appeared first on Trends.be.",
+   "date": "2026-09-15T12:11:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI koopt maker digitale cameralenzen",
+   "link": "https://www.emerce.nl/nieuws/openai-koopt-maker-digitale-cameralenzen",
+   "description": "OpenAI koopt technologiebedrijf Glass Imaging voor, naar verluidt, 300 miljoen dollar. Daarmee krijgt het technologie in huis om digitale foto’s op te werken naar hogere, betere kwaliteit.",
+   "date": "2026-09-15T11:57:42",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘De laatste zomer’ van de NPO is beter microdrama dan de vreemdgaande AI-appels of vampieren uit China",
+   "link": "https://www.nrc.nl/nieuws/2026/09/15/de-laatste-zomer-van-de-npo-is-beter-microdrama-dan-de-vreemdgaande-ai-appels-of-vampieren-uit-china-a4936664",
+   "description": "Eind augustus verscheen ‘De laatste zomer’: het eerste ‘microdrama’ van de NPO. Een soort serie in smartphoneformaat, verticaal gefilmd, met afleveringen van maximaal twee minuten per stuk. Het microdrama groeit wereldwijd gigantisch. Stijgt de NPO boven de sensatie uit?",
+   "date": "2026-09-15T11:49:10",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: oplopende rentes en hoge olieprijs drukken sentiment Brussel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-oplopende-rentes-en-hoge-olieprijs-drukken-sentiment-brussel/",
+   "description": "(ABM FN) De beurs in Brussel noteerde dinsdagochtend lager, terwijl beleggers wederom werden geconfronteerd met verder oplopende rentes en hogere olieprijzen.De sterindex daalde rond half twaalf met 0,6 procent tot 5.692,82 punten.Volgens investment manager Simon Wiersma van ING wordt de markt momenteel gedomineerd door drie thema's. Allereerst de discussie over het tempo van AI-ontwikkeling. Toonaangevende AI-bedrijven …\nThe post Beursupdate: oplopende rentes en hoge olieprijs drukken sentiment Brussel appeared first on Trends.be.",
+   "date": "2026-09-15T11:29:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bekijk – Danny Reweghs over de AI-angstgolf: ‘Nevenschade in andere sectoren toont aan hoe breed AI is uitgedijd op de beursvloer’",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/danny-reweghs-over-de-ai-angstgolf-nevenschade-in-andere-sectoren-toont-aan-hoe-breed-ai-is-uitgedijd-op-de-beursvloer/",
+   "description": "De marsrichting van de beurzen is plots omgedraaid: beleggers marcheerden maandag weg van AI en chips. Oorzaak is de waarschuwingen van enkele techbonzen over hoe de technologie zich ontwikkelt. “Dit hadden beleggers niet zien aankomen”, zegt Danny Reweghs, directeur strategie van Trends Beleggen.\nThe post Bekijk – Danny Reweghs over de AI-angstgolf: ‘Nevenschade in andere sectoren toont aan hoe breed AI is uitgedijd op de beursvloer’ appeared first on Trends.be.",
+   "date": "2026-09-15T11:07:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bol brengt echt slimme AI-shoppingassistent uit",
+   "link": "https://www.emerce.nl/nieuws/bol-brengt-echt-slimme-aishoppingassistent-uit",
+   "description": "Met de publicatie van zijn AI-shoppingassistent legt Bol de lat serieus hoog voor elke andere webwinkel die overweegt om AI toe te voegen in het proces van oriëntatie, zoeken en beslissen tot een aankoop.",
+   "date": "2026-09-15T11:02:21",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Waarom de ophef over een AI-gebruikende premier zwaar overtrokken is",
+   "link": "https://www.emerce.nl/opinie/waarom-ophef-aigebruikende-premier-zwaar-overtrokken",
+   "description": "De ophef over premier Rob Jetten en D66 die AI gebruikten voor socialmediaberichten is zwaar overtrokken. AI dient niet als vervanging van authenticiteit, maar als een efficiënt klankbord dat kostbare tijd vrijmaakt. Zolang er heldere grenzen zijn rondom dataveiligheid en transparantie (conform de EU AI Act), biedt AI de politiek én het bedrijfsleven juist de kans om efficiënter te werken en meer tijd te besteden aan wat er echt toe doet.",
+   "date": "2026-09-15T10:30:58",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle verhoogt budget voor AI-reorganisatie tot 2,8 miljard dollar ondanks banenverlies",
+   "link": "https://businessam.be/oracle-verhoogt-budget-voor-ai-reorganisatie-tot-28-miljard-dollar-ondanks-banenverlies/",
+   "description": "Key takeaways Om zijn kostbare uitbreiding op het gebied van artificiële intelligentie te ondersteunen, heeft Oracle het budget voor zijn reorganisatiestrategie voor 2026 met 700 miljoen dollar verhoogd. Door die aanpassing stijgen de verwachte totale uitgaven voor het initiatief tot ongeveer 2,8 miljard dollar (2,4 miljard euro), waarmee kosten worden gedekt zoals contractbeëindigingen, ontslagvergoedingen en […]",
+   "date": "2026-09-15T10:27:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OpenAI kocht AI-camerabedrijf van ex-Apple-werknemers voor 300 miljoen dollar'",
+   "link": "https://tweakers.net/nieuws/252176/openai-kocht-ai-camerabedrijf-van-ex-apple-werknemers-voor-300-miljoen-dollar.html",
+   "description": "OpenAI heeft de afgelopen maanden het bedrijf Glass Imaging voor 300 miljoen dollar overgenomen, melden bronnen van The Wall Street Journal. Glass Imaging ontwikkelt technologie om de beeldkwaliteit van foto's te verbeteren met AI.",
+   "date": "2026-09-15T10:23:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Trump gelooft de alarmkreten van de AI-industrie niet zomaar, en terecht’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/trump-gelooft-de-alarmkreten-van-de-ai-industrie-niet-zomaar-en-terecht/",
+   "description": "Donald Trump vindt de waarschuwingen voor ongelukken met AI fel overdreven, ook als ze van de AI-bedrijven zelf komen. Er zijn redenen om zijn oordeel niet meteen van de hand te wijzen.\nThe post ‘Trump gelooft de alarmkreten van de AI-industrie niet zomaar, en terecht’ appeared first on Knack.",
+   "date": "2026-09-15T10:20:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Waarom AI-reuzen een rem willen: één reële reden en vier keer eigenbelang",
+   "link": "https://tweakers.net/reviews/15288/waarom-ai-reuzen-een-rem-willen-een-reele-reden-en-vier-keer-eigenbelang.html",
+   "description": "AI-concurrenten Anthropic, OpenAI en xAI willen het tempo van AI-ontwikkelingen afremmen vanwege de risico's. Alleen zijn ze niet écht voor vertraging.",
+   "date": "2026-09-15T09:45:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle start nieuwe ontslagronde om AI-investeringen te betalen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/oracle-start-nieuwe-ontslagronde-om-ai-investeringen-te-betalen/",
+   "description": "Oracle is opnieuw een ontslagronde gestart. In mei van dit jaar zette de techgigant al 21.000 mensen aan de deur. Een e-mail die de nieuwe ontslagen aankondigt, is ondertussen gelekt.\nThe post Oracle start nieuwe ontslagronde om AI-investeringen te betalen appeared first on Trends.be.",
+   "date": "2026-09-15T09:44:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pony.ai zet stap naar massaproductie van autonome vrachtwagens",
+   "link": "https://businessam.be/pony-ai-zet-stap-naar-massaproductie-van-autonome-vrachtwagens/",
+   "description": "Key takeaways In samenwerking met GAC Commercial Vehicle heeft Pony.ai zijn nieuwste autonome zware vrachtwagen van niveau 4 geïntroduceerd. Dit markeert een belangrijke mijlpaal in het partnerschap, dat erop gericht is het vierde generatie Robotruck-platform (Gen-4) van de ontwikkelingsfase naar grootschalige commerciële toepassing en massaproductie te brengen. Veiligheid Het voertuig is ontwikkeld op basis van […]",
+   "date": "2026-09-15T09:26:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Google Deepmind-medewerker stapt op met waarschuwing dat AI “ons allemaal kan doden”",
+   "link": "https://www.gva.be/economie/technologie/ook-google-deepmind-medewerker-stapt-op-met-waarschuwing-dat-ai-ons-allemaal-kan-doden/161454357.html",
+   "description": "Een AI-onderzoeker die onlangs ontslag nam bij Google DeepMind heeft gewaarschuwd dat de mensheid bijna geen tijd meer heeft om te voorkomen dat artificiële intelligentie enorme schade aanricht. Eerder deze maand sprak een medewerker van Anthropic al zijn bezorgdheid uit over hoe de technologie zich ontwikkelt.",
+   "date": "2026-09-15T09:12:35",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 start vermoedelijk licht lager met blik op rente olie en AI",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-start-vermoedelijk-licht-lager-met-blik-op-rente-olie-en-ai/",
+   "description": "(ABM FN) De Brusselse beurs gaat dinsdag op Prinsjesdag naar verwachting lager van start, nadat Wall Street maandagavond de verliezen uiteindelijk wist te beperken, net als de Aziatische beurzen vanochtend.De Brusselse beurs sloot maandag met een kleine winst, waarmee de sterindex het beter deed dan de omringende beurzen. De Bel20 sloot 0,3 procent hoger op 5.729,67 …\nThe post Bel20 start vermoedelijk licht lager met blik op rente olie en AI appeared first on Trends.be.",
+   "date": "2026-09-15T08:11:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Adv - Wat maakt een thuisbatterij slim? Jackery Ark en AI-sturing uitgelegd",
+   "link": "https://tweakers.net/plan/4808/wat-maakt-een-thuisbatterij-slim-jackery-ark-en-ai-sturing-uitgelegd.html",
+   "description": "Een thuisbatterij kan zonnestroom opslaan en later weer afgeven, maar daarmee is het systeem nog niet automatisch slim. Daarvoor moet de batterij weten hoeveel stroom een huishouden gebruikt, wat de zonnepanelen opwekken en wanneer elektriciteit goedkoop of juist duur is. Met Jackery Ark wil Jackery al die gegevens samenbrengen. Ook kan de SolarVault 3-serie worden opgenomen in een smarthome-omgeving.",
+   "date": "2026-09-15T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VPRO gaat als eerste beeldverificatietool gebruiken",
+   "link": "https://www.emerce.nl/nieuws/vpro-gaat-eerste-beeldverificatietool-gebruiken",
+   "description": "Nu generatieve AI het steeds makkelijker maakt om beelden te creëren en manipuleren, is het van essentieel belang om de herkomst van digitale content te kunnen controleren. In een pilot hebben Media Campus NL, Dawn Technology en de VPRO een opensource verificatietool ontwikkeld: Verifieermij.nl. Verschillende VPRO-redacties gaan nu als eerste in Nederland hun content van C2PA-info, een digitale handtekening, voorzien.",
+   "date": "2026-09-15T07:45:19",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen beperken verliezen na herstel AI-aandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-beperken-verliezen-na-herstel-ai-aandelen/",
+   "description": "(ABM FN) De Aziatische beurzen noteerden dinsdag overwegend licht lager, waarbij een herstel onder AI- en chipaandelen tegenwicht bood aan de hoge olieprijzen en oplopende obligatierentes. In Tokio koerste de Nikkei index enkele tienden van een procent lager, terwijl de Hang Seng index in Hong Kong ongeveer een half procent prijs gaf. Chipaandelen herstelden deels van de …\nThe post Aziatische beurzen beperken verliezen na herstel AI-aandelen appeared first on Trends.be.",
+   "date": "2026-09-15T07:26:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-lager-43/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan dinsdag een lagere opening tegemoet, na een eveneens lager slot op Wall Street maandag, toen de zorgen over het gebruik van AI domineerden, terwijl de rentes en de olieprijzen hoog bleven.IG voorziet dinsdag een openingsverlies van 23 punten voor de Duitse DAX en een min van 1 punt …\nThe post Europese beurzen openen lager appeared first on Trends.be.",
+   "date": "2026-09-15T07:09:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Kunnen China en de VS samen grenzen opleggen aan AI voor die de échte supermacht wordt?",
    "link": "https://www.standaard.be/economie/kunnen-china-en-de-vs-samen-grenzen-opleggen-aan-ai-voor-die-de-echte-supermacht-wordt/161419223.html",
@@ -362,6 +703,17 @@
   {
    "title": "EU wil toegang tot sociale media voor kinderen onder 15 jaar sterk beperken: ook onlinegames en AI-chatbots geviseerd",
    "link": "https://www.hln.be/internet/eu-wil-toegang-tot-sociale-media-voor-kinderen-onder-15-jaar-sterk-beperken-ook-onlinegames-en-ai-chatbots-geviseerd~aa7e25159/",
+   "description": "Eindeloos scrollen op TikTok of Instagram? Als het van de Europese Commissie afhangt, is de onbegrensde digitale speeltuin voor kinderen onder de 15 jaar binnenkort verleden tijd. Met de nieuwe EU KIDS Act wordt de toegang tot sociale media, onlinegames en zelfs virtuele ‘AI-vrienden’ drastisch ingeperkt. Een compleet verbod komt er wellicht niet, wel een stapsgewijs systeem onder ouderlijk toezicht.",
+   "date": "2026-09-14T21:21:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU wil toegang tot sociale media voor -15 jarigen sterk beperken: ook TikTok, Instagram en AI-chatbots geviseerd",
+   "link": "https://www.hln.be/internet/eu-wil-toegang-tot-sociale-media-voor-15-jarigen-sterk-beperken-ook-tiktok-instagram-en-ai-chatbots-geviseerd~aa7e25159/",
    "description": "Eindeloos scrollen op TikTok of Instagram? Als het van de Europese Commissie afhangt, is de onbegrensde digitale speeltuin voor kinderen onder de 15 jaar binnenkort verleden tijd. Met de nieuwe EU KIDS Act wordt de toegang tot sociale media, onlinegames en zelfs virtuele ‘AI-vrienden’ drastisch ingeperkt. Een compleet verbod komt er wellicht niet, wel een stapsgewijs systeem onder ouderlijk toezicht.",
    "date": "2026-09-14T21:21:00",
    "feeds": [
@@ -431,6 +783,17 @@
   {
    "title": "Techbedrijven hebben meer schulden dan vroeger, waarvan een deel 'onzichtbaar'",
    "link": "https://www.nu.nl/economie/6409719/techbedrijven-hebben-meer-schulden-dan-vroeger-waarvan-een-deel-onzichtbaar.html",
+   "description": "Amerikaanse techbedrijven steken zichzelf vaker en dieper in de schulden in de wedloop rondom kunstmatige intelligentie, stelt kredietverzekeraar Allianz. Het gaat om leningen voor bijvoorbeeld de bouw van datacenters, terwijl techbedrijven vroeger nog heel weinig schulden hadden.",
+   "date": "2026-09-14T20:27:09",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techbedrijven hebben meer schulden dan vroeger, waarvan deels onzichtbaar",
+   "link": "https://www.nu.nl/economie/6409719/techbedrijven-hebben-meer-schulden-dan-vroeger-waarvan-deels-onzichtbaar.html",
    "description": "Amerikaanse techbedrijven steken zichzelf vaker en dieper in de schulden in de wedloop rondom kunstmatige intelligentie, stelt kredietverzekeraar Allianz. Het gaat om leningen voor bijvoorbeeld de bouw van datacenters, terwijl techbedrijven vroeger nog heel weinig schulden hadden.",
    "date": "2026-09-14T20:27:09",
    "feeds": [
@@ -647,6 +1010,17 @@
     "NRC - Artikels"
    ],
    "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is Rob Jetten de mens van de toekomst?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/14/is-rob-jetten-de-mens-van-de-toekomst-a4936437",
+   "description": "Het is toch nog best even oefenen, voor je het zielloze proza beheerst dat AI in een seconde voor je uitrolt. Tot de vereisten horen, behalve een gelikte Teflon-stijl, de ‘opsomming in drievoud’ en de quasi-bedachtzame tegenstelling. Moet lukken, de premier kan het ook, schrijft Sjoerd de Jong.",
+   "date": "2026-09-14T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-15",
    "intro_geprobeerd": false
   },
   {
