@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T18:46:12",
+ "generated": "2026-09-15T03:10:54",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 25,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 163,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,197 @@
   }
  ],
  "articles": [
+  {
+   "title": "Kunnen China en de VS samen grenzen opleggen aan AI voor die de échte supermacht wordt?",
+   "link": "https://www.standaard.be/economie/kunnen-china-en-de-vs-samen-grenzen-opleggen-aan-ai-voor-die-de-echte-supermacht-wordt/161419223.html",
+   "description": "China noemt de veelbesproken pauze in AI-ontwikkeling een Amerikaanse sabotagepoging. Toch beseffen beide grootmachten goed genoeg dat AI onderlinge afspraken vereist.",
+   "date": "2026-09-14T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe realistisch is die grote AI-vertraging? “Het voorstel is misleidend”",
+   "link": "https://www.standaard.be/economie/hoe-realistisch-is-die-grote-ai-vertraging-het-voorstel-is-misleidend/161412426.html",
+   "description": "Het plan van Dario Amodei om de ontwikkeling van AI te vertragen, dient vooral zijn eigen agenda en die van de andere AI-bazen, zeggen critici. “AI heeft inderdaad regels nodig, de vraag is wie die mag schrijven.”",
+   "date": "2026-09-14T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OpenAI neemt Glass Imaging over en zet in op betere smartphonecamera’s'",
+   "link": "https://www.tijd.be/r/t/1/id/10685969",
+   "description": "OpenAI, de maker van ChatGPT, heeft het Californische Glass Imaging overgenomen, een start-up die met artificiële intelligentie de beperkingen van lenzen en beeldsensoren corrigeert om de fotokwaliteit op smartphones op te krikken. Dat meldt The Wall Street Journal.",
+   "date": "2026-09-14T22:11:44",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oproep om AI af te remmen en hoge olieprijzen wegen op de beurzen",
+   "link": "https://www.standaard.be/economie/oproep-om-ai-af-te-remmen-en-hoge-olieprijzen-wegen-op-de-beurzen/161423643.html",
+   "description": "De oproep van AI-reuzen om de ontwikkeling van AI af te remmen, duwde de betrokken sectoraandelen kopje-onder. Tegelijk leidt de stijgende olieprijs tot toenemende inflatie- en rentevrees.",
+   "date": "2026-09-14T22:05:45",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU wil toegang tot sociale media voor kinderen onder 15 jaar sterk beperken: ook onlinegames en AI-chatbots geviseerd",
+   "link": "https://www.hln.be/internet/eu-wil-toegang-tot-sociale-media-voor-kinderen-onder-15-jaar-sterk-beperken-ook-onlinegames-en-ai-chatbots-geviseerd~aa7e25159/",
+   "description": "Eindeloos scrollen op TikTok of Instagram? Als het van de Europese Commissie afhangt, is de onbegrensde digitale speeltuin voor kinderen onder de 15 jaar binnenkort verleden tijd. Met de nieuwe EU KIDS Act wordt de toegang tot sociale media, onlinegames en zelfs virtuele ‘AI-vrienden’ drastisch ingeperkt. Een compleet verbod komt er wellicht niet, wel een stapsgewijs systeem onder ouderlijk toezicht.",
+   "date": "2026-09-14T21:21:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China en VS kijken elkaar wit uit de ogen over oproep tot meer samenwerking voor veilige AI",
+   "link": "https://www.tijd.be/r/t/1/id/10685869",
+   "description": "Een verse paniekgolf over de razendsnelle ontwikkeling van AI heeft geleid tot nieuwe oproepen tot samenwerking tussen de VS en China. De leidende grootmachten in AI draaien rond elkaar, anderhalve week voor een nieuwe ontmoeting tussen de presidenten Donald Trump en Xi Jinping.",
+   "date": "2026-09-14T21:17:49",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitsland waarschuwt: AI-vooruitgang afremmen is geen optie voor Europa",
+   "link": "https://businessam.be/duitsland-waarschuwt-ai-vooruitgang-afremmen-is-geen-optie-voor-europa/",
+   "description": "Key takeaways Het Duitse ministerie van Digitale Zaken heeft onlangs verklaard dat het opschorten van de vooruitgang op het gebied van artificiële intelligentie geen haalbare strategie is voor Europa. Een woordvoerder van het ministerie legde uit dat het voortzetten van innovatie en vooruitgang op het gebied van AI essentieel is voor de regio om haar […]",
+   "date": "2026-09-14T21:12:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Apple iOS 27",
+   "link": "https://tweakers.net/downloads/78250/apple-ios-27.html",
+   "description": "Apple heeft versie 27 van iOS uitgebracht. In iOS 27, dat geschikt is voor de iPhone 11 en hoger, heeft Apple onder meer extra AI-functies beschikbaar gemaakt, zijn er meer mogelijkheden voor ouders om hun kinderen te beschermen en zijn er diverse verbeteringen in Liquid Glass aangebracht. De belangrijkste verbeteringen zijn door Apple als volgt voor je op een rijtje gezet: All-new Siri AI",
+   "date": "2026-09-14T21:05:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese regering waarschuwt bedrijven voor lekken informatie via Amerikaanse AI",
+   "link": "https://tweakers.net/nieuws/252162/chinese-regering-waarschuwt-bedrijven-voor-lekken-informatie-via-amerikaanse-ai.html",
+   "description": "De Chinese regering waarschuwt bedrijven in eigen land voor het lekken van informatie via Amerikaanse AI-diensten. De waarschuwing zou een opmaat kunnen zijn voor een verbod op AI-diensten uit andere landen dan China.",
+   "date": "2026-09-14T20:38:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaming (38) die wereldberoemd werd met deepfakes stapt volledig uit zijn miljardenbedrijf",
+   "link": "https://www.hln.be/economie/vlaming-38-die-wereldberoemd-werd-met-deepfakes-stapt-volledig-uit-zijn-miljardenbedrijf~a53a846b/",
+   "description": "Chris Umé, de Limburger die wereldberoemd werd met deepfakes van onder meer Tom Cruise en Elvis Presley, stapt volledig uit zijn miljardenbedrijf Metaphysic, dat hij vorig jaar al verkocht. Hij begint met iets nieuws, vertelt hij aan VTM NIEUWS.",
+   "date": "2026-09-14T20:32:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techbedrijven hebben meer schulden dan vroeger, waarvan een deel 'onzichtbaar'",
+   "link": "https://www.nu.nl/economie/6409719/techbedrijven-hebben-meer-schulden-dan-vroeger-waarvan-een-deel-onzichtbaar.html",
+   "description": "Amerikaanse techbedrijven steken zichzelf vaker en dieper in de schulden in de wedloop rondom kunstmatige intelligentie, stelt kredietverzekeraar Allianz. Het gaat om leningen voor bijvoorbeeld de bouw van datacenters, terwijl techbedrijven vroeger nog heel weinig schulden hadden.",
+   "date": "2026-09-14T20:27:09",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een ‘president met hoog IQ’ moet volstaan: Trump wil niets weten van extra controle op AI-ontwikkelingen",
+   "link": "https://www.demorgen.be/nieuws/een-president-met-hoog-iq-moet-volstaan-trump-wil-niets-weten-van-extra-controle-op-ai-ontwikkelingen~bd8f2148/",
+   "description": "",
+   "date": "2026-09-14T20:19:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bel20 blijft overeind in verkoopgolf rond AI",
+   "link": "https://www.standaard.be/economie/beurs/bel20-blijft-overeind-in-verkoopgolf-rond-ai/161422912.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Money Time’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-09-14T19:36:33",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ethisch hacker Inti De Ceukelaire stelt mening over AI bij: \"Geen apocalyps, maar gevolgen kunnen vreselijk zijn\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/14/inti-de-ceukelaire-etische-hacker-ai-gevaar/",
+   "description": "Ethisch hacker Inti De Ceukelaire past zijn mening over AI-gebruik aan. Hoewel hij eerst vooral keek naar hoe mensen artificiële intelligentie kunnen misbruiken, zegt hij nu dat we ook ernstig moeten nadenken over hoe AI zelf schade kan veroorzaken aan mensen. \"Ben ik ongerust? Absoluut.",
+   "date": "2026-09-14T19:09:59",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ethisch hacker Inti De Ceukelaire stelt mening over AI bij: \"Geen apocalyps, maar gevolgen kunnen vreselijk zijn\"",
+   "link": "https://vrtnws.be/p.VLyyYRNGB",
+   "description": "Ethisch hacker Inti De Ceukelaire past zijn mening over AI-gebruik aan. Hoewel hij eerst vooral keek naar hoe mensen artificiële intelligentie kunnen misbruiken, zegt hij nu dat we ook ernstig moeten nadenken over hoe AI zelf schade kan veroorzaken aan mensen. \"Ben ik ongerust? Absoluut. Denk ik dat we het kunnen fixen? Ook\", klinkt het.",
+   "date": "2026-09-14T19:09:59",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Koning Charles mengt zich in AI-debat en ontvangt topbestuurders uit de techsector",
+   "link": "https://businessam.be/koning-charles-mengt-zich-in-ai-debat-en-ontvangt-topbestuurders-uit-de-techsector/",
+   "description": "Key takeaways In het licht van toenemende bezorgdheid over de risico’s van artificiële intelligentie zal koning Charles een bijeenkomst beleggen met vooraanstaande leiders uit de sector. Aan de bijeenkomst zullen vertegenwoordigers van OpenAI, Google, Anthropic en Nvidia deelnemen, evenals de Britse minister die verantwoordelijk is voor AI. Het primaire doel is om te bepalen of […]",
+   "date": "2026-09-14T18:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een Nobelprijs voor AI-wereldvrede",
+   "link": "https://www.tijd.be/r/t/1/id/10685952",
+   "description": "Nadat de top van de AI-industrie zelf alarm heeft geslagen over de snelheid waarmee artificiële intelligentie zich ontwikkelt, luidt de diplomatieke vraag hoe de internationale politiek er in de waanzin anno 2026 mee aan de slag kan.",
+   "date": "2026-09-14T18:49:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-15",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Trump: “Enige controle die AI nodig heeft, is slimme president”",
    "link": "https://www.standaard.be/buitenland/trump-enige-controle-die-ai-nodig-heeft-is-slimme-president/35131945.html",
@@ -368,6 +559,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-09-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bedrijven schetsen doemscenario's over ontwikkeling AI: 'Stop er dan mee'",
+   "link": "https://www.nu.nl/tech/6409721/bedrijven-schetsen-doemscenarios-over-ontwikkeling-ai-stop-er-dan-mee.html",
+   "description": "Bedrijven die de AI-race jarenlang aanvoerden, waarschuwen nu dat het tempo omlaag moet. Volgens OpenAI en Anthropic is het nodig om krachtige AI-modellen veilig te houden. Maar er zit volgens deskundigen ook een bedrijfsstrategie achter.",
+   "date": "2026-09-14T17:59:23",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-15",
    "intro_geprobeerd": false
   },
   {
