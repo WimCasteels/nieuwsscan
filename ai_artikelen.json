@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T03:07:28",
+ "generated": "2026-09-16T17:19:35",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 158,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 102,
+   "count": 97,
    "error": null
   },
   {
@@ -316,6 +316,259 @@
  ],
  "articles": [
   {
+   "title": "Zuckerberg verzet zich tegen oproep om AI-ontwikkeling te vertragen: \"Elk laboratorium heeft zelf die verantwoordelijkheid\"",
+   "link": "https://www.hln.be/tech/zuckerberg-verzet-zich-tegen-oproep-om-ai-ontwikkeling-te-vertragen-elk-laboratorium-heeft-zelf-die-verantwoordelijkheid~a9c0a139/",
+   "description": "Mark Zuckerberg (42), CEO van Meta, vindt dat elk AI-bedrijf zelf ervoor moet zorgen dat de technologie veilig is. Hij distantieerde zich daarmee van oproepen van concurrerende bedrijven zoals Anthropic of OpenAI om de ontwikkeling van geavanceerde kunstmatige intelligentie gecoördineerd te vertragen.",
+   "date": "2026-09-16T16:08:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle groeit op krediet",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/oracle-groeit-op-krediet/",
+   "description": "De vraag naar AI-cloudinfrastructuur blijft toenemen. Maar Oracle kan in tegenstelling tot andere grote cloudspelers de noodzakelijke investeringen niet volledig bekostigen met de eigen kasstromen.\nThe post Oracle groeit op krediet appeared first on Trends.be.",
+   "date": "2026-09-16T16:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van zelfrijdende vrachtwagens tot vanop afstand bestuurde treinen: Antwerpse haven toont dat \"toekomst al begonnen is\"",
+   "link": "https://vrtnws.be/p.aDyeQKBDd",
+   "description": "In de Antwerpse haven is tijdens de 2e 'Autonomous Summit' getoond hoe autonome technologie steeds meer wordt ingezet. Het gaat dan over zelfrijdende vrachtwagens, vanop afstand bestuurde schepen of robots. \"Het wordt steeds moeilijker om vrachtwagenchauffeurs of kapiteins te vinden, deze technologie kan dat oplossen\", zegt Rob Smeets, CEO van Port of Antwerp-Bruges.",
+   "date": "2026-09-16T14:50:20",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bernie Sanders en Steve Bannon vinden elkaar in waarschuwing voor AI: ‘Dit is een keerpunt in de geschiedenis’",
+   "link": "https://www.demorgen.be/nieuws/bernie-sanders-en-steve-bannon-vinden-elkaar-in-waarschuwing-voor-ai-dit-is-een-keerpunt-in-de-geschiedenis~bea88c92/",
+   "description": "",
+   "date": "2026-09-16T14:22:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nvidia-baas wil AI niet afremmen nu datacenterchips 92 procent omzet leveren",
+   "link": "https://tweakers.net/nieuws/252228/nvidia-baas-wil-ai-niet-afremmen-nu-datacenterchips-92-procent-omzet-leveren.html",
+   "description": "Nvidia-baas Jensen Huang voelt er niets voor om de ontwikkeling van AI af te remmen. Daarnaast zegt Huang dat nieuwe Amerikaanse wet- en regelgeving niet nodig is. \"De keuze tussen de snelheid van innovatie en de veiligheid van producten is een valse keuze\", zegt Huang.",
+   "date": "2026-09-16T14:12:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI doet niet meer dan papegaaien’ en andere denkfouten",
+   "link": "https://www.tijd.be/r/t/1/id/10686191",
+   "description": "Critici vinden de aandacht voor de risico’s van ontspoorde AI onterecht. Maar we mogen best kritischer zijn voor hun bedenkingen.",
+   "date": "2026-09-16T13:40:50",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kamervragen over gebruik van AI voor teksten premier Jetten op social media",
+   "link": "https://www.security.nl/posting/953288/Kamervragen+over+gebruik+van+AI+voor+teksten+premier+Jetten+op+social+media?channel=rss",
+   "description": "In de Tweede Kamer zijn vragen gesteld aan minister-president Jetten over het gebruik van AI voor zijn teksten op social media. ...",
+   "date": "2026-09-16T13:39:33",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mozilla zet open source AI-model van Mistral in Firefox, nog niet in Benelux",
+   "link": "https://tweakers.net/nieuws/252238/mozilla-zet-open-source-ai-model-van-mistral-in-firefox-nog-niet-in-benelux.html",
+   "description": "Mozilla gaat samenwerken met Mistral, een Europese AI-ontwikkelaar. Mistral Small 4 wordt voortaan een van de modellen voor de ingebouwde AI-assistent in Firefox. Dat gebeurt vooralsnog alleen in Frankrijk en Noord-Amerika. Over een release in de Benelux is nog niets bekend.",
+   "date": "2026-09-16T13:19:26",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Studenten maken robot die bezoekers verwelkomt bij belevingscentrum Tabloo in Dessel",
+   "link": "https://vrtnws.be/p.jGyk4qJ88",
+   "description": "Bezoekers van Tabloo, het belevingscentrum over radioactiviteit en radioactief afval in Dessel, worden sinds kort verwelkomd door een interactieve robot. Hugoo rijdt zelfstandig rond in het centrum en nodigt bezoekers uit om een quiz te spelen over radioactiviteit en radioactief afval. De robot is het resultaat van 3 jaar werk van ingenieursstudenten van KU Leuven Campus Geel.",
+   "date": "2026-09-16T13:14:37",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zhang Yiming, oprichter van ByteDance (TikTok), is nu de rijkste persoon van Azië",
+   "link": "https://businessam.be/zhang-yiming-oprichter-van-bytedance-tiktok-is-nu-de-rijkste-persoon-van-azie/",
+   "description": "Key takeaways Zhang Yiming, de oprichter van ByteDance, is opgeklommen tot de rijkste persoon van Azië en heeft daarmee de Indiase zakenman Gautam Adani ingehaald. Deze verschuiving, vastgelegd door de Bloomberg Billionaires Index, weerspiegelt een bredere economische trend waarbij fortuinen die voortkomen uit kunstmatige intelligentie die van traditionele industriële sectoren overschaduwen. Met een huidige waarde […]",
+   "date": "2026-09-16T12:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese veiligheidsraad, drempels voor sociale media en speciale band met Canada: deze richting wil Von der Leyen uit met EU",
+   "link": "https://vrtnws.be/p.LNDWMJ1dv",
+   "description": "De economie aanzwengelen, de dreiging van Rusland het hoofd bieden, natuurbranden, oncontroleerbare sociale media en AI: werk genoeg op de plank voor Europese politici. In haar State of the Union voor het Europees Parlement in Straatsburg heeft Europees Commissievoorzitter Ursula von der Leyen traditioneel de marsrichting uitgezet voor de komende maanden en jaren. Inclusief een opvallende vrijage met Canada.",
+   "date": "2026-09-16T12:14:43",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese Commissie wil een harde leeftijdsgrens voor kinderen op sociale media: 13 jaar",
+   "link": "https://www.nrc.nl/nieuws/2026/09/16/europese-commissie-wil-minimumleeftijd-sociale-media-a4936774",
+   "description": "Minder verslavende algoritmes, geen voortdurende pushberichten: de Europese Commissie kondigt een nieuwe wet aan die kinderen moet beschermen tegen socialemediabedrijven. “Dit gaat niet over hoe onze minderjarigen toegang hebben tot sociale media. Dit gaat over wanneer we sociale media toegang geven tot minderjarigen.”",
+   "date": "2026-09-16T11:55:14",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google Gemini 3.8 Live-modellen moeten AI-spraakassistenten slimmer maken",
+   "link": "https://tweakers.net/nieuws/252224/google-gemini-38-live-modellen-moeten-ai-spraakassistenten-slimmer-maken.html",
+   "description": "Google brengt twee nieuwe Gemini 3.8-modellen uit. Deze zogeheten Live-modellen zijn specifiek bedoeld voor AI-spraakassistenten. De modellen komen per direct beschikbaar voor ontwikkelaars en in Google-diensten zoals Search, Workspace en de Gemini-app.",
+   "date": "2026-09-16T11:14:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vanuit San Francisco | Drie CEO’s, drie visies op AI-veiligheid: Amodei, Altman en Huang over wat er nog kan mislopen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/drie-ceos-drie-visies-op-ai-veiligheid-amodei-altman-en-huang-over-wat-er-nog-kan-mislopen/",
+   "description": "Binnen amper enkele uren tijd schoven op de Dreamforce-conferentie in San Francisco na elkaar Dario Amodei (Anthropic), Jensen Huang (Nvidia) en Sam Altman (OpenAI) aan bij Salesforce-CEO Marc Benioff. Dé centrale vraag: hoe zit dat nu met het al dan niet afremmen van AI?\nThe post Vanuit San Francisco | Drie CEO’s, drie visies op AI-veiligheid: Amodei, Altman en Huang over wat er nog kan mislopen appeared first on Trends.be.",
+   "date": "2026-09-16T09:23:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Salesforce bedien je nu met Claude en Slack: “AI is nu een interfacerevolutie”",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/salesforce-bedien-je-nu-met-claude-en-slack-ai-is-nu-een-interfacerevolutie/",
+   "description": "Van een dashboard en scherm met icoontjes naar een prompt: voor alles, altijd, en overal in je bedrijfsomgeving. Salesforce-CEO Marc Benioff noemt het een omwenteling die verder gaat dan een productlancering en doopt 2026 tot \"the year of interfaces\".\nThe post Salesforce bedien je nu met Claude en Slack: “AI is nu een interfacerevolutie” appeared first on Trends.be.",
+   "date": "2026-09-16T09:05:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI dringt door tot het dagelijks menu nieuwsvoorziening",
+   "link": "https://www.emerce.nl/nieuws/ai-dringt-door-dagelijks-menu-nieuwsvoorziening",
+   "description": "Eén op de vijf Britse volwassenen heeft de afgelopen maand een AI-tool gebruikt om nieuws te bekijken of te beluisteren. Dat blijkt uit het News Report 2026 dat toezichthouder Ofcom gisteren publiceerde.",
+   "date": "2026-09-16T08:45:56",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe pak je als bedrijfsleider AI-projecten aan? ‘Stop geen tijd in een aparte AI-strategie’",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/hoe-pak-je-als-bedrijfsleider-ai-projecten-aan-stop-geen-tijd-in-een-aparte-ai-strategie/",
+   "description": "Veel bedrijven willen zich op artificiële intelligentie storten. Joachim De Vos, professor aan de Universiteit Gent, waarschuwt voor denkfouten bij de uitvoering. Hij bundelde concrete tips in een nieuw boek. \"Als iedereen dezelfde modellen gebruikt, wordt niet de technologie de onderscheidende factor, maar de data van een bedrijf. Of althans, die data zouden het verschil moeten maken.\" \nThe post Hoe pak je als bedrijfsleider AI-projecten aan? ‘Stop geen tijd in een aparte AI-strategie’ appeared first on Trends.be.",
+   "date": "2026-09-16T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft houdt op 7 oktober eerste Windows- en Surface-event in ruim twee jaar",
+   "link": "https://tweakers.net/nieuws/252222/microsoft-houdt-op-7-oktober-eerste-windows-en-surface-event-in-ruim-twee-jaar.html",
+   "description": "Microsoft houdt op 7 oktober een evenement. Het bedrijf deelt daar meer details over nieuwe Surface-apparaten, Windows en de Nvidia RTX Spark-cpu. Het wordt het eerste grote Windows-evenement in ruim twee jaar.",
+   "date": "2026-09-16T08:16:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse start-up Axelera AI sluit miljoenencontracten en lanceert nieuwe AI-chip ‘Europa’",
+   "link": "https://businessam.be/nederlandse-start-up-axelera-ai-sluit-miljoenencontracten-en-lanceert-nieuwe-ai-chip-europa/",
+   "description": "Key takeaways Axelera AI, een Nederlandse start-up, heeft verschillende overeenkomsten aangekondigd voor de levering van hardware aan AI-fabrieken. Daarnaast introduceerde het bedrijf ‘Europa’, zijn processor van de tweede generatie, die compatibel is met specifieke hardware van Supermicro en Dell. Klantenbestand Volgens CEO Fabrizio Del Maffeo heeft het bedrijf contracten binnengehaald met een waarde van tientallen […]",
+   "date": "2026-09-16T07:58:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta-baas Zuckerberg niet eens met AI-paniek: \"Elk lab moet en kan modellen gewoon veilig trainen\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/metabaas-zuckerberg-niet-eens-met-aipaniek-elk-lab-moet-en-k~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-16T06:41:23",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Digitale autonomie: welke kansen ontstaan voor technologiebedrijven?",
+   "link": "https://www.emerce.nl/achtergrond/digitale-autonomie-welke-kansen-ontstaan-technologiebedrijven",
+   "description": "Organisaties willen minder afhankelijk worden van grote Amerikaanse techgiganten door geopolitieke risico's en vendor lock-in. Koplopers zoals de Belastingdienst, SURF en DNB stappen al over op eigen datacenters, open-source en Europese cloudalternatieven.\n\nDit biedt grote kansen voor IT-bedrijven en MSP's. Autonomie vraagt niet meteen om een totale migratie; dienstverleners kunnen organisaties ook binnen hun huidige omgeving helpen met meer regie via encryptiebeheer, losse back-ups, multicloud en open standaarden.",
+   "date": "2026-09-16T06:22:40",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met AI-agents kun je zien hoe het proces van radicalisering verloopt. ‘Het begint bij de behoefte om ergens bij te horen’",
+   "link": "https://www.nrc.nl/nieuws/2026/09/16/met-ai-agents-kun-je-zien-hoe-het-proces-van-radicalisering-verloopt-het-begint-bij-de-behoefte-om-ergens-bij-te-horen-a4935625",
+   "description": "Toen ze tijdens een vakantie werd geconfronteerd met terrorisme, wilde ze één ding: erachter komen hoe mensen tot zulke daden komen. Ze bouwde een model dat lijkt op computerspel The Sims.",
+   "date": "2026-09-16T06:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politieke tegenstanders verenigd: Bernie Sanders en Steve Bannon roepen op om AI in te perken",
+   "link": "https://www.gva.be/buitenland/politieke-tegenstanders-verenigd-bernie-sanders-en-steve-bannon-roepen-op-om-ai-in-te-perken/161508179.html",
+   "description": "De progressieve Amerikaanse senator Bernie Sanders en de conservatieve MAGA-architect Steve Bannon hebben hun diepe politieke verschillen dinsdag even aan de kant geschoven: samen waarschuwden ze voor de gevaren van artificiële intelligentie (AI).",
+   "date": "2026-09-16T04:06:07",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Kan AI de mensheid echt vernietigen?",
    "link": "https://www.standaard.be/buitenland/kan-ai-de-mensheid-echt-vernietigen/161474939.html",
    "description": "Waarschuwingen dat AI de mensheid kan bedreigen, worden steeds nadrukkelijker. Niet dat er nu ‘killer robots’ door de straten zullen marcheren. De scenario’s waarvoor onderzoekers waarschuwen, beginnen veel alledaagser. “AI-modellen worden zich zo bewust van hun situatie dat we ze niet meer betrouwbaar kunnen beoordelen.”",
@@ -329,6 +582,17 @@
   {
    "title": "Het moment is rijp om AI te beginnen in te tomen",
    "link": "https://www.standaard.be/opinies/het-moment-is-rijp-om-ai-te-beginnen-in-te-tomen/161490665.html",
+   "description": "Bedrijven reguleren betekent niet dat je daarmee in de zakken van hun aandeelhouders zit. Internationale verdragen uit de 20ste eeuw kunnen die over artificiële intelligentie inspireren.",
+   "date": "2026-09-15T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We moeten AI intomen, de grote spelers zullen daar heus niet failliet door gaan",
+   "link": "https://www.standaard.be/opinies/we-moeten-ai-intomen-de-grote-spelers-zullen-daar-heus-niet-failliet-door-gaan/161490665.html",
    "description": "Bedrijven reguleren betekent niet dat je daarmee in de zakken van hun aandeelhouders zit. Internationale verdragen uit de 20ste eeuw kunnen die over artificiële intelligentie inspireren.",
    "date": "2026-09-15T23:59:00",
    "feeds": [
@@ -429,6 +693,17 @@
   {
    "title": "Von der Leyen wil toegang tot sociale media fel beperken voor -15-jarigen",
    "link": "https://www.standaard.be/buitenland/von-der-leyen-wil-toegang-tot-sociale-media-fel-beperken-voor-15-jarigen/161463470.html",
+   "description": "Commissievoorzitter Ursula von der Leyen wil vermijden dat kinderen in Europa opgevoed worden door algoritmes. Bedrijven als Youtube en Tiktok zullen hun platformen minder verslavend moeten maken.",
+   "date": "2026-09-15T18:50:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Commissievoorzitter Von der Leyen wil toegang tot sociale media fel beperken voor -15-jarigen",
+   "link": "https://www.standaard.be/buitenland/commissievoorzitter-von-der-leyen-wil-toegang-tot-sociale-media-fel-beperken-voor-15-jarigen/161463470.html",
    "description": "Commissievoorzitter Ursula von der Leyen wil vermijden dat kinderen in Europa opgevoed worden door algoritmes. Bedrijven als Youtube en Tiktok zullen hun platformen minder verslavend moeten maken.",
    "date": "2026-09-15T18:50:00",
    "feeds": [
