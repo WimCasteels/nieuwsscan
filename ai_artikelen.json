@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T17:26:36",
+ "generated": "2026-09-16T03:07:28",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 27,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 161,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 102,
    "error": null
   },
   {
@@ -315,6 +315,194 @@
   }
  ],
  "articles": [
+  {
+   "title": "Kan AI de mensheid echt vernietigen?",
+   "link": "https://www.standaard.be/buitenland/kan-ai-de-mensheid-echt-vernietigen/161474939.html",
+   "description": "Waarschuwingen dat AI de mensheid kan bedreigen, worden steeds nadrukkelijker. Niet dat er nu ‘killer robots’ door de straten zullen marcheren. De scenario’s waarvoor onderzoekers waarschuwen, beginnen veel alledaagser. “AI-modellen worden zich zo bewust van hun situatie dat we ze niet meer betrouwbaar kunnen beoordelen.”",
+   "date": "2026-09-15T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het moment is rijp om AI te beginnen in te tomen",
+   "link": "https://www.standaard.be/opinies/het-moment-is-rijp-om-ai-te-beginnen-in-te-tomen/161490665.html",
+   "description": "Bedrijven reguleren betekent niet dat je daarmee in de zakken van hun aandeelhouders zit. Internationale verdragen uit de 20ste eeuw kunnen die over artificiële intelligentie inspireren.",
+   "date": "2026-09-15T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI, Google en Anthropic werken samen aan AI-veiligheid",
+   "link": "https://businessam.be/openai-google-en-anthropic-werken-samen-aan-ai-veiligheid/",
+   "description": "Key takeaways Om de groeiende bezorgdheid over artificiële intelligentie het hoofd te bieden, werkt OpenAI op het gebied van AI-veiligheid samen met zijn belangrijkste concurrenten, Google DeepMind en Anthropic. Dat meldt Bloomberg. Chris Lehane, hoofd Global Affairs bij OpenAI, onthulde tijdens een briefing in Washington dat die partnerschappen al enkele weken actief zijn. Hij stelde […]",
+   "date": "2026-09-15T22:05:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lezersreacties: Stopzetten van AI wordt een illusie, want hoe stop je iets dat je niet begrijpt?",
+   "link": "https://www.trouw.nl/opinie/lezersreacties-stopzetten-van-ai-wordt-een-illusie-want-hoe-stop-je-iets-dat-je-niet-begrijpt~b620ecfb/",
+   "description": "",
+   "date": "2026-09-15T22:00:30",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "This article wasn’t written by an AI. So what if it had been!",
+   "link": "https://www.nrc.nl/nieuws/2026/09/15/this-article-wasnt-written-by-an-ai-so-what-if-it-had-been-a4936396",
+   "description": "It’s great that bots can help poor writers say what they want to for a fraction of the cost of a ghostwriter, argues Ryan Jacobs.",
+   "date": "2026-09-15T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een AI-model heeft zelf geen kwade wil maar heeft wel vangrails nodig",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/een-ai-model-heeft-zelf-geen-kwade-wil-maar-heeft-wel-vangrails-nodig~bea5e764/",
+   "description": "",
+   "date": "2026-09-15T21:27:49",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-bedrijven willen samen werken aan veiligheid en zelfregulatie voor sector: concurrentiewaakhond VS sceptisch",
+   "link": "https://www.hln.be/tech/ai-bedrijven-willen-samen-werken-aan-veiligheid-en-zelfregulatie-voor-sector-concurrentiewaakhond-vs-sceptisch~ae0044fd/",
+   "description": "ChatGPT-maker OpenAI werkt met zijn concurrenten Anthropic en Google DeepMind samen om veiligheidsproblemen rond kunstmatige intelligentie (AI) aan te pakken. De AI-bedrijven overleggen gezamenlijk over maatregelen, na groeiende bezorgdheid dat de technologie een bedreiging vormt voor de economie en veiligheid.",
+   "date": "2026-09-15T19:54:15",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI wil samenwerken met Anthropic en Google rond AI-veiligheid",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/openai-wil-samenwerken-met-anthropic-en-google-rond-aiveilighei~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-15T19:40:46",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Techtopmannen schreeuwen moord en brand om 'gevaarlijke' AI, maar drukken zelf de pauzeknop niet in",
+   "link": "https://www.ad.nl/tech/techtopmannen-schreeuwen-moord-en-brand-om-gevaarlijke-ai-maar-drukken-zelf-de-pauzeknop-niet-in~aaf9a07f/",
+   "description": "Kan AI de mensheid uitroeien? Die vraag ligt op tafel, nadat ceo’s van grote AI-bedrijven afgelopen weekend en masse opriepen tot een pauze in de ontwikkeling van AI-systemen. Zij deden dit in navolging van een noodkreet van onderzoekers. Maar wat vrezen zij precies?",
+   "date": "2026-09-15T19:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI wil samenwerken met Anthropic en Google rond AI-veiligheid",
+   "link": "https://www.gva.be/economie/bedrijven/openai-wil-samenwerken-met-anthropic-en-google-rond-ai-veiligheid/161500503.html",
+   "description": "OpenAI, het bedrijf achter ChatGPT, wil veiligheidsvraagstukken rond artificiële intelligentie aanpakken samen met zijn concurrenten Google en Anthropic. Het techbedrijf heeft daarvoor de voorbije weken naar eigen zeggen al stappen gezet.",
+   "date": "2026-09-15T18:59:36",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Von der Leyen wil toegang tot sociale media fel beperken voor -15-jarigen",
+   "link": "https://www.standaard.be/buitenland/von-der-leyen-wil-toegang-tot-sociale-media-fel-beperken-voor-15-jarigen/161463470.html",
+   "description": "Commissievoorzitter Ursula von der Leyen wil vermijden dat kinderen in Europa opgevoed worden door algoritmes. Bedrijven als Youtube en Tiktok zullen hun platformen minder verslavend moeten maken.",
+   "date": "2026-09-15T18:50:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ariana Grande keldert musical, een baby bij de ‘Nonkels’ en AI-actrice ziet DiCaprio zitten",
+   "link": "https://www.standaard.be/media-en-cultuur/ariana-grande-keldert-musical-een-baby-bij-de-nonkels-en-ai-actrice-ziet-dicaprio-zitten/161483302.html",
+   "description": "Wie in BV-land of Hollywood vertoeft, op de rode loper of in de wandelgangen, komt al eens op bezoek in deze rubriek.",
+   "date": "2026-09-15T18:45:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Overheid wil met behulp van AI bezuinigen op het ambtenarenbestand. Maar zo snel gaat dat helemaal niet, zegt deze hoogleraar",
+   "link": "https://www.nrc.nl/nieuws/2026/09/15/overheid-wil-met-behulp-van-ai-bezuinigen-op-het-ambtenarenbestand-maar-zo-snel-gaat-dat-helemaal-niet-zegt-deze-hoogleraar-a4936692",
+   "description": "Het kabinet wil een „efficiëntere en effectievere” overheid en heeft een taakgroep op poten gezet om dat te verwezenlijken: de zogenoemde ‘Slagvaardige Overheid’.",
+   "date": "2026-09-15T18:23:22",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 kan opleving niet vasthouden",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-kan-opleving-niet-vasthouden/",
+   "description": "(ABM FN) De Brusselse beurs wist dinsdagmiddag aanvankelijk te herstellen, maar de sterindex sloot uiteindelijk toch niet in het groen.De Bel20 sloot 0,1 procent lager op 5.724,35 punten.\"De markten zijn de week met wat opvallende schommelingen begonnen\", volgens Deutsche Bank, als gevolg van de inflatievrees en zorgen over een vertraging in de AI-sector. Maar de belangrijkste …\nThe post Bel20 kan opleving niet vasthouden appeared first on Trends.be.",
+   "date": "2026-09-15T18:03:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Weigering Amerikaanse overheid om AI te reguleren is onverantwoord",
+   "link": "https://www.nrc.nl/nieuws/2026/09/15/weigering-amerikaanse-overheid-om-ai-te-reguleren-is-onverantwoord-a4936673",
+   "description": "Het schrikbeeld van Trump is dat China de VS voorbijstreeft bij de ontwikkeling van geavanceerde AI. Maar dat betekent nog niet dat het verstandig is om de eigen Amerikaanse AI-bedrijven maar te laten voortrazen op weg naar steeds geavanceerdere, en moeilijker in de hand te houden kunstmatige intelligentie.",
+   "date": "2026-09-15T17:32:37",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mij heeft ChatGPT nog nooit naar mijn leeftijd gevraagd",
+   "link": "https://www.tijd.be/r/t/1/id/10686039",
+   "description": "Nu wachtlijsten voor mentale hulp de norm geworden zijn, is elke vorm van troost welgekomen, ook al is die artificieel. Maar dat jongeren hun meest persoonlijke gedachten delen met AI, baart zorgen.",
+   "date": "2026-09-15T17:29:42",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Yoshua Bengio, &#8216;peetvader van AI&#8217;: &#8216;Je moet wel met oogkleppen op leven om niet te zien dat het code rood is&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/09/15/yoshua-bengio-de-peetvader-van-ai-je-moet-wel-met-oogkleppen-op-leven-om-niet-te-zien-dat-het-code-rood-is-a4936578",
+   "description": "Was Yoshua Bengio, een van de ‘peetvaders van AI’,  eerst vooral trots op zijn bijdrage aan de ontwikkeling ervan, nu is hij vooral bezorgd. „Overheden moeten AI niet slechts zien als een mogelijke economische motor, maar ook als iets wat tegen ons gebruikt kan worden.”",
+   "date": "2026-09-15T17:28:34",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-16",
+   "intro_geprobeerd": false
+  },
   {
    "title": ".Geek - Geen Willem-AI-lexander: troonrede is volledig door mensen geschreven",
    "link": "https://tweakers.net/geek/252202/geen-willem-ai-lexander-troonrede-is-volledig-door-mensen-geschreven.html",
