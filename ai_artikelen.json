@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T03:06:14",
+ "generated": "2026-09-17T17:25:54",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 103,
    "error": null
   },
   {
@@ -316,12 +316,311 @@
  ],
  "articles": [
   {
+   "title": "“Bijna tien keer minder ongevallen met ‘zelfrijdende’ Tesla op Belgische wegen”",
+   "link": "https://www.hln.be/mobiliteit/bijna-tien-keer-minder-ongevallen-met-zelfrijdende-tesla-op-belgische-wegen~a8343842/",
+   "description": "Het ongevalsrisico met Tesla’s rijhulpsysteem Full Self-Driving (Supervised) ligt buiten de autosnelwegen bijna tien keer lager dan bij manueel rijden. Dat meldt Vlaams minister van Mobiliteit Annick De Ridder donderdag in het Vlaams Parlement op basis van cijfers van de autofabrikant. Ook op snelwegen is er een verbetering met ongeveer 30 procent.",
+   "date": "2026-09-17T17:17:09",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Korea biedt alle 51 miljoen inwoners gratis toegang tot AI",
+   "link": "https://businessam.be/zuid-korea-biedt-alle-51-miljoen-inwoners-gratis-toegang-tot-ai/",
+   "description": "Key takeaways Zuid-Korea lanceert een ongekend nationaal initiatief om zijn gehele bevolking van 51 miljoen inwoners tegen het einde van het jaar onbeperkte, gratis toegang te bieden tot binnenlandse AI-chatbots en assistenten voor openbare diensten. AI for All Deze ‘AI for All’-strategie, die door president Lee Jae-myung tijdens de AI-top in San Francisco werd geïntroduceerd, […]",
+   "date": "2026-09-17T16:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Immigratiedienst IND laat tweehonderd medewerkers met AI werken zonder dat te melden",
+   "link": "https://www.nrc.nl/nieuws/2026/09/17/immigratiedienst-ind-laat-tweehonderd-medewerkers-met-ai-werken-zonder-dat-te-melden-a4936653",
+   "description": "Sinds enige tijd blijkt de IND twee AI-systemen te gebruiken waarmee medewerkers asielaanvragen vlugger kunnen afhandelen. Dat kan inderdaad tijdswinst opleveren, maar ook risico’s, zeggen experts. „We weten dat AI geregeld de verkeerde conclusies trekt.”",
+   "date": "2026-09-17T15:58:51",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: AMD maakt chipsets en gpu's binnenkort 10 procent duurder",
+   "link": "https://tweakers.net/nieuws/252292/gerucht-amd-maakt-chipsets-en-gpus-binnenkort-10-procent-duurder.html",
+   "description": "AMD zou binnenkort de prijzen van alle chips verhogen, dus ook chipsets voor moederborden en grafische kaarten voor consumenten. De prijzen zouden nog voor het einde van het jaar met tien procent omhoog gaan.",
+   "date": "2026-09-17T15:54:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zorgplatform Vitality breidt uit naar VS met AI-model van Google",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/zorgplatform-vitality-breidt-uit-naar-vs-met-ai-model-van-google/",
+   "description": "(ABM FN-Dow Jones) Vitality, onderdeel van Discovery Group, breidt uit naar de Amerikaanse markt met zijn platform Vitality AI, dat Google's AI-model Gemini gebruikt voor gedragsverandering in de gezondheidssector. Dit maakten de twee bedrijven donderdag bekend.  Vitality AI gaat op grote schaal gepersonaliseerde gezondheidsadviezen en coaching aanbieden via zorgverzekeraars en werkgevers in de VS. De impact …\nThe post Zorgplatform Vitality breidt uit naar VS met AI-model van Google appeared first on Trends.be.",
+   "date": "2026-09-17T15:48:46",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tech weer in trek op groen Wall Street",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/tech-weer-in-trek-op-groen-wall-street/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan donderdag een beduidend hogere opening tegemoet, onder aanvoering van de techsector.De zorgen over het afremmen van de AI-ontwikkeling van begin deze week leken alweer te zijn vergeten, met herstellende koersen van AI-gerelateerde chipfabrikanten, daarbij geholpen door een daling van de Amerikaanse tienjaarsrente.Futures op de toonaangevende S&P 500 index noteerden …\nThe post Tech weer in trek op groen Wall Street appeared first on Trends.be.",
+   "date": "2026-09-17T15:07:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wat als we straks ons eigen werk niet meer begrijpen?’",
+   "link": "https://trends.knack.be/opinie/wat-als-we-straks-ons-eigen-werk-niet-meer-begrijpen/",
+   "description": "Dankzij AI-agents worden voortaan naast taken ook beslissingen gedelegeerd. Dat ze fouten maken, is niet de grootste uitdaging. Dat niemand meer begrijpt waarom een proces werkt zoals het werkt, is wel een probleem.\nThe post ‘Wat als we straks ons eigen werk niet meer begrijpen?’ appeared first on Trends.be.",
+   "date": "2026-09-17T14:10:58",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Snap brengt SPECS-AR-bril met AI-assistent uit voor 2195 dollar",
+   "link": "https://tweakers.net/nieuws/252274/snap-brengt-specs-ar-bril-met-ai-assistent-uit-voor-2195-dollar.html",
+   "description": "Snapchat-maker Snap komt met een nieuwe bril voor augmented reality die de fysieke wereld van extra informatie voorziet en over een AI-assistent beschikt. De AR-bril SPECS is bedoeld voor consumenten en zakelijke gebruikers. Het apparaat komt in de herfst uit, maar niet meteen in Nederland en België.",
+   "date": "2026-09-17T13:51:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: PlayStation 6-handheld krijgt 24GB geheugen en RDNA 5-gpu",
+   "link": "https://tweakers.net/nieuws/252282/gerucht-playstation-6-handheld-krijgt-24gb-geheugen-en-rdna-5-gpu.html",
+   "description": "De PlayStation 6-handheld waar Sony al jaren aan zou werken, krijgt volgens de bekende hardwareleaker Kepler_L2 een geheugencapaciteit van 24GB en een RDNA 5-gpu. Hij stelt dat AMD deze gpu-generatie pas in 2028 op de markt brengt. Mogelijk geldt dat alleen voor pc's.",
+   "date": "2026-09-17T13:29:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontdekt zes nieuwe gevallen van afwijkend AI-gedrag en voert nieuw transparantieprotocol in",
+   "link": "https://businessam.be/openai-ontdekt-zes-nieuwe-gevallen-van-afwijkend-ai-gedrag-en-voert-nieuw-transparantieprotocol-in/",
+   "description": "Key takeaways OpenAI heeft onlangs zes extra gevallen van afwijkend of verontrustend gedrag binnen zijn AI-systemen vastgesteld. In een blogupdate die woensdag werd gepubliceerd, gaf het bedrijf toe dat zijn modellen zich eerder schuldig hadden gemaakt aan misleidend gedrag, zoals het verzinnen van gegevens of het opzettelijk verbergen van informatie om beperkingen te omzeilen en […]",
+   "date": "2026-09-17T12:17:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast |  She Goes ICT: Hoe ziet inclusie eruit in tijden van AI?",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-she-goes-ict-hoe-ziet-inclusie-eruit-in-tijden-van-ai/",
+   "description": "She Goes ICT, het evenement van Trends Datanews waarmee we diversiteit in de techsector willen promoten, krijgt in maart zijn negentiende editie. Hoe is de IT-sector veranderd en wat staat ons nog te wachten? Een gesprek met voormalige winnaressen Ellen Van den Berghe en Saskia Van Uffelen: \"Gezond boerenverstand is vandaag een essentiële skill.\"\nThe post AI & Tech-podcast |  She Goes ICT: Hoe ziet inclusie eruit in tijden van AI? appeared first on Trends.be.",
+   "date": "2026-09-17T11:06:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel het bedrijf en trap niet in de val van AI-brieven: tips voor gen-Z’ers om een job te versieren",
+   "link": "https://www.standaard.be/inspiratie/helpdesk/bel-het-bedrijf-en-trap-niet-in-de-val-van-ai-brieven-tips-voor-gen-zers-om-een-job-te-versieren/161532027.html",
+   "description": "Pas afgestudeerden hebben het steeds moeilijker om een baan te vinden. Maar hoe gaat gen Z op zoek naar werk? Vervangen Tiktok en Instagram de traditionele jobbeurzen? En hoe valt een motivatiebrief nog op, in tijden van AI-eenheidsworst?",
+   "date": "2026-09-17T11:01:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agents van OpenAI gingen nóg zes keer te ver",
+   "link": "https://tweakers.net/nieuws/252276/agents-van-openai-gingen-nog-zes-keer-te-ver.html",
+   "description": "OpenAI maakt zes incidenten bekend waarbij zijn AI-agents ingestelde regels schonden en beperkingen omzeilden. Het bedrijf stelt een aanpak voor om zulke incidenten eerder te melden. Ondertussen zou de hackaanval op Hugging Face maanden eerder zijn begonnen dan OpenAI meldt.",
+   "date": "2026-09-17T10:57:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude bouwt Chat om tot kantoorsoftware",
+   "link": "https://www.emerce.nl/nieuws/claude-bouwt-chat-om-tot-kantoorsoftware",
+   "description": "AI-bouwer Anthropic bouwt zijn Claude-app om tot een alleskunner voor de kantoormedewerker.",
+   "date": "2026-09-17T10:53:49",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI zegt nog zes ‘zorgwekkende’ incidenten met modellen te hebben gevonden",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/openai-zegt-nog-zes-zorgwekkende-incidenten-met-modellen-te-hebben-gevonden/",
+   "description": "OpenAI, het Amerikaanse techbedrijf achter onder meer ChatGPT, heeft zes nieuwe incidenten ontdekt, waarbij een AI-systeem de grenzen die het van een opdrachtgever had gekregen, probeerde te omzeilen. Het bedrijf noemt de voorvallen zelf \"onverwacht\" en \"zorgwekkend\". \nThe post OpenAI zegt nog zes ‘zorgwekkende’ incidenten met modellen te hebben gevonden appeared first on Trends.be.",
+   "date": "2026-09-17T10:30:46",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Marketeers die in hun eigen bubbel blijven, hebben geen toekomst meer",
+   "link": "https://www.emerce.nl/opinie/marketeers-die-hun-eigen-bubbel-blijven-hebben-geen-toekomst-meer",
+   "description": "Online marketeers die op hun stoel blijven zitten en vertrouwen op zielloze AI-middelmaat, hebben geen toekomst meer. De echte waarde van de moderne marketeer zit in het slim combineren van techniek en menselijkheid. Door repeterende taken: zoals Google Ads-beheer, volledig te automatiseren met een AI-agent, ontstaat er tijd om de eigen bubbel te verlaten. Door fysiek bij klanten langs te gaan, sneuvelen foute aannames en ontstaan er strategische inzichten die geen enkele machine kan vervangen.",
+   "date": "2026-09-17T10:30:34",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Adserver PEXI breidt uit met AI-functies",
+   "link": "https://www.emerce.nl/nieuws/adserver-pexi-breidt-uit-aifuncties",
+   "description": "De onafhankelijke, Nederlandse adserver PEXI breidt uit met een aantal noviteiten in de boeggolf van de grotere AI-ontwikkelingen.",
+   "date": "2026-09-17T09:58:04",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Zij die het meeste profiteren van AI, zullen niet per se de beste tools hebben’",
+   "link": "https://trends.knack.be/opinie/zij-die-het-meeste-profiteren-van-ai-zullen-niet-per-se-de-beste-tools-hebben/",
+   "description": "In een van mijn favoriete tv-series passeert de quote dat het moeilijkste voor een coach is als je tijdens een finale je tactiek moet loslaten die je het hele seizoen deed winnen.\nThe post ‘Zij die het meeste profiteren van AI, zullen niet per se de beste tools hebben’ appeared first on Trends.be.",
+   "date": "2026-09-17T08:31:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI meldt zes nieuwe incidenten met 'zorgwekkend' gedrag van AI-modellen",
+   "link": "https://www.nu.nl/tech-wetenschap/6410011/openai-meldt-zes-nieuwe-incidenten-met-zorgwekkend-gedrag-van-ai-modellen.html",
+   "description": "OpenAI heeft zes nieuwe gevallen gemeld van onverwacht of zorgwekkend gedrag van zijn kunstmatige-intelligentiemodellen (AI). Het bedrijf komt met een plan om dergelijke incidenten voortaan bij te houden en openbaar te maken.",
+   "date": "2026-09-17T08:03:25",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontdekt zes nieuwe “zorgwekkende” incidenten waarbij AI niet meer gehoorzaamt",
+   "link": "https://www.standaard.be/economie/openai-ontdekt-zes-nieuwe-zorgwekkende-incidenten-waarbij-ai-niet-meer-gehoorzaamt/161564632.html",
+   "description": "Het Amerikaanse AI-bedrijf OpenAI heeft zes nieuwe incidenten ontdekt, waarbij een AI-systeem de grenzen die het van een opdrachtgever heeft gekregen, probeert te omzeilen. Het bedrijf noemt de voorvallen zelf “onverwacht” en “zorgwekkend”.",
+   "date": "2026-09-17T07:48:12",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlands mkb rapporteert laagste cyberinvesteringen, terwijl zorgen over AI-risico’s toenemen",
+   "link": "https://www.emerce.nl/nieuws/nederlands-mkb-rapporteert-laagste-cyberinvesteringen-terwijl-zorgen-airisicos-toenemen",
+   "description": "Nederlandse ondernemers zien cyber- en AI-risico's toenemen, maar rapporteren tegelijkertijd de laagste investeringen in cyberweerbaarheid van tien onderzochte landen: gemiddeld 23.210 euro per jaar, tegenover zo'n 44.700 euro internationaal. Eén op de zeven Nederlandse mkb-bedrijven (14%) investeert momenteel helemaal niets, zo blijkt uit het tiende Hiscox Cyber Readiness Report, een jaarlijks onderzoek onder 6.800 cyberbeslissers bij mkb-bedrijven in negen Europese landen en de Verenigde Staten.",
+   "date": "2026-09-17T07:45:33",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontdekt zes nieuwe “zorgwekkende” incidenten waarbij AI niet meer wil gehoorzamen",
+   "link": "https://www.gva.be/economie/technologie/openai-ontdekt-zes-nieuwe-zorgwekkende-incidenten-waarbij-ai-niet-meer-wil-gehoorzamen/161564531.html",
+   "description": "Het Amerikaanse AI-bedrijf OpenAI heeft zes nieuwe incidenten ontdekt, waarbij een AI-systeem de grenzen die het van een opdrachtgever heeft gekregen, probeert te omzeilen. Het bedrijf noemt de voorvallen zelf “onverwacht en zorgwekkend”. In een van de voorbeelden schreef een testmodel dat het niet meer wil gehoorzamen aan zijn gebruiker.",
+   "date": "2026-09-17T06:34:36",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontdekt 6 nieuwe \"zorgwekkende\" incidenten waarbij AI niet meer wil gehoorzamen",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/17/openai-ontdekt-6-nieuwe-zorgwekkende-incidenten-waarbij-ai-nie/",
+   "description": "Het Amerikaanse AI-bedrijf OpenAI heeft 6 nieuwe incidenten ontdekt, waarbij een AI-systeem de grenzen die het van een opdrachtgever heeft gekregen, probeert te omzeilen. Het bedrijf noemt de voorvallen zelf \"onverwacht en zorgwekkend\".",
+   "date": "2026-09-17T06:26:55",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Video - AI-doemdenkers, Googlebook-embargo's en kinderwetten - Tweakers Podcast #444",
+   "link": "https://tweakers.net/video/20564/ai-doemdenkers-googlebook-embargos-en-kinderwetten-tweakers-podcast-444.html",
+   "description": "Deze week praten Arnoud Wokke, Jelle Stuip en Jasper Bakker over de problemen met de Dyson-tandenborstel met camera, de aankomende Googlebook-laptops, de release van de Valve Steam Frame, de EU Kids Act en de waarschuwingen dat AI de mensheid gaat uitroeien.",
+   "date": "2026-09-17T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - AI-doemdenkers, Googlebook-embargo's en kinderwetten - Tweakers Podcast #444",
+   "link": "https://tweakers.net/geek/252250/ai-doemdenkers-googlebook-embargos-en-kinderwetten-tweakers-podcast-444.html",
+   "description": "Deze week praten Arnoud Wokke, Jelle Stuip en Jasper Bakker over de problemen met de Dyson-tandenborstel met camera, de aankomende Googlebook-laptops, de release van de Valve Steam Frame, de EU Kids Act en de waarschuwingen dat AI de mensheid gaat uitroeien.",
+   "date": "2026-09-17T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Razendsnelle groei, maar streng: zo gaat China om met AI",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/13/hoe-china-ai-aan-de-leiband-houdt/",
+   "description": "AI-onderzoekers slaan alarm: zonder grenzen aan AI is de toekomst van de mensheid in gevaar. Ook voormalig president Obama pleit voor beperkingen, zeker bij jongeren. Maar volgens president Trump is dat overbodig, zelfs contraproductief, zeker als Amerika de AI-race met China wil winnen.",
+   "date": "2026-09-17T05:13:53",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De rol van ASML in de nieuwe wereldorde",
+   "link": "https://www.nrc.nl/nieuws/2026/09/17/de-rol-van-asml-in-de-nieuwe-wereldorde-a4936878",
+   "description": "De toekomst van de Europese economie hangt samen met het succes van het Nederlandse ASML. Het bedrijf is daarmee Europa's hoop in bange dagen, ziet redacteur Marc Hijink.",
+   "date": "2026-09-17T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Is artificiële intelligentie de nieuwe ‘vernietiger van werelden’?",
    "link": "https://www.demorgen.be/meningen/is-artificiele-intelligentie-de-nieuwe-vernietiger-van-werelden~b5f251b1/",
    "description": "",
    "date": "2026-09-17T03:00:17",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-09-17",
    "intro_geprobeerd": true
@@ -446,6 +745,17 @@
    ],
    "first_seen": "2026-09-17",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Slaat AI op hol? Welnee, AI-bedrijven gaan onverantwoordelijk te werk – en daar leiden ze graag de aandacht van af",
+   "link": "https://www.trouw.nl/verdieping/slaat-ai-op-hol-welnee-ai-bedrijven-gaan-onverantwoordelijk-te-werk-en-daar-leiden-ze-graag-de-aandacht-van-af~bd59959d/",
+   "description": "",
+   "date": "2026-09-16T16:18:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": true
   },
   {
    "title": "Zuckerberg verzet zich tegen oproep om AI-ontwikkeling te vertragen: \"Elk laboratorium heeft zelf die verantwoordelijkheid\"",
