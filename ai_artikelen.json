@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T17:19:35",
+ "generated": "2026-09-17T03:06:14",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 27,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 161,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 100,
    "error": null
   },
   {
@@ -315,6 +315,138 @@
   }
  ],
  "articles": [
+  {
+   "title": "Is artificiële intelligentie de nieuwe ‘vernietiger van werelden’?",
+   "link": "https://www.demorgen.be/meningen/is-artificiele-intelligentie-de-nieuwe-vernietiger-van-werelden~b5f251b1/",
+   "description": "",
+   "date": "2026-09-17T03:00:17",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Canada en Duitsland slaan handen in elkaar om ethische AI te ontwikkelen",
+   "link": "https://www.demorgen.be/snelnieuws/canada-en-duitsland-slaan-handen-in-elkaar-om-ethische-ai-te-ontwikkelen~ba7f4a3e/",
+   "description": "",
+   "date": "2026-09-17T00:30:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wie maandag aan de unief begint, heeft meer dan ooit groot gelijk: een masterdiploma is de beste investering die je kunt doen",
+   "link": "https://www.standaard.be/opinies/wie-maandag-aan-de-unief-begint-heeft-meer-dan-ooit-groot-gelijk-een-masterdiploma-is-de-beste-investering-die-je-kunt-doen/161534660.html",
+   "description": "Wat zou je nog studeren, nu AI toch alle jobs dreigt in te pikken? Nonsens, schrijft Stijn Baert, we hebben meer dan ooit mensen met een masterdiploma nodig.",
+   "date": "2026-09-16T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitse AI-start-up Langdock verlaat VS en kiest voor een soevereine Europese koers",
+   "link": "https://businessam.be/duitse-ai-start-up-langdock-verlaat-vs-en-kiest-voor-een-soevereine-europese-koers/",
+   "description": "Key takeaways In tegenstelling tot de gangbare trend waarbij Europese techbedrijven naar Amerika verhuizen, heeft Langdock, een snelgroeiende AI-start-up gevestigd in Berlijn, zijn juridische hoofdkantoor van de Verenigde Staten terugverplaatst naar Duitsland. Europese hyperscaler Het bedrijf streeft ernaar zich te profileren als een ‘Europese hyperscaler’ en zijn bedrijfsidentiteit binnen de Europese Unie te verankeren om […]",
+   "date": "2026-09-16T22:47:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS zetten Mexico onder druk om export van AI-hardware te beperken uit vrees dat China invoerheffingen omzeilt",
+   "link": "https://businessam.be/vs-zetten-mexico-onder-druk-om-export-van-ai-hardware-te-beperken-uit-vrees-dat-china-invoerheffingen-omzeilt/",
+   "description": "Key takeaways De Amerikaanse regering oefent momenteel druk uit op de Mexicaanse autoriteiten om strengere regelgeving in te voeren voor de export van AI-hardware. Dat schrijft The Wall Street Journal. Het belangrijkste doel is te voorkomen dat buitenlandse entiteiten, met name Chinese bedrijven, Amerikaanse invoerheffingen ontwijken door producten via Mexico te vervoeren. USMCA-onderhandelingen Die besprekingen […]",
+   "date": "2026-09-16T20:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: RTX 60- en nieuwe AMD-gpu's verschijnen pas in 2028",
+   "link": "https://tweakers.net/nieuws/252264/gerucht-rtx-60-en-nieuwe-amd-gpus-verschijnen-pas-in-2028.html",
+   "description": "AMD en Nvidia brengen volgend jaar geen volwaardige nieuwe generatie gpu's meer uit, zegt een bekende leaker. Kepler_L2 zegt dat de RDNA 5- en RTX 60-kaartseries op z'n vroegst in 2028 uitkomen. Wel komt AMD volgend jaar met de AT2. Het gaat om een gerucht, maar wel eentje dat in de huidige markt plausibel is.",
+   "date": "2026-09-16T20:23:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canada en Duitsland slaan handen in elkaar om ethische AI te ontwikkelen",
+   "link": "https://www.hln.be/internet/canada-en-duitsland-slaan-handen-in-elkaar-om-ethische-ai-te-ontwikkelen~aa7f4a3e/",
+   "description": "Canada en Duitsland gaan samenwerken aan de ontwikkeling van artificiële intelligentie ten dienste van de mens. Dat hebben beide landen aangekondigd nu de bezorgdheid over de risico’s van de meest geavanceerde modellen voor de mensheid almaar groeit.",
+   "date": "2026-09-16T20:17:01",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft-topman waarschuwt voor Anthropic-aanpak rond AI-bewustzijn",
+   "link": "https://businessam.be/microsoft-topman-waarschuwt-voor-anthropic-aanpak-rond-ai-bewustzijn/",
+   "description": "Key takeaways Mustafa Suleyman, hoofd AI bij Microsoft, heeft zijn bezorgdheid geuit over de methodologie die Anthropic gebruikt om zijn Claude-chatbot te trainen, met name wat betreft bewustzijn. Hoewel Suleyman het eens is met het overkoepelende doel van Anthropic om de veiligheid van AI te waarborgen, is hij van mening dat het integreren van theorieën […]",
+   "date": "2026-09-16T20:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Debat over veilige AI tekent breuklijnen in Silicon Valley",
+   "link": "https://www.tijd.be/r/t/1/id/10686275",
+   "description": "Ondanks het pleidooi van zijn CEO om het ontwikkelingstempo van de krachtigste AI-modellen te vertragen, maakt OpenAI zich op voor alweer een gigantische kapitaalronde. Ook in techbedrijven woedt het debat over hoe de risico’s het best worden ingedamd.",
+   "date": "2026-09-16T18:40:26",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft brengt reparatie-update voor Windows uit, maar AMD-problemen blijven",
+   "link": "https://tweakers.net/nieuws/252254/microsoft-brengt-reparatie-update-voor-windows-uit-maar-amd-problemen-blijven.html",
+   "description": "Microsoft heeft een out-of-band-update uitgebracht voor Windows 11. Tijdens de Patch Tuesday-updateronde van september repareerde het bedrijf bijna duizend kwetsbaarheden, maar er bleken ook meerdere bugs en andere problemen in het OS te zitten. Een probleem met AMD-gpu's blijft wel bestaan.",
+   "date": "2026-09-16T18:26:31",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Grapjes over AI-gebruik premier Jetten, maar bijna niemand wil écht over AI debatteren",
+   "link": "https://www.nrc.nl/nieuws/2026/09/16/veel-grapjes-en-opmerkingen-over-ai-gebruik-premier-jetten-a4936838",
+   "description": "In het debat komt één onderwerp wel erg vaak terug: AI. Dat is vooral een pesterijtje naar premier Jetten, die – zo bleek uit een publicatie van de Volkskrant vorige week…",
+   "date": "2026-09-16T18:07:34",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kritiek op AI-bedrijven die oproepen tot vertraging vanwege gevaar: 'Doe het dan'",
+   "link": "https://nos.nl/l/2631270",
+   "description": "De oproep van de topman van AI-bedrijf Anthropic om op een lager tempo nieuwe krachtige AI-modellen uit te brengen, leidt tot kritiek van binnen en buiten de AI-sector. Als je het echt zo belangrijk vindt om te vertragen, dóe het dan, zegt onder meer een invloedrijke adviseur van de Amerikaanse president Donald Trump.\n        Anthropic-topman Dario Amodei publiceerde zaterdag een artikel waarin hij schrijft dat de koplopers van de AI-industrie moeten vertragen, maar dat daarvoor steun van de Amerikaanse overheid nodig is. Onder anderen Sam Altman van OpenAI (ChatGPT) en Elon Musk van SpaceXAI (Grok) zeiden het met hem eens te zijn.\n        \"Jongens, ga je gang\", reageerde de invloedrijke Trump-adviseur David Sacks bij tv-zender Bloomberg. \"Het is jullie verantwoordelijkheid om ervoor te zorgen dat jullie producten veilig zijn. Als jullie het gevoel hebben dat je moet vertragen, doe dat dan. Je hebt daar geen toestemming van iemand anders voor nodig.\"\n        Amodei schrijft dat hij zijn oproep doet omdat hij zich zorgen maakt dat AI-technologie binnen zes tot twaalf maanden \"in staat is om het hele internet over te nemen\". Daarbij moet worden aangetekend dat het schetsen van doemscenario's een beproefde marketingstrategie van Anthropic en OpenAI is.\n        Amodei onderbouwt zijn zorg verder ook niet: hoe dat zou gaan, waarom mensen dat niet zouden opmerken of kunnen tegenhouden en hoe een 'overgenomen internet' er dan uitziet, schrijft hij er niet bij.\n        Twijfel over oprechtheid\n        Je kunt betwijfelen of Amodei's oproep oprecht is, zegt Felienne Hermans. Zij is hoogleraar informatica aan de Vrije Universiteit Amsterdam en volgt de AI-industrie. \"Als je je werkelijk zo veel zorgen maakt, kun je ook gewoon stoppen. Ze kunnen zeggen: dit is waar wij ons als Amerikaanse AI-bedrijven aan gaan houden. Ze kunnen zeggen: als we mensen niet met deze AI-technologie kunnen vertrouwen, moeten we mensen dit misschien ook niet geven. Waarom hebben ze daar de overheid voor nodig?\"\n        Na Amodei's oproep zette Facebook-oprichter Mark Zuckerberg een bericht online waarmee hij laat zien dat de AI-bedrijven elkaar of de overheid volgens hem niet nodig hebben. Hij schrijft dat Meta het uitbrengen van zijn laatste AI-model enkele maanden heeft uitgesteld om zich te concentreren op de veiligheid ervan.\n        \"We hebben niet eerst andere bedrijven opgeroepen om dit te doen, voordat we het zelf zouden doen\", schrijft Zuckerberg. \"We hebben het gewoon gedaan, als onderdeel van onze dagelijkse werkzaamheden, omdat het duidelijk het juiste was om te doen.\"\n        \"Dat is wat ik bedoel\", zegt Hermans. \"Als je je écht zorgen maakt als bedrijf, dan kun je zeggen: we stoppen er zelf mee. En we onderhandelen met elkaar dat we er samen mee stoppen. Maar in plaats daarvan zeggen ze: 'Overheid, kom alsjeblieft met wetten en regels'. En Trump heeft al gezegd dat hij dat niet van plan is.\"\n        Invloed op regels uitoefenen\n        Hermans vermoedt dat de AI-bedrijven de verantwoordelijkheid van zich af willen schuiven. \"Stel dat er straks iets misgaat, dan kunnen ze zeggen: we hebben de overheid gevraagd om regels. Die kwamen er niet, dus het is niet onze schuld.\"\n        Dat is een strategie die eerder succesvol is gebleken, zegt Roel Dobbe van de TU Delft. Hij onderzoekt hoe de AI-bedrijven beeldvorming en regelgeving proberen te beïnvloeden. \"De bedrijven zeggen: geef ons regels. Of er in de praktijk wat van terechtkomt, is een ander verhaal. En als dat wel zo is, blijkt uit ons onderzoek dat deze bedrijven veel geld hebben om de regelgeving te beïnvloeden, zodat de regels in hun voordeel uitpakken.\"\n        Hermans en Dobbe denken dat de concurrentie met China mogelijk ook een rol speelt. In Amodei's oproep om te vertragen, schrijft hij ook dat de AI-ontwikkelingen in China tegengewerkt moeten worden.\n        \"Anthropic en OpenAI hebben veel geld geïnvesteerd in hun AI-modellen\", zegt Dobbe. \"Dat moeten ze terugverdienen. Hun klanten betalen daar hoge rekeningen voor.\" Ondertussen brengen Chinese AI-bedrijven goedkope of gratis modellen op de markt die een serieuze concurrentie zijn voor de Amerikaanse AI-technologie, legt Dobbe uit.\n        \"Je kunt je voorstellen dat de bedrijven enthousiast zijn over regulering waardoor de Chinese AI-modellen beperkt worden\", zegt Hermans. \"Dat zou goed zijn voor de marktpositie van de grote Amerikaanse AI-bedrijven.\"\n        Trump-adviseur: 'Smoesje'\n        \"We moeten ervoor zorgen dat we China een stap voor blijven en geen onnodige regelgeving invoeren waardoor China een voorsprong kan krijgen\", zegt Trump-adviseur Sacks bij Bloomberg. Hij wijst er ook op dat er al regels zijn en dat de AI-bedrijven verantwoordelijk kunnen worden gehouden voor gevaarlijke producten.\n        \"Ik denk dat elk bedrijf in Amerika ervoor moet zorgen dat hun producten veilig zijn wanneer ze op de markt komen. Dat is gewoon een basisverantwoordelijkheid voor bedrijven\", zei hij. \"Ik geloof niet echt dat zij hun producten pas veilig kunnen maken als de overheid zich ermee bemoeit. Het voelt als een smoesje. We staan niet in de weg. Ze moeten hun verantwoordelijkheid nemen en het doen.\"",
+   "date": "2026-09-16T17:57:00",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-17",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Zuckerberg verzet zich tegen oproep om AI-ontwikkeling te vertragen: \"Elk laboratorium heeft zelf die verantwoordelijkheid\"",
    "link": "https://www.hln.be/tech/zuckerberg-verzet-zich-tegen-oproep-om-ai-ontwikkeling-te-vertragen-elk-laboratorium-heeft-zelf-die-verantwoordelijkheid~a9c0a139/",
