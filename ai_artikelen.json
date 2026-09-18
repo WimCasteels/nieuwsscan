@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T03:03:58",
+ "generated": "2026-09-18T16:46:40",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 156,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 103,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,358 @@
   }
  ],
  "articles": [
+  {
+   "title": "<em>The week after</em> in AI-hoofdstad San Francisco",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/the-week-after-in-ai-hoofdstad-san-francisco-a4936981",
+   "description": "In de buurten van San Francisco waar AI-bedrijven zijn gevestigd, was deze week de spanning voelbaar. De wereldwijde discussie over mogelijk rampzalige risico’s van AI zorgt voor onrust. „We roepen het personeel op om ontslag te nemen.”",
+   "date": "2026-09-18T16:36:10",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wat trager gaan vormt geen gevaar voor AI-aandelen’",
+   "link": "https://www.tijd.be/r/t/1/id/10686463",
+   "description": "De oproep van verschillende toplui uit de AI-wereld om uit veiligheidsredenen de ontwikkeling van de meest geavanceerde AI-modellen te vertragen, hoeft niet te betekenen dat de winstgroei van de AI-bedrijven stokt. ‘Als belegger moet je blootstelling hebben aan de sector, die intussen een stuk goedkoper noteert.’",
+   "date": "2026-09-18T16:03:57",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASUS ROG Cronox-behuizing met 9,2\"-scherm kost 500 euro",
+   "link": "https://tweakers.net/nieuws/252336/asus-rog-cronox-behuizing-met-9-komma-2-inch-scherm-kost-500-euro.html",
+   "description": "ASUS heeft zijn ROG Cronox ARGB-behuizing officieel aangekondigd. De behuizing biedt plaats voor eATX-moederborden, twee 360mm-radiatoren en gpu's van maximaal 400mm lang. Ook heeft de case een 9,2\"-lcd-scherm. ASUS verkoopt de ROG Cronox voor 500 euro.",
+   "date": "2026-09-18T16:00:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft-manager: AI trainen met nieuwsartikelen is 'ongekende diefstal'",
+   "link": "https://tweakers.net/nieuws/252342/microsoft-manager-ai-trainen-met-nieuwsartikelen-is-ongekende-diefstal.html",
+   "description": "Een hooggeplaatste Microsoft-manager noemde het trainen van AI met nieuwsartikelen 'ongekende diefstal'. Dat blijkt uit documenten uit de rechtszaak van The New York Times. Die krant klaagde OpenAI en Microsoft aan wegens het gebruik van zijn verhalen als trainingsdata voor AI.",
+   "date": "2026-09-18T15:12:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opvallend bondgenootschap keert zich tegen AI-opmars: Democraat Sanders en Republikein Bannon slaan alarm",
+   "link": "https://www.demorgen.be/nieuws/opvallend-bondgenootschap-keert-zich-tegen-ai-opmars-democraat-sanders-en-republikein-bannon-slaan-alarm~b3833f1a/",
+   "description": "",
+   "date": "2026-09-18T15:08:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Toyota gaat jaarlijks 5,5 miljard euro uitgeven aan robotica en automatisering",
+   "link": "https://businessam.be/toyota-gaat-jaarlijks-55-miljard-euro-uitgeven-aan-robotica-en-automatisering/",
+   "description": "Key takeaways Vanaf 2028 verwacht Toyota Motor jaarlijks ongeveer 5,5 miljard euro uit te geven om zijn productiefaciliteiten te moderniseren. Deze financiële toezegging toont het streven van het bedrijf om meer robotica en geautomatiseerde systemen in zijn productielijnen te integreren. Investering in automatisering Deze brede investeringsstrategie omvat niet alleen Toyota, maar ook zijn belangrijkste leveranciers […]",
+   "date": "2026-09-18T15:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ethische hackers breken met Claude in op systemen van OpenAI",
+   "link": "https://tweakers.net/nieuws/252338/ethische-hackers-breken-met-claude-in-op-systemen-van-openai.html",
+   "description": "Een groep ethische hackers wist in te breken op de systemen van OpenAI. Ze deelden hun bevindingen via OpenAI’s bugbountyprogramma. Met behulp van Claude konden ze de hack uitvoeren en kregen ze zo toegang tot de accounts van OpenAI-werknemers.",
+   "date": "2026-09-18T14:47:46",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het debuut van een AI-actrice op het toneel prikkelt, maar mist diepgang",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/het-debuut-van-een-ai-actrice-op-het-toneel-prikkelt-maar-mist-diepgang-a4937025",
+   "description": "In de voorstelling ‘AI&IK’ onderzoekt Eran Ben-Michaël of een vriendschap met AI mogelijk is. De mix van stand-upcomedy en gesprekken met zijn zelfgebouwde AI-model zorgen voor een interessante insteek, maar een diepzinnigere uitwerking had niet misstaan.",
+   "date": "2026-09-18T14:40:50",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laten we AI vooral niet als een natuurverschijnsel zien",
+   "link": "https://www.tijd.be/r/t/1/id/10686483",
+   "description": "De AI-bonzen zien de risico's van op hol geslagen AI. Waarom zetten ze dan door? Ze gaan ervan uit dat de technologie er hoe dan ook komt. En in dat denken schuilt een gevaar.",
+   "date": "2026-09-18T14:22:16",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggingstip van de week: Besi",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/beleggingstip-van-de-week-besi/",
+   "description": "Besi profiteert van de grote honger naar halfgeleiders. Het Nederlandse bedrijf scherpte zijn doelstellingen opnieuw aanzienlijk aan.\nThe post Beleggingstip van de week: Besi appeared first on Trends.be.",
+   "date": "2026-09-18T14:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "België heeft ruim dubbel zoveel stroom voor datacenters nodig tegen 2034, volgens netbeheerder Elia",
+   "link": "https://vrtnws.be/p.LNDpMPwDE",
+   "description": "Grote datacenters zullen tegen 2034 meer dan dubbel zoveel stroom verbruiken als nu. Dat blijkt uit cijfers van hoogspanningsnetbeheerder Elia. Nu al verbruiken de grote datacenters ongeveer evenveel stroom als 1 miljoen gezinnen.",
+   "date": "2026-09-18T13:50:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse bedrijf Switch Datacenters bouwt een datacenter van 1 miljard euro in Lanaken",
+   "link": "https://businessam.be/nederlandse-bedrijf-switch-datacenters-bouwt-een-datacenter-van-1-miljard-euro-in-lanaken/",
+   "description": "Key takeaways Er staat een aanzienlijke investering, mogelijk van meer dan 1 miljard euro, op stapel voor de Belgische provincie Limburg met de voorgestelde bouw van een enorm datacenter. Sappi-terrein Het project, onder leiding van het in Amsterdam gevestigde bedrijf Switch Datacenters, is gepland op een deel van het voormalige Sappi-terrein in Lanaken. Door gebruik […]",
+   "date": "2026-09-18T13:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Calibre 9.15",
+   "link": "https://tweakers.net/downloads/78298/calibre-915.html",
+   "description": "Versie 9.15 van Calibre is uitgekomen. Calibre is een opensource e-bookbeheerprogramma wat haast onmisbaar is voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 9 is onder meer een boekenplank toegevoegd, wat een nieuwe manier is om alle boeken te tonen. Ook zijn er enkele optionele AI-functies toegevoegd, die bijvoorbeeld een suggestie kunnen doen welk volgend boek je moet lezen of vragen over de inhoud van een boek kunnen beantwoorden. De changelog voor deze uitgave kan hieronder worden gevonden. New features",
+   "date": "2026-09-18T13:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ethische hackers breken binnen 72 uur in bij ChatGPT-maker OpenAI",
+   "link": "https://www.hln.be/tech/ethische-hackers-breken-binnen-72-uur-in-bij-chatgpt-maker-openai~aa81c030/",
+   "description": "Ethische hackers wisten onlangs in te breken bij OpenAI, het bedrijf achter chatbot ChatGPT. Onderzoekers van het beveiligingsplatform Hacktron ontdekten twee kritieke kwetsbaarheden en wisten binnen 72 uur toegang te krijgen tot interne systemen.",
+   "date": "2026-09-18T13:21:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veel jobs en veel elektriciteit: wat mogen we verwachten van nieuw datacentrum in Lanaken",
+   "link": "https://vrtnws.be/p.M9XpAL3EB",
+   "description": "De komst van een nieuw datacenter van Switch op de oude terreinen van papierfabrikant Sappi zal zo'n 150 nieuwe jobs opleveren in Lanaken. Dat zal gaan om jobs in zowel de ICT-sector als bij ondersteunende diensten zoals beveiliging en onderhoud. Het datacenter zal veel elektriciteit nodig hebben en zal rechtstreeks aansluiten op het hoogspanningsnet. \"Het heeft geen impact op de bevoorrading\", verzekert netbeheerder Elia.",
+   "date": "2026-09-18T13:14:06",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ethische hackers breken binnen 72 uur in bij ChatGPT-maker OpenAI",
+   "link": "https://www.gva.be/economie/technologie/ethische-hackers-breken-binnen-72-uur-in-bij-chatgpt-maker-openai/161645794.html",
+   "description": "Ethische hackers wisten onlangs in te breken bij OpenAI, het bedrijf achter chatbot ChatGPT. Onderzoekers van het beveiligingsplatform Hacktron ontdekten twee kritieke kwetsbaarheden en wisten binnen 72 uur toegang te krijgen tot interne systemen.",
+   "date": "2026-09-18T13:11:46",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI besefte dat gebruik krantenstukken voor AI-training het voortbestaan van nieuwsuitgevers zou bedreigen",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/openai-besefte-dat-gebruik-krantenstukken-voor-ai-training-het-voortbestaan-van-nieuwsuitgevers-zou-bedreigen-a4937027",
+   "description": "OpenAI, het bedrijf achter ChatGPT, besefte dat zijn gebruik van miljoenen auteursrechtelijk beschermde krantenartikelen voor het trainen van grote taalmodellen voor kunstmatige…",
+   "date": "2026-09-18T12:38:59",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omstreden UGent-onderzoeker Nathan Cofnas deelt AI-complottheorie over klachten aan zijn adres",
+   "link": "https://www.knack.be/nieuws/belgie/omstreden-ugent-onderzoeker-nathan-cofnas-deelt-ai-complottheorie-over-klachten-aan-zijn-adres/",
+   "description": "Een nieuwssite die artikels laat fabriceren door artificiële intelligentie ziet achter de zaak-Cofnas een samenzwering van ‘door de staat gesponsorde ngo’s’. Maar daar klopt niets van.\nThe post Omstreden UGent-onderzoeker Nathan Cofnas deelt AI-complottheorie over klachten aan zijn adres appeared first on Knack.",
+   "date": "2026-09-18T11:50:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Rekenkracht vervangt ambacht",
+   "link": "https://www.tijd.be/r/t/1/id/10686207",
+   "description": "Terwijl AI aanvankelijk een tool was die me hielp om code te schrijven, voelt het nu soms alsof ik het hulpje van mijn AI-agent ben.",
+   "date": "2026-09-18T11:12:12",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Instinct, Muse en Mira: wanneer geef je een AI-agent te veel vrijheid?",
+   "link": "https://www.emerce.nl/opinie/ai-agents-vrijheid-en-autonomie",
+   "description": "AI ontwikkelt zich van eenvoudige chatbots die vragen beantwoorden naar autonome agents die zelfstandig taken uitvoeren, zoals het boeken van reizen of afhandelen van e-mails. Hoewel deze ontwikkeling enorm veel productiviteitswinst oplevert, brengt het ook risico's met zich mee bij verkeerde acties. Met de introductie van hun eigen AI-agent Mira benadrukt co-Founded by AI dat de sleutel tot succes ligt in een goede balans: geef agents gefaseerde autonomie, maar behoud altijd een menselijke controlelaag bij beslissingen met een hoge impact.",
+   "date": "2026-09-18T10:30:11",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse Switch Datacenters wil groot datacenter bouwen in Lanaken",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/nederlandse-switch-datacenters-wil-groot-datacenter-bouwen-in-lanaken/",
+   "description": "Het datacenter moet komen op de Sappi-site van de voormalige papierfabriek in Lanaken, en zou 150 tot 250 jobs opleveren, zo schrijft Het Belang van Limburg. Met de bouw is een investering van honderden miljoenen tot een miljard euro gemoeid.  \nThe post Nederlandse Switch Datacenters wil groot datacenter bouwen in Lanaken appeared first on Trends.be.",
+   "date": "2026-09-18T10:21:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude wordt voor een kwart door Claude gemaakt",
+   "link": "https://tweakers.net/nieuws/252322/claude-wordt-voor-een-kwart-door-claude-gemaakt.html",
+   "description": "Anthropic laat meer dan een kwart van zijn onderzoeks- en ontwikkelwerk aan Claude door Claude zelf uitvoeren. Dat zegt het bedrijf in een rapport. Bij meer dan 90 procent van het werk aan de chatbot wordt AI op de een of andere manier ingezet. Anthropic zegt dat het Claude nooit autonoom inzet, maar dat er altijd een mens meekijkt.",
+   "date": "2026-09-18T10:10:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De mens in het spiegelpaleis van AI",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/de-mens-in-het-spiegelpaleis-van-ai-a4936883",
+   "description": "Bij het nieuws over de stormachtige ontwikkelingen op het gebied van kunstmatige intelligentie heb ik soms zin mijn hoofd even onder de koude kraan te steken, om me ervan te vergewissen dat ik niet droom of hallucineer. Maar nee, blijkt dan elke keer, we maken écht rare dingen mee.",
+   "date": "2026-09-18T10:00:47",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI moet gaan leren van ervaren chirurgen",
+   "link": "https://www.emerce.nl/nieuws/ai-moet-gaan-leren-ervaren-chirurgen",
+   "description": "Onderzoekers van HealthTech Nexus, een samenwerking tussen de Universiteit Twente en het Radboudumc, gaan onderzoeken of kunstmatige intelligentie (AI) kan leren wat ervaren chirurgen vaak op gevoel doen: inschatten hoeveel spanning er op weefsel staat tijdens een operatie. Als dat lukt, kan AI chirurgen helpen hun operatietechnieken verder te verbeteren en mogelijk complicaties verminderen.",
+   "date": "2026-09-18T09:55:00",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Investering van een miljard euro\": Nederlands bedrijf wil datacenter bouwen op oude Sappi-site in Lanaken",
+   "link": "https://vrtnws.be/p.pAMXG9L4w",
+   "description": "Het Nederlandse bedrijf Switch Datacenters wil een groot datacenter op de voormalige Sappi-site in Lanaken bouwen. De investering kan oplopen tot een miljard euro en zou 150 tot 250 jobs kunnen opleveren. Dat schrijft het Belang van Limburg en het nieuws is ons bevestigd. \"Voor Lanaken breekt een economische lente aan\", zegt burgemeester Marino Keulen (Team Burgemeester).",
+   "date": "2026-09-18T09:35:52",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse IND gebruikt AI bij asielaanvragen maar meldt systemen niet aan",
+   "link": "https://tweakers.net/nieuws/252320/nederlandse-ind-gebruikt-ai-bij-asielaanvragen-maar-meldt-systemen-niet-aan.html",
+   "description": "De Nederlandse Immigratie- en Naturalisatiedienst (IND) gebruikt twee AI-systemen om aanvragen te behandelen, zonder dat die zijn aangemeld. Dat is volgens de IND niet nodig, omdat ze niet voor besluitvorming worden gebruikt en het niet gaat om hoogrisicoalgoritmes. Maar de IND heeft wel eigen regels die voorschrijven dat algoritmes moeten worden geregistreerd.",
+   "date": "2026-09-18T09:06:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gartner verwacht dat wereldwijde AI-uitgaven in 2026 met 49,5 procent groeien",
+   "link": "https://www.emerce.nl/nieuws/gartner-verwacht-dat-wereldwijde-aiuitgaven-2026-495-procent-groeien",
+   "description": "De wereldwijde uitgaven aan AI komen in 2026 naar verwachting uit op 2,7 biljoen dollar. Dat is een stijging van 49,5 procent ten opzichte van 2025, meldt onderzoeks- en adviesbureau Gartner.",
+   "date": "2026-09-18T08:42:59",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta krijgt opdracht om deepfakes te verwijderen en AI-beveiliging te verbeteren",
+   "link": "https://businessam.be/meta-krijgt-opdracht-om-deepfakes-te-verwijderen-en-ai-beveiliging-te-verbeteren/",
+   "description": "Key takeaways Meta moet twee AI-gegenereerde deepfakevideo’s van Facebook verwijderen. Dat heeft de eigen Oversight Board van het technologiebedrijf beslist. Het onafhankelijke orgaan bekritiseert Meta bovendien omdat de bestaande maatregelen tegen misleidende AI-inhoud onvoldoende bescherming bieden. De twee video’s toonden een Britse Labour-politicus en een jonge moslimvrouw in situaties die nooit hadden plaatsgevonden. Dat meldt […]",
+   "date": "2026-09-18T08:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mediapartijen stellen gezamenlijke richtlijnen op voor AI-transparantie",
+   "link": "https://www.emerce.nl/nieuws/mediapartijen-stellen-gezamenlijke-richtlijnen-aitransparantie",
+   "description": "De Nederlandse en Belgische mediasector komen met gezamenlijke richtlijnen voor transparantie over het gebruik van AI in beeld-, audio- en videocontent. De aanleiding hiervoor is de Europese AI Act, die mediaorganisaties verplicht om bij bepaalde vormen van AI-gebruik duidelijk te maken dat AI is gebruikt.",
+   "date": "2026-09-18T07:45:40",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Orders via AI-shophulp Trip.com groeien 400%",
+   "link": "https://www.emerce.nl/nieuws/orders-via-aishophulp-tripcom-groeien-400",
+   "description": "De internationale boekingssites voor reizen en verblijven Trip.com heeft het aantal orders bij TripGenie, zijn AI-shophulp met een factor vijf zien groeien afgelopen jaar.",
+   "date": "2026-09-18T06:39:11",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geplande datacenters in België jagen energievraag naar recordhoogtes",
+   "link": "https://www.hln.be/economie/geplande-datacenters-in-belgie-jagen-energievraag-naar-recordhoogtes~ae65bf17/",
+   "description": "Geplande en bestaande datacenters in ons land zullen tegen 2034 acht keer zoveel stroom vragen als vandaag. Dat schrijven ‘De Standaard’, ‘Het Nieuwsblad’ en ‘Gazet van Antwerpen’ vrijdag op basis van nieuwe prognoses van netbeheerder Elia.",
+   "date": "2026-09-18T06:03:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tegen 2034 is er acht keer zoveel nodig: vraag naar stroom voor datacenters explodeert",
+   "link": "https://www.gva.be/economie/tegen-2034-is-er-acht-keer-zoveel-nodig-vraag-naar-stroom-voor-datacenters-explodeert/161623301.html",
+   "description": "Nu andere Europese landen stilaan ‘vol’ geraken, vinden datacenters hun weg naar ons land. Op het hoogspanningsnet voorziet Elia tegen 2034 liefst acht keer zoveel stroom voor datacenters als vandaag. Ook Fluvius ziet het aantal aanvragen fors stijgen.",
+   "date": "2026-09-18T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Datacenters in België eisen over enkele jaren acht keer meer stroom op",
    "link": "https://www.standaard.be/economie/datacenters-in-belgie-eisen-over-enkele-jaren-acht-keer-meer-stroom-op/161587966.html",
