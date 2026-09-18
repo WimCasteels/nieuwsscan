@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T17:25:54",
+ "generated": "2026-09-18T03:03:58",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 2,
+   "count": 1,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 157,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
@@ -315,6 +315,94 @@
   }
  ],
  "articles": [
+  {
+   "title": "Datacenters in België eisen over enkele jaren acht keer meer stroom op",
+   "link": "https://www.standaard.be/economie/datacenters-in-belgie-eisen-over-enkele-jaren-acht-keer-meer-stroom-op/161587966.html",
+   "description": "De bedrijven die datacenters bouwen hebben België ontdekt. Maar die datacentra duwen de vraag naar stroom de komende jaren veel meer omhoog dan verwacht, blijkt uit nieuwe cijfers van netbeheerder Elia.",
+   "date": "2026-09-17T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eén jaar na de aanstelling van Petra De Sutter raakt de UGent maar niet verlost van de bad vibes: “Mijn hart bloedt”",
+   "link": "https://www.standaard.be/binnenland/een-jaar-na-de-aanstelling-van-petra-de-sutter-raakt-de-ugent-maar-niet-verlost-van-de-bad-vibes-mijn-hart-bloedt/161568384.html",
+   "description": "Van verzonnen AI-citaten tot de zaak-Cofnas: zowel in binnen- als buitenland kwam de UGent in het eerste jaar onder rector Petra De Sutter geregeld op een kwalijke manier in beeld. De heisa na de uitspraken van gewezen vicerector Freddy Mortier bewijst dat de rust er ver te zoeken is.",
+   "date": "2026-09-17T19:27:37",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Perfect voor een herfstavond: wij testen het Prime-abonnement van 2,99 euro dat games voor het hele gezin ‘verstopt’",
+   "link": "https://www.hln.be/tech/perfect-voor-een-herfstavond-wij-testen-het-prime-abonnement-van-2-99-euro-dat-games-voor-het-hele-gezin-verstopt~a210c984/",
+   "description": "De avonden worden langer en in plaats van een serie te bingen, komt er af en toe ook een spel op tafel. Dat zijn vaak klassiekers zoals ‘Exploding Kittens’, ‘Cluedo’ of ‘Ticket to Ride’. Wie Amazon Prime heeft, kan die ook gewoon op tv spelen: elk gezinslid kan met een smartphone meespelen met ‘GameNight’. Onze tech-expert Kenneth Dée test het uit: “Deze AI-game is iets minder geschikt voor het hele gezin”",
+   "date": "2026-09-17T19:00:32",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Al 4 lichte ongevallen met zelfrijdende Tesla's: \"Vermeden ongevallen halen de pers natuurlijk niet\"",
+   "link": "https://vrtnws.be/p.JNG4ZOmGQ",
+   "description": "Op Belgische wegen zijn tot nu toe 4 lichte ongevallen gebeurd met zelfrijdende Tesla's. Dat zegt Vlaams minister van Mobiliteit Annick De Ridder (N-VA) in het Vlaams Parlement op basis van cijfers die ze van Tesla heeft gekregen. \"De vermeden ongevallen halen natuurlijk de pers niet\", zegt De Ridder.",
+   "date": "2026-09-17T18:52:12",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Apple overweegt AI-servers met M8 Ultra-chips te verkopen'",
+   "link": "https://tweakers.net/nieuws/252304/apple-overweegt-ai-servers-met-m8-ultra-chips-te-verkopen.html",
+   "description": "Apple overweegt weer de servermarkt te betreden. Dat zeggen ingewijden tegen The Information. De techgigant zou servers willen verkopen met zijn toekomstige M8 Ultra-chips. Apple zou daarbij mogelijk gebruikmaken van NVLink, een techniek van Nvidia.",
+   "date": "2026-09-17T18:34:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarde van Anthropic voor beursgang bereikt ongeveer 1,73 biljoen euro door de AI-boom",
+   "link": "https://businessam.be/waarde-van-anthropic-voor-beursgang-bereikt-ongeveer-173-biljoen-euro-door-de-ai-boom/",
+   "description": "Key takeaways Speculatie rond de aanstaande beursgang van Anthropic heeft de geschatte marktwaarde in pre-IPO-handelskringen boven de 2 biljoen dollar (ongeveer 1,73 biljoen euro) gedreven. Dat cijfer ligt meer dan twee keer zo hoog als de meest recente particuliere waardering van het bedrijf en weerspiegelt de hoge verwachtingen van beleggers voor de officiële S-1-aanvraag. Anthropic […]",
+   "date": "2026-09-17T18:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laten we handvol bedrijven beslissen over technologie die miljarden mensen raakt?",
+   "link": "https://www.tijd.be/r/t/1/id/10686400",
+   "description": "Niemand, ook de bouwers zelf niet, kan met enig gezag voorspellen wat AI over vijf jaar kan. Daarom focussen we beter op de vraag wie AI mag reguleren.",
+   "date": "2026-09-17T18:00:56",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI-bedrijven waarschuwen voor hun systemen, ik voor de bedrijven’",
+   "link": "https://www.volkskrant.nl/tech/ai-bedrijven-waarschuwen-voor-hun-systemen-ik-voor-de-bedrijven~b54d6cc2/",
+   "description": "",
+   "date": "2026-09-17T18:00:45",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-18",
+   "intro_geprobeerd": true
+  },
   {
    "title": "“Bijna tien keer minder ongevallen met ‘zelfrijdende’ Tesla op Belgische wegen”",
    "link": "https://www.hln.be/mobiliteit/bijna-tien-keer-minder-ongevallen-met-zelfrijdende-tesla-op-belgische-wegen~a8343842/",
