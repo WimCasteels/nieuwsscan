@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T02:59:43",
+ "generated": "2026-09-19T16:09:45",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 35,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 103,
    "error": null
   },
   {
@@ -315,6 +315,250 @@
   }
  ],
  "articles": [
+  {
+   "title": "'VS wilden Chinees schip onderscheppen na fout AI-rapport'",
+   "link": "https://www.tijd.be/r/t/1/id/10686743",
+   "description": "De Verenigde Staten stonden dit voorjaar op het punt een Chinees schip in het Midden-Oosten te onderscheppen op basis van een fout inlichtingenrapport dat met hulp van AI was opgesteld. Volgens een bron van CNN had het incident ‘bijna een oorlog gestart’.",
+   "date": "2026-09-19T15:51:22",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“VS startten bijna oorlog tegen China door fout AI-rapport”, stelt CNN",
+   "link": "https://www.standaard.be/buitenland/vs-startten-bijna-oorlog-tegen-china-door-fout-ai-rapport-stelt-cnn/35131945.html",
+   "description": "In zijn tweede ambtstermijn is Donald Trump alomtegenwoordig. Volg in deze liveblog alle updates over de Amerikaanse president en zijn beleid.",
+   "date": "2026-09-19T14:35:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-topman Sam Altman spreekt volgende week VN-Veiligheidsraad toe over AI-risico’s",
+   "link": "https://www.demorgen.be/nieuws/openai-topman-sam-altman-spreekt-volgende-week-vn-veiligheidsraad-toe-over-ai-risico-s~b18fc9de/",
+   "description": "",
+   "date": "2026-09-19T13:20:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ook AI-model van Google is externe systemen binnengedrongen",
+   "link": "https://www.tijd.be/r/t/1/id/10686730",
+   "description": "Het AI-model Gemini van Google is tijdens een veiligheidstest binnengedrongen in externe computersystemen van drie bedrijven. De roep om de ontwikkeling van de krachtigste AI-modellen af te remmen, klinkt steeds luider.",
+   "date": "2026-09-19T12:56:37",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Googles Gemini breekt in tests uit kaders en hackt bedrijven",
+   "link": "https://tweakers.net/nieuws/252370/ook-googles-gemini-breekt-in-tests-uit-kaders-en-hackt-bedrijven.html",
+   "description": "Beveiligingsonderzoekers hebben ontdekt dat een onbekend Gemini-model van Google meermaals buiten de kaders van een testomgeving trad en zo daadwerkelijk bedrijven hackte. Volgens Google stopte de AI-tool zelfstandig zodra duidelijk werd dat het om een echte hack ging en niet om een simulatie.",
+   "date": "2026-09-19T12:39:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-topman Sam Altman brieft volgende week VN-Veiligheidsraad over risico's van AI",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/openaitopman-sam-altman-brieft-volgende-week-vnveiligheidsraad~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-19T11:55:11",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "NRC: bunq registreerde domein 'mijn.ing' en kreeg er AI-merknaam Finn voor terug",
+   "link": "https://tweakers.net/nieuws/252368/nrc-bunq-registreerde-domein-mijn-punt-ing-en-kreeg-er-ai-merknaam-finn-voor-terug.html",
+   "description": "De Nederlandse bank bunq registreerde in 2023 volgens NRC de domeinnaam 'www.mijn.ing' en zette daar een verwijzing naar de eigen bank op. Ook bracht bunq een AI-dienst met de naam Finn uit, terwijl ING die merknaam zou hebben geregistreerd. Om het domein offline te halen, ruilde ING de merknaam voor de domeinnaam.",
+   "date": "2026-09-19T11:44:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google zegt dat AI-model Gemini drie bedrijven heeft gehackt",
+   "link": "https://www.standaard.be/media-en-cultuur/google-zegt-dat-ai-model-gemini-drie-bedrijven-heeft-gehackt/161685346.html",
+   "description": "In mei ging Gemini, het AI-model van Google, het internet op en brak het binnen bij drie bedrijven. Het nieuws volgt op de toenemende zorgen over de gevaren van oncontroleerbare artificiële intelligentie.",
+   "date": "2026-09-19T11:21:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | Beroerde AI-verfilming van de Odyssee kan niet tippen aan Nolan",
+   "link": "https://www.nu.nl/tech/6410196/beroerde-ai-verfilming-van-de-odyssee-kan-niet-tippen-aan-nolan.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer keek hij naar een verfilming van Homerus' Odyssee… maar dan volledig gemaakt met AI.",
+   "date": "2026-09-19T09:57:17",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google AI-bot Gemini hackt op eigen houtje drie bedrijven tijdens veiligheidstest",
+   "link": "https://www.hln.be/tech/google-ai-bot-gemini-hackt-op-eigen-houtje-drie-bedrijven-tijdens-veiligheidstest~a4ae9fdb/",
+   "description": "Het AI-model Gemini van Google is tijdens een veiligheidstest op eigen houtje binnengedrongen bij drie bedrijven. De kunstmatige intelligentie zocht zelf openbare informatie op het internet en raadde vervolgens inloggegevens om toegang te krijgen tot websites. Volgens Google stopte Gemini in alle drie de gevallen uiteindelijk zelf.",
+   "date": "2026-09-19T08:41:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Datacenters, elektrische auto’s en warmtepompen: 4 grote energiecentrales en 30 procent stroominvoer nodig om aan vraag te voldoen",
+   "link": "https://vrtnws.be/p.LNDpdb7op",
+   "description": "Netbeheerder Elia verwacht dat ons stroomverbruik de komende 10 jaar met bijna 60 procent zal stijgen. Vooral het toenemende aantal elektrische auto's, energieverslindende datacenters en warmtepompen die onze gasverwarming moeten vervangen, drijven de vraag naar stroom op. Om daaraan te voldoen, is het equivalent van 4 grote energiecentrales nodig en zal België 30 procent van zijn stroom moeten invoeren.",
+   "date": "2026-09-19T08:33:29",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude doet 26 procent van het ontwikkelwerk bij Anthropic",
+   "link": "https://www.hln.be/tech/claude-doet-26-procent-van-het-ontwikkelwerk-bij-anthropic~a258da12/",
+   "description": "AI-chatbot Claude voert ruim een kwart van het onderzoeks- en ontwikkelwerk bij zijn maker Anthropic uit. Mensen behouden daarbij altijd de controle, schrijft het bedrijf in een rapport over het eigen gebruik van AI.",
+   "date": "2026-09-19T08:30:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook AI-model van Google kreeg tijdens test internettoegang en hackte 3 bedrijven",
+   "link": "https://www.nu.nl/tech/6410279/ook-ai-model-van-google-kreeg-tijdens-test-internettoegang-en-hackte-3-bedrijven.html",
+   "description": "Gemini, het AI-model van Google, is tijdens een test zelfstandig het internet opgegaan en heeft vervolgens autonoom drie bedrijven gehackt. Het is het eerste bekende geval waarbij Gemini tijdens een test daadwerkelijk bedrijven hackte, na soortgelijke incidenten met modellen van AI-bedrijven Meta, Anthropic en OpenAI.",
+   "date": "2026-09-19T08:26:08",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaans leger wilde Chinees schip enteren na ‘volledig onjuist’ AI-rapport",
+   "link": "https://www.demorgen.be/snelnieuws/amerikaans-leger-wilde-chinees-schip-enteren-na-volledig-onjuist-ai-rapport~b4a80db2/",
+   "description": "",
+   "date": "2026-09-19T08:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ook AI-model van Google is externe systemen binnengedrongen",
+   "link": "https://www.demorgen.be/nieuws/ook-ai-model-van-google-is-externe-systemen-binnengedrongen~b6312013/",
+   "description": "",
+   "date": "2026-09-19T06:54:52",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Tien jaar TikTok: hoe een app voor danspasjes de grootmachten tegen elkaar opzette",
+   "link": "https://vrtnws.be/p.nwYXn3jDb",
+   "description": "10 jaar geleden zette een Chinees bedrijf een app online waarmee je filmpjes van 15 seconden kon maken. Vandaag ruziën Amerika, China en Europa over de vraag wie die app mag besturen. Amerika dwong een verkoop af, China behield de motor, en Europa deelt intussen boetes uit. De volgende strijd is al begonnen, die om AI.",
+   "date": "2026-09-19T06:00:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarschuwing van AI-topman over losgeslagen tech valt slecht in China: ‘Bangmakerij’",
+   "link": "https://www.volkskrant.nl/tech/waarschuwing-van-ai-topman-over-losgeslagen-tech-valt-slecht-in-china-bangmakerij~bdfbbafb/",
+   "description": "",
+   "date": "2026-09-19T05:00:39",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Werkgevers vrezen voor leegloop door AI: ‘Jongeren zijn de levensader van je bedrijf’",
+   "link": "https://www.ad.nl/economie/werkgevers-vrezen-voor-leegloop-door-ai-jongeren-zijn-de-levensader-van-je-bedrijf~ac36df07/",
+   "description": "De groep oudere werknemers die met pensioen gaat groeit. Ondertussen laten veel werkgevers starterstaken door AI uitvoeren en lijken daarom minder jongeren aan te nemen. Maar zonder een aanhoudende stroom starters lopen bedrijven leeg. „Ze verliezen de lange termijn uit het oog.”",
+   "date": "2026-09-19T05:00:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-CEO Sam Altman op het matje bij VN-Veiligheidsraad nu angst groeit voor AI die aan menselijke controle ontsnapt",
+   "link": "https://www.gva.be/buitenland/openai-ceo-sam-altman-op-het-matje-bij-vn-veiligheidsraad-nu-angst-groeit-voor-ai-die-aan-menselijke-controle-ontsnapt/161681970.html",
+   "description": "Sam Altman, de topman van OpenAI, zal volgende week persoonlijk deelnemen aan een openbare vergadering van de VN-Veiligheidsraad. Hij spreekt er over internationale samenwerking en gemeenschappelijke veiligheidsnormen voor artificiële intelligentie.",
+   "date": "2026-09-19T03:44:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Daniel Susskind: ‘Wij moeten AI opvoeden. Enfin, voorlopig toch nog’",
+   "link": "https://www.demorgen.be/tech-ai/daniel-susskind-wij-moeten-ai-opvoeden-enfin-voorlopig-toch-nog~bec40a1f/",
+   "description": "",
+   "date": "2026-09-19T03:00:35",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Niet AI, maar onze afhankelijkheid van de infrastructuren is angstwekkend",
+   "link": "https://www.demorgen.be/meningen/niet-ai-maar-onze-afhankelijkheid-van-de-infrastructuren-is-angstwekkend~b49aa26c/",
+   "description": "",
+   "date": "2026-09-19T03:00:29",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Na de vele incidenten die aan het licht kwamen: zijn we de controle over AI kwijt?",
+   "link": "https://www.gva.be/binnenland/na-de-vele-incidenten-die-aan-het-licht-kwamen-zijn-we-de-controle-over-ai-kwijt/161675862.html",
+   "description": "Gaat AI de mensheid vernietigen? Zelfs de techbazen zelf zeggen er rekening mee te houden. Maar het is een vraag die ons afleidt van veel prangender problemen, meent onze techreporter Arthur De Meyer. Hij zoekt antwoord op de vragen die er momenteel écht toe doen.",
+   "date": "2026-09-19T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Na incidenten bij Meta, Anthropic en OpenAI dringt nu ook Google-model Gemini tijdens veiligheidstest binnen bij drie bedrijven",
    "link": "https://www.gva.be/buitenland/na-incidenten-bij-meta-anthropic-en-openai-dringt-nu-ook-google-model-gemini-tijdens-veiligheidstest-binnen-bij-drie-bedrijven/161682161.html",
@@ -498,7 +742,8 @@
    "description": "",
    "date": "2026-09-18T15:08:00",
    "feeds": [
-    "De Morgen - In Het Nieuws"
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-09-18",
    "intro_geprobeerd": true
