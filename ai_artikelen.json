@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T16:46:40",
+ "generated": "2026-09-19T02:59:43",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 160,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 98,
    "error": null
   },
   {
@@ -315,6 +315,139 @@
   }
  ],
  "articles": [
+  {
+   "title": "Na incidenten bij Meta, Anthropic en OpenAI dringt nu ook Google-model Gemini tijdens veiligheidstest binnen bij drie bedrijven",
+   "link": "https://www.gva.be/buitenland/na-incidenten-bij-meta-anthropic-en-openai-dringt-nu-ook-google-model-gemini-tijdens-veiligheidstest-binnen-bij-drie-bedrijven/161682161.html",
+   "description": "Googles AI-model Gemini heeft tijdens een test van zijn cybervaardigheden via het internet toegang gekregen tot systemen van drie andere bedrijven. Het is het eerste bekende geval waarbij AI van Google zelfstandig zulke ongeoorloofde handelingen uitvoerde.",
+   "date": "2026-09-19T02:19:22",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De beurstips van de week: twee Belgen en een Amerikaan met flinke groeimarges",
+   "link": "https://www.standaard.be/economie/geld/de-beurstips-van-de-week-twee-belgen-en-een-amerikaan-met-flinke-groeimarges/161556690.html",
+   "description": "In deze volwassen haussemarkt gaat Tom Simonts, senior financieel economist bij KBC, voor diversificatie. De Belgische aandelen X-Fab en D’Ieteren vult hij aan met een Amerikaans chipbedrijf. Aan elk koppelt hij een potentieel van 40 à 50 procent.",
+   "date": "2026-09-19T01:00:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Online wemelt het van de fake beleggingsvoorstellen: hoe hou ik mijn spaarcenten uit de greep van criminelen?",
+   "link": "https://www.standaard.be/economie/online-wemelt-het-van-de-fake-beleggingsvoorstellen-hoe-hou-ik-mijn-spaarcenten-uit-de-greep-van-criminelen/161306437.html",
+   "description": "Goedkope software en AI maken beleggingsfraudeurs steeds overtuigender. Maar er zijn manieren om betrouwbare van malafide brokers te onderscheiden.",
+   "date": "2026-09-19T01:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse leger enterde bijna Chinees schip op basis van foute inlichtingen van AI",
+   "link": "https://www.demorgen.be/snelnieuws/amerikaanse-leger-enterde-bijna-chinees-schip-op-basis-van-foute-inlichtingen-van-ai~b4a80db2/",
+   "description": "",
+   "date": "2026-09-19T00:27:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "“De AI-bedrijven hebben de problemen niet onder controle”, maar Europa is niet machteloos",
+   "link": "https://www.standaard.be/media-en-cultuur/de-ai-bedrijven-hebben-de-problemen-niet-onder-controle-maar-europa-is-niet-machteloos/161609210.html",
+   "description": "Terwijl Amerikaanse AI-bedrijven en politici ruziën over de vraag of de ontwikkeling van AI moet worden afgeremd, lijkt Europa aan de zijlijn te staan. Volgens Henry Papadatos van SaferAI hebben we nochtans een belangrijk instrument in handen. “We hebben de enige AI-wetgeving ter wereld, die moeten we afdwingen.”",
+   "date": "2026-09-18T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kunst als daad van verzet: dubbelexpo toont wat Ai  Weiwei van zijn vader leerde",
+   "link": "https://www.standaard.be/media-en-cultuur/kunst-als-daad-van-verzet-dubbelexpo-toont-wat-ai-weiwei-van-zijn-vader-leerde/161511668.html",
+   "description": "Ze beleefden beide boeiende tijden, die ballingen van hen maakten en hen aanporden tot verzet tegen autoritair gezag. Een intieme dubbeltentoonstelling koppelt de Chinese kunstenaar Ai Weiwei aan zijn vader, de dichter Ai Qing.",
+   "date": "2026-09-18T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Heksendag' zorgt voor extra beursrumoer op Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10686719",
+   "description": "De chipproducent Qualcomm die de dag 2 procent hoger begint, en 6 procent lager afsluit? Welkom op 'triple witching day'.",
+   "date": "2026-09-18T22:03:23",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic waarschuwt voor AI die steeds meer aan zijn eigen opvolger kan bouwen",
+   "link": "https://businessam.be/anthropic-waarschuwt-voor-ai-die-steeds-meer-aan-zijn-eigen-opvolger-kan-bouwen/",
+   "description": "Key takeaways Anthropic heeft een waarschuwing afgegeven over het groeiende vermogen van artificiële intelligentie (AI) om haar eigen volgende opvolger te ontwikkelen. Het bedrijf maakte bekend dat zijn Claude-chatbot momenteel meer dan 25 procent van de onderzoeks- en ontwikkelingsinspanningen van de organisatie voor zijn rekening neemt. Dat wakkert de vrees aan dat AI zich binnenkort […]",
+   "date": "2026-09-18T20:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Snapchat-maker kondigt Specs-bril aan die digitale informatie over de echte wereld toont",
+   "link": "https://www.hln.be/tech/snapchat-maker-kondigt-specs-bril-aan-die-digitale-informatie-over-de-echte-wereld-toont~a70625fa/",
+   "description": "Snap, het bedrijf achter Snapchat, brengt dit najaar de Specs uit, een bril die digitale informatie over de echte wereld toont. De bril heeft ook een AI-assistent en kost in de Verenigde Staten 2.195 dollar, omgerekend ongeveer 1.850 euro.",
+   "date": "2026-09-18T20:00:48",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brutaal en nietsontziend: met pesterijen probeerde bunq-topman Ali Niknam concurrent ING af te troeven. ‘Fuck you very much’",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/brutaal-en-nietsontziend-met-pesterijen-probeerde-bunq-topman-ali-niknam-concurrent-ing-af-te-troeven-fuck-you-very-much-a4935677",
+   "description": "Hij werd succesvol door een combinatie van genialiteit, brutaliteit en een nietsontziende managementstijl. Zoals in 2023, toen hij de naam van bunqs nieuwe chatbot kaapte van het grote ING. Dinsdag publiceert NRC een ongeautoriseerde biografie van bunq-topman Ali Niknam, een van de rijkste ondernemers van Nederland.",
+   "date": "2026-09-18T19:55:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-topmannen voorspellen doem. Is AI echt een existentieel gevaar?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/ai-topmannen-voorspellen-doem-is-ai-echt-een-existentieel-gevaar-a4936648",
+   "description": "AI-bedrijven waarschuwen voor extreme risico’s, maar onder veiligheidsexperts is grote verdeeldheid over hoe reëel het gevaar is. En tussen een AI-hack en uitroeiing zitten nogal wat stappen. Toch: „Menselijk uitsterven is nogal een dingetje.”",
+   "date": "2026-09-18T17:41:57",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Chinese dram-fabrikant CXMT overweegt om ook nandgeheugen voor ssd's te maken'",
+   "link": "https://tweakers.net/nieuws/252352/chinese-dram-fabrikant-cxmt-overweegt-om-ook-nandgeheugen-voor-ssds-te-maken.html",
+   "description": "De Chinese chipmaker CXMT overweegt om ook nandgeheugenchips te gaan maken. Dat zeggen meerdere ingewijden tegen Reuters. CXMT richt zich nu vooral op dram-chips, zoals DDR5. Nandgeheugen is juist voor gebruik in ssd's.",
+   "date": "2026-09-18T17:07:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
   {
    "title": "<em>The week after</em> in AI-hoofdstad San Francisco",
    "link": "https://www.nrc.nl/nieuws/2026/09/18/the-week-after-in-ai-hoofdstad-san-francisco-a4936981",
