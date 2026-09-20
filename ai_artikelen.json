@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T02:41:40",
+ "generated": "2026-09-20T16:28:29",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 154,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 103,
+   "count": 99,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "IMF ziet groeikansen door AI, maar waarschuwt voor grotere economische spanningen",
+   "link": "https://businessam.be/imf-ziet-groeikansen-door-ai-maar-waarschuwt-voor-grotere-economische-spanningen/",
+   "description": "Key takeaways Een recent rapport van het Internationaal Monetair Fonds (IMF) suggereert dat artificiële intelligentie (AI) weliswaar het potentieel heeft om de Europese productiviteit binnen vijf jaar met ongeveer 1 procent te verhogen, maar ook aanzienlijke economische uitdagingen met zich meebrengt. Het document, opgesteld voor een bijeenkomst van EU-ministers van Financiën in Dublin, waarschuwt dat […]",
+   "date": "2026-09-20T16:07:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trumps plan voor ‘AI force’ zet veiligheidstop met China onder druk",
+   "link": "https://www.nrc.nl/nieuws/2026/09/20/trumps-plan-voor-ai-force-zet-veiligheidstop-met-china-onder-druk-a4937106",
+   "description": "Donald Trump kondigt verdere versnelling aan van Amerikaanse AI-ontwikkeling. De stap leidt tot grote zorgen in China, precies op het moment dat de twee landen een top voorbereiden over AI-veiligheid.",
+   "date": "2026-09-20T12:00:03",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump wil AI-taskforce oprichten",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/trump-wil-ai-taskforce-oprichten/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse president Donald Trump is van plan om een taskforce op te richten die zich volledig richt op kunstmatige intelligentie. Dit meldde Trump zaterdag op Truth Social.\"Ik richt de AI Force op, net zoals ik tijdens mijn eerste ambtstermijn de Space Force heb opgericht, wat een enorm SUCCES is gebleken\", aldus Trump.De …\nThe post Trump wil AI-taskforce oprichten appeared first on Trends.be.",
+   "date": "2026-09-20T11:04:56",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Man (74) wordt vervolgd voor maken deepfakeporno van BN'ers",
+   "link": "https://www.nu.nl/misdaad/6410354/man-74-wordt-vervolgd-voor-maken-deepfakeporno-van-bners.html",
+   "description": "Het Openbaar Ministerie (OM) gaat een 74-jarige man uit Noord-Holland vervolgen voor het maken van deepfakepornovideo's van bekende Nederlanders. Dat heeft justitie na ruim een jaar onderzoek besloten, bevestigt een woordvoerder na berichtgeving van het AD.",
+   "date": "2026-09-20T10:19:11",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI maakt in Amerika aparte versie van ChatGPT voor advocaten",
+   "link": "https://tweakers.net/nieuws/252372/openai-maakt-in-amerika-aparte-versie-van-chatgpt-voor-advocaten.html",
+   "description": "OpenAI heeft in de Verenigde Staten een versie van ChatGPT 6 Astra uitgebracht die specifiek bedoeld is voor advocatenkantoren. Het model heeft onder andere een eigen zoekindex die kijkt naar jurisprudentie, gerechtelijke uitspraken en wetten. Vooralsnog komt de tool alleen beschikbaar voor een beperkt aantal juridische instellingen en alleen in de VS.",
+   "date": "2026-09-20T09:26:28",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Vier doden bij Amerikaanse aanval op vermoedelijke drugsboot in Caraïben • Trump haalt uit naar AI-critici en kondigt ‘AI Force’ aan in Amerikaanse leger",
+   "link": "https://www.demorgen.be/snelnieuws/live-vier-doden-bij-amerikaanse-aanval-op-vermoedelijke-drugsboot-in-caraiben-trump-haalt-uit-naar-ai-critici-en-kondigt-ai-force-aan-in-amerikaanse-leger~b13cc951/",
+   "description": "",
+   "date": "2026-09-20T05:23:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Auteur Heleen Debruyne gaat op zoek naar Jos Vermeeren, groothandelaar in (AI-)recensies",
+   "link": "https://www.knack.be/nieuws/cultuur/boeken/auteur-heleen-debruyne-gaat-op-zoek-naar-jos-vermeeren-groothandelaar-in-ai-recensies/",
+   "description": "Eind augustus berichtte Knack over de website Librar.be, die massaal door AI geschreven boekrecensies publiceert. Onder meer auteur Anne Provoost had zich daardoor laten misleiden. Klara-presentator en auteur Heleen Debruyne zag al in 2025 een recensie van haar roman Aline verschijnen op Dissonant.be, de voorloper van Librar.be. Omdat ze vermoedde dat het om een door AI gegenereerde bespreking ging, probeerde ze de ware identiteit en intenties van de recensent te achterhalen. \nThe post Auteur Heleen Debruyne gaat op zoek naar Jos Vermeeren, groothandelaar in (AI-)recensies appeared first on Knack.",
+   "date": "2026-09-20T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Trump haalt uit naar AI-critici en kondigt “AI Force” aan in Amerikaanse leger",
    "link": "https://www.standaard.be/buitenland/trump-haalt-uit-naar-ai-critici-en-kondigt-ai-force-aan-in-amerikaanse-leger/35131945.html",
@@ -628,6 +705,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Econoom Daniel Susskind : ‘Wie gelooft dat we de opmars van AI nog kunnen afremmen, vergist zich. Wie vindt dat we hem móéten afremmen, dwaalt’",
+   "link": "https://www.demorgen.be/tech-ai/econoom-daniel-susskind-wie-gelooft-dat-we-de-opmars-van-ai-nog-kunnen-afremmen-vergist-zich-wie-vindt-dat-we-hem-moeten-afremmen-dwaalt~bec40a1f/",
+   "description": "",
+   "date": "2026-09-19T03:00:00",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Na incidenten bij Meta, Anthropic en OpenAI dringt nu ook Google-model Gemini tijdens veiligheidstest binnen bij drie bedrijven",
    "link": "https://www.gva.be/buitenland/na-incidenten-bij-meta-anthropic-en-openai-dringt-nu-ook-google-model-gemini-tijdens-veiligheidstest-binnen-bij-drie-bedrijven/161682161.html",
    "description": "Googles AI-model Gemini heeft tijdens een test van zijn cybervaardigheden via het internet toegang gekregen tot systemen van drie andere bedrijven. Het is het eerste bekende geval waarbij AI van Google zelfstandig zulke ongeoorloofde handelingen uitvoerde.",
@@ -761,6 +849,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Het gebrek aan heisa over de AI-teksten van de premier stemt me somber",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/de-mens-als-manager-van-zijn-woordkeuze-in-plaats-van-als-schepper-a4937055",
+   "description": "Als Rob Jetten er geen kwaad in ziet om empathisch en inspirerend bedoelde teksten door bots te laten schrijven, hebben we onszelf als mensen dan al opgegeven?",
+   "date": "2026-09-18T16:43:33",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "<em>The week after</em> in AI-hoofdstad San Francisco",
    "link": "https://www.nrc.nl/nieuws/2026/09/18/the-week-after-in-ai-hoofdstad-san-francisco-a4936981",
    "description": "In de buurten van San Francisco waar AI-bedrijven zijn gevestigd, was deze week de spanning voelbaar. De wereldwijde discussie over mogelijk rampzalige risico’s van AI zorgt voor onrust. „We roepen het personeel op om ontslag te nemen.”",
@@ -791,6 +890,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-09-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jetten heeft een voorbeeldfunctie, óók wat AI betreft",
+   "link": "https://www.nrc.nl/nieuws/2026/09/18/jetten-heeft-een-voorbeeldfunctie-ook-wat-ai-betreft-a4936579",
+   "description": "U schreef ons over AI bij politici, Trumps politieke agenda, Connie Palmen en de werking van stadsbomen.",
+   "date": "2026-09-18T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-20",
    "intro_geprobeerd": false
   },
   {
