@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T16:09:45",
+ "generated": "2026-09-20T02:41:40",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 155,
    "error": null
   },
   {
@@ -315,6 +315,73 @@
   }
  ],
  "articles": [
+  {
+   "title": "Trump haalt uit naar AI-critici en kondigt “AI Force” aan in Amerikaanse leger",
+   "link": "https://www.standaard.be/buitenland/trump-haalt-uit-naar-ai-critici-en-kondigt-ai-force-aan-in-amerikaanse-leger/35131945.html",
+   "description": "In zijn tweede ambtstermijn is Donald Trump alomtegenwoordig. Volg in deze liveblog alle updates over de Amerikaanse president en zijn beleid.",
+   "date": "2026-09-19T21:14:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump kondigt AI-eenheid in leger aan en wil 'AI-tsaar': \"We staan voor op de rest, en dat wil ik zo houden\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/trump-kondigt-aieenheid-in-leger-aan-en-wil-aitsaar-we-sta~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-19T21:05:20",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Trump haalt uit naar AI-critici en kondigt ‘AI Force’ aan in Amerikaanse leger • CNN en Politico toegang tot Witte Huis ontzegd",
+   "link": "https://www.demorgen.be/snelnieuws/live-trump-haalt-uit-naar-ai-critici-en-kondigt-ai-force-aan-in-amerikaanse-leger-journalisten-van-cnn-en-politico-toegang-tot-het-witte-huis-ontzegd-enkele-perskaarten-in-beslag-genomen~b13cc951/",
+   "description": "",
+   "date": "2026-09-19T20:57:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Trump kondigt oprichting AI Force en komst 'AI-tsaar' aan",
+   "link": "https://www.trouw.nl/buitenland/live-vs-trump-kondigt-oprichting-ai-force-en-komst-ai-tsaar-aan~bbc0cf3d/",
+   "description": "",
+   "date": "2026-09-19T20:32:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Alwéér incidenten met AI-modellen: komen de bots in opstand? “We krijgen de geest niet terug in de fles”",
+   "link": "https://www.hln.be/tech/alweer-incidenten-met-ai-modellen-komen-de-bots-in-opstand-we-krijgen-de-geest-niet-terug-in-de-fles~a144133c/",
+   "description": "Alweer duiken er berichten op over zorgwekkende voorvallen met AI. Wat is er aan de hand? Waarom gebeurt het zo vaak en hoeveel zorgen moeten we ons maken? AI-expert Tibo Vanleke geeft uitleg en raadt ons aan om zeker vragen te blijven stellen aan ChatGPT. “De kans dat AI de mensheid vernietigt, is groter dan 5 procent.”",
+   "date": "2026-09-19T20:30:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman Nvidia gelooft niet in doemscenario’s AI: “Nul procent kans dat wereld vergaat in 2030”",
+   "link": "https://www.hln.be/nieuws/topman-nvidia-gelooft-niet-in-doemscenarios-ai-nul-procent-kans-dat-wereld-vergaat-in-2030~ad466e30/",
+   "description": "Jensen Huang, de topman van chipfabrikant Nvidia, heeft opnieuw duidelijk gemaakt dat hij niet gelooft in doemscenario’s rond artificiële intelligentie. “Er is nul procent kans dat de wereld vergaat in 2030”, zei hij in een interview met de Amerikaanse zender CBS.",
+   "date": "2026-09-19T18:06:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
   {
    "title": "'VS wilden Chinees schip onderscheppen na fout AI-rapport'",
    "link": "https://www.tijd.be/r/t/1/id/10686743",
@@ -543,7 +610,8 @@
    "description": "",
    "date": "2026-09-19T03:00:29",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-09-19",
    "intro_geprobeerd": true
