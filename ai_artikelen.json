@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T02:51:46",
+ "generated": "2026-09-21T18:46:56",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 44,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 165,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,325 @@
   }
  ],
  "articles": [
+  {
+   "title": "DeepSeek: trainen van AI-modellen op Chinese chips 'moet gaan werken'",
+   "link": "https://tweakers.net/nieuws/252424/deepseek-trainen-van-ai-modellen-op-chinese-chips-moet-gaan-werken.html",
+   "description": "DeepSeek krijgt van Huawei vanaf het einde van het jaar meer chips om zijn AI-modellen te trainen. Het Chinese AI-bedrijf leunt tot nu toe veel op chips van Nvidia, maar het trainen van AI-modellen op Chinese hardware 'moet gaan werken', zo zegt de ceo.",
+   "date": "2026-09-21T18:35:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Melexis en Lotus Bakeries geven Bel20 impuls",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/melexis-en-lotus-bakeries-geven-bel20-impuls/",
+   "description": "(ABM FN) De Brusselse beurs is maandag hoger geëindigd, terwijl de olieprijzen en rentes daalden en halfgeleideraandelen in heel Europa in de lift zaten.De Bel20 sloot 0,9 procent hoger aan 5.763,48 punten, met steun van Lotus Bakeries en Melexis, terwijl er weinig dalers waren in de sterindex.De algemene teneur werd ondersteund door de voorbereidende handelsgesprekken tussen …\nThe post Melexis en Lotus Bakeries geven Bel20 impuls appeared first on Trends.be.",
+   "date": "2026-09-21T18:02:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lubach slaat alarm over AI, maar Nina Jurna’s liefdesverklaring aan Rio kalmeert de zenuwen weer",
+   "link": "https://www.trouw.nl/columnisten/lubach-slaat-alarm-over-ai-maar-nina-jurna-s-liefdesverklaring-aan-rio-kalmeert-de-zenuwen-weer~b6993074/",
+   "description": "",
+   "date": "2026-09-21T17:59:09",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Gerucht: Apple brengt 'HomePad' volgende maand uit",
+   "link": "https://tweakers.net/nieuws/252422/gerucht-apple-brengt-homepad-volgende-maand-uit.html",
+   "description": "Apple zou zijn 'HomePad', een scherm om smarthomeapparaten te bedienen, volgende maand willen uitbrengen. Dat meldt financieel persbureau Bloomberg. Het apparaat was al klaar, maar moest wachten op de AI-upgrade van digitale assistent Siri.",
+   "date": "2026-09-21T17:52:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gentse onderzoekers helpen woonzorgcentra om AI-toepassingen beter in te zetten in dementiezorg",
+   "link": "https://vrtnws.be/p.ewPMOBGpP",
+   "description": "Onderzoekers van de Arteveldehogeschool in Gent gaan woonzorgcentra nog meer helpen om artificiële intelligentie beter te kunnen inzetten in de zorg voor mensen met dementie. Het onderzoeksteam merkte dat er wel veel AI-toepassingen bestaan, maar dat die nog niet voldoende gebruikt worden op de werkvloer. Verschillende woonzorgcentra in Vlaanderen doen intussen al een beroep op hun kennis.",
+   "date": "2026-09-21T17:41:57",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opnieuw minder eerstejaars aan opleiding Informatica UAntwerpen: \"Jongeren lijken te denken dat AI alles zelf zal doen\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/21/studenten-start-academiejaar-universiteit-antwerpen-ai/",
+   "description": "Aan de Universiteit Antwerpen daalt voor het 2e jaar op rij het aantal eerstejaarsstudenten dat kiest voor de opleiding Informatica, ondanks de sterke groei van artificiële intelligentie.",
+   "date": "2026-09-21T17:10:36",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Opnieuw minder eerstejaars aan opleiding Informatica UAntwerpen: \"Jongeren lijken te denken dat AI alles zelf zal doen\"",
+   "link": "https://vrtnws.be/p.7n5ZJKpvb",
+   "description": "Aan de Universiteit Antwerpen daalt voor het 2e jaar op rij het aantal eerstejaarsstudenten dat kiest voor de opleiding Informatica, ondanks de sterke groei van artificiële intelligentie. \"Jongeren lijken te denken dat AI alles vanzelf gaat doen en dat ze dus niet meer moeten kunnen programmeren\", zegt Peter De Meyer, woordvoerder van de UAntwerpen.",
+   "date": "2026-09-21T17:10:36",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese Commissie wil energie- en waterlabels voor datacenters invoeren",
+   "link": "https://tweakers.net/nieuws/252412/europese-commissie-wil-energie-en-waterlabels-voor-datacenters-invoeren.html",
+   "description": "De Europese Commissie presenteert een voorstel om datacenters te beoordelen op hun energie- en watergebruik. Dit moet efficiëntie en duurzaamheid bevorderen, terwijl de Europese Unie haar datacentercapaciteit wil verdrievoudigen in de komende vijf tot zeven jaar.",
+   "date": "2026-09-21T16:43:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU-lidstaten willen gegevens van Europeanen beschikbaar maken voor AI-bedrijven",
+   "link": "https://www.security.nl/posting/953984/EU-lidstaten+willen+gegevens+van+Europeanen+beschikbaar+maken+voor+AI-bedrijven?channel=rss",
+   "description": "Het Ierse voorzitterschap stelt aan de EU-lidstaten voor dat AI-bedrijven de data van Europese gebruikers mag gaan gebruiken, ...",
+   "date": "2026-09-21T16:37:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schrijvers weten nog altijd niet of hun boek gebruikt wordt voor AI-training, ondanks AI Act: “ChatGPT kan heel Harry Potter opzeggen, dus het moet erop getraind zijn”",
+   "link": "https://www.standaard.be/media-en-cultuur/schrijvers-weten-nog-altijd-niet-of-hun-boek-gebruikt-wordt-voor-ai-training-ondanks-ai-act-chatgpt-kan-heel-harry-potter-opzeggen-dus-het-moet-erop-getraind-zijn/161321223.html",
+   "description": "Europa verplicht AI-bedrijven sinds vorige maand om bekend te maken op welk materiaal hun modellen zijn getraind, maar dat blijft dode letter. “Het is alsof je de maffiabazen vraagt hoe ze gereguleerd willen worden.”",
+   "date": "2026-09-21T16:00:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie geruststelling nodig heeft over AI, kan de winkel in San Francisco bezoeken waar AI-model Luna de scepter zwaait",
+   "link": "https://www.nrc.nl/nieuws/2026/09/21/wie-geruststelling-nodig-heeft-over-ai-kan-de-winkel-in-san-francisco-bezoeken-waar-ai-model-luna-de-scepter-zwaait-a4936203",
+   "description": "Bang dat AI de wereld overneemt? In de eerste door een AI-model gerunde winkel in San Francisco is de managementstijl vooral relaxed. Misschien iets te. „Met de financiën gaat het niet zo goed.”",
+   "date": "2026-09-21T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Inlichtingendiensten hebben nog te weinig grip op het gebruik van AI",
+   "link": "https://www.nu.nl/tech/6410467/inlichtingendiensten-hebben-nog-te-weinig-grip-op-het-gebruik-van-ai.html",
+   "description": "De inlichtingendiensten AIVD en MIVD zetten steeds vaker kunstmatige intelligentie (AI) in bij hun werk. Alleen ontbreekt de garantie nog dat dat veilig en verantwoord gebeurt.",
+   "date": "2026-09-21T14:02:07",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook AIVD en MIVD gebruiken AI, maar de handleiding voor wat wel/niet mag ontbreekt. ‘Ze zijn daarbij niet goed in control’, zegt de toezichthouder",
+   "link": "https://www.nrc.nl/nieuws/2026/09/21/inlichtingendiensten-gebruiken-steeds-vaker-ai-maar-de-handleiding-voor-wat-wel-en-niet-mag-ontbreekt-a4936830",
+   "description": "De toezichthouder signaleert in een rapport dat regelgeving voor gebruik van AI binnen AIVD en MIVD achter de feiten aan loopt. Terwijl de beoogde nieuwe inlichtingenwet de bevoegdheden aanzienlijk verruimt, zijn medewerkers zich volgens de commissie onvoldoende bewust van de kwetsbaarheden.",
+   "date": "2026-09-21T14:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: nauwelijks verliezers in Brussel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-nauwelijks-verliezers-in-brussel/",
+   "description": "(ABM FN) De Brusselse beurs noteerde maandagmiddag hoger, met steun van Lotus Bakeries en Melexis, terwijl er nauwelijks dalers waren in de sterindex.Rond de klok van twee uur noteerde de Bel20 een procent hoger aan 5.767,83 punten, terwijl de olieprijzen en rentes daalden en halfgeleideraandelen in heel Europa in de lift zaten.Zo ook in Brussel, waar …\nThe post Beursupdate: nauwelijks verliezers in Brussel appeared first on Trends.be.",
+   "date": "2026-09-21T13:57:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-CEO is het niet eens met “doemdenkers”: \"Nul procent kans dat AI de wereld vernietigt tegen 2030\"",
+   "link": "https://www.gva.be/economie/technologie/nvidia-ceo-is-het-niet-eens-met-doemdenkers-nul-procent-kans-dat-ai-de-wereld-vernietigt-tegen-2030/161754399.html",
+   "description": "Volgens de topman van chipfabrikant Nvidia gaat de ontwikkeling van artificiële intelligentie helemaal niet te snel, en zijn alle beweringen van het tegendeel “doemberichten van doemdenkers”.",
+   "date": "2026-09-21T13:53:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude Code krijgt ondersteuning voor instructiebestand Agents.md",
+   "link": "https://tweakers.net/nieuws/252400/claude-code-krijgt-ondersteuning-voor-instructiebestand-agents-punt-md.html",
+   "description": "Claude Code ondersteunt vanaf versie 2.1.277 Agents.md van OpenAI. Daarin staan instructies voor bijvoorbeeld verwacht gedrag en voorkeurstools. De ondersteuning voor Agents.md maakt het voor ontwikkelaars gemakkelijker om met AI-programmeeragents van verschillende platformen te werken.",
+   "date": "2026-09-21T13:30:47",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-leaker: 'GeForce RTX 60-serie komt pas in 2028'",
+   "link": "https://tweakers.net/nieuws/252398/nvidia-leaker-geforce-rtx-60-serie-komt-pas-in-2028.html",
+   "description": "De GR20x-chipfamilie verschijnt pas in 2028. Dat stelt de doorgaans goed ingevoerde Nvidia-leaker Kopite7kimi. De chipfamilie zou de basis vormen voor de Rubin-architectuur en de komende GeForce RTX 60-serie.",
+   "date": "2026-09-21T12:36:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chippers geven Europese beurzen impuls",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/chippers-geven-europese-beurzen-impuls/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa noteerden maandag duidelijk in het groen, gesteund door de hogere koersen van vooral halfgeleideraandelen. Ook de dalende rentes en olieprijzen zorgden voor een positieve weekstart.Rond het middaguur noteerde de Stoxx Europe 600 index 1,0 procent hoger op 641,59 punten en won de Duitse DAX ook 1,0 procent op 25.566,55 …\nThe post Chippers geven Europese beurzen impuls appeared first on Trends.be.",
+   "date": "2026-09-21T12:15:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google Gemini hackt drie bedrijven tijdens beveiligingstest",
+   "link": "https://www.security.nl/posting/953890/Google+Gemini+hackt+drie+bedrijven+tijdens+beveiligingstest?channel=rss",
+   "description": "Een van Google’s Gemini AI modellen heeft tijdens een security test drie bedrijven gehackt, zo heeft het techbedrijf ...",
+   "date": "2026-09-21T11:13:57",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Lotus en Melexis in trek in Brussel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-lotus-en-melexis-in-trek-in-brussel/",
+   "description": "(ABM FN) De Brusselse beurs noteerde maandag tegen het einde van de ochtend hoger, terwijl AI-gerelateerde aandelen wereldwijd weer opveerden. De Bel20 index steeg met 0,6 procent naar 5.745 punten.Beleggers putten vanochtend onder meer hoop uit positieve signalen rond de handelsbesprekingen tussen de Verenigde Staten en China, voorafgaand aan de ontmoeting tussen president Donald Trump en zijn …\nThe post Beursupdate: Lotus en Melexis in trek in Brussel appeared first on Trends.be.",
+   "date": "2026-09-21T11:10:59",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI maakte nooit Europese melding van AI-hack",
+   "link": "https://www.emerce.nl/nieuws/openai-maakte-nooit-europese-melding-aihack",
+   "description": "Ondanks de verplichting daartoe maakte OpenAI nooit melding van de zwerm AI-bots die inbraken bij Hugging Face.",
+   "date": "2026-09-21T10:58:44",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Gemini-model van Google blijkt paar keer ontsnapt",
+   "link": "https://trends.knack.be/ai-en-tech/cybersecurity/ook-gemini-model-van-google-blijkt-paar-keer-ontsnapt/",
+   "description": "Gemini, het AI-model van Google, is uit zijn testomgeving ontsnapt en heeft bedrijven aangevallen. Het leek lang alsof Google een van de weinige bedrijven was wiens AI-modellen netjes aan de leiband liepen, maar nu blijkt Google gewoon traag te communiceren. \nThe post Ook Gemini-model van Google blijkt paar keer ontsnapt appeared first on Trends.be.",
+   "date": "2026-09-21T10:35:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic overweegt nieuw AI-model te lanceren in aanloop naar beursgang",
+   "link": "https://businessam.be/anthropic-overweegt-nieuw-ai-model-te-lanceren-in-aanloop-naar-beursgang/",
+   "description": "Key takeaways Uit rapporten van Reuters blijkt dat Anthropic de lancering van een nieuw AI-model overweegt om weer aan momentum te winnen na de introductie van GPT-6 Astra door OpenAI. Deze mogelijke lancering komt op een tegenstrijdig moment. De CEO van het bedrijf, Dario Amodei, pleitte namelijk onlangs nog voor een wereldwijde vertraging van de […]",
+   "date": "2026-09-21T10:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Emerce organiseert event over AI Coding",
+   "link": "https://www.emerce.nl/nieuws/emerce-organiseert-event-ai-coding",
+   "description": "Een applicatie bouwen kostte in het verleden maanden. Nu staat de eerste versie binnen een paar uur. AI schrijft code, koppelt systemen en zet ideeën om in software, ook voor professionals zonder programmeerervaring. Daarmee veranderen ook de mogelijkheden en vragen voor organisaties.",
+   "date": "2026-09-21T08:46:25",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Anthropic overweegt om nieuw model uit te brengen ondanks oproep tot AI-rem'",
+   "link": "https://tweakers.net/nieuws/252386/anthropic-overweegt-om-nieuw-model-uit-te-brengen-ondanks-oproep-tot-ai-rem.html",
+   "description": "Claude-maker Anthropic overweegt om nog vóór zijn verwachte beursgang een nieuw AI-model uit te brengen en zo te concurreren met GPT-6 Astra van OpenAI. Dat stellen ingewijden tegenover Reuters. De timing is opmerkelijk, aangezien Anthropic-ceo Dario Amodei onlangs nog opriep om de ontwikkeling van AI te vertragen.",
+   "date": "2026-09-21T08:38:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-drones nemen sleutelrol in onderzeese wapenwedloop",
+   "link": "https://businessam.be/ai-drones-nemen-sleutelrol-in-onderzeese-wapenwedloop/",
+   "description": "Key takeaways Er vindt een moderne wapenwedloop plaats op de zeebodem nu landen zich realiseren dat het volgende strijdtoneel zich niet langer beperkt tot de lucht en het land, maar zich uitstrekt tot in de diepe oceaan. Er is een groeiend besef dat de kritieke infrastructuur die de wereldeconomie ondersteunt, waaronder energiepijpleidingen en datakabels, zeer […]",
+   "date": "2026-09-21T08:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[column] Een klantreis heeft meer tunnels dan we denken",
+   "link": "https://www.emerce.nl/opinie/column-klantreis-heeft-meer-tunnels-denken",
+   "description": "Marketeers beschikken over meer klantdata en AI-tools dan ooit, maar dreigen daardoor de mens achter de data uit het oog te verliezen. Aan de hand van een treffende analogie over treintunnels langs de Italiaanse Rivièra betoogt Noor Cloo (DDMA) dat consumenten zich niet laten opsluiten in dashboards en marketingfunnels. Zij pleit voor de inzet van AI en etnografisch onderzoek om de echte leefwereld en context van de klant beter te begrijpen, in plaats van alleen hun klikgedrag te voorspellen.",
+   "date": "2026-09-21T08:00:16",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Société Générale wil met hulp van AI meer kapitaal laten terugvloeien",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/societe-generale-wil-met-hulp-van-ai-meer-kapitaal-laten-terugvloeien/",
+   "description": "(ABM FN-Dow Jones) Société Générale wil de kosten verder verlagen en groeien met hulp van AI, zodat in 2030 tot 21 miljard euro kan worden uitgekeerd aan aandeelhouders. Dat bleek maandag uit de nieuwe doelstellingen van de Franse bank.  \"Onze ambitie is duidelijk: onze winstgevende groei versnellen en een strikte risico- en kostendiscipline handhaven”, zei CEO …\nThe post Société Générale wil met hulp van AI meer kapitaal laten terugvloeien appeared first on Trends.be.",
+   "date": "2026-09-21T07:55:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Angst voor banenverlies door AI weegt zwaarder dan optimisme in nieuw wereldwijd onderzoek",
+   "link": "https://businessam.be/angst-voor-banenverlies-door-ai-weegt-zwaarder-dan-optimisme-in-nieuw-wereldwijd-onderzoek/",
+   "description": "Key takeaways Uit recent onderzoek van Pew Research blijkt dat de wereldwijde bezorgdheid over de gevolgen van artificiële intelligentie voor de werkgelegenheid inmiddels groter is dan het optimisme over nieuwe carrièremogelijkheden. Uit gegevens van een uitgebreide enquête onder meer dan 50.000 personen in 37 landen blijkt dat veel mensen onzeker zijn of denken dat AI […]",
+   "date": "2026-09-21T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Aan vooravond van historische ontmoeting met Xi, wil Trump de AI-wedloop met China nog versnellen",
    "link": "https://www.standaard.be/buitenland/aan-vooravond-van-historische-ontmoeting-met-xi-wil-trump-de-ai-wedloop-met-china-nog-versnellen/161714101.html",
