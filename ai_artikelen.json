@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T16:28:29",
+ "generated": "2026-09-21T02:51:46",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 154,
+   "count": 162,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 20,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 99,
+   "count": 98,
    "error": null
   },
   {
@@ -316,6 +316,94 @@
  ],
  "articles": [
   {
+   "title": "Aan vooravond van historische ontmoeting met Xi, wil Trump de AI-wedloop met China nog versnellen",
+   "link": "https://www.standaard.be/buitenland/aan-vooravond-van-historische-ontmoeting-met-xi-wil-trump-de-ai-wedloop-met-china-nog-versnellen/161714101.html",
+   "description": "Het bezoek van Xi Jinping aan Washington deze week is de eerste en misschien ook laatste kans om de groei van AI in veilige banen te leiden. Trumps plannen om een AI Force op te richten, doen vermoeden dat ‘samen vertragen’ niet aan de orde is.",
+   "date": "2026-09-20T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Samen baas: met unieke managementstructuur wil IT-bedrijf Delaware 150 jaar worden",
+   "link": "https://www.standaard.be/economie/samen-baas-met-unieke-managementstructuur-wil-it-bedrijf-delaware-150-jaar-worden/161711941.html",
+   "description": "Collectief leiderschap maakte van de Vlaamse IT-dienstverlener Delaware een wereldspeler. Kan die structuur de AI-storm doorstaan? “Het rendement staat even onder druk, maar het groeipotentieel is enorm.”",
+   "date": "2026-09-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laat de controle over AI niet aan Trump en zijn techbro’s",
+   "link": "https://www.standaard.be/opinies/laat-de-controle-over-ai-niet-aan-trump-en-zijn-techbros/161710519.html",
+   "description": "Zolang een clubje fabelachtig rijke mensen obsceen veel macht heeft, wordt de democratie uitgehold, schrijft Chams Eddine Zaougui. Niets is essentiëler voor een samenleving – en bedreigender voor tech-oligarchen – dan een sterke, verantwoordelijke overheid.",
+   "date": "2026-09-20T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gemini AI-model van Google drong tijdens veiligheidstest binnen bij drie bedrijven",
+   "link": "https://businessam.be/gemini-ai-model-van-google-drong-tijdens-veiligheidstest-binnen-bij-drie-bedrijven/",
+   "description": "Key takeaways Google heeft erkend dat zijn Gemini AI-systeem in mei de beveiliging van drie verschillende organisaties heeft doorbroken. Deze incidenten vonden plaats tijdens een reeks cyberbeveiligingsbeoordelingen uitgevoerd door Irregular, een Israëlische start-up die gespecialiseerd is in AI-veiligheid. Deze aankondiging volgt op soortgelijke beveiligingsfouten met modellen van Anthropic en OpenAI. De verschillende cyberinbraken roepen zorgen […]",
+   "date": "2026-09-20T22:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI verwacht een tekort van 280 miljard dollar tegen 2030 door uitbreiding van AI",
+   "link": "https://businessam.be/openai-verwacht-een-tekort-van-280-miljard-dollar-tegen-2030-door-uitbreiding-van-ai/",
+   "description": "Key takeaways OpenAI verwacht een enorm financieel tekort, met verwachte verliezen die tegen 2030 bijna 280 miljard dollar (243,7 miljard euro) bedragen. Deze sterk negatieve kasstromen zijn het gevolg van het agressieve streven van de organisatie naar uitbreiding van de computerinfrastructuur en de noodzaak om de prijzen te verlagen om concurrerend te blijven ten opzichte […]",
+   "date": "2026-09-20T21:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI kan militaire doelwitten sneller identificeren dan mensen ze kunnen verifiëren, waarschuwen critici",
+   "link": "https://businessam.be/ai-kan-militaire-doelwitten-sneller-identificeren-dan-mensen-ze-kunnen-verifieren-waarschuwen-critici/",
+   "description": "Key takeaways Deskundigen hebben het Amerikaanse Congres gewaarschuwd dat de integratie van artificiële intelligentie (AI) in militaire doelwitbepaling de besluitvormingscycli zodanig versnelt dat menselijke operators deze niet meer adequaat kunnen controleren. Tijdens een zitting van de Tom Lantos Human Rights Commission stelden sprekers dat louter menselijke goedkeuring geen garantie biedt voor daadwerkelijke controle, aangezien de […]",
+   "date": "2026-09-20T19:55:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "PFAS voor datacentra en AI: ook Belgisch chemiebedrijf Syensqo schroeft productie van 'forever chemicals' op",
+   "link": "https://vrtnws.be/p.VLybmmWXB",
+   "description": "Het Belgische chemiebedrijf Syensqo, een dochterbedrijf van Solvay, verhoogt de productie van de stoffen PVDF en PFPE. Dat zijn zogenoemde forever chemicals of PFAS, chemische stoffen die niet afgebroken worden in het milieu en daar opstapelen. Ze worden onder andere gebruikt om datacentra te koelen, in halfgeleiders en in batterijen. Wereldwijd schroeven grote PFAS-producenten hun productie op, in de hoop een graantje mee te pikken van de AI-boom.",
+   "date": "2026-09-20T17:56:36",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI zou de groei van het Amerikaanse bbp kunnen verdubbelen, volgens Elon Musk",
+   "link": "https://businessam.be/ai-zou-de-groei-van-het-amerikaanse-bbp-kunnen-verdubbelen-volgens-elon-musk/",
+   "description": "Key takeaways Elon Musk, de oprichter van de Amerikaanse bedrijven SpaceX en Tesla, voorspelt dat artificiële intelligentie (AI) de Amerikaanse economie aanzienlijk zou kunnen versnellen. De jaarlijkse bbp-groei zou daardoor volgend jaar mogelijk stijgen van ongeveer 2 procent naar 4 procent of hoger. Investeringsmodellen Deze optimistische prognose valt echter samen met een periode van toegenomen […]",
+   "date": "2026-09-20T17:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "IMF ziet groeikansen door AI, maar waarschuwt voor grotere economische spanningen",
    "link": "https://businessam.be/imf-ziet-groeikansen-door-ai-maar-waarschuwt-voor-grotere-economische-spanningen/",
    "description": "Key takeaways Een recent rapport van het Internationaal Monetair Fonds (IMF) suggereert dat artificiële intelligentie (AI) weliswaar het potentieel heeft om de Europese productiviteit binnen vijf jaar met ongeveer 1 procent te verhogen, maar ook aanzienlijke economische uitdagingen met zich meebrengt. Het document, opgesteld voor een bijeenkomst van EU-ministers van Financiën in Dublin, waarschuwt dat […]",
@@ -324,6 +412,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-09-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opeens zijn de AI-camera’s van Flock verkiezingsthema in de VS. ‘Het voelde alsof we in een surveillancestaat terechtkwamen’",
+   "link": "https://www.nrc.nl/nieuws/2026/09/20/opeens-zijn-de-ai-cameras-van-flock-verkiezingsthema-in-de-vs-het-voelde-alsof-we-in-een-surveillancestaat-terechtkwamen-a4936626",
+   "description": "Gemeentes en woonverenigingen in de VS installeerden massaal AI-camera’s die auto’s registreren. Deze zomer daalde bij Amerikanen het besef in dat ze daarmee een surveillancenetwerk hebben opgetuigd. „Ik wilde er bijna een zak overheen gaan doen.”",
+   "date": "2026-09-20T14:20:48",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-21",
    "intro_geprobeerd": false
   },
   {
@@ -792,6 +891,17 @@
    ],
    "first_seen": "2026-09-19",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Welke rol kunnen de VN spelen als het gaat om AI-regelgeving?",
+   "link": "https://www.trouw.nl/buitenland/welke-rol-kunnen-de-vn-spelen-als-het-gaat-om-ai-regelgeving~b9008c32/",
+   "description": "",
+   "date": "2026-09-18T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-21",
+   "intro_geprobeerd": true
   },
   {
    "title": "Anthropic waarschuwt voor AI die steeds meer aan zijn eigen opvolger kan bouwen",
