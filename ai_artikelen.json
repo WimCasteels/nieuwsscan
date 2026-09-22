@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T18:46:56",
+ "generated": "2026-09-22T03:27:11",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 163,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 20,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,105 @@
   }
  ],
  "articles": [
+  {
+   "title": "Tientallen landen roepen op tot internationaal toezicht op AI",
+   "link": "https://www.gva.be/economie/tientallen-landen-roepen-op-tot-internationaal-toezicht-op-ai/161827141.html",
+   "description": "De staatshoofden of regeringsleden van zowat twintig landen hebben maandag in de marge van de Algemene Vergadering van de Verenigde Naties opgeroepen om internationale veiligheidsmaatregelen te nemen tegen de ongebreidelde ontwikkeling van artificiële intelligentie (AI). Ze waarschuwen voor “ernstige risico's” als de technologie aan menselijke controle ontsnapt.",
+   "date": "2026-09-22T01:30:49",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-aandelen stuwen Wall Street, Nasdaq stijgt naar nieuw record",
+   "link": "https://www.gva.be/economie/beurs/ai-aandelen-stuwen-wall-street-nasdaq-stijgt-naar-nieuw-record/161822375.html",
+   "description": "Wall Street is de eerste handelsdag van de week met overtuigende winsten gesloten, waarbij de Nasdaq een nieuw record bereikte. Vooral aandelen van AI-bedrijven waren gewild bij beleggers, na de koersval in de sector vorige week door sombere uitspraken van AI-topbestuurders over de gevaren van de technologie.",
+   "date": "2026-09-22T00:47:05",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tientallen landen roepen op tot internationaal toezicht op AI",
+   "link": "https://www.hln.be/tech/tientallen-landen-roepen-op-tot-internationaal-toezicht-op-ai~a4a0ff0c9/",
+   "description": "De staatshoofden of regeringsleden van zowat twintig landen hebben maandag in de marge van de Algemene Vergadering van de Verenigde Naties opgeroepen om internationale veiligheidsmaatregelen te nemen tegen de ongebreidelde ontwikkeling van artificiële intelligentie (AI). Ze waarschuwen voor “ernstige risico’s” als de technologie aan menselijke controle ontsnapt.",
+   "date": "2026-09-22T00:45:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De romantiek gekraakt: door AI wordt in geheimschrift schrijven verdomd lastig",
+   "link": "https://www.standaard.be/media-en-cultuur/de-romantiek-gekraakt-door-ai-wordt-in-geheimschrift-schrijven-verdomd-lastig/161765256.html",
+   "description": "Door koppig te blijven proberen kan AI codetaal ontcijferen die tot nu onleesbaar was. Nuttig, maar zo gaat ook een streepje romantiek verloren.",
+   "date": "2026-09-21T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta en chipspelers blinken uit op felgroen Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10686916",
+   "description": "Enthousiasme over de nieuwe AI-agent van Meta en koopadviezen stuwden het aandeel een tiende hoger. Ook chipbedrijven profiteerden mee, terwijl een dalende olieprijs en positieve geluiden over Amerikaans-Chinees overleg over AI het sentiment verder ondersteunden.",
+   "date": "2026-09-21T22:10:46",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Stellantis toont autonome Box-on-Wheels voor leveringen",
+   "link": "https://www.knack.be/nieuws/stellantis-toont-autonome-box-on-wheels-voor-leveringen/",
+   "description": "Stellantis kijkt op de IAA Transportation in Hannover vooruit naar een nieuwe vorm van stadslogistiek met de Box-on-Wheels, kortweg BOW. Het concept is een volledig autonoom elektrisch levervoertuig dat zonder bestuurder goederen tot bij de klant moet kunnen brengen. Voor de ontwikkeling werkt Stellantis Pro One samen met het Chinese UQI Robotics, gespecialiseerd in robotica, …\nThe post Stellantis toont autonome Box-on-Wheels voor leveringen appeared first on Knack.",
+   "date": "2026-09-21T21:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI brengt in de VS speciale versie van ChatGPT uit voor juristen",
+   "link": "https://www.hln.be/internet/openai-brengt-in-de-vs-speciale-versie-van-chatgpt-uit-voor-juristen~aed4bf78/",
+   "description": "OpenAI heeft in de Verenigde Staten een aangepaste versie van ChatGPT 6 Astra uitgebracht die specifiek is bedoeld voor juristen. Het AI-model is aangepast voor opzoekwerk rond jurisprudentie, gerechtelijke uitspraken en wetten. De dienst is voorlopig enkel beschikbaar in de VS.",
+   "date": "2026-09-21T20:33:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Diefstal van ongekende omvang’: topman Microsoft kritisch voor training artificiële intelligentie",
+   "link": "https://www.demorgen.be/nieuws/diefstal-van-ongekende-omvang-topman-microsoft-kritisch-voor-training-artificiele-intelligentie~bda74c40f/",
+   "description": "",
+   "date": "2026-09-21T19:58:22",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft-topman: AI trainen met nieuwsberichten is “diefstal van ongekende omvang”",
+   "link": "https://www.hln.be/internet/microsoft-topman-ai-trainen-met-nieuwsberichten-is-diefstal-van-ongekende-omvang~ada74c40f/",
+   "description": "Een hooggeplaatste manager van Microsoft heeft het trainen van kunstmatige intelligentie met nieuwsberichten “verbazingwekkende diefstal van ongekende omvang” genoemd. Dat staat in documenten in verband met een rechtszaak die ‘The New York Times’ in december 2023 tegen Microsoft en OpenAI heeft aangespannen.",
+   "date": "2026-09-21T19:45:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
   {
    "title": "DeepSeek: trainen van AI-modellen op Chinese chips 'moet gaan werken'",
    "link": "https://tweakers.net/nieuws/252424/deepseek-trainen-van-ai-modellen-op-chinese-chips-moet-gaan-werken.html",
@@ -401,6 +500,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-09-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Boek schrijven? Bewijs eerst maar dat jij de auteur bent",
+   "link": "https://www.nrc.nl/nieuws/2026/09/21/boek-schrijven-bewijs-eerst-maar-dat-jij-de-auteur-bent-a4937158",
+   "description": "U schreef ons over AI in de uitgeverswereld, Rob Jetten en gezond dineren in restaurants.",
+   "date": "2026-09-21T16:39:59",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-22",
    "intro_geprobeerd": false
   },
   {
@@ -1165,6 +1275,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-09-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Online wemelt het van de fake beleggingskansen: hoe hou ik mijn spaargeld uit de greep van criminelen?",
+   "link": "https://www.standaard.be/economie/online-wemelt-het-van-de-fake-beleggingskansen-hoe-hou-ik-mijn-spaargeld-uit-de-greep-van-criminelen/161306437.html",
+   "description": "Goedkope software en AI maken beleggingsfraudeurs steeds overtuigender. Maar er zijn manieren om betrouwbare van malafide brokers te onderscheiden.",
+   "date": "2026-09-19T01:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-22",
    "intro_geprobeerd": false
   },
   {
