@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T03:27:11",
+ "generated": "2026-09-22T17:24:52",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -58,13 +58,13 @@
   {
    "name": "De Morgen - Luister",
    "url": "https://www.demorgen.be/luister/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 162,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 87,
    "error": null
   },
   {
@@ -315,6 +315,336 @@
   }
  ],
  "articles": [
+  {
+   "title": "Factcheck: virale afbeelding van vliegtuigcrash bij Empire State Building is niet authentiek",
+   "link": "https://www.knack.be/factcheck/factcheck-virale-afbeelding-van-vliegtuigcrash-bij-empire-state-building-is-niet-authentiek/",
+   "description": "Op sociale media circuleert een afbeelding van een vliegtuig dat tegen de onderkant van het Empire State Building zou zijn gevlogen. In 1945 vond er inderdaad een soortgelijke crash plaats, maar het vliegtuig raakte de bovenkant van het gebouw en zette elf verdiepingen in lichterlaaie. De virale afbeelding is dus niet authentiek en waarschijnlijk gegenereerd met behulp van artificiële intelligentie. \nThe post Factcheck: virale afbeelding van vliegtuigcrash bij Empire State Building is niet authentiek appeared first on Knack.",
+   "date": "2026-09-22T16:01:46",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML-topman waarschuwt: 'Europa geraakt achterop'",
+   "link": "https://www.tijd.be/r/t/1/id/10687031",
+   "description": "'Europa dreigt achterop te raken als het niets van ons afneemt.' Die boodschap heeft Frank Heemskerk, een topbestuurder van de Nederlandse chipmachinebouwer ASML, gegeven.",
+   "date": "2026-09-22T15:59:36",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: is deze afbeelding van Trump die zijn assistente kust echt?",
+   "link": "https://www.knack.be/factcheck/factcheck-is-deze-afbeelding-van-trump-die-zijn-assistente-kust-echt/",
+   "description": "Op sociale media circuleren verschillende versies van een afbeelding van Donald Trump die een vrouw lijkt te kussen. Volgens de verspreiders van de beelden is de vrouw Trumps persoonlijke assistente Nathalie Harp. Een scherpe versie van de afbeelding is met AI bewerkt, maar voor de onscherpe versie is dat niet zeker. Experts denken echter dat ook die versie niet echt is, al kunnen ze dat niet bewijzen.\nThe post Factcheck: is deze afbeelding van Trump die zijn assistente kust echt? appeared first on Knack.",
+   "date": "2026-09-22T15:48:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De krabbel maakt een comeback: Hyves is terug",
+   "link": "https://www.nrc.nl/nieuws/2026/09/22/de-krabbel-maakt-een-comeback-hyves-is-terug-a4937241",
+   "description": "Een nostalgische wens van millennials wordt werkelijkheid: ze kunnen weer krabbelen op Hyves. De makers presenteren het als een alternatief voor algoritmegedreven sociale media. „De kritiek op Big Tech stapelde zich op, dus dachten we: dit is het moment.”",
+   "date": "2026-09-22T15:40:26",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street neemt gas terug na AI-rally",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-neemt-gas-terug-na-ai-rally/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan dinsdag een verdeelde opening tegemoet. Ongeveer een half uur voor de openingsbel noteerden de futures op de S&P 500 fractioneel boven de slotstand van maandag, die dicht in de buurt kwam van een 'all time high'. De Nasdaq wist zijn hoogste slotstand ooit maandag wel aan te scherpen, maar …\nThe post Wall Street neemt gas terug na AI-rally appeared first on Trends.be.",
+   "date": "2026-09-22T15:00:34",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Twintig landen pleiten voor wereldwijd toezicht op AI",
+   "link": "https://businessam.be/twintig-landen-pleiten-voor-wereldwijd-toezicht-op-ai/",
+   "description": "Key takeaways Een coalitie van twintig landen pleit voor een gecoördineerde internationale strategie om artificiële intelligentie onder menselijk toezicht te houden. In een gezamenlijke verklaring, verspreid via het kantoor van de Finse president Alexander Stubb, stelden de deelnemers – waaronder Singapore, Canada, Duitsland, Zuid-Afrika en de Verenigde Arabische Emiraten – de mogelijke oprichting van een […]",
+   "date": "2026-09-22T14:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta ontketent AI-feest op de beurs na week van angst",
+   "link": "https://www.standaard.be/economie/meta-ontketent-ai-feest-op-de-beurs-na-week-van-angst/161864184.html",
+   "description": "Muse, de nieuwe AI-assistent van Meta, stuwde AI-aandelen weer fluks hoger terwijl vorige week het feest voorbij leek. De bredere markt heeft andere zorgen.",
+   "date": "2026-09-22T14:05:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Twintig landen roepen op tot internationaal toezicht op AI",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/twintig-landen-roepen-op-tot-internationaal-toezicht-op-ai-~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-22T13:36:46",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beleggen ze beter dan mensen? Amerikaans fonds vervangt 8 werknemers door 4 AI-agenten",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/22/amerikaans-fonds-vervangt-menselijk-persoonlijk-door-ai/",
+   "description": "De Amerikaanse fondsmanager Brian Kelly heeft zijn vroegere ploeg van 8 werknemers ontslagen en vervangen door 4 AI-agents. Kelly's jaarlijkse kosten zakten daardoor volgens hem van 5 miljoen naar 40.000 dollar. Of de robots ook beter beleggen, is nog even afwachten.",
+   "date": "2026-09-22T13:28:17",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beleggen ze beter dan mensen? Amerikaans fonds vervangt 8 werknemers door 4 AI-agenten",
+   "link": "https://vrtnws.be/p.kQG49LGv7",
+   "description": "De Amerikaanse fondsmanager Brian Kelly heeft zijn vroegere ploeg van 8 werknemers ontslagen en vervangen door 4 AI-agents. Kelly's jaarlijkse kosten zakten daardoor volgens hem van 5 miljoen naar 40.000 dollar. Of de robots ook beter beleggen, is nog even afwachten.",
+   "date": "2026-09-22T13:28:17",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Toezichthouder waarschuwt voor te ruim gebruik van AI door AIVD en MIVD",
+   "link": "https://www.security.nl/posting/954141/Toezichthouder+waarschuwt+voor+te+ruim+gebruik+van+AI+door+AIVD+en+MIVD?channel=rss",
+   "description": "De toezichthouder op de inlichtingendiensten, de CTIVD, is bezorgd over het gebrek aan overzicht op het AI gebruik van de ...",
+   "date": "2026-09-22T13:23:30",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese cpu-ontwerper SiPearl levert eerste samples voor Jupiter-supercomputer",
+   "link": "https://tweakers.net/nieuws/252448/europese-cpu-ontwerper-sipearl-levert-eerste-samples-voor-jupiter-supercomputer.html",
+   "description": "De Franse processorontwerper SiPearl levert deze week de eerste Rhea1-cpu-samples voor de Jupiter-supercomputer. Dit is een belangrijke stap in de levering van Europese hardware voor het systeem, die vooralsnog voornamelijk op Amerikaanse Nvidia-hardware draait.",
+   "date": "2026-09-22T13:02:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alibaba zet vol in op eigen AI-keten, van chips tot datacenters",
+   "link": "https://businessam.be/alibaba-zet-vol-in-op-eigen-ai-keten-van-chips-tot-datacenters/",
+   "description": "Key takeaways De aandelenkoers van Alibaba steeg naar een maandhoogtepunt na de aankondiging van aanzienlijke vooruitgang in zijn ecosysteem voor artificiële intelligentie. Volledige AI-pijplijn in eigen handen Tijdens de Apsara-conferentie in Hangzhou presenteerde het bedrijf een strategie om de volledige AI-pijplijn te integreren: van verwerkingshardware en basismodellen tot de datacenters waarop die systemen draaien. Die […]",
+   "date": "2026-09-22T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta behaalt een langverwacht (maar onhoudbaar) succes met zijn AI-agent Muse",
+   "link": "https://trends.knack.be/ai-en-tech/de-ai-agent-muse-is-een-langverwacht-maar-onhoudbaar-succesproduct-voor-meta/",
+   "description": "Na meer dan 200 miljard dollar aan kapitaaluitgaven voor AI-training en -infrastructuur heeft Meta met zijn AI-agent Muse voor het eerst een AI-gerelateerd product beet dat aanslaat. Muse is een virtuele assistent met een geheugen die op de achtergrond taken uitvoert. In tegenstelling tot de meeste agents richt Muse zich specifiek op consumenten. Het geheim achter Meta’s succes zit in een strategische zet van vorig jaar en in onhoudbare subsidies.\nThe post Meta behaalt een langverwacht (maar onhoudbaar) succes met zijn AI-agent Muse appeared first on Trends.be.",
+   "date": "2026-09-22T12:22:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canadese provincie klaagt OpenAI en Sam Altman aan na dodelijke schietpartij op school in Tumbler Ridge",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/22/british-columbia-rechtszaak-schietpartij-tumbler-ridge-openai-sa/",
+   "description": "De Canadese provincie British Columbia start een rechtszaak tegen OpenAI en CEO Sam Altman, omdat ze te weinig zouden hebben gedaan om de dodelijke schietpartij in Tumbler Ridge tegen te houden.",
+   "date": "2026-09-22T12:22:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Canadese provincie klaagt OpenAI en Sam Altman aan na dodelijke schietpartij op school in Tumbler Ridge",
+   "link": "https://vrtnws.be/p.11vDx4x3n",
+   "description": "De Canadese provincie British Columbia start een rechtszaak tegen OpenAI en CEO Sam Altman, omdat ze te weinig zouden hebben gedaan om de dodelijke schietpartij in Tumbler Ridge tegen te houden. Volgens de provincie kon die schietpartij worden vermeden als het bedrijf de politie had gewaarschuwd na zorgwekkende gesprekken van de schutter met ChatGPT. Ook de families van de slachtoffers hebben het bedrijf al aangeklaagd voor nalatigheid.",
+   "date": "2026-09-22T12:22:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Prille investering in Nederlandse uitdager Duolingo",
+   "link": "https://www.emerce.nl/nieuws/prille-investering-nederlandse-uitdager-duolingo",
+   "description": "De Nederlandse AI-taaldocent Eevi rondt een pre-seed investeringsronde af vanuit zijn deelname aan het mentorprogramma Rockstart.",
+   "date": "2026-09-22T11:52:10",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Slechts één van 225 aan Anthropic gelinkte kwetsbaarheden actief misbruikt",
+   "link": "https://www.security.nl/posting/954128/Slechts+%C3%A9%C3%A9n+van+225+aan+Anthropic+gelinkte+kwetsbaarheden+actief+misbruikt?channel=rss",
+   "description": "Van de 225 kwetsbaarheden die zijn ontdekt door onderzoekers van Anthropic en deelnemers aan Project Glasswing, wordt voor ...",
+   "date": "2026-09-22T11:51:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Groningse AI-supercomputer moet Nederlandse digitale autonomie versterken",
+   "link": "https://www.security.nl/posting/954120/Groningse+AI-supercomputer+moet+Nederlandse+digitale+autonomie+versterken?channel=rss",
+   "description": "In 2027 zou Nederland een AI supercomputer rijker moeten zijn, dan wordt de campus van de RU Groningen de eerste Nederlandse ...",
+   "date": "2026-09-22T11:28:33",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hyves is terug en wil de concurrentie aangaan met verslavende platforms, ook Albert Heijn en Bol betrokken",
+   "link": "https://www.ad.nl/tech/hyves-is-terug-en-wil-de-concurrentie-aangaan-met-verslavende-platforms-ook-albert-heijn-en-bol-betrokken~a986914b/",
+   "description": "Hyves is terug. Het populaire socialemediaplatform uit de zero’s wordt een plek zonder verslavende algoritmes. De ambities zijn groot – de hoop is om over enkele maanden al 1,5 miljoen gebruikers te hebben – maar ook bij eigenaar Mediahuis klinkt realisme: „Als we over twee jaar moeten concluderen dat dit niet werkt, dan is dat wat het is. Dan hebben we het in elk geval geprobeerd.”",
+   "date": "2026-09-22T10:56:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gebruikers klagen dat Apple Watch 12 en Ultra 4 door bug onverwacht herstarten",
+   "link": "https://tweakers.net/nieuws/252438/gebruikers-klagen-dat-apple-watch-12-en-ultra-4-door-bug-onverwacht-herstarten.html",
+   "description": "Verschillende gebruikers melden dat de Apple Watch 12 en Ultra 4 last hebben van kernel panic. Dat houdt in dat de kernel door een fout niet veilig kan werken, waarna het horloge opnieuw opstart. Het probleem heeft mogelijk te maken met de Neural Engine voor lokale AI-berekeningen.",
+   "date": "2026-09-22T10:37:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU verplicht datacenters tot transparantie over water- en energieverbruik",
+   "link": "https://businessam.be/eu-verplicht-datacenters-tot-transparantie-over-water-en-energieverbruik/",
+   "description": "Key takeaways De Europese Commissie heeft nieuwe richtlijnen ingevoerd die datacenters die in Europa actief zijn, verplichten om hun water- en energie-efficiëntiecijfers te rapporteren. De maatregel is een reactie op de toenemende bezorgdheid over de milieu-impact van het verbruik van hulpbronnen door de faciliteiten. Uitbreiding Om de afhankelijkheid van grote Amerikaanse technologiebedrijven te verminderen en […]",
+   "date": "2026-09-22T09:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgische CIO’s willen duidelijkheid rond AI, voor ze opschalen",
+   "link": "https://trends.knack.be/ai-en-tech/best-practices/belgische-cios-willen-duidelijkheid-rond-ai-voor-ze-opschalen/",
+   "description": "AI-governance staat bovenaan de agenda van Belgische ICT-verantwoordelijken, zo blijkt uit het Beltug Priorities Compass 2026. CIO’s zoeken controle: over de technologie, over de data en over de afhankelijkheid van buitenlandse leveranciers.\nThe post Belgische CIO’s willen duidelijkheid rond AI, voor ze opschalen appeared first on Trends.be.",
+   "date": "2026-09-22T09:21:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tientallen landen roepen in gezamenlijke verklaring op tot internationaal toezicht op AI: Belgische ondertekening is nog niet besproken",
+   "link": "https://www.hln.be/tech/tientallen-landen-roepen-in-gezamenlijke-verklaring-op-tot-internationaal-toezicht-op-ai-belgische-ondertekening-is-nog-niet-besproken~a4a0ff0c9/",
+   "description": "De staatshoofden of regeringsleden van zowat twintig landen hebben maandag in de marge van de Algemene Vergadering van de Verenigde Naties opgeroepen om internationale veiligheidsmaatregelen te nemen tegen de ongebreidelde ontwikkeling van artificiële intelligentie (AI). Ze waarschuwen voor “ernstige risico’s” als de technologie aan menselijke controle ontsnapt.",
+   "date": "2026-09-22T08:55:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gents verzekeringsplatform Paperbox komt in Amerikaanse handen",
+   "link": "https://trends.knack.be/ai-en-tech/gents-verzekeringsplatform-paperbox-komt-in-amerikaanse-handen/",
+   "description": "Het Gentse AI-bedrijf Paperbox, dat verzekeraars helpt efficiënter te werken, wordt overgenomen door zijn Amerikaanse sectorgenoot Adlib. Investeerder Diversis Capital – eigenaar van Adlib – zorgt mee voor het kapitaal.\nThe post Gents verzekeringsplatform Paperbox komt in Amerikaanse handen appeared first on Trends.be.",
+   "date": "2026-09-22T08:50:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hyves blijkt niet uitgekrabbeld en keert na dertien jaar terug",
+   "link": "https://tweakers.net/nieuws/252432/hyves-blijkt-niet-uitgekrabbeld-en-keert-na-dertien-jaar-terug.html",
+   "description": "Dertien jaar na het einde van Hyves is het weer mogelijk om te krabbelen. Eigenaar Mediahuis brengt de Nederlandse socialenetwerksite terug, naar eigen zeggen omdat er behoefte is aan een Europees sociaal medium zonder een verslavend algoritme.",
+   "date": "2026-09-22T08:14:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 opent neutraal na sterke AI-rally",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-opent-neutraal-na-sterke-ai-rally/",
+   "description": "(ABM FN) De Brusselse beurs gaat dinsdag naar verwachting min of meer vlak van start van start, na een stevige rally op Wall Street maandagavond. De Bel20 sloot maandag 0,9 procent hoger op 5.763,48 punten, met steun van Lotus Bakeries en Melexis, terwijl er weinig dalers waren in de sterindex.De S&P 500 steeg daarnaast maandagavond met 1,5 …\nThe post Bel20 opent neutraal na sterke AI-rally appeared first on Trends.be.",
+   "date": "2026-09-22T08:12:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hyves is terug: krabbels, dansende bananen en geen verslavende algoritmes",
+   "link": "https://www.nu.nl/tech/6410543/hyves-is-terug-krabbels-dansende-bananen-en-geen-verslavende-algoritmes.html",
+   "description": "Het sociale netwerk Hyves is 22 jaar na de oprichting weer terug. Volgens eigenaar Mediahuis is er een behoefte aan sociale media met \"minder opdringerige advertenties, geen verslavende algoritmes en geen eindeloze scroll\".",
+   "date": "2026-09-22T08:12:11",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie profiteert van AI kan de inflatie sterk beïnvloeden, zegt ECB-bestuurder Panetta",
+   "link": "https://businessam.be/wie-profiteert-van-ai-kan-de-inflatie-sterk-beinvloeden-zegt-ecb-bestuurder-panetta/",
+   "description": "Key takeaways Fabio Panetta, lid van de Raad van Bestuur van de Europese Centrale Bank en gouverneur van de Bank van Italië, benadrukte onlangs dat monetaire autoriteiten de verdeling van de voordelen van artificiële intelligentie moeten analyseren. Invloed op inflatie Hij stelde dat de manier waarop AI-gedreven voordelen worden verdeeld, rechtstreeks van invloed is op […]",
+   "date": "2026-09-22T06:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Terwijl leerlingen massaal AI gebruiken, hinkt het onderwijsbeleid achterop",
+   "link": "https://apache.be/2026/09/22/terwijl-leerlingen-massaal-ai-gebruiken-hinkt-onderwijsbeleid-achterop",
+   "description": "De integratie van AI in het onderwijs staat nog in de kinderschoenen.",
+   "date": "2026-09-22T06:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Tientallen landen roepen op tot internationaal toezicht op AI",
    "link": "https://www.gva.be/economie/tientallen-landen-roepen-op-tot-internationaal-toezicht-op-ai/161827141.html",
@@ -360,6 +690,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Door AI wordt in geheimschrift schrijven verdomd lastig",
+   "link": "https://www.standaard.be/media-en-cultuur/door-ai-wordt-in-geheimschrift-schrijven-verdomd-lastig/161765256.html",
+   "description": "Door koppig te blijven proberen kan AI codetaal ontcijferen die tot nu onleesbaar was. Nuttig, maar zo gaat ook een streepje romantiek verloren.",
+   "date": "2026-09-21T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Meta en chipspelers blinken uit op felgroen Wall Street",
    "link": "https://www.tijd.be/r/t/1/id/10686916",
    "description": "Enthousiasme over de nieuwe AI-agent van Meta en koopadviezen stuwden het aandeel een tiende hoger. Ook chipbedrijven profiteerden mee, terwijl een dalende olieprijs en positieve geluiden over Amerikaans-Chinees overleg over AI het sentiment verder ondersteunden.",
@@ -369,6 +710,17 @@
    ],
    "first_seen": "2026-09-22",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Met dank aan AI: eindelijk schatten we emotioneel werk op waarde",
+   "link": "https://www.trouw.nl/religie-filosofie/met-dank-aan-ai-eindelijk-schatten-we-emotioneel-werk-op-waarde~bce84e2c5/",
+   "description": "",
+   "date": "2026-09-21T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-22",
+   "intro_geprobeerd": true
   },
   {
    "title": "Stellantis toont autonome Box-on-Wheels voor leveringen",
