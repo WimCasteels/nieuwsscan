@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T17:24:52",
+ "generated": "2026-09-23T03:16:06",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 166,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,162 @@
   }
  ],
  "articles": [
+  {
+   "title": "Copilot doorzocht mijn mailbox en ontkende dat nadien: ‘Het was een hallucinatie’",
+   "link": "https://www.demorgen.be/meningen/copilot-doorzocht-mijn-mailbox-en-ontkende-dat-nadien-het-was-een-hallucinatie~b2c1690d/",
+   "description": "",
+   "date": "2026-09-23T03:00:34",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Schreef het nieuwste fenomeen van de Franstalige literatuur zijn bestseller met AI?",
+   "link": "https://www.standaard.be/buitenland/schreef-het-nieuwste-fenomeen-van-de-franstalige-literatuur-zijn-bestseller-met-ai/161913985.html",
+   "description": "Met ‘C’était ça ou mourir’ leek Thélyson Orélien op weg om de literaire wereld te veroveren, tot AI-detectietools brandhout maakten van zijn bekroonde roman. Is de Canadese auteur de volgende valsspeler in de rij of is hij het jongste slachtoffer van de cultuuroorlog rond AI?",
+   "date": "2026-09-22T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VUB omarmt AI bij start academiejaar, studenten vrezen “dommer te worden”",
+   "link": "https://www.standaard.be/economie/vub-omarmt-ai-bij-start-academiejaar-studenten-vrezen-dommer-te-worden/161861633.html",
+   "description": "“Iedereen die hier afstudeert, moet AI-geletterd zijn”, zei de VUB-rector dinsdag in zijn openingsspeech. Terwijl de universiteit resoluut AI voluit omarmt, klinkt bij studenten ook twijfel: “Ik blijf geloven en vooral hopen op het belang van menselijk contact.”",
+   "date": "2026-09-22T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We zijn de controle over AI helemaal  niet kwijt, alleen gebeurt die controle niet",
+   "link": "https://www.standaard.be/opinies/we-zijn-de-controle-over-ai-helemaal-niet-kwijt-alleen-gebeurt-die-controle-niet/161874704.html",
+   "description": "Frankensteins fout was niet dat hij een monster creëerde, maar dat hij er geen zorg voor droeg. Precies dat loopt fout bij de ontwikkeling van AI, schrijft Shirley Kempeneer.",
+   "date": "2026-09-22T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gespleten Wall Street-sessie door AI-agent Muse",
+   "link": "https://www.tijd.be/r/t/1/id/10687077",
+   "description": "Muse, de AI-agent van Meta Platforms, veroorzaakt deining op de Amerikaanse beurzen. Terwijl chipbakkers opnieuw opveren, krijgen bank- en reisaandelen het deksel op hun neus. Shopify springt er positief uit: beleggers zien in de samenwerking met Muse een nieuwe route voor aankopen via AI.",
+   "date": "2026-09-22T22:27:30",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-concerns moeten zelf de gevaren van AI indammen",
+   "link": "https://www.trouw.nl/opinie/ai-concerns-moeten-zelf-de-gevaren-van-ai-indammen~bbdc16ac/",
+   "description": "",
+   "date": "2026-09-22T22:00:24",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Snapdragon 8 Elite krijgt naast Gen 6-versie ook geavanceerdere Extreme-variant",
+   "link": "https://tweakers.net/nieuws/252458/snapdragon-8-elite-krijgt-naast-gen-6-versie-ook-geavanceerdere-extreme-variant.html",
+   "description": "Qualcomm kondigt tijdens een eigen evenement de Snapdragon 8 Elite Gen 6-serie aan. Naast de Gen 5-opvolger Gen 6 komt er ook een Extreme-variant. Deze biedt ondersteuning voor uiteenlopende nieuwe AI-functies. De eerste smartphone die een Snapdragon 8 Elite Extreme Gen 6 krijgt, is de Motorola signature 27. Die komt later dit jaar uit.",
+   "date": "2026-09-22T22:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Regering VS noemt AI vanaf nu 'superintelligentie'",
+   "link": "https://tweakers.net/nieuws/252480/regering-vs-noemt-ai-vanaf-nu-superintelligentie.html",
+   "description": "De regering van de Verenigde Staten gaat in officiële documenten vanaf nu de term kunstmatige intelligentie vervangen door 'superintelligentie'. Dat heeft president Donald Trump gezegd in zijn speech bij een bijeenkomst van de Verenigde Naties.",
+   "date": "2026-09-22T20:47:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic brengt Claude Opus 5.5 uit, goedkoper dan voorganger",
+   "link": "https://tweakers.net/nieuws/252478/anthropic-brengt-claude-opus-55-uit-goedkoper-dan-voorganger.html",
+   "description": "Anthropic heeft Claude Opus 5.5 uitgebracht. De nieuwe versie moet vooral goedkoper zijn dan zijn voorganger, Opus 5.0, zo claimt het bedrijf. De prijs van input- en outputtokens is 20 procent lager dan bij Opus 5.0.",
+   "date": "2026-09-22T20:15:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met ‘persoonlijke agent’ Muse knokt Meta zich opnieuw in de AI-race, maar wat kan die precies voor u regelen?",
+   "link": "https://www.standaard.be/economie/met-persoonlijke-agent-muse-knokt-meta-zich-opnieuw-in-de-ai-race-maar-wat-kan-die-precies-voor-u-regelen/161865840.html",
+   "description": "Meta kende maandag zijn beste beursdag in meer dan een jaar tijd. Beleggers reageerden enthousiast op het succes van AI-agent Muse. Maar was Meta dan niet uitgeteld in de AI-race?",
+   "date": "2026-09-22T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump in VN-speech: 'Zeg niet langer AI, maar Super Intelligence of SI'",
+   "link": "https://www.tijd.be/r/t/1/id/10687047",
+   "description": "De Amerikaanse overheid zal voortaan spreken van 'superintelligentie' of SI in plaats van artificiële intelligentie of AI. Dat zei president Donald Trump dinsdag in zijn toespraak voor de VN, waarin ook Iran, Groenland en Oekraïne ter sprake kwamen.",
+   "date": "2026-09-22T18:24:21",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Griezelige socialemediatrend 'The Cat in the Hat' duikt op in straatbeelden Ledegem: \"AI vergroot gevoel onveiligheid\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/22/cat-in-the-hat-trend-sociale-media-tiktok-gevaar-oproep-eigen-st/",
+   "description": "",
+   "date": "2026-09-22T17:44:31",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Griezelige socialemediatrend 'The Cat in the Hat' duikt op in straatbeelden Ledegem: \"AI vergroot gevoel onveiligheid\"",
+   "link": "https://vrtnws.be/p.oL13VbmG8",
+   "description": "",
+   "date": "2026-09-22T17:44:31",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Filmen met een camerabril kan niet zonder toestemming. Autoriteit Persoonsgegevens waarschuwt voor risico’s van AI-gestuurde gadgets",
+   "link": "https://www.nrc.nl/nieuws/2026/09/22/filmen-met-een-camerabril-kan-niet-zonder-toestemming-autoriteit-persoonsgegevens-waarschuwt-voor-risicos-van-ai-gestuurde-gadgets-a4937278",
+   "description": "De Autoriteit Persoonsgegevens waarschuwt voor het gebruik van zogeheten camerabrillen. Met de brillen kunnen gebruikers vrijwel ongemerkt filmopnames maken, waar ook nietsvermoedende voorbijgangers op kunnen staan. Dat is in strijd met privacywetgeving, stelt de toezichthouder.",
+   "date": "2026-09-22T17:33:54",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Factcheck: virale afbeelding van vliegtuigcrash bij Empire State Building is niet authentiek",
    "link": "https://www.knack.be/factcheck/factcheck-virale-afbeelding-van-vliegtuigcrash-bij-empire-state-building-is-niet-authentiek/",
