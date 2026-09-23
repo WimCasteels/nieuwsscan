@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T03:16:06",
+ "generated": "2026-09-23T17:16:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 162,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 88,
    "error": null
   },
   {
@@ -316,11 +316,379 @@
  ],
  "articles": [
   {
+   "title": "Achtergrond - Schreef een mens of een machine het? Zo werkt AI-detectiesoftware",
+   "link": "https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html",
+   "description": "De afgelopen weken kwam AI-detectiesoftware vaak in het nieuws, maar hoe werken deze eigenlijk?",
+   "date": "2026-09-23T17:15:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta wil privacyzorgen wegnemen met camera-loze slimme bril",
+   "link": "https://businessam.be/meta-wil-privacyzorgen-wegnemen-met-camera-loze-slimme-bril/",
+   "description": "Key takeaways Als reactie op de toenemende zorgen over surveillance en gegevensprivacy zal Meta naar verwachting een versie van zijn slimme bril zonder camera introduceren. De zorgen richten zich op de mogelijkheid dat AI-aangestuurde wearables mensen onopvallend en zonder hun medeweten kunnen filmen. Marktdominantie  Dankzij de samenwerking met EssilorLuxottica heeft Meta al een sterke positie […]",
+   "date": "2026-09-23T17:13:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederland en Duitsland slaan handen ineen voor ontwikkeling van AI-chips",
+   "link": "https://businessam.be/nederland-en-duitsland-slaan-handen-ineen-voor-ontwikkeling-van-ai-chips/",
+   "description": "Key takeaways Om de Europese afhankelijkheid van Amerikaanse technologie te verminderen, werken Nederland en Duitsland samen via hun strategische innovatie-instanties aan de ontwikkeling van AI-halfgeleiders. De Nederlandse premier Rob Jetten kondigde vandaag aan dat het Nationaal Agentschap voor Disruptieve Innovatie (NADI), een nieuwe Nederlandse organisatie, gaat samenwerken met het Duitse SPRIND. Nieuw model voor innovatie […]",
+   "date": "2026-09-23T17:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pangram: de AI-detector die schrijver Thélyson Orélien beschuldigde",
+   "link": "https://www.standaard.be/media-en-cultuur/pangram-de-ai-detector-die-schrijver-thelyson-orelien-beschuldigde/161976214.html",
+   "description": "AI-tekst kun je niet op een betrouwbare manier van door mensen geschreven tekst onderscheiden. Daar gingen de meeste specialisten tot voor kort van uit. Maar het New Yorkse bedrijf Pangram lijkt daar toch in te slagen. Kan het niettemin in de fout zijn gegaan bij C’était ça ou mourir, de roman van Thélyson Orélien?",
+   "date": "2026-09-23T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-tool Muse maakt prijzen vergelijken kinderspel: beleggers slaan al op de vlucht",
+   "link": "https://www.tijd.be/r/t/1/id/10687138",
+   "description": "De AI-agent Muse jaagt beleggers in telecomspelers, verzekeraars en de toerismesector in de gordijnen. Met zulke persoonlijke AI-assistenten is het voor consumenten heel wat eenvoudiger om prijzen te vergelijken en over te stappen, waardoor margedruk om de hoek loert voor bedrijven als Proximus en Expedia.",
+   "date": "2026-09-23T16:19:03",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwsblad vindt AI-sporen in ruim 40 procent van Belgische parlementsvragen",
+   "link": "https://tweakers.net/nieuws/252514/nieuwsblad-vindt-ai-sporen-in-ruim-40-procent-van-belgische-parlementsvragen.html",
+   "description": "Naar verluidt genereert kunstmatige intelligentie 22 procent van alle schriftelijke vragen in het Belgische parlement. Nog eens ruim 20 procent zou deels met AI gegenereerd zijn. Antwoorden van parlementsleden zijn wel bijna uitsluitend door mensen geschreven.",
+   "date": "2026-09-23T16:14:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Komt er een Europese wet die AI-bedrijven aansprakelijk kan stellen? “Ze gedragen zich roekeloos omdat ze zich onschendbaar voelen”",
+   "link": "https://www.standaard.be/economie/komt-er-een-europese-wet-die-ai-bedrijven-aansprakelijk-kan-stellen-ze-gedragen-zich-roekeloos-omdat-ze-zich-onschendbaar-voelen/161900844.html",
+   "description": "Om toekomstige Hugging Face-incidenten te vermijden, nemen vier Europese Parlementsleden het initiatief tot een AI Liability Act, die AI-bedrijven aansprakelijk kan stellen voor schade die hun hackende agents aanrichten.",
+   "date": "2026-09-23T16:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Wie AI wint, die wint', zegt Trump en daarom willen hij en Xi niets weten van strengere regulering",
+   "link": "https://www.nrc.nl/nieuws/2026/09/23/xi-en-trump-denken-gevaarlijke-ai-voorlopig-zelf-wel-de-baas-te-kunnen-en-willen-niets-weten-van-strengere-regulering-a4937057",
+   "description": "China en de Verenigde Staten zijn verwikkeld in een felle concurrentiestrijd op het gebied van kunstmatige intelligentie. Hoewel de zorgen over de gevaren daarvan toenemen, is er weinig kans dat de presidenten Xi Jinping en Donald Trump deze week afspraken zullen maken over de beheersing daarvan.",
+   "date": "2026-09-23T15:26:15",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laat Trump zich weer met een kluitje in het riet sturen op top met Xi?",
+   "link": "https://www.tijd.be/r/t/1/id/10687082",
+   "description": "Als volleerd showman weet Donald Trump hoe hij de sfeer rond zijn ontmoeting met Xi Jinping moet oppompen. Ondanks de volle agenda - de handelsoorlog, AI, Taiwan en Iran - zal de Amerikaans-Chinese top die donderdag start weinig concrete resultaten opleveren. ‘Het zou naiëf zijn om te beweren dat de VS en China elkaar vertrouwen.’",
+   "date": "2026-09-23T15:13:03",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Isolde Van den Eynde pleit voor goed debat in het parlement. “Als Annick De Ridder op haar smartphone blijft werken tijdens een bevraging, mogen we dat dan minnetjes vinden?”",
+   "link": "https://www.hln.be/opinie/isolde-van-den-eynde-pleit-voor-goed-debat-in-het-parlement-als-annick-de-ridder-op-haar-smartphone-blijft-werken-tijdens-een-bevraging-mogen-we-dat-dan-minnetjes-vinden~a8b54f3d/",
+   "description": "Politiek journaliste Isolde Van den Eynde verdedigt de praatbarak — van de VN-vergadering tot ons eigen parlement. Al moet het wel een goede praatbarak zijn. “Het parlementaire debat raakt vast in een artificiële wereld. Ministers beantwoorden door AI gegenereerde vragen met AI-antwoorden, terwijl ze intussen ostentatief op hun smartphone tokkelen. Als politici stoppen met het debat, wat doet de samenleving dan?”",
+   "date": "2026-09-23T15:12:00",
+   "feeds": [
+    "HLN - Opinie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De tool ging al een paar keer de mist in, maar AI-agent van Meta is zowel in appstores als op de beurs een groot succes",
+   "link": "https://www.gva.be/economie/technologie/de-tool-ging-al-een-paar-keer-de-mist-in-maar-ai-agent-van-meta-is-zowel-in-appstores-als-op-de-beurs-een-groot-succes/161976428.html",
+   "description": "Het kan verkeren. Nadat Meta lang in het hoekje zat waar de AI-klappen vielen, steeg het aandeel eerder deze week met 11 procent. De reden? Hun AI-agent Muse blijkt te werken. En héél goed zelfs, in de VS althans. Later vandaag stelt het bedrijf wellicht een nieuwe AI-bril voor.",
+   "date": "2026-09-23T14:42:53",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Micron lijkt te stoppen met productie 2GB-geheugenchips voor RTX 50-videokaarten",
+   "link": "https://tweakers.net/nieuws/252508/micron-lijkt-te-stoppen-met-productie-2gb-geheugenchips-voor-rtx-50-videokaarten.html",
+   "description": "Micron lijkt te stoppen met de productie van 2GB-varianten van GDDR7-geheugenchips. Het bedrijf verlegt de focus naar 3GB-modules. Nvidia en boardpartners gebruikten de 2GB-chips voor videokaarten uit de RTX 50-serie. Naar verluidt gebruikt de onaangekondigde RTX 50 Super-serie de 3GB-modules.",
+   "date": "2026-09-23T14:30:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "McDonald’s investeert miljarden in AI",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/mcdonalds-investeert-miljarden-in-ai/",
+   "description": "(ABM FN-Dow Jones) McDonald's gaat wereldwijd ongeveer 8,5 miljard dollar investeren om franchisenemers te helpen met de inzet van AI en het moderniseren van keukens en menu's. Dit maakte de fastfoodketen woensdag bekend als onderdeel van een nieuwe bedrijfsstrategie. Volgens McDonald's kan AI helpen om de rendementen van de restaurants te verhogen, bijvoorbeeld via chatbots die …\nThe post McDonald’s investeert miljarden in AI appeared first on Trends.be.",
+   "date": "2026-09-23T14:27:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Update brickt Samsung SmartThings-koelkasten in Zuid-Korea",
+   "link": "https://tweakers.net/nieuws/252510/update-brickt-samsung-smartthings-koelkasten-in-zuid-korea.html",
+   "description": "Samsung heeft dinsdag per ongeluk een update gepusht in Zuid-Korea die koelkasten brickt. De apparaten stoppen volgens verschillende gebruikers volledig met koelen. Het probleem lijkt vooral Bespoke AI 4-Door-koelkasten te treffen.",
+   "date": "2026-09-23T14:19:44",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI overspoelt de politiek in België: steeds meer parlementaire vragen blijken door AI opgesteld",
+   "link": "https://businessam.be/ai-overspelt-de-politiek-in-belgie-steeds-meer-parlementaire-vragen-blijken-door-ai-opgesteld/",
+   "description": "Key takeaways Uit onderzoek van Nieuwsblad blijkt dat artificiële intelligentie steeds meer invloed uitoefent op de parlementaire communicatie. Bijna een kwart van de schriftelijke vragen aan de regering wordt volledig door AI gegenereerd. Uit een analyse van honderden vragen uit de periode 2022 tot 2026, uitgevoerd door Pangram, bleek dat 22,5 procent volledig door AI […]",
+   "date": "2026-09-23T13:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat is Meta’s nieuwe AI-agent Muse? Technologie-expert Kenneth Dée legt uit wat het voor jou kan doen én waarom voorzichtigheid nodig blijft",
+   "link": "https://www.hln.be/tech/wat-is-metas-nieuwe-ai-agent-muse-technologie-expert-kenneth-dee-legt-uit-wat-het-voor-jou-kan-doen-en-waarom-voorzichtigheid-nodig-blijft~a75fc181/",
+   "description": "Het moederbedrijf van onder meer Facebook en Instagram, Meta, doet het goed op de beurs dankzij een nieuwe AI-agent, Muse. Maar wat is een ‘AI-agent’ en wat kan Muse nu voor jou doen? Technologie-expert Kenneth Dée beantwoordt voor u de belangrijkste vragen.",
+   "date": "2026-09-23T13:47:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Parlementsleden laten kwart van vragen door AI schrijven, Kamervoorzitter Peter De Roover (N-VA) bezorgd: ‘Snelgroeiende minderheid’",
+   "link": "https://www.demorgen.be/snelnieuws/live-parlementsleden-laten-kwart-van-vragen-door-ai-schrijven-kamervoorzitter-peter-de-roover-n-va-bezorgd-snelgroeiende-minderheid~bf7e76f4/",
+   "description": "",
+   "date": "2026-09-23T11:58:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Fabien Pinckaers (Odoo) relativeert de AI-doemscenario’s: ‘Het resultaat zal positief zijn voor de mensheid’",
+   "link": "https://trends.knack.be/ondernemen/fabien-pinckaers-odoo-relativeert-de-ai-doemscenarios-het-resultaat-zal-positief-zijn-voor-de-mensheid/",
+   "description": "Fabien Pinckaers, de CEO van Odoo, heeft weinig boodschap aan de doemscenario’s over kunstmatige intelligentie. Hij ziet de technologie als een revolutie die vooral kansen biedt. \"Per saldo zal het resultaat positief zijn voor de mensheid.\"\nThe post Fabien Pinckaers (Odoo) relativeert de AI-doemscenario’s: ‘Het resultaat zal positief zijn voor de mensheid’ appeared first on Trends.be.",
+   "date": "2026-09-23T11:06:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wachten op een Hiroshima-moment voor AI’",
+   "link": "https://trends.knack.be/opinie/wachten-op-een-hiroshima-moment-voor-ai/",
+   "description": "De vraag is niet óf we kunstmatige intelligentie zullen reguleren, maar welk incident daar uiteindelijk de aanzet voor zal geven.\nThe post ‘Wachten op een Hiroshima-moment voor AI’ appeared first on Trends.be.",
+   "date": "2026-09-23T10:49:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI kan empathisch én menselijk klinken, maar niet tegelijkertijd",
+   "link": "https://www.emerce.nl/nieuws/ai-kan-empathisch-n-menselijk-klinken-tegelijkertijd",
+   "description": "AI-gegenereerde teksten klinken steeds menselijker, maar mensen herkennen menselijk schrijfwerk nog altijd als zodanig. Dat onderscheid wordt echter veel moeilijker zodra AI expliciet de opdracht krijgt om menselijk over te komen. Dat blijkt uit onderzoek van onder meer Tilburg University, gepubliceerd in het wetenschappelijke tijdschrift Nature Communications.",
+   "date": "2026-09-23T10:45:34",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Britse premier Burnham wil strijd aangaan tegen “giftige golf” van AI-desinformatie",
+   "link": "https://www.standaard.be/buitenland/britse-premier-burnham-wil-strijd-aangaan-tegen-giftige-golf-van-ai-desinformatie/161841169.html",
+   "description": "In New York vindt deze week de Algemene Vergadering van de Verenigde Naties plaats. De laatste onder secretaris-generaal António Guterres, want de Portugees is aan zijn laatste maanden bezig. Volg hier de updates.",
+   "date": "2026-09-23T10:39:54",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deze documentaire laat techdenkers opdraven voor de vraag: is het slim om kinderen te krijgen ten tijde van AI?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/23/deze-documentaire-laat-techdenkers-opdraven-voor-de-vraag-is-het-slim-om-kinderen-te-krijgen-ten-tijde-van-ai-a4937207",
+   "description": "In The AI Doc hoopt Oscarwinnend regisseur Daniel Roher zijn paniek over de toekomst van de wereld te onderdrukken. Dat lukt niet helemaal, maar hij stelt de juiste vragen aan de juiste mensen – al zijn dat er wat te veel.",
+   "date": "2026-09-23T10:37:54",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipmachinebouwer ASML verkoopt geen machines in Europa",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/chipmachinebouwer-asml-verkoopt-geen-machines-in-europa/",
+   "description": "Het Nederlandse ASML, een maker van chipmachines en een van de belangrijkste bedrijven van Europa, heeft het afgelopen kwartaal geen enkele machine verkocht op het eigen continent. De omzet in Europa was voor ASML al vrij klein, maar lijkt nu helemaal weg.\nThe post Chipmachinebouwer ASML verkoopt geen machines in Europa appeared first on Trends.be.",
+   "date": "2026-09-23T10:15:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kwart van parlementaire vragen door AI geschreven: \"Het groeit exponentieel\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/23/bijna-kwart-van-parlementsleden-gebruikt-ai-om-vragen-op-te-stel/",
+   "description": "Bijna een kwart van de vragen die parlementsleden aan de regering stellen, is geschreven door AI. Dat heeft het Nieuwsblad ontdekt. Parlementsleden vrezen dat de werking van het parlement daardoor op termijn in het gedrang kan komen. Ook Kamervoorzitter Peter De Roover (N-VA) kijkt bezorgd naar de ontwikkeling.",
+   "date": "2026-09-23T10:15:04",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Zijn winkels die AI gebruiken om camerabeelden te analyseren verplicht dat te melden?",
+   "link": "https://www.security.nl/posting/954232/Zijn+winkels+die+AI+gebruiken+om+camerabeelden+te+analyseren+verplicht+dat+te+melden%3F?channel=rss",
+   "description": "Juridische vraag: Sommige winkels gebruiken beveiligingscamera's met AI om gemaakte beelden te analyseren. Dit zou ...",
+   "date": "2026-09-23T09:47:40",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuw agentschap looft 40 miljoen uit voor ontwikkeling energiezuinige chips",
+   "link": "https://nos.nl/l/2632130",
+   "description": "Het is een van de grootste technologische vraagstukken van dit moment: hoe krijgen we de energievraag van kunstmatige intelligentie (AI) omlaag? Het pas opgerichte Nationaal Agentschap voor Disruptieve Innovatie (NADI) start daarom vandaag met een wedstrijd: ontwikkel energiezuinige AI-chips.\n        In samenwerking met het Duitse agentschap SPRIND stelt NADI 40 miljoen euro beschikbaar voor de AI-Native Chip Design Challenge. Uit alle aanmeldingen zullen NADI en SPRIND zeven teams selecteren die een idee hebben voor energiezuinige AI-chips. Zij krijgen ieder 2,6 miljoen euro om dat idee uit te werken.\n        Na acht maanden worden de drie beste teams uitgekozen. Die krijgen elk nog eens 7 miljoen euro. Naast geld krijgen de teams begeleiding van de innovatieagentschappen.\n        Zelfrijdende auto's\n        NADI is opgericht om innovaties te financieren die te risicovol zijn voor private investeerders. Het kabinet trekt in totaal 500 miljoen euro uit voor het agentschap.\n        Het NADI is geïnspireerd op het Amerikaanse DARPA, dat al bijna zeventig jaar een rol speelt bij innovaties als gps en zelfrijdende auto's. In Europa zijn de afgelopen jaren soortgelijke organisaties opgericht, zoals ARIA in het Verenigd Koninkrijk en SPRIND in Duitsland, dat projecten financierde in onder meer de geneeskunde en de duurzame energiesector.\n        Op dit moment is Europa sterk afhankelijk van AI-chips uit de VS en Azië. Daarnaast kosten AI-modellen veel energie. \"Het is alsof je boodschappen doet met een verhuiswagen\", zegt Jelle Prins, medeoprichter van NADI.\n        Dat hoge energieverbruik leidt tot kritiek. Sommige experts pleiten voor een rem op de bouw van datacentra en de ontwikkeling van AI.\n        De verwachtingen van de opdracht zijn hooggespannen, zegt SPRIND-oprichter Rafael Laguna de la Vera. \"Nederland is dankzij ASML enorm sterk in de chipfabricage. Maar we hebben nauwelijks chips uit Europa die op ASML-machines gemaakt kunnen worden. En de uitdaging is om zulke ontwerpen te produceren in een markt die net explosief is gegroeid.\"\n        Europa loopt in de AI-markt ver achter op China en de VS:\n        Wat Prins betreft is NADI een succes \"als we uiteindelijk een aantal van de grote maatschappelijke problemen die we hebben oplossen, of bijvoorbeeld hele nieuwe industrieën creëren\".\n        Vanuit Duitsland komt een dringend advies aan de Nederlandse politiek: bemoei je niet te veel met NADI. Laguna de la Vera: \"Je moet geduld hebben. Soms moet je zelfs vijftien jaar wachten tot een baanbrekende innovatie zich ontvouwt. En dat is een lange tijd. Het is niet altijd makkelijk om de politieke aandacht zo lang vast te houden.\"\n        Teams kunnen zich tot 30 november aanmelden voor het chipprogramma.\n        Econoom Mathijs Bouman:\n        \"NADI vloeit voort uit aanbevelingen in het Rapport-Wennink over het toekomstige verdienvermogen van Nederland. 500 miljoen euro is veel geld, maar het is een stuk minder dan in het rapport werd aanbevolen. Daarin werd een bedrag genoemd van 1,5 tot 2 miljard.\n        Een volgend kabinet kan natuurlijk besluiten meer geld in het agentschap te stoppen, maar het kan juist ook besluiten erop te bezuinigen. Dat is eerder gebeurd bij het Nationaal Groeifonds. Verder hebben de Tweede Kamer en de Rekenkamer eerder kritiek geuit op dit soort uitgaven, waar de politiek weinig controle over heeft. Aan de andere kant kun je ook beargumenteren dat er met de politici aan het roer geen garantie is op succes.\"",
+   "date": "2026-09-23T09:00:01",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - GPU-Z 2.71.0",
+   "link": "https://tweakers.net/downloads/78350/gpu-z-2710.html",
+   "description": "Versie 2.71.0 van GPU-Z is uitgekomen. Dit programma kan precies vertellen welke grafische kaart in de pc zit. Zo vermeldt het onder meer fabrikant, model, type, revisie en snelheid van de grafische processor, maar ook de hoeveelheid, type en snelheid van het geheugen. Hoewel de naam en het uiterlijk doen denken aan CPU-Z en PCI-Z, vergelijkbare programma's voor processors en PCI-devices, zijn die programma's van andere makers. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 2.71.0:",
+   "date": "2026-09-23T09:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mercedes-Benz gaat Wayve’s AI Driver in toekomstige luxemodellen integreren",
+   "link": "https://businessam.be/mercedes-benz-gaat-wayves-ai-driver-in-toekomstige-luxemodellen-integreren/",
+   "description": "Key takeaways Mercedes-Benz en Wayve hebben een formele productieovereenkomst aangekondigd voor de integratie van Wayve’s AI Driver in toekomstige Mercedes-Benz-modellen. De samenwerking heeft als doel automobilisten geavanceerde point-to-point-rijondersteuning te bieden, zowel in stedelijke omgevingen als op snelwegen. De eerste modellen met de technologie worden naar verwachting binnen twee jaar geïntroduceerd. Technische synergie De overeenkomst is […]",
+   "date": "2026-09-23T08:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GPT-6 krijgt minder krachtige maar wel goedkopere Sol- en Luna-varianten",
+   "link": "https://tweakers.net/nieuws/252486/gpt-6-krijgt-minder-krachtige-maar-wel-goedkopere-sol-en-luna-varianten.html",
+   "description": "OpenAI heeft twee versies van GPT-6 uitgebracht: Sol en Luna. Dat zijn minder krachtige modellen dan het eerdere GPT-6 Astra. De modellen zijn vooral efficiënter, zegt OpenAI. Sol en Luna zijn alleen beschikbaar in Work en Codex en via de api, maar nog niet in de chatfunctie.",
+   "date": "2026-09-23T08:35:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML verkoopt helemaal niets meer in Europa",
+   "link": "https://tweakers.net/nieuws/252488/asml-verkoopt-helemaal-niets-meer-in-europa.html",
+   "description": "ASML heeft het afgelopen kwartaal geen enkele chipmachine verkocht in Europa. Vicevoorzitter Frank Heemskerk zegt dat de omzet die het bedrijf met verkopen aan Europese klanten behaalde 'naar nul procent' is gedaald. De omzet in Europa was al nooit groot, maar is nu helemaal weg.",
+   "date": "2026-09-23T07:42:57",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 617.14 WHQL",
+   "link": "https://tweakers.net/downloads/78348/geforce-game-ready-driver-61714-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 617.14 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen Control Resonant, Gears of War: E-Day, The Witcher 3: Wild Hunt - Remastered en Aion 2. Ook zijn er enkele problemen verholpen en is er een waar nVidia al wel bekend mee is maar waar het nog geen oplossing voor heeft. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-09-23T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na Belgan: is er nog Chinese spionage in onze chipsector en vooral bij Imec? 'Het risico is reëel'",
+   "link": "https://www.tijd.be/r/t/1/id/10686531",
+   "description": "Het onderzoek naar vermeende Chinese spionage bij het failliete Belgan roept de vraag op of nog chiptechnologie vanuit België naar China is gelekt. Hoe groot is het 'Chinese risico' in de sector en vooral bij de spil, het Leuvense onderzoekscentrum Imec? ‘Vlaanderen subsidieerde zijn eigen competitie.’",
+   "date": "2026-09-23T05:00:00",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie",
+    "De Tijd - Politiek Europa"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Copilot doorzocht mijn mailbox en ontkende dat nadien: ‘Het was een hallucinatie’",
    "link": "https://www.demorgen.be/meningen/copilot-doorzocht-mijn-mailbox-en-ontkende-dat-nadien-het-was-een-hallucinatie~b2c1690d/",
    "description": "",
    "date": "2026-09-23T03:00:34",
    "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Als je wilt, kan ik in interne documenten en chats gaan opzoeken wat collega’s over je zeggen.’ En Copilot dééd het",
+   "link": "https://www.demorgen.be/meningen/als-je-wilt-kan-ik-in-interne-documenten-en-chats-gaan-opzoeken-wat-collega-s-over-je-zeggen-en-copilot-deed-het~b2c1690d/",
+   "description": "",
+   "date": "2026-09-23T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
     "De Morgen - Meningen"
    ],
    "first_seen": "2026-09-23",
