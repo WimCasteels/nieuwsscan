@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T17:16:47",
+ "generated": "2026-09-24T03:07:24",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 158,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,206 @@
   }
  ],
  "articles": [
+  {
+   "title": "‘Ik heb nog nooit zoveel overtredingen begaan’: zelfrijdende Tesla’s flateren in fietsstraten en zones 30",
+   "link": "https://www.demorgen.be/nieuws/ik-heb-nog-nooit-zoveel-overtredingen-begaan-zelfrijdende-tesla-s-flateren-in-fietsstraten-en-zones-30~b962d2f8/",
+   "description": "",
+   "date": "2026-09-24T06:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI van OpenAI hackte medische database van Australische overheid",
+   "link": "https://www.standaard.be/binnenland/ai-van-openai-hackte-medische-database-van-australische-overheid/162045981.html",
+   "description": "Een AI-agent van OpenAI heeft een medische database van de Australische overheid gehackt.",
+   "date": "2026-09-24T02:14:42",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zijn er nog mensen die in alle AI-gegenereerde affiches met een cuttermes willen snijden?",
+   "link": "https://www.standaard.be/media-en-cultuur/zijn-er-nog-mensen-die-in-alle-ai-gegenereerde-affiches-met-een-cuttermes-willen-snijden/161729723.html",
+   "description": "Wat bezielt een 82-jarige man om infoborden in Bokrijk te vernielen? Hoewel vandalisme nooit de oplossing is, herkent Yelena Schmitz dat knagende gevoel van verzet tegen een moderne, zielloze wereld.",
+   "date": "2026-09-23T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Australië boos nadat AI van OpenAI overheidswebsite infiltreert: 'Onacceptabel'",
+   "link": "https://www.nu.nl/tech/6410788/australie-boos-nadat-ai-van-openai-overheidswebsite-infiltreert-onacceptabel.html",
+   "description": "Kunstmatige intelligentie (AI) van het bedrijf OpenAI heeft een Australische overheidswebsite binnengedrongen, meldt de Australische premier Anthony Albanese aan de Sydney Morning Herald. Het gaat voor zover bekend om de eerste infiltratie van een overheidswebsite door AI.",
+   "date": "2026-09-23T23:43:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rente boven 5 procent duwt Wall Street in het rood",
+   "link": "https://www.tijd.be/r/t/1/id/10687247",
+   "description": "De Amerikaanse tienjaarsrente heeft opnieuw de grens van de 5 procent overschreden en trok zo een streep door het herstel op Wall Street. De hoge rentevoeten overschaduwden de AI-gekte rond Meta’s nieuwste app Muse.",
+   "date": "2026-09-23T22:27:10",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met opgevouwen chips leidt Huawei de AI-race in China",
+   "link": "https://www.nrc.nl/nieuws/2026/09/23/met-opgevouwen-chips-leidt-huawei-de-ai-race-in-china-a4937353",
+   "description": "De Chinese leider Xi Jinping bezoekt deze week Washington voor handelsbesprekingen met de regering-Trump. De VS en China proberen hun wederzijdse afhankelijkheid te verminderen. Op het gebied van AI-chips zoekt China zijn eigen pad, met Huawei als aanvoerder.",
+   "date": "2026-09-23T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"AI is risico voor hele mensheid als het slecht beheerd wordt\", waarschuwt Anthropic-CEO in VN-Veiligheidsraad",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/ai-is-risico-voor-hele-mensheid-als-het-slecht-beheerd-wordt-~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-23T21:51:53",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic brengt nieuwe versie uit van AI-model Claude Opus die goedkoper is dan voorganger",
+   "link": "https://www.hln.be/internet/anthropic-brengt-nieuwe-versie-uit-van-ai-model-claude-opus-die-goedkoper-is-dan-voorganger~a8d4d626/",
+   "description": "Anthropic heeft Claude Opus 5.5 uitgebracht. De nieuwste versie van het AI-model, dat ontworpen is om uit te blinken in zeer complexe opdrachten, is volgens het bedrijf goedkoper dan zijn voorganger Opus 5.0. Tegelijkertijd moet het duidelijkere antwoorden geven op vragen.",
+   "date": "2026-09-23T21:16:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie bedenkt de beste Europese AI-chip? Nieuw innovatiefonds Nadi trekt 40 miljoen euro uit voor een antwoord op die vraag",
+   "link": "https://www.trouw.nl/binnenland/wie-bedenkt-de-beste-europese-ai-chip-nieuw-innovatiefonds-nadi-trekt-40-miljoen-euro-uit-voor-een-antwoord-op-die-vraag~be2556097/",
+   "description": "",
+   "date": "2026-09-23T21:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Prijzenoorlog in AI-land schakelt versnelling hoger: ‘Nog niet gezien in de geschiedenis’",
+   "link": "https://www.tijd.be/r/t/1/id/10687178",
+   "description": "Met agressieve prijsverlagingen proberen AI-leiders Anthropic en OpenAI hun marktaandeel veilig te stellen. Daarbij gokken ze erop dat zo’n prijzenoorlog de omzet niet zal aantasten in aanloop naar hun beursgang. Ze vertrouwen daarvoor op de theorie van een econoom uit de 19de eeuw.",
+   "date": "2026-09-23T20:34:05",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Consternatie in de literaire wereld: is bejubelde roman (deels) het werk van AI?",
+   "link": "https://www.demorgen.be/nieuws/consternatie-in-de-literaire-wereld-is-bejubelde-roman-deels-het-werk-van-ai~bd400c8b/",
+   "description": "",
+   "date": "2026-09-23T20:30:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Robot loopt voor het eerst marathon op één batterijlading: ‘Andere hardlopers moedigden hem aan’",
+   "link": "https://www.demorgen.be/tech-ai/robot-loopt-voor-het-eerst-marathon-op-een-batterijlading-andere-hardlopers-moedigden-hem-aan~bdb10753/",
+   "description": "",
+   "date": "2026-09-23T20:04:08",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Alibaba plant grote investeren in AI-datacenters in Europa en het Midden-Oosten",
+   "link": "https://businessam.be/alibaba-plant-grote-investeren-in-ai-datacenters-in-europa-en-het-midden-oosten/",
+   "description": "Key takeaways In een poging om zijn wereldwijde capaciteiten op het gebied van artificiële intelligentie te versterken, breidt Alibaba Group Holding zijn datacenternetwerk in het Midden-Oosten en Europa in hoog tempo uit. Nederland, Finland en Turkije Tijdens de recente Apsara-conferentie in Hangzhou kondigde directeur Li Feifei aan dat het bedrijf van plan is om binnen […]",
+   "date": "2026-09-23T20:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van graanschuur tot de Silicon Valley van Mexico: de boer in Querétaro legt het af tegen de datacenters",
+   "link": "https://www.nrc.nl/nieuws/2026/09/23/van-graanschuur-tot-de-silicon-valley-van-mexico-de-boer-in-queretaro-legt-het-af-tegen-de-datacenters-a4936649",
+   "description": "De Mexicaanse deelstaat Querétaro staat vanouds bekend om zijn maïsvelden en andere landbouw. Maar de boeren zijn bezorgd over de opkomst van enorme Amerikaanse datacenters en hun grootschalige watergebruik. „Het platteland wordt hier volkomen vergeten.”",
+   "date": "2026-09-23T20:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hij was dé Franse literaire ontdekking van deze zomer. Nu wordt hij beticht van het gebruik van AI",
+   "link": "https://www.nrc.nl/nieuws/2026/09/23/hij-was-de-franse-literaire-ontdekking-van-deze-zomer-nu-wordt-hij-beticht-van-het-gebruik-van-ai-a4937404",
+   "description": "De Haïtiaans-Canadese schrijver Thélyson Orélien is genomineerd voor zo’n beetje alle grote Franse literaire prijzen. Maar het boek waarmee hij deze zomer doorbrak, zou geschreven zijn met hulp van AI. De Franse boekenwereld zit ermee in de maag.",
+   "date": "2026-09-23T19:47:14",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Basic-Fit-leden krijgen gratis AI-coach die oefeningen en toestellen uitlegt",
+   "link": "https://tweakers.net/nieuws/252532/basic-fit-leden-krijgen-gratis-ai-coach-die-oefeningen-en-toestellen-uitlegt.html",
+   "description": "Basic-Fit introduceert een AI-fitnessassistent in zijn app. Deze is gratis te gebruiken voor alle leden van de sportschool. De assistent legt onder meer oefeningen en de werking van fitnesstoestellen uit en motiveert sporters.",
+   "date": "2026-09-23T19:38:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI afremmen lijkt een verre wensdroom: Trump en Xi onderschatten de gevaren",
+   "link": "https://www.standaard.be/buitenland/ai-afremmen-lijkt-een-verre-wensdroom-trump-en-xi-onderschatten-de-gevaren/161976877.html",
+   "description": "Donald Trump en Xi Jinping zouden tijdens hun ontmoeting in Washington vangrails kunnen optrekken om gevaarlijke AI-systemen te beteugelen, zoals de VS en de Sovjet-Unie dat eerder deden rond kernwapens. Maar de gesprekken daarover dreigen vast te lopen op wederzijds wantrouwen.",
+   "date": "2026-09-23T18:35:00",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Fout van artificiële intelligentie leidde bijna tot militair conflict tussen de VS en China",
+   "link": "https://businessam.be/fout-van-artificiele-intelligentie-leidde-bijna-tot-militair-conflict-tussen-de-vs-en-china/",
+   "description": "Key takeaways Uit onderzoek van CNN is gebleken dat er een gevaarlijke situatie is ontstaan waarbij een rapport van de Amerikaanse militaire inlichtingendienst, opgesteld met behulp van artificiële intelligentie, bijna een militair conflict met China veroorzaakte. In het rapport is ten onrechte beweerd dat een Chinees schip in het Midden-Oosten onderdelen voor een kernwapenproject aan […]",
+   "date": "2026-09-23T17:58:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Achtergrond - Schreef een mens of een machine het? Zo werkt AI-detectiesoftware",
    "link": "https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html",
@@ -357,6 +557,17 @@
     "De Standaard - Cultuur"
    ],
    "first_seen": "2026-09-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is Pangram een laatste verdedigingsmuur tegen door AI gemaakte onzin?",
+   "link": "https://www.standaard.be/media-en-cultuur/is-pangram-een-laatste-verdedigingsmuur-tegen-door-ai-gemaakte-onzin/161976214.html",
+   "description": "AI-tekst kun je niet op een betrouwbare manier van door mensen geschreven tekst onderscheiden. Daar gingen de meeste specialisten tot voor kort van uit. Maar Pangram lijkt daar tóch in te slagen. Kan het niettemin in de fout zijn gegaan bij C’était ça ou mourir, de roman van Thélyson Orélien?",
+   "date": "2026-09-23T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-24",
    "intro_geprobeerd": false
   },
   {
