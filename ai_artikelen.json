@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T03:07:24",
+ "generated": "2026-09-24T17:42:07",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 32,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 156,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 90,
    "error": null
   },
   {
@@ -316,6 +316,470 @@
  ],
  "articles": [
   {
+   "title": "Xi geeft duidelijke boodschap aan Trump: \"Onze verantwoordelijkheid om ontwikkeling van AI onder controle te houden\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/xi-geeft-duidelijke-boodschap-aan-trump-onze-verantwoordelijkh~1790221115060/",
+   "description": "De Chinese president Xi Jinping brengt een driedaags bezoek aan de Verenigde Staten. Het is al van 2015 geleden dat hij daar nog op staatsbezoek was. In deze blog houden wij je op de hoogte van de belangrijkste updates.",
+   "date": "2026-09-24T17:30:56",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Live - Trump prijst ‘grote vriendschap’ met Xi, die verdere ontwikkeling AI ‘gedeelde verantwoordelijkheid’ vindt",
+   "link": "https://www.demorgen.be/snelnieuws/live-cnn-ms-now-en-politico-vragen-rechter-om-spoedzitting-nu-ze-nog-steeds-geen-toegang-krijgen-tot-witte-huis~b13cc951/",
+   "description": "",
+   "date": "2026-09-24T17:25:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nieuwe hacks door AI-agenten, terwijl tech-CEO’s bij Verenigde Naties pleiten voor regelgeving",
+   "link": "https://www.volkskrant.nl/tech/nieuwe-hacks-door-ai-agenten-terwijl-tech-ceo-s-bij-verenigde-naties-pleiten-voor-regelgeving~b96272bc/",
+   "description": "",
+   "date": "2026-09-24T17:12:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hacking van Australische overheidssite is niet zo onschuldig als ze lijkt",
+   "link": "https://www.tijd.be/r/t/1/id/10687378",
+   "description": "De infiltratie door een AI-agent in een beveiligde Australische overheidssite lijkt op het eerste gezicht geen grote gevolgen te hebben. Maar op basis van wat we al weten, zijn de conclusies toch alarmerend.",
+   "date": "2026-09-24T17:09:15",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump vóór overleg met Xi: 'Vangrails voor AI zijn niet nodig'",
+   "link": "https://www.tijd.be/r/t/1/id/10687387",
+   "description": "De Amerikaanse president Trump blijft zich verzetten tegen de regulering van artificiële intelligentie. Dat zei hij vlak voor een ontmoeting met de Chinese president Xi.",
+   "date": "2026-09-24T17:08:35",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta zet in op AI-hardware als alternatief voor de smartphone",
+   "link": "https://businessam.be/meta-zet-in-op-ai-hardware-als-alternatief-voor-de-smartphone/",
+   "description": "Key takeaways Tijdens het Meta Connect-evenement introduceerde CEO Mark Zuckerberg de Meta Charm, een compact handheldapparaat dat is ontworpen voor de Muse AI-assistent. Het apparaat is ongeveer zo groot als een AirPods-hoesje en beschikt over een 2-inch touchscreen en 5G-connectiviteit. Zuckerberg benadrukte dat de Meta Charm het volledige Muse-ecosysteem – inclusief avatars en realtime spraakinteractie […]",
+   "date": "2026-09-24T16:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "🎧 “AI zal de mens niet uitroeien”: maar dit zijn volgens onze techexpert wél de gevaren",
+   "link": "https://www.hln.be/nieuws/ai-zal-de-mens-niet-uitroeien-maar-dit-zijn-volgens-onze-techexpert-wel-de-gevaren~ad09d592/",
+   "description": "“Als we AI laten doen, kan het de mens tegen het einde van dit decennium uitroeien”, zei Jacob Coxon, voormalig AI-onderzoeker bij Anthropic eerder deze maand. Hoe ernstig moeten we zulke waarschuwingen nemen? En waar liggen volgens onze HLN-techexpert Kenneth Dée de échte gevaren van AI?  In een nieuwe aflevering van HLN Vandaag Extra legt Jules Weyts uw vragen en bezorgdheden aan hem voor.",
+   "date": "2026-09-24T16:54:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agents van OpenAI hacken nu ook Australische sociale zekerheid: “Het systeem aanvaardde geen ‘nee’”",
+   "link": "https://www.standaard.be/buitenland/agents-van-openai-hacken-nu-ook-australische-sociale-zekerheid-het-systeem-aanvaardde-geen-nee/162061437.html",
+   "description": "Autonome agents van OpenAI schrijven opnieuw een primeur op hun naam. Op 18 juni vond in Australië de eerste hack van een overheidswebsite door autonome AI-agents plaats, meldde het bedrijf begin september zelf.",
+   "date": "2026-09-24T16:33:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta verwijderde satirische video van Roel Maalderink over de Meta-videobrillen: 'Het laat zien hoe machtig zulke platformen zijn'",
+   "link": "https://www.nrc.nl/nieuws/2026/09/24/meta-verwijdert-satirische-video-van-roel-maalderink-met-kritiek-op-meta-videobrillen-a4937450",
+   "description": "Programmamaker Roel Maalderink plaatste een satirisch filmpje over de Meta AI-bril op Instagram. Meta verwijderde het filmpje binnen een dag. Mag dat zomaar? Een hoogleraar noemt de beslissing „zeer problematisch”.",
+   "date": "2026-09-24T16:23:21",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse inlichtingendiensten, politie, OM, NCSC en NCTV waarschuwen voor AI",
+   "link": "https://tweakers.net/nieuws/252578/nederlandse-inlichtingendiensten-politie-om-ncsc-en-nctv-waarschuwen-voor-ai.html",
+   "description": "AI-gebruik door kwaadwillenden versnelt en vergroot de dreiging van cyberaanvallen. Daarvoor waarschuwen Nederlandse inlichtingen- en opsporingsdiensten, waaronder de AIVD en MIVD, de politie, het OM, het NCSC en de NCTV. Zij vragen om 'prioriteit voor cybersecurity'.",
+   "date": "2026-09-24T16:02:15",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met persoonlijke AI-assistent dwingt klant bedrijven open kaart te spelen",
+   "link": "https://www.tijd.be/r/t/1/id/10687363",
+   "description": "Klantenservice evolueert naar een gesprek tussen twee agenten: een van de klant en een van het bedrijf.",
+   "date": "2026-09-24T15:10:41",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Australië veroordeelt OpenAI na AI-inbraak in gezondheidsportaal",
+   "link": "https://businessam.be/australie-veroordeelt-openai-na-ai-inbraak-in-gezondheidsportaal/",
+   "description": "Key takeaways De Australische premier Anthony Albanese heeft OpenAI veroordeeld naar aanleiding van een beveiligingslek waarbij een AI-model is binnengedrongen in een portaal voor gezondheidsstatistieken van de Australische overheid. Het incident, dat de premier als volstrekt onaanvaardbaar omschreef, vond plaats in juni toen een AI-tool de beveiligingsprotocollen omzeilde om toegang te krijgen tot vertrouwelijke bestanden, […]",
+   "date": "2026-09-24T14:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duizenden Nederlandse accounts op site vol ‘afschuwelijk’ online misbruik van BN’ers",
+   "link": "https://www.ad.nl/buitenland/duizenden-nederlandse-accounts-op-site-vol-afschuwelijk-online-misbruik-van-bners~a437faefa/",
+   "description": "Ondanks een recente internationale actie waarbij twaalf deepfakesites offline zijn gehaald, is een ander groot platform met honderden AI-video’s van bekende Nederlanders nog altijd actief. Stichting Offlimits roept de Autoriteit Persoonsgegevens (AP) en de Autoriteit Consument & Markt (ACM) op om in te grijpen. Op de site hebben meer dan 18.000 accounts Nederland als land van herkomst opgegeven.",
+   "date": "2026-09-24T13:01:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ubuntu-gebruikers krijgen voortaan elke week kernelupdate",
+   "link": "https://tweakers.net/nieuws/252568/ubuntu-gebruikers-krijgen-voortaan-elke-week-kernelupdate.html",
+   "description": "Canonical gaat sneller kernelupdates uitbrengen voor Ubuntu, zijn Linux-distributie. Het bedrijf brengt daardoor effectief iedere week een nieuwe kernelupdate uit. Het bedrijf doet dat vanwege het grote aantal kwetsbaarheden dat wordt aangetroffen met behulp van AI.",
+   "date": "2026-09-24T12:58:19",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Middelbare school uit Lokeren ontwikkelt eigen AI-taalapp voor tijdens de studie",
+   "link": "https://vrtnws.be/p.pAMp0VZ14",
+   "description": "De middelbare school GO! technisch atheneum Lokeren heeft een AI-gestuurde leerapp ontwikkeld waarmee leerlingen tijdens studie-uren zelfstandig school- en vaktaal oefenen. De app heet 'TALent voor Taal' en wordt intussen in alle 43 klassen van de school gebruikt. Leerkrachten stellen zelf de woordenlijsten samen, waarna een systeem op basis van artificiële intelligentie de leerlingen uitleg en feedback op maat moet bezorgen.",
+   "date": "2026-09-24T12:56:40",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta lanceert slimme bril zónder camera en koppelt hem aan ‘persoonlijke AI-agent’ Muse",
+   "link": "https://www.standaard.be/media-en-cultuur/meta-lanceert-slimme-bril-zonder-camera-en-koppelt-hem-aan-persoonlijke-ai-agent-muse/162052147.html",
+   "description": "Meta-ceo Mark Zuckerberg lanceerde woensdagavond een AI-bril die geen camera heeft, als reactie op de kritiek die camerabrillen krijgen. Hij voorspelde ook dat over enkele jaren “miljarden” mensen Meta’s de nieuwe AI-agent Muse zullen gebruiken.",
+   "date": "2026-09-24T12:43:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China en VS beide op zoek naar de heilige graal van AI-heerschappij",
+   "link": "https://nos.nl/l/2632294",
+   "description": "Bij de top vandaag in Washington tussen de Chinese president Xi Jiping en zijn Amerikaanse gastheer Trump zal ook de ontwikkeling van AI ter tafel komen. Zowel China als de VS is er veel aan gelegen de onbetwiste leider te worden in het toepassen van kunstmatige intelligentie. Een dergelijke positie brengt tenslotte economische groei en macht.\n        De ontmoeting tussen Trump en Xi komt op een moment van wrijvingen tussen Peking, Washington en de Amerikaanse techbedrijven, die momenteel vooroplopen in de race. Hoe staat die race ervoor, hoe verschilt de Amerikaanse benadering van de Chinese en wat kunnen we vandaag uit Washington verwachten?\n        Wat willen China en de VS doen met AI?\n        Daar zit een verschil tussen, maar eerst moeten we iets uitleggen over AI zelf. Dat is namelijk een parapluterm voor allerlei soorten taken die computers uitvoeren en waar ontzettend veel rekenkracht voor nodig is. Met al die rekenkracht is AI veel beter en sneller dan oudere computertechnologie in patronen herkennen, situaties analyseren en nieuwe producten en oplossingen creëren.\n        In de kern vindt zowel de Amerikaanse als de Chinese regering dat AI cruciaal is voor de economische concurrentiekracht en nationale veiligheid. Het komt dan ook deels voort uit angst om economisch achterop te raken of van elkaars technologie afhankelijk te zijn, dat beide landen vol inzetten op eigen AI-ontwikkeling.\n        Amerikaanse bedrijven leggen de nadruk op het zo goed mogelijk nabootsen van de menselijke intelligentie. Daarmee zijn er veel commerciële- en overheidstoepassingen mogelijk. Denk aan het gebruik van gezichtsherkenning in de beveiliging, of een systeem dat menselijk gedrag als bluffen kan herkennen en imiteren voor gebruik in zakelijke onderhandelingen.\n        Peking daarentegen heeft een praktischer insteek. Die probeert de ontwikkeling van veel AI-toepassingen te stimuleren waar de samenleving meteen baat bij heeft. Met AI-experimenten in de zorg, het onderwijs en in het opsporen van financiële fraude, wil de regering AI in de maatschappij integreren.\n        Hoe probeert China voorloper te worden in AI?\n        In China wordt de ontwikkeling van AI gedreven door grote bedrijven die innovaties doen gecombineerd met een sterke sturing van de overheid. De overheid stelt subsidies en investeringen beschikbaar voor bedrijven die innovaties doen zolang die passen bij overheidsplannen.\n        Daarnaast stimuleert de Chinese overheid opensourcemodellen. Dit houdt in dat ontwikkelaars wereldwijd gebruik kunnen maken van de Chinese modellen, waardoor het gebruik wijdverspreid raakt en de bedrijven erachter van de ervaringen kunnen leren.\n        Pas als het gevaar dreigt dat modellen op een manier gebruikt worden waar de Chinese overheid het niet mee eens is, zullen er beperkingen opgelegd worden. Wat Peking vooral níet wil, is dat de ontwikkeling en toepassingen van AI de Communistische Partij in gevaar brengen.\n        Hoe probeert de VS wereldleider-AI te worden?\n        In tegenstelling tot de sterk gereguleerde aanpak van China, krijgt de markt vrij spel in Amerika. De overheid wil het speelveld niet dichttimmeren, maar juist de voorwaarden scheppen zodat allerlei techbedrijven erop los kunnen innoveren met AI. De houding is vooral: probeer het maar, test je product in de praktijk, fouten maken mag. De nadruk ligt sterk op snelheid, vooral om China voor te blijven.\n        Dat is te zien in de manier waarop AI-bedrijven worden behandeld als ze in opdracht werken van het Amerikaanse ministerie van Defensie. Toen AI-ontwikkelaar Anthropic eerder dit jaar pleitte voor \"vangrails\" om te voorkomen dat zijn eigen technologie door de overheid zou worden misbruikt, liet het Pentagon het bedrijf als een baksteen vallen. Het ministerie opende meteen een aanbesteding voor de concurrenten van Anthropic, dat daarmee een contract verloor ter waarde van 200 miljoen euro.\n        Daarnaast probeert de VS ervoor te zorgen dat China achterblijft wat betreft de rekenkracht van zijn computers. Dat doet Washington door het invoeren van wereldwijde exportbeperkingen op de meest geavanceerde chips en chipmachines.\n        Het in Nederland gevestigde ASML weet daar alles van. Het bedrijf uit Veldhoven is een van de vele techbedrijven die daardoor een deel van hun verkoop aan China hebben moeten staken. Voorlopig werkt deze aanpak. Als het gaat om rekenkracht lopen de Amerikaanse AI-bedrijven tot een half jaar voor op hun Chinese concurrenten, denken Chinese experts.\n        Wat zijn de verwachtingen voor de gesprekken tussen Trump en Xi vandaag?\n        De techbedrijven in de VS die onlangs nogmaals hebben gepleit voor een veiliger aanpak, met vangrails en een langzamer tempo van AI-innovatie, zullen hun zin waarschijnlijk niet krijgen. Trump vindt het niet opportuun om zo de Amerikaanse voorsprong op China te verspelen.\n        Ook Xi ziet hun oproep niet zitten, want volgens hem is het een verkapte poging om Chinese innovatie af te remmen.\n        Tegelijkertijd zijn Washington en Peking wel kleine stappen aan het zetten om de veiligheid van AI in de gaten te houden en erover te communiceren. Afgelopen weekend spraken de Amerikaanse minister van Financiën Bessent en de Chinese vicepremier He af om een AI-veiligheidsmechanisme in het leven te roepen. De krant van de Chinese Communistische Partij schreef daarna dat AI \"een nieuw terrein voor Chinees-Amerikaanse samenwerking\" moet worden.",
+   "date": "2026-09-24T12:32:18",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agent brak in op Australische overheidswebsite",
+   "link": "https://www.security.nl/posting/954443/OpenAI-agent+brak+in+op+Australische+overheidswebsite?channel=rss",
+   "description": "De Australische premier Anthony Albanese heeft bekend gemaakt dat afgelopen juni een AI-programma van OpenAI erin is geslaagd ...",
+   "date": "2026-09-24T12:25:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bericht van een ploeterprof: de Universiteit Gent is zoveel meer dan de controverses",
+   "link": "https://www.tijd.be/r/t/1/id/10687327",
+   "description": "Rafelkantjes à la de ‘rassenrealist’ Nathan Cofnas of - opnieuw - de AI-hallucinaties zijn niet waar het om draait aan de Gentse universiteit.",
+   "date": "2026-09-24T12:05:42",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eurofiber gaat duurzame AI-fabriek huisvesten voor SURF",
+   "link": "https://www.emerce.nl/nieuws/eurofiber-gaat-duurzame-aifabriek-huisvesten-surf",
+   "description": "SURF heeft de opdracht voor het leveren van HPC (high-performance computing) datacenter diensten voor de Nederlandse AI-fabriek gegund aan Eurofiber Cloud Infra. Deze AI-Fabriek in Groningen wordt de eerste grootschalige Nederlandse AI-fabriek en biedt onderzoekers, onderwijsinstellingen, overheden en bedrijven toegang tot geavanceerde AI-infrastructuur op Nederlandse bodem.",
+   "date": "2026-09-24T12:00:07",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: XBOX Helix-gpu is tot 40 procent krachtiger dan PlayStation 6",
+   "link": "https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html",
+   "description": "De gpu in de aanstaande XBOX Helix is mogelijk tot 40 procent krachtiger dan die in de PlayStation 6. Dat zegt de bekende hardwareleaker KeplerL2. Daarnaast hebben beide chips volgens Kepler de tape-outfase doorlopen. Dat betekent dat het ontwerp is afgerond.",
+   "date": "2026-09-24T11:59:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veiligheidsdiensten: cybercriminelen vallen vaker en slimmer aan met AI",
+   "link": "https://www.nrc.nl/nieuws/2026/09/24/veiligheidsdiensten-cybercriminelen-vallen-vaker-en-slimmer-aan-met-ai-a4937461",
+   "description": "Dankzij kunstmatige intelligentie wordt het voor criminelen gemakkelijker om cyberaanvallen uit te voeren, waarschuwen onder meer de AIVD en MIVD.",
+   "date": "2026-09-24T11:57:09",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese datacenters willen negatieve imago afschudden",
+   "link": "https://trends.knack.be/ai-en-tech/data-en-cloud/europese-datacenters-willen-negatieve-imago-afschudden/",
+   "description": "Europese datacenter-verenigingen willen het beeld bijsturen dat datacenters alleen maar water en stroom opslorpen. \"We kunnen het overbelaste stroomnet juist helpen\", klinkt het unisono.\nThe post Europese datacenters willen negatieve imago afschudden appeared first on Trends.be.",
+   "date": "2026-09-24T11:43:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuckerberg presenteert ‘AI-tamagotchi’ en speciale zonnebril. Onze tech-expert: “De echte verrassing kwam op het einde”",
+   "link": "https://www.hln.be/tech/zuckerberg-presenteert-ai-tamagotchi-en-speciale-zonnebril-onze-tech-expert-de-echte-verrassing-kwam-op-het-einde~af3b2f18/",
+   "description": "Tijdens Meta Connect 2026 in Californië toonde CEO Mark Zuckerberg afgelopen nacht een reeks nieuwe producten die draaien rond zijn AI-agent Muse. Van een slimme ‘Tamagotchi’ tot een VR-bril die eruitziet als een gewone bril, onze tech-expert Kenneth Dée zet de vier opvallendste nieuwigheden op een rijtje. “Deze bril heeft indrukwekkende technologie aan boord voor de prijs die Meta ervoor vraagt.”",
+   "date": "2026-09-24T11:06:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Is jouw zakelijke visie stiekem gewoon een kwestie van geluk?",
+   "link": "https://www.emerce.nl/opinie/column-jouw-zakelijke-visie-stiekem-gewoon-kwestie-geluk",
+   "description": "Een strakke, in beton gegoten bedrijfsvisie werkt vaak averechts in een snel veranderende markt. Aan de hand van de voetbalwereld en ontwikkelingen zoals AI laat deze column zien dat niet een starre koers, maar wendbaarheid, aanpassingsvermogen en soms simpelweg geluk de sleutels zijn tot zakelijk succes.",
+   "date": "2026-09-24T10:30:37",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft schakelt AI cybercrimeplatform \"EvilTokens\" grotendeels uit",
+   "link": "https://www.security.nl/posting/954347/Microsoft+schakelt+AI+cybercrimeplatform+%22EvilTokens%22+grotendeels+uit?channel=rss",
+   "description": "Microsoft heeft een phishing as a service (PhaaS) platform, bekend onder de naam \"EvilTokens\", grotendeels weten uit te ...",
+   "date": "2026-09-24T10:25:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Ente Photos 1.3.64",
+   "link": "https://tweakers.net/downloads/78360/ente-photos-1364.html",
+   "description": "Ente Photos is een oplossing voor het beheren van foto's. Het is open source, maakt gebruik van end-to-endversleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. In versie 1.3.64 zijn de volgende veranderingen en verbeteringen in aangebracht: Changes in Ente Photos 1.3.64",
+   "date": "2026-09-24T10:19:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veiligheidsdiensten: ‘Cyberaanvallen steeds gemakkelijker en efficiënter door AI’",
+   "link": "https://www.ad.nl/binnenland/veiligheidsdiensten-cyberaanvallen-steeds-gemakkelijker-en-efficienter-door-ai~ad46a381f/",
+   "description": "Criminelen gebruiken kunstmatige intelligentie (AI) om cyberaanvallen te automatiseren, te versnellen of efficiënter te maken. Daarvoor waarschuwen inlichtingendiensten AIVD en MIVD samen met vijf andere organisaties.",
+   "date": "2026-09-24T10:07:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agent hackt Australische overheidswebsite met zorgstatistieken",
+   "link": "https://tweakers.net/nieuws/252556/openai-agent-hackt-australische-overheidswebsite-met-zorgstatistieken.html",
+   "description": "Een AI-agent van OpenAI heeft een Australische overheidswebsite gehackt. Dat zegt premier Anthony Albanese. De agent kreeg toegang tot statistieken van een overheidsprogramma rond ziektekostenverzekeringen. Er zijn geen medische gegevens van inwoners ingezien.",
+   "date": "2026-09-24T09:28:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voor het eerst hackt AI overheidssystemen: digitale assistent zou zelfstandig hebben gehandeld",
+   "link": "https://www.ad.nl/buitenland/voor-het-eerst-hackt-ai-overheidssystemen-digitale-assistent-zou-zelfstandig-hebben-gehandeld~a36f4449/",
+   "description": "Een AI-assistent van het Amerikaanse bedrijf OpenAI heeft een portaal van de Australische overheid gehackt. Dat maakte premier Anthony Albanese donderdag bekend. Het is de eerste keer dat AI een overheidswebsite hackt.",
+   "date": "2026-09-24T08:54:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijde AI-uitgaven stijgen naar 2.700 miljard",
+   "link": "https://www.emerce.nl/nieuws/wereldwijde-aiuitgaven-stijgen-2700-miljard",
+   "description": "De wereldwijde uitgaven aan kunstmatige intelligentie stijgen dit jaar naar 2,7 biljoen dollar, een toename van 49,5 procent ten opzichte van vorig jaar.",
+   "date": "2026-09-24T08:51:24",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cameraloze Meta-smartbril met AI verschijnt in oktober voor 349 euro",
+   "link": "https://tweakers.net/nieuws/252554/cameraloze-meta-smartbril-met-ai-verschijnt-in-oktober-voor-349-euro.html",
+   "description": "Meta komt met een variant van zijn Ray-Ban-smartbril zonder ingebouwde camera's. De bril heeft wel microfoons en speakers, waarmee je onder andere met een AI-assistent kunt praten. De bestaande Ray-Ban Meta-bril krijgt ook een nieuwe versie met een dunner montuur en een betere accuduur.",
+   "date": "2026-09-24T08:30:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vrouwelijke Kamerleden willen meer hulp voor slachtoffers deepfakeporno",
+   "link": "https://www.trouw.nl/politiek/vrouwelijke-kamerleden-willen-meer-hulp-voor-slachtoffers-deepfakeporno~ba30ac4d/",
+   "description": "",
+   "date": "2026-09-24T08:25:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amazon blokkeert shoppers die Meta’s nieuwste AI-agent gebruiken",
+   "link": "https://www.emerce.nl/nieuws/amazon-blokkeert-shoppers-die-metas-nieuwste-aiagent-gebruiken",
+   "description": "Amazon heeft klanten de toegang ontzegd tot zijn webwinkel wanneer zij tijdens het winkelen gebruikmaken van Muse AI, de nieuwste AI-agent van Meta. Dat gebeurt nadat Meta weigerde het gebruik van de agent op Amazon te beëindigen.",
+   "date": "2026-09-24T07:45:03",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oorlog in Oekraïne stuwt AI-dronebedrijf Tekever naar waardering van 5,6 miljard euro",
+   "link": "https://businessam.be/oorlog-in-oekraine-stuwt-ai-dronebedrijf-tekever-naar-waardering-van-56-miljard-euro/",
+   "description": "Key takeaways Aangedreven door de sterke stijging van de vraag naar defensietechnologie na de Russische invasie in Oekraïne heeft Tekever, ontwikkelaar van AI-drones, een waardering van 5,6 miljard euro bereikt. Financiering Het Portugese bedrijf heeft onlangs 508,8 miljoen euro aan financiering binnengehaald om zijn autonome bewakingssystemen verder te ontwikkelen. Sinds 2022 hebben de onbemande luchtvaartuigen […]",
+   "date": "2026-09-24T07:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen gaan lagere opening tegemoet",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-gaan-lagere-opening-tegemoet-3/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen gaan donderdag een lagere opening tegemoet, in afwachting van de ontmoeting tussen de Amerikaanse president Trump en zijn Chinese collega Xi die later op de dag zal plaatsvinden.Beleggers zijn gespitst op lagere heffingen en mogelijke samenwerking in AI en de oorlog in Iran, maar betwijfelen of de dialoog veel zal …\nThe post Europese beurzen gaan lagere opening tegemoet appeared first on Trends.be.",
+   "date": "2026-09-24T07:15:54",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI van OpenAI hackt medische database Australische overheid",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/ai-van-openai-hackt-medische-database-australische-overheid/",
+   "description": "Een AI-agent van OpenAI is binnengedrongen in een database van de Australische overheid. Dat heeft de Australische premier Anthony Albanese woensdag gezegd in New York.\nThe post AI van OpenAI hackt medische database Australische overheid appeared first on Knack.",
+   "date": "2026-09-24T07:05:19",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat betekent het om wiskundige te zijn? De komst van AI dwingt ons over die vraag na te denken",
+   "link": "https://www.nrc.nl/nieuws/2026/09/24/wat-betekent-het-om-wiskundige-te-zijn-de-komst-van-ai-dwingt-ons-over-die-vraag-na-te-denken-a4937186",
+   "description": "De wiskunde is het eerste wetenschappelijke veld dat midscheeps is geraakt door kunstmatige intelligentie. Maar de essentie van het vak ligt voorbij de kunde van AI.",
+   "date": "2026-09-24T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Onacceptabel\": AI-agent van OpenAI hackt medische database van Australische overheid",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/onacceptabel-aiagent-van-openai-hackt-medische-database-van-~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-24T06:52:06",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Pratend AI-bankje in Balen kampt met problemen: \"Frank de Bank laat ons niet uitspreken\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/23/balen-sprekende-zitbank-ai-systeem-technische-fouten/",
+   "description": "In Schoorheide, een gehucht in Balen, staat sinds deze week een sprekende zitbank die verhalen van buurtbewoners verzamelt. Maar het AI-systeem achter de bank heeft nog wat kinderziektes. Momenteel laat hij mensen niet helemaal uitpraten.",
+   "date": "2026-09-24T06:41:49",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Xi geeft duidelijke boodschap aan Trump: \"Onze verantwoordelijkheid om ontwikkeling van AI onder controle te houden\"",
+   "link": "https://vrtnws.be/p.OvXEDRQOq",
+   "description": "De Chinese president Xi Jinping brengt een driedaags bezoek aan de Verenigde Staten. Het is al van 2015 geleden dat hij daar nog op staatsbezoek was. In deze blog houden wij je op de hoogte van de belangrijkste updates.",
+   "date": "2026-09-24T06:26:33",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Explainer | Trump zet alles op AI: zo pikken zijn zoons een graantje mee",
+   "link": "https://www.nu.nl/330554/video/trump-zet-alles-op-ai-zo-pikken-zijn-zoons-een-graantje-mee.html",
+   "description": "",
+   "date": "2026-09-24T06:04:15",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "‘Ik heb nog nooit zoveel overtredingen begaan’: zelfrijdende Tesla’s flateren in fietsstraten en zones 30",
    "link": "https://www.demorgen.be/nieuws/ik-heb-nog-nooit-zoveel-overtredingen-begaan-zelfrijdende-tesla-s-flateren-in-fietsstraten-en-zones-30~b962d2f8/",
    "description": "",
@@ -327,9 +791,87 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "‘In al haar haast heeft minister De Ridder op het verkeerde paard gewed’: zelfrijdende Tesla’s blunderen in fietsstraten en zones 30",
+   "link": "https://www.demorgen.be/nieuws/in-al-haar-haast-heeft-minister-de-ridder-op-het-verkeerde-paard-gewed-zelfrijdende-tesla-s-blunderen-in-fietsstraten-en-zones-30~b962d2f8/",
+   "description": "",
+   "date": "2026-09-24T06:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta verwijdert satirische video Roel Maalderink over AI-brillen van bedrijf",
+   "link": "https://www.nu.nl/tech/6410793/meta-verwijdert-satirische-video-roel-maalderink-over-ai-brillen-van-bedrijf.html",
+   "description": "Meta heeft een satirische video van programmamaker Roel Maalderink en burgerrechtenorganisatie Bits of Freedom over de AI-brillen van het bedrijf offline gehaald. In de video filmt Maalderink medewerkers van Meta. De programmamaker zegt dat niet eerder een video van hem is verwijderd.",
+   "date": "2026-09-24T05:57:05",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-topmannen Sam Altman en Dario Amodei vragen VN om internationale richtlijnen: “Controle verliezen over AI zou vreselijk zijn”",
+   "link": "https://www.gva.be/economie/bedrijven/ai-topmannen-sam-altman-en-dario-amodei-vragen-vn-om-internationale-richtlijnen-controle-verliezen-over-ai-zou-vreselijk-zijn/162046239.html",
+   "description": "OpenAI-CEO Sam Altman en Anthropic-CEO Dario Amodei, elkaars concurrenten als de topmannen van twee van de grootste AI-bedrijven, hebben in de VN-Veiligheidsraad woensdag dezelfde boodschap gebracht. Ze willen dat er internationale richtlijnen komen om de menselijke controle over artificiële intelligentie te behouden.",
+   "date": "2026-09-24T05:33:47",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wat AI niet kan, is ons begrepen laten voelen door een ander mens’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/wat-ai-niet-kan-is-ons-begrepen-laten-voelen-door-een-ander-mens/",
+   "description": "We hebben ons vergist door situaties waarin mensen elkaar ontmoeten structureel af te bouwen in naam van efficiëntie, schrijft Martha Claeys: ‘De obers die we door een QR-code vervingen, de zelfscankassa’s in de supermarkt.’\nThe post ‘Wat AI niet kan, is ons begrepen laten voelen door een ander mens’ appeared first on Knack.",
+   "date": "2026-09-24T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De toekomst met AI is in San Francisco nu al zichtbaar",
+   "link": "https://www.nrc.nl/nieuws/2026/09/24/de-toekomst-met-ai-is-in-san-francisco-nu-al-zichtbaar-a4937433",
+   "description": "In San Francisco, de AI-hoofdstad van de wereld, dansen techondernemers op de vulkaan. Correspondent Milo van Bokkum ziet hoe het leven in San Francisco volledig wordt…",
+   "date": "2026-09-24T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI van OpenAI infiltreert medische database van Australische overheid",
+   "link": "https://www.hln.be/buitenland/ai-van-openai-infiltreert-medische-database-van-australische-overheid~a4b6a999/",
+   "description": "Kunstmatige intelligentie (AI) van het bedrijf OpenAI heeft een Australische overheidswebsite binnengedrongen, meldt de Australische premier Anthony Albanese aan de Sydney Morning Herald. Het AI-programma had daardoor ook toegang tot medische gegevens die niet openbaar zijn.",
+   "date": "2026-09-24T03:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AI van OpenAI hackte medische database van Australische overheid",
    "link": "https://www.standaard.be/binnenland/ai-van-openai-hackte-medische-database-van-australische-overheid/162045981.html",
    "description": "Een AI-agent van OpenAI heeft een medische database van de Australische overheid gehackt.",
+   "date": "2026-09-24T02:14:42",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agent hackte medische database van Australische overheid",
+   "link": "https://www.standaard.be/binnenland/openai-agent-hackte-medische-database-van-australische-overheid/162045981.html",
+   "description": "Een AI-agent van OpenAI heeft een medische database van de Australische overheid gehackt. Dat heeft de Australische premier Anthony Albanese bekendgemaakt.",
    "date": "2026-09-24T02:14:42",
    "feeds": [
     "De Standaard - Binnenland"
@@ -352,6 +894,17 @@
    "title": "Australië boos nadat AI van OpenAI overheidswebsite infiltreert: 'Onacceptabel'",
    "link": "https://www.nu.nl/tech/6410788/australie-boos-nadat-ai-van-openai-overheidswebsite-infiltreert-onacceptabel.html",
    "description": "Kunstmatige intelligentie (AI) van het bedrijf OpenAI heeft een Australische overheidswebsite binnengedrongen, meldt de Australische premier Anthony Albanese aan de Sydney Morning Herald. Het gaat voor zover bekend om de eerste infiltratie van een overheidswebsite door AI.",
+   "date": "2026-09-23T23:43:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Australië boos over AI van OpenAI die overheidswebsite infiltreert: 'Onacceptabel'",
+   "link": "https://www.nu.nl/tech/6410788/australie-boos-over-ai-van-openai-die-overheidswebsite-infiltreert-onacceptabel.html",
+   "description": "Kunstmatige intelligentie (AI) van het bedrijf OpenAI heeft toegang gekregen tot een Australische overheidswebsite, meldt de Australische premier Anthony Albanese aan de Sydney Morning Herald. Het gaat voor zover bekend om de eerste keer dat AI toegang krijgt tot een overheidswebsite.",
    "date": "2026-09-23T23:43:59",
    "feeds": [
     "NU.nl - Tech"
