@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T03:09:11",
+ "generated": "2026-09-25T17:43:31",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 158,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 84,
    "error": null
   },
   {
@@ -316,12 +316,355 @@
  ],
  "articles": [
   {
+   "title": "De persoonlijke assistent van Meta uitgetest: 'Muse is de enige AI-agent die weet wie mijn moeder is'",
+   "link": "https://www.tijd.be/r/t/1/id/10687277",
+   "description": "Met zijn persoonlijke AI-assistent Muse loopt Meta plots weer vooraan in de AI-race. Pieter Gunst, techondernemer in Silicon Valley, snapt de hype. 'De app is verbazingwekkend menselijk in de omgang. Maar de oorlog tussen de assistenten is pas begonnen.'",
+   "date": "2026-09-25T17:12:23",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-datacenter in de ruimte: Google lanceert testsatelliet op 1 oktober",
+   "link": "https://www.hln.be/tech/ai-datacenter-in-de-ruimte-google-lanceert-testsatelliet-op-1-oktober~ae20ea95/",
+   "description": "Google wil op 1 oktober een testsatelliet lanceren als onderdeel van Project Suncatcher. De satelliet beschikt over Googles eigen Tensor-AI-processors om berekeningen rond kunstmatige intelligentie uit te voeren. De techgigant wil uit het experiment leren om een grootschalig datacenter van satellieten in de ruimte te realiseren.",
+   "date": "2026-09-25T17:08:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gravity Linux voor Apple is Asahi-fork die vibecoden wél toelaat",
+   "link": "https://tweakers.net/nieuws/252622/gravity-linux-voor-apple-is-asahi-fork-die-vibecoden-wel-toelaat.html",
+   "description": "Een groep ontwikkelaars heeft een vroege alfabuild van Gravity Linux vrijgegeven, een distro die gericht is op Mac-apparaten met Apples eigen M-soc. Gravity is een fork van Asahi, maar dan eentje waarin de ontwikkelaars wél mogen programmeren met behulp van llm's en AI. Dat is bij Asahi expliciet verboden. Gravity is een Fedora-distro met KDE.",
+   "date": "2026-09-25T16:58:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Toch weer de T-800 uit Terminator: waarom de AI-apocalyps zo op Hollywood-scifi lijkt",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/toch-weer-de-t-800-uit-terminator-waarom-de-ai-apocalyps-zo-op-hollywood-scifi-lijkt-a4937270",
+   "description": "Hoe zal de AI-apocalyps eruit zien? Wordt de mensheid vernietigd door boosaardige robots of toch maar gewoon door een kernoorlog? Sciencefictionfilms uit Hollywood leverden al de scenario’s voor de wereldondergang voordat AI in het dagelijks leven een rol ging spelen.",
+   "date": "2026-09-25T16:25:11",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Witte Huis verzoekt AI-bedrijven om modellen niet te delen met VK'",
+   "link": "https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html",
+   "description": "Het Witte Huis heeft OpenAI en Anthropic gevraagd om nieuwe AI-modellen niet meteen te delen met de testinstantie van de Britse overheid. Amerika wil de modellen eerst zelf testen. Dat meldt Politico op basis van anonieme bronnen.",
+   "date": "2026-09-25T16:24:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De knelpunten van de begroting en waarom onze politici zwijgen over de gevaren van AI: beluister de podcast Tussen Wetstraat en Wall Street",
+   "link": "https://www.knack.be/nieuws/belgie/politiek/de-knelpunten-van-de-begroting-en-waarom-onze-politici-zwijgen-over-de-gevaren-van-ai-beluister-de-podcast-tussen-wetstraat-en-wall-street/",
+   "description": "Terwijl de Wetstraat zich vastbijt in begrotingstabellen, subsidies en mogelijke belastingverhogingen, groeit de onrust over een heel ander dossier: artificiële intelligentie. Bert Bultinck van Knack en Jan De Meulemeester van Trends laten deze week hun licht schijnen over onze begroting, de waterfactuur en de risico’s van AI.\nThe post De knelpunten van de begroting en waarom onze politici zwijgen over de gevaren van AI: beluister de podcast Tussen Wetstraat en Wall Street appeared first on Knack.",
+   "date": "2026-09-25T16:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De grote vraag voor de opinieredactie: wat vinden we acceptabel AI-gebruik?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/de-grote-vraag-voor-de-opinieredactie-wat-vinden-we-acceptabel-ai-gebruik-a4937272",
+   "description": "In de tientallen opiniestukken die NRC dagelijks binnenkrijgt, duiken steeds vaker sporen op van AI-gebruik. De redactie kan de technologische revolutie niet tegenhouden, maar zoekt evengoed naar manieren om ervoor te zorgen dat de tekst op de pagina’s afkomstig is van een mens, en niet van een machine.",
+   "date": "2026-09-25T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Niet AI, maar de mens bepaalt hoe ver AI kan gaan",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/niet-ai-maar-de-mens-bepaalt-hoe-ver-ai-kan-gaan-a4937041",
+   "description": "Zorgwekkende AI-incidenten zoals de digitale inbraak bij Hugging Face wakkeren de angst aan voor systemen die ‘ontsnappen’ en ‘samenzweren’. Volgens Roy Lindelauf en Eric Postma schept zulke vermenselijking een verkeerd beeld van de gevaren van AI.",
+   "date": "2026-09-25T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Grootste Franse boekenprijs verwijdert bestseller van shortlist: \"Waarschijnlijk grotendeels het product van AI\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/25/thelyson-orelien-roman-ai-goncourt/",
+   "description": "De bestseller 'C’était ça ou mourir' van de Canadees-Haïtiaanse schrijver Thélyson Orélien mag niet langer meedingen naar de Goncourt, de grootste Franse letterenprijs. Het boek is \"naar alle waarschijnlijk voor een zeer groot deel het product van artificiële intelligentie\" en wordt geschrapt van de shortlist.",
+   "date": "2026-09-25T15:57:36",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Grootste Franse boekenprijs verwijdert bestseller van shortlist: \"Waarschijnlijk grotendeels het product van AI\"",
+   "link": "https://vrtnws.be/p.LNDvKXJXv",
+   "description": "De bestseller 'C’était ça ou mourir' van de Canadees-Haïtiaanse schrijver Thélyson Orélien mag niet langer meedingen naar de Goncourt, de grootste Franse letterenprijs. Het boek is \"naar alle waarschijnlijk voor een zeer groot deel het product van artificiële intelligentie\" en wordt geschrapt van de shortlist.",
+   "date": "2026-09-25T15:57:36",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "WiCi One-behuizing laat RTX-gpu's draadloos verbinding maken met pc via Wi-Fi 7",
+   "link": "https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html",
+   "description": "Een fabrikant komt met een gpu-behuizing waarmee RTX-videokaarten draadloos verbinding kunnen maken met apparaten als laptops. Volgens de fabrikant zien apparaten de draadloze egpu als een 'gewone' videokaart in plaats van als een losse streaming-pc.",
+   "date": "2026-09-25T15:23:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe beschuldigingen van plagiaat: aan AI gelinkte auteur Thélyson Orélien uit selectie Prix Goncourt geschrapt, promotietour geannuleerd",
+   "link": "https://www.standaard.be/media-en-cultuur/nieuwe-beschuldigingen-van-plagiaat-aan-ai-gelinkte-auteur-thelyson-orelien-uit-selectie-prix-goncourt-geschrapt-promotietour-geannuleerd/162141842.html",
+   "description": "De Canadees-Haïtiaanse schrijver Thélyson Orélien, die voor zijn bekroonde roman ‘C’était ça ou mourir’ AI zou hebben gebruikt, is deze week in Canada genoemd in twee plagiaatzaken. Daarop weerde de Prix Goncourt hem uit zijn selectie en annuleerde zijn uitgeverij zijn promotietournee.",
+   "date": "2026-09-25T14:45:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google stuurt AI-processors de ruimte in om mogelijke datacenters in een baan om de aarde te testen",
+   "link": "https://businessam.be/google-stuurt-ai-processors-de-ruimte-in-om-mogelijke-datacenters-in-een-baan-om-de-aarde-te-testen/",
+   "description": "Key takeaways Als eerste stap op weg naar de realisatie van datacenters in een baan om de aarde zet Google vier van zijn gespecialiseerde AI-processors in de ruimte in. Dit experiment heeft tot doel te beoordelen of de hardware bestand is tegen de extreme belastingen tijdens de opstijging van een raket en de barre omstandigheden […]",
+   "date": "2026-09-25T14:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Als de robot trappen en slagen uitdeelt",
+   "link": "https://www.tijd.be/r/t/1/id/10687136",
+   "description": "Vooraleer humanoïde robots een kaskraker kunnen worden in onze huiskamers, moeten ze extreem veilig zijn. De klassieke industrie-oplossing, de noodstop, volstaat niet.",
+   "date": "2026-09-25T14:02:03",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft voegt programmeertool en OpenClaw-achtige agent toe aan Copilot-app",
+   "link": "https://tweakers.net/nieuws/252606/microsoft-voegt-programmeertool-en-openclaw-achtige-agent-toe-aan-copilot-app.html",
+   "description": "Microsoft komt met verschillende vernieuwingen voor de Copilot-app. Het bedrijf integreert de programmeertool GitHub Copilot in de app. Daarnaast introduceert Microsoft Autopilot. Deze OpenClaw-achtige AI-agent moet non-stop op de achtergrond taken kunnen uitvoeren.",
+   "date": "2026-09-25T14:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In tijden van AI wil <em>NRC </em>laten zien dat echte mensen de journalistiek maken",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/in-tijden-van-ai-wil-nrc-laten-zien-dat-echte-mensen-de-journalistiek-maken-a4937399",
+   "description": "Journalisten van NRC zijn steeds vaker te horen in podcasts en te zien in YouTube-video's, merkt Hester van Santen. Willen die journalisten dat zelf wel?",
+   "date": "2026-09-25T12:43:06",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google wil in oktober eerste testsatelliet voor ruimtedatacenter lanceren",
+   "link": "https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html",
+   "description": "Google wil op 1 oktober zijn eerste testsatelliet lanceren in het kader van Project Suncatcher. Het is de bedoeling dat er uiteindelijk een satellietconstellatie komt met de gezamenlijke rekenkracht van een volwaardig AI-datacenter.",
+   "date": "2026-09-25T12:06:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Xi’s bezoek aan VS levert mooie beelden op, maar doorbraken over handel of AI blijven uit",
+   "link": "https://www.tijd.be/r/t/1/id/10687460",
+   "description": "Het staatsbezoek van de Chinese president Xi Jinping aan de VS leverde geen doorbraken op, behalve een verlenging van het bestand in de handelsoorlog. Dat zegt alles: voor de Amerikaanse president Donald Trump telde vooral het uiterlijk vertoon.",
+   "date": "2026-09-25T11:49:58",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistral via overname leverancier van marketingcampagnes",
+   "link": "https://www.emerce.nl/nieuws/mistral-via-overname-leverancier-marketingcampagnes",
+   "description": "Het Franse AI-bedrijf Mistral doet zijn derde overname dit jaar en wordt, via acquisitie Pimento, actief in het maken en optimaliseren van online marketingcampagnes.",
+   "date": "2026-09-25T10:50:43",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlands hackerscollectief DIVD meldt hack, gaat uit van 'worstcasescenario'",
+   "link": "https://tweakers.net/nieuws/252598/nederlands-hackerscollectief-divd-meldt-hack-gaat-uit-van-worstcasescenario.html",
+   "description": "Het Nederlandse hackerscollectief DIVD is slachtoffer geworden van een hack, vermoedelijk uitgevoerd door AI-agents. De precieze impact is nog onduidelijk, maar het DIVD zegt voorlopig uit te gaan van het 'worstcasescenario'.",
+   "date": "2026-09-25T10:48:03",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Christophe Fouquet van ASML is verkozen tot Europese Manager van het Jaar 2025",
+   "link": "https://trends.knack.be/ondernemen/christophe-fouquet-asml-europese-manager/",
+   "description": "Christophe Fouquet, de CEO en voorzitter van ASML, is donderdag verkozen tot Europese Manager van het Jaar. \"Fouquet heeft technologische ambitie gecombineerd met gedisciplineerd management.\"\nThe post Christophe Fouquet van ASML is verkozen tot Europese Manager van het Jaar 2025 appeared first on Trends.be.",
+   "date": "2026-09-25T10:37:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropics eigen laboratorium meldt een eerste wetenschappelijke ‘ontdekking’: hype of hoopgevend?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/anthropics-eigen-laboratorium-meldt-eerste-wetenschappelijke-ontdekking-hype-of-hoopvol-a4937475",
+   "description": "In het voorjaar opende Anthropic stilletjes een eigen laboratorium. Daarmee is de AI-gigant nu ook een biotechbedrijf geworden. Topman Amodei gelooft dat AI „in de komende vijf tot tien jaar alle grote ziektes kan genezen”. En nu is er een eerste ‘ontdekking’.",
+   "date": "2026-09-25T10:08:55",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Overheid waarschuwt voor dreiging van AI: 'Vereist meer bewustwording'",
+   "link": "https://www.security.nl/posting/954529/Overheid+waarschuwt+voor+dreiging+van+AI%3A+%27Vereist+meer+bewustwording%27?channel=rss",
+   "description": "De overheid waarschuwt organisaties voor de dreiging van AI en stelt dat dit meer bewustwording en ander leiderschap vereist. ...",
+   "date": "2026-09-25T09:35:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Securex lijft Antwerps AI-bedrijf Faktion in",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/securex-lijft-antwerps-ai-bedrijf-faktion-in/",
+   "description": "Securex heeft een meerderheidsbelang genomen in het Antwerpse AI-bedrijf Faktion. Dat meldt de Belgische hr-dienstverlener. Hoeveel die neertelt, is niet bekend.\nThe post Securex lijft Antwerps AI-bedrijf Faktion in appeared first on Trends.be.",
+   "date": "2026-09-25T09:30:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lege aula’s in de informatica: ‘AI bedreigt niet de job, wel de eerste job’",
+   "link": "https://trends.knack.be/ai-en-tech/lege-aulas-in-de-informatica-ai-bedreigt-niet-de-job-wel-de-eerste-job/",
+   "description": "Nergens heeft AI zich zo snel ingeburgerd als in de softwareontwikkeling. En dat laat zich al merken in de informatica-opleidingen. Volgens Wim Casteels bedreigt AI zo wel degelijk de eerste job.\nThe post Lege aula’s in de informatica: ‘AI bedreigt niet de job, wel de eerste job’ appeared first on Trends.be.",
+   "date": "2026-09-25T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Miljardengok pakt fenomenaal uit: Griekse scheepvaartkoningin ziet fortuin exploderen",
+   "link": "https://www.hln.be/economie/miljardengok-pakt-fenomenaal-uit-griekse-scheepvaartkoningin-ziet-fortuin-exploderen~a82ece56/",
+   "description": "De rijkste vrouw op zee: zo kan je Maria Angelicoussis (44) omschrijven. De Griekse scheepsmagnaat  bezit een grote vloot tankers en bulkschepen. Toch sloot ze haar meest lucratieve deal op de beurs van Wall Street. Haar miljardengok op techbedrijf Nvidia bleek een schot in de roos.",
+   "date": "2026-09-25T08:39:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI-agent die plots “ontsnapt” is? Zo’n model doet exact wat gevraagd wordt’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/ai-agent-die-plots-ontsnapt-is-zon-model-doet-exact-wat-gevraagd-wordt/",
+   "description": "Wim Casteels staat stil bij het opvallend menselijk taalgebruik dat plots gebruikt wordt wanneer er problemen opduiken met artificiële intelligentie die \"op eigen houtje\" aan het hacken gaat.\nThe post ‘AI-agent die plots “ontsnapt” is? Zo’n model doet exact wat gevraagd wordt’ appeared first on Knack.",
+   "date": "2026-09-25T08:30:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft lijkt af te stappen van Copilot+-merknaam voor Windows-pc's",
+   "link": "https://tweakers.net/nieuws/252594/microsoft-lijkt-af-te-stappen-van-copilot+-merknaam-voor-windows-pcs.html",
+   "description": "Microsoft lijkt te stoppen met de merknaam Copilot+ voor systemen die krachtig genoeg zijn om specifieke AI-rekentaken uit te voeren. De nieuwe Surface-laptops worden niet Copilot+-pc's genoemd, hoewel ze wel aan de hardwarevereisten voldoen. Ook Qualcomm verwacht dat de merknaam bij toekomstige pc's verdwijnt.",
+   "date": "2026-09-25T08:28:56",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | She Goes ICT: Wat rolmodellen in tech in beweging zetten",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-she-goes-ict-wat-rolmodellen-in-tech-in-beweging-zetten/",
+   "description": "She Goes ICT, het evenement van Trends DataNews waarmee we diversiteit in de technologiesector willen bevorderen, krijgt volgend jaar zijn negentiende editie. Welke impact kan zo’n award jaren later nog hebben? En waarom blijven initiatieven voor meer vrouwen in technologie nodig? Een gesprek met voormalige winnaressen Valerie Taerwe en Dewi Van De Vyver.\nThe post AI & Tech-podcast | She Goes ICT: Wat rolmodellen in tech in beweging zetten appeared first on Trends.be.",
+   "date": "2026-09-25T07:59:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Emerce zoekt tien start-ups voor Start-up Alley op EDAY en AI Live",
+   "link": "https://www.emerce.nl/nieuws/emerce-zoekt-tien-startups-startup-alley-eday-ai-live",
+   "description": "Op Emerce EDAY (5 november, Amsterdam) en AI Live (17 november, Rotterdam) is er plek voor tien veelbelovende start-ups om zich te presenteren aan het publiek. Ondernemers kunnen zich aanmelden voor de selectie.",
+   "date": "2026-09-25T06:39:19",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oorlog in Oekraïne toont aan dat volledig autonome AI-wapens het slagveld voor altijd zullen veranderen",
+   "link": "https://businessam.be/oorlog-in-oekraine-toont-aan-dat-volledig-autonome-ai-wapens-het-slagveld-voor-altijd-zullen-veranderen/",
+   "description": "Key takeaways Het conflict in Oekraïne heeft de aard van moderne oorlogsvoering fundamenteel veranderd door het uitgebreide gebruik van onbemande luchtvaartuigen. Hoewel beide landen al aanzienlijke verwoesting hebben aangericht met dronevloten – zoals blijkt uit de grootschalige aanvallen van Oekraïne op Moskou en de Russische aanvallen die NAVO-alarmen hebben geactiveerd – gaat de oorlog nu […]",
+   "date": "2026-09-25T06:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Waarom het tijd is om moord en brand te schreeuwen over AI",
    "link": "https://www.demorgen.be/meningen/waarom-het-tijd-is-om-moord-en-brand-te-schreeuwen-over-ai~b11bbf2b/",
    "description": "",
    "date": "2026-09-25T03:00:18",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-09-25",
    "intro_geprobeerd": true
@@ -430,6 +773,17 @@
    "title": "AI-datacenters kloppen het record van de spoorwegen in Amerika: nooit was een investeringsgolf groter",
    "link": "https://www.standaard.be/economie/ai-datacenters-kloppen-het-record-van-de-spoorwegen-in-amerika-nooit-was-een-investeringsgolf-groter/162080382.html",
    "description": "Geen enkele investeringsgolf was zo groot als de bouw van datacenters nu in de VS. Zelfs de bouw van de spoorwegen in de 19de eeuw stelde in verhouding tot de toenmalige economie veel minder voor, berekende professor Stijn Van Nieuwerburgh.",
+   "date": "2026-09-24T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het stormt op de obligatiemarkten en dat is slecht nieuws voor wie een huis wil kopen",
+   "link": "https://www.standaard.be/economie/het-stormt-op-de-obligatiemarkten-en-dat-is-slecht-nieuws-voor-wie-een-huis-wil-kopen/162091154.html",
+   "description": "De forse stijging van de langetermijnrentetarieven op de kapitaalmarkten ondergraaft de waarde van de obligatiemarkten. De rentehausse wordt mee in de hand gewerkt door de enorme vraag naar geld vanuit de AI-wereld.",
    "date": "2026-09-24T19:00:00",
    "feeds": [
     "De Standaard - Economie"
