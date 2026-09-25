@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T17:42:07",
+ "generated": "2026-09-25T03:09:11",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 33,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 160,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 94,
    "error": null
   },
   {
@@ -316,6 +316,184 @@
  ],
  "articles": [
   {
+   "title": "Waarom het tijd is om moord en brand te schreeuwen over AI",
+   "link": "https://www.demorgen.be/meningen/waarom-het-tijd-is-om-moord-en-brand-te-schreeuwen-over-ai~b11bbf2b/",
+   "description": "",
+   "date": "2026-09-25T03:00:18",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Kunnen we de macht van big tech weerstaan met een verschuiving naar lokale AI?",
+   "link": "https://www.standaard.be/opinies/kunnen-we-de-macht-van-big-tech-weerstaan-met-een-verschuiving-naar-lokale-ai/162066366.html",
+   "description": "We doen er goed aan zelf vertrouwd te worden met de technologie achter AI, stelt Simon Beel. Met lokale, offline modellen kunnen we onze afhankelijkheid van big tech afbouwen.",
+   "date": "2026-09-24T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta surft verder op Muse-enthousiasme op volatiel Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10687370",
+   "description": "Door een volatiele olieprijs heeft Wall Street tussen winst en verlies geschommeld. De Amerikaanse 30-jarige rente bereikte het hoogste peil in 22 jaar. Meta bleef profiteren van het enthousiasme rond AI-agent Muse.",
+   "date": "2026-09-24T22:04:20",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ilyaz Nasrullah: We lossen de maatschappelijke problemen niet op door zo veel geld te verkwanselen in de AI-industrie",
+   "link": "https://www.trouw.nl/verdieping/ilyaz-nasrullah-we-lossen-de-maatschappelijke-problemen-niet-op-door-zo-veel-geld-te-verkwanselen-in-de-ai-industrie~b75b31b3/",
+   "description": "",
+   "date": "2026-09-24T22:00:15",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta komt met Tamagotchi-gadget om zijn AI dichter bij mensen te brengen",
+   "link": "https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html",
+   "description": "Meta brengt in december in de VS een wearable uit waarin het zijn AI-agent Muse in een schattig jasje steekt. Ceo Mark Zuckerberg onthulde de Muse Charm, die vooral bedoeld zou zijn om vast te houden. Het ontwerp is van voormalige Apple-werknemers, die eind vorig jaar overstapten naar Meta.",
+   "date": "2026-09-24T21:19:31",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jan Segers: “Kunnen schrijven is voortaan geen vereiste meer om in de literaire prijzen te vallen. Vraag het gewoon aan AI”",
+   "link": "https://www.hln.be/opinie/jan-segers-kunnen-schrijven-is-voortaan-geen-vereiste-meer-om-in-de-literaire-prijzen-te-vallen-vraag-het-gewoon-aan-ai~a1b0cf39/",
+   "description": "Moet je zelf nog kunnen schrijven om in de literaire prijzen te vallen? Columnist Jan Segers, master in de Franse literatuur, vraagt het zich af nu blijkt dat dé Franstalige succesroman van het moment niet is geschreven door de Haïtiaans-Canadese auteur, maar voor 100% het werk is van AI. Zo goed en schijnbaar authentiek schrijft artificiële intelligentie vandaag dat ze het romantische beeld van de schrijver, onvervangbaar en niet te kopiëren, ontheiligt. Maar is dat erg?",
+   "date": "2026-09-24T20:50:27",
+   "feeds": [
+    "HLN - Opinie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kunnen de VS en China een moreel kompas op AI zetten?",
+   "link": "https://www.tijd.be/r/t/1/id/10687417",
+   "description": "Een nieuw incident in Australië maakt urgenter dan ooit duidelijk hoe er vangrails nodig zijn bij de ontwikkeling van artificiële intelligentie. Op een Chinees-Amerikaanse top in Washington leefde er donderdag niet meteen hoop dat die er komen.",
+   "date": "2026-09-24T20:30:24",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Slimme Samsung-koelkasten werken niet meer na verkeerde update in Zuid-Korea",
+   "link": "https://www.hln.be/tech/slimme-samsung-koelkasten-werken-niet-meer-na-verkeerde-update-in-zuid-korea~a891a27e/",
+   "description": "Samsung heeft begin deze week een update uitgebracht die ervoor zorgt dat bepaalde koelkasten van het merk stoppen met werken in Zuid-Korea. Het probleem lijkt vooral koelkasten te treffen van het type Bespoke AI 4-Door.",
+   "date": "2026-09-24T19:17:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe hackincidenten AI-agents terwijl topmannen bij VN pleiten voor regels",
+   "link": "https://www.demorgen.be/nieuws/nieuwe-hackincidenten-ai-agents-terwijl-topmannen-bij-vn-pleiten-voor-regels~b96272bc/",
+   "description": "",
+   "date": "2026-09-24T19:05:55",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Het stormt op de obligatiemarkten en dat is slecht nieuws voor wie geld wil lenen",
+   "link": "https://www.standaard.be/economie/het-stormt-op-de-obligatiemarkten-en-dat-is-slecht-nieuws-voor-wie-geld-wil-lenen/162091154.html",
+   "description": "De forse stijging van de langetermijnrentetarieven op de kapitaalmarkten ondergraaft de waarde van de obligatiemarkten. De rentehausse wordt mee in de hand gewerkt door de enorme vraag naar geld vanuit de AI-wereld.",
+   "date": "2026-09-24T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-datacenters kloppen het record van de spoorwegen in Amerika: nooit was een investeringsgolf groter",
+   "link": "https://www.standaard.be/economie/ai-datacenters-kloppen-het-record-van-de-spoorwegen-in-amerika-nooit-was-een-investeringsgolf-groter/162080382.html",
+   "description": "Geen enkele investeringsgolf was zo groot als de bouw van datacenters nu in de VS. Zelfs de bouw van de spoorwegen in de 19de eeuw stelde in verhouding tot de toenmalige economie veel minder voor, berekende professor Stijn Van Nieuwerburgh.",
+   "date": "2026-09-24T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agent van OpenAI hackt Australische overheid; diverse landen willen internationaal toezicht op AI",
+   "link": "https://www.nrc.nl/nieuws/2026/09/24/agent-van-openai-hackt-australische-overheid-diverse-landen-willen-internationaal-toezicht-op-ai-a4937472",
+   "description": "AI-agents hebben, volgens de makers ‘onbedoeld’, voor het eerst een overheidswebsite gekraakt. Bij de Verenigde Naties staan de risico’s van kunstmatige intelligentie nu hoog op de agenda. Diverse landen willen internationaal toezicht op AI.",
+   "date": "2026-09-24T18:53:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle keldert 7 procent door onzekerheid over datacentrum",
+   "link": "https://www.standaard.be/economie/beurs/oracle-keldert-7-procent-door-onzekerheid-over-datacentrum/162124257.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Vandaag op de beurs’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-09-24T18:30:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Interessant, al die gedachte-experimenten over AI, maar het échte gevaar wordt overschaduwd",
+   "link": "https://www.volkskrant.nl/columns-van-de-dag/interessant-al-die-gedachte-experimenten-over-ai-maar-het-echte-gevaar-wordt-overschaduwd~bc965a57/",
+   "description": "",
+   "date": "2026-09-24T18:00:12",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Antwerpse profs waarschuwen nu aantal informaticastudenten in vrije val is: “Wie gaat al die AI dan nog aansturen?”",
+   "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/antwerpse-profs-waarschuwen-nu-aantal-informaticastudenten-in-vrije-val-is-wie-gaat-al-die-ai-dan-nog-aansturen/161888637.html",
+   "description": "Het aantal studenten Informatica aan de Universiteit Antwerpen is in twee jaar tijd meer dan gehalveerd. “Dat is een probleem. Zo zullen er steeds minder mensen zijn die artificiële intelligentie kunnen aansturen, net nu bedrijven massaal AI zullen gaan inzetten”, waarschuwt Bart Goethals, professor Computerwetenschappen aan de Universiteit Antwerpen.",
+   "date": "2026-09-24T18:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veiligheidsdiensten vrezen AI-aanvallen op Nederland: 'Het is bijna een wanhoopskreet'",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/veiligheidsdiensten-vrezen-ai-aanvallen-op-nederland-het-is-bijna-een-wanhoopskreet~b16fb745/",
+   "description": "",
+   "date": "2026-09-24T17:46:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-25",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Xi geeft duidelijke boodschap aan Trump: \"Onze verantwoordelijkheid om ontwikkeling van AI onder controle te houden\"",
    "link": "https://www.vrt.be/vrtnws/nl/liveblog/xi-geeft-duidelijke-boodschap-aan-trump-onze-verantwoordelijkh~1790221115060/",
    "description": "De Chinese president Xi Jinping brengt een driedaags bezoek aan de Verenigde Staten. Het is al van 2015 geleden dat hij daar nog op staatsbezoek was. In deze blog houden wij je op de hoogte van de belangrijkste updates.",
@@ -346,6 +524,17 @@
     "Volkskrant - Tech"
    ],
    "first_seen": "2026-09-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Terwijl topman OpenAI bij VN pleit voor regulering, wordt bekend dat zijn AI-agenten Australische overheid hebben gehackt",
+   "link": "https://www.volkskrant.nl/tech/terwijl-topman-openai-bij-vn-pleit-voor-regulering-wordt-bekend-dat-zijn-ai-agenten-australische-overheid-hebben-gehackt~b96272bc/",
+   "description": "",
+   "date": "2026-09-24T17:12:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-25",
    "intro_geprobeerd": true
   },
   {
