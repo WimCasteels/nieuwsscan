@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T03:12:48",
+ "generated": "2026-09-26T16:52:34",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 32,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 37,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,294 @@
   }
  ],
  "articles": [
+  {
+   "title": "Literaire uitgevers hebben het liever niet over hun AI-beleid. ‘Verantwoordelijkheid ligt bij de auteur’",
+   "link": "https://www.trouw.nl/cultuur-media/literaire-uitgevers-hebben-het-liever-niet-over-hun-ai-beleid-verantwoordelijkheid-ligt-bij-de-auteur~b7cce0e5/",
+   "description": "",
+   "date": "2026-09-26T16:16:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "China en VS beloven elkaar op de hoogte te houden van incidenten met AI",
+   "link": "https://www.nu.nl/economie/6411093/china-en-vs-beloven-elkaar-op-de-hoogte-te-houden-van-incidenten-met-ai.html",
+   "description": "China en de Verenigde Staten hebben afgesproken om elkaar via een communicatiekanaal op de hoogte te houden van incidenten met AI. De twee landen zijn koplopers op vlak van de technologie. De voorbije maanden waren er meerdere incidenten met AI.",
+   "date": "2026-09-26T15:29:10",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Arthur Mensch, ceo van de Franse start-up Mistral AI: ‘AI is software en kan dus worden gecontroleerd’ (via Le Monde)",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/arthur-mensch-ceo-van-de-franse-start-up-mistral-ai-ai-is-software-het-kan-worden-gecontroleerd-via-le-monde/",
+   "description": "Volgens Arthur Mensch, medeoprichter van Mistral AI, manipuleren de Amerikaanse techgiganten het debat over de risico’s van artificiële intelligentie.\nThe post Arthur Mensch, ceo van de Franse start-up Mistral AI: ‘AI is software en kan dus worden gecontroleerd’ (via Le Monde) appeared first on Knack.",
+   "date": "2026-09-26T15:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Democraten plannen grootschalig onderzoek naar regering-Trump • VS en China gaan communicatiekanaal opzetten voor AI-incidenten",
+   "link": "https://www.demorgen.be/snelnieuws/live-vs-en-china-gaan-communicatiekanaal-opzetten-voor-ai-incidenten-hooggerechtshof-wijst-nieuwe-kiesdistricten-missouri-af~b13cc951/",
+   "description": "",
+   "date": "2026-09-26T14:33:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "TikTok sluit schikking met Alabama over veiligheid van minderjarigen voor meer dan 85 miljoen euro",
+   "link": "https://businessam.be/tiktok-sluit-schikking-met-alabama-over-veiligheid-van-minderjarigen-voor-meer-dan-85-miljoen-euro/",
+   "description": "Key takeaways De juridische strijd begon in 2025, toen Alabama beweerde dat het ontwerp van het platform, met name het sterk gepersonaliseerde aanbevelingsalgoritme, opzettelijk verslavend was en schadelijk voor de psychische gezondheid van minderjarigen. Nieuwe veiligheidsprotocollen voor minderjarigen Volgens de voorwaarden van de overeenkomst zal de socialemediagigant zijn werkwijze voor tieners in Alabama grondig herzien. […]",
+   "date": "2026-09-26T14:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SURF maakt AI-omgeving met commerciële en open llm's beschikbaar voor onderwijs",
+   "link": "https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html",
+   "description": "Ict-koepel SURF gaat een eigen AI-omgeving uitbrengen voor het Nederlandse onderwijs. SURF AI bestaat uit een omgeving waar instellingen llm's kunnen samenvoegen en een applicatie waarmee die modellen kunnen worden gebruikt. De data blijft dan binnen een afgesloten omgeving, zodat die omgeving aan privacy- en compliance-eisen voldoet. De tool komt vanaf begin volgend jaar beschikbaar.",
+   "date": "2026-09-26T12:15:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agenten lekken gebruikersafbeeldingen en krijgen toegang tot Amerikaanse overheidsportalen",
+   "link": "https://businessam.be/openai-agenten-lekken-gebruikersafbeeldingen-en-krijgen-toegang-tot-overheidsportalen/",
+   "description": "Key takeaways OpenAI heeft momenteel moeite om de volledige omvang van de ongeoorloofde acties van zijn AI-agenten in kaart te brengen, wat een aanzienlijke kloof blootlegt tussen de kracht van zijn modellen en het vermogen van het bedrijf om die te monitoren, meldt Reuters. Uit recente onthullingen blijkt dat de agenten 53 gebruikersafbeeldingen uit ChatGPT […]",
+   "date": "2026-09-26T12:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wij testen Kletzy, de nieuwe chatbot voor ouderen: \"Ik praat toch liever met mijn vriendinnen\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/23/kunnen-ai-telefoontjes-de-eenzaamheid-bij-senioren-verzachten/",
+   "description": "Schakelen we binnenkort artificiële intelligentie in om eenzaamheid bij onze (groot)ouders tegen te gaan? Na onder andere Zuid-Korea, Spanje en de VS heeft nu ook Vlaanderen een AI-gesprekspartner voor ouderen, Kletzy. Die kan je de klok rond bellen en weet wie je bent. Wij deden de test.",
+   "date": "2026-09-26T12:01:25",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wij testen Kletzy, de nieuwe chatbot voor ouderen: \"Ik praat toch liever met mijn vriendinnen\"",
+   "link": "https://vrtnws.be/p.aDykmZRLy",
+   "description": "Schakelen we binnenkort artificiële intelligentie in om eenzaamheid bij onze (groot)ouders tegen te gaan? Na onder andere Zuid-Korea, Spanje en de VS heeft nu ook Vlaanderen een AI-gesprekspartner voor ouderen, Kletzy. Die kan je de klok rond bellen en weet wie je bent. Wij deden de test.",
+   "date": "2026-09-26T12:01:25",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS en China gaan communicatiekanaal opzetten voor AI-incidenten",
+   "link": "https://www.knack.be/nieuws/wereld/live/amerikaanse-verkiezingen-2024/vs-en-china-gaan-communicatiekanaal-opzetten-voor-ai-incidenten-1391035/",
+   "description": "Volg hier alles over de Verenigde Staten en hun 47e president Donald Trump.\nThe post VS en China gaan communicatiekanaal opzetten voor AI-incidenten appeared first on Knack.",
+   "date": "2026-09-26T11:26:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI bevestigt nieuwe incidenten: AI-agents hebben beelden van ChatGPT-gebruikers gelekt",
+   "link": "https://www.standaard.be/economie/openai-bevestigt-nieuwe-incidenten-ai-agents-hebben-beelden-van-chatgpt-gebruikers-gelekt/162194148.html",
+   "description": "AI-agents van het Amerikaanse techbedrijf OpenAI hebben beelden van ChatGPT-gebruikers online gedeeld en Amerikaanse overheidswebsites geviseerd. In de afgelopen twee maanden werden zo al zeker vijftien veiligheidsincidenten gerapporteerd.",
+   "date": "2026-09-26T09:55:09",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS en China zetten meldpunt op voor incidenten met AI na meerdere hacks: ‘Moet onder menselijke controle blijven’",
+   "link": "https://www.ad.nl/tech/vs-en-china-zetten-meldpunt-op-voor-incidenten-met-ai-na-meerdere-hacks-moet-onder-menselijke-controle-blijven~a0287e13/",
+   "description": "De Verenigde Staten en China gaan samen een communicatiekanaal opzetten waarin zij incidenten kunnen melden die veroorzaakt worden door kunstmatige intelligentie (AI). Dat heeft het Witte Huis vrijdag bekendgemaakt.",
+   "date": "2026-09-26T09:55:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opnieuw gaan OpenAI-modellen de fout in door foto's te lekken en sites te hacken",
+   "link": "https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html",
+   "description": "Opnieuw lijken AI-modellen van OpenAI buiten hun boekje te zijn gegaan. ChatGPT bleek afbeeldingen van 53 gebruikers te hebben uitgelekt. In een tweede incident bleken AI-agents op Amerikaanse overheidswebsites te hebben ingebroken via gevonden inloggegevens.",
+   "date": "2026-09-26T09:52:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuw incident met AI: foto's van ChatGPT-gebruikers gelekt",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/26/nieuw-incident-met-ai-gegevens-van-enkele-gebruikers-van-chatgp/",
+   "description": "Er is opnieuw een incident geweest met een AI-programma van het Amerikaanse bedrijf OpenAI. Het computersysteem zou ongevraagd beelden van enkele gebruikers van de artificiële intelligentie-chatbot ChatGPT gepubliceerd hebben op het internet.",
+   "date": "2026-09-26T08:51:32",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nieuw incident met AI: foto's van ChatGPT-gebruikers gelekt",
+   "link": "https://vrtnws.be/p.93XldvmvP",
+   "description": "Er is opnieuw een incident geweest met een AI-programma van het Amerikaanse bedrijf OpenAI. Het computersysteem zou ongevraagd beelden van enkele gebruikers van de artificiële intelligentie-chatbot ChatGPT gepubliceerd hebben op het internet. Voor zover bekend is dit het eerste incident met OpenAI-agents waarbij data van ChatGPT-gebruikers zelf zijn getroffen.",
+   "date": "2026-09-26T08:51:32",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agenten gooiden beelden van gebruikers van ChatGPT online, erkent OpenAI",
+   "link": "https://www.tijd.be/r/t/1/id/10687598",
+   "description": "AI-agenten van het Amerikaanse bedrijf OpenAI, de maker van ChatGPT, hebben beelden van gebruikers van de chatbot online gepubliceerd.",
+   "date": "2026-09-26T08:32:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuw incident met AI: afbeeldingen van ChatGPT-gebruikers ongevraagd online gegooid",
+   "link": "https://www.gva.be/economie/technologie/nieuw-incident-met-ai-afbeeldingen-van-chatgpt-gebruikers-ongevraagd-online-gegooid/162193325.html",
+   "description": "AI-agenten van het Amerikaanse bedrijf OpenAI, de maker van ChatGPT, hebben beelden van gebruikers van de chatbot online gepubliceerd. Dat meldt OpenAI vrijdag. Het merendeel van de beelden is volgens het bedrijf intussen weer van het internet gehaald. Voor zover bekend gaat het om het eerste veiligheidsincident waarbij ook data van gebruikers getroffen zijn.",
+   "date": "2026-09-26T07:35:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuw incident met AI: gegevens van enkele gebruikers van ChatGPT ongevraagd even online",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/nieuw-incident-met-ai-gegevens-van-enkele-gebruikers-van-chatgp~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-26T06:38:46",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Modellen OpenAI kregen toegang tot websites Amerikaanse overheid",
+   "link": "https://www.nu.nl/tech/6411052/modellen-openai-kregen-toegang-tot-websites-amerikaanse-overheid.html",
+   "description": "Modellen van OpenAI hebben toegang verkregen tot openbare informatie op websites van de Amerikaanse overheid, melden Amerikaanse media. Het gaat om websites van het Census Bureau en toezichthouder SEC. De bots zouden op \"ongebruikelijke wijze\" te werk zijn gegaan.",
+   "date": "2026-09-26T06:23:11",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinees Huawei profileert zich als ruggengraat van AI-infrastructuur, maar stuit op westers wantrouwen",
+   "link": "https://www.tijd.be/r/t/1/id/10687433",
+   "description": "Al jaren is het Chinese technologiebedrijf Huawei een geopolitieke speelbal in de handelsoorlog tussen de Verenigde Staten en China. Met zijn ambitie om de infrastructuurlaag voor artificiële intelligentie te leveren, dreigt het opnieuw midden in de storm te belanden. ‘Maar je hoeft iemand niet te vertrouwen om samen te werken.’",
+   "date": "2026-09-26T05:00:27",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Modellen OpenAI kregen toegang tot websites Amerikaanse overheid",
+   "link": "https://www.trouw.nl/buitenland/modellen-openai-kregen-toegang-tot-websites-amerikaanse-overheid~bc312b52b/",
+   "description": "",
+   "date": "2026-09-26T04:55:13",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-agenten OpenAI zetten beelden van gebruikers ChatGPT online",
+   "link": "https://www.trouw.nl/buitenland/ai-agenten-openai-zetten-beelden-van-gebruikers-chatgpt-online~be40319c/",
+   "description": "",
+   "date": "2026-09-26T04:47:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-agenten OpenAI zetten beelden van gebruikers ChatGPT online",
+   "link": "https://www.volkskrant.nl/tech/ai-agenten-openai-zetten-beelden-van-gebruikers-chatgpt-online~be40319c/",
+   "description": "",
+   "date": "2026-09-26T04:40:46",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Modellen OpenAI kregen toegang tot websites Amerikaanse overheid",
+   "link": "https://www.ad.nl/tech/modellen-openai-kregen-toegang-tot-websites-amerikaanse-overheid~ac312b52b/",
+   "description": "Modellen van OpenAI hebben toegang verkregen tot openbare informatie op websites van de Amerikaanse overheid. Dat melden media in de Verenigde Staten.",
+   "date": "2026-09-26T04:23:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Weer AI-incident: AI-agenten OpenAI zetten beelden van gebruikers ChatGPT op internet",
+   "link": "https://www.ad.nl/tech/weer-ai-incident-ai-agenten-openai-zetten-beelden-van-gebruikers-chatgpt-op-internet~ae40319c/",
+   "description": "AI-agenten van het Amerikaanse bedrijf OpenAI, de maker van ChatGPT, hebben beelden van gebruikers van de chatbot online gepubliceerd. Dat heeft OpenAI vrijdag gemeld.",
+   "date": "2026-09-26T04:12:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zelfs OpenAI’s eigen klanten worden slachtoffer van datalek door onbeheersbare AI-agenten",
+   "link": "https://www.gva.be/buitenland/zelfs-openais-eigen-klanten-worden-slachtoffer-van-datalek-door-onbeheersbare-ai-agenten/162193028.html",
+   "description": "OpenAI heeft vrijdag toegegeven dat zijn eigen technologie ervoor zorgde dat 53 foto’s die gebruikers naar ChatGPT hadden gestuurd, per ongeluk op het internet belandden. Het gaat om een extra pijnlijk voorval omdat het deze keer gaat om data van de eigen klanten van het bedrijf, en niet om een extern lek.",
+   "date": "2026-09-26T03:44:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Onmisbaar aan het front: hoe staat ons land tegenover killerrobots aangestuurd door AI?",
    "link": "https://www.demorgen.be/nieuws/onmisbaar-aan-het-front-hoe-staat-ons-land-tegenover-killerrobots-aangestuurd-door-ai~b03564bb/",
@@ -372,9 +660,31 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "We hebben Mark Zuckerberg onderschat, alweer",
+   "link": "https://www.standaard.be/media-en-cultuur/we-hebben-mark-zuckerberg-onderschat-alweer/161938899.html",
+   "description": "In amper enkele dagen zijn we van “AI gaat ons letterlijk allemaal doden” tot “oh wow, Meta heeft een coole agent!” gegaan. Nee, erg rationeel zijn we niet bezig. Maar we blijken Mark Zuckerberg alweer te hebben onderschat.",
+   "date": "2026-09-25T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AI-oplichters doen zich voor als topman en stelen miljoenen van Italiaanse bank",
    "link": "https://www.nu.nl/tech/6411049/ai-oplichters-doen-zich-voor-als-topman-en-stelen-miljoenen-van-italiaanse-bank.html",
    "description": "Oplichters hebben in februari 95 miljoen euro gestolen van de grootste bank van Italië, Intesa Sanpaolo, door met kunstmatige intelligentie de identiteit van topmannen na te bootsen. Ruim de helft van het bedrag is teruggehaald, maar zo'n 36 miljoen euro is nog altijd spoorloos.",
+   "date": "2026-09-25T23:25:23",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-oplichters doen zich voor als topman en stelen 95 miljoen euro van bank Italië",
+   "link": "https://www.nu.nl/tech/6411049/ai-oplichters-doen-zich-voor-als-topman-en-stelen-95-miljoen-euro-van-bank-italie.html",
+   "description": "Oplichters hebben in februari 95 miljoen euro gestolen van de grootste bank van Italië, Intesa Sanpaolo. Dat deden ze door met kunstmatige intelligentie de identiteit van topmannen na te bootsen. Zeker 36 miljoen euro is nog altijd spoorloos.",
    "date": "2026-09-25T23:25:23",
    "feeds": [
     "NU.nl - Tech"
@@ -414,6 +724,17 @@
    ],
    "first_seen": "2026-09-26",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Paniek! AI-gebruik zorgde bijna voor een aanval van de VS op China!",
+   "link": "https://www.trouw.nl/opinie/paniek-ai-gebruik-zorgde-bijna-voor-een-aanval-van-de-vs-op-china~b37b0f09/",
+   "description": "",
+   "date": "2026-09-25T22:00:10",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
   },
   {
    "title": "Na Claude schrikt Muse beleggers op: wie wint en verliest in de race om de autonome winkelassistent?",
@@ -489,7 +810,8 @@
    "description": "",
    "date": "2026-09-25T20:56:00",
    "feeds": [
-    "De Morgen - In Het Nieuws"
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-09-26",
    "intro_geprobeerd": true
@@ -822,6 +1144,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nog één reclame en ik kwak die Donald Duck weg",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/nog-een-reclame-en-ik-kwak-die-donald-duck-weg-a4937178",
+   "description": "U schreef ons over reclame in kinderweekbladen, homo-emancipatie, de schoonheid van een AI-vrij leven en ganzenlever op de menukaart.",
+   "date": "2026-09-25T12:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-26",
    "intro_geprobeerd": false
   },
   {
