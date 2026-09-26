@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T17:43:31",
+ "generated": "2026-09-26T03:12:48",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 37,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 84,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,317 @@
   }
  ],
  "articles": [
+  {
+   "title": "Onmisbaar aan het front: hoe staat ons land tegenover killerrobots aangestuurd door AI?",
+   "link": "https://www.demorgen.be/nieuws/onmisbaar-aan-het-front-hoe-staat-ons-land-tegenover-killerrobots-aangestuurd-door-ai~b03564bb/",
+   "description": "",
+   "date": "2026-09-26T03:00:14",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Dan doet hij alsof hij de robot is die mijn koffie inschenkt. Zo bouwen we al vertellend een wereld op",
+   "link": "https://www.demorgen.be/meningen/dan-doet-hij-alsof-hij-de-robot-is-die-mijn-koffie-inschenkt-zo-bouwen-we-al-vertellend-een-wereld-op~b9c14fb9/",
+   "description": "",
+   "date": "2026-09-26T03:00:13",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI erkent dat beelden gebruikers ChatGPT online zijn gelekt door ‘AI-agenten’",
+   "link": "https://www.demorgen.be/snelnieuws/openai-erkent-dat-beelden-gebruikers-chatgpt-online-zijn-gelekt-door-ai-agenten~bcc1decd/",
+   "description": "",
+   "date": "2026-09-26T02:49:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Italiaanse bank opgelicht voor 95 miljoen euro opgelicht met hulp van AI",
+   "link": "https://www.demorgen.be/snelnieuws/italiaanse-bank-opgelicht-voor-95-miljoen-euro-opgelicht-met-hulp-van-ai~b1e726eb/",
+   "description": "",
+   "date": "2026-09-26T01:07:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ontsporende AI onderstreept het belang van cybersecurity: beveiligingsspecialisten winnen de jackpot",
+   "link": "https://www.standaard.be/economie/geld/ontsporende-ai-onderstreept-het-belang-van-cybersecurity-beveiligingsspecialisten-winnen-de-jackpot/161973541.html",
+   "description": "Met artificiële intelligentie zijn de gevaren online nog toegenomen. Specialisten in cybersecurity hebben meer dan ooit goud in handen. Het lijkt evident om aandelen ervan in je portefeuille op te nemen, maar intussen zijn ze wel al peperduur geworden.",
+   "date": "2026-09-26T01:00:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-oplichters doen zich voor als topman en stelen miljoenen van Italiaanse bank",
+   "link": "https://www.nu.nl/tech/6411049/ai-oplichters-doen-zich-voor-als-topman-en-stelen-miljoenen-van-italiaanse-bank.html",
+   "description": "Oplichters hebben in februari 95 miljoen euro gestolen van de grootste bank van Italië, Intesa Sanpaolo, door met kunstmatige intelligentie de identiteit van topmannen na te bootsen. Ruim de helft van het bedrag is teruggehaald, maar zo'n 36 miljoen euro is nog altijd spoorloos.",
+   "date": "2026-09-25T23:25:23",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates waarschuwt dat AI ‘miljard doden kan veroorzaken’",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/bill-gates-waarschuwt-dat-ai-miljard-doden-kan-veroorzaken-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Bill Gates waarschuwt dat AI ‘miljard doden kan veroorzaken’ appeared first on Trends.be.",
+   "date": "2026-09-25T23:17:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft krijgt applaus voor verbeterde AI-assistent, aandeel op hoogste peil in tien maanden",
+   "link": "https://www.tijd.be/r/t/1/id/10687582",
+   "description": "Microsoft was vrijdag de uitblinker op Wall Street na de introductie van nieuwe functies in AI-assistent Copilot.",
+   "date": "2026-09-25T22:03:19",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates waarschuwt voor miljarden doden als AI niet gereguleerd geraakt",
+   "link": "https://www.standaard.be/economie/bill-gates-waarschuwt-voor-miljarden-doden-als-ai-niet-gereguleerd-geraakt/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-09-25T22:00:54",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na Claude schrikt Muse beleggers op: wie wint en verliest in de race om de autonome winkelassistent?",
+   "link": "https://www.tijd.be/r/t/1/id/10687477",
+   "description": "Na software neemt artificiële intelligentie nu een alledaagser verdienmodel onder vuur: onze gemakzucht. Meta’s nieuwe AI-agent Muse kan vergelijken, boeken en kopen in onze plaats. Banken, verzekeraars en reisplatformen kregen prompt klappen. Terecht of niet?",
+   "date": "2026-09-25T21:35:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates waarschuwt: \"AI kan miljard doden veroorzaken als regelgeving uitblijft\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/bill-gates-waarschuwt-ai-kan-miljard-doden-veroorzaken-als-reg~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-25T21:22:57",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Grootste bank van Italië verliest 95 miljoen euro aan oplichters die met AI de stem van CEO nabootsten",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/25/ai-oplichters-beroven-grootste-bank-van-italie-voor-95-miljoen/",
+   "description": "De grootste bank van Italië, Intesa Sanpaolo, is het slachtoffer geworden van zogenaamde 'CEO-fraude'. Oplichters zijn er met behulp van artificiële intelligentie in geslaagd om 95 miljoen euro buit te maken bij Fideuram, een private banking-tak van de bank.",
+   "date": "2026-09-25T21:19:30",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Grootste bank van Italië verliest 95 miljoen euro aan oplichters die met AI de stem van CEO nabootsten",
+   "link": "https://vrtnws.be/p.qEdVxlWxV",
+   "description": "De grootste bank van Italië, Intesa Sanpaolo, is het slachtoffer geworden van zogenaamde 'CEO-fraude'. Oplichters zijn er met behulp van artificiële intelligentie in geslaagd om 95 miljoen euro buit te maken bij Fideuram, een private banking-tak van de bank. De oplichters deden zich voor als topfunctionarissen van de bank aan de hand van WhatsApp-berichten en een deepfake-stem.",
+   "date": "2026-09-25T21:19:30",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates: “AI kan miljard doden veroorzaken als regelgeving uitblijft”",
+   "link": "https://www.hln.be/internet/bill-gates-ai-kan-miljard-doden-veroorzaken-als-regelgeving-uitblijft~a59d36440/",
+   "description": "Bill Gates acht het mogelijk dat artificiële intelligentie “een miljard overlijdens” kan veroorzaken. Dat heeft de medeoprichter van Microsoft gezegd in een interview met ‘NBC News’. Gates riep nog eens op tot regelgeving.",
+   "date": "2026-09-25T21:14:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates waarschuwt dat AI ‘1 miljard doden’ kan veroorzaken",
+   "link": "https://www.tijd.be/r/t/1/id/10687591",
+   "description": "'Er is nog nooit een wapen geweest dat zo machtig is als de combinatie van kwaadwillende mensen die de nieuwste AI-tools gebruiken', zegt Microsoft-miljardair Bill Gates in een gesprek met de Amerikaanse tv-zender NBC.",
+   "date": "2026-09-25T21:02:18",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI kan een miljard doden ineens veroorzaken, denkt Bill Gates",
+   "link": "https://www.demorgen.be/nieuws/ai-kan-een-miljard-doden-ineens-veroorzaken-denkt-bill-gates~b694d1be/",
+   "description": "",
+   "date": "2026-09-25T20:56:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "TSMC is begonnen met productie van chips op A14-procedé, sneller dan gedacht",
+   "link": "https://tweakers.net/nieuws/252636/tsmc-is-begonnen-met-productie-van-chips-op-a14-procede-sneller-dan-gedacht.html",
+   "description": "TSMC zou zijn begonnen met de eerste proefproducties van chips op zijn '1,4nm'-procedé. Volgens bronnen in de industrie loopt het ontwikkelproces van 'A14'-chips daarmee voorspoediger dan gepland. TSMC zou al eind dit jaar kunnen opschalen naar grotere productievolumes en dan begin 2028 al kunnen beginnen met de massaproductie van chips op het modernste procedé.",
+   "date": "2026-09-25T20:40:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In opspraak geraakte schrijver wegens vermeend AI-gebruik en plagiaat gediskwalificeerd voor Franse Prix Goncourt",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/in-opspraak-geraakt-boek-wegens-ai-gebruik-en-plagiaat-gediskwalificeerd-voor-franse-prix-goncourt-a4937583",
+   "description": "Door het boek van Thélyson Orélien van de longlist te halen, wil de organisatie van de Prix Goncourt laten zien dat het „op geen enkele wijze” gebruik van kunstmatige intelligentie bij het schrijven goedkeurt.",
+   "date": "2026-09-25T20:12:30",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Panda’s, een zeearend en veel vertoon, maar Xi en Trump boekten nauwelijks concrete resultaten in Washington",
+   "link": "https://www.standaard.be/buitenland/pandas-een-zeearend-en-veel-vertoon-maar-xi-en-trump-boekten-nauwelijks-concrete-resultaten-in-washington/162153444.html",
+   "description": "Aan pompeuze retoriek en symbolische gebaren was er de voorbije dagen geen gebrek. Maar Xi Jinping en Donald Trump boekten in Washington nauwelijks concrete resultaten. Nog voor de top drukte de Amerikaanse president elke kans op een diepgaande discussie over AI-veiligheid de kop in.",
+   "date": "2026-09-25T19:55:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Amerikaanse rechtbank weigert uitsluiting Anthropic door Pentagon terug te draaien • Trump zegt dat hij Xi opnieuw ontmoet in China en op G20 in Florida",
+   "link": "https://www.demorgen.be/snelnieuws/live-amerikaanse-rechtbank-weigert-uitsluiting-anthropic-door-pentagon-terug-te-draaien-xi-jinping-nodigt-trump-opnieuw-uit-naar-china~b13cc951/",
+   "description": "",
+   "date": "2026-09-25T19:34:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Severine Vermeire (rector KU Leuven) in Trends Talk: ‘Door AI moeten we ons als universiteit heruitvinden’",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/severine-vermeire-rector-ku-leuven-in-trends-talk-door-ai-moeten-we-ons-als-universiteit-heruitvinden/",
+   "description": "De opmars van artificiële intelligentie dwingt de KU Leuven haar onderwijs grondig te herbekijken. De universiteit zal onder meer opnieuw vaker mondeling examineren, zegt rector Severine Vermeire in Trends Talk. “Een korte ondervraging van vijf à tien minuten kan al volstaan om na te gaan welke kennis een student werkelijk zelf beheerst. Tegelijk moet iedere afgestudeerde AI-tools correct, kritisch en verantwoord leren gebruiken.”\nThe post Severine Vermeire (rector KU Leuven) in Trends Talk: ‘Door AI moeten we ons als universiteit heruitvinden’ appeared first on Trends.be.",
+   "date": "2026-09-25T19:19:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Minister eist aanpak Google en Meta na noodkreet Kamerleden: ‘Laten techreuzen niet ongemoeid’",
+   "link": "https://www.ad.nl/binnenland/minister-eist-aanpak-google-en-meta-na-noodkreet-kamerleden-laten-techreuzen-niet-ongemoeid~acfc2a56/",
+   "description": "De strijd tegen de verspreiding van seksuele deepfakes moet niet langer vooral op de schouders van slachtoffers rusten. Minister Rianne Letschert (D66) wil dat grote techbedrijven zoals Google en Meta veel actiever verantwoordelijkheid nemen voor de verspreiding van gemanipuleerde beelden.",
+   "date": "2026-09-25T19:09:42",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "&#8216;Afpersingshoogleraar&#8217; waarschuwt: overheden zijn kwetsbaarder voor cybercrime dan bedrijven",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/afpersingshoogleraar-waarschuwt-overheden-zijn-kwetsbaarder-voor-cybercrime-dan-bedrijven-a4937280",
+   "description": "Digitale gijzeling komt frequenter voor en wordt omvangrijker, terwijl AI daarbij belangrijker wordt. Bedrijven wapenen zich al beter tegen cyberaanvallen, anders kunnen ze geen verzekering krijgen. Maar overheden zijn volgens expert Anja Shortland erg kwetsbaar. „Dan heb je het niet meer over ransomware maar ransomwar.”",
+   "date": "2026-09-25T19:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft bundelt zakelijke AI-tools in één Copilot-app",
+   "link": "https://businessam.be/microsoft-bundelt-zakelijke-ai-tools-in-een-copilot-app/",
+   "description": "Key takeaways Om beter te kunnen concurreren met rivalen zoals Anthropic, bundelt Microsoft zijn zakelijke AI-tools in één uitgebreide applicatie. Deze strategische verschuiving moet de acceptatie onder zijn zakelijke klanten te stimuleren, aangezien het huidige gebruik van AI-add-ons onder Office 365-gebruikers nog steeds onder de 7 procent ligt. Door verschillende functies samen te voegen, hoopt […]",
+   "date": "2026-09-25T18:27:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OpenAI wil GPT-6 Cyber voor securityonderzoekers in komende weken uitbrengen'",
+   "link": "https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html",
+   "description": "OpenAI is van plan in de komende weken een aparte versie van ChatGPT uit te brengen die specifiek gericht is op cybersecurity. GPT-6 Cyber zou inmiddels in een alfatest beschikbaar zijn voor een beperkt aantal klanten. Steeds meer AI-bedrijven brengen zulke versies uit, juist nu er groeiende zorgen zijn over de hackcapaciteiten van deze modellen.",
+   "date": "2026-09-25T18:07:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI heeft de sollicitatiebrief vermoord (maar wie rouwt daar eigenlijk om?)",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/ai-heeft-de-sollicitatiebrief-vermoord-maar-wie-rouwt-daar-eigenlijk-om-a4936884",
+   "description": "Door AI worden sollicitatiebrieven eenheidsworst en dus onbruikbaar. De toegangspoort tot werk verandert snel. Bedrijven proberen van alles: video’s, games, ‘open huis’, sollicitatieshows en zelfs mensen zónder procedure aannemen. „Het menselijke wordt eigenlijk alleen maar belangrijker door AI.”",
+   "date": "2026-09-25T18:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gezellig weer online met Hyves. Is het ook echt anders dan de Meta-platforms?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/25/gezellig-weer-online-met-hyves-is-het-ook-echt-anders-dan-de-meta-platforms-a4937563",
+   "description": "Het heropgestarte Hyves pakt het wat anders aan dan de bekende ‘Big Tech’-merken met hun verslavende algoritmen. Maar het verdienmodel verschilt niet fundamenteel.",
+   "date": "2026-09-25T17:55:10",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic koopt 7 jaar lang voor 11,6 miljard dollar rekenkracht in bij Akamai",
+   "link": "https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html",
+   "description": "Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro voor. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.",
+   "date": "2026-09-25T17:50:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-26",
+   "intro_geprobeerd": false
+  },
   {
    "title": "De persoonlijke assistent van Meta uitgetest: 'Muse is de enige AI-agent die weet wie mijn moeder is'",
    "link": "https://www.tijd.be/r/t/1/id/10687277",
@@ -489,6 +800,17 @@
     "NRC - Artikels"
    ],
    "first_seen": "2026-09-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Lake America’-shirt kost CEO van coöperatieve bank de kop",
+   "link": "https://www.tijd.be/r/t/1/id/10687501",
+   "description": "Een foto op sociale media heeft tot het ontslag geleid van de topvrouw van de Amerikaanse coöperatieve bank Family First. CEO Jane Smith postte een AI-beeld waarop haar gezin truien droeg met het opschrift ‘Lake America’.",
+   "date": "2026-09-25T12:15:26",
+   "feeds": [
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-26",
    "intro_geprobeerd": false
   },
   {
