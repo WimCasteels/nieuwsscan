@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T03:06:51",
+ "generated": "2026-09-27T17:30:45",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 25,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 151,
+   "count": 152,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 87,
    "error": null
   },
   {
@@ -315,6 +315,226 @@
   }
  ],
  "articles": [
+  {
+   "title": "China en VS starten AI-overleg na topontmoeting, volgens Witte Huis",
+   "link": "https://businessam.be/china-en-vs-starten-ai-overleg-na-topontmoeting-volgens-witte-huis/",
+   "description": "Key takeaways Na een bijeenkomst in Washington, DC, heeft het Witte Huis bekendgemaakt dat de Verenigde Staten en China zich hebben verbonden tot het opzetten van een speciaal bilateraal contactkanaal voor het beheer van noodsituaties op het gebied van artificiële intelligentie (AI). Tijdens het driedaagse staatsbezoek bespraken de Amerikaanse president Donald Trump en de Chinese […]",
+   "date": "2026-09-27T17:18:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Videopreview - Hands-on met Apples nieuwe AI-assistent",
+   "link": "https://tweakers.net/video/20572/hands-on-met-apples-nieuwe-ai-assistent.html",
+   "description": "Siri was jarenlang een soort veredelde kookwekker. De 'slimme' assistent van Apple was namelijk helemaal niet zo slim. Nu heeft Siri eindelijk een grote upgrade gekregen. De assistent gebruikt nu een AI-model en dat levert veel nieuwe functies op. Siri begrijpt algemene vragen nu beter, kan je apparaat doorzoeken en begrijpt wat er op je scherm staat.",
+   "date": "2026-09-27T17:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lian Li-hub schakelt pc uit en stuurt een mailtje wanneer gpu-kabel oververhit",
+   "link": "https://tweakers.net/nieuws/252654/lian-li-hub-schakelt-pc-uit-en-stuurt-een-mailtje-wanneer-gpu-kabel-oververhit.html",
+   "description": "Lian Li komt met een nieuwe Edge Hub Adv. Die is bedoeld om smeltende gpu-stekkers tegen te gaan. De hub houdt de temperatuur van 12V-2x6-kabels in de gaten. Wanneer ze te warm worden, schakelt de hub de pc uit en stelt hij je per e-mail op de hoogte.",
+   "date": "2026-09-27T13:37:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Discord werkt aan gamemodus die cpu en gpu minder belast",
+   "link": "https://tweakers.net/nieuws/252652/discord-werkt-aan-gamemodus-die-cpu-en-gpu-minder-belast.html",
+   "description": "Discord werkt aan een gamemodus voor zijn chatdienst. De functie moet het cpu- en gpu-gebruik van de desktopapp beperken tijdens het gamen. Wanneer die precies verschijnt, is niet bekend.",
+   "date": "2026-09-27T12:43:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese AI-modellen winnen wereldwijd aan populariteit, tot zorgen in Washington",
+   "link": "https://businessam.be/chinese-ai-modellen-winnen-wereldwijd-aan-populariteit-tot-zorgen-in-washington/",
+   "description": "Key takeaways De wereldwijde acceptatie van in China ontwikkelde artificiële intelligentie (AI) heeft in de loop van 2026 een spectaculaire stijging doorgemaakt. Deze stijging heeft bij de Amerikaanse beleidsmakers tot veel ongerustheid geleid. Gegevens van ontwikkelaarsplatforms zoals Vercel en OpenRouter wijzen op een enorme verschuiving in gebruikspatronen. Op OpenRouter steeg het aandeel van tokens dat […]",
+   "date": "2026-09-27T11:16:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI legt ontwikkeling krachtigste AI-modellen tijdelijk stil",
+   "link": "https://tweakers.net/nieuws/252660/openai-legt-ontwikkeling-krachtigste-ai-modellen-tijdelijk-stil.html",
+   "description": "OpenAI stopt tijdelijk met het ontwikkelen van zijn krachtigste AI-modellen. Het bedrijf doet dat na een nieuw beveiligingsincident. Een nieuw AI-model wist beperkingen op internettoegang deels te omzeilen door gebrekkige DNS-filtering.",
+   "date": "2026-09-27T11:08:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Killer robots’ en een nucleaire holocaust: moeten we echt bang zijn voor AI? Onze techexpert ontleedt 4 doemscenario’s",
+   "link": "https://www.hln.be/tech/killer-robots-en-een-nucleaire-holocaust-moeten-we-echt-bang-zijn-voor-ai-onze-techexpert-ontleedt-4-doemscenarios~ae364944/",
+   "description": "Elke nieuwe technologie komt met apocalyptische verhalen. Kernenergie bracht de angst voor een nucleaire winter, sociale media worden soms gelinkt aan de ondergang van de democratie, en bij AI? Dan krijgen we killer robots en een virus dat ons allemaal uitroeit. Maar welke doemscenario’s zijn compleet onrealistisch, en waar zit een kern van waarheid in?",
+   "date": "2026-09-27T11:00:19",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert ontwikkeling van krachtigste modellen na veiligheidsincidenten",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/openai-pauzeert-ontwikkeling-van-krachtigste-modellen-na-veiligheidsincidenten/",
+   "description": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn sterkste AI-modellen voorlopig gepauzeerd. Dat heeft het bedrijf zaterdag gemeld. Na de vele veiligheidsincidenten van de voorbije maanden wil OpenAI eerst zeker zijn dat de ontwikkeling op een veilige manier kan worden voortgezet.\nThe post OpenAI pauzeert ontwikkeling van krachtigste modellen na veiligheidsincidenten appeared first on Knack.",
+   "date": "2026-09-27T10:49:58",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert ontwikkeling van krachtigste modellen na veiligheidsincidenten",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/openai-pauzeert-ontwikkeling-van-krachtigste-modellen-na-veiligheidsincidenten-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post OpenAI pauzeert ontwikkeling van krachtigste modellen na veiligheidsincidenten appeared first on Trends.be.",
+   "date": "2026-09-27T10:34:12",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert training modellen na aanval op overheidswebsites",
+   "link": "https://nos.nl/l/2632698",
+   "description": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn AI-modellen tijdelijk stopgezet. Aanleiding zijn de aanvallen van Open AI-agents afgelopen zomer op websites van onder meer de Amerikaanse overheid. AI-agents zijn AI-programma's die bepaalde opdrachten kunnen uitvoeren.\n        De agents van OpenAI hadden geen opdracht gekregen om websites aan te vallen, dat deden ze om de taak te volbrengen die aan hen was gevraagd, werd gisteren bekendgemaakt door het non-profit AI-onderzoeksbureau Transluce.\n        OpenAI zei in een reactie dat er geen sprake was van hacks, maar volgens The New York Times wisten de agents bij het ministerie van Handel informatie te vergaren door gebruik te maken van online gevonden login-gegevens. Andere AI-onderzoekers ontdekten dat OpenAI-agents actief waren op een Duits online forum. Ook dat was niet de bedoeling.\n        OpenAI zegt dat de training alleen wordt hervat \"als we er zeker van zijn dat we extra beveiligingsmaatregelen hebben\". Het bedrijf verwacht dat het opnieuw op de pauzeknop moet drukken als AI zich verder ontwikkelt en zich nieuwe problemen voordoen.\n        Hugging Face\n        Het is de tweede keer in drie maanden dat Open AI op de ontwikkeling van modellen moet stopzetten. De eerste keer was in juli toen 1200 agents van Open AI bij het AI-bedrijf Hugging Face wist in te breken.\n        Topmannen van Amerikaanse AI-bedrijven pleitten eerder deze maand voor een vertraging in de ontwikkeling van nieuwe AI-modellen omdat AI-agents binnen zes tot twaalf maanden het hele internet zouden kunnen overnemen.\n        President Trump wil die ontwikkeling juist versnellen. Een speciale 'AI Force' moet op dat gebied advies gaan uitbrengen.",
+   "date": "2026-09-27T09:44:48",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oekraïne versterkt digitale beveiliging na Russische aanvallen",
+   "link": "https://businessam.be/oekraine-versterkt-digitale-beveiliging-na-russische-aanvallen/",
+   "description": "Key takeaways Om de stabiliteit van digitale netwerken te waarborgen te midden van de aanhoudende Russische invasie, voert de Oekraïense regering aangescherpte beveiligingsprotocollen in voor haar communicatieknooppunten en datacenters. Na een vergadering met de staf van de opperbevelhebber op 25 september heeft de Oekraïense president Volodymyr Zelensky opdracht gegeven om kritieke infrastructuur beter te beveiligen […]",
+   "date": "2026-09-27T09:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert ontwikkeling krachtigste modellen na nieuw veiligheidsincident",
+   "link": "https://www.tijd.be/r/t/1/id/10687615",
+   "description": "OpenAI, de Amerikaanse AI-gigant achter ChatGPT, pauzeert de ontwikkeling van zijn krachtigste modellen nadat tijdens een test een AI-agent toegangsbeperkingen tot het internet had omzeild.",
+   "date": "2026-09-27T08:49:29",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VK krijgt exclusieve toegang tot Oekraïense AI-technologie voor gevechtsdrones",
+   "link": "https://businessam.be/vk-krijgt-exclusieve-toegang-tot-oekraiense-ai-technologie-voor-gevechtsdrones/",
+   "description": "Key takeaways Het Britse Ministerie van Defensie heeft een baanbrekende overeenkomst gesloten met Avengers AI Labs in Oekraïne, waardoor Britse bedrijven toegang krijgen tot een geavanceerde AI-trainingsomgeving die is ontworpen voor gevechtsdrones. De samenwerking vormt een historische mijlpaal, aangezien het de eerste keer is dat Kiev een buitenlandse regering toegang verleent tot zijn gespecialiseerde infrastructuur […]",
+   "date": "2026-09-27T08:16:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert training van sterkste AI-modellen na reeks veiligheidsincidenten",
+   "link": "https://www.gva.be/buitenland/openai-pauzeert-training-van-sterkste-ai-modellen-na-reeks-veiligheidsincidenten/162212928.html",
+   "description": "OpenAI, het Amerikaanse bedrijf achter ChatGPT, heeft de training van zijn sterkste AI-modellen voorlopig gepauzeerd. Dat heeft het bedrijf zaterdag gemeld. Na de vele veiligheidsincidenten van de voorbije maanden wil OpenAI eerst zeker zijn dat de ontwikkeling op een veilige manier kan worden voortgezet.",
+   "date": "2026-09-27T08:10:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Small is beautiful, zolang het niet over AI gaat’",
+   "link": "https://trends.knack.be/opinie/small-is-beautiful-zolang-het-niet-over-ai-gaat/",
+   "description": "In 1973 publiceerde Ernst Friedrich Schumacher een boek met een titel die nauwelijks uitleg nodig had: Small Is beautiful. De ondertitel was venijniger: Economics as if People Mattered. Blijkbaar moest dat er uitdrukkelijk bij. Het boek gaf woorden aan een groeiend onbehagen. Fabrieken werden groter, organisaties onoverzichtelijker, vooruitgang werd in productie gemeten. De milieubeweging kreeg …\nThe post ‘Small is beautiful, zolang het niet over AI gaat’ appeared first on Trends.be.",
+   "date": "2026-09-27T07:28:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI drukt pauzeknop in tot veiligheidsmaatregelen aangescherpt zijn",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/openai-drukt-pauzeknop-in-tot-veiligheidsmaatregelen-aangescherp~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-27T06:49:52",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI pauzeert werk met krachtige AI na nieuw incident ondanks nieuwe regels",
+   "link": "https://www.nu.nl/tech/6411131/openai-pauzeert-werk-met-krachtige-ai-na-nieuw-incident-ondanks-nieuwe-regels.html",
+   "description": "OpenAI, het bedrijf achter ChatGPT, heeft het werk aan zijn krachtigste AI-modellen voorlopig stilgelegd. Een van zijn systemen kreeg tijdens een test ongeoorloofd toegang tot het internet, meldde het bedrijf zaterdag.",
+   "date": "2026-09-27T06:37:54",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - AI-agents die in het wilde weg bedrijven hacken: is dat strafbaar?",
+   "link": "https://tweakers.net/reviews/15332/ai-agents-die-in-het-wilde-weg-bedrijven-hacken-is-dat-strafbaar.html",
+   "description": "De ene na de andere AI-agent hackt op eigen houtje bedrijven. Kunnen de makers van die tools aansprakelijk worden gesteld voor hun losgeslagen creaties?",
+   "date": "2026-09-27T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI pauzeert ontwikkeling van krachtigste modellen na veiligheidsincidenten",
+   "link": "https://www.demorgen.be/snelnieuws/openai-pauzeert-ontwikkeling-van-krachtigste-modellen-na-veiligheidsincidenten~b9ef8d94/",
+   "description": "",
+   "date": "2026-09-27T05:37:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI pauzeert ontwikkeling van nieuwste modellen na opeenstapeling van veiligheidsincidenten",
+   "link": "https://www.ad.nl/buitenland/openai-pauzeert-ontwikkeling-van-nieuwste-modellen-na-opeenstapeling-van-veiligheidsincidenten~ae80eb8e/",
+   "description": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn nieuwste modellen voor kunstmatige intelligentie (AI) voorlopig stilgezet. Dat heeft het bedrijf zaterdag besloten nu er steeds meer meldingen binnenkomen van OpenAI-agenten die onvoorspelbaar of ongecontroleerd gedrag vertonen.",
+   "date": "2026-09-27T04:10:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Don’t let AI kill the author",
    "link": "https://www.nrc.nl/nieuws/2026/09/26/dont-let-ai-kill-the-author-a4937548",
