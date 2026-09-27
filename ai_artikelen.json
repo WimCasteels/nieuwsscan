@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T16:52:34",
+ "generated": "2026-09-27T03:06:51",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 151,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 91,
    "error": null
   },
   {
@@ -315,6 +315,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "Don’t let AI kill the author",
+   "link": "https://www.nrc.nl/nieuws/2026/09/26/dont-let-ai-kill-the-author-a4937548",
+   "description": "The perils of machine-made prose.",
+   "date": "2026-09-26T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-27",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Literaire uitgevers hebben het liever niet over hun AI-beleid. ‘Verantwoordelijkheid ligt bij de auteur’",
    "link": "https://www.trouw.nl/cultuur-media/literaire-uitgevers-hebben-het-liever-niet-over-hun-ai-beleid-verantwoordelijkheid-ligt-bij-de-auteur~b7cce0e5/",
