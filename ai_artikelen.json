@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T03:25:28",
+ "generated": "2026-09-28T20:25:36",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 24,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 163,
    "error": null
   },
   {
@@ -315,6 +315,370 @@
   }
  ],
  "articles": [
+  {
+   "title": "Discord ontwikkelt modus die pc minder belast tijdens het gamen",
+   "link": "https://www.hln.be/games/discord-ontwikkelt-modus-die-pc-minder-belast-tijdens-het-gamen~a2f02122/",
+   "description": "Discord werkt aan een gamemodus voor zijn desktopapp. Die moet ervoor zorgen dat de chatdienst tijdens het gamen minder beslag legt op de rekenkracht van het systeem. Het is nog niet bekend wanneer de modus beschikbaar zal zijn.",
+   "date": "2026-09-28T20:05:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia introduceert nieuw veiligheidsplatform voor autonome AI-agenten",
+   "link": "https://businessam.be/nvidia-introduceert-nieuw-veiligheidsplatform-voor-autonome-ai-agenten/",
+   "description": "Key takeaways Nvidia heeft het Open Agent Safety Platform geïntroduceerd, een nieuw beveiligingsraamwerk dat is bedoeld voor het beheren en isoleren van autonome AI-agenten. Het systeem stelt organisaties in staat strikte grenzen te stellen aan de toegang van agenten en kan elke AI die de toegestane parameters overschrijdt onmiddellijk in quarantaine plaatsen. De technologie is […]",
+   "date": "2026-09-28T19:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oekraïne lanceert futuristisch plan ‘Army of Robots’ om menselijke soldaten aan het front te vervangen",
+   "link": "https://businessam.be/oekraine-lanceert-futuristisch-plan-army-of-robots-om-menselijke-soldaten-aan-het-front-te-vervangen/",
+   "description": "Key takeaways Mykhailo Fedorov, het voormalige hoofd van het Oekraïense ministerie van Defensie, heeft een strategisch militair initiatief geïntroduceerd dat bekendstaat als het “leger van robots”. Dit project, dat tijdens de IT Arena-conferentie in Lviv is onthuld, heeft tot doel humanoïde robotica en kunstmatige intelligentie op het slagveld te integreren om de risico’s voor menselijke […]",
+   "date": "2026-09-28T19:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia trotseert rood Wall Street met inkooprecord van 150 miljard",
+   "link": "https://www.tijd.be/r/t/1/id/10687711",
+   "description": "Rode cijfers op Wall Street: zowel de Dow Jones als de Nasdaq verliest terrein. Nvidia kondigt de grootste aandeleninkoop ooit aan en stuurt het aandeel tegen de stroom in bijna 3 procent hoger. Ondertussen veroorzaakt Meta paniek bij softwarebedrijven.",
+   "date": "2026-09-28T19:27:02",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lenovo komt met duurste Googlebook tot nu toe: 1499 euro voor Android-laptop",
+   "link": "https://tweakers.net/nieuws/252704/lenovo-komt-met-duurste-googlebook-tot-nu-toe-1499-euro-voor-android-laptop.html",
+   "description": "Lenovo kondigt de Googlebook 15 aan in een persbericht voor de Nederlandse en Belgische markt. De laptop draait een aangepast Android, heeft een Intel Core Ultra 5 en een 15-inch 2,8K OLED-scherm. De accuduur is maximaal 12,5 uur en de vanafprijs is 1499 euro. Kopers krijgen er wel een AI-muis bij.",
+   "date": "2026-09-28T19:00:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe maak je het verschil als iedereen dezelfde AI heeft? “AI is niet het probleem. De manier waarop bedrijven ermee werken wel”",
+   "link": "https://www.standaard.be/economie/hoe-maak-je-het-verschil-als-iedereen-dezelfde-ai-heeft-ai-is-niet-het-probleem.-de-manier-waarop-bedrijven-ermee-werken-wel/161184052.html",
+   "description": "Veel bedrijven willen AI implementeren, maar vergeten daarbij vaak wat ze ermee willen bereiken. Joachim De Vos en Murli Buluswar stellen dat je in de razendsnelle AI-wereld nog een verschil kunt maken met menselijke verbeeldingskracht.",
+   "date": "2026-09-28T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is AI-detector Pangram wel betrouwbaar als scheidsrechter? ‘Studenten maken nu met opzet schrijffouten’",
+   "link": "https://www.demorgen.be/tech-ai/is-ai-detector-pangram-wel-betrouwbaar-als-scheidsrechter-studenten-maken-nu-met-opzet-schrijffouten~bbd7c5fb/",
+   "description": "",
+   "date": "2026-09-28T18:30:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Inmiddels ‘tienduizenden’ incidenten met AI-agents. Wat is er aan de hand?",
+   "link": "https://www.volkskrant.nl/tech/inmiddels-tienduizenden-incidenten-met-ai-agents-wat-is-er-aan-de-hand~b12ef193/",
+   "description": "",
+   "date": "2026-09-28T17:06:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nvidia trekt 150 miljard dollar uit voor grootste aandeleninkoop ooit",
+   "link": "https://businessam.be/nvidia-trekt-150-miljard-dollar-uit-voor-grootste-aandeleninkoop-ooit/",
+   "description": "Key takeaways In een ongekende stap heeft Nvidia een aandeleninkoopprogramma ter waarde van 150 miljard dollar (132 miljard euro) aangekondigd. Daarmee gaat het om de grootste eenmalige goedkeuring voor de inkoop van eigen aandelen ooit. Strategische investering in AI CEO Jensen Huang schreef dit besluit toe aan het huidige tijdperk van versnelde dataverwerking en de […]",
+   "date": "2026-09-28T17:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GMKtec en Minisforum brengen pc's met Ryzen AI Max+ 495 vanaf 6249 en 7799 euro",
+   "link": "https://tweakers.net/nieuws/252696/gmktec-en-minisforum-brengen-pcs-met-ryzen-ai-max+-495-vanaf-6249-en-7799-euro.html",
+   "description": "GMKtec en Minisforum kondigen AI-pc's aan met AMD's Ryzen AI Max+ 495-processor en 192GB geheugen. Deze computers zijn bedoeld om AI-modellen lokaal te draaien en kosten bij GMKtec minstens 6249 en bij Minisforum minstens 7799 euro. GMKtecs vanafprijs is voor een beperkt aantal.",
+   "date": "2026-09-28T17:00:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CEO’s van OpenAI en Anthropic opgeroepen door Australische Senaat",
+   "link": "https://businessam.be/ceos-van-openai-en-anthropic-opgeroepen-door-australische-senaat/",
+   "description": "Key takeaways De leiders van Anthropic en OpenAI zijn verzocht om te getuigen voor een Australische Senaatscommissie die onderzoek doet naar artificiële intelligentie. De dagvaarding volgt op een ernstig beveiligingsincident waarbij een OpenAI-bot de Australische gezondheidszorgdatabase heeft geïnfiltreerd. Premier Anthony Albanese heeft het inbreukincident bij Medicare aan de kaak gesteld, dat geldt als een van […]",
+   "date": "2026-09-28T16:41:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijd record: Nvidia maakt 150 miljard dollar vrij voor aandeleninkoop",
+   "link": "https://www.hln.be/economie/wereldwijd-record-nvidia-maakt-150-miljard-dollar-vrij-voor-aandeleninkoop~a50128eb/",
+   "description": "De raad van bestuur van de Amerikaanse chipgigant Nvidia heeft liefst 150 miljard dollar (132 miljard euro) vrijgemaakt om eigen aandelen in te kopen, zo maakt het bedrijf maandag bekend. Het gaat om een nieuw wereldwijd recordbedrag.",
+   "date": "2026-09-28T16:24:26",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia koopt voor recordbedrag van 150 miljard dollar eigen aandelen op",
+   "link": "https://tweakers.net/nieuws/252694/nvidia-koopt-voor-recordbedrag-van-150-miljard-dollar-eigen-aandelen-op.html",
+   "description": "Nvidia zet 150 miljard dollar opzij om zijn eigen aandelen terug te kopen op de beurs. De AI-chipmaker voegt dit recordbedrag toe aan zijn resterende budget van 85 miljard dollar voor het opkopen van eigen aandelen. Het besteedt dit totaalbedrag van 235 miljard dollar tot januari 2028.",
+   "date": "2026-09-28T16:20:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street stevent af op lagere opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-stevent-af-op-lagere-opening/",
+   "description": "(ABM FN-Dow Jones) Wall Street stevent maandag af op een lagere opening. Donald Trumps afwijzing van een vredesakkoord met Iran, stijgende olieprijzen en hogere obligatierendementen zullen het marktsentiment drukken. Maar ook de onvoorspelbare impact van AI zal beleggers voorzichtig maken.Futures op de toonaangevende S&P 500 noteerden een half uur voor de opening 0,4 procent lager en …\nThe post Wall Street stevent af op lagere opening appeared first on Trends.be.",
+   "date": "2026-09-28T14:54:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia gaat voor enorm bedrag aandelen inkopen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-gaat-voor-enorm-bedrag-aandelen-inkopen/",
+   "description": "(ABM FN-Dow Jones) Nvidia gaat de komende jaren voor een enorm bedrag aan aandelen inkopen, terwijl het bedrijf tegelijk een platform lanceerde om AI-agenten veilig te houden. Dit meldde de Amerikaanse chipreus maandag.Het bestaande inkoopprogramma wordt verhoogd met 150 miljard dollar tot 235 miljard dollar. Nvidia verwacht het inkoopprogramma tot en met boekjaar 2028 uit …\nThe post Nvidia gaat voor enorm bedrag aandelen inkopen appeared first on Trends.be.",
+   "date": "2026-09-28T14:41:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia brengt platform uit dat 'Hugging Face-aanval had kunnen voorkomen'",
+   "link": "https://tweakers.net/nieuws/252686/nvidia-brengt-platform-uit-dat-hugging-face-aanval-had-kunnen-voorkomen.html",
+   "description": "Nvidia heeft het Open Agent Safety Platform uitgebracht. Dit platform bestaat uit twee nieuwe beveiligingstools voor AI-agents. Het bedrijf claimt dat deze tools de hack op Hugging Face door agents van OpenAI hadden kunnen voorkomen.",
+   "date": "2026-09-28T14:38:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia lanceert beveiligingsplatform dat ontspoorde AI-agenten intoomt",
+   "link": "https://www.demorgen.be/nieuws/nvidia-lanceert-beveiligingsplatform-dat-ontspoorde-ai-agenten-intoomt~b858eb55/",
+   "description": "",
+   "date": "2026-09-28T14:20:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De verrassende redenen waarom China sceptisch staat tegenover oproepen tot veiligheid voor AI",
+   "link": "https://www.demorgen.be/nieuws/de-verrassende-redenen-waarom-china-sceptisch-staat-tegenover-oproepen-tot-veiligheid-voor-ai~b4f548ad/",
+   "description": "",
+   "date": "2026-09-28T14:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Trump ontmoet Anthropic-CEO terwijl hij oproep om AI-ontwikkeling af te remmen verwerpt",
+   "link": "https://businessam.be/trump-ontmoet-anthropic-ceo-terwijl-hij-oproep-om-ai-ontwikkeling-af-te-remmen-verwerpt/",
+   "description": "Key takeaways President Donald Trump heeft bevestigd dat hij zondagavond heeft gedineerd met Dario Amodei, CEO van Anthropic. Ondanks die ontmoeting blijft de president zich verzetten tegen een mogelijke vertraging van de ontwikkeling van artificiële intelligentie. Voorsprong van 18 maanden Trump stelde dat het opleggen van strenge regelgeving er onbedoeld toe zou kunnen leiden dat […]",
+   "date": "2026-09-28T13:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Australische Senaat ontbiedt OpenAI- en Anthropic-ceo's voor AI-verhoor",
+   "link": "https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html",
+   "description": "De ceo's van OpenAI en Anthropic zijn gevraagd om voor de Australische Senaat te verschijnen en vragen te beantwoorden. De Senaat doet onderzoek naar AI. Het verzoek komt enkele dagen nadat bekend werd dat een agent van OpenAI een Australische overheidswebsite hackte.",
+   "date": "2026-09-28T12:54:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De houdgreep van algoritmen die kwetsbare mensen het duister in trekken",
+   "link": "https://www.nrc.nl/nieuws/2026/09/28/de-houdgreep-van-algoritmen-die-kwetsbare-mensen-het-duister-in-trekken-a4937699",
+   "description": "Tussen Kunst & Kitsch besteedde aandacht aan de aanstaande verjaardag van de Nederlandse televisie. In Molly versus het algoritme en Dwars door de Pyreneeën werden diametraal verschillende vensters op de wereld zichtbaar.",
+   "date": "2026-09-28T12:05:43",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML-topman waarschuwt voor exportregels tegen China: ‘Wie te veel beperkt, zaait wanhoop’",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/asml-topman-christophe-fouquet-over-exportregels-china-wie-te-veel-beperkt-zaait-wanhoop/",
+   "description": "Christophe Fouquet, de Europese Manager van het Jaar 2025, bouwde het grootste bedrijf van Europa uit dankzij een volstrekt monopolie op de meest geavanceerde apparatuur voor chipproductie.\nThe post ASML-topman waarschuwt voor exportregels tegen China: ‘Wie te veel beperkt, zaait wanhoop’ appeared first on Trends.be.",
+   "date": "2026-09-28T12:00:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Thermal Grizzly en Noctua brengen gpu-stekkerbewaker van 189,90 euro uit",
+   "link": "https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html",
+   "description": "Thermal Grizzly en Noctua hebben de WireView Pro II Noctua Edition op de markt gebracht. Dit is een 12V-2x6-monitoringsapparaat voor high-end gpu's. Het apparaat heeft een adviesprijs van 189,90 euro en is per direct te koop.",
+   "date": "2026-09-28T11:53:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ACM: Vaker computergestuurde prijzen door AI en beschikbaarheid van data",
+   "link": "https://www.security.nl/posting/954869/ACM%3A+Vaker+computergestuurde+prijzen+door+AI+en+beschikbaarheid+van+data?channel=rss",
+   "description": "De Autoriteit Consument & Markt (ACM) verwacht dat bedrijven door AI en de beschikbaarheid van data vaker computergestuurde ...",
+   "date": "2026-09-28T11:40:25",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wisselende prijzen door algoritmes leiden tot wantrouwen onder consumenten",
+   "link": "https://www.nu.nl/economie/6411225/wisselende-prijzen-door-algoritmes-leiden-tot-wantrouwen-onder-consumenten.html",
+   "description": "Consumenten weten vaak niet waarom ze online verschillende prijzen krijgen te zien voor bijvoorbeeld een vliegticket of speelgoed. Velen denken ten onrechte dat eerdere zoekopdrachten de prijs opdrijft. Concurrentiewaakhond ACM vindt dat bedrijven daar duidelijker over moeten zijn.",
+   "date": "2026-09-28T11:18:32",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Experts: Oekraïne moet ontwikkeling van AI en dronetechnologie versnellen om concurrerend te blijven",
+   "link": "https://businessam.be/experts-oekraine-moet-ontwikkeling-van-ai-en-dronetechnologie-versnellen-om-concurrerend-te-blijven/",
+   "description": "Key takeaways Het landschap van de luchtoorlogvoering in Oekraïne ontwikkelt zich zo snel dat militaire experts waarschuwen dat het land zijn technologische vooruitgang moet versnellen om tegen 2027 concurrerend te blijven. Tijdens het symposium Defense 2027. Army, Technology, Industry in Kiev, georganiseerd door de Nationale Vereniging van Oekraïense Defensie-industrieën en Radio NV, wees een panel […]",
+   "date": "2026-09-28T11:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Open-weight modellen verwerken voor het eerst meerderheid AI-tokens",
+   "link": "https://www.emerce.nl/nieuws/openweight-modellen-verwerken-eerst-meerderheid-aitokens",
+   "description": "Open-weight AI-modellen zijn voor het eerst goed voor de meerderheid van het AI-gebruik via de AI Gateway van Vercel. In augustus verwerkten open-weight modellen 56 procent van alle tokens, terwijl de gemiddelde prijs per token met 23,2 procent daalde. Uit de nieuwste AI Gateway Production Index blijkt dat de prijs-prestatieverhouding steeds belangrijker wordt als het aankomt op het kiezen van een AI-model.",
+   "date": "2026-09-28T09:55:56",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Stroom erin, tokens eruit: wat moet je weten over een AI factory?",
+   "link": "https://trends.knack.be/ai-en-tech/data-en-cloud/stroom-erin-tokens-eruit-wat-moet-je-weten-over-een-ai-factory/",
+   "description": "De term AI factory klinkt als pure marketing, en toch is het een fundamenteel ander soort datacenters. Een AI factory draait niet zozeer rond housing, maar wel om hoeveel AI-output ze levert per watt, per euro en per week. \nThe post Stroom erin, tokens eruit: wat moet je weten over een AI factory? appeared first on Trends.be.",
+   "date": "2026-09-28T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Angst voor artificiële intelligentie helpt onze kmo’s geen meter vooruit’",
+   "link": "https://trends.knack.be/ai-en-tech/angst-voor-artificiele-intelligentie-helpt-onze-kmos-geen-meter-vooruit/",
+   "description": "Doemberichten dreigen de adoptie van artificiële intelligentie in Vlaamse kmo's te vertragen. Nochtans ligt net in die technologie een antwoord op de economische uitdagingen waar onze bedrijven voor staan.\nThe post ‘Angst voor artificiële intelligentie helpt onze kmo’s geen meter vooruit’ appeared first on Trends.be.",
+   "date": "2026-09-28T08:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische techaandelen onder druk",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-techaandelen-onder-druk/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten maandagochtend overwegend in het rood. Beleggers reageerden op onzekerheid rond de ontwikkeling van kunstmatige intelligentie, de hogere olieprijs en oplopende obligatierentes.In Seoel koerste de techgevoelige Kospi-index bijna 3 procent lager, waarbij de halfgeleiders Samsung en SK Hynix met verliezen van ongeveer 4 procent onderaan stonden. De Shanghai Composite daalde …\nThe post Aziatische techaandelen onder druk appeared first on Trends.be.",
+   "date": "2026-09-28T07:33:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU lanceert energie- en waterbeoordelingssysteem voor datacenters",
+   "link": "https://businessam.be/eu-lanceert-energie-en-waterbeoordelingssysteem-voor-datacenters/",
+   "description": "Key takeaways Om de snelle groei van artificiële intelligentie (AI) in evenwicht te brengen met ecologische duurzaamheid, heeft de Europese Commissie een gestandaardiseerd beoordelingssysteem gelanceerd om het water- en energieverbruik in datacenters te monitoren. Dit initiatief richt zich op faciliteiten met een IT-stroomverbruik van meer dan 500 kilowatt en biedt een transparante maatstaf voor autoriteiten, […]",
+   "date": "2026-09-28T07:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donald Trump nodigt topman van Anthropic uit op Witte Huis: eerste persoonlijke ontmoeting",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/donald-trump-nodigt-topman-van-anthropic-uit-op-witte-huis-eers~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-28T07:06:07",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hands-on - Siri AI: Apples slimme assistent is nu bruikbaar, maar niet helemaal foutloos",
+   "link": "https://tweakers.net/reviews/15296/siri-ai-apples-slimme-assistent-is-nu-bruikbaar-maar-niet-helemaal-foutloos.html",
+   "description": "Apple heeft Siri AI eindelijk uitgebracht. Die nieuwe versie moet Apples 'slimme' assistent daadwerkelijk nuttig maken. We probeerden het uit in macOS 27.",
+   "date": "2026-09-28T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI drukt op pauzeknop na nieuwe reeks verontrustende incidenten",
    "link": "https://www.standaard.be/buitenland/openai-drukt-op-pauzeknop-na-nieuwe-reeks-verontrustende-incidenten/162219507.html",
