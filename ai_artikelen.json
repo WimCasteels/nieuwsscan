@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T17:30:45",
+ "generated": "2026-09-28T03:25:28",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 25,
+   "count": 24,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 35,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 152,
+   "count": 156,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 90,
    "error": null
   },
   {
@@ -315,6 +315,40 @@
   }
  ],
  "articles": [
+  {
+   "title": "OpenAI drukt op pauzeknop na nieuwe reeks verontrustende incidenten",
+   "link": "https://www.standaard.be/buitenland/openai-drukt-op-pauzeknop-na-nieuwe-reeks-verontrustende-incidenten/162219507.html",
+   "description": "De agressieve en ongebruikelijke methodes die AI-agents van OpenAI loslieten op een reeks overheidswebsites, tonen opnieuw hoe moeilijk ontwikkelaars hun systemen onder controle kunnen houden.",
+   "date": "2026-09-27T20:19:19",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Waar ik me zorgen over maak, zijn de modellen die openbaar beschikbaar zijn’: OpenAI legt training van krachtigste AI-systemen stil na incidenten",
+   "link": "https://www.demorgen.be/tech-wetenschap/waar-ik-me-zorgen-over-maak-zijn-de-modellen-die-openbaar-beschikbaar-zijn-openai-legt-training-van-krachtigste-ai-systemen-stil-na-incidenten~b270a72b/",
+   "description": "",
+   "date": "2026-09-27T18:30:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "We moeten Big Tech tegenhouden voor het de publieke ruimte volledig koloniseert",
+   "link": "https://www.nrc.nl/nieuws/2026/09/27/we-moeten-big-tech-tegenhouden-voor-het-de-publieke-ruimte-volledig-koloniseert-a4937535",
+   "description": "Folkert Jensma houdt eigenlijk niet van demonstreren. Maar nu technologiereuzen ongestraft de vruchten van de journalistiek in de blender van hun AI-modellen gooien, en zo bijdragen aan de teloorgang van de democratie, moet hij wel.",
+   "date": "2026-09-27T18:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-28",
+   "intro_geprobeerd": false
+  },
   {
    "title": "China en VS starten AI-overleg na topontmoeting, volgens Witte Huis",
    "link": "https://businessam.be/china-en-vs-starten-ai-overleg-na-topontmoeting-volgens-witte-huis/",
