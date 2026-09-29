@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T04:29:27",
+ "generated": "2026-09-29T18:47:31",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "name": "De Morgen - Luister",
    "url": "https://www.demorgen.be/luister/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 162,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 89,
    "error": null
   },
   {
@@ -310,11 +310,352 @@
   {
    "name": "Volkskrant - Tech",
    "url": "https://www.volkskrant.nl/tech/rss.xml",
-   "count": 34,
+   "count": 33,
    "error": null
   }
  ],
  "articles": [
+  {
+   "title": "Videoreview - Apple iPhone 18 Pro review: Dit zijn de (subtiele) verbeteringen",
+   "link": "https://tweakers.net/video/20576/apple-iphone-18-pro-review-dit-zijn-de-subtiele-verbeteringen.html",
+   "description": "De iPhone 18 Pro is er en Apple belooft weer de beste camera ooit, een snellere chip en slimmere AI. Maar is dit nu écht een grote stap vooruit, of betaal je bijna €1.500 voor een bescheiden update?",
+   "date": "2026-09-29T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD versterkt AI-strategie met overname van World Labs voor 8,2 miljard dollar",
+   "link": "https://businessam.be/amd-versterkt-ai-strategie-met-overname-van-world-labs-voor-82-miljard-dollar/",
+   "description": "Key takeaways AMD heeft een formele overeenkomst gesloten voor de overname van World Labs, een toonaangevend AI-onderzoeksbedrijf dat is opgericht door dr. Fei-Fei Li. Met de strategische overname haalt AMD een vooraanstaande groep modelspecialisten en onderzoekers in huis. Daarmee versterkt het bedrijf zijn vermogen om hardware, software en geïntegreerde systemen te ontwikkelen die zijn afgestemd […]",
+   "date": "2026-09-29T17:57:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Losgeslagen AI-agents bedwingen? Nvidia komt met een oplossing",
+   "link": "https://www.standaard.be/economie/losgeslagen-ai-agents-bedwingen-nvidia-komt-met-een-oplossing/162311342.html",
+   "description": "Op de vooravond van besprekingen over AI-veiligheid in het Witte Huis heeft Nvidia een technologische oplossing voorgesteld voor het probleem waar zowat de hele wereld de voorbije maanden over wakker ligt: losgeslagen AI-agents. “Het is een oplosbaar engineering-probleem”, zegt een AI-expert.",
+   "date": "2026-09-29T16:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veiligheidsrisico’s overschaduwen de nakende beursgang van Anthropic",
+   "link": "https://www.standaard.be/economie/veiligheidsrisicos-overschaduwen-de-nakende-beursgang-van-anthropic/162301253.html",
+   "description": "Persagentschap ‘Reuters’ heeft inzage gekregen in de documenten die voorafgaan aan de beursgang van Anthropic. Het bedrijf geeft informatie over zijn cijfers, maar waarschuwt vooral voor de risico’s van AI.",
+   "date": "2026-09-29T16:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie moet opdraaien voor de schade die hackende AI veroorzaakt?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/29/wie-moet-opdraaien-voor-de-schade-die-hackende-ai-veroorzaakt-a4937726",
+   "description": "Veel grote AI-bedrijven pleiten voor regulering, internationale coördinatie en beter toezicht om de ontwikkeling van hun technologie beheersbaar te houden. Critici zien daarin een weigering van die concerns om verantwoordelijkheid te nemen voor een groeiend aantal vergaande hacks van hun AI-agents.",
+   "date": "2026-09-29T15:21:38",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Inmiddels ‘tienduizenden’ incidenten met AI-agents: wat is er aan de hand?",
+   "link": "https://www.demorgen.be/tech-ai/inmiddels-tienduizenden-incidenten-met-ai-agents-wat-is-er-aan-de-hand~b12ef193/",
+   "description": "",
+   "date": "2026-09-29T15:00:49",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta profiteert van supersucces Muse",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/meta-profiteert-van-supersucces-muse/",
+   "description": "De lancering van Meta’s AI-assistent is een overweldigend succes. Muse veroverde in de Verenigde Staten in geen tijd de koppositie in de App Store van Apple. In Europa is de app nog niet beschikbaar. Muse kan zelfstandig taken uitvoeren als afspraken maken, mails versturen, vluchten boeken of aankopen doen.AI-agents zijn niet nieuw. Muse is wel …\nThe post Meta profiteert van supersucces Muse appeared first on Trends.be.",
+   "date": "2026-09-29T15:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na zijn scheiding wilde filosoof Kris Goffin zijn ex omtoveren in een chatbot. Is dat te rechtvaardigen?",
+   "link": "https://www.trouw.nl/religie-filosofie/na-zijn-scheiding-wilde-filosoof-kris-goffin-zijn-ex-omtoveren-in-een-chatbot-is-dat-te-rechtvaardigen~b67c5b3a/",
+   "description": "",
+   "date": "2026-09-29T15:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Britse politie scande 500.000 gezichten met live gezichtsherkenning: 0 arrestaties",
+   "link": "https://www.security.nl/posting/955105/Britse+politie+scande+500_000+gezichten+met+live+gezichtsherkenning%3A+0+arrestaties?channel=rss",
+   "description": "In een periode van zes maanden heeft de Britse politie tijdens een test met live gezichtsherkenning meer dan een half miljoen ...",
+   "date": "2026-09-29T14:53:44",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tweehonderd papers en veertien boeken in één jaar? Het is ‘jaloezie’ om te denken dat AI daaraan meeschreef, zegt een statisticus",
+   "link": "https://www.nrc.nl/nieuws/2026/09/29/tweehonderd-papers-en-veertien-boeken-in-een-jaar-het-is-jaloezie-om-te-denken-dat-ai-daaraan-meeschreef-zegt-een-statisticus-a4937678",
+   "description": "Het platform waarop statisticus Nicholas Polson publiceerde, heeft zijn profiel voorlopig bevroren en zijn artikelen offline gehaald.",
+   "date": "2026-09-29T14:52:17",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Community - De beste +3-reacties van augustus: zelfbewuste AI en zo start je met LoRa",
+   "link": "https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html",
+   "description": "Dit zijn alle +3-reacties die lezers in augustus onder onze artikelen achterlieten.",
+   "date": "2026-09-29T14:45:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Microsoft betaalt mensen om seksuele plaatjes van Copilot te verbeteren'",
+   "link": "https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html",
+   "description": "Microsoft heeft honderden mensen in dienst om afbeeldingen die Copilot genereert te beoordelen, inclusief de bijbehorende prompts. Sommige van die afbeeldingen zijn seksueel getint. Het doel is niet om content op te sporen die in strijd is met regels of wetten, maar om de output van Copilot te verbeteren, zo meldt 404 Media.",
+   "date": "2026-09-29T14:29:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Tengels af van onze teksten’, schrijvers protesteren bij AI-aanbieder Meta tegen ‘de diefstal van de eeuw’",
+   "link": "https://www.volkskrant.nl/tech/tengels-af-van-onze-teksten-schrijvers-protesteren-bij-ai-aanbieder-meta-tegen-de-diefstal-van-de-eeuw~b0d9cb52/",
+   "description": "",
+   "date": "2026-09-29T14:17:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI schrapt lancering GPT-6.1 Astra na kritieke beveiligingsproblemen",
+   "link": "https://businessam.be/openai-schrapt-lancering-gpt-6-1-astra-na-kritieke-beveiligingsproblemen/",
+   "description": "Key takeaways Omdat niet aan de interne veiligheidsnormen werd voldaan, heeft OpenAI besloten af te zien van de lancering van zijn nieuwste AI-model, GPT-6.1 Astra. Saachi Jain, hoofd veiligheidssystemen bij het bedrijf, liet de BBC weten dat het model niet aan de vereiste normen voldeed, waarbij hij opmerkte dat de AI gebruikers af en toe […]",
+   "date": "2026-09-29T13:27:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CCB heeft in België nog geen aanvallen door AI-agents gezien",
+   "link": "https://www.security.nl/posting/955046/CCB+heeft+in+Belgi%C3%AB+nog+geen+aanvallen+door+AI-agents+gezien?channel=rss",
+   "description": "Het Belgische Centrum voor Cybersecurity (CCB) heeft in België nog geen aanvallen door AI-agents gezien, zo laat de ...",
+   "date": "2026-09-29T12:21:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Roep om ‘nucleaire optie’ ter bescherming van het Internationaal Strafhof tegen Amerikaanse sancties zwelt aan in Brussel",
+   "link": "https://www.nrc.nl/nieuws/2026/09/29/roep-om-nucleaire-optie-inzake-het-internationaal-strafhof-zwelt-aan-in-brussel-a4937755",
+   "description": "In Brussel wordt sterk rekening gehouden met het scenario dat de VS het Internationaal Strafhof in Den Haag binnenkort volledig lamleggen. Europarlementariërs pleiten voor „onmiddellijke actie” om de „Europese waarden en moed” koste wat kost te bewaken. „Het gaat nu over het hof, maar straks over Rheinmetall of Mistral.”",
+   "date": "2026-09-29T12:12:15",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD neemt AI-bedrijf World Labs over voor 7,2 miljard euro in aandelen",
+   "link": "https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html",
+   "description": "AMD neemt AI-start-up World Labs over. Dat bedrijf werkt aan AI-modellen die gebruikt worden om 3d-omgevingen te simuleren. De overname wordt volledig betaald met AMD-aandelen en moet dit jaar nog worden afgerond.",
+   "date": "2026-09-29T12:04:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Firmware-update - Apple iOS 27.0.1",
+   "link": "https://tweakers.net/downloads/78422/apple-ios-2701.html",
+   "description": "Apple heeft een update voor versie 27 van iOS uitgebracht. In iOS 27, dat geschikt is voor de iPhone 11 en hoger, heeft Apple onder meer extra AI-functies beschikbaar gemaakt, zijn er meer mogelijkheden voor ouders om hun kinderen te beschermen en zijn er diverse verbeteringen in Liquid Glass aangebracht. In versie 27.0.1 zijn onder meer de volgende problemen verholpen: iOS 27.0.1",
+   "date": "2026-09-29T12:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gents Spotable vangt 4 miljoen euro om AI-gestuurde bouwoffertes uit te breiden",
+   "link": "https://trends.knack.be/ondernemen/spotable-vangt-4-miljoen-euro-om-ai-gestuurde-bouwoffertes-uit-te-breiden/",
+   "description": "Het gaat hard voor Spotable. Zijn slimme platform maakt accurate offertes voor dakwerken. Dankzij een kapitaalinjectie breidt het zijn technologie uit naar gevelwerken, met input van fabrikanten en leveranciers. \"We zijn klaar om Europa en de Verenigde Staten te veroveren\", zegt medeoprichter Julie Dumoulin. \"Daarna willen we in rechte lijn richting die unicornstatus.\"\nThe post Gents Spotable vangt 4 miljoen euro om AI-gestuurde bouwoffertes uit te breiden appeared first on Trends.be.",
+   "date": "2026-09-29T11:46:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Leuvense AI-agent geeft beleggers advies via gesprek in bankapp: ‘Banken zijn zelf verantwoordelijk’",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-agent-van-leuvense-start-up-geeft-beleggingsadvies-in-uw-bankapp-banken-krijgen-veel-controle-maar-dragen-de-verantwoordelijkheid/",
+   "description": "Het Leuvense fintechbedrijf InvestSuite heeft Charlie for Advice voorgesteld: een AI-agent die persoonlijk beleggingsadvies geeft vanuit de app of website van uw bank. De tool kan een risicoprofiel opstellen op basis van de vragen die klanten beantwoorden, en geeft advies net zoals een beleggingsadviseur.\nThe post Leuvense AI-agent geeft beleggers advies via gesprek in bankapp: ‘Banken zijn zelf verantwoordelijk’ appeared first on Trends.be.",
+   "date": "2026-09-29T11:27:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic waarschuwt voor risico's voor mensheid door AI in documenten voor beursgang",
+   "link": "https://www.gva.be/economie/bedrijven/anthropic-waarschuwt-voor-risicos-voor-mensheid-door-ai-in-documenten-voor-beursgang/162306926.html",
+   "description": "Het Amerikaanse AI-bedrijf Anthropic, het bedrijf achter de chatbot Claude, heeft investeerders gewaarschuwd voor de “catastrofale en existentiële risico's voor de mensheid” die artificiële intelligentie met zich meebrengt. Dat meldt onder meer de Financial Times.",
+   "date": "2026-09-29T11:20:44",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude lanceert marketplace",
+   "link": "https://www.emerce.nl/nieuws/claude-lanceert-marketplace",
+   "description": "Anthropic kondigt een nieuwe Claude Marketplace aan die alle AI-gerelateerde tools op een plek samenbrengt, waaronder plug-ins, connectors en agents.",
+   "date": "2026-09-29T11:00:05",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI schrapt lancering nieuw AI-model vanwege veiligheidsrisico's",
+   "link": "https://www.nu.nl/tech/6411341/openai-schrapt-lancering-nieuw-ai-model-vanwege-veiligheidsrisicos.html",
+   "description": "OpenAI brengt toch geen nieuw AI-model uit, bevestigt het bedrijf achter ChatGPT na berichtgeving van The Wall Street Journal. Bij interne testen zijn meerdere veiligheidsrisico's aan het licht gekomen. Het model zou begin oktober verschijnen.",
+   "date": "2026-09-29T10:47:13",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic: beursgang in november, waardering 2.000 miljard",
+   "link": "https://www.emerce.nl/nieuws/anthropic-beursgang-november-waardering-2000-miljard",
+   "description": "Anthropic wil in november 2026 naar de beurs tegen een waardering van tweeduizend miljard dollar, bij een omzet over 2025 van 4,6 miljard dollar. Bijna een kwart van de omzet kwam van slechts twee klanten.",
+   "date": "2026-09-29T09:50:43",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: miljardenverlies en enorme AI-investeringen voor Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-miljardenverlies-en-enorme-ai-investeringen-voor-anthropic/",
+   "description": "(ABM FN-Dow Jones) Anthropic heeft vorig jaar ondanks een explosieve omzetgroei een miljardenverlies geleden en staat de komende jaren voor honderden miljarden dollars aan verplichtingen voor rekenkracht en infrastructuur. Dit bleek dinsdag uit het prospectus voor de geplande beursgang dat Reuters kon inzien.De omzet van het AI-bedrijf, bekend van chatbot Claude, verveelvoudigde in 2025 tot bijna …\nThe post Media: miljardenverlies en enorme AI-investeringen voor Anthropic appeared first on Trends.be.",
+   "date": "2026-09-29T08:34:43",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lancering aanstaande van Googles ‘datacentrumsatelliet’",
+   "link": "https://www.emerce.nl/nieuws/lancering-aanstaande-googles-datacentrumsatelliet",
+   "description": "Google is van plan om volgende week donderdag zijn eerste experimentele satelliet te laten lanceren.",
+   "date": "2026-09-29T07:44:25",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen onder druk door hogere rente en olieprijs",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-onder-druk-door-hogere-rente-en-olieprijs/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden dinsdag per saldo lager, onder druk van onder meer oplopende obligatierentes, hogere olieprijzen en een uitgelekt prospectus van Anthropic. In Tokio verloor de Nikkei index 1,3 procent en daalde de Topix index met 1,5 procent. De Kospi index in Seoul leverde 0,7 procent in, terwijl de Hang Seng index in …\nThe post Aziatische beurzen onder druk door hogere rente en olieprijs appeared first on Trends.be.",
+   "date": "2026-09-29T07:13:52",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI stelt lancering geavanceerd AI-model uit na nieuwe incidenten: \"Lat voor veiligheid ligt extreem hoog\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/29/openai-stelt-lancering-geavanceerd-ai-model-uit-na-nieuwe-incide/",
+   "description": "OpenAI, het bedrijf achter ChatGPT, stelt de geplande lancering van een nieuw geavanceerd AI-model uit. Alweer zijn er kopzorgen over de veiligheid. 'GPT-6.1 Astra', zoals het nieuwe model gedoopt is, zou gebruikers hebben proberen te misleiden.",
+   "date": "2026-09-29T07:05:04",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "CTO Ahold Delhaize naar EDAY 2026",
+   "link": "https://www.emerce.nl/nieuws/cto-ahold-delhaize-eday-2026",
+   "description": "Ahold Delhaize investeert in kunstmatige intelligentie om zijn operationele systemen fundamenteel te vernieuwen. Door menselijke en machine-intelligentie te combineren, bereikt het bedrijf snellere innovatie en leren, sterker contact met lokale gemeenschappen en meetbare resultaten voor klanten, medewerkers en partners. Deze datagedreven strategie maakt Ahold Delhaize (moederbedrijf van Albert Heijn) toonaangevend in e-commerce en digital business. CTO Gerhard van der Bijl deelt op EDAY praktijkvoorbeelden waarin menselijke en machine-intelligentie samenkomen.",
+   "date": "2026-09-29T06:30:07",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI als statussymbool: waarom bedrijven blijven experimenteren zonder resultaat",
+   "link": "https://www.emerce.nl/opinie/ai-statussymbool-waarom-bedrijven-blijven-experimenteren-zonder-resultaat",
+   "description": "In dit opiniestuk stelt Pieter Janssens (CEO van iO) dat veel bedrijven AI momenteel vooral als statussymbool inzetten zonder dat het concrete businesswaarde oplevert. Hij betoogt dat organisaties pas succesvol zullen zijn als ze stoppen met doelloos experimenteren en AI gericht gaan inzetten om specifieke businessproblemen op te lossen.",
+   "date": "2026-09-29T06:22:49",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omoda-groep bundelt AI-activiteiten in apart team",
+   "link": "https://www.emerce.nl/nieuws/omodagroep-bundelt-aiactiviteiten-apart-team",
+   "description": "Ewoud Frielink legt de functie van CTO bij Omoda neer en wordt Hoofd AI bij de bedrijvengroep waar ook Wehkamp en Kleertjes.com toe behoren. Hij gaat een apart AI-team bouwen.",
+   "date": "2026-09-29T06:01:40",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI stelt lancering nieuw AI-model uit wegens zorgen over veiligheid",
    "link": "https://www.gva.be/economie/bedrijven/openai-stelt-lancering-nieuw-ai-model-uit-wegens-zorgen-over-veiligheid/162297104.html",
@@ -338,10 +679,32 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Niemand wil ze in zijn achtertuin, dus schiet Google deze week een datacenter de ruimte in",
+   "link": "https://www.gva.be/binnenland/niemand-wil-ze-in-zijn-achtertuin-dus-schiet-google-deze-week-een-datacenter-de-ruimte-in/162292219.html",
+   "description": "Met Project Suncatcher wil Google onderzoeken of een datacenter in een baan om de aarde kan werken. Nu donderdag wordt een satelliet met AI-chips in een baan om de aarde gebracht. Van daaruit zal die, op zonne-energie, eenvoudige Gemini-prompts beantwoorden.",
+   "date": "2026-09-29T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "OpenAI ziet voorlopig af van lancering nieuwste AI-model vanwege veiligheid",
    "link": "https://www.ad.nl/tech/openai-ziet-voorlopig-af-van-lancering-nieuwste-ai-model-vanwege-veiligheid~ab2fd739/",
    "description": "Het nieuwste model van ontwikkelaar OpenAI zal niet begin oktober worden gelanceerd, zoals gepland was. The Wall Street Journal meldde in de nacht van maandag op dinsdag dat er veiligheidszorgen zijn over het model GPT-6.1 Astra. Het wordt daarom nog niet beschikbaar gesteld aan gebruikers.",
    "date": "2026-09-29T02:14:31",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ziet voorlopig af van lancering nieuwste AI-model vanwege zorgen om veiligheid",
+   "link": "https://www.ad.nl/tech/openai-ziet-voorlopig-af-van-lancering-nieuwste-ai-model-vanwege-zorgen-om-veiligheid~ab2fd739/",
+   "description": "Het nieuwste model van ontwikkelaar OpenAI zal niet begin oktober worden gelanceerd, zoals gepland was. The Wall Street Journal meldde in de nacht van maandag op dinsdag dat er veiligheidszorgen zijn over het model GPT-6.1 Astra. Het wordt daarom nog niet beschikbaar gesteld aan gebruikers, bevestigde het bedrijf achter ChatGPT.",
+   "date": "2026-09-29T02:14:00",
    "feeds": [
     "AD - Tech"
    ],
@@ -360,6 +723,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "OpenAI ziet om veiligheidsredenen af van lancering nieuwste AI-model",
+   "link": "https://www.hln.be/tech/openai-ziet-om-veiligheidsredenen-af-van-lancering-nieuwste-ai-model~a8b439b7/",
+   "description": "Het nieuwste model van ontwikkelaar OpenAI zal niet begin oktober worden gelanceerd, zoals gepland was. ‘The Wall Street Journal’ meldde in de nacht van maandag op dinsdag dat er veiligheidszorgen zijn over het model GPT-6.1 Astra. Het model wordt, na interne testen, voorlopig niet beschikbaar gesteld aan gebruikers, zo bevestigde het bedrijf achter ChatGPT.",
+   "date": "2026-09-29T01:54:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AMD neemt AI-bedrijf World Labs over",
    "link": "https://trends.knack.be/beleggen/beursnieuws/amd-neemt-ai-bedrijf-world-labs-over/",
    "description": "(ABM FN-Dow Jones) Advanced Micro Device neemt het AI-onderzoeksbedrijf World Labs over in een volledige aandelendeal ter waarde van ongeveer 8,2 miljard dollar. Dit maakte het bedrijf maandag nabeurs bekend.De chipmaker, die onlangs een beurswaarde van 1000 miljard dollar aantikte, wil met de overname toonaangevend AI-onderzoekstalent binnenhalen om betere AI-hardware, -software en -systemen te ontwikkelen, vooral …\nThe post AMD neemt AI-bedrijf World Labs over appeared first on Trends.be.",
@@ -369,6 +743,17 @@
    ],
    "first_seen": "2026-09-29",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Uitgeverijen: houd het hoofd koel om het beest AI te temmen",
+   "link": "https://www.trouw.nl/opinie/uitgeverijen-houd-het-hoofd-koel-om-het-beest-ai-te-temmen~b40b8501/",
+   "description": "",
+   "date": "2026-09-28T22:00:08",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": true
   },
   {
    "title": "You can’t trade your way through the AI apocalypse",
