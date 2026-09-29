@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T20:25:36",
+ "generated": "2026-09-29T04:29:27",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "OpenAI stelt lancering nieuw AI-model uit wegens zorgen over veiligheid",
+   "link": "https://www.gva.be/economie/bedrijven/openai-stelt-lancering-nieuw-ai-model-uit-wegens-zorgen-over-veiligheid/162297104.html",
+   "description": "OpenAI, het bedrijf achter ChatGPT, heeft de lancering van een nieuw geavanceerd AI-model uitgesteld door zorgen over de veiligheid. Het model GPT-6.1 Astra moest begin oktober gelanceerd worden, maar zou gebruikers hebben proberen te misleiden, vernam persbureau AFP maandag van het AI-bedrijf.",
+   "date": "2026-09-29T03:11:03",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Niemand wil ze in zijn achtertuin, dus schiet Google deze week een datacenter(tje) de ruimte in",
+   "link": "https://www.gva.be/binnenland/niemand-wil-ze-in-zijn-achtertuin-dus-schiet-google-deze-week-een-datacentertje-de-ruimte-in/162292219.html",
+   "description": "Met Project Suncatcher wil Google onderzoeken of een datacenter in een baan om de aarde kan werken. Nu donderdag wordt een satelliet met AI-chips in een baan om de aarde gebracht. Van daaruit zal die, op zonne-energie, eenvoudige Gemini-prompts beantwoorden.",
+   "date": "2026-09-29T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ziet voorlopig af van lancering nieuwste AI-model vanwege veiligheid",
+   "link": "https://www.ad.nl/tech/openai-ziet-voorlopig-af-van-lancering-nieuwste-ai-model-vanwege-veiligheid~ab2fd739/",
+   "description": "Het nieuwste model van ontwikkelaar OpenAI zal niet begin oktober worden gelanceerd, zoals gepland was. The Wall Street Journal meldde in de nacht van maandag op dinsdag dat er veiligheidszorgen zijn over het model GPT-6.1 Astra. Het wordt daarom nog niet beschikbaar gesteld aan gebruikers.",
+   "date": "2026-09-29T02:14:31",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ziet af van lancering nieuwste AI-model om veiligheid",
+   "link": "https://www.hln.be/tech/openai-ziet-af-van-lancering-nieuwste-ai-model-om-veiligheid~a8b439b7/",
+   "description": "Het nieuwste model van ontwikkelaar OpenAI zal niet begin oktober worden gelanceerd, zoals gepland was. The Wall Street Journal meldde in de nacht van maandag op dinsdag dat er veiligheidszorgen zijn over het model GPT-6.1 Astra. Het wordt daarom nog niet beschikbaar gesteld aan gebruikers.",
+   "date": "2026-09-29T01:54:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD neemt AI-bedrijf World Labs over",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/amd-neemt-ai-bedrijf-world-labs-over/",
+   "description": "(ABM FN-Dow Jones) Advanced Micro Device neemt het AI-onderzoeksbedrijf World Labs over in een volledige aandelendeal ter waarde van ongeveer 8,2 miljard dollar. Dit maakte het bedrijf maandag nabeurs bekend.De chipmaker, die onlangs een beurswaarde van 1000 miljard dollar aantikte, wil met de overname toonaangevend AI-onderzoekstalent binnenhalen om betere AI-hardware, -software en -systemen te ontwikkelen, vooral …\nThe post AMD neemt AI-bedrijf World Labs over appeared first on Trends.be.",
+   "date": "2026-09-28T22:32:39",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "You can’t trade your way through the AI apocalypse",
+   "link": "https://www.nrc.nl/nieuws/2026/09/28/you-cant-trade-your-way-through-the-ai-apocalypse-a4937553",
+   "description": "It’s hard to price the threats posed by a misaligned superintelligence.",
+   "date": "2026-09-28T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elite van AI-toppers houdt collectief vers pleidooi voor meer politieke controle",
+   "link": "https://www.tijd.be/r/t/1/id/10687745",
+   "description": "Onderzoekers van de leidende AI-bedrijven in de VS grijpen naar een academische paper om nog eens te waarschuwen voor de potentieel destructieve impact van de technologie. Dat blijft op een koude steen vallen bij hun belangrijkste bestemmeling: president Donald Trump.",
+   "date": "2026-09-28T21:24:30",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Discord ontwikkelt modus die pc minder belast tijdens het gamen",
    "link": "https://www.hln.be/games/discord-ontwikkelt-modus-die-pc-minder-belast-tijdens-het-gamen~a2f02122/",
