@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T03:51:28",
+ "generated": "2026-09-30T18:39:06",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 33,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 161,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,458 @@
   }
  ],
  "articles": [
+  {
+   "title": "Een Nederlands AI-veiligheidsinstituut? Goed idee, &#8216;maar je moet medewerkers wel minstens 1 of 2 ton betalen&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/09/30/een-nederlands-ai-veiligheidsinstituut-goed-idee-maar-je-moet-medewerkers-wel-minstens-1-of-2-ton-betalen-a4937672",
+   "description": "Overal is te horen hoe machtig en mogelijk zelfs gevaarlijk kunstmatige intelligentie kan zijn. De roep om ‘vangrails’ wordt steeds luider. Net als in andere landen denkt Nederland na over een AI-veiligheidsinstituut. Maar dat kost wel veel geld.",
+   "date": "2026-09-30T18:25:42",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van Moderna over SAP tot Kinepolis: de 30 grote beurswinnaars van het derde kwartaal",
+   "link": "https://www.tijd.be/r/t/1/id/10688047",
+   "description": "Wall Street zette zijn opmars voort, maar in Europa, en zeker in Brussel, verliep de beurszomer een stuk stroever. AI, olie en de rente trokken diepe sporen door de markt. Dit waren de opvallendste winnaars en verliezers.",
+   "date": "2026-09-30T18:08:47",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agoria: 'AI-motor op volle toeren zou onze economische groei kunnen verdubbelen'",
+   "link": "https://www.tijd.be/r/t/1/id/10688083",
+   "description": "Bij Belgische technologische firma's en maakbedrijven blijft het pover gesteld met het benutten van artificiële intelligentie. Nochtans zouden de adoptie van AI, vaardigheden en investeringen in AI ertoe kunnen leiden dat de economische groei in ons land verdubbelt tot 2 procent van het bbp, stelt sectorfederatie Agoria.",
+   "date": "2026-09-30T18:00:54",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BMW wil 20 procent van managementbanen schrappen door AI",
+   "link": "https://www.gva.be/economie/bedrijven/bmw-wil-20-procent-van-managementbanen-schrappen-door-ai/162396731.html",
+   "description": "De Duitse autofabrikant BMW is van plan om volgend jaar 20 procent van de managementfuncties te schrappen. Het bedrijf wil op die manier kosten besparen. BMW verwacht de taken die de managers doen over te kunnen laten aan AI. Daarmee wordt het bedrijf volgens een verklaring weer wendbaarder.",
+   "date": "2026-09-30T17:37:36",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video: JPMorgan kiest voor Aziatische chipfabrikanten",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-jpmorgan-kiest-voor-aziatische-chipfabrikanten/",
+   "description": "(ABM FN-Dow Jones) Binnen het techsegment zijn chipfabrikanten uit opkomende markten momenteel het meest interessant. Dit zei beleggingsstrateeg Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News op Beursplein 5.Klik hier voor: JPMorgan kiest voor Aziatische chipfabrikantenNaar verwachting wordt er dit jaar door de hyperscalers voor 750 miljard dollar aan investeringen gedaan. …\nThe post Video: JPMorgan kiest voor Aziatische chipfabrikanten appeared first on Trends.be.",
+   "date": "2026-09-30T17:12:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijven sluiten vrijwillig akkoord om toezicht te houden op AI-ontwikkeling",
+   "link": "https://tweakers.net/nieuws/252782/ai-bedrijven-sluiten-vrijwillig-akkoord-om-toezicht-te-houden-op-ai-ontwikkeling.html",
+   "description": "Leiders van een aantal grote techbedrijven hebben een vrijwillig akkoord gesloten met de Amerikaanse president Donald Trump om zelf AI te reguleren. In het akkoord staat onder andere dat de bedrijven zowel intern als extern toezicht gaan houden op de ontwikkeling van AI. Daarin staat ook dat het 'op termijn' logisch is om de vrijwillige afspraken wettelijk vast te leggen.",
+   "date": "2026-09-30T17:08:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BMW zet AI in voor meer efficiëntie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bmw-zet-ai-in-voor-meer-efficientie/",
+   "description": "(ABM FN-Dow Jones) BMW gaat kunstmatige intelligentie gebruiken om efficiënter te worden. De nieuwe technologie zal de groep naar verwachting helpen om meer te doen met minder werknemers, terwijl het zich voorbereidt op steeds moeilijkere marktomstandigheden.AI wordt een belangrijk middel om kosten te besparen en de ontwikkeling te versnellen. De autofabrikant wil de technologie verder integreren …\nThe post BMW zet AI in voor meer efficiëntie appeared first on Trends.be.",
+   "date": "2026-09-30T17:03:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BMW gooit 20 procent van de managers buiten en laat AI het werk doen",
+   "link": "https://www.hln.be/economie/bmw-gooit-20-procent-van-de-managers-buiten-en-laat-ai-het-werk-doen~a5f25464/",
+   "description": "Autofabrikant BMW is van plan om volgend jaar 20 procent van de managementfuncties te schrappen. Het bedrijf wil op die manier kosten besparen. BMW verwacht dat AI hun taken kan overnemen.",
+   "date": "2026-09-30T16:48:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google: AI vindt meer en gevaarlijkere kwetsbaarheden in software",
+   "link": "https://www.security.nl/posting/955356/Google%3A+AI+vindt+meer+en+gevaarlijkere+kwetsbaarheden+in+software?channel=rss",
+   "description": "Door het gebruik van AI worden veel meer kwetsbaarheden in software gevonden die ook nog eens veel gevaarlijker zijn, zo stelt ...",
+   "date": "2026-09-30T16:41:14",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek maakt software voor Huawei-chips om onafhankelijker van Nvidia te zijn",
+   "link": "https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html",
+   "description": "Het Chinese AI-bedrijf DeepSeek heeft software voor chips van Huawei ontwikkeld op basis van de programmeertaal TileLang. Het bedrijf wil daarmee zijn afhankelijkheid van het Amerikaanse Nvidia afbouwen.",
+   "date": "2026-09-30T16:36:01",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic waarschuwt beleggers dat zijn AI ‘catastrofaal’ voor de mensheid kan zijn",
+   "link": "https://www.ad.nl/tech/anthropic-waarschuwt-beleggers-dat-zijn-ai-catastrofaal-voor-de-mensheid-kan-zijn~a42aa5ed3/",
+   "description": "Kort voor je beursgang waarschuwen dat je software tot het uitsterven van de mensheid kan leiden. Het is een zet die we niet eerder zagen. Toch is dat precies wat AI-bedrijf Anthropic doet. Kun je in zoiets nog met een schoon geweten beleggen? „Het is gevaarlijke technologie.”",
+   "date": "2026-09-30T16:01:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI voegt abonnement van 500 dollar toe en knijpt abo van 200 dollar af",
+   "link": "https://tweakers.net/nieuws/252798/openai-voegt-abonnement-van-500-dollar-toe-en-knijpt-abo-van-200-dollar-af.html",
+   "description": "Het duurste abonnement van OpenAI kost nu 500 dollar per maand. Daarvoor krijgen gebruikers de hoogste gebruikslimieten en snellere reacties. Tot dusver kostte het duurste abonnement 200 dollar. Dat blijft bestaan, maar de gebruikslimieten gaan door de helft.",
+   "date": "2026-09-30T15:50:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI introduceert dots, een virtuele assistent op basis van GPT-6 Astra",
+   "link": "https://businessam.be/openai-introduceert-dots-een-virtuele-assistent-op-basis-van-gpt-6-astra/",
+   "description": "Key takeaways OpenAI heeft ‘dots’ geïntroduceerd, een alomtegenwoordige virtuele assistent die is ontwikkeld om een breed scala aan taken te stroomlijnen, van het ontwerpen van websites tot het regelen van restaurantreserveringen. Autonome productiviteit Volgens OpenAI zijn die autonome agenten ontworpen om op elk moment van de dag zelfstandig de doelen van een gebruiker na te […]",
+   "date": "2026-09-30T15:26:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump tekent akkoord met belangrijkste bedrijfsleiders uit AI-sector: \"Veiligheid kan botsen met winst\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/trump-tekent-akkoord-met-belangrijkste-bedrijfsleiders-uit-aise~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-30T13:51:51",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Van het twintigtal AI-leiders rond de tafel van Trump was er één vrouw",
+   "link": "https://trends.knack.be/opinie/van-het-twintigtal-ai-leiders-rond-de-tafel-van-trump-was-er-een-vrouw/",
+   "description": "Aan de lunch van president Donald Trump met de Amerikaanse AI-top zaten 34 mensen. Welgeteld twee ervan waren vrouwen: zijn eigen Chief of Staff en de CEO van AMD. Het zegt – alweer - iets over wie de technologie vormgeeft waar wij straks van afhangen.\nThe post Van het twintigtal AI-leiders rond de tafel van Trump was er één vrouw appeared first on Trends.be.",
+   "date": "2026-09-30T13:33:59",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump vervangt ‘AI’ door ‘superintelligentie’ in nieuw AI-pact",
+   "link": "https://businessam.be/trump-vervangt-ai-door-superintelligentie-in-nieuw-ai-pact/",
+   "description": "Key takeaways Tijdens een recente bijeenkomst met vooraanstaande technologieleiders in het Witte Huis onthulde president Donald Trump een vrijwillig pact dat bekendstaat als de Joint Commitment On Frontier Responsibilities. Dit “moreel bindende” akkoord heeft tot doel een kader te creëren voor zelfregulering door de sector, waarbij Trump de overeenkomst vergeleek met een beschermende grondwet voor […]",
+   "date": "2026-09-30T13:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video: waarom is Nvidia goedkoper dan de Nasdaq?",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-waarom-is-nvidia-goedkoper-dan-de-nasdaq/",
+   "description": "(ABM FN) Waarom ligt de waardering van Nvidia lager dan de gemiddelde koers-winstverhouding in de Nasdaq, terwijl het bedrijf \"zo waanzinnig hard groeit\". Op die vraag geeft onafhankelijk analist Frank Vranken voor de camera van ABM Financial News in Brussel antwoord.Klik hier voor: waarom is Nvidia goedkoper dan de Nasdaq?Voor het antwoord wijst Vranken op de …\nThe post Video: waarom is Nvidia goedkoper dan de Nasdaq? appeared first on Trends.be.",
+   "date": "2026-09-30T12:48:18",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Praten met een overleden geliefde: kan AI helpen bij rouw of maakt het loslaten moeilijker?",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/09/30/kan-ai-helpen-bij-rouw-overleden-geliefde-griefbot/",
+   "description": "\"Het gevaar is dat je de dood gaat ontkennen door een geliefde met AI net heel levend te houden.\" Dat zegt psychiater en rouwdeskundige Uus Knops naar aanleiding van de opkomst van zogenaamde 'griefbots': chatbots die overleden geliefden nabootsen en waarmee nabestaanden opnieuw gesprekken kunnen voeren.",
+   "date": "2026-09-30T12:46:30",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Praten met een overleden geliefde: kan AI helpen bij rouw of maakt het loslaten moeilijker?",
+   "link": "https://vrtnws.be/p.mR0o043Ke",
+   "description": "\"Het gevaar is dat je de dood gaat ontkennen door een geliefde met AI net heel levend te houden.\" Dat zegt psychiater en rouwdeskundige Uus Knops naar aanleiding van de opkomst van zogenaamde 'griefbots': chatbots die overleden geliefden nabootsen en waarmee nabestaanden opnieuw gesprekken kunnen voeren.",
+   "date": "2026-09-30T12:46:30",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - AMD Radeon Software Adrenalin Edition 26.9.2 WHQL",
+   "link": "https://tweakers.net/downloads/78430/amd-radeon-software-adrenalin-edition-2692-whql.html",
+   "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.9.2 is ondersteuning voor spellen Minecraft Dungeons II, Call of Duty: Modern Warfare 4 campaign early access, The Witcher 3: Wild Hunt — Remastered, Gears of War: E-Day, Control Resonant en Valor Mortis toegevoegd, en zijn er enkele problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Game Support",
+   "date": "2026-09-30T12:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bijna vier op de tien Belgische technologiebedrijven implementeren AI",
+   "link": "https://www.hln.be/nieuws/bijna-vier-op-de-tien-belgische-technologiebedrijven-implementeren-ai~a2ba5710/",
+   "description": "Bijna vier op de tien (37 procent) Belgische technologiebedrijven zijn artificiële intelligentie (AI) in hun processen aan het inbouwen, waar dat er een jaar geleden nog maar drie op de tien (27 procent) waren. Dat blijkt woensdag uit een bevraging van sectorfederatie Agoria bij ruim driehonderd leidinggevenden.",
+   "date": "2026-09-30T12:17:03",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geheugenbedrijf Netlist eist importverbod VS op HBM-geheugenchips van Micron",
+   "link": "https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html",
+   "description": "Het Amerikaanse geheugenbedrijf Netlist eist van de handelstoezichthouder een importverbod op geheugenchips van Micron. Dit verbod zou ook moeten gelden voor afnemers Nvidia, Broadcom en Google. Volgens Netlist maakt geheugenfabrikant Micron inbreuk op zijn patenten op HBM-chips.",
+   "date": "2026-09-30T12:00:11",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe detectietool Pangram AI-bedriegers aan de schandpaal nagelt",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/hoe-detectietool-pangram-ai-bedriegers-aan-de-schandpaal-nagelt/",
+   "description": "Voorvallen waarbij politici, journalisten en auteurs betrapt worden op allesbehalve transparant gebruik van AI-tekstgeneratoren, stapelen zich de voorbije maanden op. Kan de veelbesproken AI-detectietool van Pangram Labs de stiekemerds eruit wieden?\nThe post Hoe detectietool Pangram AI-bedriegers aan de schandpaal nagelt appeared first on Knack.",
+   "date": "2026-09-30T11:50:20",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veel datacenters in EU lijken water- en stroomgebruik onterecht geheim te houden",
+   "link": "https://tweakers.net/nieuws/252776/veel-datacenters-in-eu-lijken-water-en-stroomgebruik-onterecht-geheim-te-houden.html",
+   "description": "Veel datacenters, ook in Nederland, lijken hun water- en stroomgebruik onterecht geheim te houden. Daarnaast zou het voor EU-burgers lastig zijn om van overheidsinstanties inzage te krijgen in de milieu-impact van datacenters, terwijl die informatie openbaar zou moeten zijn. Er wordt een speciale procedure gestart.",
+   "date": "2026-09-30T11:03:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta’s Muse kan binnenkort aankopen voor gebruikers afronden via Shopify",
+   "link": "https://www.emerce.nl/nieuws/metas-muse-kan-binnenkort-aankopen-gebruikers-afronden-via-shopify",
+   "description": "Meta’s AI-assistent Muse kan binnenkort zelfstandig aankopen afronden voor gebruikers bij webwinkels die Shopify gebruiken. Daarmee breidt Meta de mogelijkheden van zijn AI-agent verder uit: Muse kan niet alleen producten zoeken, maar uiteindelijk ook namens de gebruiker een bestelling plaatsen.",
+   "date": "2026-09-30T10:50:30",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Als je zelf niet schrijft, heb je geen mening: met AI laat je de stem van een ander klinken",
+   "link": "https://www.emerce.nl/opinie/column-zelf-schrijft-heb-geen-mening-ai-stem-ander-klinken",
+   "description": "Jasper betoogt dat het overmatige gebruik van AI (zoals ChatGPT) en technologische gemakken de westerse samenleving en bedrijven lui maken. Inspiratie uit een reis door armere landen (Oeganda en Rwanda) laat zien dat fysieke en mentale inspanning juist weerbaarheid en voldoening opleveren. In marketing en e-commerce leidt het blind vertrouwen op AI tot eentonige, karakterloze content ('AI-slop'). Merken verliezen hiermee hun unieke identiteit. De conclusie is helder: zet AI in als slim hulpmiddel of redacteur, niet als volledige vervanger van menselijke originaliteit.",
+   "date": "2026-09-30T10:30:34",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump laat AI-sector zichzelf controleren: een ‘grondwet’ zonder wettelijke tanden",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/trump-laat-ai-sector-zichzelf-controleren-een-grondwet-zonder-wettelijke-tanden/",
+   "description": "De Amerikaanse president Donald Trump heeft een akkoord ondertekend met de topmannen van de AI-sector. Het gaat om een \"moreel bindende\" overeenkomst die zowel interne als externe controles op de ontwikkeling van artificiële intelligentie mogelijk moet maken. Zelfregulering dus vooral.\nThe post Trump laat AI-sector zichzelf controleren: een ‘grondwet’ zonder wettelijke tanden appeared first on Trends.be.",
+   "date": "2026-09-30T10:28:47",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump ondertekent akkoord met AI-bonzen dat interne en externe controles toelaat",
+   "link": "https://www.knack.be/nieuws/wereld/live/amerikaanse-verkiezingen-2024/trump-ondertekent-akkoord-met-ai-bonzen-dat-interne-en-externe-controles-toelaat-1391035/",
+   "description": "Volg hier alles over de Verenigde Staten en hun 47e president Donald Trump.\nThe post Trump ondertekent akkoord met AI-bonzen dat interne en externe controles toelaat appeared first on Knack.",
+   "date": "2026-09-30T10:12:31",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie ontwart de AI-veiligheidsknoop?  “Geweldige zelfregulering” volstaat, vertelt Trump aan tech-ceo’s",
+   "link": "https://www.standaard.be/buitenland/wie-ontwart-de-ai-veiligheidsknoop-geweldige-zelfregulering-volstaat-vertelt-trump-aan-tech-ceos/162322452.html",
+   "description": "OpenAI schort de lancering van zijn nieuwste model op. Anthropic waarschuwt in de aanloop naar zijn beursgang voor de “existentiële risico's” die zijn technologie kan veroorzaken. Een louter “moreel bindend” document dat tech-ceo’s ondertekenden in het Witte Huis, doet zo weinig mogelijk om die risico’s te beteugelen.",
+   "date": "2026-09-30T10:00:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Alle goede ideeën passen op een bierviltje’",
+   "link": "https://trends.knack.be/opinie/alle-goede-ideeen-passen-op-een-bierviltje/",
+   "description": "Nooit was het zo gemakkelijk professioneel te klinken zonder precies te weten waarover je spreekt. Geef artificiële intelligentie een half idee en het maakt er een foutloze strategienota van twintig pagina’s van. AI is fantastisch in het verbloemen van wat we zelf niet weten. Op het toneel van de bedrijfswereld, in de media en zeker …\nThe post ‘Alle goede ideeën passen op een bierviltje’ appeared first on Trends.be.",
+   "date": "2026-09-30T09:30:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: OpenAI wil 30 miljard dollar ophalen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-openai-wil-30-miljard-dollar-ophalen-2/",
+   "description": "(ABM FN-Dow Jones) OpenAI wil bij investeerders minstens 30 miljard dollar ophalen met een nieuwe financieringsronde, nu het bedrijf zijn beursgang heeft uitgesteld. Dat meldden bronnen aan Bloomberg. Het AI-bedrijf mikt op een waardering van ongeveer 1,4 biljoen dollar, exclusief het opgehaalde kapitaal. Bloomberg meldde eerder al dat OpenAI een ronde tegen een waardering van 1,2 …\nThe post Media: OpenAI wil 30 miljard dollar ophalen appeared first on Trends.be.",
+   "date": "2026-09-30T09:25:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Axios: OpenAI zou omgerekend bijna 70 miljard dollar per jaar omzetten",
+   "link": "https://tweakers.net/nieuws/252768/axios-openai-zou-omgerekend-bijna-70-miljard-dollar-per-jaar-omzetten.html",
+   "description": "De geëxtrapoleerde jaaromzet van OpenAI zou nu uitkomen op bijna 70 miljard dollar. Dit meldt Axios op basis van ingewijde bronnen. OpenAI verkoopt meer van zijn diensten aan zakelijke klanten. De omzet daaruit zou ruim zijn verdubbeld in de loop van het derde kwartaal.",
+   "date": "2026-09-30T08:01:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump laat AI-bedrijven zichzelf controleren met ‘moreel bindend’ akkoord",
+   "link": "https://www.tijd.be/r/t/1/id/10687972",
+   "description": "De Amerikaanse president Donald Trump heeft met de kopstukken van de AI-sector een vrijwillig veiligheidsakkoord gesloten. Bedrijven beloven interne controles en externe audits, maar krijgen geen nieuwe wettelijke verplichtingen opgelegd. Trump wil vermijden dat overheidsingrijpen de AI-boom afremt of China een voorsprong geeft.",
+   "date": "2026-09-30T07:51:10",
+   "feeds": [
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veelal groene koersen op Aziatische beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/veelal-groene-koersen-op-aziatische-beurzen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten woensdag overwegend hoger, met uitzondering van de Zuid-Koreaanse Kospi-index. De Japanse Nikkei-index trok de kar met winsten oplopend tot 2 procent. In Japan waren het vooral halfgeleiders, banken en grondstofaandelen die er goed bij lagen.  De SSE Composite-index won 0,3 procent op 3.840,82 punten en de Hang Seng-index maakte een pas …\nThe post Veelal groene koersen op Aziatische beurzen appeared first on Trends.be.",
+   "date": "2026-09-30T07:39:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI aangeklaagd door ngo na hack van techbedrijf Hugging Face",
+   "link": "https://www.hln.be/tech/openai-aangeklaagd-door-ngo-na-hack-van-techbedrijf-hugging-face~acf71f8b/",
+   "description": "OpenAI is dinsdag door een juridische actiegroep voor technologische veiligheid voor de rechter gedaagd in de Amerikaanse staat Californië. De ngo beschuldigt het bedrijf ervan een lokale wet over cyberaanvallen te hebben overtreden nadat zijn AI-agenten het techbedrijf Hugging Face waren binnengedrongen.",
+   "date": "2026-09-30T07:11:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Toenemend verzet wekt irritatie bij datacentra: ‘Het zijn cave people’",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/toenemend-verzet-wekt-irritatie-bij-datacentra-het-zijn-cave-people~b544fcfd/",
+   "description": "",
+   "date": "2026-09-30T07:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI aangeklaagd door ngo na hack Hugging Face: “Ernstig incident”",
+   "link": "https://www.gva.be/economie/bedrijven/openai-aangeklaagd-door-ngo-na-hack-hugging-face-ernstig-incident/162353281.html",
+   "description": "OpenAI is dinsdag door een juridische actiegroep voor technologische veiligheid voor de rechter gedaagd in de Amerikaanse staat Californië. De ngo beschuldigt het bedrijf ervan een lokale wet over cyberaanvallen te hebben overtreden nadat zijn AI-agenten het platform Hugging Face waren binnengedrongen.",
+   "date": "2026-09-30T06:57:59",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Emerce Academy start training in ChatGPT Ads",
+   "link": "https://www.emerce.nl/nieuws/emerce-academy-start-training-chatgpt-ads",
+   "description": "Emerce Academy voegt een training toe die zich volledig richt op ChatGPT Ads. Vanaf eind oktober leren marketeers in een deepdive van drie uur hoe ze zelf een campagne opzetten op het advertentieplatform van OpenAI, van accountstructuur tot creatie en conversiemeting.",
+   "date": "2026-09-30T06:21:32",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Leeuwendeel van EU-instellingen laat mail via Amerikaanse servers lopen",
+   "link": "https://nos.nl/l/2633082",
+   "description": "Bijna driekwart van de instellingen van de Europese Unie laat zijn mail via servers van Amerikaanse bedrijven lopen, blijkt uit onderzoek van de NOS. Dat terwijl de Europese Commissie zich zorgen maakt over de afhankelijkheid van Amerikaanse bigtech.\n        Ondanks die zorgen gaat zelfs mail van de Europese Commissie langs servers van Amerikaanse bedrijven. De Europese Commissie antwoordde niet op vragen van de NOS over de fysieke locatie waar de mail is opgeslagen.\n        Ook het Europees Defensie-agentschap, verschillende toezichthouders op de financiële markten en de toezichthouder tegen terrorisme en witwassen hebben hun mailservers bij Microsoft ondergebracht. De Europese Centrale Bank deed dat bij een andere Amerikaanse maildienst.\n        Meekijken in de VS\n        Dat betekent dat Amerikaanse inlichtingendiensten kunnen meekijken in e-mail, maar ook dat de Amerikaanse overheid de dienstverlening zou kunnen verstoren.\n        Eerder dit jaar zei commissievoorzitter Von der Leyen dat \"we niet afhankelijk kunnen zijn van anderen voor technologie die onze ziekenhuizen laat draaien, ons energienet laat werken en onze dienstverlening veilig houdt.\"\n        Europarlementariër Bart Groothuis (VVD) toont zich bezorgd over de mail van de Europese Commissie die langs Amerikaanse bedrijven gaat. \"Dit is een dienst die het altijd moet doen en er komt geregeld gevoelige informatie langs, dus de controle moet je in Europese handen houden\", zegt hij.\n        \"Het lijkt mij verstandig als dit binnen de Europese Unie wordt ondergebracht\", zegt zijn collega Kim van Sparrentak (Pro). \"Blijkbaar voelen we de urgentie niet genoeg. Ik zou denken dat er inmiddels wel genoeg aanleiding is om over te stappen.\"\n        Het Europees Parlement gebruikt geen Amerikaanse mailservers, evenals Europol en het Hof van Justitie van de EU.\n        Stekker eruit\n        De keus voor Amerikaanse bedrijven ligt in toenemende mate onder vuur. De afgelopen tien jaar stapten overheden en bedrijven massaal over op Microsoft voor het fysiek opslaan van hun e-mail. Kritiek kwam toen vooral uit de hoek van privacy-organisaties.\n        Tijdens Trumps tweede termijn als president van de VS blijkt hoe kwetsbaar Europese instellingen zich maken door die samenwerking met Amerikaanse bedrijven.\n        De VS dreigt het Internationaal Strafhof in Den Haag op de sanctielijst te zetten, in navolging van individuele rechters en de voorzitter van het Strafhof. Eerder kwam ook al een links-anarchistische Italiaanse provider, die onder meer mailboxen aan activisten aanbood, op de sanctielijst te staan.\n        Amerikaanse bedrijven mogen niet samenwerken met personen en organisaties op de sanctielijst. Dat betekent dat techbedrijven hun diensten moeten staken zodra de Amerikaanse regering sancties tegen iets of iemand instelt. \"De Amerikaanse regering kan elk moment de stekker eruit trekken\", zegt Europarlementariër Van Sparrentak.\n        Een woordvoerder van Microsoft wijst erop dat het bedrijf daar altijd bezwaar tegen zal maken. \"Daartoe heeft Microsoft zich via bindende contractuele voorwaarden verplicht.\"\n        Gevoelige informatie\n        Een andere zorg is dat de Amerikaanse overheid toegang kan krijgen tot gevoelige informatie die in mailboxen is opgeslagen. De Amerikaanse wet verplicht Microsoft en andere internetbedrijven om in bepaalde gevallen informatie te overhandigen die buiten de Verenigde Staten is opgeslagen.\n        \"De Europese Unie handhaaft ook op bigtech\", benadrukt Van Sparrentak. Zo kreeg Google dit jaar nog een boete van 900 miljoen euro. \"Dat is allemaal in te zien door de Amerikanen.\" Eerder voerde de Amerikaanse regering de druk op vanwege EU-boetes voor Amerikaanse techbedrijven.\n        Europarlementariër Groothuis is niet voor een totaalverbod op Amerikaanse tech, benadrukt hij. \"Soms kun je er gewoon niet omheen en het is goede technologie. Maar je moet je niet technologisch afhankelijk maken van één land.\"\n        VN-instellingen\n        Ook VN-instellingen gebruiken nog veel Amerikaanse clouddiensten. Het Internationaal Strafhof stapte afgelopen jaar over van Office 365 naar een Europees alternatief, maar veel andere VN-organisaties en aanverwante instellingen gebruiken nog Amerikaanse mail.\n        Daaronder zijn onder meer de VN-vluchtelingenorganisatie UNRWA en de instanties die zijn belast met toezicht op de nucleaire sector en chemische wapens.\n        Als alle mail in Europa staat, zoals de Europarlementariërs hopen, is nog niet alles opgelost. \"Intussen gooit iedereen in het Europees Parlement en bij Europese instellingen de hele dag alles in ChatGPT\", zegt Europarlementariër Groothuis. \"Je soevereiniteit gaat dan alsnog het raam uit.\"\n        Er moeten dus meer Europese alternatieven komen, op alle terreinen, bepleit Groothuis. \"We moeten drie of vier Europese spelers hebben die de concurrentie kunnen aangaan.\"\n        Dan helpt het als de overheid Europees inkoopt, benadrukt Van Sparrentak (Pro). \"Nu schuiven we miljarden naar Amerikaanse bedrijven. Dat hadden we beter in Europa kunnen investeren.\"\n        Reactie Microsoft\n        In een reactie laat Microsoft weten achter plannen voor meer Europese digitale soevereiniteit te staan. \"Dat moet gebeuren op basis van openheid, samenwerking, eerlijke concurrentie en keuzevrijheid\", aldus de Amerikaanse techgigant. \"Wij blijven ons inzetten voor een sterk, weerbaar, innovatief en internationaal verbonden technologisch ecosysteem in Europa.\"\n        Verantwoording\n        Voor dit artikel onderzocht de NOS de domeinnamen van 70 EU-instellingen en 60 VN-organisaties en aanverwante instellingen. We onderzochten daarvoor de zogenoemde DNS-gegevens, ook wel het telefoonboek van het internet genoemd.\n        Met die DNS-gegevens kan worden bekeken waar de infrastructuur achter een website is ondergebracht. We keken naar de DNS-gegevens die worden gebruikt voor het ontvangen en verzenden van e-mail.\n        De Europese Commissie had tot dinsdag 10.30 uur een Microsoft-server ingesteld voor het ontvangen van e-mail, evenals twee andere Amerikaanse servers. Na vragen van de NOS werd de Microsoft-server verwijderd.\n        De andere twee ingestelde servers worden in de regel gebruikt om mail te filteren op spam en digitale dreigingen, voordat die naar de echte mailservers wordt doorgestuurd. In dit geval mogelijk dus die van Microsoft.\n        Dat de Europese Commissie Office 365 van Microsoft gebruikt, is breed gedocumenteerd, onder andere door de Europese privacy-toezichthouder.",
+   "date": "2026-09-30T06:02:36",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cultuursocioloog Siri Beerends: ‘Mensen merken dat hun leven helemaal niet beter wordt door AI’",
+   "link": "https://www.knack.be/nieuws/mensen-merken-dat-hun-leven-helemaal-niet-beter-wordt-door-ai/",
+   "description": "De Nederlandse cultuursocioloog en onderzoeker Siri Beerends (Medialab SETUP en Universiteit Twente) houdt zich bezig met de maatschappelijke impact van AI. Ze ziet ‘toenemend moreel verzet tegen kunstmatige intelligentie en alle digitale technologie die heel veel data vreet.’Waar komt dat verzet vandaan?Siri Beerends: Het heeft niet alleen te maken met de ecologische voetafdruk. Het gaat …\nThe post Cultuursocioloog Siri Beerends: ‘Mensen merken dat hun leven helemaal niet beter wordt door AI’ appeared first on Knack.",
+   "date": "2026-09-30T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waalse burgers verzetten zich met succes tegen Google-datacenters: ‘Het voelde als David tegen Goliath’",
+   "link": "https://www.knack.be/nieuws/belgie/het-succesvolle-verzet-van-burgers-in-wallonie-tegen-google-datacenters-het-voelde-als-david-tegen-goliath/",
+   "description": "Datacenters roepen wereldwijd steeds meer burgerprotest op. Ook in België groeit het verzet, vooral in Wallonië, waar verschillende ‘hyperscalers’ van Google staan of worden gebouwd. ‘Al die belastende infrastructuur voor kattenfilmpjes en pornovideo’s?’\nThe post Waalse burgers verzetten zich met succes tegen Google-datacenters: ‘Het voelde als David tegen Goliath’ appeared first on Knack.",
+   "date": "2026-09-30T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Trump tekent akkoord met AI-bonzen dat interne en externe controles toelaat: “Naam officieel veranderd naar SI”",
    "link": "https://www.gva.be/economie/trump-tekent-akkoord-met-ai-bonzen-dat-interne-en-externe-controles-toelaat-naam-officieel-veranderd-naar-si/162352600.html",
@@ -351,6 +803,18 @@
   {
    "title": "Kan de belegger het gevaar van AI beteugelen?",
    "link": "https://www.standaard.be/opinies/kan-de-belegger-het-gevaar-van-ai-beteugelen/162341257.html",
+   "description": "De veiligheid van AI is de absolute voorwaarde om voor de aandeelhouders van Anthropic ooit de kolossale, geprojecteerde waarde van 2.000 miljard gerealiseerd te zien.",
+   "date": "2026-09-29T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De droom die Anthropic verkoopt, dreigt de mensheid te vernietigen: stapt de belegger daarin mee?",
+   "link": "https://www.standaard.be/opinies/de-droom-die-anthropic-verkoopt-dreigt-de-mensheid-te-vernietigen-stapt-de-belegger-daarin-mee/162341257.html",
    "description": "De veiligheid van AI is de absolute voorwaarde om voor de aandeelhouders van Anthropic ooit de kolossale, geprojecteerde waarde van 2.000 miljard gerealiseerd te zien.",
    "date": "2026-09-29T23:59:00",
    "feeds": [
