@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T18:47:31",
+ "generated": "2026-09-30T03:51:28",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,150 @@
   }
  ],
  "articles": [
+  {
+   "title": "Trump tekent akkoord met AI-bonzen dat interne en externe controles toelaat: “Naam officieel veranderd naar SI”",
+   "link": "https://www.gva.be/economie/trump-tekent-akkoord-met-ai-bonzen-dat-interne-en-externe-controles-toelaat-naam-officieel-veranderd-naar-si/162352600.html",
+   "description": "De Amerikaanse president Donald Trump heeft dinsdag een akkoord ondertekend met de topmannen van de AI-sector. Het gaat om een “moreel bindende” overeenkomst die zowel interne als externe controles op de ontwikkeling van artificiële intelligentie mogelijk moet maken. Zelfregulering lijkt het kernwoord. Trump kondigde ook aan dat de naam van AI officieel veranderd is naar “SI”.",
+   "date": "2026-09-30T01:38:48",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump meldt toezeggingen bedrijven om AI-modellen beter te controleren",
+   "link": "https://www.nu.nl/tech/6411443/trump-meldt-toezeggingen-bedrijven-om-ai-modellen-beter-te-controleren.html",
+   "description": "De Amerikaanse president Donald Trump meldt dat AI-bedrijven toezeggingen hebben gedaan om hun modellen beter te contoleren. Ook moeten er meer mogelijkheden komen voor interne controles en externe beoordelingen. Daarmee lijkt de kans op nationale wetgeving voor de AI-sector te zijn verdampt.",
+   "date": "2026-09-30T00:01:14",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie ontwart de AI-veiligheidsknoop? Niet Washington, vertelt Trump aan tech-ceo’s",
+   "link": "https://www.standaard.be/buitenland/wie-ontwart-de-ai-veiligheidsknoop-niet-washington-vertelt-trump-aan-tech-ceos/162322452.html",
+   "description": "OpenAI schort de lancering van zijn nieuwste model op. Anthropic waarschuwt in de aanloop van zijn beursgang voor de “existentiële risico's” die zijn technologie kan veroorzaken. Als de techspelers hun AI-systemen beteugelen, zullen ze het zonder politieke hulp moeten stellen.",
+   "date": "2026-09-29T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kan de belegger het gevaar van AI beteugelen?",
+   "link": "https://www.standaard.be/opinies/kan-de-belegger-het-gevaar-van-ai-beteugelen/162341257.html",
+   "description": "De veiligheid van AI is de absolute voorwaarde om voor de aandeelhouders van Anthropic ooit de kolossale, geprojecteerde waarde van 2.000 miljard gerealiseerd te zien.",
+   "date": "2026-09-29T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI heeft nu ook AI-assistent voor dagelijks gebruik klaar",
+   "link": "https://www.tijd.be/r/t/1/id/10687956",
+   "description": "De topman van OpenAI, Sam Altman, heeft op de jaarlijkse ontwikkelaarsconferentie van zijn bedrijf de AI-assistent Dots gepresenteerd. Daarmee mengt Altman zich in de wedloop naar de nieuwste toepassing van een sector die nog altijd op zoek is naar structurele verdienmodellen.",
+   "date": "2026-09-29T22:53:18",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump ontvangt AI-top in Witte Huis en pleit voor zelfregulering van \"superintelligentie\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/trump-ontvangt-aitop-in-witte-huis-en-pleit-voor-zelfregulering~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-29T22:38:14",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street: 'Waarschuwing over AI-agent Muse bezorgt Apple tik van bijna 3 procent'",
+   "link": "https://www.tijd.be/r/t/1/id/10687954",
+   "description": "De Amerikaanse beurzen sloten lichtrood nu de rentes weer opveren. Apple kreeg een tik nu Bank of America vreest dat AI-agenten als Muse aan het verdienmodel van de techreus kunnen knagen. Carnival ging fors hoger na een prognoseverhoging.",
+   "date": "2026-09-29T22:13:53",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van driekwart van de Nederlandse datacentra is milieubelasting volstrekt onduidelijk",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/van-driekwart-van-de-nederlandse-datacentra-is-milieubelasting-volstrekt-onduidelijk~bbd70381/",
+   "description": "",
+   "date": "2026-09-29T22:00:05",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amerikaanse leger selecteert vijf humanoïde robots om verder te ontwikkelen voor militair gebruik",
+   "link": "https://businessam.be/amerikaanse-leger-selecteert-vijf-humanoide-robots-om-verder-te-ontwikkelen-voor-militair-gebruik/",
+   "description": "Key takeaways Na een reeks demonstraties op de Marine Corps Base Quantico heeft het Amerikaanse leger vijf succesvolle inzendingen geselecteerd uit een totaal van 103 aanvankelijke inzendingen. Dit initiatief, bekend als xTechHumanoid, had tot doel de mogelijke integratie van commerciële humanoïde robotica in toekomstige militaire strategieën te onderzoeken. De geselecteerde winnaars bestaan uit één volledig […]",
+   "date": "2026-09-29T21:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: OpenAI wil 30 miljard dollar ophalen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-openai-wil-30-miljard-dollar-ophalen/",
+   "description": "(ABM FN-Dow Jones) OpenAI wil in een nieuwe financieringsronde ten minste 30 miljard dollar ophalen bij investeerders. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen die bekend zijn met de zaak.De maker van ChatGPT streeft volgens Bloomberg naar een waardering van circa 1400 miljard dollar, exclusief het nieuw opgehaalde kapitaal. Het persbureau meldde eerder al …\nThe post Media: OpenAI wil 30 miljard dollar ophalen appeared first on Trends.be.",
+   "date": "2026-09-29T20:13:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opslagspecialist DataCore gaat ‘all in’ op AI",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/opslagspecialist-datacore-gaat-all-in-op-ai/",
+   "description": "AI impacteert ook gespecialiseerde IT-leveranciers. Storagebedrijf DataCore bijvoorbeeld bouwt zich sinds maart om tot een AI-bedrijf. Het is investeerder Insight Partners die er op aanstuurde.\nThe post Opslagspecialist DataCore gaat ‘all in’ op AI appeared first on Trends.be.",
+   "date": "2026-09-29T20:13:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Modder brengt Nvidia GeForce NOW-client uit voor New Nintendo 3DS-consoles",
+   "link": "https://tweakers.net/geek/252760/modder-brengt-nvidia-geforce-now-client-uit-voor-new-nintendo-3ds-consoles.html",
+   "description": "Een modder heeft een client voor Nvidia's GeForce NOW-cloudgamingdienst uitgebracht voor de New Nintendo 3DS, New 3DS XL en New 2DS XL. Daardoor kunnen de Nintendo-consoles pc-games streamen zonder dat daarvoor een gaming-pc nodig is.",
+   "date": "2026-09-29T19:59:09",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI Dots: ChatGPT wordt een persoonlijke AI-agent",
+   "link": "https://www.standaard.be/economie/openai-dots-chatgpt-wordt-een-persoonlijke-ai-agent/162344605.html",
+   "description": "Eén persoonlijke AI-agent? OpenAI gelooft dat we een heel team agents zullen willen: allemaal ‘Dots’ die een specifieke taak voor ons vervullen. Daarmee hoopt OpenAI het prille succes van Meta Muse te overvleugelen.",
+   "date": "2026-09-29T19:12:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Videoreview - Apple iPhone 18 Pro review: Dit zijn de (subtiele) verbeteringen",
    "link": "https://tweakers.net/video/20576/apple-iphone-18-pro-review-dit-zijn-de-subtiele-verbeteringen.html",
@@ -357,6 +501,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-09-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veiligheidsrisico’s overschaduwen nakende beursgang van Anthropic",
+   "link": "https://www.standaard.be/economie/veiligheidsrisicos-overschaduwen-nakende-beursgang-van-anthropic/162301253.html",
+   "description": "Het nieuwsagentschap Reuters heeft inzage gekregen in de documenten die voorafgaan aan de beursgang van Anthropic. Het bedrijf geeft informatie over zijn cijfers, maar waarschuwt vooral voor de risico’s van AI.",
+   "date": "2026-09-29T16:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-09-30",
    "intro_geprobeerd": false
   },
   {
