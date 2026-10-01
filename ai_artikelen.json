@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T03:49:10",
+ "generated": "2026-10-01T19:16:00",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 163,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
@@ -316,6 +316,314 @@
  ],
  "articles": [
   {
+   "title": "Hans Anders schort verkoop van Meta-bril op na discussie over privacyrisico’s",
+   "link": "https://www.gva.be/economie/bedrijven/hans-anders-schort-verkoop-van-meta-bril-op-na-discussie-over-privacyrisicos/162462676.html",
+   "description": "Optiekketen Hans Anders schort de verkoop van AI-brillen van Facebook-eigenaar Meta in zijn winkels tot nader order op. Dat meldt de Nederlandse krant AD en een woordvoerder van het bedrijf bevestigt het nieuws.",
+   "date": "2026-10-01T18:57:06",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: AMD Ryzen Z3-handheldchip krijgt Zen 6-cpu en RDNA 4m-igpu",
+   "link": "https://tweakers.net/nieuws/252864/gerucht-amd-ryzen-z3-handheldchip-krijgt-zen-6-cpu-en-rdna-4m-igpu.html",
+   "description": "AMD's Ryzen Z3-chips voor handhelds worden mogelijk gebaseerd op de aanstaande Zen 6-architectuur. Dat blijkt uit informatie van meerdere leakers. De ingebouwde gpu wordt juist gebaseerd op RDNA 4m, een doorontwikkeling van de RDNA 3.5-architectuur.",
+   "date": "2026-10-01T18:15:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Big strong buildings’, aldus Trump. Een nieuw overheidsgebouw? Een triomfboog? Nee, datacenters",
+   "link": "https://www.volkskrant.nl/columns-van-de-dag/big-strong-buildings-aldus-trump-een-nieuw-overheidsgebouw-een-triomfboog-nee-datacenters~b18ac425/",
+   "description": "",
+   "date": "2026-10-01T18:00:34",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bestsellerfilosoof Nick Bostrom vindt zorgen om AI overdreven: ‘Er is geen grootschalig incident geweest met miljoenen doden’",
+   "link": "https://www.volkskrant.nl/tech/bestsellerfilosoof-nick-bostrom-vindt-zorgen-om-ai-overdreven-er-is-geen-grootschalig-incident-geweest-met-miljoenen-doden~b35877c6/",
+   "description": "",
+   "date": "2026-10-01T18:00:19",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Een AI-agent die je helpt in het Limburgs? Elevenlabs komt naar België met geloofwaardige virtuele stemmen",
+   "link": "https://www.standaard.be/economie/een-ai-agent-die-je-helpt-in-het-limburgs-elevenlabs-komt-naar-belgie-met-geloofwaardige-virtuele-stemmen/162431403.html",
+   "description": "Een AI-agent die je dialect spreekt? Het kan met de virtuele stemmen van Elevenlabs, het Europese AI-bedrijf dat deze week een kantoor in België opende.",
+   "date": "2026-10-01T18:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hans Anders verwijdert Meta-bril uit alle winkels, ook ziekenhuizen en defensie grijpen in",
+   "link": "https://www.ad.nl/tech/hans-anders-verwijdert-meta-bril-uit-alle-winkels-ook-ziekenhuizen-en-defensie-grijpen-in~adb89092/",
+   "description": "Hans Anders, een van de grootste optiekketens van Nederland, schort per direct de verkoop op van de omstreden AI-bril van Facebook-eigenaar Meta. De opticien neemt die beslissing vanwege de aanhoudende maatschappelijke en politieke onrust over de privacyrisico’s van het apparaat. Ook ziekenhuizen en defensie grijpen in na vragen van deze site.",
+   "date": "2026-10-01T17:53:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse overheid brengt AI-chatbot uit die overheidsvragen beantwoordt",
+   "link": "https://tweakers.net/nieuws/252828/amerikaanse-overheid-brengt-ai-chatbot-uit-die-overheidsvragen-beantwoordt.html",
+   "description": "De Amerikaanse overheid brengt een AI-chatbot uit waarmee gebruikers vragen kunnen stellen over overheidsdiensten. De website gebruikt de AI-modellen Google Gemini en Grok om vragen van gebruikers te beantwoorden, bijvoorbeeld over het aanvragen van een paspoort of het vinden van een baan.",
+   "date": "2026-10-01T17:42:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Northrop Grumman zet AI en robotica in om de assemblage van de F-35 te versnellen",
+   "link": "https://businessam.be/northrop-grumman-zet-ai-en-robotica-in-om-de-assemblage-van-de-f-35-te-versnellen/",
+   "description": "Key takeaways Door collaboratieve robotica en artificiële intelligentie te integreren, heeft Northrop Grumman de assemblage van F-35-avionica aanzienlijk gestroomlijnd. Co-bot Een goed voorbeeld hiervan is het aanbrengen van bouten voor de voorste behuizing van de Communications, Navigation, and Identification (CNI)-module. Dat is een proces dat voorheen enkele uren in beslag nam, is nu in slechts […]",
+   "date": "2026-10-01T16:46:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ik voel niets bij wat AI maakt, omdat AI nergens betekenis aan geeft",
+   "link": "https://www.standaard.be/opinies/ik-voel-niets-bij-wat-ai-maakt-omdat-ai-nergens-betekenis-aan-geeft/162414360.html",
+   "description": "Ironisch genoeg legt AI een belangrijke maatschappelijke keuze bloot, schrijft Roos Van Eeckhaut. Namelijk dat we geen gevoel meer hebben voor de leegte van AI.",
+   "date": "2026-10-01T16:01:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voelt u zich bedrogen door AI-foto’s van immowebsites?",
+   "link": "https://www.demorgen.be/nieuws/voelt-u-zich-bedrogen-door-ai-foto-s-van-immowebsites~b486b8a0/",
+   "description": "",
+   "date": "2026-10-01T15:19:54",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Framework vraagt 7659 euro voor Desktop met 192GB ram en zonder ssd",
+   "link": "https://tweakers.net/nieuws/252840/framework-vraagt-7659-euro-voor-desktop-met-192gb-ram-en-zonder-ssd.html",
+   "description": "Framework komt met een nieuwe variant van zijn Desktop-mini-pc. Die krijgt een nieuwe Ryzen AI Max+ PRO 495-processor met 192GB geïntegreerd geheugen. Een DIY-versie zonder ssd kost 7659 euro. Een kant-en-klare versie met 2TB opslagruimte en Fedora Linux kost 8379 euro.",
+   "date": "2026-10-01T13:54:57",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google vecht eis om zoekdata te delen met concurrenten aan",
+   "link": "https://tweakers.net/nieuws/252836/google-vecht-eis-om-zoekdata-te-delen-met-concurrenten-aan.html",
+   "description": "Google vecht de eis van de Europese Commissie om zijn zoekmachinedata te delen met concurrerende zoekmachines en AI-chatbots aan bij de op een na hoogste EU-rechtbank. Volgens het bedrijf schendt het besluit de privacy van Europese gebruikers.",
+   "date": "2026-10-01T12:37:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple lanceert op 13 oktober een ‘Smart Home’-hub en apparaten met AI",
+   "link": "https://businessam.be/apple-lanceert-op-13-oktober-een-smart-home-hub-en-apparaten-met-ai/",
+   "description": "Key takeaways Onder leiding van de nieuwe CEO John Ternus bereidt Apple een aanzienlijke uitbreiding voor in de smart-home-sector, met een productlancering gepland voor 13 oktober. De hoeksteen van deze offensief is een smart-home-hub, die de codenaam J490 draagt. Deze lancering omvat ook de eerste vernieuwing van de HomePod mini sinds 2020 en een nieuwe […]",
+   "date": "2026-10-01T11:45:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Moeilijk om hackende AI-agents tegen te houden: ‘Huidige situatie is catch 22’",
+   "link": "https://www.nu.nl/tech/6411515/moeilijk-om-hackende-ai-agents-tegen-te-houden-huidige-situatie-is-catch-22.html",
+   "description": "Het regende de afgelopen maanden beveiligingsincidenten bij AI-bedrijven zoals OpenAI en Anthropic. Het gaat dan over zogenaamde AI-agents die op eigen houtje websites van bedrijven en organisaties hacken. \"Er moet iets gebeuren maar we zitten in een catch 22\", zeggen deskundigen.",
+   "date": "2026-10-01T11:02:04",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse vrouwen achtervolgd en lastiggevallen op stranden en stations: AI-bril uit verkoop of verboden",
+   "link": "https://www.ad.nl/tech/nederlandse-vrouwen-achtervolgd-en-lastiggevallen-op-stranden-en-stations-ai-bril-uit-verkoop-of-verboden~a7372e73/",
+   "description": "Honderden, mogelijk duizenden Nederlandse vrouwen en minderjarigen zijn de afgelopen maanden stiekem gefilmd met een slimme camerabril. Foto’s en filmpjes van nietsvermoedende slachtoffers in winkelstraten en op stranden circuleren in besloten Telegram-groepen en op zogeheten ‘creepshot’-platformen.",
+   "date": "2026-10-01T10:58:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google stelt nieuwe Gemini 4 Argon voor, maar je kan er nog niet aan",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/google-stelt-nieuwe-gemini-4-argon-voor-maar-je-kan-er-nog-niet-aan/",
+   "description": "Google stelt zijn nieuwe ‘frontier’ AI-model Gemini 4 Argon voor als een mijlpaal in cyberverdediging en softwareontwikkeling, maar geeft het enkel aan een select gezelschap. Te krachtig? Of gewoon nog niet klaar?\nThe post Google stelt nieuwe Gemini 4 Argon voor, maar je kan er nog niet aan appeared first on Trends.be.",
+   "date": "2026-10-01T10:55:26",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agoria: ‘Belgische economische groei kan verdubbelen door AI’",
+   "link": "https://trends.knack.be/ai-en-tech/agoria-belgische-economische-groei-kan-verdubbelen-door-ai/",
+   "description": "Als ons land structureel in AI investeert en de politiek met strategische maatregelen de weg vrijmaakt voor de technologie, kan dat helpen om de Belgische economische groei te verdubbelen. Dat zegt technologiefederatie Agoria, die 45 aanbevelingen doet aan bedrijven, overheden en kennisinstellingen.\nThe post Agoria: ‘Belgische economische groei kan verdubbelen door AI’ appeared first on Trends.be.",
+   "date": "2026-10-01T10:23:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Update: zo selecteer je de winnende aandelen in AI",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-zo-selecteer-je-de-winnende-aandelen-in-ai/",
+   "description": "(ABM FN-Dow Jones) Het is niet eenvoudig om de winnaars aan te wijzen onder de hyperscalers en modelaanbieders, maar er zijn indicatoren die hierbij kunnen helpen. Dit zei beleggingsstrateeg Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News op Beursplein 5. Klik hier voor: zo selecteer je de winnende aandelen in AIAllereerst …\nThe post Update: zo selecteer je de winnende aandelen in AI appeared first on Trends.be.",
+   "date": "2026-10-01T10:22:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Euroclear stelt Marc De Rycke aan als nieuwe CIO",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/euroclear-stelt-marc-de-rycke-aan-als-nieuwe-cio/",
+   "description": "Marc De Rycke, tot nu toe verantwoordelijk voor de AI-initiatieven, volgt Michal Paprocki op als CIO van het beursgenoteerde settlementhuis Euroclear. CISO Claus Norup wordt Deputy CIO.\nThe post Euroclear stelt Marc De Rycke aan als nieuwe CIO appeared first on Trends.be.",
+   "date": "2026-10-01T10:12:56",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Helft Nederlandse werknemers gebruikt privé AI-accounts voor werk'",
+   "link": "https://www.security.nl/posting/955433/%27Helft+Nederlandse+werknemers+gebruikt+priv%C3%A9+AI-accounts+voor+werk%27?channel=rss",
+   "description": "De helft van de Nederlandse werknemers maakt gebruik van privé AI-accounts voor het werk, wat kan leiden tot 'shadow AI',  zo ...",
+   "date": "2026-10-01T09:35:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "FTC onderzoekt OpenAI en Anthropic vanwege hacks door AI-agents",
+   "link": "https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html",
+   "description": "De Amerikaanse Federal Trade Commission is begonnen met een onderzoek naar AI-bedrijven vanwege de risico's van AI. De hacks die AI-agents tijdens tests zelf hebben uitgevoerd, vormen de aanleiding.",
+   "date": "2026-10-01T09:07:13",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "75% van marketeers wil meer investeren in zichtbaarheid binnen AI-assistenten",
+   "link": "https://www.emerce.nl/nieuws/75-marketeers-meer-investeren-zichtbaarheid-binnen-aiassistenten",
+   "description": "Marketeers voeren hun investeringen in AI-assistenten snel op, terwijl consumenten nog terughoudend zijn over de aanbevelingen die deze systemen doen. Dat blijkt uit Media Reactions 2026, het jaarlijkse onderzoek van Kantar onder ruim 800 senior marketeers en meer dan 23.000 consumenten wereldwijd.",
+   "date": "2026-10-01T08:55:03",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Helft meer 65-plussers aan het werk dan twee jaar geleden: “De stijging zit veel meer bij vol- en deeltijdse werknemers dan bij flexi’s”",
+   "link": "https://www.hln.be/economie/helft-meer-65-plussers-aan-het-werk-dan-twee-jaar-geleden-de-stijging-zit-veel-meer-bij-vol-en-deeltijdse-werknemers-dan-bij-flexis~a71d8890/",
+   "description": "De verhoging van de pensioenleeftijd laat zich voor het eerst duidelijk voelen in de tewerkstellingscijfers. Dat zegt de Rijksdienst voor Sociale Zekerheid (RSZ) op basis van de vaststelling dat het aantal werkende 65-plussers op twee jaar tijd met meer dan de helft gestegen is. Aan de andere kant vreet AI mogelijk aan de jobs van de jongste werknemers.",
+   "date": "2026-10-01T07:42:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google kondigt Gemini 4 Argon aan, maar brengt het nog niet uit",
+   "link": "https://tweakers.net/nieuws/252816/google-kondigt-gemini-4-argon-aan-maar-brengt-het-nog-niet-uit.html",
+   "description": "Google heeft Gemini 4 Argon aangekondigd, zijn nieuwste AI-model. Alleen beveiligingsonderzoekers en specifieke testers kunnen het model gebruiken. Later moeten betalende klanten volgen.",
+   "date": "2026-10-01T07:09:21",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China Telecom zet vol in op AI-tokens",
+   "link": "https://www.emerce.nl/nieuws/china-telecom-zet-vol-aitokens",
+   "description": "In China krijg je bij je telecomabonnement tegenwoordig niet alleen spraak en data, maar ook een AI-bundel. De grootste operators van het land verkopen rekenkracht voor kunstmatige intelligentie als onderdeel van het abonnement",
+   "date": "2026-10-01T06:15:36",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Boekgedachtes, Sony-hoogtepunten en iPhone-games - Tweakers Podcast #446",
+   "link": "https://tweakers.net/video/20578/boekgedachtes-sony-hoogtepunten-en-iphone-games-tweakers-podcast-446.html",
+   "description": "Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Friso Weijers over Sony's vertrek van CES, het dagelijks gebruik van een Microsoft Surface Pro X, de biografie over bunq-oprichter Ali Niknam, Microsofts poging om seksuele content in Copilot te verbeteren en de iPhone 18 Pro-review.",
+   "date": "2026-10-01T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Boekgedachtes, Sony-hoogtepunten en iPhone-games - Tweakers Podcast #446",
+   "link": "https://tweakers.net/geek/252800/boekgedachtes-sony-hoogtepunten-en-iphone-games-tweakers-podcast-446.html",
+   "description": "Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Friso Weijers over Sony's vertrek van CES, het dagelijks gebruik van een Microsoft Surface Pro X,  de biografie over bunq-oprichter Ali Niknam, Microsofts poging om seksuele content in Copilot te verbeteren en de iPhone 18 Pro-review.",
+   "date": "2026-10-01T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Worden de waardes van AI-bedrijven kunstmatig opgeblazen?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/01/worden-de-waardes-van-ai-bedrijven-kunstmatig-opgeblazen-a4937957",
+   "description": "Grote AI-bedrijven, chipmakers en datacenterbouwers zijn steeds vaker elkaars investeerder, leverancier én klant. Hoe riskant is deze circulaire manier van financieren?",
+   "date": "2026-10-01T05:05:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Google lanceert nieuw AI-model, maar beperkt toegang",
    "link": "https://www.gva.be/economie/bedrijven/google-lanceert-nieuw-ai-model-maar-beperkt-toegang/162410188.html",
    "description": "Google heeft woensdag zijn nieuwste AI-model Gemini 4 voorgesteld. De toegang tot het model is voorlopig beperkt tot een selecte groep cybersecurityexperts via Fairwind, een programma voor overheden en “vertrouwde partners”.",
@@ -343,7 +651,8 @@
    "description": "",
    "date": "2026-10-01T03:00:57",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-10-01",
    "intro_geprobeerd": true
@@ -384,6 +693,17 @@
   {
    "title": "In China gaan AI-optimisme en onzekerheid hand in hand",
    "link": "https://www.standaard.be/buitenland/in-china-gaan-ai-optimisme-en-onzekerheid-hand-in-hand/162375970.html",
+   "description": "Geen land is optimistischer dan China over de mogelijkheden van AI. En toch is een groot deel van de Chinese bevolking bang om door de technologie vervangen te worden. “Je rent achter een bus aan die je nooit kunt inhalen.”",
+   "date": "2026-09-30T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In China gaan AI-optimisme en onzekerheid hand in hand: “Je rent achter een bus aan die je nooit kunt inhalen”",
+   "link": "https://www.standaard.be/buitenland/in-china-gaan-ai-optimisme-en-onzekerheid-hand-in-hand-je-rent-achter-een-bus-aan-die-je-nooit-kunt-inhalen/162375970.html",
    "description": "Geen land is optimistischer dan China over de mogelijkheden van AI. En toch is een groot deel van de Chinese bevolking bang om door de technologie vervangen te worden. “Je rent achter een bus aan die je nooit kunt inhalen.”",
    "date": "2026-09-30T23:59:00",
    "feeds": [
@@ -644,6 +964,17 @@
     "AD - Tech"
    ],
    "first_seen": "2026-09-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ik schreef deze brief met AI. Nou en?",
+   "link": "https://www.nrc.nl/nieuws/2026/09/30/ik-schreef-deze-brief-met-ai-nou-en-a4937776",
+   "description": "U schreef ons over de roman van Thélyson Orélien, religieuze vieringen en clichés rondom Kapellenaren.",
+   "date": "2026-09-30T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-01",
    "intro_geprobeerd": false
   },
   {
@@ -999,6 +1330,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "AI-bedrijven gaan hun modellen volgens Trump beter controleren",
+   "link": "https://www.nu.nl/tech/6411443/ai-bedrijven-gaan-hun-modellen-volgens-trump-beter-controleren.html",
+   "description": "AI-bedrijven hebben volgens de Amerikaanse president Donald Trump beloofd hun modellen beter te controleren. Er zouden onder meer interne controles en externe beoordelingen komen. Daarmee lijkt de kans op nationale wetgeving voor de AI-sector te zijn verdampt.",
+   "date": "2026-09-30T00:01:14",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Wie ontwart de AI-veiligheidsknoop? Niet Washington, vertelt Trump aan tech-ceo’s",
    "link": "https://www.standaard.be/buitenland/wie-ontwart-de-ai-veiligheidsknoop-niet-washington-vertelt-trump-aan-tech-ceos/162322452.html",
    "description": "OpenAI schort de lancering van zijn nieuwste model op. Anthropic waarschuwt in de aanloop van zijn beursgang voor de “existentiële risico's” die zijn technologie kan veroorzaken. Als de techspelers hun AI-systemen beteugelen, zullen ze het zonder politieke hulp moeten stellen.",
@@ -1075,6 +1417,17 @@
     "Trouw - Voorpagina"
    ],
    "first_seen": "2026-09-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nederland weet amper hoeveel stroom en water zijn datacentra opslokken",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/nederland-weet-amper-hoeveel-stroom-en-water-zijn-datacentra-opslokken~bbd70381/",
+   "description": "",
+   "date": "2026-09-29T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-01",
    "intro_geprobeerd": true
   },
   {
