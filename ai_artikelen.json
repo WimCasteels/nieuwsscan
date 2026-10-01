@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T18:39:06",
+ "generated": "2026-10-01T03:49:10",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 33,
+   "count": 32,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 91,
    "error": null
   },
   {
@@ -315,6 +315,215 @@
   }
  ],
  "articles": [
+  {
+   "title": "Google lanceert nieuw AI-model, maar beperkt toegang",
+   "link": "https://www.gva.be/economie/bedrijven/google-lanceert-nieuw-ai-model-maar-beperkt-toegang/162410188.html",
+   "description": "Google heeft woensdag zijn nieuwste AI-model Gemini 4 voorgesteld. De toegang tot het model is voorlopig beperkt tot een selecte groep cybersecurityexperts via Fairwind, een programma voor overheden en “vertrouwde partners”.",
+   "date": "2026-10-01T03:45:47",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Productiever maar niet beter: waarom AI sociaal overleg nodig heeft",
+   "link": "https://www.demorgen.be/meningen/productiever-maar-niet-beter-waarom-ai-sociaal-overleg-nodig-heeft~bc7623ff/",
+   "description": "",
+   "date": "2026-10-01T03:01:03",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nee, AI maakt filosofen niet overbodig",
+   "link": "https://www.demorgen.be/meningen/nee-ai-maakt-filosofen-niet-overbodig~bd84d7a9/",
+   "description": "",
+   "date": "2026-10-01T03:00:57",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google lanceert nieuw AI-model, maar beperkt toegang",
+   "link": "https://www.hln.be/tech/google-lanceert-nieuw-ai-model-maar-beperkt-toegang~af1634ec/",
+   "description": "Google heeft woensdag zijn nieuwste AI-model Gemini 4 voorgesteld. De toegang tot het model is voorlopig beperkt tot een selecte groep cybersecurityexperts via Fairwind, een programma voor overheden en “vertrouwde partners”.",
+   "date": "2026-10-01T01:34:14",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google beperkt voorlopig toegang van nieuwe versie AI-model Gemini",
+   "link": "https://www.ad.nl/buitenland/google-beperkt-voorlopig-toegang-van-nieuwe-versie-ai-model-gemini~ab2d6307/",
+   "description": "Google heeft woensdag een nieuw AI-model uitgebracht. Het gaat om het langverwachte Gemini 4 Argon dat nog niet voor het grote publiek beschikbaar is.",
+   "date": "2026-10-01T01:31:21",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Filosoof Kris Goffin waarschuwde voor emotionele chatbots, maar wou er zelf een van zijn ex: “Je wordt er heel makkelijk in meegezogen”",
+   "link": "https://www.standaard.be/binnenland/filosoof-kris-goffin-waarschuwde-voor-emotionele-chatbots-maar-wou-er-zelf-een-van-zijn-ex-je-wordt-er-heel-makkelijk-in-meegezogen/162251055.html",
+   "description": "Stel: je lief heeft je verlaten en je mist je vertrouwde klankbord. Dan maar praten met AI via een chatbox? Filosoof Kris Goffin waarschuwt al jaren voor emotionele chatbots, maar trapte er bijna zelf in.",
+   "date": "2026-09-30T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In China gaan AI-optimisme en onzekerheid hand in hand",
+   "link": "https://www.standaard.be/buitenland/in-china-gaan-ai-optimisme-en-onzekerheid-hand-in-hand/162375970.html",
+   "description": "Geen land is optimistischer dan China over de mogelijkheden van AI. En toch is een groot deel van de Chinese bevolking bang om door de technologie vervangen te worden. “Je rent achter een bus aan die je nooit kunt inhalen.”",
+   "date": "2026-09-30T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google lanceert nieuw AI-model 'Gemini 4', maar beperkt toegang (net zoals OpenAI en Anthropic)",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/google-lanceert-nieuw-aimodel-gemini-4-maar-beperkt-toegang-~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-09-30T23:14:02",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Geheugenchipmaker Micron ziet winst verelfvoudigen en geeft sterke prognose",
+   "link": "https://www.tijd.be/r/t/1/id/10688122",
+   "description": "Micron klopt met zijn vierdekwartaalcijfers en zijn prognose voor het huidige kwartaal de verwachtingen ruimschoots, met dank aan de hoge vraag naar geheugenchips voor AI-datacentra.",
+   "date": "2026-09-30T22:50:47",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Winst Micron schiet de lucht in",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/winst-micron-schiet-de-lucht-in/",
+   "description": "(ABM FN-Dow Jones) Micron Technology heeft in het afgelopen kwartaal de winst en omzet sterk laten stijgen, terwijl de vraag naar zijn geheugenchips groot bleef door de opbouw van de infrastructuur voor kunstmatige intelligentie.Het halfgeleiderbedrijf boekte in het vierde kwartaal van zijn gebroken boekjaar, dat eindigde op 3 september, een winst van 37,7 miljard dollar, meer …\nThe post Winst Micron schiet de lucht in appeared first on Trends.be.",
+   "date": "2026-09-30T22:36:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaaanse marktwaakhond onderzoekt OpenAI en Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/amerikaaanse-marktwaakhond-onderzoekt-openai-en-anthropic/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse markttoezichthouder FTC heeft een onderzoek ingesteld naar de AI-ontwikkelaars Anthropic en OpenAI, die mogelijk consumenten hebben misleid over de potentiële gevaren van hun technologie. Dat schreef The Wall Street Journal woensdag.De Federal Trade Commission (FTC) besloot recent om het onderzoek in te stellen, nadat AI-onderzoekers in de zomer hun zorg …\nThe post Amerikaaanse marktwaakhond onderzoekt OpenAI en Anthropic appeared first on Trends.be.",
+   "date": "2026-09-30T22:14:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Amerikaanse mededingingsautoriteit onderzoekt AI-bedrijven’",
+   "link": "https://www.knack.be/nieuws/wereld/live/amerikaanse-verkiezingen-2024/amerikaanse-mededingingsautoriteit-onderzoekt-ai-bedrijven-1391035/",
+   "description": "Volg hier alles over de Verenigde Staten en hun 47e president Donald Trump.\nThe post ‘Amerikaanse mededingingsautoriteit onderzoekt AI-bedrijven’ appeared first on Knack.",
+   "date": "2026-09-30T22:07:29",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek en Huawei bundelen krachten om AI-infrastructuur minder afhankelijk van Nvidia te maken",
+   "link": "https://businessam.be/deepseek-en-huawei-bundelen-krachten-om-ai-infrastructuur-minder-afhankelijk-van-nvidia-te-maken/",
+   "description": "Key takeaways In een poging om de afhankelijkheid van de technologie van Nvidia te verminderen, heeft het Chinese AI-bedrijf DeepSeek een samenwerking met Huawei Technologies aangekondigd. Dit partnerschap richt zich op het ontwikkelen van gespecialiseerde programmeertools die zijn afgestemd op de Ascend-hardware van Huawei, wat een weerspiegeling is van een groeiende trend onder Chinese technologiebedrijven […]",
+   "date": "2026-09-30T21:51:48",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lijkt het alsof alle posters, menukaarten, flyers en folders opeens van dezelfde ontwerper komen? Dat is ook zo",
+   "link": "https://www.nrc.nl/nieuws/2026/09/30/lijkt-het-alsof-alle-posters-menukaarten-flyers-en-folders-opeens-van-dezelfde-ontwerper-komen-dat-is-ook-zo-a4936682",
+   "description": "Ineens is hij overal: de AI-poster. Zelfs ChatGPT vindt zijn eigen ontwerpstijl wat uitbundig.",
+   "date": "2026-09-30T20:47:49",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mediahuis herlanceert sociaal netwerk Hyves, zonder verslavend algoritme",
+   "link": "https://www.gva.be/economie/bedrijven/mediahuis-herlanceert-sociaal-netwerk-hyves-zonder-verslavend-algoritme/162405771.html",
+   "description": "Mediahuis, de groep boven onder meer Het Nieuwsblad en De Standaard, herlanceert in Nederland het sociale netwerk Hyves. Dat was vijftien jaar geleden erg populair, en vergelijkbaar met Netlog in België.",
+   "date": "2026-09-30T20:23:05",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Britse supermarkten zetten AI in om stijgend aantal winkeldiefstallen te stoppen",
+   "link": "https://nos.nl/l/2633181",
+   "description": "Een sterke stijging in winkeldiefstal maakt dat steeds meer Britse supermarkten en winkels beveiligingscamera's met AI-technologie en gezichtsherkenning installeren.\n        \"Als we dat niet doen, gaan we failliet\", zegt Nathan Walmsley, de manager van supermarktketen Filco in Wales. \"Zo extreem is het\", vertelt hij. \"Er wordt hier elke dag gestolen. Als we niet flink investeren in beveiliging, verliezen we simpelweg te veel geld aan diefstal om het hoofd boven water te houden.\"\n        En hij is niet de enige. Door het hele land worden ondernemers geraakt door de toename van winkeldiefstal. Volgens de officiële cijfers gaat het om een half miljoen diefstalincidenten per jaar, maar de sector zelf schat het werkelijke aantal incidenten op twintig miljoen.\n        Dief gaat vaak vrijuit\n        Door een gebrek aan politiecapaciteit gaat de dief veelal vrijuit. \"Zwaardere criminaliteit krijgt voorrang op winkeldieven\", zegt Walmsley. \"En dus moeten we het zelf oplossen.\"\n        De supermarktketen in Wales heeft in alle filialen camera's geïnstalleerd die met AI-software 'verdachte' handelingen kunnen herkennen. Als iemand iets wegstopt in een broekzak, onder een shirt of in een tas, dan herkent het systeem de handeling en krijgt het personeel binnen seconden een melding op telefoon of tablet.\n        Werkt het? In de video testen we het:\n        Het werkt goed, zegt Walmsley. \"Dan stappen we op de dief af, laten we zien dat we het stelen gefilmd hebben en vragen we om het gestolen product terug te leggen of ervoor te betalen.\" Volgens de manager wordt nu zeker de helft minder gestolen en voelt het personeel zich veiliger.\n        Daarnaast heeft de supermarkt ook geïnvesteerd in gezichtsherkenning. De technologie scant gezichten in de supermarkt en zoekt vervolgens naar overeenkomsten in een database.\n        Als er mensen in de winkelketen binnenlopen die eerder hebben gestolen, dan krijgt het personeel een melding binnen en kunnen zij deze persoon de toegang weigeren. De beelden van de gezichtsherkenning plus de opgenomen incidenten worden vanuit de supermarkt naar de politie gestuurd.\n        Privacy\n        In Nederland mogen winkels geen gezichtsherkenning inzetten voor beveiligingsdoeleinden. Dat verschil komt doordat de Britse privacywet het 'gerechtvaardigd belang', bijvoorbeeld het voorkomen van diefstal, als wettelijke grondslag accepteert. In de EU is dat niet zo.\n        Maar de inzet van gezichtsherkenning in Britse winkels roept wel discussie over privacy op. Burgerrechtenorganisaties waarschuwen dat gewone klanten in supermarkten op 'zwarte lijsten' kunnen belanden, zonder dat daar de politie of de rechterlijke macht aan te pas komt.\n        Fouten\n        En het blijkt dat de technologie ook fouten kan maken. Er zijn inmiddels meerdere gevallen bekend van mensen die verkeerd zijn geïdentificeerd en onterecht uit een winkel werden gezet. Zo moest Sainsbury's, een grote Britse supermarktketen die sinds kort ook gezichtsherkenning gebruikt, onlangs excuses aanbieden. Daar was een nietsvermoedende klant door de beveiliging naar buiten gewerkt.\n        Critici wijzen er bovendien op dat gezichtsherkenningssystemen niet evenredig op verschillende huidskleuren zijn getraind, waardoor er voor bepaalde huidskleuren een grotere foutmarge zou kunnen zijn.\n        Maar ondanks dit soort fouten en privacyvraagstukken is het volgens David Spencer, voormalig rechercheur en tegenwoordig adviseur bij de vooraanstaande Britse denktank Policy Exchange, absoluut noodzakelijk om dit soort technologie in te zetten tegen winkeldiefstal in het Verenigd Koningrijk.\n        \"Momenteel verliezen winkeliers en retailers jaarlijks 4,5 miljard euro aan diefstal. Dat heeft een enorme economische impact\", zegt hij.\n        Weinig prioriteit\n        Volgens Spencer is er een klimaat van 'straffeloosheid' ontstaan, omdat daders te vaak vrijuitgaan. Dat komt volgens hem door een wet uit 2014, die feitelijk diefstal onder de 200 Britse pond minder prioriteit gaf, door het gebrek aan politiecapaciteit en de achterstanden bij de rechtbanken.\n        Daardoor zijn er ook georganiseerde diefstalbendes ontstaan in het VK, die goederen stelen om ze vervolgens door te verkopen. De technologie die winkeleigenaren nu installeren, kan volgens Spencer een groot verschil maken bij het opsporen van deze criminele groepen.\n        \"Eigenlijk helpen winkeleigenaren de politie zo bij het in kaart brengen en ontmantelen van dit soort criminele netwerken.\" En voegt hij toe: \"Uiteindelijk is het niet de technologie die beslist of iemand wordt gearresteerd, daar moet eerst een politieagent naar kijken en vervolgens, waar nodig, een rechter over oordelen.\"",
+   "date": "2026-09-30T20:00:02",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Google betaalt klein aantal uitgevers schrale vergoeding voor AI-overzichten'",
+   "link": "https://tweakers.net/nieuws/252808/google-betaalt-klein-aantal-uitgevers-schrale-vergoeding-voor-ai-overzichten.html",
+   "description": "Google betaalt een klein aantal uitgevers voor het gebruik van hun content in de AI-gegenereerde overzichten bovenaan de zoekresultaten en in Gemini. Dat schrijft The Information. Het zou vooralsnog gaan om circa honderd uitgevers. De vergoeding stelt naar verluidt niet veel voor.",
+   "date": "2026-09-30T19:20:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aandeelhouders deden het vrij goed, maar de voorzichtige belegger had tot nu toe een slecht jaar. Staan we op een keerpunt?",
+   "link": "https://www.standaard.be/nieuws/aandeelhouders-deden-het-vrij-goed-maar-de-voorzichtige-belegger-had-tot-nu-toe-een-slecht-jaar.-staan-we-op-een-keerpunt/162371235.html",
+   "description": "De aandelenmarkten leverden ook in de eerste negen maanden een mooi rendement op. De techaandelen blijven immuun voor alle doemberichten over AI. De voorzichtige belegger die in obligaties schuilde voor mogelijk onheil op de beurs, kreeg de voorbije drie kwartalen ongelijk.",
+   "date": "2026-09-30T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie is er verantwoordelijk voor AI-agents die digitaal het criminele pad op gaan?",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/wie-is-er-verantwoordelijk-voor-ai-agents-die-digitaal-het-criminele-pad-op-gaan~bad8f510/",
+   "description": "",
+   "date": "2026-09-30T18:48:33",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-01",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Een Nederlands AI-veiligheidsinstituut? Goed idee, &#8216;maar je moet medewerkers wel minstens 1 of 2 ton betalen&#8217;",
    "link": "https://www.nrc.nl/nieuws/2026/09/30/een-nederlands-ai-veiligheidsinstituut-goed-idee-maar-je-moet-medewerkers-wel-minstens-1-of-2-ton-betalen-a4937672",
