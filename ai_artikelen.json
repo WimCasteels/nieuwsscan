@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T04:01:27",
+ "generated": "2026-10-02T18:28:49",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 34,
+   "count": 30,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 94,
    "error": null
   },
   {
@@ -316,12 +316,277 @@
  ],
  "articles": [
   {
+   "title": "Amerikaans hof vernietigt vonnis na AI-video van overleden slachtoffer",
+   "link": "https://tweakers.net/nieuws/252914/amerikaans-hof-vernietigt-vonnis-na-ai-video-van-overleden-slachtoffer.html",
+   "description": "Het hof van beroep van Arizona heeft een vonnis vernietigd dat mede tot stand kwam door een AI-video van het overleden slachtoffer. De doodgeschoten Christopher Pelkey legde een 'verklaring' af die was gemaakt met AI. De rechter liet de video toe en veroordeelde schutter Gabriel Horcasitas tot tien jaar cel.",
+   "date": "2026-10-02T18:17:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia voor het eerst sinds mei op record",
+   "link": "https://www.tijd.be/r/t/1/id/10688510",
+   "description": "Nvidia, het waardevolste bedrijf ter wereld, is op weg om 6.000 miljard dollar waard te worden. Dat is nooit eerder gezien.",
+   "date": "2026-10-02T17:30:05",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Weekendpodcast ‘De 5’: heb jij straks ook een AI-assistent? | Filmproducent Michiel Dhont | Analoge luxe | Eicellen voor later",
+   "link": "https://www.tijd.be/r/t/1/id/10688565",
+   "description": "Elk weekend bundelt ‘De 5’ zorgvuldig gekozen verhalen die u helpen te vertragen, verdiepen en met een frisse blik naar de wereld kijken.",
+   "date": "2026-10-02T16:57:05",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wiskundeprofessor Ann Dooms | Zijn er nog wiskundigen nodig?",
+   "link": "https://www.tijd.be/r/t/1/id/10688202",
+   "description": "Kijkend naar de snelle evolutie in AI vragen sommigen zich af of we straks nog wel wiskundigen nodig hebben. De geschiedenis biedt perspectief.",
+   "date": "2026-10-02T16:00:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Woonzorgcentrum in Asse gebruikt AI-camera om voedselverspilling tegen te gaan",
+   "link": "https://vrtnws.be/p.dLypJYnyY",
+   "description": "Woonzorgcentrum Hingeheem in Asse gebruikt voortaan een AI-gestuurd systeem om voedselverspilling tegen te gaan. Een camera registreert welke etensresten overblijven, zodat de keuken het menu daarop kan aanpassen.",
+   "date": "2026-10-02T15:24:41",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia introduceert DGX Spark met 64GB ram voor oude prijs 128GB-model",
+   "link": "https://tweakers.net/nieuws/252826/nvidia-introduceert-dgx-spark-met-64gb-ram-voor-oude-prijs-128gb-model.html",
+   "description": "Nvidia introduceert een nieuwe versie van zijn DGX Spark-mini-pc voor AI-taken. Die krijgt met 64GB de helft minder geheugen dan het bestaande model en bovendien een kleinere 2TB-ssd. Intussen verhoogt Nvidia de prijs van het 128GB-model met bijna 50 procent.",
+   "date": "2026-10-02T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI en horeca, gaat dat  samen? &#8216;Gastcontact is belangrijk maar we willen het werk ook versimpelen&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/10/02/ai-en-horeca-gaat-dat-samen-gastcontact-is-belangrijk-maar-we-willen-het-werk-ook-versimpelen-a4937679",
+   "description": "De horeca kampt met uitdagingen, zoals personeelstekorten en hoge inkoopkosten. Kan AI een oplossing bieden? En waar ligt de grens van het gebruik van AI in een branche die geënt is op gastvrijheid en menselijk contact?",
+   "date": "2026-10-02T14:59:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Micron: aanscherpende geheugenschaarste",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/micron-aanscherpende-geheugenschaarste/",
+   "description": "Beleggers twijfelen aan de houdbaarheid van de hoge prijzen en winstmarges, maar dankzij de doorbraak van AI is de geheugenbusiness veel minder cyclisch geworden. Dat speelt Micron in de kaart.\nThe post Micron: aanscherpende geheugenschaarste appeared first on Trends.be.",
+   "date": "2026-10-02T14:35:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontslaat drie medewerkers na verkeerd omgaan met vertrouwelijke gegevens",
+   "link": "https://businessam.be/openai-ontslaat-drie-medewerkers-na-verkeerd-omgaan-met-vertrouwelijke-gegevens/",
+   "description": "Key takeaways Drie medewerkers zijn bij OpenAI ontslagen na beschuldigingen dat zij vertrouwelijke gegevens op onjuiste wijze hebben behandeld. Volgens een woordvoerder van het bedrijf bleek uit een intern onderzoek dat de medewerkers de officiële protocollen voor de omgang met gevoelig materiaal hebben omzeild. Hoewel de identiteit van de ontslagen medewerkers niet bekend is gemaakt, […]",
+   "date": "2026-10-02T13:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video: de AI-trade is nog steeds van kracht",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-de-ai-trade-is-nog-steeds-van-kracht/",
+   "description": "(ABM FN-Dow Jones) De lancering van Muse door Meta zal de AI-trade van nieuwe brandstof voorzien. Dit verwacht Maarten Geerdink, Head of European Equity van Goldman Sachs Asset Management.Klik hier voor: de AI-trade is nog steeds van krachtAugustus en september waren niet zo goed voor AI-aandelen, door de stijgende rente en twijfels over de veiligheid van …\nThe post Video: de AI-trade is nog steeds van kracht appeared first on Trends.be.",
+   "date": "2026-10-02T13:06:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Als AI het werk doet, moet het arbeidscontract dan worden herzien?",
+   "link": "https://www.tijd.be/r/t/1/id/10687534",
+   "description": "Productiviteitswinst en mentale vermoeidheid blijken sterker verbonden dan ooit.",
+   "date": "2026-10-02T11:24:14",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politieke partijen willen testen of banken zijn voorbereid op AI-aanvallen",
+   "link": "https://www.security.nl/posting/955599/Politieke+partijen+willen+testen+of+banken+zijn+voorbereid+op+AI-aanvallen?channel=rss",
+   "description": "Meerdere politieke partijen in de Tweede Kamer willen dat het kabinet samen met De Nederlandsche Bank een stresstest uitvoert ...",
+   "date": "2026-10-02T11:14:18",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontslaat 3 medewerkers vanwege \"onjuiste omgang met gevoelige informatie\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/openai-ontslaat-3-medewerkers-vanwege-onjuiste-omgang-met-gevoe~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-02T11:02:19",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "[Column] De beste Kickstarter-landingspagina bouwen met AI",
+   "link": "https://www.emerce.nl/opinie/column-beste-kickstarterlandingspagina-bouwen-ai",
+   "description": "Geert-Jan Smits en Jurriën Kerstholt bouwen met het initiatief co-Founded by AI aan hun productbedrijf voor minagi, een focus timer. Ze laten zien hoe ze AI inzetten om een strakke, conversiegerichte prelaunch-landingspagina voor hun Kickstarter-campagne te bouwen, zonder medewerkers in dienst te nemen.",
+   "date": "2026-10-02T10:30:04",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | Gaan de AI-bro’s nu remmen of toch gas geven?",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-gaan-de-ai-bros-nu-remmen-of-toch-gas-geven/",
+   "description": "Het is het debat van het moment: de veiligheid van AI. Wie wil AI nu eigenlijk afremmen? En wie zijn de snelheidsduivels die net gas bijgeven? We bespreken het deze week in de AI & Tech Podcast.\nThe post AI & Tech-podcast | Gaan de AI-bro’s nu remmen of toch gas geven? appeared first on Trends.be.",
+   "date": "2026-10-02T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwsblog: kunnen AI's denken, of is dat vooral een semantische discussie?",
+   "link": "https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html",
+   "description": "Kan een llm denken? Is AI zelfbewust? Wat is zelfbewustzijn eigenlijk? Volgen we daarin de res cogitans van Descartes of is zelfbewustzijn meer de transcendentale apperceptie van Kant? Wees gerust: wij hebben geen idee en we gaan ook niet doen alsof we het weten. Wat we wél weten, is dat het nieuws over hackende AI-agents op de redactie tot veel discussie leidde.",
+   "date": "2026-10-02T10:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vier op de tien Belgen zijn digitaal kwetsbaar, terwijl AI razendsnel doorbreekt",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/vier-op-de-tien-belgen-zijn-digitaal-kwetsbaar-terwijl-ai-razendsnel-doorbreekt/",
+   "description": "Hoewel bijna vier op de tien Belgen moeite hebben met basale digitale vaardigheden, breekt artificiële intelligentie (AI) in sneltempo door bij het brede publiek. Liefst 42 procent van de Belgen tussen 16 en 89 jaar gebruikte de voorbije drie maanden een AI-toepassing. Dat blijkt uit de nieuwe Barometer Digitale Inclusie van de Koning Boudewijnstichting, die onderzoekers van de UGent en de UCLouvain hebben opgesteld.\nThe post Vier op de tien Belgen zijn digitaal kwetsbaar, terwijl AI razendsnel doorbreekt appeared first on Trends.be.",
+   "date": "2026-10-02T09:38:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hans Anders schort verkoop van Meta-bril op: “Momenteel te veel discussie over privacyrisico’s”",
+   "link": "https://www.gva.be/economie/bedrijven/hans-anders-schort-verkoop-van-meta-bril-op-momenteel-te-veel-discussie-over-privacyrisicos/162462676.html",
+   "description": "Optiekketen Hans Anders schort de verkoop van AI-brillen van Facebook-eigenaar Meta in zijn winkels tot nader order op. Dat meldt de Nederlandse krant AD en wordt door een woorvoerder bevestigd aan onze redactie.",
+   "date": "2026-10-02T09:30:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agenten behandelen als collega’s is verre van onschuldig",
+   "link": "https://trends.knack.be/opinie/ai-agenten-behandelen-als-collegas-is-verre-van-onschuldig/",
+   "description": "Uit een enquête van Boston Consulting Group bij 1.261 managers bleek begin dit jaar dat 22 procent van hun organisaties AI-agents al in het bedrijfsorganigram had opgenomen. Die evolutie betekent meer dan op het eerste gezicht mag lijken.\nThe post AI-agenten behandelen als collega’s is verre van onschuldig appeared first on Trends.be.",
+   "date": "2026-10-02T08:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Leven in een wereld zonder frictie: wie heeft er eigenlijk om die beloofde techutopie gevraagd?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/02/leven-in-een-wereld-zonder-frictie-wie-heeft-er-eigenlijk-om-die-beloofde-techutopie-gevraagd-a4938001",
+   "description": "Ik heb geprobeerd om de toekomst voor me te zien die de grote AI-bedrijven ons beloven. Een wereld zonder frictie, waarin je met een druk op de knop altijd meteen krijgt wat je nodig hebt. Hoe is dat?",
+   "date": "2026-10-02T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Emerce Updates GEO: ‘Niet alleen zichtbaarheid is belangrijk’",
+   "link": "https://www.emerce.nl/nieuws/verslag-emerce-geo",
+   "description": "AI-chatbots en agents nemen het zoekgedrag over. Ze vergelijken, wegen af en geven antwoord, zonder dat een gebruiker nog op een link klikt. De keuze wordt vóór die klik gemaakt. Voor marketeers en contentmakers verandert daarmee de kern van het vak. Dat bleek gisteren tijdens Emerce Updates in B. Amsterdam, dat geheel gewijd was aan GEO (Generative Engine Optimization).",
+   "date": "2026-10-02T06:49:00",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe AI de volgende generatie leiders klaarstoomt",
+   "link": "https://businessam.be/ai-leiderschap-hoe-ai-de-volgende-generatie-leiders-klaarstoomt/",
+   "description": "AI verandert niet alleen hoe we werken; ik zie vooral het tempo veranderen waarin talent zich ontwikkelt. Ervaring blijft daarin cruciaal, maar hoe we die opdoen verandert in hoog tempo. AI versnelt de ontwikkeling van jong talent AI legt de lat voor leiderschap niet lager. Het verkort de ervaringscurve omdat het ambitieuze en talentvolle mensen […]",
+   "date": "2026-10-02T06:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI wordt pas echt interessant als het wél weet wie je klant is",
+   "link": "https://www.emerce.nl/achtergrond/ai-pas-echt-interessant-wl-wie-klant",
+   "description": "Generatieve AI kan pas écht strategische waarde leveren voor organisaties wanneer het toegang heeft tot volledige klantcontext en historische data. Veel bedrijven verwijderen persoonsgegevens uit voorzorg vanwege de AVG, maar dat vermindert de functionele waarde van AI. Door de juiste architectuur en governance in te richten, bijvoorbeeld via open-weight modellen in een gecontroleerde omgeving, kunnen organisaties klantdata op een verantwoorde manier inzetten. De volgende stap in enterprise AI draait niet om welk model het slimst is, maar om welk model het meeste weet over jouw specifieke klant en organisatie.",
+   "date": "2026-10-02T06:22:24",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Drie AI-onderzoekers die waarschuwden voor de gevaren van de technologie vliegen de laan uit bij OpenAI",
+   "link": "https://www.gva.be/buitenland/drie-ai-onderzoekers-die-waarschuwden-voor-de-gevaren-van-de-technologie-vliegen-de-laan-uit-bij-openai/162471952.html",
+   "description": "OpenAI, het bedrijf achter ChatGPT, heeft drie van zijn onderzoekers naar de veiligheid van kunstmatige intelligentie weggestuurd. Het Amerikaanse bedrijf beschuldigt hen ervan gevoelige informatie te hebben doorgegeven, onder meer aan een groep externe beoordelaars. Dat meldde het donderdag (lokale tijd) aan AFP.",
+   "date": "2026-10-02T04:21:24",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Waarom Europa uit deze AI-race moet stappen",
    "link": "https://www.demorgen.be/meningen/waarom-europa-uit-deze-ai-race-moet-stappen~b5c31ef2/",
    "description": "",
    "date": "2026-10-02T03:00:50",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-10-02",
    "intro_geprobeerd": true
@@ -353,6 +618,28 @@
    "link": "https://www.trouw.nl/duurzaamheid-economie/de-rapportageplicht-voor-datacentra-werkt-niet-goed-vindt-hoogleraar-karen-maas-de-regels-zijn-nuttig-maar-er-is-een-probleem-met-de-handhaving~b4119271/",
    "description": "",
    "date": "2026-10-01T22:00:30",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Datacentra delen hun stroom- en waterverbruik nauwelijks, terwijl die gegevens nodig zijn voor politieke keuzes",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/datacentra-delen-hun-stroom-en-waterverbruik-nauwelijks-terwijl-die-gegevens-nodig-zijn-voor-politieke-keuzes~b4119271/",
+   "description": "",
+   "date": "2026-10-01T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI ziet soms meer dan een arts, maar kan ook de gezondheidskloof vergroten",
+   "link": "https://www.trouw.nl/zorg/ai-ziet-soms-meer-dan-een-arts-maar-kan-ook-de-gezondheidskloof-vergroten~b142b4e1/",
+   "description": "",
+   "date": "2026-10-01T22:00:00",
    "feeds": [
     "Trouw - Voorpagina"
    ],
