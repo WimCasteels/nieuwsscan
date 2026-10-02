@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T19:16:00",
+ "generated": "2026-10-02T04:01:27",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 34,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 168,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,94 @@
   }
  ],
  "articles": [
+  {
+   "title": "Waarom Europa uit deze AI-race moet stappen",
+   "link": "https://www.demorgen.be/meningen/waarom-europa-uit-deze-ai-race-moet-stappen~b5c31ef2/",
+   "description": "",
+   "date": "2026-10-02T03:00:50",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI: medewerkers ontslagen om onzorgvuldige omgang gevoelige informatie",
+   "link": "https://www.ad.nl/tech/openai-medewerkers-ontslagen-om-onzorgvuldige-omgang-gevoelige-informatie~a7ca7800/",
+   "description": "OpenAI, de maker van ChatGPT, heeft laten weten drie onderzoekers te hebben ontslagen wegens vermeende onzorgvuldige omgang met ‘gevoelige informatie’ en schending van het bedrijfsbeleid.",
+   "date": "2026-10-02T02:46:48",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Franse supercomputerbouwer Bull verdubbelt de productie in Angers om Europa’s AI-ambities te voeden",
+   "link": "https://www.gva.be/buitenland/franse-supercomputerbouwer-bull-verdubbelt-de-productie-in-angers-om-europas-ai-ambities-te-voeden/162471834.html",
+   "description": "Bull, het Franse staatsbedrijf dat Europa’s snelste supercomputers bouwt, heeft donderdag een uitgebreide fabriek heropend. De productie is verdubbeld van zes naar twaalf racks per maand, vertellen bedrijfsleiders aan Reuters. Volgend jaar kan dat oplopen tot 24 als de vraag blijft groeien. De uitbreiding kostte 80 miljoen euro.",
+   "date": "2026-10-02T02:33:54",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De rapportageplicht voor datacentra werkt niet goed, vindt hoogleraar Karen Maas. ‘De regels zijn nuttig, maar er is een probleem met de handhaving’",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/de-rapportageplicht-voor-datacentra-werkt-niet-goed-vindt-hoogleraar-karen-maas-de-regels-zijn-nuttig-maar-er-is-een-probleem-met-de-handhaving~b4119271/",
+   "description": "",
+   "date": "2026-10-01T22:00:30",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Gentse start-up Falcon wil met AI de advocatuur opschudden: “Het is alsof je er een extra collega bij hebt”",
+   "link": "https://www.standaard.be/economie/gentse-start-up-falcon-wil-met-ai-de-advocatuur-opschudden-het-is-alsof-je-er-een-extra-collega-bij-hebt/162397726.html",
+   "description": "Met de komst van steeds meer geavanceerde juridische AI-tools voelen advocatenkantoren de hete adem in hun nek. Het pas opgerichte Falcon, een ‘AI-native’ advocatenkantoor, voert de druk op. “Een contract dat vroeger weken duurde, kunnen we tot tien keer sneller opleveren.”",
+   "date": "2026-10-01T21:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-advocatenkantoor wil ‘uurtje-factuurtje’ ten grave dragen",
+   "link": "https://www.tijd.be/r/t/1/id/10687887",
+   "description": "De ondernemers achter het mobiliteitsplatform Mbrella gooien zich op een nieuwe markt. Met de voormalige advocaat Rémy Bonnaffé gooien ze een knuppel in het hoenderhok van de advocatuur, met een ‘AI-native’ kantoor dat werkt met vaste abonnementsprijzen. ‘Als de klassieke advocatuur AI radicaal zou omarmen, stort de business in elkaar.’",
+   "date": "2026-10-01T21:00:00",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "PlayStation 5-basismodel krijgt AI-upscaler voor betere beeldkwaliteit",
+   "link": "https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html",
+   "description": "Sony en AMD brengen een AI-upscaler naar het PlayStation 5-basismodel: QSSR. Dat is een nieuwe versie van de PSSR-upscaler, die tot nu toe alleen op de PS5 Pro werkte. De upscaler wordt vanaf vandaag toegevoegd aan de eerste games.",
+   "date": "2026-10-01T19:41:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom mislukken zoveel AI-proefprojecten?",
+   "link": "https://trends.knack.be/ai-en-tech/waarom-mislukken-zoveel-ai-proefprojecten/",
+   "description": "Bedrijven zetten in op artificiële intelligentie, maar raken nog al te vaak niet voorbij de proefprojectfase. Dat komt doordat ze op de verkeerde plek testen, meent Salesforce, een van de pioniers in zakelijke AI-toepassingen. \"Als bedrijven vragen waar ze moeten starten, is mijn antwoord vaak: het callcenter.\" \nThe post Waarom mislukken zoveel AI-proefprojecten? appeared first on Trends.be.",
+   "date": "2026-10-01T19:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Hans Anders schort verkoop van Meta-bril op na discussie over privacyrisico’s",
    "link": "https://www.gva.be/economie/bedrijven/hans-anders-schort-verkoop-van-meta-bril-op-na-discussie-over-privacyrisicos/162462676.html",
