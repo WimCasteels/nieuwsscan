@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T18:28:49",
+ "generated": "2026-10-03T03:44:53",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 33,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 35,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 95,
    "error": null
   },
   {
@@ -316,6 +316,107 @@
  ],
  "articles": [
   {
+   "title": "Van Prometheus tot Frankenstein: net als AI vandaag boezemde nieuwe technologie altijd angst in",
+   "link": "https://www.demorgen.be/meningen/van-prometheus-tot-frankenstein-net-als-ai-vandaag-boezemde-nieuwe-technologie-altijd-angst-in~b61e4ee3/",
+   "description": "",
+   "date": "2026-10-03T03:00:17",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Dit wordt het jaar van de eerste AI-verkiezingen’: Harvard-professor ziet een ‘Kunstmatige Staat’ opdoemen die de democratie dreigt te vervangen",
+   "link": "https://www.demorgen.be/tech-ai/dit-wordt-het-jaar-van-de-eerste-ai-verkiezingen-harvard-professor-ziet-een-kunstmatige-staat-opdoemen-die-de-democratie-dreigt-te-vervangen~b39eaaad/",
+   "description": "",
+   "date": "2026-10-03T03:00:13",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Politiek"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Universiteiten grijpen terug naar pen en papier: “We vrezen voor een generatie studenten die alleen nog blindelings kan napraten wat AI uitspuwt”",
+   "link": "https://www.standaard.be/binnenland/universiteiten-grijpen-terug-naar-pen-en-papier-we-vrezen-voor-een-generatie-studenten-die-alleen-nog-blindelings-kan-napraten-wat-ai-uitspuwt/162474053.html",
+   "description": "Artificiële intelligentie biedt studenten ongelofelijke kansen. Alles kan harder, better, faster, stronger. Tegelijk bedreigt AI de universiteit in haar diepste fundamenten. Hoe voorkom je dat AI het denken overneemt?  “Het is frustrerend om scripties te lezen waarvan je niet weet wat die student er nog zelf aan heeft geschreven.”",
+   "date": "2026-10-02T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het verzet tegen datacenters bereikt Europa",
+   "link": "https://www.standaard.be/buitenland/het-verzet-tegen-datacenters-bereikt-europa/162504833.html",
+   "description": "In Europa groeit een bonte coalitie tegen datacenters. Zowel linkse als rechtse burgers verzetten zich tegen de motoren van AI. In het noorden van Spanje barst de strijd los. “Hier roepen we de Amerikaanse tech-oligarchen een halt toe.”",
+   "date": "2026-10-02T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nee, de AI-race zal niet vertragen, maar ze wordt wel een beetje voorzichtiger. En dat is niet niets",
+   "link": "https://www.standaard.be/media-en-cultuur/nee-de-ai-race-zal-niet-vertragen-maar-ze-wordt-wel-een-beetje-voorzichtiger.-en-dat-is-niet-niets/162252261.html",
+   "description": "Na weken van discussies over de gevaren van AI zijn Amerikaanse AI-bedrijven het eens geworden om het voortaan een beetje voorzichtiger – maar niet noodzakelijk trager – te doen. Dat is beter dan niets, en beter dan we konden vrezen.",
+   "date": "2026-10-02T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In een wereld vol AI-taal hebben we taalliefhebbers als Cornelisse hard nodig",
+   "link": "https://www.trouw.nl/opinie/in-een-wereld-vol-ai-taal-hebben-we-taalliefhebbers-als-cornelisse-hard-nodig~b09c7980/",
+   "description": "",
+   "date": "2026-10-02T22:00:48",
+   "feeds": [
+    "Trouw - Opinie"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De datacentrumsector wil verbruiksgegevens niet delen: ‘Dat wij niet transparant zijn, is kort door de bocht’",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/de-datacentrumsector-wil-verbruiksgegevens-niet-delen-dat-wij-niet-transparant-zijn-is-kort-door-de-bocht~b2e1a7f2/",
+   "description": "",
+   "date": "2026-10-02T22:00:47",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Topbankiers slaan alarm: AI-agents kunnen financiële crisis veroorzaken",
+   "link": "https://www.hln.be/economie/topbankiers-slaan-alarm-ai-agents-kunnen-financiele-crisis-veroorzaken~a83de280/",
+   "description": "Topbankiers en economen, onder wie de Britse centrale bankier Andrew Bailey, luiden de noodklok. De nieuwste artificiële intelligentie, zogenaamde ‘AI-agents’, dreigen traditionele banken leeg te zuigen. “Dit kan het hele financiële systeem in problemen brengen.”",
+   "date": "2026-10-02T19:45:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia Shield TV Pro wordt zeven jaar na release 100 euro duurder",
+   "link": "https://tweakers.net/nieuws/252916/nvidia-shield-tv-pro-wordt-zeven-jaar-na-release-100-euro-duurder.html",
+   "description": "Nvidia heeft de Shield TV Pro duurder gemaakt, bevestigt het bedrijf aan Wccftech. In de Verenigde Staten stijgt de prijs van 199 naar 299 dollar. In Nederland en België kost het streamingapparaat nu 299 euro, 100 euro meer dan eerder. Het bedrijf stopt ook met de productie van de 'gewone' Shield TV.",
+   "date": "2026-10-02T19:28:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Amerikaans hof vernietigt vonnis na AI-video van overleden slachtoffer",
    "link": "https://tweakers.net/nieuws/252914/amerikaans-hof-vernietigt-vonnis-na-ai-video-van-overleden-slachtoffer.html",
    "description": "Het hof van beroep van Arizona heeft een vonnis vernietigd dat mede tot stand kwam door een AI-video van het overleden slachtoffer. De doodgeschoten Christopher Pelkey legde een 'verklaring' af die was gemaakt met AI. De rechter liet de video toe en veroordeelde schutter Gabriel Horcasitas tot tien jaar cel.",
@@ -324,6 +425,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom sommige opticiens de AI-brillen van Meta niet langer willen verkopen",
+   "link": "https://www.hln.be/tech/waarom-sommige-opticiens-de-ai-brillen-van-meta-niet-langer-willen-verkopen~aedf9b02/",
+   "description": "Ze lijken op gewone zonnebrillen, maar in het montuur zit een camera die foto’s en video’s maakt. En net daarom neemt opticien Hans Anders ze uit de rekken. Meta’s slimme brillen zijn namelijk een hit, maar roepen ook steeds meer weerstand op van mensen die bezorgd zijn over hun privacy. Waarom precies? En is dat terecht? “Er is een hele community die probeert het lampje uit te schakelen.”",
+   "date": "2026-10-02T18:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-03",
    "intro_geprobeerd": false
   },
   {
