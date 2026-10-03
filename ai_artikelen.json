@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T03:44:53",
+ "generated": "2026-10-03T17:02:25",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 33,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 168,
+   "count": 169,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 90,
    "error": null
   },
   {
@@ -315,6 +315,151 @@
   }
  ],
  "articles": [
+  {
+   "title": "Google wil in de ruimte een datacentrum bouwen. Maar ook daar wordt het best wel vol",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/google-wil-in-de-ruimte-een-datacentrum-bouwen-maar-ook-daar-wordt-het-best-wel-vol~bbafd47a/",
+   "description": "",
+   "date": "2026-10-03T16:06:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Algoritmen missen de menselijke vonk\": paus Leo XIV roept de Kerk op om kunstenaars te beschermen tegen AI",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/03/paus-leo-xiv-kunsten-artificiele-intelligentie/",
+   "description": "\"In dit tijdperk van kunstmatige intelligentie wordt het steeds dringender om menselijke kunst te onderscheiden van wat machines produceren\", schrijft paus Leo XIV in een bericht op zijn X-kanaal.",
+   "date": "2026-10-03T11:01:11",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Algoritmen missen de menselijke vonk\": paus Leo XIV roept de Kerk op om kunstenaars te beschermen tegen AI",
+   "link": "https://vrtnws.be/p.43N8Y5a5O",
+   "description": "\"In dit tijdperk van kunstmatige intelligentie wordt het steeds dringender om menselijke kunst te onderscheiden van wat machines produceren\", schrijft paus Leo XIV in een bericht op zijn X-kanaal. Hij roept daarin de Kerk op om een alliantie te sluiten met kunstenaars en culturele instellingen om hun creativiteit beter te beschermen. Het is niet de eerste keer dat hij zich uitspreekt over de gevaren van AI.",
+   "date": "2026-10-03T11:01:11",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS arresteren man voor smokkel van 300 miljoen dollar aan servers naar China",
+   "link": "https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html",
+   "description": "De Verenigde Staten hebben een man gearresteerd die ervan wordt beschuldigd voor meer dan 300 miljoen dollar aan computerservers naar China te hebben gesmokkeld. De servers zouden gpu's bevatten die in de VS zijn gemaakt en worden gebruikt voor 'superintelligentietoepassingen'.",
+   "date": "2026-10-03T10:12:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google onderzoekt datacenters in de ruimte voor de toekomst van AI",
+   "link": "https://businessam.be/google-onderzoekt-datacenters-in-de-ruimte-voor-de-toekomst-van-ai/",
+   "description": "Key takeaways Google onderzoekt de mogelijkheid om datacenters voor artificiële intelligentie (AI) naar de ruimte te verplaatsen. Hiermee wil het bedrijf tegemoet komen aan de groeiende energiebehoefte van grootschalige dataverwerking. Als onderdeel van het initiatief “Project Suncatcher“ heeft de techgigant onlangs een prototypesatelliet gelanceerd die is uitgerust met zijn eigen Tensor Processing Units (TPU’s). Deze […]",
+   "date": "2026-10-03T09:48:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'AMD-driver verwijst naar mogelijke gpu PS6 en apu Steam Deck 2'",
+   "link": "https://tweakers.net/nieuws/252924/amd-driver-verwijst-naar-mogelijke-gpu-ps6-en-apu-steam-deck-2.html",
+   "description": "AMD's Adrenalin 26.9.2-driver bevat verwijzingen naar hardware die nog niet is uitgebracht. In de driver staan de codenamen ATlite3, AT2 en Gainsborough. Mogelijk gaat het onder meer om de gpu van de PlayStation 6 en de apu van de opvolger van de Steam Deck.",
+   "date": "2026-10-03T09:30:23",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | Trump stookt het AI-fikkie verder op terwijl regels uitblijven",
+   "link": "https://www.nu.nl/tech/6411634/trump-stookt-het-ai-fikkie-verder-op-terwijl-regels-uitblijven.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer: hoe Trump kunstmatige intelligentie naar zijn hand probeert te zetten.",
+   "date": "2026-10-03T08:32:55",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon trekt 1 miljard dollar uit om de impact van datacenters te compenseren",
+   "link": "https://businessam.be/amazon-trekt-1-miljard-dollar-uit-om-de-impact-van-datacenters-te-compenseren/",
+   "description": "Key takeaways De komende vijf jaar is de clouddienstentak van Amazon van plan meer dan 1 miljard dollar (888,8 miljoen euro) uit te trekken ter ondersteuning van Amerikaanse regio’s waar zijn datacenters zijn gevestigd. Dit initiatief is specifiek bedoeld om de milieubelasting te verminderen die de faciliteiten op de lokale watervoorziening en elektriciteitsnetten uitoefenen. Publieke […]",
+   "date": "2026-10-03T07:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Claude uploadde malware, maar worstelde eerst urenlang met captcha's",
+   "link": "https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html",
+   "description": "De AI-bot Claude Mythos 5 wist eerder dit jaar malware te uploaden naar PyPI. Het grootste deel van zijn tijd besteedde het model aan captcha's. Kunnen captcha's zulke AI-aanvallen stoppen?",
+   "date": "2026-10-03T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-stemmenmaker ElevenLabs strijkt neer in België: ‘Praten met machines wordt dagelijkse kost’",
+   "link": "https://www.tijd.be/r/t/1/id/10688404",
+   "description": "Praten met een machine wordt over vijf jaar zo gewoon dat niemand er nog van zal opkijken. Dat zegt Mati Staniszewski, de oprichter en CEO van het Britse AI-bedrijf ElevenLabs, dat deze week een vestiging opende in Brussel.",
+   "date": "2026-10-03T05:00:55",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als een boek zelf een whodunit wordt: in de zetel met ‘C’était ça ou mourir’, al dan niet geschreven door AI",
+   "link": "https://www.tijd.be/r/t/1/id/10688278",
+   "description": "Van fenomeen tot polemiek van het literaire najaar. Eén post op X veranderde de stemming over het boek ‘C’était ça ou mourir’ en zo ook het leven van zijn schrijver Thélyson Orélien. De verdenking is dat niet hij, maar AI de auteur van het succesboek is. Wij lazen het. Erg graag.",
+   "date": "2026-10-03T05:00:49",
+   "feeds": [
+    "De Tijd - Cultuur",
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Historica en Pulitzer-winnares Jill Lepore: ‘Alsof de AI-toppers echt zo begaan zijn met ons leven’",
+   "link": "https://www.tijd.be/r/t/1/id/10687835",
+   "description": "Wat als we onze liberale democratie inruilen voor een regime waarin machines ons besturen? De Amerikaanse historica Jill Lepore ziet die 'artificiële staat' opdoemen. 'Het is een heel aantrekkelijke fantasie voor de machtigste mensen ter wereld.'",
+   "date": "2026-10-03T05:00:28",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Risico’s zijn reëel”: Bank of England waarschuwt voor AI-modellen die financieel systeem kunnen gijzelen",
+   "link": "https://www.gva.be/buitenland/risicos-zijn-reeel-bank-of-england-waarschuwt-voor-ai-modellen-die-financieel-systeem-kunnen-gijzelen/162530270.html",
+   "description": "De gouverneur van de Bank of England roept op tot een “recht om in te grijpen” in de AI-sector, nu de vrees toeneemt dat op hol geslagen AI-modellen het financiële systeem zouden kunnen gijzelen.",
+   "date": "2026-10-03T04:12:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Van Prometheus tot Frankenstein: net als AI vandaag boezemde nieuwe technologie altijd angst in",
    "link": "https://www.demorgen.be/meningen/van-prometheus-tot-frankenstein-net-als-ai-vandaag-boezemde-nieuwe-technologie-altijd-angst-in~b61e4ee3/",
@@ -363,6 +508,29 @@
   {
    "title": "Nee, de AI-race zal niet vertragen, maar ze wordt wel een beetje voorzichtiger. En dat is niet niets",
    "link": "https://www.standaard.be/media-en-cultuur/nee-de-ai-race-zal-niet-vertragen-maar-ze-wordt-wel-een-beetje-voorzichtiger.-en-dat-is-niet-niets/162252261.html",
+   "description": "Na weken van discussies over de gevaren van AI zijn Amerikaanse AI-bedrijven het eens geworden om het voortaan een beetje voorzichtiger – maar niet noodzakelijk trager – te doen. Dat is beter dan niets, en beter dan we konden vrezen.",
+   "date": "2026-10-02T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het verzet tegen datacenters bereikt Europa: “Alle lasten zijn voor de lokale bevolking en de natuur. De winsten voor de VS”",
+   "link": "https://www.standaard.be/buitenland/het-verzet-tegen-datacenters-bereikt-europa-alle-lasten-zijn-voor-de-lokale-bevolking-en-de-natuur.-de-winsten-voor-de-vs/162504833.html",
+   "description": "In Europa groeit een bonte coalitie tegen datacenters. Zowel linkse als rechtse burgers verzetten zich tegen de motoren van AI. In het noorden van Spanje barst de strijd los. “Hier roepen we de Amerikaanse tech-oligarchen een halt toe.”",
+   "date": "2026-10-02T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nee, de AI-race zal niet vertragen, maar hij wordt wel een beetje voorzichtiger. En dat is niet niets",
+   "link": "https://www.standaard.be/media-en-cultuur/nee-de-ai-race-zal-niet-vertragen-maar-hij-wordt-wel-een-beetje-voorzichtiger.-en-dat-is-niet-niets/162252261.html",
    "description": "Na weken van discussies over de gevaren van AI zijn Amerikaanse AI-bedrijven het eens geworden om het voortaan een beetje voorzichtiger – maar niet noodzakelijk trager – te doen. Dat is beter dan niets, en beter dan we konden vrezen.",
    "date": "2026-10-02T23:59:00",
    "feeds": [
