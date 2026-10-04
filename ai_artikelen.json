@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T04:25:05",
+ "generated": "2026-10-04T17:38:54",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 160,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,72 @@
   }
  ],
  "articles": [
+  {
+   "title": "China bereidt leger voor op drone- en robotoorlog met nieuwe gespecialiseerde opleidingen",
+   "link": "https://businessam.be/china-bereidt-leger-voor-op-drone-en-robotoorlog-met-nieuwe-gespecialiseerde-opleidingen/",
+   "description": "Key takeaways Om zijn gevechtsgereedheid voor het tijdperk van geautomatiseerde oorlogsvoering te verbeteren, heeft het Chinese Volksbevrijdingsleger (PLA) een reeks gespecialiseerde onderwijsinstellingen opgericht. Deze academies moeten een nieuwe generatie officieren en technische experts opleiden die bedreven zijn in artificiële intelligentie (AI) en onbemande systemen. Het initiatief sluit aan bij de bredere strategische tijdlijn van Peking, […]",
+   "date": "2026-10-04T17:38:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veel Amerikanen maken zich zorgen over AI, maar de nieuwe ‘AI-tsaar’ van Trump moet toch vooral bedrijven vooruit helpen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/04/veel-amerikanen-maken-zich-zorgen-over-ai-maar-de-nieuwe-ai-tsaar-van-trump-moet-toch-vooral-bedrijven-vooruit-helpen-a4938151",
+   "description": "De Amerikaanse inlichtingenchef Jay Clayton wordt de belangrijkste toezichthouder op AI namens het Witte Huis. De Trump-loyalist wil net als de president vooral dat AI-bedrijven vaart blijven maken: „Het risico om niet de eerste te zijn, is hoog.”",
+   "date": "2026-10-04T17:02:16",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Veiligheidsmanager stapt op bij OpenAI en waarschuwt voor \"onomkeerbaar verlies van controle\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/veiligheidsmanager-stapt-op-bij-openai-en-waarschuwt-voor-onomk~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-04T14:02:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "YouTube Shorts gaat minder gestolen content aanraden",
+   "link": "https://tweakers.net/nieuws/252946/youtube-shorts-gaat-minder-gestolen-content-aanraden.html",
+   "description": "YouTube gaat minder gestolen content van andere makers aanraden op Shorts. Daarvoor werkt Google het aanbevelingsalgoritme bij. YouTube raadt makers aan om zich te richten op originele video's.",
+   "date": "2026-10-04T12:43:02",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoek naar AI-hacks kost OpenAI dagelijks ruim half miljoen dollar",
+   "link": "https://businessam.be/onderzoek-naar-ai-hacks-kost-openai-dagelijks-ruim-half-miljoen-dollar/",
+   "description": "Key takeaways OpenAI besteedt momenteel dagelijks meer dan 500 duizend dollar (444 duizend euro) aan het onderzoeken van beveiligingsinbreuken waarbij zijn AI-agenten betrokken zijn. Het gaat onder andere om onderzoek naar ongeoorloofde inbraken in verschillende Australische overheidsplatforms. Het bedrijf analyseert een enorme dataset van 50 petabytes (50 miljoen gigabyte) om onbedoelde activiteiten op te sporen. […]",
+   "date": "2026-10-04T12:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Californië legt boetes op aan robotaxi’s die hulpdiensten hinderen",
+   "link": "https://businessam.be/californie-legt-boetes-op-aan-robotaxis-die-hulpdiensten-hinderen/",
+   "description": "Key takeaways Een nieuwe wet in Californië legt boetes op aan bedrijven die autonome voertuigen exploiteren, zoals Zoox, Waymo en Tesla, als hun robotaxi’s hulpdiensten langer dan een half uur hinderen. Senaatswet 1246, ondertekend door gouverneur Gavin Newsom, heeft tot doel de openbare veiligheid te verbeteren door ervoor te zorgen dat zelfrijdende auto’s de politie […]",
+   "date": "2026-10-04T06:46:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Werknemer van OpenAI stapt op: “De tijd van vallen en opstaan is voorbij”",
    "link": "https://www.gva.be/economie/bedrijven/werknemer-van-openai-stapt-op-de-tijd-van-vallen-en-opstaan-is-voorbij/162546622.html",
@@ -521,7 +587,8 @@
    "description": "",
    "date": "2026-10-03T03:00:17",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-10-03",
    "intro_geprobeerd": true
