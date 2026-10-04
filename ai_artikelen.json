@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T17:02:25",
+ "generated": "2026-10-04T04:25:05",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 169,
+   "count": 159,
    "error": null
   },
   {
@@ -315,6 +315,61 @@
   }
  ],
  "articles": [
+  {
+   "title": "Werknemer van OpenAI stapt op: “De tijd van vallen en opstaan is voorbij”",
+   "link": "https://www.gva.be/economie/bedrijven/werknemer-van-openai-stapt-op-de-tijd-van-vallen-en-opstaan-is-voorbij/162546622.html",
+   "description": "Een voormalige werknemer van OpenAI die recent is opgestapt bij het bedrijf, heeft kritiek geuit over de manier waarop het bedrijf achter ChatGPT omgaat met de veiligheid van artificiële intelligentie (AI). Volgens hem primeert snelheid op het inschatten van de risico’s.",
+   "date": "2026-10-03T21:17:08",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Robot wint kooigevecht van mens in eerste en voorlopige enige treffen: verbod door autoriteiten in VS",
+   "link": "https://www.demorgen.be/nieuws/robot-wint-kooigevecht-van-mens-in-eerste-en-voorlopige-enige-treffen-verbod-door-autoriteiten-in-vs~bbb30162/",
+   "description": "",
+   "date": "2026-10-03T20:23:35",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Veiligheidsmedewerker OpenAI neemt ontslag en roept op om AI-bedrijven te beveiligen “als een kerncentrale”",
+   "link": "https://www.standaard.be/economie/veiligheidsmedewerker-openai-neemt-ontslag-en-roept-op-om-ai-bedrijven-te-beveiligen-als-een-kerncentrale/162544984.html",
+   "description": "Alweer stapt een onderzoeker bij een van grote AI-bedrijven op, met een waarschuwing over de onveilige praktijken bij zijn voormalige werkgever. Dit keer is het een veiligheidsmedewerker van OpenAI, David Robinson.",
+   "date": "2026-10-03T19:47:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic investeert 100 miljoen dollar om AI-ingenieurs op te leiden",
+   "link": "https://businessam.be/anthropic-investeert-100-miljoen-dollar-om-ai-ingenieurs-op-te-leiden/",
+   "description": "Key takeaways Om het wijdverbreide tekort aan geschoolde specialisten op het gebied van artificiële intelligentie (AI) aan te pakken, trekt Anthropic 100 miljoen dollar (88,8 miljoen euro) uit voor een nieuw opleidingsinitiatief. Dit programma, bekend als de Claude Frontier Academy, moet tegen het einde van 2027 10.000 “frontier deployed engineers“ certificeren. Deze stagiairs worden geworven […]",
+   "date": "2026-10-03T19:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eerste kooigevecht tussen mens en robot eindigt in zege voor de automaat én verbod door autoriteiten in VS",
+   "link": "https://www.volkskrant.nl/buitenland/eerste-kooigevecht-tussen-mens-en-robot-eindigt-in-zege-voor-de-automaat-en-verbod-door-autoriteiten-in-vs~bbb30162/",
+   "description": "",
+   "date": "2026-10-03T19:09:50",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-04",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Google wil in de ruimte een datacentrum bouwen. Maar ook daar wordt het best wel vol",
    "link": "https://www.trouw.nl/duurzaamheid-economie/google-wil-in-de-ruimte-een-datacentrum-bouwen-maar-ook-daar-wordt-het-best-wel-vol~bbafd47a/",
@@ -545,7 +600,8 @@
    "description": "",
    "date": "2026-10-02T22:00:48",
    "feeds": [
-    "Trouw - Opinie"
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
    ],
    "first_seen": "2026-10-03",
    "intro_geprobeerd": true
@@ -769,6 +825,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-10-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opinie-auteurs, stuur NRC je tekst liever voordat je er AI-polijstpoeder overheen strooit",
+   "link": "https://www.nrc.nl/nieuws/2026/10/02/opinie-auteurs-stuur-nrc-je-tekst-liever-voordat-je-er-ai-polijstpoeder-overheen-strooit-a4937965",
+   "description": "Wat vinden we acceptabel AI-gebruik? Dat is „de grote vraag voor de opinieredactie”, stond boven een lange verantwoording in de vorige zaterdagkrant.",
+   "date": "2026-10-02T10:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-04",
    "intro_geprobeerd": false
   },
   {
