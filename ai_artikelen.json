@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T17:38:54",
+ "generated": "2026-10-05T03:38:27",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 35,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 164,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,72 @@
   }
  ],
  "articles": [
+  {
+   "title": "OpenAI-topman Sam Altman vindt sommige risico’s aanvaardbaar om AI voor iedereen toegankelijk te houden",
+   "link": "https://www.gva.be/buitenland/openai-topman-sam-altman-vindt-sommige-risicos-aanvaardbaar-om-ai-voor-iedereen-toegankelijk-te-houden/162577257.html",
+   "description": "OpenAI-topman Sam Altman meent dat de voordelen van kunstmatige intelligentie opwegen tegen bepaalde risico’s en dat de technologie voor iedereen toegankelijk moet blijven.",
+   "date": "2026-10-05T02:25:30",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump herdoopt AI tot “superintelligentie”: kan dat zomaar?",
+   "link": "https://www.standaard.be/media-en-cultuur/trump-herdoopt-ai-tot-superintelligentie-kan-dat-zomaar/162481221.html",
+   "description": "Valt de Engelse taal onder de bevoegdheden van een Amerikaanse president? Donald Trump denkt alvast van wel.",
+   "date": "2026-10-04T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgische groene stroom reserveren voor Amerikaanse datacenters? “Het mondt uit in digitaal kolonialisme”",
+   "link": "https://www.standaard.be/economie/belgische-groene-stroom-reserveren-voor-amerikaanse-datacenters-het-mondt-uit-in-digitaal-kolonialisme/162260615.html",
+   "description": "Datacenters verbruiken nu al 4 procent van het Belgische stroomverbruik, tegen 2035 zou dat driemaal zoveel worden. Gebruiken we die stroom niet beter om de industrie en gezinnen van olie en gas af te helpen? “Ze verbruiken onze energie en wij betalen voor hun algoritmes.”",
+   "date": "2026-10-04T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Polen zet AI in voor bewaking aan grens met Wit-Rusland",
+   "link": "https://businessam.be/polen-zet-ai-bewakingsnetwerk-in-aan-de-grens-met-wit-rusland/",
+   "description": "Key takeaways Polen heeft een geautomatiseerd bewakingsnetwerk geïmplementeerd dat bekendstaat als ‘Intelligent Border’. De technologie bundelt gegevens van verschillende sensoren, drones en camera’s in één centrale interface. Geautomatiseerde waarschuwingen brengen personeel vervolgens op de hoogte van verdachte bewegingen. Het systeem maakt momenteel deel uit van ‘Operatie Safe Podlasie’. Polen test het op een specifiek deel […]",
+   "date": "2026-10-04T21:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Musk wil AI-afdeling SpaceX omdopen tot SpaceXSI",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/musk-wil-ai-afdeling-spacex-omdopen-tot-spacexsi/",
+   "description": "(ABM FN-Dow Jones) Elon Musk wil de AI-afdeling van SpaceX een nieuwe naam geven. Dit bevestigde hij zondag op X.SpaceXAI wordt naar verwachting omgedoopt tot SpaceXSI, naar aanleiding van de oproep van de Amerikaanse president Donald Trump om de term \"superintelligentie\", of SI, te gebruiken in plaats van \"kunstmatige intelligentie\", beter bekend als AI.\"Ja, we zullen …\nThe post Musk wil AI-afdeling SpaceX omdopen tot SpaceXSI appeared first on Trends.be.",
+   "date": "2026-10-04T18:59:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Italiaanse F-35B gespot met wapenpod: eerste internationale inzet",
+   "link": "https://businessam.be/italiaanse-f-35b-gespot-met-wapenpod-eerste-internationale-inzet/",
+   "description": "Key takeaways Een Italiaanse F-35B Lightning II is voor het eerst publiek gefotografeerd met een GPU-9/A-kanonpod van 25 mm. Luchtvaartfotograaf Diego Mor legde het toestel vast bij de landing op de luchtmachtbasis Decimomannu op Sardinië. Daarmee is Italië de eerste buitenlandse F-35-gebruiker waarvan het gebruik van de kanonpod publiek is waargenomen. Decimomannu ligt in de […]",
+   "date": "2026-10-04T18:42:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
   {
    "title": "China bereidt leger voor op drone- en robotoorlog met nieuwe gespecialiseerde opleidingen",
    "link": "https://businessam.be/china-bereidt-leger-voor-op-drone-en-robotoorlog-met-nieuwe-gespecialiseerde-opleidingen/",
