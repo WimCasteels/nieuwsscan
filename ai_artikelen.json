@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T03:38:27",
+ "generated": "2026-10-05T21:30:25",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 164,
+   "count": 165,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 86,
    "error": null
   },
   {
@@ -315,6 +315,381 @@
   }
  ],
  "articles": [
+  {
+   "title": "Wall Street: 'Microsoft profiteert van paniek rond ontsnappende AI-agenten'",
+   "link": "https://www.tijd.be/r/t/1/id/10694409",
+   "description": "De Amerikaanse beurzen gaan hoger, waarbij met name de techwaarden positief opvallen. Microsoft profiteert van een adviesverhoging. MercadoLibre wint dankzij zijn hoge blootstelling aan de Braziliaanse markt. PTC gaat een derde hoger nu het Franse Schneider Electric de softwarespeler overneemt.",
+   "date": "2026-10-05T20:40:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huawei en Qualcomm sluiten meerjarige patentdeal voor 5G en AI",
+   "link": "https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html",
+   "description": "Huawei en Qualcomm zijn een brede, meerjarige patentovereenkomst aangegaan. Met de deal krijgen de bedrijven toegang tot elkaars patentportfolio's voor bijvoorbeeld 5G, AI en netwerken.",
+   "date": "2026-10-05T20:39:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noorwegen komt met verbod op AI-brillen in parken, musea en winkelcentra: ‘Bezorgd om stiekeme foto’s en filmpjes’",
+   "link": "https://www.demorgen.be/nieuws/noorwegen-komt-met-verbod-op-ai-brillen-in-parken-musea-en-winkelcentra-bezorgd-om-stiekeme-foto-s-en-filmpjes~b2e1c313/",
+   "description": "",
+   "date": "2026-10-05T20:15:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Spionnenchef Jay Clayton heeft een nieuwe rol: AI-adviseur van Trump",
+   "link": "https://www.volkskrant.nl/tech/spionnenchef-jay-clayton-heeft-een-nieuwe-rol-ai-adviseur-van-trump~b5e9a5cb/",
+   "description": "",
+   "date": "2026-10-05T20:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Noorwegen wil AI-brillen in openbare ruimtes aan banden leggen",
+   "link": "https://businessam.be/noorwegen-wil-ai-brillen-in-openbare-ruimtes-aan-banden-leggen/",
+   "description": "Key takeaways De Noorse regering heeft vandaag bekendgemaakt dat zij van plan is een voorlopige beperking in te voeren op het gebruik van AI-aangedreven brillen in bepaalde openbare omgevingen. Deze stap vloeit voort uit bezorgdheid over de mogelijkheid dat personen zonder hun medeweten of toestemming via video of audio worden opgenomen. Beoogde openbare ruimtes Volgens […]",
+   "date": "2026-10-05T19:47:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Musk hernoemt SpaceXAI naar SpaceXSI na oproep van Trump",
+   "link": "https://businessam.be/musk-hernoemt-spacexai-naar-spacexsi-na-oproep-van-trump/",
+   "description": "Key takeaways Naar aanleiding van een presidentieel mandaat van Donald Trump heeft Elon Musk aangekondigd dat hij de naam van zijn AI-onderneming zal wijzigen van SpaceXAI in SpaceXSI. Dit besluit vloeit voort uit een uitvoerend besluit van de Amerikaanse president, die erop heeft aangedrongen de term ‘artificiële intelligentie’ te vervangen door ‘superintelligentie’. Presidentieel mandaat Trump […]",
+   "date": "2026-10-05T19:17:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gratis Gemini-gebruikers verliezen toegang tot Flash- en Pro-modellen",
+   "link": "https://tweakers.net/nieuws/252982/gratis-gemini-gebruikers-verliezen-toegang-tot-flash-en-pro-modellen.html",
+   "description": "Gratis gebruikers van Gemini hebben vanaf 9 oktober geen toegang meer tot de Flash- en Pro-modellen. Dat blijkt uit een geüpdatet ondersteuningsdocument van Google. Zij kunnen dan alleen nog het Flash-Lite-model gebruiken.",
+   "date": "2026-10-05T18:57:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noord-Korea test raket die dankzij AI verschillende vliegroutes kan volgen",
+   "link": "https://businessam.be/noord-korea-test-raket-die-dankzij-ai-verschillende-vliegroutes-kan-volgen/",
+   "description": "Key takeaways Noord-Korea heeft onlangs een rakettest uitgevoerd, waarbij het een zogenaamd „strategisch middellangeafstandswapen“ in de richting van de Japanse Zee heeft afgevuurd. Toezichthoudende instanties in Zuid-Korea en Japan detecteerden de lancering vanuit de regio Wonsan. Terwijl Japanse functionarissen schatten dat het projectiel een hoogte van 90 kilometer bereikte en 680 kilometer aflegde, meldde de […]",
+   "date": "2026-10-05T18:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De aha-ervaring: waarom moordmysteriepuzzels zo populair zijn",
+   "link": "https://www.knack.be/nieuws/belgie/maatschappij/de-aha-ervaring-waarom-moordmysteriepuzzels-zo-populair-zijn/",
+   "description": "Het ‘aha-moment’ maakt moordpuzzels als Murdoku en Murdle zo verslavend: ‘Een oplossing die even daarvoor nog onbereikbaar leek, wordt plots glashelder.’ Maar hoeveel van die aha-momenten blijven er nog over als we ons denkwerk steeds vaker aan AI uitbesteden?\nThe post De aha-ervaring: waarom moordmysteriepuzzels zo populair zijn appeared first on Knack.",
+   "date": "2026-10-05T16:57:15",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoeveel autonomie geef je AI in je klantinteractie?",
+   "link": "https://www.emerce.nl/videos/hoeveel-autonomie-geef-ai-klantinteractie",
+   "description": "Wil je deze video bekijken? Meld je dan kosteloos aan. De collectie waar de video bij hoort wordt binnenkort gelanceerd.",
+   "date": "2026-10-05T16:30:04",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "NAVO onthult nieuwe plan met drones en AI om een eventuele aanval van Rusland af te slaan",
+   "link": "https://businessam.be/navo-onthult-nieuwe-plan-met-drones-en-ai-om-een-eventuele-aanval-van-rusland-af-te-slaan/",
+   "description": "Key takeaways De opperbevelhebber van de NAVO in Europa, generaal Alexus Grynkewich, ontwikkelt een strategisch kader dat is ontworpen om een snelle overwinning te garanderen mocht Rusland een aanval lanceren op de oostelijke grenzen van de NAVO. Dit plan, dat de ‘Theorie van de overwinning’ wordt genoemd, richt zich op het combineren van conventionele militaire […]",
+   "date": "2026-10-05T16:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Geen enkele Amerikaan vindt een pauze in de ontwikkeling van AI een goed idee.” Wie is Jay Clayton, de nieuwe AI-tsaar van Donald Trump?",
+   "link": "https://www.standaard.be/economie/geen-enkele-amerikaan-vindt-een-pauze-in-de-ontwikkeling-van-ai-een-goed-idee.-wie-is-jay-clayton-de-nieuwe-ai-tsaar-van-donald-trump/162587262.html",
+   "description": "Donald Trump heeft zijn nieuwe AI-tsaar gekroond. Inlichtingenbaas Jay Clayton zal de Super Intelligence Force leiden. Daarmee geeft Trump aan dat de ontwikkeling van artificiële intelligentie geen technologische kwestie meer is, maar een van nationale veiligheid.",
+   "date": "2026-10-05T16:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI gaat ChatGPT-advertenties met afbeeldingen tonen, voorlopig alleen in VS",
+   "link": "https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html",
+   "description": "OpenAI gaat afbeeldingen van gesponsorde producten en diensten in ChatGPT tonen. De AI-maker begint binnenkort met een test van dit soort visuele advertenties, al is dat voorlopig alleen in de Verenigde Staten. Of en wanneer het bedrijf ze breder uitrolt, is nog niet bekend.",
+   "date": "2026-10-05T16:02:52",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noorwegen verbiedt AI-brillen op publieke plaatsen uit vrees voor 'gluurbril'-praktijken",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/05/noorwegen-verbiedt-ai-brillen/",
+   "description": "Noorwegen gaat AI-brillen tijdelijk verbieden op bepaalde plekken. Die toestellen hebben een discreet geïntegreerde camera en microfoon en de regering vreest dat mensen zonder het te weten zullen worden gefilmd. Een expertengroep moet zich over de privacykwestie buigen.",
+   "date": "2026-10-05T16:02:08",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Noorwegen verbiedt AI-brillen op publieke plaatsen uit vrees voor 'gluurbril'-praktijken",
+   "link": "https://vrtnws.be/p.w78dKw90E",
+   "description": "Noorwegen gaat AI-brillen tijdelijk verbieden op bepaalde plekken. Die toestellen hebben een discreet geïntegreerde camera en microfoon en de regering vreest dat mensen zonder het te weten zullen worden gefilmd. Een expertengroep moet zich over de privacykwestie buigen. Ook in België leeft de discussie over de verkoop van de slimme bril.",
+   "date": "2026-10-05T16:02:08",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google wil in de ruimte een datacentrum bouwen. Maar ook daar wordt het best wel vol",
+   "link": "https://www.demorgen.be/nieuws/google-wil-in-de-ruimte-een-datacentrum-bouwen-maar-ook-daar-wordt-het-best-wel-vol~bbafd47a/",
+   "description": "",
+   "date": "2026-10-05T16:00:00",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Deutsche Telekom wil met AI 2,5 miljard euro besparen",
+   "link": "https://businessam.be/deutsche-telekom-wil-met-ai-25-miljard-euro-besparen/",
+   "description": "Key takeaways Tegen 2030 verwacht Deutsche Telekom zijn indirecte uitgaven met ongeveer 2,5 miljard euro te verminderen in vergelijking met het niveau van 2023. Die financiële doelstelling hangt samen met de strategische uitbreiding van automatisering en de integratie van artificiële intelligentie door het bedrijf. Operationele efficiëntie De organisatie benadrukte dat AI de operationele efficiëntie nu […]",
+   "date": "2026-10-05T14:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google pauzeert open source bugbountyprogramma, geeft AI als reden",
+   "link": "https://www.security.nl/posting/956003/Google+pauzeert+open+source+bugbountyprogramma%2C+geeft+AI+als+reden?channel=rss",
+   "description": "Google accepteert voorlopig geen nieuwe inzendingen voor het eigen open source bugbountyprogramma. Aanleiding volgens het ...",
+   "date": "2026-10-05T14:16:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tijdelijk verbod op AI-brillen in Noorwegen, regering stelt onderzoek in",
+   "link": "https://nos.nl/l/2633750",
+   "description": "De Noorse regering wil een tijdelijk verbod op AI-brillen op een aantal plekken in de openbare ruimte. De regering zegt zich zorgen te maken dat mensen zonder hun medeweten kunnen worden gefilmd of gefotografeerd.\n        Zo'n AI-bril lijkt op een gewone bril maar heeft een ingebouwde camera en microfoon. Ook is de bril voorzien van een AI-assistent.\n        Het tijdelijk verbod geeft de regering \"de tijd om grondig onderzoek te doen\" voor het maken van regelgeving, zegt minister Micaelsen van Digitalisering.\n        Het tijdelijk verbod zal gelden voor plekken die door een groot publiek worden bezocht. Het gaat om onder meer parken, winkelcentra en op plekken waar veel kinderen komen, zoals kinderdagverblijven en speeltuinen.\n        Het verbod kan ook worden toegepast op privacygevoelige plekken, zoals ziekenhuizen en kleedkamers. Overwogen wordt of het verbod ook gaat gelden voor universiteiten en hogescholen.\n        Onveilig\n        De minister zegt dat mensen zich geen zorgen zouden moeten maken om stiekem opgenomen te worden op plekken en in situaties waar dat normaal gesproken ook niet gebeurt. \"Zo'n samenleving kan als onveilig worden ervaren en ons ertoe aanzetten om ons terug te trekken\", aldus Micaelsen.\n        De Noorse regering onderzoekt voor welke technologische onderdelen het verbod precies zal gelden. Bijvoorbeeld of het verbod geldt voor brillen met camera en die geluid kunnen opnemen of voor brillen die kunnen opnemen en een AI-functie hebben.\n        Er wordt een expertgroep opgericht die de regering gaat adviseren over permanente regelgeving.\n        De regering benadrukt dat het geen algeheel verbod wil op de slimme brillen. Het gebruik van de brillen moet in privégebruik mogelijk zijn. Ook kwetsbare groepen, zoals blinden en slechtzienden, kunnen worden uitgezonderd omdat de AI-bril voor hen nuttig kan zijn.\n        Rechtszaak\n        In Nederland wil de Tweede Kamer een duidelijker verbod op de slimme brillen. Het kabinet wacht dit najaar op een advies daarover.\n        Vorige week werd bekend dat meerdere organisaties eisen dat techbedrijf Meta de verkoop van de brillen stillegt. Gebeurt dat niet binnen twee weken dan beginnen ze een rechtszaak.\n        Het gaat om de Consumentenbond, hulporganisatie Offlimits en actiegroep The Firewall, die zich keert tegen de macht van Big Tech.",
+   "date": "2026-10-05T14:13:59",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-brillen steeds meer onder vergrootglas: Noorwegen komt met tijdelijk verbod op drukke plaatsen",
+   "link": "https://www.hln.be/tech/ai-brillen-steeds-meer-onder-vergrootglas-noorwegen-komt-met-tijdelijk-verbod-op-drukke-plaatsen~a5de3205/",
+   "description": "De Noorse regering gaat AI-brillen op bepaalde locaties tijdelijk verbieden. “Ik ben bezorgd over de introductie van nieuwe, krachtige technologie waarbij mensen het risico lopen gefotografeerd, gefilmd of opgenomen te worden zonder hun medeweten”, zegt de Noorse minister van Digitalisering en Openbaar Bestuur Torgeir Micaelsen.",
+   "date": "2026-10-05T14:05:18",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump richt ‘Super Intelligence Force’ op om de AI-wedloop te leiden",
+   "link": "https://businessam.be/trump-richt-super-intelligence-force-op-om-de-ai-wedloop-te-leiden/",
+   "description": "Key takeaways President Donald Trump heeft officieel de Super Intelligence Force geïntroduceerd, een gespecialiseerd orgaan dat is opgezet om de wereldwijde dominantie van de Verenigde Staten op het gebied van geavanceerde artificiële intelligentie te handhaven. Superintelligentie Bij de aankondiging via Truth Social beschreef de president de opkomst van superintelligentie als een maatschappelijke verschuiving die belangrijker […]",
+   "date": "2026-10-05T13:45:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oekraïne zet AI-geweren in tegen Russische drones",
+   "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-duitse-diensten-verwachten-gewapende-aanvallen-op-oekraine-hulp~ba2815bb/",
+   "description": "",
+   "date": "2026-10-05T13:08:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bosbrandweerwagen en blusrobot: 15 nieuwe voertuigen voor hulpverleningszone Zuidwest-Limburg",
+   "link": "https://vrtnws.be/p.ewPVEm1pM",
+   "description": "Hulpverleningszone Zuidwest-Limburg heeft 15 nieuwe voertuigen in gebruik genomen. Het gaat onder meer om een bosbrandwagen, ziekenwagens, ladderwagens en hoogtewerkers. Er zit ook een opvallend klein exemplaar bij: een blusrobot. \"Daarmee kunnen we van op afstand ingrijpen bij gevaarlijke situaties\", klinkt het bij de brandweerlui.",
+   "date": "2026-10-05T13:03:50",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voormalig EVGA-overklokker Kingpin keert terug en hint op samenwerking met ASUS",
+   "link": "https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html",
+   "description": "Vince Lucido, ook wel bekend als Kingpin, gaat weer extreem overklokken. De professionele overklokker was vooral bekend om zijn werk met EVGA, maar stopte toen die fabrikant uit de gpu-markt stapte. Nu lijkt hij aan de slag te gaan met ASUS, al zijn die plannen nog vaag.",
+   "date": "2026-10-05T12:58:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Met humanoïde robots laten we vrijwillig economische spionage toe’",
+   "link": "https://trends.knack.be/ai-en-tech/met-humanoiderobots-laten-we-vrijwillig-economische-spionage-toe/",
+   "description": "Al decennia kijken we lijdzaam toe hoe Amerikaanse software en datacenters onmisbaar zijn geworden voor de Europese economie. De vrees voor een zogeheten kill switch die bedrijven lamlegt, doet ons beven. Maar wat betekent een kill switch als het om humanoïde robots gaat?\nThe post ‘Met humanoïde robots laten we vrijwillig economische spionage toe’ appeared first on Trends.be.",
+   "date": "2026-10-05T11:15:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noorwegen gaat AI-brillen tijdelijk verbieden op drukke plekken",
+   "link": "https://www.nu.nl/economie/6412039/noorwegen-gaat-ai-brillen-tijdelijk-verbieden-op-drukke-plekken.html",
+   "description": "De Noorse regering gaat AI-brillen tijdelijk verbieden. Volgens Torgeir Micaelsen, minister van Digitalisering en Openbaar Bestuur, geeft dit de overheid tijd om grondig onderzoek te doen en een \"weloverwogen debat te voeren dat de basis kan leggen voor permanente regelgeving\".",
+   "date": "2026-10-05T11:12:52",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Eerst doen, dan denken: waarom we moeten stoppen met de vergadercultuur",
+   "link": "https://www.emerce.nl/opinie/eerst-doen-denken-waarom-moeten-stoppen-vergadercultuur",
+   "description": "De Nederlandse overleg- en vergadercultuur werkt vaak verlammend en kost bedrijven ongemerkt veel geld. In plaats van ideeën vooraf dicht te timmeren en vast te houden aan starre jaarplannen, pleit de auteur voor een 'eerst doen, dan denken'-mentaliteit. Door snel te experimenteren (zoals met ChatGPT Ads) en te werken met weekdoelen en een 'shitlist', ontdek je sneller wat écht werkt en blijf je wendbaar.",
+   "date": "2026-10-05T10:30:14",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Industriereus Schneider versterkt zich in AI en software met deal van 21 miljard",
+   "link": "https://www.tijd.be/r/t/1/id/10694284",
+   "description": "Het Franse Schneider Electric slaat het Amerikaanse softwarebedrijf PTC aan de haak voor 23,7 miljard dollar (21,2 miljard euro). Het is veruit de grootste deal ooit voor de industriereus.",
+   "date": "2026-10-05T10:24:41",
+   "feeds": [
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI laat kleding virtueel passen",
+   "link": "https://www.emerce.nl/nieuws/openai-kleding-virtueel-passen",
+   "description": "Een update aan ChatGPT Images brengt de AI binnen handbereik van webwinkels en shoppers om virtueel kleding te passen.",
+   "date": "2026-10-05T10:04:18",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Derde proefweek van de Trends Beleggers Challenge: Meersman haalt een weekrendement van 10,1 procent, maar de grote winnaar van de proefweken is Daveke",
+   "link": "https://trends.knack.be/beleggen/beleggers-challenge/derde-proefweek-van-de-trends-beleggers-challenge-meersman-haalt-een-weekrendement-van-101-procent-maar-de-grote-winnaar-van-de-proefweken-is-daveke/",
+   "description": "Meersman haalt een weekrendement van 10,1 procent met een portefeuille IT-aandelen als ASML, Infineon, BE Semiconductor en Melexis. Guidod volgt met een rendement van 9,25 procent. De portefeuille is vrijwel identiek aan die van Meersman.\nThe post Derde proefweek van de Trends Beleggers Challenge: Meersman haalt een weekrendement van 10,1 procent, maar de grote winnaar van de proefweken is Daveke appeared first on Trends.be.",
+   "date": "2026-10-05T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een testament opstellen met AI: goed idee?",
+   "link": "https://trends.knack.be/geld/een-testament-opstellen-met-ai-goed-idee/",
+   "description": "Artificiële intelligentie is ingeburgerd in zowat alle domeinen, ook in dat van de successieplanning. Waarom zou u dan een notaris raadplegen, als een AI-tool als ChatGPT in enkele seconden een tekst genereert die eruitziet als een goed geformuleerd testament? \nThe post Een testament opstellen met AI: goed idee? appeared first on Trends.be.",
+   "date": "2026-10-05T08:03:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijd verzet tegen datacenters bedreigt miljardeninvesteringen",
+   "link": "https://businessam.be/wereldwijd-verzet-tegen-datacenters-bedreigt-miljardeninvesteringen/",
+   "description": "Key takeaways Het huidige conflict over de uitbreiding van datacenters in de Verenigde Staten fungeert als voorbode van wereldwijde trends. Dat schrijft CNBC. Nu artificiële intelligentie een centraal politiek thema wordt, verspreidt de vijandigheid jegens die faciliteiten zich naar Azië en Europa, wat nieuwe kwetsbaarheden creëert voor financiers. Europees verzet In Europa is de situatie […]",
+   "date": "2026-10-05T08:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Podcast] Shaping the Future: Bij GEO is wat anderen over je zeggen belangrijker dan wat je zelf vertelt",
+   "link": "https://www.emerce.nl/interviews/podcast-shaping-the-future-geo-anderen-zeggen-belangrijker-zelf-vertelt",
+   "description": "Generative Engine Optimization (GEO) verandert online vindbaarheid. AI-assistenten kijken niet alleen naar je website, maar beoordelen je totale reputatie via reviews en PR om te bepalen wie ze aanbevelen.   Succes vereist een snelle site, een sterke reputatie en concrete, citeerbare antwoorden op specifieke vragen. Marketeers schrijven voortaan voor mensen én AI, waarbij testen in verschillende taalmodellen de nieuwe manier van meten wordt.",
+   "date": "2026-10-05T08:00:08",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump gebruikte Grok AI bij voorbereiding arrestatie Maduro",
+   "link": "https://businessam.be/trump-gebruikte-grok-ai-bij-voorbereiding-arrestatie-maduro/",
+   "description": "Key takeaways Volgens een rapport van het tijdschrift Time voerden Elon Musk en Donald Trump in december 2025 een vertrouwelijk gesprek, kort voordat het Amerikaanse leger in Venezuela ingreep om president Nicolás Maduro te arresteren. Overleg  Trump zou naar verluidt enkele uren hebben doorgebracht met de AI-chatbot Grok. Hij stelde de software met name vragen […]",
+   "date": "2026-10-05T07:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI-topman Sam Altman vindt sommige risico’s aanvaardbaar om AI voor iedereen toegankelijk te houden",
    "link": "https://www.gva.be/buitenland/openai-topman-sam-altman-vindt-sommige-risicos-aanvaardbaar-om-ai-voor-iedereen-toegankelijk-te-houden/162577257.html",
@@ -355,6 +730,17 @@
    "date": "2026-10-04T21:03:00",
    "feeds": [
     "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De rapper maakte een AI-videoclip waarin Hitler en Auschwitz de revue passeren. Maar de uitspraak ‘op gas zijn’, dat is straattaal voor op dreef",
+   "link": "https://www.nrc.nl/nieuws/2026/10/04/de-rapper-maakte-een-ai-videoclip-waarin-hitler-en-auschwitz-de-revue-passeren-maar-de-uitspraak-op-gas-zijn-dat-is-straattaal-voor-op-dreef-a4937669",
+   "description": "Glenn (33) – stukadoor en aspirant-muzikant – is door het CIDI aangeklaagd omdat hij de Holocaust zou verheerlijken in het nummer ‘Gas’. „Het beeld is smakeloos”, erkent z’n advocaat, „maar het was een artistieke keuze en over smaak valt niet te twisten.”",
+   "date": "2026-10-04T19:45:00",
+   "feeds": [
+    "NRC - Artikels"
    ],
    "first_seen": "2026-10-05",
    "intro_geprobeerd": false
