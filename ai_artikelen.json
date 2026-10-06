@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T04:42:40",
+ "generated": "2026-10-06T19:02:23",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 170,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 85,
    "error": null
   },
   {
@@ -315,6 +315,358 @@
   }
  ],
  "articles": [
+  {
+   "title": "Moonshot AI bereikt waardering van 50 miljard dollar en mikt op beursgang in Hongkong begin 2027",
+   "link": "https://businessam.be/moonshot-ai-bereikt-waardering-van-50-miljard-dollar-en-mikt-op-beursgang-in-hongkong-begin-2027/",
+   "description": "Key takeaways Moonshot AI bereidt zich naar verluidt voor op een beursgang in Hongkong in het eerste kwartaal van 2027. Een recente ronde van particuliere financiering heeft de marktwaardering van het bedrijf op ongeveer 50 miljard dollar (zo’n 44,4 miljard euro) gebracht. Ter voorbereiding op de beursgang zou het bedrijf al in oktober voorlopige gesprekken […]",
+   "date": "2026-10-06T18:45:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "UAntwerpen waarschuwt voor deepfakevideo waarin viroloog Pierre Van Damme reclame maakt voor medicijn",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/06/uantwerpen-waarschuwt-voor-deepfakevideo-met-pierre-van-damme/",
+   "description": "De Universiteit Antwerpen waarschuwt voor een deepfakevideo waarin vaccinoloog en epidemioloog Pierre Van Damme reclame lijkt te maken voor een middel tegen prostaatproblemen. Van Damme benadrukt dat hij de video nooit heeft opgenomen en dat zijn gezicht, stem en naam zonder toestemming worden gebruikt.",
+   "date": "2026-10-06T18:27:51",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "UAntwerpen waarschuwt voor deepfakevideo waarin viroloog Pierre Van Damme reclame maakt voor medicijn",
+   "link": "https://vrtnws.be/p.xZWeQMkxl",
+   "description": "De Universiteit Antwerpen waarschuwt voor een deepfakevideo waarin vaccinoloog en epidemioloog Pierre Van Damme reclame lijkt te maken voor een middel tegen prostaatproblemen. Van Damme benadrukt dat hij de video nooit heeft opgenomen en dat zijn gezicht, stem en naam zonder toestemming worden gebruikt.",
+   "date": "2026-10-06T18:27:51",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Drie vragen over overname PTC: Schneider Electric maakt de sprong naar physical AI",
+   "link": "https://trends.knack.be/ondernemen/3-vragen-over-overname-ptc-schneider-electric-maakt-de-sprong-naar-physical-ai/",
+   "description": "De Franse energietechnologiegigant Schneider Electric neemt het Amerikaanse softwarebedrijf PTC over voor 20,1 miljard euro. Dat maakte het concern maandag bekend. Olivier Blum, de CEO van Schneider, wil van zijn bedrijf \"een software- en AI-powerhouse\" maken. Toch zijn niet alle beleggers overtuigd. Sebastien Marien\nThe post Drie vragen over overname PTC: Schneider Electric maakt de sprong naar physical AI appeared first on Trends.be.",
+   "date": "2026-10-06T18:25:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitse reus SAP legt honderden miljoenen op tafel voor Gentse start-up TechWolf",
+   "link": "https://www.tijd.be/r/t/1/id/10694510",
+   "description": "De reus in bedrijfssoftware SAP koopt het Gentse AI-bedrijf TechWolf in een deal die in de honderden miljoenen euro's loopt. De Duitse vuurkracht en schatkist aan data moeten TechWolf nog meer vleugels geven.",
+   "date": "2026-10-06T18:09:27",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Korea investeert 3,1 miljard euro in baanbrekend AI-model",
+   "link": "https://businessam.be/zuid-korea-investeert-31-miljard-euro-in-baanbrekend-ai-model/",
+   "description": "Key takeaways Vanaf maart 2027 start Zuid-Korea een project van 4,7 biljoen won (3,1 miljard euro) om een hoogwaardig baanbrekend AI-model te ontwikkelen. Volgens het Ministerie van Wetenschap en ICT is die investering bedoeld om ervoor te zorgen dat het land concurrerend blijft in de wereldwijde ontwikkeling van geavanceerde artificiële intelligentie. Competitief selectieproces Het selectieproces […]",
+   "date": "2026-10-06T18:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donderdag marktenchat over Nvidia, SpaceX en de Franse rente",
+   "link": "https://www.tijd.be/r/t/1/id/10694558",
+   "description": "Om 12 uur chatten we over de markten en de economie.",
+   "date": "2026-10-06T17:59:48",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SAP neemt Gents AI-bedrijf TechWolf over",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/sap-neemt-gents-ai-bedrijf-techwolf-over/",
+   "description": "(ABM FN) SAP heeft overeenstemming bereikt met TechWolf over een overname. Dit maakte SAP dinsdagmiddag bekend.Het Belgische TechWolf is volgens SAP \"een leidend AI-platform\" voor werknemersdata. Het platform van TechWolf, 'context graph for work' genaamd, geeft ondernemingen real time inzicht in het werk dat hun werknemers verrichten en de vaardigheden waarover zij beschikken.\"Overal proberen organisaties te …\nThe post SAP neemt Gents AI-bedrijf TechWolf over appeared first on Trends.be.",
+   "date": "2026-10-06T17:41:40",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers vieren lagere rente, S&P500 schiet naar record",
+   "link": "https://www.tijd.be/r/t/1/id/10694549",
+   "description": "De beursindex S&P500 heeft een record aangetikt. Beleggers zijn enthousiast over een terugval van de langetermijnrente, en ook de olieprijs zakt. Ook de AI-motor draait op volle toeren: de beurswaarde van Nvidia gaat richting 6.000 miljard dollar.",
+   "date": "2026-10-06T17:36:40",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook ChatGPT-teksten krijgen onzichtbaar 'watermerk'",
+   "link": "https://nos.nl/l/2633893",
+   "description": "Teksten van ChatGPT-gebruikers worden voorzien van een onzichtbaar 'watermerk'. Hiermee moet duidelijker worden of een tekst authentiek is of gegenereerd is door kunstmatige intelligentie, aldus OpenAI.\n        Het watermerk, genaamd textGrain, wordt komende tijd verwerkt in AI-teksten van gebruikers in de Europese Unie. Daarbuiten bevatten de teksten geen watermerken.\n        Het herkenningsteken is voor normale gebruikers niet te zien: het is namelijk geen fysiek stempel of speciaal teken, maar zit ingebouwd in de woordkeuzes van het generatieve AI-model.\n        Korte teksten\n        Een speciale detector kan dat watermerk, en daarmee door AI-gegenereerde woorden en teksten, wel oppikken. Die tool is vooralsnog alleen toegankelijk voor goedgekeurde onderzoekers en expertorganisaties, schrijft OpenAI.\n        Het systeem is volgens het bedrijf achter ChatGPT sterk, maar niet foutloos, schrijft het bedrijf. Onder meer korte en bewerkte teksten maken betrouwbare detectie lastig.\n        Anthropic, het bedrijf achter chatbot Claude, voerde twee maanden geleden een vergelijkbaar watermerk in: ook onzichtbaar voor mensenogen, maar wel waarneembaar voor computersystemen. Deze is wereldwijd toegepast.\n        Concurrentie\n        De bedrijven zeggen met hun watermerken de nieuwe Europese AI-transparantieregels te volgen. Een van die regels is dat content die door kunstmatige intelligentie is gemaakt een markering krijgt, zoals een watermerk.\n        Volgens tech-expert Bert Hubert mag je in Europa nog best teksten maken die door kunstmatige intelligentie zijn geproduceerd zonder watermerk, maar dan moet je het onder sommige omstandigheden zelf vermelden.\n        Dat de bedrijven nu massaal watermerken toevoegen, komt volgens Hubert dan ook vanwege onderlinge concurrentie. \"Anders moet je nu als OpenAI haast uitleggen waarom je dit als bedrijf niet hebt. Zoiets kan slecht zijn voor je verkoopproces.\"\n        Fraudezaken\n        De watermerken komen in een tijd waarin veel discussie is over de authenticiteit van content en wat de gevolgen zijn als content niet authentiek is. \"Dit legt de lat wat hoger\", zegt Hubert.\n        Volgens hem kunnen de watermerken vooral helpen bij fraudezaken. \"Denk aan mails van een zogenaamd energiebedrijf die er geloofwaardig uitzien, maar door kunstmatige intelligentie zijn geproduceerd. Dan is het heel handig als je mailsysteem kan zeggen: let op, dit is een door AI-gegenereerde mail.\"",
+   "date": "2026-10-06T16:37:34",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijven zijn laks met beveiliging. Moeten we ‘dat maar accepteren’, zoals Sam Altman zegt?",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/ai-bedrijven-zijn-laks-met-beveiliging-moeten-we-dat-maar-accepteren-zoals-sam-altman-zegt~b723f06c/",
+   "description": "",
+   "date": "2026-10-06T16:08:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Van Charlotte Brontë tot Anne Frank: recordaantal van 12.000 boektitels verboden in Amerikaanse schoolbibliotheken",
+   "link": "https://www.nrc.nl/nieuws/2026/10/06/van-charlotte-bronte-tot-anne-frank-recordaantal-van-12-000-boektitels-verboden-in-amerikaanse-schoolbibliotheken-a4938327",
+   "description": "Bijna 12.000 titels zijn vorig schooljaar uit Amerikaanse schoolbibliotheken gehaald. Het zijn vooral fictieboeken over seksualiteit, gender en etniciteit. AI blijkt deze censuur te versterken.",
+   "date": "2026-10-06T15:44:24",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek haalt meer dan 10 miljard euro op in nieuwe financieringsronde",
+   "link": "https://businessam.be/deepseek-haalt-meer-dan-10-miljard-euro-op-in-nieuwe-financieringsronde/",
+   "description": "Key takeaways DeepSeek staat op het punt een financieringsronde van meer dan 80 miljard yuan (ongeveer 10,6 miljard euro) af te ronden, waarmee het zijn oorspronkelijke doelstelling van 50 miljard yuan (6,6 miljard euro) ruimschoots overtreft. Deze sterke toename in belangstelling van investeerders volgt op de veelgeprezen lancering van het meest recente AI-model van het […]",
+   "date": "2026-10-06T15:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldspeler neemt Gents AI-bedrijf TechWolf over: “Grootste overname van Belgisch softwarebedrijf met durfkapitaal ooit”",
+   "link": "https://www.hln.be/gent/wereldspeler-neemt-gents-ai-bedrijf-techwolf-over-grootste-overname-van-belgisch-softwarebedrijf-met-durfkapitaal-ooit~abcfdaf6/",
+   "description": "Het Duitse softwarebedrijf SAP neemt het Gentse TechWolf over. Dat maakte de marktleider in bedrijfssoftware dinsdag bekend. De overname moet tegen het einde van dit jaar rond zijn. TechWolf blijft vanuit Gent werken als een onafhankelijke afdeling binnen SAP, met Andreas De Neve als CEO. Volgens ‘De Tijd’ zou de dealwaarde rond de 500 miljoen euro liggen.",
+   "date": "2026-10-06T15:41:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SAP neemt AI-bedrijf TechWolf uit Gent over",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/06/sap-techwolf-gent-overname/",
+   "description": "SAP neemt softwarebedrijf TechWolf uit Gent over. Dat meldt de marktleider in bedrijfssoftware in Duitsland. Naar verwachting zal de deal tegen eind dit jaar rond zijn. TechWolf zal dan als een onafhankelijke eenheid binnen SAP met hoofdzetel in Gent blijven opereren, onder huidig CEO Andreas De Neve.",
+   "date": "2026-10-06T15:39:35",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "SAP neemt AI-bedrijf TechWolf uit Gent over",
+   "link": "https://vrtnws.be/p.RaydZKG66",
+   "description": "SAP neemt softwarebedrijf TechWolf uit Gent over. Dat meldt de marktleider in bedrijfssoftware in Duitsland. Naar verwachting zal de deal tegen eind dit jaar rond zijn. TechWolf zal dan als een onafhankelijke eenheid binnen SAP met hoofdzetel in Gent blijven opereren, onder huidig CEO Andreas De Neve.",
+   "date": "2026-10-06T15:39:35",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI introduceert onzichtbare watermerken voor AI-content in de EU",
+   "link": "https://businessam.be/openai-introduceert-onzichtbare-watermerken-voor-ai-content-in-de-eu/",
+   "description": "Key takeaways Om te voldoen aan de transparantievereisten van de EU AI Act heeft OpenAI aangekondigd onzichtbare watermerken in te voeren voor content die door Codex en ChatGPT binnen de Europese Unie wordt geproduceerd. Regelgeving De regelgeving, die op 2 augustus van kracht is geworden, verplicht AI-ontwikkelaars ervoor te zorgen dat hun gegenereerde output door […]",
+   "date": "2026-10-06T15:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Ente Photos 1.3.65",
+   "link": "https://tweakers.net/downloads/78500/ente-photos-1365.html",
+   "description": "Ente Photos is een oplossing voor het beheren van foto's. Het is open source, maakt gebruik van end-to-endversleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. In versie 1.3.65 zijn de volgende veranderingen en verbeteringen in aangebracht: Changes in Ente Photos 1.3.65",
+   "date": "2026-10-06T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon werkt aan fix voor bug waarbij Alexa minutenlang 'lalala' zingt",
+   "link": "https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html",
+   "description": "Amazon is bezig met een fix voor Alexa, waarbij de AI-assistent midden in een gesprek 'lalala' zegt of zingt. Volgens het bedrijf gaat het om een softwarefout die een klein aantal klanten heeft getroffen.",
+   "date": "2026-10-06T14:31:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe staan literaire uitgevers tegenover AI-gebruik? ‘We gaan geen wantrouwende houding aannemen’",
+   "link": "https://www.nrc.nl/nieuws/2026/10/06/hoe-staan-literaire-uitgevers-tegenover-ai-gebruik-we-gaan-geen-wantrouwende-houding-aannemen-a4938131",
+   "description": "Tien literaire uitgevers reageerden op vragen van NRC over hun AI-beleid. „Zeker in de hoge literatuur is de pen en stem van auteurs herkenbaar.”",
+   "date": "2026-10-06T14:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zelfs cricketers moeten in Eindhoven vrezen voor wachtlijsten en ledenstops",
+   "link": "https://www.nrc.nl/nieuws/2026/10/06/zelfs-cricketers-moeten-in-eindhoven-vrezen-voor-wachtlijsten-en-ledenstops-a4937398",
+   "description": "Door de komst van duizenden expats, onder wie veel werknemers van ASML uit India, wint cricket aan populariteit in Eindhoven. Dat de clubs door een gebrek aan ruimte voorlopig niet verder kunnen groeien, illustreert de groeipijnen van de stad. „Het is echt een puzzel.”",
+   "date": "2026-10-06T13:50:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT gaat teksten voorzien van onzichtbaar AI-watermerk",
+   "link": "https://www.nu.nl/economie/6412191/chatgpt-gaat-teksten-voorzien-van-onzichtbaar-ai-watermerk.html",
+   "description": "Om aan Europese regelgeving te voldoen gaat OpenAI, het moederbedrijf van ChatGPT, een onzichtbaar watermerk toevoegen aan teksten van ChatGPT. Dat geldt alleen voor gebruikers in de Europese Unie. De functie heet 'textGrain', zo meldt OpenAI.",
+   "date": "2026-10-06T13:35:46",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Groei van datacenters in de VS zet door ondanks weerstand van het publiek",
+   "link": "https://businessam.be/groei-van-datacenters-in-de-vs-zet-door-ondanks-weerstand-van-het-publiek/",
+   "description": "Key takeaways Ondanks toenemende lokale en politieke weerstand blijft Goldman Sachs van mening dat de snelle uitbreiding van Amerikaanse datacenters tot en met 2027 grotendeels volgens plan zal verlopen. Hoewel de afkeuring onder het publiek toeneemt, suggereert het bedrijf dat die weerstand de algemene ontwikkelingskoers niet significant heeft belemmerd. Bijgewerkte capaciteitsprognoses In een recente analyse […]",
+   "date": "2026-10-06T10:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI rolt watermerk uit voor ChatGPT in EU",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/openai-rolt-watermerk-uit-voor-chatgpt-in-eu/",
+   "description": "OpenAI heeft meer details gegeven over hoe het zich zal schikken naar de Europese AI Act. Die vereist onder meer dat tekst die door kunstmatige intelligentie werd gegenereerd, ook op die manier kan worden geïdentificeerd. \nThe post OpenAI rolt watermerk uit voor ChatGPT in EU appeared first on Trends.be.",
+   "date": "2026-10-06T10:38:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wikimedia: OpenAI-agents wijzigden meerdere Wikipedia-pagina's",
+   "link": "https://www.security.nl/posting/956142/Wikimedia%3A+OpenAI-agents+wijzigden+meerdere+Wikipedia-pagina%27s?channel=rss",
+   "description": "AI-agents van OpenAI hebben meerdere pagina's van Wikipedia aangepast, geprobeerd tools van de online encyclopedie als proxy te ...",
+   "date": "2026-10-06T10:33:22",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kabinet: AI-bedrijven verantwoordelijk voor hacks door AI-agents",
+   "link": "https://www.security.nl/posting/956134/Kabinet%3A+AI-bedrijven+verantwoordelijk+voor+hacks+door+AI-agents?channel=rss",
+   "description": "Het kabinet vindt dat AI-bedrijven verantwoordelijk zijn voor de hacks en incidenten veroorzaakt door AI-agents, zo heeft ...",
+   "date": "2026-10-06T10:01:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI geeft ChatGPT-teksten in EU standaard onzichtbaar watermerk",
+   "link": "https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html",
+   "description": "OpenAI voegt in de EU een watermerk toe aan gegenereerde teksten. In de rest van de wereld staat die functie standaard uit. Die functie heet textGrain en werkt volgens OpenAI beter dan bijvoorbeeld SynthID van Google.",
+   "date": "2026-10-06T09:43:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google bouwt functie om AI naar vrienden en familie te laten bellen",
+   "link": "https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html",
+   "description": "Google bouwt aan een functie waarmee zijn Pixel 11-telefoon namens de gebruiker vrienden of familie kan bellen om boodschappen over te brengen. Gemini kan al telefoontjes aannemen van bedrijven.",
+   "date": "2026-10-06T08:08:01",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom AI pas werkt als de basis klopt – Interview",
+   "link": "https://businessam.be/waarom-ai-pas-werkt-als-de-basis-klopt-interview/",
+   "description": "De toekomst van HR en finance draait steeds minder om administratie en steeds meer om data, vaardigheden en artificiële intelligentie (AI). Maar hoe meer AI taken overneemt, hoe belangrijker vertrouwen en menselijke controle worden. Volgens Dorien Roes, Country Lead van Workday, ligt de sleutel niet in nóg een technologie, maar in een sterke basis. ‘AI […]",
+   "date": "2026-10-06T07:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: Chinese Moonshot AI bereidt beursgang voor",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-chinese-moonshot-ai-bereidt-beursgang-voor/",
+   "description": "(ABM FN-Dow Jones) Het Chinese AI-bedrijf Moonshot AI heeft met succes een financieringsronde afgerond tegen een waardering van ongeveer 50 miljard dollar en koerst af op een beursgang in Hongkong in het eerste kwartaal van 2027. Dit meldde Bloomberg dinsdag op basis van ingewijden. De waardering van Moonshot is dit jaar snel opgelopen, van 31,5 miljard …\nThe post Media: Chinese Moonshot AI bereidt beursgang voor appeared first on Trends.be.",
+   "date": "2026-10-06T07:29:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-in-het-groen-15/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten dinsdag overwegend hoger, na een recordslot voor techbeurs Nasdaq maandagavond. Wall Street sloot hoger, aangevoerd door grote technologiebedrijven als Nvidia en Microsoft. De Nasdaq steeg met 1,1 procent, en de S&P naderde zijn recordstand met een winst van 0,7 procent. De Nikkei index in Tokio steeg vanochtend met 0,8 procent, terwijl …\nThe post Aziatische beurzen noteren in het groen appeared first on Trends.be.",
+   "date": "2026-10-06T07:13:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-kindermisbruik groot probleem: 'Beelden gaan soms hele school door'",
+   "link": "https://www.nu.nl/tech/6412089/ai-kindermisbruik-groot-probleem-beelden-gaan-soms-hele-school-door.html",
+   "description": "Het aantal AI-beelden van seksueel kindermisbruik online neemt toe, waarschuwt de Internet Watch Foundation. Ook Nederlandse deskundigen trekken aan de bel: \"Veel jongeren maken deze beelden voor de grap, maar het is strafbaar.\"",
+   "date": "2026-10-06T05:05:52",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
   {
    "title": "AI maakt getuigen in docu ‘Het bestaat’, over kindermisbruik, onherkenbaar",
    "link": "https://www.standaard.be/media-en-cultuur/ai-maakt-getuigen-in-docu-het-bestaat-over-kindermisbruik-onherkenbaar/162582352.html",
