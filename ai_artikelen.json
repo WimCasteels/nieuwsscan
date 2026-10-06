@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T21:30:25",
+ "generated": "2026-10-06T04:42:40",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 166,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 86,
+   "count": 88,
    "error": null
   },
   {
@@ -316,6 +316,29 @@
  ],
  "articles": [
   {
+   "title": "AI maakt getuigen in docu ‘Het bestaat’, over kindermisbruik, onherkenbaar",
+   "link": "https://www.standaard.be/media-en-cultuur/ai-maakt-getuigen-in-docu-het-bestaat-over-kindermisbruik-onherkenbaar/162582352.html",
+   "description": "In de docureeks ‘Het bestaat’ worden anonieme getuigenissen weergegeven via AI-gegenereerde avatars. “Anders hadden we een getuige niet voor de camera gekregen.”",
+   "date": "2026-10-05T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur",
+    "De Standaard - Sport"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI integreert advertenties in de beeldgeneratiefunctie van ChatGPT",
+   "link": "https://businessam.be/openai-integreert-advertenties-in-de-beeldgeneratiefunctie-van-chatgpt/",
+   "description": "Key takeaways OpenAI integreert advertenties in de functie voor het genereren van afbeeldingen van ChatGPT. Daarbij bepaalt een systeem op basis van de inhoud van het gesprek of en waar advertenties worden geplaatst. Dat meldt het bedrijf in een blogpost. Hoewel deze advertenties al actief zijn voor gratis en „Go“-gebruikers in 31 Europese landen, staat […]",
+   "date": "2026-10-05T22:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Wall Street: 'Microsoft profiteert van paniek rond ontsnappende AI-agenten'",
    "link": "https://www.tijd.be/r/t/1/id/10694409",
    "description": "De Amerikaanse beurzen gaan hoger, waarbij met name de techwaarden positief opvallen. Microsoft profiteert van een adviesverhoging. MercadoLibre wint dankzij zijn hoge blootstelling aan de Braziliaanse markt. PTC gaat een derde hoger nu het Franse Schneider Electric de softwarespeler overneemt.",
@@ -346,6 +369,17 @@
     "De Morgen - In Het Nieuws"
    ],
    "first_seen": "2026-10-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Noorwegen doet ‘gluurbril’ tijdelijk in de ban: AI-brillen verboden in parken, musea en winkelcentra",
+   "link": "https://www.demorgen.be/nieuws/noorwegen-doet-gluurbril-tijdelijk-in-de-ban-ai-brillen-verboden-in-parken-musea-en-winkelcentra~b2e1c313/",
+   "description": "",
+   "date": "2026-10-05T20:15:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-06",
    "intro_geprobeerd": true
   },
   {
