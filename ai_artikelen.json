@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T04:07:26",
+ "generated": "2026-10-07T19:40:07",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 24,
+   "count": 25,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 168,
+   "count": 166,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 85,
+   "count": 86,
    "error": null
   },
   {
@@ -316,6 +316,338 @@
  ],
  "articles": [
   {
+   "title": "Wie betaalt de begroting als AI het werk overneemt?",
+   "link": "https://www.tijd.be/r/t/1/id/10694725",
+   "description": "Als we over de centen van de overheid spreken, mogen we niet blind zijn voor wat staat te gebeuren in de wereld van werk.",
+   "date": "2026-10-07T19:26:00",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noord-Amerikaanse banken lopen voorop met AI-integratie; Europese banken hebben moeite om te volgen",
+   "link": "https://businessam.be/noord-amerikaanse-banken-lopen-voorop-met-ai-integratie-europese-banken-hebben-moeite-om-te-volgen/",
+   "description": "Key takeaways Noord-Amerikaanse financiële instellingen hebben hun dominante positie op het gebied van de integratie van artificiële intelligentie versterkt, waarbij JPMorgan Chase zijn voorsprong als wereldwijde koploper heeft vergroot. Volgens de nieuwste Evident AI Index, die 50 grote wereldwijde banken beoordeelt op basis van openbare gegevens, is UBS de enige Europese vertegenwoordiger in de top […]",
+   "date": "2026-10-07T19:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI kraakt in één keer honderden wiskundeproblemen, maar lost het daarmee wel iets op?",
+   "link": "https://www.volkskrant.nl/tech/openai-kraakt-in-een-keer-honderden-wiskundeproblemen-maar-lost-het-daarmee-wel-iets-op~b1f338be/",
+   "description": "",
+   "date": "2026-10-07T18:23:10",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-agent van OpenAI getest: Dot roept je tot de orde",
+   "link": "https://www.tijd.be/r/t/1/id/10694669",
+   "description": "Straks hebben we een vloot van AI-agenten die ons als assistenten ondersteunen. Techexpert Roland Legrand testte Dot van OpenAI en werpt een blik in de toekomst.",
+   "date": "2026-10-07T17:44:29",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google maakt tool voor checken op AI-watermerk wereldwijd beschikbaar",
+   "link": "https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html",
+   "description": "Google maakt SynthID Detector wereldwijd beschikbaar. Met de tool kunnen gebruikers media uploaden en controleren of die door AI gegenereerd zijn. Dat gebeurt aan de hand van een onzichtbaar watermerk dat Google, OpenAI, Nvidia, Kakao en binnenkort ook Apple toevoegen aan hun gegenereerde content.",
+   "date": "2026-10-07T17:28:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gents Techwolf komt in Duitse handen: “Op eigen benen kunnen we te weinig bedrijven door de AI-transformatie loodsen”",
+   "link": "https://www.standaard.be/economie/gents-techwolf-komt-in-duitse-handen-op-eigen-benen-kunnen-we-te-weinig-bedrijven-door-de-ai-transformatie-loodsen/162670025.html",
+   "description": "Het Gentse AI-bedrijf Techwolf wordt overgenomen door de Duitse softwarereus SAP. Zo valt er opnieuw een beloftevol bedrijf in buitenlandse handen. Maar volgens cto Jeroen Van Hautte biedt dat vooral kansen.",
+   "date": "2026-10-07T16:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google opent gratis AI-detector voor iedereen",
+   "link": "https://www.hln.be/nieuws/google-opent-gratis-ai-detector-voor-iedereen~a5160576/",
+   "description": "Google maakt SynthID Detector vanaf vandaag wereldwijd beschikbaar via synthid.com. Met de gratis tool kun je in een paar klikken controleren of een afbeelding, video of audiobestand door AI gemaakt is.",
+   "date": "2026-10-07T16:37:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "IMF-topvrouw Georgieva waarschuwt voor “perfecte storm”: AI, energiekosten en torenhoge overheidsschulden bedreigen wereldeconomie",
+   "link": "https://businessam.be/imf-topvrouw-georgieva-waarschuwt-voor-perfecte-storm-ai-energiekosten-en-torenhoge-overheidsschulden-bedreigen-wereldeconomie/",
+   "description": "Key takeaways Kristalina Georgieva, directeur van het Internationaal Monetair Fonds (IMF), waarschuwde onlangs dat de wereldeconomie te maken heeft met aanzienlijke risico’s als gevolg van escalerende overheidsschulden, schommelende energiekosten en de snelle opmars van artificiële intelligentie. In de aanloop naar de gezamenlijke bijeenkomsten van het IMF en de Wereldbank in Bangkok riep zij regeringen op […]",
+   "date": "2026-10-07T15:45:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese techcommissaris roept Amerikaanse bedrijven tot de orde: ‘Ze moeten gewoon onze regels volgen’",
+   "link": "https://www.ad.nl/politiek/europese-techcommissaris-roept-amerikaanse-bedrijven-tot-de-orde-ze-moeten-gewoon-onze-regels-volgen~a983e44e/",
+   "description": "Henna Virkkunen is in Brussel verantwoordelijk voor de aanpak van big tech en AI. Daarbij schopt ze regelmatig tegen de schenen van Donald Trump en zijn techbro’s. Maar de Finse lijkt er niet van onder de indruk. Haar nieuwe prestigeproject: de online veiligheid van kinderen. „Onze regels gelden voor iedereen, dus ook voor X.”",
+   "date": "2026-10-07T15:30:38",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ierland vindt trainen van AI op gegevens EU-burgers 'gerechtvaardigd belang'",
+   "link": "https://www.security.nl/posting/956406/Ierland+vindt+trainen+van+AI+op+gegevens+EU-burgers+%27gerechtvaardigd+belang%27?channel=rss",
+   "description": "Ierland vindt dat het trainen van AI-modellen op persoonsgegevens van Europese burgers als een 'gerechtvaardigd belang' moet ...",
+   "date": "2026-10-07T15:12:29",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mozilla beschuldigt Microsoft van ondermijnen gebruikerskeuze",
+   "link": "https://www.security.nl/posting/956399/Mozilla+beschuldigt+Microsoft+van+ondermijnen+gebruikerskeuze?channel=rss",
+   "description": "Microsoft ondermijnt nog altijd op allerlei manieren met Edge, Bing en Copilot de keuze van gebruikers en moet hiermee stoppen, ...",
+   "date": "2026-10-07T14:44:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google gaat kerncentrale moderniseren door de enorme vraag naar elektriciteit van AI",
+   "link": "https://businessam.be/google-breidt-nucleaire-capaciteit-in-de-vs-uit-via-modernisering-van-bestaande-reactoren/",
+   "description": "Key takeaways Google heeft een overeenkomst voor twintig jaar gesloten met Constellation Energy om het elektriciteitsnet in het oosten van de Verenigde Staten te versterken met 890 megawatt aan kernenergie. In plaats van nieuwe faciliteiten te bouwen, richt het partnerschap zich op het verbeteren van 11 bestaande reactoren in New Jersey, Pennsylvania en Illinois. Deze […]",
+   "date": "2026-10-07T14:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursblik: AI-opbouw herstelt Duitse industrie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursblik-ai-opbouw-herstelt-duitse-industrie/",
+   "description": "(ABM FN-Dow Jones) De sterker dan verwachte groei van de industriële productie in Duitsland in augustus werd mede ondersteund door het segment digitalisering. Dat stelde KfW Research in een analistenrapport. De groei van de productie hing samen de productie van apparatuur voor de verwerking van data en elektronische en optische producten zoals lasers, die gebruikt worden …\nThe post Beursblik: AI-opbouw herstelt Duitse industrie appeared first on Trends.be.",
+   "date": "2026-10-07T13:11:54",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD gaat chipproductie aanzienlijk verhogen in 2027",
+   "link": "https://tweakers.net/nieuws/253044/amd-gaat-chipproductie-aanzienlijk-verhogen-in-2027.html",
+   "description": "AMD gaat de productie van zijn chips in 2027 'aanzienlijk verhogen', beweert ceo Lisa Su. Daarmee wil het bedrijf voldoen aan de groeiende vraag van AI-bedrijven naar cpu's en gpu's. Volgens Su heeft AMD zijn productie in de loop van 2026 al opgevoerd.",
+   "date": "2026-10-07T12:45:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI helpt verpleegkundigen wonden sneller vast te leggen bij LUMC",
+   "link": "https://www.emerce.nl/nieuws/ai-helpt-verpleegkundigen-wonden-sneller-vast-leggen-lumc",
+   "description": "Een nieuwe AI-assistent van het Leids Universitair Medisch Centrum (LUMC) en KickstartAI kan inmiddels verschillende onderdelen van een wondverslag automatisch voorbereiden op basis van een foto. Uit een eerste pilot blijkt onder meer dat de technologie grotere wonden al relatief nauwkeurig kan opmeten en verpleegkundigen een voorstel voor de rapportage kan geven. Daarmee komt snellere en vaker volledige wondregistratie een stap dichterbij. Dat is relevant, omdat een volledige wondrapportage nu gemiddeld 10,7 minuten kost en mede daardoor slechts bij 10,7% van de relevante contactmomenten volledig wordt vastgelegd.",
+   "date": "2026-10-07T11:50:29",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canonical: Beveiliging Ubuntu 26.10 aangescherpt wegens AI-dreiging",
+   "link": "https://www.security.nl/posting/956365/Canonical%3A+Beveiliging+Ubuntu+26_10+aangescherpt+wegens+AI-dreiging?channel=rss",
+   "description": "Volgende week moet de nieuwste versie van Linux-distributie Ubuntu verschijnen met de codenaam \"Stonking Stingray\". Deze versie ...",
+   "date": "2026-10-07T11:32:53",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Aperam en Melexis onder druk in lagere Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-aperam-en-melexis-onder-druk-in-lagere-bel20/",
+   "description": "(ABM FN) De Brusselse beurs koerste woensdag lager, waarbij onder meer Melexis en Aperam op de koersvorming drukten. Kort na de klok van elf uur daalde de Bel20 met 0,8 procent tot 5.528,03 punten.Beleggingsadviseur Laurens Jamassim van Lynx wees op het aanhoudend enthousiasme rond kunstmatige intelligentie en een iets lagere rente, waardoor de Amerikaanse aandelenmarkten op …\nThe post Beursupdate: Aperam en Melexis onder druk in lagere Bel20 appeared first on Trends.be.",
+   "date": "2026-10-07T11:28:43",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX zoekt 40 miljard dollar om AI-hardware van Nvidia te financieren",
+   "link": "https://businessam.be/spacex-zoekt-40-miljard-dollar-om-ai-hardware-van-nvidia-te-financieren/",
+   "description": "Key takeaways SpaceX is momenteel in onderhandeling met financiële instellingen en investeerders om 40 miljard dollar (zo’n 35,7 miljard euro) aan financiering veilig te stellen voor de aankoop van Nvidia-hardware. Dat meldt de Financial Times. Deze mogelijke stap zou een van de grootste, met schulden gefinancierde investeringen in de ontwikkeling van infrastructuur voor kunstmatige intelligentie […]",
+   "date": "2026-10-07T11:16:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-gestuurde humanoïde robots komen meekijken in onze fabrieken: Europa is niet klaar",
+   "link": "https://trends.knack.be/ai-en-tech/europa-heeft-de-race-om-humanoide-robots-nog-niet-verloren/",
+   "description": "Humanoïde robots vinden hun weg naar fabrieken. Toepassingen van artificiële intelligentie in de fysieke wereld – physical AI – behoren tot de grootste beloftes van de AI-revolutie. In 2035 zal de markt voor humanoïde robots ruim 300 miljard dollar waard zijn, voorspellen analisten van JP Morgan. Vooral China wil de wereld warm maken voor mensachtigerobots, en Europa kijkt mee aan de zijlijn.\nThe post AI-gestuurde humanoïde robots komen meekijken in onze fabrieken: Europa is niet klaar appeared first on Trends.be.",
+   "date": "2026-10-07T11:09:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic verruimt toegang tot Claude-modellen met minder blokkades",
+   "link": "https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html",
+   "description": "Anthropic gaat Project Glasswing en het Cyber Verification Program samenvoegen. Daardoor krijgen meer organisaties toegang tot de geavanceerdste modellen van het bedrijf, waaronder Mythos 5.1 en minder streng beveiligde versies van Claude Opus 5.5 en Sonnet 5.5.",
+   "date": "2026-10-07T11:03:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Starter van de week: Coachbox biedt persoonlijke assistent voor duursportcoaching",
+   "link": "https://trends.knack.be/ondernemen/starter-van-de-week-coachbox-biedt-persoonlijke-assistent-voor-duursportcoaching/",
+   "description": "Coachbox is een alles-in-één-platform voor duursportcoaches. Van de verwerking van inspanningstesten, het plannen van trainingen en de centralisatie van data uit verschillende sporttoestellen tot de analyse van prestaties en communicatie met sporters: de software brengt alles samen op één plek. Een ingebouwde AI-assistent neemt bovendien tijdrovende taken over. \"Technologie moet de coach ondersteunen, niet vervangen\", stelt medeoprichter Ruben Vandevoorde.\nThe post Starter van de week: Coachbox biedt persoonlijke assistent voor duursportcoaching appeared first on Trends.be.",
+   "date": "2026-10-07T10:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-aandelen stuwen S&P 500 en Nasdaq naar nieuwe recordhoogtes",
+   "link": "https://businessam.be/ai-aandelen-stuwen-sp-500-en-nasdaq-naar-nieuwe-recordhoogtes/",
+   "description": "Key takeaways Aangedreven door een sterke stijging van de aandelen in AI halfgeleiders en een daling van de rendementen op staatsobligaties bereikten zowel de Nasdaq als de S&P 500 dinsdag aan het einde van de handelsdag nieuwe recordhoogtes. De S&P 500 klom 0,58 procent en overschreed daarmee voor het eerst de grens van 7.800, terwijl […]",
+   "date": "2026-10-07T10:20:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: HSBC schrapt dankzij AI flink aantal banen in vermogensbeheertak",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-hsbc-schrapt-dankzij-ai-flink-aantal-banen-in-vermogensbeheertak/",
+   "description": "(ABM FN-Dow Jones) HSBC is van plan fors te snijden in het personeelsbestand van zijn Britse vermogensbeheertak, als onderdeel van een bredere inzet op kunstmatige intelligentie om vermogende klanten te bedienen. Dit meldde de Financial Times woensdag op basis van bronnen. Ongeveer de helft van de management- en specialistenfuncties binnen de vermogensbeheertak verdwijnt, terwijl het aantal …\nThe post Media: HSBC schrapt dankzij AI flink aantal banen in vermogensbeheertak appeared first on Trends.be.",
+   "date": "2026-10-07T09:55:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agents goed voor meer dan 5% van het verkeer op zakelijke websites",
+   "link": "https://www.emerce.nl/nieuws/aiagents-goed-meer-5-verkeer-zakelijke-websites",
+   "description": "Meer dan vijf procent van het verkeer op B2B-websites komt inmiddels van AI-agents. In het derde kwartaal van 2026 was dat 5,3 procent, tegenover 0,1 procent in het eerste kwartaal. Daarmee werd het aandeel in een halfjaar 53 keer zo groot. Dat blijkt uit het 2026 AI Traffic Benchmark Report van Leadinfo. Het rapport is gebaseerd op bijna 9 miljard traffic events op B2B-websites.",
+   "date": "2026-10-07T09:50:59",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude komt via extensie beschikbaar in Google Docs, Sheets en Slides",
+   "link": "https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html",
+   "description": "Anthropic maakt zijn AI-assistent Claude via een extensie beschikbaar in Google Workspace. Daarmee kunnen gebruikers rechtstreeks met Claude werken aan geopende bestanden in Google Docs, Sheets en Slides. De functie is in bèta beschikbaar voor alle betaalde Claude-abonnementen.",
+   "date": "2026-10-07T09:37:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: SpaceX zoekt financiering voor chipaankopen bij Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-spacex-zoekt-financiering-voor-chipaankopen-bij-nvidia/",
+   "description": "(ABM FN-Dow Jones) SpaceX wil mogelijk 40 miljard dollar ophalen om chips te kunnen kopen bij Nvidia. Dit meldde de Financial Times woensdag.De financieringsronde zou worden geleid door Apollo Global Management. Daarbij zou SpaceX volgens de zakenkrant 10 miljard willen lenen bij banken en 30 miljard dollar via investment-grade obligaties, aldus bronnen. Pimco werd genoemd als …\nThe post Media: SpaceX zoekt financiering voor chipaankopen bij Nvidia appeared first on Trends.be.",
+   "date": "2026-10-07T09:08:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 617.42 WHQL",
+   "link": "https://tweakers.net/downloads/78512/geforce-game-ready-driver-61742-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 617.42 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen Call Of Duty: Modern Warfare 4, Star Wars: Galactic Racer, Dragon’s Dogma 2: Dark Arisen, Microsoft Flight Simulator 2024 en Valor Mortis. De complete changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-10-07T09:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Franse AI-start-up Mistral zegt dat nieuw AI-model beter presteert dan Chinese concurrenten",
+   "link": "https://businessam.be/franse-ai-start-up-mistral-zegt-dat-nieuw-ai-model-beter-presteert-dan-chinese-concurrenten/",
+   "description": "Key takeaways Tijdens een presentatie op een conferentie in Abu Dhabi op dinsdag beweerde Arthur Mensch, de CEO van Mistral, dat hun nieuwste AI-systeem op specifieke gebieden, met name cyberbeveiliging, beter presteert dan Chinese tegenhangers. Bij de introductie van het nieuwe product verwierp Mensch het idee dat Europese bedrijven niet in staat zijn om wereldwijd […]",
+   "date": "2026-10-07T08:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TikTok maakt van elke scroll een potentiële aankoop",
+   "link": "https://businessam.be/tiktok-maakt-van-elke-scroll-een-potentiele-aankoop/",
+   "description": "Key takeaways TikTok heeft een conversatiegerichte AI-winkelgids en een gestroomlijnd afrekensysteem geïntroduceerd om naadloze in-app-aankopen mogelijk te maken. AI-tool De nieuwe AI-gestuurde tool fungeert als een digitale conciërge en maakt gebruik van context en gebruikersgeschiedenis om aanbevelingen op maat te geven. De tool helpt shoppers door direct informatie te bieden over productspecificaties, voorraadniveaus, verzendopties en […]",
+   "date": "2026-10-07T07:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agents worden steeds zelfstandiger, maar wie bewaakt het oordeel van de machine? — Interview",
+   "link": "https://businessam.be/ai-agents-worden-steeds-zelfstandiger-maar-wie-bewaakt-het-oordeel-van-de-machine-interview/",
+   "description": "De discussie over AI op de werkvloer gaat stilaan over meer dan wat een chatbot kan beantwoorden. Naarmate bedrijven AI-agents toegang geven tot mailboxen, documenten en andere bedrijfssystemen, krijgen die systemen ook meer ruimte om zelf beslissingen te nemen. Volgens Fred Streefland, CISO bij Check Point Security, verschuift daarmee ook de veiligheidsuitdaging. Niet alleen de […]",
+   "date": "2026-10-07T06:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "‘Hou ze exact hetzelfde maar doe het lijken op een schoolfoto’: Amerikaanse ouders ontdekken ChatGPT als fotograaf",
    "link": "https://www.demorgen.be/nieuws/hou-ze-exact-hetzelfde-maar-doe-het-lijken-op-een-schoolfoto-amerikaanse-ouders-ontdekken-chatgpt-als-fotograaf~bddc1da1/",
    "description": "",
@@ -345,6 +677,18 @@
    "date": "2026-10-06T23:59:00",
    "feeds": [
     "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Datacenters vragen veel stroom, ruimte en investeringen: mogen we er dan ook iets over te zeggen hebben?",
+   "link": "https://www.standaard.be/opinies/datacenters-vragen-veel-stroom-ruimte-en-investeringen-mogen-we-er-dan-ook-iets-over-te-zeggen-hebben/162675955.html",
+   "description": "Datacenters vormen de ruggengraat van de nieuwe economie. Maar als technologiebedrijven steeds meer beslag leggen op stroom, ruimte en investeringen, mag de samenleving mee bepalen hoe die cruciale infrastructuur wordt uitgebouwd.",
+   "date": "2026-10-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
    ],
    "first_seen": "2026-10-07",
    "intro_geprobeerd": false
@@ -479,6 +823,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-10-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "3 vragen over overname PTC: industriegigant Schneider Electric wil een ‘AI-powerhouse’ worden",
+   "link": "https://trends.knack.be/beleggen/3-vragen-over-overname-ptc-schneider-electric-maakt-de-sprong-naar-physical-ai/",
+   "description": "De Franse energietechnologiegigant Schneider Electric neemt het Amerikaanse softwarebedrijf PTC over voor 20,1 miljard euro. Dat maakte het concern maandag bekend. Olivier Blum, de CEO van Schneider, wil van zijn bedrijf \"een software- en AI-powerhouse\" maken. Toch zijn niet alle beleggers overtuigd.\nThe post 3 vragen over overname PTC: industriegigant Schneider Electric wil een ‘AI-powerhouse’ worden appeared first on Trends.be.",
+   "date": "2026-10-06T18:25:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-07",
    "intro_geprobeerd": false
   },
   {
