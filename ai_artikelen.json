@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T19:02:23",
+ "generated": "2026-10-07T04:07:26",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 24,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 27,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 170,
+   "count": 168,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 23,
    "error": null
   },
   {
@@ -315,6 +315,128 @@
   }
  ],
  "articles": [
+  {
+   "title": "‘Hou ze exact hetzelfde maar doe het lijken op een schoolfoto’: Amerikaanse ouders ontdekken ChatGPT als fotograaf",
+   "link": "https://www.demorgen.be/nieuws/hou-ze-exact-hetzelfde-maar-doe-het-lijken-op-een-schoolfoto-amerikaanse-ouders-ontdekken-chatgpt-als-fotograaf~bddc1da1/",
+   "description": "",
+   "date": "2026-10-07T03:01:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Datacenters vragen om publieke zeggenschap",
+   "link": "https://www.standaard.be/opinies/datacenters-vragen-om-publieke-zeggenschap/162675955.html",
+   "description": "Datacenters vormen de ruggengraat van de nieuwe economie. Maar als technologiebedrijven steeds meer beslag leggen op stroom, ruimte en investeringen, mag de samenleving mee bepalen hoe die cruciale infrastructuur wordt uitgebouwd.",
+   "date": "2026-10-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een blik achter de schermen van de cloud: “Een foto die je stuurt, passeert vijf datacenters”",
+   "link": "https://www.standaard.be/economie/een-blik-achter-de-schermen-van-de-cloud-een-foto-die-je-stuurt-passeert-vijf-datacenters/162374264.html",
+   "description": "In een datacenter komt de hele wereld samen. Overal in het land verrijzen steeds meer van die anonieme, streng beveiligde gebouwen. Maar wat gebeurt er allemaal achter die gesloten deuren? “Deze gebouwen zijn een deeltje van de cloud.”",
+   "date": "2026-10-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "There’s a physical version of the AI singularity, and it matters a lot",
+   "link": "https://www.nrc.nl/nieuws/2026/10/06/theres-a-physical-version-of-the-ai-singularity-and-it-matters-a-lot-a4938054",
+   "description": "The world is entering an era of supercharged industrial capacity with fast-shrinking human input, reckons Jeff Schneider.",
+   "date": "2026-10-06T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frans AI-bedrijf Mistral brengt langverwacht nieuw taalmodel uit",
+   "link": "https://www.tijd.be/r/t/1/id/10694569",
+   "description": "Na een halfjaar radiostilte heeft het Franse AI-lab Mistral zijn nieuwe taalmodel Large 4 aangekondigd. 'We doen hiermee beter dan de Chinezen', zegt CEO Arthur Mensch.",
+   "date": "2026-10-06T20:46:22",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursdocument onthult dat Anthropic-CEO Dario Amodei vorig jaar 18 miljoen dollar verdiende",
+   "link": "https://businessam.be/beursdocument-onthult-dat-anthropic-ceo-dario-amodei-vorig-jaar-18-miljoen-dollar-verdiende/",
+   "description": "Key takeaways Volgens een vertrouwelijk beursprospectus dat Reuters in handen heeft gekregen, verdiende Dario Amodei, de CEO van Anthropic, de ontwikkelaar van Claude AI, het afgelopen jaar 18 miljoen dollar (16 miljoen euro). Een aanzienlijk deel van deze vergoeding bestond uit aandelenopties in plaats van een basissalaris. In juli zagen zowel Amodei als zijn zus […]",
+   "date": "2026-10-06T20:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI gaat onzichtbaar watermerk toevoegen aan teksten van ChatGPT in EU",
+   "link": "https://www.demorgen.be/nieuws/openai-gaat-onzichtbaar-watermerk-toevoegen-aan-teksten-van-chatgpt-in-eu~b1f32e5d/",
+   "description": "",
+   "date": "2026-10-06T20:23:31",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google geeft Gemini-gebruikers geen gratis toegang meer tot Flash- en Pro-taalmodellen",
+   "link": "https://www.hln.be/internet/google-geeft-gemini-gebruikers-geen-gratis-toegang-meer-tot-flash-en-pro-taalmodellen~a611628a/",
+   "description": "Gratis gebruikers van Googles AI-assistent Gemini kunnen vanaf 9 oktober alleen nog het Flash-Lite-model gebruiken. De toegang tot de Flash- en Pro-modellen verdwijnt. Ook voor mensen met een AI Plus-abonnement verandert het aanbod. Zij behouden toegang tot Flash en Flash-Lite, maar kunnen het Pro-model niet meer gebruiken. Google gaat deze abonnees via e-mail informeren met de datum waarop de wijziging ingaat.",
+   "date": "2026-10-06T19:57:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat de overname van Techwolf zegt over Gent en Europa",
+   "link": "https://www.standaard.be/economie/wat-de-overname-van-techwolf-zegt-over-gent-en-europa/162672710.html",
+   "description": "De Gentse scale-up Techwolf is overgenomen door de Duitse reus SAP. De overname toont de kracht van het Gentse ecosysteem én dat Europa de AI-race op een slimme manier rijdt.",
+   "date": "2026-10-06T19:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese Mistral brengt openweightmodel Large 4 met biljoen parameters uit",
+   "link": "https://tweakers.net/nieuws/253026/europese-mistral-brengt-openweightmodel-large-4-met-biljoen-parameters-uit.html",
+   "description": "Het Franse Mistral heeft zijn krachtigste AI-model tot dusver aangekondigd, Large 4. Volgens de fabrikant presteert dit model beter dan alle andere openweightmodellen buiten China. Large 4 zou vooral goed presteren op het gebied van cybersecurity.",
+   "date": "2026-10-06T19:41:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD gaat de chipproductie tegen 2027 aanzienlijk opvoeren",
+   "link": "https://businessam.be/amd-gaat-de-chipproductie-tegen-2027-aanzienlijk-opvoeren/",
+   "description": "Key takeaways Lisa Su, de CEO van AMD, heeft aangekondigd dat het bedrijf van plan is zijn chipproductie tegen 2027 aanzienlijk op te voeren. Die stap is bedoeld om gelijke tred te houden met de sterk toenemende vraag vanuit de sector van de artificiële intelligentie. Marktwaarde Als belangrijkste concurrent van Nvidia op de markt voor […]",
+   "date": "2026-10-06T19:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Moonshot AI bereikt waardering van 50 miljard dollar en mikt op beursgang in Hongkong begin 2027",
    "link": "https://businessam.be/moonshot-ai-bereikt-waardering-van-50-miljard-dollar-en-mikt-op-beursgang-in-hongkong-begin-2027/",
