@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T19:40:07",
+ "generated": "2026-10-08T04:33:20",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 167,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 86,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,97 @@
   }
  ],
  "articles": [
+  {
+   "title": "Organisatie WK skeeleren verbiedt AI-brillen",
+   "link": "https://www.gva.be/sport/organisatie-wk-skeeleren-verbiedt-ai-brillen/162751028.html",
+   "description": "De organisatoren van de wereldkampioenschappen skeeleren willen kunstmatige intelligentie zo veel mogelijk op afstand houden. De deelnemers aan het WK, dat zaterdag in Paraguay van start gaat, is expliciet verboden om AI-brlllen te dragen. Dat maakte World Skate woensdag bekend.",
+   "date": "2026-10-08T01:22:37",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Big Short-investeerder Steve Eisman over AI: “De hele AI-keten rust op OpenAI en Anthropic, twee verlieslatende spelers”",
+   "link": "https://businessam.be/big-short-investeerder-steve-eisman-over-ai-de-hele-ai-keten-rust-op-openai-en-anthropic-twee-verlieslatende-spelers/",
+   "description": "Key takeaways Steve Eisman, de investeerder die bekend werd door The Big Short, ziet in de huidige AI-hype een klassiek concentratierisico dat hij vergelijkt met een softwarebedrijf dat slechts twee klanten heeft. Bij Nvidia (waarvan Eisman aandeelhouder is) kwam bij de recente cijfers 70 procent van de openstaande vorderingen van slechts vijf klanten. Business AM […]",
+   "date": "2026-10-07T22:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: datacenterzorgen nekken IREN, koopadvies voor Domino's Pizza",
+   "link": "https://www.tijd.be/r/t/1/id/10694727",
+   "description": "De Amerikaanse rente kruipt opnieuw hoger en dat liet zich voelen op Wall Street. De datacenterbouwer IREN kreeg een stevige tik na kritiek op de kwaliteit van zijn infrastructuur.",
+   "date": "2026-10-07T22:05:44",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deze podcast laat zien waarom we niet bestand zijn tegen chatbots",
+   "link": "https://www.trouw.nl/recensies/deze-podcast-laat-zien-waarom-we-niet-bestand-zijn-tegen-chatbots~b08679e7/",
+   "description": "",
+   "date": "2026-10-07T22:00:53",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Datacenters, meld hoeveel stroom jullie verbruiken",
+   "link": "https://www.trouw.nl/opinie/datacenters-meld-hoeveel-stroom-jullie-verbruiken~b03b1e32/",
+   "description": "",
+   "date": "2026-10-07T22:00:51",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers",
+   "link": "https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html",
+   "description": "Microsoft kondigt tijdens het Surface-evenement verschillende nieuwe functies voor 'hybride' AI aan, waarbij AI-toepassingen gedeeltelijk lokaal draaien in plaats van in de cloud. Daarnaast breidt het bedrijf de beveiliging en afkadering van agents uit.",
+   "date": "2026-10-07T21:16:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Instapversie Microsoft Surface-laptop met Nvidia RTX Spark-cpu kost 2600 dollar",
+   "link": "https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html",
+   "description": "Microsoft en Nvidia deelden op woensdagavond meer details over de aanstaande Nvidia RTX Spark-processor. Laptops met deze chip zijn vanaf nu vooruit te bestellen en worden vanaf volgende week vrijdag geleverd. Microsofts goedkoopste variant kost 2600 dollar.",
+   "date": "2026-10-07T20:36:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-utopie van meer vrije tijd wordt big business",
+   "link": "https://www.tijd.be/r/t/1/id/10682320",
+   "description": "Volgens pessimisten dreigt artificiële intelligentie miljoenen jobs overbodig te maken. Optimisten zien een tijdperk aanbreken waarin robots het werk doen en mensen meer tijd krijgen om te genieten van het leven. Techmiljardairs en entertainmentmagnaten zetten miljarden in op dat laatste scenario.",
+   "date": "2026-10-07T19:55:34",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Wie betaalt de begroting als AI het werk overneemt?",
    "link": "https://www.tijd.be/r/t/1/id/10694725",
