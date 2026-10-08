@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T04:33:20",
+ "generated": "2026-10-08T19:42:25",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 25,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 165,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 85,
    "error": null
   },
   {
@@ -315,6 +315,248 @@
   }
  ],
  "articles": [
+  {
+   "title": "Google brengt controletool voor AI-watermerk uit",
+   "link": "https://www.hln.be/tech/google-brengt-controletool-voor-ai-watermerk-uit~a287dc3d/",
+   "description": "Google maakt SynthID Detector wereldwijd beschikbaar. De tool controleert of foto's, video's en audiobestanden een onzichtbaar watermerk bevatten dat wijst op het gebruik van kunstmatige intelligentie.",
+   "date": "2026-10-08T19:30:17",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen onderuit terwijl olieprijzen weer hard stijgen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-onderuit-terwijl-olieprijzen-weer-hard-stijgen/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn donderdag lager geëindigd, na een slechte dag voor veel halfgeleideraandelen, ondanks een sterke update van Samsung en omzetcijfers van TSMC. Intussen veerden de olieprijzen weer sterk op en traden de geopolitieke zorgen weer op de voorgrond.De Stoxx Europe 600 verloor 0,8 procent en sloot op 625,51 punten. De Duitse …\nThe post Europese beurzen onderuit terwijl olieprijzen weer hard stijgen appeared first on Trends.be.",
+   "date": "2026-10-08T18:45:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canadese tiener gered van bergwand na routeplanning door AI: ‘Een val zou tot zware verwondingen of mogelijk de dood hebben geleid’",
+   "link": "https://www.demorgen.be/nieuws/canadese-tiener-gered-van-bergwand-na-routeplanning-door-ai-een-val-zou-tot-zware-verwondingen-of-mogelijk-de-dood-hebben-geleid~be55ad88/",
+   "description": "",
+   "date": "2026-10-08T17:44:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Laptops met Nvidia RTX Spark-processor kosten in Nederland minstens 2999 euro",
+   "link": "https://tweakers.net/nieuws/253106/laptops-met-nvidia-rtx-spark-processor-kosten-in-nederland-minstens-2999-euro.html",
+   "description": "Laptops met Nvidia RTX Spark-processors zijn in Nederland te koop vanaf 2999 euro. Dat blijkt uit listings van Megekko en Coolblue. De versies met het meeste geheugen en de krachtigste chip kosten meer dan 6000 euro. Ze worden later deze maand geleverd.",
+   "date": "2026-10-08T17:28:52",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD brengt upscalingtechniek FSR 4 dit jaar uit voor gamelaptops en -handhelds",
+   "link": "https://tweakers.net/nieuws/253102/amd-brengt-upscalingtechniek-fsr-4-dit-jaar-uit-voor-gamelaptops-en-handhelds.html",
+   "description": "AMD brengt voor het eind van het jaar een lichtere variant van FSR 4 uit die is bedoeld voor apu's. Daarmee kan de upscalingtechniek worden gebruikt voor gaminglaptops en -handhelds. Op dit moment werkt FSR 4 alleen op bepaalde Radeon-videokaarten.",
+   "date": "2026-10-08T16:34:13",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipfabrikant TSMC profiteert van groeiende vraag naar AI-hardware en ziet omzet sterk stijgen",
+   "link": "https://businessam.be/chipfabrikant-tsmc-profiteert-van-groeiende-vraag-naar-ai-hardware-en-ziet-omzet-sterk-stijgen/",
+   "description": "Key takeaways Aangedreven door de sterk toenemende behoefte aan hardware voor artificiële intelligentie, kende Taiwan Semiconductor Manufacturing Company in september een aanzienlijke jaaromzetstijging van 54,6 procent, tot 511,86 miljard nieuwe Taiwanese dollar (ongeveer 14,3 miljard euro). Ondanks deze jaarlijkse groei noteerde het bedrijf een lichte maandelijkse daling van 0,6 procent ten opzichte van augustus. Omzet […]",
+   "date": "2026-10-08T15:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Notulen: ECB meer bezig met AI dan met hoge rentes",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/notulen-ecb-meer-bezig-met-ai-dan-met-hoge-rentes/",
+   "description": "(ABM FN-Dow Jones) De centrale bankiers van de ECB hadden bij hun laatste monetaire beleidsvergadering meer aandacht voor de risico's van de grote investeringen in AI dan voor de oplopende rentes door begrotingstekorten van eurozonelanden zoals Frankrijk. Dat bleek donderdag uit de notulen van de centrale bank.\"De markten voor staatsobligaties in de eurozone bleven ordelijk\", stelden …\nThe post Notulen: ECB meer bezig met AI dan met hoge rentes appeared first on Trends.be.",
+   "date": "2026-10-08T15:18:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street gaat lagere opening tegemoet",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-gaat-lagere-opening-tegemoet/",
+   "description": "(ABM FN-Dow Jones) Wall Street gaat donderdag wederom lager openen. De stijgende rentes op staatsobligaties, de twijfels over AI en de escalatie in het Midden-Oosten maken beleggers voorzichtig. De Amerikaanse president Donald Trump zei dat hij geen deal meer wil sluiten met Iran om de oorlog te beëindigen. Recente nieuwsberichten meldden ook dat het Pentagon zich voorbereidt …\nThe post Wall Street gaat lagere opening tegemoet appeared first on Trends.be.",
+   "date": "2026-10-08T14:46:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Muzikant die fraudeerde met AI-muziek en Spotify-bots gaat voor anderhalf jaar de cel in",
+   "link": "https://www.standaard.be/media-en-cultuur/muzikant-die-fraudeerde-met-ai-muziek-en-spotify-bots-gaat-voor-anderhalf-jaar-de-cel-in/162755687.html",
+   "description": "Wat krijg je als je duizenden AI-gegenereerde songs op Spotify laat ‘beluisteren’ door duizenden bots? In het geval van Michael Smith: 8 miljoen dollar aan onterechte royalty's. En nu ook een celstraf van anderhalf jaar.",
+   "date": "2026-10-08T13:02:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eric Trump verwacht dat AI de groei van de cryptosector sterk zal versnellen",
+   "link": "https://businessam.be/eric-trump-verwacht-dat-ai-de-groei-van-de-cryptosector-sterk-zal-versnellen/",
+   "description": "Key takeaways Volgens Eric Trump zal de vooruitgang op het gebied van artificiële intelligentie een belangrijke katalysator zijn voor de groei van de sector van digitale valuta. Tijdens zijn optreden op het Token2049-evenement in Singapore stelde hij dat de synergie tussen AI en blockchain de marktgroei zou versnellen, met name doordat autonome AI-agents cryptovaluta gaan […]",
+   "date": "2026-10-08T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft wil Windows omvormen tot platform voor lokale AI-agents",
+   "link": "https://businessam.be/microsoft-wil-windows-omvormen-tot-platform-voor-lokale-ai-agents/",
+   "description": "Key takeaways In een poging om Apple voor te blijven bij de integratie van AI in persoonlijke hardware, heeft Microsoft onlangs een gespecialiseerd AI-codeermodel geïntroduceerd dat lokaal op pc’s kan draaien. Tijdens een evenement in San Francisco presenteerde het bedrijf ook de Surface Laptop Ultra, een krachtige machine uitgerust met Nvidia RTX Spark-chips. Deze strategie […]",
+   "date": "2026-10-08T12:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hogere olieprijs duwt Europese beurzen omlaag",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/hogere-olieprijs-duwt-europese-beurzen-omlaag/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden donderdag rond het middaguur stevig lager, nadat een hogere olieprijs en nieuwe onrust rond AI het sentiment drukten.De brede STOXX Europe 600 index daalde met 0,9 procent tot 624,83 punten, de Duitse DAX daalde met 0,8 procent tot 24.905 punten de CAC verloor 0,9 procent in Parijs op 7.703 …\nThe post Hogere olieprijs duwt Europese beurzen omlaag appeared first on Trends.be.",
+   "date": "2026-10-08T12:10:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Samsung verwacht recordwinst dankzij sterke vraag naar AI-geheugenchips",
+   "link": "https://businessam.be/samsung-verwacht-recordwinst-dankzij-sterke-vraag-naar-ai-geheugenchips/",
+   "description": "Key takeaways Aangedreven door de opmars van artificiële intelligentie verwacht Samsung Electronics dat de bedrijfswinst voor het derde kwartaal een historisch hoogtepunt van 107,40 biljoen won (ongeveer 71,6 miljard euro) zal bereiken. Dit voorlopige cijfer betekent dat het bedrijf voor het eerst de drempel van 100 biljoen won (66,6 miljard euro) in één kwartaal heeft […]",
+   "date": "2026-10-08T10:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft presenteert nieuwe Windows-functies en Surface Laptop Ultra",
+   "link": "https://www.emerce.nl/nieuws/microsoft-presenteert-nieuwe-windowsfuncties-surface-laptop-ultra",
+   "description": "Microsoft heeft gisteren tijdens een evenement in San Francisco meer details bekendgemaakt over zijn plannen voor Windows en nieuwe Surface-apparaten. Daarbij lag de nadruk sterk op kunstmatige intelligentie, met onder meer nieuwe mogelijkheden voor AI-agents die lokaal op een pc kunnen draaien. Ook presenteerde het bedrijf de Surface Laptop Ultra, zijn krachtigste Surface-laptop tot nu toe.",
+   "date": "2026-10-08T09:52:15",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Adv - Dit vinden tweakers van de nieuwe Samsung Galaxy Fold8, Fold8 Ultra en Flip8",
+   "link": "https://tweakers.net/plan/4826/dit-vinden-tweakers-van-de-nieuwe-samsung-galaxy-fold8-fold8-ultra-en-flip8.html",
+   "description": "Begin augustus organiseerden Samsung en Tweakers Partners een testpanel rondom de drie nieuwe foldables van Samsung: de Samsung Galaxy Z Fold8, Fold8 Ultra en Flip8. Vijf communityleden mochten de smartphones onder handen nemen. Ze hebben gelet op de accuduur, het gebruiksgemak, het scherm, de camera's, AI en apps. Of de vijf testers enthousiast waren? Dat lees je in onderstaand artikel.",
+   "date": "2026-10-08T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omzetgroei TSMC vlakt af in september",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/omzetgroei-tsmc-vlakt-af-in-september/",
+   "description": "(ABM FN-Dow Jones) Taiwan Semiconductor Manufacturing Company heeft in september een zelfde omzet behaald als een maand eerder. Dit maakte de Taiwanese chipfabrikant donderdag bekend.   De omzet kwam afgelopen maand uit op 512 miljard Taiwanese dollar. De omzet daalde daarmee met 0,6 procent ten opzichte van augustus, maar steeg wel met 54,6 procent op jaarbasis. In …\nThe post Omzetgroei TSMC vlakt af in september appeared first on Trends.be.",
+   "date": "2026-10-08T07:59:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voorpublicatie: ‘Wanneer AI niet langer adviseert, maar mee bestuurt’",
+   "link": "https://trends.knack.be/ai-en-tech/voorpublicatie-het-ministerie-van-overbodige-zaken/",
+   "description": "Wat gebeurt er met onze samenleving wanneer artificiële intelligentie (AI) niet alleen ons werk verandert, maar ook de manier waarop we onze overheid, economie en democratie organiseren? Guy Orens behandelt in zijn nieuwe boek Het Ministerie van Overbodige Zaken deze en andere belangrijke vragen van het AI-tijdperk.\nThe post Voorpublicatie: ‘Wanneer AI niet langer adviseert, maar mee bestuurt’ appeared first on Trends.be.",
+   "date": "2026-10-08T07:08:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kleine groepje klanten levert AI-reuzen meeste omzet",
+   "link": "https://www.emerce.nl/nieuws/kleine-groepje-klanten-levert-aireuzen-meeste-omzet",
+   "description": "De top 1 procent abonnees bij AI’s neemt bijna een vijfde van alle consumentenuitgaven voor zijn rekening, meer dan de onderste helft van alle betalers samen.",
+   "date": "2026-10-08T06:19:46",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nog vier weken tot Emerce EDAY",
+   "link": "https://www.emerce.nl/nieuws/nog-vier-weken-tot-emerce-eday",
+   "description": "AI domineert het programma van Emerce EDAY op 5 november, maar de sessies gaan minder over wat de technologie kan dan over wat je bewust niet automatiseert. Dat blijkt uit de programmering van de dag, die ruim dertig sessies telt verdeeld over vijf podia.",
+   "date": "2026-10-08T06:03:00",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - IDIN-spoofs, YubiKey-struggles en een dikke kat  - Tweakers Podcast #447",
+   "link": "https://tweakers.net/geek/253062/idin-spoofs-yubikey-struggles-en-een-dikke-kat-tweakers-podcast-447.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Tijs Hofmans en Eric van Ballegoie over een ontwerpfout in de identificatiedienst iDIN, accountbeveiliging via YubiKey, de impact van de EU Kids Act op gaming, mogelijke lichtpuntjes rondom de ramcrisis en het nieuwste AI-model van het Franse Mistral.",
+   "date": "2026-10-08T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - IDIN-spoofs, YubiKey-struggles en een dikke kat - Tweakers Podcast #447",
+   "link": "https://tweakers.net/video/20584/idin-spoofs-yubikey-struggles-en-een-dikke-kat-tweakers-podcast-447.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Tijs Hofmans en Eric van Ballegoie over een ontwerpfout in de identificatiedienst iDIN, accountbeveiliging via YubiKey, de impact van de EU Kids Act op gaming, mogelijke lichtpuntjes rondom de ramcrisis en het nieuwste AI-model van het Franse Mistral.",
+   "date": "2026-10-08T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoeker waarschuwt tegen gebruik van AI als politiek ghostwriter",
+   "link": "https://www.volkskrant.nl/tech/onderzoeker-waarschuwt-tegen-gebruik-van-ai-als-politiek-ghostwriter-schrijf-gewoon-wat-je-wil-vertellen-en-niet-al-die-blablabla~b1f244af/",
+   "description": "",
+   "date": "2026-10-08T05:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Organisatie WK skeeleren verbiedt AI-brillen",
    "link": "https://www.gva.be/sport/organisatie-wk-skeeleren-verbiedt-ai-brillen/162751028.html",
@@ -372,6 +614,18 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "Opinie: ‘Datacenters, meld hoeveel stroom jullie verbruiken’",
+   "link": "https://www.trouw.nl/opinie/opinie-datacenters-meld-hoeveel-stroom-jullie-verbruiken~b03b1e32/",
+   "description": "",
+   "date": "2026-10-07T22:00:00",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers",
    "link": "https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html",
    "description": "Microsoft kondigt tijdens het Surface-evenement verschillende nieuwe functies voor 'hybride' AI aan, waarbij AI-toepassingen gedeeltelijk lokaal draaien in plaats van in de cloud. Daarnaast breidt het bedrijf de beveiliging en afkadering van agents uit.",
@@ -392,6 +646,17 @@
    ],
    "first_seen": "2026-10-08",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-model kraakt honderden onopgeloste wiskundevraagstukken: ‘Geeft een groot gevoel van leegte’",
+   "link": "https://www.demorgen.be/tech-ai/openai-model-kraakt-honderden-onopgeloste-wiskundevraagstukken-geeft-een-groot-gevoel-van-leegte~b1f338be/",
+   "description": "",
+   "date": "2026-10-07T20:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen"
+   ],
+   "first_seen": "2026-10-08",
+   "intro_geprobeerd": true
   },
   {
    "title": "AI-utopie van meer vrije tijd wordt big business",
@@ -472,6 +737,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom Techwolf in Duitse handen komt: “Wie op wereldschaal wil werken, moet meer denken vanuit Europa dan vanuit Gent of België”",
+   "link": "https://www.standaard.be/economie/waarom-techwolf-in-duitse-handen-komt-wie-op-wereldschaal-wil-werken-moet-meer-denken-vanuit-europa-dan-vanuit-gent-of-belgie/162670025.html",
+   "description": "Het Gentse AI-bedrijf Techwolf wordt overgenomen door de Duitse softwarereus SAP. Zo valt er opnieuw een beloftevol bedrijf in buitenlandse handen. Maar volgens cto Jeroen Van Hautte biedt dat vooral kansen.",
+   "date": "2026-10-07T16:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-08",
    "intro_geprobeerd": false
   },
   {
