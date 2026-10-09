@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T04:48:13",
+ "generated": "2026-10-09T19:17:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 1,
+   "count": 2,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 171,
+   "count": 177,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 101,
    "error": null
   },
   {
@@ -315,6 +315,458 @@
   }
  ],
  "articles": [
+  {
+   "title": "EXCLUSIEF. Maker achter ‘Jean Philanthrope’ spreekt voor het eerst: “Brengt inderdaad veel tijd in Brussel door”",
+   "link": "https://www.hln.be/tech/exclusief-maker-achter-jean-philanthrope-spreekt-voor-het-eerst-brengt-inderdaad-veel-tijd-in-brussel-door~a2c9a344/",
+   "description": "Jean Philanthrope, de mysterieuze figuur met het onnatuurlijk lange gezicht en de gekrulde snor, houdt het internet al weken in de ban. Nu treedt zijn anonieme bedenker in een exclusieve reactie aan HLN voor het eerst uit de schaduw. Hij vertelt hoe ‘Jean Phil’ ontstond uit een mix van echte beelden en artificiële intelligentie, verklaart de opvallende link met Brussel en schept duidelijkheid over de gelijknamige cryptomunt.",
+   "date": "2026-10-09T19:00:58",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlands AI-bedrijf derde op duurzaamheidsranglijst",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/nederlands-ai-bedrijf-derde-op-duurzaamheidsranglijst~bcbed918/",
+   "description": "",
+   "date": "2026-10-09T18:44:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI's omzet ligt 20 miljard dollar lager dan voorspeld",
+   "link": "https://tweakers.net/nieuws/253158/openais-omzet-ligt-20-miljard-dollar-lager-dan-voorspeld.html",
+   "description": "OpenAI's omzet blijkt zo'n 20 miljard dollar lager te zijn dan het bedrijf eerder liet weten. OpenAI zou geen 70 miljard, maar 50 miljard dollar per jaar omzetten, blijkt uit cijfers die het bedrijf aan investeerders liet zien. Het verschil lijkt te zitten in de manier waarop OpenAI en concurrent Anthropic hun omzet berekenen. Dat illustreert deels hoe onduidelijk de verdienmodellen van AI-bedrijven zijn.",
+   "date": "2026-10-09T18:03:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump bestempelt mensen die de term “artificiële intelligentie” blijven gebruiken als “tegenstanders”",
+   "link": "https://businessam.be/trump-bestempelt-mensen-die-de-term-artificiele-intelligentie-blijven-gebruiken-als-tegenstanders/",
+   "description": "Key takeaways President Donald Trump heeft onlangs via Truth Social verklaard dat personen die de term „artificiële intelligentie“ blijven gebruiken in plaats van „superintelligentie“, door het Witte Huis als tegenstanders worden beschouwd. De uitspraak past in een bredere poging van zijn regering om de technologie onder een andere naam te laten vallen. Nieuwe terminologie geldt […]",
+   "date": "2026-10-09T18:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontkent ontslag 3 medewerkers om AI-risico’s: “Er was een vertrouwensbreuk”",
+   "link": "https://www.hln.be/tech/openai-ontkent-ontslag-3-medewerkers-om-ai-risicos-er-was-een-vertrouwensbreuk~ada9bcbb/",
+   "description": "Het debat over de veiligheid van kunstmatige intelligentie (AI) is verder opgelaaid. OpenAI, het Amerikaanse bedrijf achter de populaire chatbot ChatGPT, heeft vrijdag verzekerd dat de drie onderzoekers die vorige week werden ontslagen, niet aan de deur werden gezet omdat ze hun bezorgdheid hadden geuit over het risicobeheer rond artificiële intelligentie (AI) binnen het bedrijf.",
+   "date": "2026-10-09T17:37:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jongeren worden slachtoffer van online vernedering door AI: ‘Beeld is nep, reacties zijn echt’",
+   "link": "https://www.ad.nl/tech/jongeren-worden-slachtoffer-van-online-vernedering-door-ai-beeld-is-nep-reacties-zijn-echt~ae395449/",
+   "description": "Meerdere anti-pestorganisaties trekken aan de bel vanwege het toenemende gebruik van AI om kinderen en jongeren online te pesten. Zo worden er nepbeelden gemaakt of stemmen gekopieerd. „Een jongere moet zich ineens verdedigen tegen iets wat nooit heeft plaatsgevonden.”",
+   "date": "2026-10-09T17:36:20",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Calibre 9.16",
+   "link": "https://tweakers.net/downloads/78544/calibre-916.html",
+   "description": "Versie 9.16 van Calibre is uitgekomen. Calibre is een open source e-bookbeheerprogramma wat haast onmisbaar is voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 9 is onder meer een boekenplank toegevoegd, wat een nieuwe manier is om alle boeken te tonen. Ook zijn er enkele optionele AI-functies toegevoegd, die bijvoorbeeld een suggestie kunnen doen welk volgend boek je moet lezen of vragen over de inhoud van een boek kunnen beantwoorden. De changelog voor deze uitgave kan hieronder worden gevonden. New features",
+   "date": "2026-10-09T17:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Overname Techwolf geeft Gentse ‘techscene’ een flinke boost",
+   "link": "https://www.standaard.be/economie/overname-techwolf-geeft-gentse-techscene-een-flinke-boost/162822295.html",
+   "description": "Investeerders en techspecialisten reageren enthousiast op de overname van het Gentse AI-bedrijf Techwolf. Het is de grootste deal ooit van een Vlaams met durfkapitaal gefinancierd techbedrijf. “Ik ben ervan overtuigd dat er enorm veel geld en ervaring zal terugvloeien naar de Gentse economie.”",
+   "date": "2026-10-09T16:55:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OpenAI-medewerkers zijn ontslagen omdat ze veiligheid vooropstelden'",
+   "link": "https://tweakers.net/nieuws/253134/openai-medewerkers-zijn-ontslagen-omdat-ze-veiligheid-vooropstelden.html",
+   "description": "Drie voormalige veiligheidsmedewerkers bij OpenAI zeggen dat ze onder 'verdachte omstandigheden' zijn ontslagen door het bedrijf. De medewerkers stellen dat ze intern zorgen uitten over de veiligheid van AI-modellen. OpenAI zegt de werknemers te hebben ontslagen omdat ze onzorgvuldig omgingen met gevoelige informatie.",
+   "date": "2026-10-09T16:34:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google breidt Gemini uit zodat bedrijven AI-agents kunnen inzetten voor complexe opdrachten",
+   "link": "https://businessam.be/google-breidt-gemini-uit-zodat-bedrijven-ai-agents-kunnen-inzetten-voor-complexe-opdrachten/",
+   "description": "Key takeaways Google heeft onlangs een evolutie van Gemini onthuld, waarbij de AI verandert van een conversatietool in een agentisch systeem dat in staat is om zelfstandig complexe taken uit te voeren. Deze geïntegreerde agent, die tijdens een Google Cloud-bijeenkomst werd geïntroduceerd, gaat verder dan eenvoudige vraag-en-antwoord-sessies en kan via een gecentraliseerd platform projecten beheren, […]",
+   "date": "2026-10-09T16:04:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Oekraïne voert aanvallen uit op Russische wapenfabrieken, opnieuw datacentrum van techbedrijf Yandex getroffen",
+   "link": "https://www.demorgen.be/oorlog-in-oekraine/live-grote-schade-aan-stroomnet-door-aanvallen-rusland-zegt-zelensky-populaire-russische-oorlogsblogger-opgepakt-in-montenegro~b38bed0a/",
+   "description": "",
+   "date": "2026-10-09T15:17:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Oorlog Oekraine"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI blijft de drijvende kracht achter hogere winsten bij Amerikaanse bedrijven",
+   "link": "https://businessam.be/ai-drijft-de-winstgroei-van-amerikaanse-bedrijven-terwijl-twijfels-over-de-houdbaarheid-toenemen/",
+   "description": "Key takeaways Artificiële intelligentie blijft de belangrijkste motor achter de verwachte stijging van de bedrijfswinsten in de VS in het derde kwartaal. Dat meldt Reuters. Deze trend weerspiegelt de recente stijging op de aandelenmarkt, waar AI-gerichte bedrijven de belangrijkste bijdrage leveren aan de totale groei. Hoewel de snelle expansie van deze bedrijven beleggers enthousiast heeft […]",
+   "date": "2026-10-09T15:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street wacht hogere opening met herstel voor chippers",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-wacht-hogere-opening-met-herstel-voor-chippers/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet, na een lager slot een dag eerder. Futures op de S&P 500 noteerden ongeveer een half uur voor de openingsbel 0,4 procent in de plus. De Nasdaq-futures stegen voorbeurs 0,8 procent.Donderdag stonden halfgeleider- en AI-aandelen op Wall Street onder druk, onder meer door een …\nThe post Wall Street wacht hogere opening met herstel voor chippers appeared first on Trends.be.",
+   "date": "2026-10-09T14:51:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wees aardig tegen Claude: Anthropic scherpt regels tegen misbruik van AI aan",
+   "link": "https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html",
+   "description": "Anthropic past het gebruikersbeleid voor AI-tool Claude aan. Hierdoor mogen bepaalde toepassingen waarmee gebruikers misleidende content maken niet meer. Ook treedt Anthropic op tegen gebruikers die zonder duidelijke reden zeer onaardig of wreed omgaan met Claude. Het nieuwe beleid geldt vanaf 12 november.",
+   "date": "2026-10-09T14:33:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deze wereldberoemde ‘AI-influencer’ komt mogelijk uit België: “Lachen met zijn lange hoofd, maar er zit meer achter”",
+   "link": "https://www.hln.be/tech/deze-wereldberoemde-ai-influencer-komt-mogelijk-uit-belgie-lachen-met-zijn-lange-hoofd-maar-er-zit-meer-achter~a217a368/",
+   "description": "Een man in pak, met een onnatuurlijk lang gezicht en een gekrulde snor, loopt zwijgend door de straten en bokst in de lucht. Miljoenen mensen hebben het al gezien. Jean Philanthrope dook half september op TikTok, Instagram en X op. Zijn filmpjes bevatten geen verhaal en geen gesproken tekst. Hij lijkt een Franse AI-influencer, maar opvallende details wijzen naar België.",
+   "date": "2026-10-09T14:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Groningse culturele sector verbiedt gebruik AI-brillen: ‘Zodat bezoekers en artiesten niet constant op hun hoede hoeven te zijn’",
+   "link": "https://www.nrc.nl/nieuws/2026/10/09/groningse-culturele-sector-verbiedt-gebruik-ai-brillen-zodat-bezoekers-en-artiesten-niet-constant-op-hun-hoede-hoeven-te-zijn-a4938608",
+   "description": "Aanleiding voor de maatregel zijn incidenten in Rotterdam en Utrecht. Ruim dertig Groningse organisaties hopen dat de ‘slimme brillen’ niet genormaliseerd raken.",
+   "date": "2026-10-09T13:49:55",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse industrie boekt grootste productiestijging in vier jaar, mede dankzij AI",
+   "link": "https://businessam.be/nederlandse-industrie-boekt-grootste-productiestijging-in-vier-jaar-mede-dankzij-ai/",
+   "description": "Key takeaways De Nederlandse industriële productie kende in augustus de grootste stijging in meer dan vier jaar en klom met 12 procent ten opzichte van vorig jaar, zo blijkt uit gegevens van het Centraal Bureau voor de Statistiek (CBS). Deze stijging volgt op een sterke maand juli, waarin de productie al met 9,3 procent was […]",
+   "date": "2026-10-09T13:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix: de denkfout van Amodei",
+   "link": "https://www.tijd.be/r/t/1/id/10694924",
+   "description": "De bouwers moeten AI’s in het gareel houden, niet vragen hoe het met hen gaat.",
+   "date": "2026-10-09T12:32:19",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic verbiedt wreed gedrag tegen chatbot Claude",
+   "link": "https://www.gva.be/economie/technologie/anthropic-verbiedt-wreed-gedrag-tegen-chatbot-claude/162825460.html",
+   "description": "Anthropic heeft donderdag aangekondigd dat het maatregelen neemt om te voorkomen dat gebruikers zich agressief gedragen tegenover artificiële intelligentie. Het Amerikaanse bedrijf heeft gebruikers “een verbod op aanhoudend en onnodig beledigend of wreed gedrag” opgelegd tegenover de AI-chatbot Claude.",
+   "date": "2026-10-09T11:23:39",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI blijft 20 miljard dollar achter bij omzetverwachtingen van beleggers",
+   "link": "https://businessam.be/openai-blijft-20-miljard-dollar-achter-bij-omzetverwachtingen-van-beleggers/",
+   "description": "Key takeaways Uit recente gegevens blijkt dat de jaaromzet van OpenAI ongeveer 20 miljard dollar (17,8 miljard euro) achterblijft bij eerdere prognoses van investeerders. Uit rapporten van de Financial Times blijkt dat het AI-bedrijf in september een jaaromzet van ongeveer 50 miljard dollar (44,5 miljard euro) bereikte, waarmee het de eerder door verschillende bronnen voorspelde […]",
+   "date": "2026-10-09T11:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: herstel voor Argenx en EVS",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-herstel-voor-argenx-en-evs/",
+   "description": "(ABM FN) De Brusselse beurs noteerde vrijdagochtend stevig in het groen, geholpen door een koersherstel van zowel Argenx als EVS.De Bel20 steeg rond 11 uur met 1,5 procent naar 5.480 punten.Op Wall Street stonden AI-gerelateerde aandelen onder druk na een bericht in de Financial Times. Volgens de krant zou de geannualiseerde omzet van OpenAI aan het …\nThe post Beursupdate: herstel voor Argenx en EVS appeared first on Trends.be.",
+   "date": "2026-10-09T10:46:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Wanneer kun je een AI-collega alleen laten?",
+   "link": "https://www.emerce.nl/opinie/column-wanneer-kun-aicollega-alleen-laten",
+   "description": "co-Founded by AI richt een speciale werkomgeving in om hun AI-collega Mira zelfstandig en veilig taken te laten uitvoeren. Met een gedeeld geheugen, duidelijke grenzen voor bevoegdheden en vaste werkwijzen via skills zorgen ze dat de AI effectief werkt onder menselijke eindcontrole.",
+   "date": "2026-10-09T10:30:44",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursgoeroe Ray Dalio (77) waarschuwt dat einde van AI-sprookje nadert: “Dit is een klassieke bubbel”",
+   "link": "https://www.hln.be/economie/beursgoeroe-ray-dalio-77-waarschuwt-dat-einde-van-ai-sprookje-nadert-dit-is-een-klassieke-bubbel~ac20a05b/",
+   "description": "Miljardair en beursgoeroe Ray Dalio (77) waarschuwt dat we gevaarlijk dicht bij het einde van het AI-sprookje komen. De torenhoge schulden van techgiganten en de stijgende rente vormen volgens hem een dodelijke cocktail voor de aandelenmarkt. “Dit is een klassieke bubbel”, klinkt het.",
+   "date": "2026-10-09T10:30:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duck.ai biedt optie om AI-chatgesprekken met anderen te delen",
+   "link": "https://www.security.nl/posting/956811/Duck_ai+biedt+optie+om+AI-chatgesprekken+met+anderen+te+delen?channel=rss",
+   "description": "Duck.ai, de AI-chatbot van zoekmachine DuckDuckGo, biedt nu ook de optie om AI-chatgesprekken met anderen te delen. Daarbij ...",
+   "date": "2026-10-09T10:26:09",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | De race om humanoïde robots",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-race-humanoids-robots/",
+   "description": "Humanoïde robots vinden hun weg naar fabrieken. Maar over robotica horen we altijd dat China voorop loopt. Wat is de plaats van Europa? We bespreken het deze week in de AI & Tech Podcast.\nThe post AI & Tech-podcast | De race om humanoïde robots appeared first on Trends.be.",
+   "date": "2026-10-09T10:17:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-criticus Gary Marcus: ‘We zijn nog heel ver verwijderd van een Terminator-scenario’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/ai-criticus-gary-marcus-we-zijn-nog-heel-ver-verwijderd-van-een-terminator-scenario/",
+   "description": "Een oorlog tussen mens en machine zit er nog lang niet aan te komen. Maar dat betekent niet dat artificiële intelligentie ongevaarlijk is, waarschuwt AI-criticus Gary Marcus. Vooral autonome AI-agenten baren hem zorgen. Hij pleit voor strengere controles en voorspelt dat de miljardeninvesteringen in AI op een grote mislukking zullen uitdraaien.\nThe post AI-criticus Gary Marcus: ‘We zijn nog heel ver verwijderd van een Terminator-scenario’ appeared first on Knack.",
+   "date": "2026-10-09T10:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "WTO verhoogt handelsprognoses fors dankzij AI-boom",
+   "link": "https://businessam.be/wto-verhoogt-handelsprognoses-fors-dankzij-ai-boom/",
+   "description": "Key takeaways Aangedreven door de snelle opmars van artificiële intelligentie heeft de Wereldhandelsorganisatie (WTO) haar prognoses voor de wereldwijde handelsgroei tot en met eind 2026 aanzienlijk naar boven bijgesteld. Handelsvolume Ondanks de aanhoudende spanningen in het Midden-Oosten is het goederenverkeer sterker gebleven dan eerder verwacht. Concreet verwacht de WTO nu dat het handelsvolume in goederen […]",
+   "date": "2026-10-09T09:57:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een url die eindigt op .meow of toch maar .chatgpt? Organisaties vragen nieuwe extensies aan",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/een-url-die-eindigt-op-meow-of-toch-maar-chatgpt-organisaties-vragen-nieuwe-extenties-aan/",
+   "description": "De voorbije maanden konden organisaties voor het eerst sinds 2012 een nieuwe internetextensie aanvragen, dat is het stukje aan de staart van een webadres. Traditioneel denk je dan aan .be of .com, maar momenteel zijn meer dan 1.600 nieuwe extensies in de running om goedgekeurd te worden. \nThe post Een url die eindigt op .meow of toch maar .chatgpt? Organisaties vragen nieuwe extensies aan appeared first on Trends.be.",
+   "date": "2026-10-09T09:49:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon vernieuwt advertentieplatform en zet in op agentic advertising",
+   "link": "https://www.emerce.nl/nieuws/amazon-vernieuwt-advertentieplatform-zet-agentic-advertising",
+   "description": "Amazon Ads introduceert nieuwe campagnetypen en een vernieuwd platform dat moet aansluiten bij de verschuiving naar zogenoemde agentic advertising. De aankondiging volgt op een initiatief van een jaar om losse advertentietools samen te voegen tot één door kunstmatige intelligentie (AI) aangedreven ecosysteem.",
+   "date": "2026-10-09T09:45:03",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI als besparingsmachine is geen natuurwet, maar een keuze: het kan anders’",
+   "link": "https://trends.knack.be/ai-en-tech/ai-als-besparingsmachine-is-geen-natuurwet-maar-een-keuze-het-kan-anders/",
+   "description": "Besparen met AI kan je concurrent ook. Daar win je geen meter voorsprong mee. Wil je echt vooruit, zet AI dan in voor wat al jaren op je lijstje staat: betere producten, betere service, klanten die écht tevreden zijn. Daar maak je het verschil, zo schrijft Paul Van Cotthem.\nThe post ‘AI als besparingsmachine is geen natuurwet, maar een keuze: het kan anders’ appeared first on Trends.be.",
+   "date": "2026-10-09T09:31:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI haalt minder omzet dan verwacht en dat laat markten niet koud",
+   "link": "https://www.standaard.be/economie/openai-haalt-minder-omzet-dan-verwacht-en-dat-laat-markten-niet-koud/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-10-09T09:12:56",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie start campagne met AI-video om jongeren weg bij cybercrime te houden",
+   "link": "https://www.security.nl/posting/956795/Politie+start+campagne+met+AI-video+om+jongeren+weg+bij+cybercrime+te+houden?channel=rss",
+   "description": "De politie is op YouTube, Instagram en Snapchat een campagne gestart met een door AI gemaakte video om jongeren zo weg bij ...",
+   "date": "2026-10-09T09:11:21",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De CIO als AI-pionier: zo pakken de CIO of the Year-finalisten het aan",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/de-cio-als-ai-pionier-zo-pakken-de-cio-of-the-year-finalisten-het-aan/",
+   "description": "Generatieve AI, Copilot, agentic workflows: de technologische mogelijkheden stapelen zich op. Maar hoever staan organisaties écht met de AI-implementatie? De drie finalisten voor CIO of the Year 2026 bevinden zich elk in een andere fase en botsten elk op andere vormen van weerstand.\nThe post De CIO als AI-pionier: zo pakken de CIO of the Year-finalisten het aan appeared first on Trends.be.",
+   "date": "2026-10-09T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Drie voormalig onderzoekers van OpenAI zeggen te zijn ontslagen na waarschuwingen over AI-risico’s",
+   "link": "https://www.ad.nl/tech/drie-voormalig-onderzoekers-van-openai-zeggen-te-zijn-ontslagen-na-waarschuwingen-over-ai-risicos~ada9bcbb/",
+   "description": "Het debat over de veiligheid van kunstmatige intelligentie (AI) is verder opgelaaid. Drie voormalige veiligheidsonderzoekers van OpenAI zeggen in een brief dat ze zijn ontslagen omdat ze hadden gewaarschuwd voor de risico’s van de technologie.",
+   "date": "2026-10-09T08:38:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "3 Europese koplopers in humanoïde robots concurreren met Tesla, Figure.ai en Unitree",
+   "link": "https://trends.knack.be/ai-en-tech/3-europese-koplopers-in-humanoide-robots-concurreren-met-tesla-figure-ai-en-unitree/",
+   "description": "De komende maanden komen steeds meer AI-gestuurde humanoïde robots naar onze fabrieken. Vooral Chinese en Amerikaanse start-ups gaan met de meeste aandacht lopen. Het Amerikaanse Figure AI is 39 miljard dollar waard en zijn Chinese concurrent Unitree trok onlangs naar de beurs met een waardering van omgerekend 27 miljard euro. Wat zijn de waardevolste Europese start-ups die met hen concurreren?\nThe post 3 Europese koplopers in humanoïde robots concurreren met Tesla, Figure.ai en Unitree appeared first on Trends.be.",
+   "date": "2026-10-09T08:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Plan - Dev Summit 2026: Software-archeologie bij Enexis: developers weten meer dan AI",
+   "link": "https://tweakers.net/plan/4844/dev-summit-2026-software-archeologie-bij-enexis-developers-weten-meer-dan-ai.html",
+   "description": "Enterprise architect Jaap vertelt tijdens de Tweakers Developers Summit over een grootschalige proef binnen Enexis Digital.",
+   "date": "2026-10-09T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen verdeeld na nieuwe twijfels over AI",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-verdeeld-na-nieuwe-twijfels-over-ai/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden vrijdagochtend verdeeld, waarbij nieuwe zorgen over de omzet van OpenAI druk zetten op chip- en technologieaandelen.De Nikkei verloor 0,2 procent, terwijl de Shanghai Composite 1,2 procent daalde. De Hang Seng won daarentegen ruim een procent en de Australische beurs steeg met 0,6 procent. De beurzen in Zuid-Korea en Taiwan …\nThe post Aziatische beurzen verdeeld na nieuwe twijfels over AI appeared first on Trends.be.",
+   "date": "2026-10-09T07:16:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen hoger",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-hoger-69/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan vrijdag een groene opening tegemoet, na een moeizame donderdag, waarbij de olieprijzen weer hard stegen en halfgeleideraandelen over het algemeen onder druk stonden.IG voorziet voor vrijdag een openingswinst van 200 punten voor de Duitse DAX en een plus van 57 punten voor de Franse CAC 40. De Britse …\nThe post Europese beurzen openen hoger appeared first on Trends.be.",
+   "date": "2026-10-09T07:07:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voor wie actief wordt op Mastodon, zoals nu NRC, is er werk aan de winkel. Zonder algoritme moet je zelf een netwerkje bouwen, net als in de echte wereld",
+   "link": "https://www.nrc.nl/nieuws/2026/10/09/wie-actief-wordt-op-mastodon-zoals-nu-nrc-heeft-werk-aan-de-winkel-zonder-algoritme-moet-je-zelf-een-netwerkje-bouwen-net-als-in-de-echte-wereld-a4938563",
+   "description": "De afgelopen maanden heb ik veel geleerd over het open sociale web en de pogingen om ons internet te hervormen. Ook NRC heeft inmiddels een teen in het badwater. We hebben een prille eigen server op Mastodon, een alternatief sociaal netwerk. Nu begint het echte werk: de inhoud.",
+   "date": "2026-10-09T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI als middel voor Chinese hegemonie",
+   "link": "https://www.nrc.nl/nieuws/2026/10/09/ai-als-middel-voor-chinese-hegemonie-a4938303",
+   "description": "China stelt alles op alles om de AI-race met de Verenigde Staten te winnen, en heeft goede kaarten. Xi Jinping wil van AI een van de pijlers maken onder de Chinese wereldorde, zo betoogt Jan van der Putten.",
+   "date": "2026-10-09T06:09:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pelin Ilbas, de nieuwe KBC-hoofdeconoom: 'Ik zie geen systeemcrisis op korte termijn, wel kwetsbaarheden'",
+   "link": "https://www.tijd.be/r/t/1/id/10694803",
+   "description": "Pelin Ilbas begint in woelige tijden als hoofdeconoom van KBC. Ze ziet knipperlichten in de renteklim en overgewaardeerde AI-aandelen. En een noodzaak voor Europa om artificiële intelligentie en de energietransitie te omarmen. ‘Het risico bestaat dat de adoptie van AI hier niet snel genoeg gaat’, zegt ze in haar eerste interview.",
+   "date": "2026-10-09T05:00:00",
+   "feeds": [
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Mistral lanceert Europese AI die kloof met rest van de wereld moet dichten: “Het verhaal dat Europa niet kan concurreren, is gewoon niet waar”",
    "link": "https://www.gva.be/economie/mistral-lanceert-europese-ai-die-kloof-met-rest-van-de-wereld-moet-dichten-het-verhaal-dat-europa-niet-kan-concurreren-is-gewoon-niet-waar/162810632.html",
