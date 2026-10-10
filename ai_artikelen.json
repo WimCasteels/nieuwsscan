@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T04:07:14",
+ "generated": "2026-10-10T18:05:56",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 176,
+   "count": 174,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 106,
+   "count": 94,
    "error": null
   },
   {
@@ -316,12 +316,101 @@
  ],
  "articles": [
   {
+   "title": "AI-model van Anthropic dient valse tip in over onopgeloste moord bij politie in Philadelphia",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/aimodel-van-anthropic-dient-valse-tip-in-over-onopgeloste-moord~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-10T16:08:44",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wie grof is tegen Claude, wordt verbannen van de chatbot: kan AI zich echt gekwetst voelen?",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/10/kwetsend-en-grof-zijn-tegen-claude-anthropic/",
+   "description": "Wie onbeschoft of kwetsend doet tegenover AI-chatbot Claude, wordt verbannen van het platform. Dat heeft het bedrijf achter de chatbot, Anthropic, beslist. Een opvallende maatregel die opnieuw de discussie doet oplaaien over de vraag of AI een bewustzijn heeft.",
+   "date": "2026-10-10T15:38:57",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wie grof is tegen Claude, wordt verbannen van de chatbot: kan AI zich echt gekwetst voelen?",
+   "link": "https://vrtnws.be/p.oL1O4wXna",
+   "description": "Wie onbeschoft of kwetsend doet tegenover AI-chatbot Claude, wordt verbannen van het platform. Dat heeft het bedrijf achter de chatbot, Anthropic, beslist. Een opvallende maatregel die opnieuw de discussie doet oplaaien over de vraag of AI een bewustzijn heeft. \"Zeker bij Anthropic leeft het idee dat AI iets kan voelen\", zegt Tim Verheyden.",
+   "date": "2026-10-10T15:38:57",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese agentschappen onderzoeken Chinese AI-modellen en hun veiligheidsrisico’s",
+   "link": "https://businessam.be/europese-agentschappen-onderzoeken-chinese-ai-modellen-en-hun-veiligheidsrisicos/",
+   "description": "Key takeaways Volgens een rapport van Politico evalueren Europese autoriteiten momenteel in China ontwikkelde open source-frameworks voor artificiële intelligentie. Bij dit initiatief zijn het Gemeenschappelijk Centrum voor Onderzoek (JRC), de wetenschappelijke tak van de Europese Commissie, en ENISA, het cyberbeveiligingsagentschap van de EU, betrokken. Dit is de eerste keer dat deze organisaties dergelijke activiteiten hebben […]",
+   "date": "2026-10-10T15:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla moet rijassistentiesysteem nieuwe naam geven na controverse",
+   "link": "https://www.gva.be/economie/bedrijven/tesla-moet-rijassistentiesysteem-nieuwe-naam-geven-na-controverse/162876154.html",
+   "description": "De Amerikaanse autobouwer Tesla ziet zich gedwongen om zijn rijassistentiesysteem in Europa een nieuwe naam te geven, nadat het jaren kritiek had gekregen omdat het daarover onterecht sprak als volledig zelfrijdend. Op de websites van de autobouwer in Duitsland en andere Europese landen wordt het systeem voortaan “Tesla Assisted Driving” genoemd, waarmee het onmiddellijk duidelijk maakt dat het slechts om een rijassistentiesysteem gaat.",
+   "date": "2026-10-10T11:21:56",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "KPN lost storing op waardoor NL ziekenhuizen slecht bereikbaar waren - update 2",
+   "link": "https://tweakers.net/nieuws/253174/kpn-lost-storing-op-waardoor-nl-ziekenhuizen-slecht-bereikbaar-waren.html",
+   "description": "KPN heeft een storing opgelost waardoor meerdere Nederlandse ziekenhuizen slecht bereikbaar waren. De storing kwam door een probleem in het koelsysteem van een van de datacenters. De provider onderzoekt nog hoe het probleem kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen.",
+   "date": "2026-10-10T10:53:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-model Anthropic stuurde valse tip over moordzaak naar Amerikaanse politie",
+   "link": "https://www.nu.nl/tech/6412670/ai-model-anthropic-stuurde-valse-tip-over-moordzaak-naar-amerikaanse-politie.html",
+   "description": "Een AI-agent van het bedrijf Anthropic, de maker van AI-chatbot Claude, heeft een valse tip over een moordzaak naar de politie van Philadelphia gestuurd. Het bedrijf maakte vrijdag bekend dat de tip in juli werd ingediend. Veel te laat, stelt de politie.",
+   "date": "2026-10-10T06:12:41",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agent van Anthropic stuurt verzonnen moordtip naar politie van Philadelphia",
+   "link": "https://www.gva.be/buitenland/ai-agent-van-anthropic-stuurt-verzonnen-moordtip-naar-politie-van-philadelphia/162872941.html",
+   "description": "Een AI-model van Anthropic heeft tijdens een test een volledig verzonnen tip over een onopgeloste moord ingediend bij de politie van Philadelphia. Die maakte het incident vrijdag bekend en verwijt het bedrijf dat de ontdekking en melding ruim twee maanden op zich lieten wachten.",
+   "date": "2026-10-10T05:43:12",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Bij de praatjes van Verlinden zou een mens bijna denken dat er een hallucinerende AI-chatbot op Justitie zit",
    "link": "https://www.demorgen.be/meningen/bij-de-praatjes-van-verlinden-zou-een-mens-bijna-denken-dat-er-een-hallucinerende-ai-chatbot-op-justitie-zit~b6c12b78/",
    "description": "",
    "date": "2026-10-10T03:00:16",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-10-10",
    "intro_geprobeerd": true
@@ -336,6 +425,17 @@
    ],
    "first_seen": "2026-10-10",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Historicus en journalist Jill Lepore: ‘Als je geen datacenter voor je deur wilt, stop dan met alles aan AI te vragen’",
+   "link": "https://www.trouw.nl/verdieping/historicus-en-journalist-jill-lepore-als-je-geen-datacenter-voor-je-deur-wilt-stop-dan-met-alles-aan-ai-te-vragen~bade0198/",
+   "description": "",
+   "date": "2026-10-09T22:00:06",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": true
   },
   {
    "title": "'AI-bedrijven bereiden zich voor op negatieve publieke opinie na groot incident'",
@@ -457,6 +557,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Harvard-historicus Jill Lepore: ‘We hebben onze autonomie ingeleverd, onze plichten als burger verzaakt’",
+   "link": "https://www.nrc.nl/nieuws/2026/10/09/harvard-historicus-jill-lepore-we-hebben-onze-autonomie-ingeleverd-onze-plichten-als-burger-verzaakt-a4937152",
+   "description": "De razendsnelle versmelting van het Amerikaanse staatsapparaat met de grote AI-bedrijven heeft volgens Harvard-historicus Jill Lepore diepe wortels. „Het is uitgedraaid op vijf of zes kerels die geloven dat ze het lot van de mensheid controleren.”",
+   "date": "2026-10-09T17:56:44",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-10",
    "intro_geprobeerd": false
   },
   {
