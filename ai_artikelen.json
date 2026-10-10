@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T19:17:47",
+ "generated": "2026-10-10T04:07:14",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 35,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 177,
+   "count": 176,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 101,
+   "count": 106,
    "error": null
   },
   {
@@ -315,6 +315,106 @@
   }
  ],
  "articles": [
+  {
+   "title": "Bij de praatjes van Verlinden zou een mens bijna denken dat er een hallucinerende AI-chatbot op Justitie zit",
+   "link": "https://www.demorgen.be/meningen/bij-de-praatjes-van-verlinden-zou-een-mens-bijna-denken-dat-er-een-hallucinerende-ai-chatbot-op-justitie-zit~b6c12b78/",
+   "description": "",
+   "date": "2026-10-10T03:00:16",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Zelfs Melissa Depraetere en koningin Mathilde staan naakt op het internet: “We hebben te maken met een deepnude-epidemie”",
+   "link": "https://www.standaard.be/binnenland/zelfs-melissa-depraetere-en-koningin-mathilde-staan-naakt-op-het-internet-we-hebben-te-maken-met-een-deepnude-epidemie/162449955.html",
+   "description": "Op pornosites, in uitkleedapps en in besloten Telegramgroepen: makers van AI-gegenereerde naaktbeelden hebben vrij spel op het internet. Vrouwen zijn daar disproportioneel vaak de dupe van. “De mensen moeten weten dat valse naaktbeelden levens kunnen verwoesten.”",
+   "date": "2026-10-09T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'AI-bedrijven bereiden zich voor op negatieve publieke opinie na groot incident'",
+   "link": "https://tweakers.net/nieuws/253150/ai-bedrijven-bereiden-zich-voor-op-negatieve-publieke-opinie-na-groot-incident.html",
+   "description": "Leidinggevenden bij bedrijven zoals Anthropic en OpenAI bereiden zich voor op een publieke en politieke opstand als er een 'catastrofaal' incident plaatsvindt met AI-systemen.",
+   "date": "2026-10-09T21:03:52",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic geeft Claude meer ruimte om grenzen te stellen aan gebruikers",
+   "link": "https://businessam.be/anthropic-stelt-nieuwe-regels-op-voor-hoe-gebruikers-met-claude-mogen-omgaan/",
+   "description": "Key takeaways Anthropic heeft nieuwe richtlijnen opgesteld die het voortdurend en nodeloos mishandelen van zijn Claude-AI-systemen verbieden. Deze regels, die op 12 november van kracht worden, zijn uitsluitend gericht op ernstige gevallen waarin gebruikers herhaaldelijk wreed zijn tegen de AI zonder duidelijk doel. Het bedrijf heeft verduidelijkt dat standaardklachten, kritische feedback, het verkennen van grimmige […]",
+   "date": "2026-10-09T20:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voormalige OpenAI-onderzoekers beweren dat hun ontslag een vergelding was voor hun inzet voor AI-veiligheid",
+   "link": "https://businessam.be/voormalige-openai-onderzoekers-beweren-dat-hun-ontslag-een-vergelding-was-voor-hun-inzet-voor-ai-veiligheid/",
+   "description": "Key takeaways Verschillende voormalige onderzoekers van OpenAI beweren dat hun ontslag het gevolg was van het feit dat zij AI-veiligheid boven de directe bedrijfsdoelstellingen van het bedrijf stelden. Terwijl de organisatie volhoudt dat de medewerkers zijn ontslagen voor het overtreden van protocollen met betrekking tot de omgang met privégegevens, stellen de ex-werknemers dat hun vertrek […]",
+   "date": "2026-10-09T19:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gaan AI-agents voor ons shoppen, en zijn ze dan echt onze vriend?",
+   "link": "https://www.standaard.be/media-en-cultuur/gaan-ai-agents-voor-ons-shoppen-en-zijn-ze-dan-echt-onze-vriend/162589344.html",
+   "description": "In Europa zien we er nog heel weinig van, maar in de Verenigde Staten beleeft een nieuwe technologie haar wittebroodsweken: persoonlijke AI-agents maken je leven gemakkelijker én besparen je een pak geld.",
+   "date": "2026-10-09T19:45:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dreigt de zeepbel? De wankele financiën van de datacenterhype",
+   "link": "https://www.standaard.be/economie/dreigt-de-zeepbel-de-wankele-financien-van-de-datacenterhype/162757114.html",
+   "description": "Met 9.000 miljard dollar is de investeringsgolf in Amerikaanse datacenters de grootste in de geschiedenis. Om rendabel te zijn, moet 3.550 miljard dollar aan AI verdiend worden. Vandaag is dat maar 100 à 200 miljard dollar. “Dat is een wel heel positieve verwachting.”",
+   "date": "2026-10-09T19:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wees aardig tegen Claude: Anthropic scherpt regels tegen misbruik van AI aan",
+   "link": "https://www.hln.be/tech/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan~acccc008/",
+   "description": "AI-bedrijf Anthropic scherpt vanaf 12 november de regels voor zijn chatbot Claude aan. Misleiding, software om mensen te volgen en onnodig wreed gedrag tegenover de AI worden nadrukkelijker verboden.",
+   "date": "2026-10-09T19:30:20",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI maakt de verschillen in de K-economie nog groter",
+   "link": "https://www.standaard.be/economie/beurs/ai-maakt-de-verschillen-in-de-k-economie-nog-groter/162843706.html",
+   "description": "De investeringen in artificiële intelligentie zuigen geld weg uit bedrijven zoals EVS, Barco, Pepsico en McDonald's. De K-economie beschrijft niet alleen de tweedeling bij consumenten, maar ook bij bedrijven.",
+   "date": "2026-10-09T19:30:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-10",
+   "intro_geprobeerd": false
+  },
   {
    "title": "EXCLUSIEF. Maker achter ‘Jean Philanthrope’ spreekt voor het eerst: “Brengt inderdaad veel tijd in Brussel door”",
    "link": "https://www.hln.be/tech/exclusief-maker-achter-jean-philanthrope-spreekt-voor-het-eerst-brengt-inderdaad-veel-tijd-in-brussel-door~a2c9a344/",
@@ -523,6 +623,17 @@
     "Gazet van Antwerpen - Economie"
    ],
    "first_seen": "2026-10-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zolang er geen taal bestaat voor de rol van AI in ons leven, zal het vermenselijken toenemen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/09/zolang-er-geen-taal-bestaat-voor-de-rol-van-ai-in-ons-leven-zal-het-vermenselijken-toenemen-a4937695",
+   "description": "Bij premier Jetten vragen we ons af hoeveel van hemzelf er nog in zijn woorden zit. Bij een chatbot gebeurt het omgekeerde: we krijgen volzinnen en denken er zelf iemand bij, schrijft Sarah Meuleman.",
+   "date": "2026-10-09T11:23:37",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-10",
    "intro_geprobeerd": false
   },
   {
@@ -1365,6 +1476,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-10-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De commercie en AI rukken op bij P.F. Thomése: wat is daarop het antwoord van de schrijver?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/07/de-commercie-en-ai-rukken-op-bij-p-f-thomese-wat-is-daarop-het-antwoord-van-de-schrijver-a4938354",
+   "description": "Een marginale schrijver schrijft een boek over en in opdracht van zijn rijke zwager in Dubai. Goeie deal, of de uitverkoop van zijn ziel? Vernuftig maar ook voorspelbaar schrijft P.F. Thomése over de literatuur en de oprukkende moderniteit.",
+   "date": "2026-10-07T13:32:43",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-10",
    "intro_geprobeerd": false
   },
   {
