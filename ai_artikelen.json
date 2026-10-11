@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T03:34:25",
+ "generated": "2026-10-11T18:32:33",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 175,
+   "count": 165,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 91,
    "error": null
   },
   {
@@ -315,6 +315,149 @@
   }
  ],
  "articles": [
+  {
+   "title": "De week die komt: begroting, LVMH, ASML, Amerikaanse banken, Europese top, Trump en autosalon Parijs",
+   "link": "https://www.tijd.be/r/t/1/id/10695025",
+   "description": "Landt of crasht Bart De Wever? Wie wint de Nobelprijs Economie? Hoe trappen de Amerikaanse banken, LVMH en ASML het resultatenseizoen af? Wat beslissen de Europese leiders over begroting, energie, Oekraïne en het Midden-Oosten? Krijgt Trump het tij nog gekeerd voor de midterms? En kan de Europese auto-industrie een vuist maken op het Parijse autosalon? U komt het deze week te weten.",
+   "date": "2026-10-11T17:31:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Kan de samenleving de technologie nog volgen?’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/kan-de-samenleving-de-technologie-nog-volgen/",
+   "description": "'Een technologie als AI is echter geen onvermijdelijk lot, maar een menselijk project dat vorm kan en moet krijgen binnen democratische, institutionele en economische kaders', schrijft François Levrau (UAntwerpen).\nThe post ‘Kan de samenleving de technologie nog volgen?’ appeared first on Knack.",
+   "date": "2026-10-11T14:40:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Oekraïne valt olieinstallaties Rusland niet aan, als Russen ook stoppen'",
+   "link": "https://nos.nl/l/2634561",
+   "description": "Oekraïne is bereid om aanvallen op Russische olie-installaties te staken als Rusland ophoudt met het aanvallen van de Oekraïense energievoorziening. Dat is het antwoord van president Zelensky op de eis van president Trump dat Oekraïne stopt met het aanvallen van Russische olieraffinaderijen.\n        Het is niet voor het eerst dat Zelensky dit zegt, maar het komt nu na de aanval van Trump op hem gisteren. De Amerikaanse president zei gisteren dat het tijd is dat Oekraïne een nieuwe leider krijgt.\n        Dat moet volgens Trump iemand zijn die vrede met Rusland kan sluiten, \"iets dat Zelensky om de een of andere reden nooit doet\". Ook zei hij dat de oorlog in Oekraïne nooit zou zijn begonnen als hij op dat moment president van de VS was geweest. \"Het is begonnen dankzij incompetentie.\"\n        Oekraïners beslissen\n        Zelensky zwijgt over die uitspraken, maar zijn minister van Buitenlandse Zaken Sybiha zegt op X: \"President Zelensky leidt onze natie in een tijd van oorlog, een oorlog voor onafhankelijkheid, vrijheid en waardigheid. Hij heeft de steun van het Oekraïense volk, en zij hebben het recht om te beslissen.\"\n        Trump liet Oekraïne vrijdag al vallen door met president Poetin een akkoord te sluiten over de levering van olie door Rusland aan de VS. Trump hoopt dat door het grotere aanbod de dieselprijs in de VS omlaag gaat. Die is sinds het begin van de Amerikaans-Israëlische aanval op Iran in februari verdubbeld. Trump is bang dat zijn partij daardoor over een paar weken de tussentijdse verkiezingen in de VS verliest.\n        Na de reeks van aanvallen op Russische olieinstallaties en magazijnen, lijkt Oekraïne zich nu op datacentra te richten. Het viel voor de derde keer in vier dagen een datacentrum van de Russische techgigant Yandex aan.\n        Door de aanval op het centrum in Vladimir, op zo'n 175 kilometer ten oosten van Moskou, kunnen Yandex-gebruikers in tientallen Russische steden en in Kazachstan, Belarus en Armenië niet hun bankrekeningen of andere online diensten gebruiken. \"De activiteiten in het datacentrum zijn volledig tot stilstand gekomen\", zegt Yandex.\n        Het Yandex-datacentrum in Rjazan, 230 kilometer ten zuidoosten van Moskou, ging donderdag na een Oekraïense aanval volledig offline. Vrijdag raakte het centrum in Kaluga, 160 kilometer ten zuidwesten van Moskou, deels onbruikbaar.",
+   "date": "2026-10-11T13:38:08",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia zou RTX 5090 schrappen om GB202-chip alleen voor RTX Pro en AI te bieden",
+   "link": "https://tweakers.net/nieuws/253186/nvidia-zou-rtx-5090-schrappen-om-gb202-chip-alleen-voor-rtx-pro-en-ai-te-bieden.html",
+   "description": "Nvidia zou stoppen met de RTX 5090-videokaart om de daarin gebruikte GB202-chip exclusief in te zetten voor RTX Pro-videokaarten en AI-toepassingen. Dit meldt leaker MEGAsizeGPU. Nvidia zou chipleveringen voor RTX 5090-productie stopzetten. Prijzen voor dat topmodel-gpu waren al hoog.",
+   "date": "2026-10-11T13:12:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Global Foundries wil in Duitse fabriek chips met 7nm-prestaties maken voor AI",
+   "link": "https://tweakers.net/nieuws/253184/global-foundries-wil-in-duitse-fabriek-chips-met-7nm-prestaties-maken-voor-ai.html",
+   "description": "Global Foundries' uitbreiding van zijn chipfabriek in Dresden bereikt het hoogste punt van de bouw en kondigt de volgende generatie aan van zijn technologie voor geavanceerde chipproductie. De FDX Fusion-technologie moet energiezuinige en krachtige chips maken op niveau van 7 nanometer.",
+   "date": "2026-10-11T12:04:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman Microsoft wil ‘noodrem’ op geavanceerde AI-modellen: “Tijd om een stap terug te doen”",
+   "link": "https://www.hln.be/tech/topman-microsoft-wil-noodrem-op-geavanceerde-ai-modellen-tijd-om-een-stap-terug-te-doen~ae957dbc/",
+   "description": "De topman van Microsoft heeft gepleit voor meer controle bij het ontwikkelen van kunstmatige intelligentie. Dit weekend zei hij in een bericht op X dat bedrijven krachtige AI-modellen zouden moeten beschouwen als mogelijke interne risico’s. Ze moeten er volgens hem van uitgaan dat zulke AI-modellen “gecompromitteerd” zijn en een soort “noodrem” inbouwen om ze in toom te houden.",
+   "date": "2026-10-11T11:17:05",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eindeloze AI-content zet televisie op zijn kop: onze techexpert legt uit hoe het werkt",
+   "link": "https://www.hln.be/tech/eindeloze-ai-content-zet-televisie-op-zijn-kop-onze-techexpert-legt-uit-hoe-het-werkt~a04346f47/",
+   "description": "Stel je een tv-kanaal voor dat een eindeloze stroom aan cartoons produceert die nooit eerder bestonden. Of een soapserie die nooit meer stopt en waarin de ene dramatische gebeurtenis de andere opvolgt. Het is niet langer theorie, maar werkelijkheid: AI maakt eindeloze televisie mogelijk. HLN-techexpert Kenneth Dée legt uit en toont hoe het werkt.",
+   "date": "2026-10-11T10:01:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vooruitblik op de beursweek: hoe straf zijn de kwartaalresultaten van ASML?",
+   "link": "https://trends.knack.be/beleggen/adviezen/vooruitblik-op-de-beursweek-hoe-straf-zijn-de-kwartaalresultaten-van-asml/",
+   "description": "Voor beleggers zet ASML deze week de toon. Sterke cijfers kunnen de hele technologiesector opnieuw een zet vooruit geven, terwijl een teleurstelling de hoge waardering van het aandeel meteen ter discussie stelt. LVMH test intussen of het herstel in de luxe duurzaam is en de inflatiecijfers bepalen hoeveel ruimte centrale banken nog hebben.\nThe post Vooruitblik op de beursweek: hoe straf zijn de kwartaalresultaten van ASML? appeared first on Trends.be.",
+   "date": "2026-10-11T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenClaw claimt nieuw topleveldomein .claw voor internetadressen bij ICANN",
+   "link": "https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html",
+   "description": "De OpenClaw Foundation wil de eigenaar worden van het nieuwe topleveldomein .claw in de uitbreiding van internetadresnamen die beheerorganisatie ICANN doorvoert. De stichting achter de lokaal draaiende AI-assistent is de enige partij die aanspraak maakt op .claw. De ICANN-procedure loopt tot in 2027.",
+   "date": "2026-10-11T09:35:09",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China lanceert AI-werkgelegenheidsstrategie om beroepsbevolking bij te scholen",
+   "link": "https://businessam.be/china-lanceert-ai-werkgelegenheidsstrategie-om-beroepsbevolking-bij-te-scholen/",
+   "description": "Key takeaways Om de beroepsbevolking af te stemmen op de opkomst van artificiële intelligentie heeft de Chinese regering een uitgebreide werkgelegenheidsstrategie geïntroduceerd. Dit plan, dat werd aangekondigd tijdens een briefing van het Informatiebureau van de Staatsraad, richt zich op het bijwerken van beroepsvaardigheden om deze af te stemmen op het veranderende technologische landschap. Deze inspanning […]",
+   "date": "2026-10-11T09:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe AI beslist welke kleren jij straks draagt: welkom in de wereld van 'algorithmic fashion'",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/02/hoe-ai-beslist-welke-kleren-jij-straks-draagt-welkom-in-de-were/",
+   "description": "Kleding die viraal gaat op TikTok, ligt enkele dagen later al in de winkel: dankzij artificiële intelligentie en algoritmes kunnen modebedrijven sneller dan ooit inspelen op online trends.",
+   "date": "2026-10-11T08:48:37",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe AI beslist welke kleren jij straks draagt: welkom in de wereld van 'algorithmic fashion'",
+   "link": "https://vrtnws.be/p.kQGYRQ7Qa",
+   "description": "Kleding die viraal gaat op TikTok, ligt enkele dagen later al in de winkel: dankzij artificiële intelligentie en algoritmes kunnen modebedrijven sneller dan ooit inspelen op online trends. Experts zien voordelen, zoals minder onverkochte voorraad, maar waarschuwen ook voor meer consumptie, kopieergedrag en eenheidsworst in de modesector.",
+   "date": "2026-10-11T08:48:37",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Europa staat in brand, en toch worden er energieverslindende datacenters gebouwd\": deze Vlamingen nemen deel aan de klimaatmars in Brussel",
+   "link": "https://vrtnws.be/p.aDyYjyJw6",
+   "description": "De vele bosbranden, hoge temperaturen en oversterfte van afgelopen zomer maken de gevolgen van de klimaatverandering voelbaar, maar toch blijven grondige maatregelen uit. Dat zeggen Femke (40), Folker (54), Iunes (22) en Anny (78), die vandaag deelnemen aan de klimaatmars in Brussel. \"Er gaat veel geld naar defensie en wapens, maar daarmee gaan we ons niet verdedigen tegen klimaatopwarming.\"",
+   "date": "2026-10-11T06:00:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-11",
+   "intro_geprobeerd": false
+  },
   {
    "title": "AI-model van Anthropic dient valse tip in over onopgeloste moord bij politie in Philadelphia",
    "link": "https://www.vrt.be/vrtnws/nl/liveblog/aimodel-van-anthropic-dient-valse-tip-in-over-onopgeloste-moord~1776671241366/",
