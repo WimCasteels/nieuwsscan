@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T18:32:33",
+ "generated": "2026-10-12T04:05:11",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 172,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 90,
    "error": null
   },
   {
@@ -315,6 +315,50 @@
   }
  ],
  "articles": [
+  {
+   "title": "Britse overheid mag opnieuw vroegtijdig Amerikaanse AI-modellen onderzoeken op mogelijkheden en misbruik",
+   "link": "https://www.gva.be/buitenland/britse-overheid-mag-opnieuw-vroegtijdig-amerikaanse-ai-modellen-onderzoeken-op-mogelijkheden-en-misbruik/162924279.html",
+   "description": "Amerikaanse AI-bedrijven mogen de Britse overheid opnieuw vóór de lancering toegang geven tot hun modellen voor veiligheidstests. Volgens The Telegraph heeft de regering van president Donald Trump een eerdere beslissing teruggedraaid die ontwikkelaars als OpenAI en Anthropic vroeg nieuwe modellen niet vooraf met het Britse AI Security Institute te delen.",
+   "date": "2026-10-12T02:13:29",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude beëindigt voortaan chats met gebruikers die het taalmodel “onnodig beledigen”",
+   "link": "https://www.standaard.be/media-en-cultuur/claude-beeindigt-voortaan-chats-met-gebruikers-die-het-taalmodel-onnodig-beledigen/162909585.html",
+   "description": "Het taalmodel Claude zal chats met gebruikers die “aanhoudend beledigend zijn jegens het model” op eigen houtje beëindigen. Die maatregel past in het bredere onderzoek van moederbedrijf Anthropic naar een mogelijk bewustzijn van hun AI-modellen.",
+   "date": "2026-10-11T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agents van OpenAI-baas Sam Altman hacken zich, per ongeluk, door het internet: houdt hij techniek wel in het gareel?",
+   "link": "https://www.ad.nl/tech/ai-agents-van-openai-baas-sam-altman-hacken-zich-per-ongeluk-door-het-internet-houdt-hij-techniek-wel-in-het-gareel~a4e64062/",
+   "description": "De AI-software van OpenAI hackt zich een weg door het internet: van overheidssites tot forums. De ChatGPT-bouwer mag zijn AI-hulpjes als aaibare poppetjes naar de huiskamer willen brengen, toch rijst de vraag: heeft Sam Altman zijn software wel onder controle?",
+   "date": "2026-10-11T20:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-check zit er zelden naast bij tekstbeoordeling: 'Geen bewijs in rechtszaken'",
+   "link": "https://www.nu.nl/tech/6412542/ai-check-zit-er-zelden-naast-bij-tekstbeoordeling-geen-bewijs-in-rechtszaken.html",
+   "description": "Of het nu om tweets van premier Rob Jetten gaat of om schoolopdrachten, detectietools kunnen achterhalen of teksten mensenwerk of AI-brouwsels zijn. Vaak werken ze goed, al adviseren deskundigen om er niet te snel conclusies aan te verbinden.",
+   "date": "2026-10-11T18:38:58",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
   {
    "title": "De week die komt: begroting, LVMH, ASML, Amerikaanse banken, Europese top, Trump en autosalon Parijs",
    "link": "https://www.tijd.be/r/t/1/id/10695025",
