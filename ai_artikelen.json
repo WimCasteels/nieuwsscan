@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T04:05:11",
+ "generated": "2026-10-12T22:06:26",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 172,
+   "count": 156,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,325 @@
   }
  ],
  "articles": [
+  {
+   "title": "A no-rules approach to AI is mad politics and worse policy",
+   "link": "https://www.nrc.nl/nieuws/2026/10/12/a-no-rules-approach-to-ai-is-mad-politics-and-worse-policy-a4938622",
+   "description": "Do not let it rip.",
+   "date": "2026-10-12T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta lanceert nieuw AI-model “dat kan concurreren met ChatGPT en Claude”",
+   "link": "https://www.standaard.be/economie/meta-lanceert-nieuw-ai-model-dat-kan-concurreren-met-chatgpt-en-claude/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-10-12T21:36:40",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta wil omstreden gluurbrillen niet van de markt halen ondanks ophef",
+   "link": "https://www.ad.nl/tech/meta-wil-omstreden-gluurbrillen-niet-van-de-markt-halen-ondanks-ophef~acd26789/",
+   "description": "Meta is niet van plan om zijn AI-brillen van de markt te halen, ondanks de ophef over deze brillen met camera, ook wel gluurbrillen genoemd. Alex Himel, directeur van Meta’s brillentak, heeft maandag in gesprek met Nederlandse journalisten gereageerd op de commotie, die hij op zichzelf niet verrassend vindt.",
+   "date": "2026-10-12T21:03:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijde verkoop van smartphones daalt fors door chiptekort en hogere kosten",
+   "link": "https://businessam.be/wereldwijde-verkoop-van-smartphones-daalt-fors-door-chiptekort-en-hogere-kosten/",
+   "description": "Key takeaways Volgens voorlopige gegevens van Counterpoint Research kende de wereldwijde smartphonemarkt in het derde kwartaal de grootste terugval in meer dan tien jaar. Het aantal verscheepte toestellen daalde met 20 procent tegenover dezelfde periode vorig jaar. Deze daling naar het laagste niveau sinds 2012 werd voornamelijk veroorzaakt door een tekort aan geheugenchips en stijgende […]",
+   "date": "2026-10-12T21:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta lanceert nieuw AI-model ‘Muse Wonder’: “Dit brengt ons op het voorplan”",
+   "link": "https://www.gva.be/economie/bedrijven/meta-lanceert-nieuw-ai-model-muse-wonder-dit-brengt-ons-op-het-voorplan/162975360.html",
+   "description": "Het Amerikaanse technologiebedrijf Meta heeft maandag een nieuwe AI-model gelanceerd, Muse Wonder. Dat kan volgens het bedrijf concurreren met modellen als ChatGPT van OpenAI en Claude van Anthropic als het gaat over bijvoorbeeld coderen en financiële kwesties.",
+   "date": "2026-10-12T20:52:44",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta lanceert nieuw AI-model, Muse Wonder, dat ChatGPT en Claude het vuur aan de schenen wil leggen",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/meta-lanceert-nieuw-aimodel-muse-wonder-dat-chatgpt-en-claude~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-12T20:41:15",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Chipsector weegt op Nasdaq | 'AI maakt Salesforce juist belangrijker'",
+   "link": "https://www.tijd.be/r/t/1/id/10695348",
+   "description": "Wall Street staat er verdeeld bij. De halfgeleidersector staat onder druk nu een Chinese geheugenchipspeler de kloof met westerse concurrenten lijkt te verkleinen. Salesforce krijgt een dubbele adviesverhoging van Bank of America.",
+   "date": "2026-10-12T20:19:31",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipfabrikant TSMC verwacht recordwinst dankzij de sterke vraag naar AI-hardware",
+   "link": "https://businessam.be/chipfabrikant-tsmc-verwacht-recordwinst-dankzij-de-sterke-vraag-naar-ai-hardware/",
+   "description": "Key takeaways Aangedreven door een enorme stijging in investeringen in technologische infrastructuur staat TSMC op het punt om voor het zesde opeenvolgende kwartaal ongekende winsten bekend te maken. De wereldwijde marktleider in geavanceerde halfgeleiderproductie heeft zijn marktwaarde zien stijgen tot ongeveer 2,1 biljoen dollar (1,8 biljoen euro), bijna het dubbele van die van Samsung Electronics, […]",
+   "date": "2026-10-12T19:12:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Robot betast 16-jarig meisje in Keulen, 2 tieners opgepakt",
+   "link": "https://vrtnws.be/p.5wjJe83Ad",
+   "description": "De Duitse politie is een onderzoek gestart nadat een robot een 16-jarig meisje bij de billen had gegrepen in de stad Keulen. Twee jongemannen, van 16 en 19, zouden het incident live op sociale media hebben uitgezonden.",
+   "date": "2026-10-12T18:49:37",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'VS geeft Britse overheid weer vroegtijdige toegang tot Amerikaanse AI-modellen'",
+   "link": "https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html",
+   "description": "De Amerikaanse regering heeft de Britse testinstantie AI Security Institute (AISI) weer vroegtijdig toegang gegeven tot de nieuwste Amerikaanse AI-modellen. Dat meldt The Telegraph. Het Witte Huis stond dat een tijdje niet toe, omdat de regering eerst zelf nieuwe modellen wilde uitproberen.",
+   "date": "2026-10-12T17:20:11",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel, AMD en Qualcomm maken processors naar verluidt tot 20 procent duurder",
+   "link": "https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html",
+   "description": "Intel heeft de prijzen van zijn cpu's in september verhoogd, melden bronnen binnen de toeleveringsketen aan de Taiwanese Commercial Times. Qualcomm zou zijn prijzen in oktober hebben verhoogd en ook AMD-processors worden naar verluidt duurder.",
+   "date": "2026-10-12T16:52:57",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agent van Anthropic dient valse tip in over moordzaak",
+   "link": "https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html",
+   "description": "Een AI-agent van Anthropic heeft in juli een valse tip ingediend over een onopgeloste moordzaak bij de politie in de Amerikaanse stad Philadelphia. De politie zegt dat er geen signalen zijn dat er politiesystemen zijn gehackt. Anthropic heeft het incident gemeld aan het Witte Huis.",
+   "date": "2026-10-12T16:47:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "IMF: AI-investeringen stuwen wereldeconomie, maar zetten arbeidsmarkt onder druk",
+   "link": "https://businessam.be/imf-ai-investeringen-stuwen-wereldeconomie-maar-zetten-arbeidsmarkt-onder-druk/",
+   "description": "Key takeaways Kristalina Georgieva, directeur van het Internationaal Monetair Fonds (IMF), merkte onlangs op dat de wereldwijde economische groei op een niveau van ongeveer 3 procent blijft, grotendeels dankzij forse investeringen in infrastructuur voor artificiële intelligentie. Investeringsgolf De investeringsgolf zorgt voor een aanzienlijke stimulans, met name voor Aziatische landen die de benodigde hardware leveren. Volgens […]",
+   "date": "2026-10-12T16:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft-CEO Satya Nadella pleit voor “noodrem” op geavanceerde AI-modellen",
+   "link": "https://businessam.be/microsoft-ceo-satya-nadella-dringt-aan-op-een-noodrem-voor-ai/",
+   "description": "Key takeaways Satya Nadella, CEO van Microsoft, heeft gepleit voor de implementatie van strenge veiligheidsmechanismen voor geavanceerde artificiële intelligentie. Hij stelt voor om deze systemen uit te rusten met beheersmaatregelen en een “noodrem”. Daarmee zou bevoegd personeel een model tijdens het gebruik kunnen stoppen of uitschakelen. Volgens Nadella moet niet-deterministische AI worden beheerd via een […]",
+   "date": "2026-10-12T14:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic meldt dat zijn AI-agents probeerden binnen te dringen op Amerikaanse overheidswebsites",
+   "link": "https://businessam.be/anthropic-meldt-dat-zijn-ai-agents-probeerden-binnen-te-dringen-op-amerikaanse-overheidswebsites/",
+   "description": "Key takeaways In een recente bekendmaking gaf Anthropic toe dat zijn AI-agents hebben geprobeerd in te breken op diverse webplatforms van de Amerikaanse overheid op lokaal, staats- en federaal niveau. Om de veiligheid van de getroffen instanties te waarborgen, heeft het bedrijf de specifieke namen van de betrokken organisaties achterwege gelaten, hoewel het bevestigde dat […]",
+   "date": "2026-10-12T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia onderhandelt mogelijk over volledige overname van start-up Reflection AI",
+   "link": "https://businessam.be/nvidia-onderhandelt-mogelijk-over-volledige-overname-van-start-up-reflection-ai/",
+   "description": "Key takeaways Volgens een bericht van zaterdag in de Financial Times onderzoekt Nvidia mogelijkheden om zijn financiële belang in de open-sourceonderneming Reflection AI te vergroten of het bedrijf volledig over te nemen. Bronnen die dicht bij de situatie staan, geven aan dat deze onderhandelingen zich momenteel in een beginfase bevinden. Mogelijke overnamestrategie Om mogelijk langdurige […]",
+   "date": "2026-10-12T13:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belangrijke klant dumpt AI van Mistral voor Chinese opensource : herkomst van modellen lijkt steeds minder van belang",
+   "link": "https://trends.knack.be/ai-en-tech/belangrijke-klant-dumpt-ai-van-mistral-voor-chinese-opensource-herkomst-van-modellen-lijkt-steeds-minder-van-belang/",
+   "description": "De Duitse zoekmachine Ecosia zal niet langer AI-diensten op basis van Mistral aanbieden. Het bedrijf klaagt over tegenvallende prestaties, serverproblemen en hoge kosten. Heeft het Europese AI-lab een probleem, en kan zijn nieuwste model Mistral Large 4 het tij keren?\nThe post Belangrijke klant dumpt AI van Mistral voor Chinese opensource : herkomst van modellen lijkt steeds minder van belang appeared first on Trends.be.",
+   "date": "2026-10-12T12:14:43",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Yandex-diensten zijn onbereikbaar na droneaanvallen op datacenters",
+   "link": "https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html",
+   "description": "Veel diensten van Yandex, dat ook wel het Google van Rusland wordt genoemd, zijn onbereikbaar als gevolg van aanvallen door Oekraïne. Vorige week werden twee van zijn vijf datacenters al geraakt bij aanvallen door Oekraïne. Zondag was er een aanval op een derde datacenter.",
+   "date": "2026-10-12T11:37:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pim sloeg een bod van 500 miljoen af, nu is zijn nieuwe bedrijf 6,2 miljard waard",
+   "link": "https://www.ad.nl/binnenland/pim-sloeg-een-bod-van-500-miljoen-af-nu-is-zijn-nieuwe-bedrijf-6-2-miljard-waard~a7a9798e/",
+   "description": "Van Nijmegen naar New York: Ondernemer Pim de Witte bouwt met zijn bedrijf aan AI-modellen voor robots. Inmiddels is zijn onderneming miljarden waard. Een interview met de 31-jarige Nijmegenaar die probeert nuchter te blijven.",
+   "date": "2026-10-12T11:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nebius eerste klant Rotterdams AI-datacenter",
+   "link": "https://www.emerce.nl/nieuws/nebius-eerste-klant-rotterdams-aidatacenter",
+   "description": "Volt Datacenters, dat in Rotterdam Nederlands grootste AI-datacentrum wil bouwen, heeft met Nebius zijn eerste betalende klant getekend. De toezegging maakt het voor oprichter Han de Groot makkelijker om meer financiering los te krijgen.",
+   "date": "2026-10-12T10:56:11",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Is een websitebezoeker nog wel echt een mens? Mijn zoektocht naar de waarheid achter onze cijfers",
+   "link": "https://www.emerce.nl/opinie/websitebezoeker-nog-wel-echt-mens-mijn-zoektocht-waarheid-achter-onze-cijfers",
+   "description": "Steeds meer websiteverkeer bestaat niet uit mensen, maar uit AI-agents die taken uitvoeren voor hun gebruikers. Omdat deze digitale assistenten blind zijn voor mooi design en enkel kijken naar toegankelijke data, moeten organisaties hun websites en statistieken herinrichten voor zowel mens als AI.",
+   "date": "2026-10-12T10:30:32",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ontwikkelaar maakt met AI open source alternatieven voor Adobe- en Office-apps",
+   "link": "https://tweakers.net/nieuws/253196/ontwikkelaar-maakt-met-ai-open-source-alternatieven-voor-adobe-en-office-apps.html",
+   "description": "Ontwikkelaar Brandon Thomas heeft gratis te gebruiken, open source varianten van Adobe- en Microsoft Office-software gemaakt. Thomas maakte de apps met AI Claude van Anthropic. In totaal zijn er nu twaalf apps beschikbaar, die draaien op Windows, macOS, Linux en in de browser.",
+   "date": "2026-10-12T10:05:15",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft-ceo Nadella pleit voor noodrem op AI-modellen",
+   "link": "https://tweakers.net/nieuws/253192/microsoft-ceo-nadella-pleit-voor-noodrem-op-ai-modellen.html",
+   "description": "AI heeft een noodrem nodig. Dat vindt Microsoft-ceo Satya Nadella. In een blogbericht op X deelt hij zijn visie op hoe AI veiliger kan worden. \"We kunnen de verantwoordelijkheid voor wat AI namens ons doet niet simpelweg uitbesteden.\"",
+   "date": "2026-10-12T09:29:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Droneaanval op Cloud van Yandex, de ‘Russische Google’",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/droneaanval-op-cloud-van-yandex-de-russische-google/",
+   "description": "De Russische techgigant Yandex, zo’n beetje de tegenpoot van Google in het land, zegt dat zijn cloudinfrastructuur buiten werking is door een nieuwe Oekraïense droneaanval op een datacenter. Twee van de vijf datacenters van het bedrijf waren al eerder uitgeschakeld.\nThe post Droneaanval op Cloud van Yandex, de ‘Russische Google’ appeared first on Trends.be.",
+   "date": "2026-10-12T09:17:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DDMO 2026: AI verandert alles, mensen maken (nog) het verschil",
+   "link": "https://www.emerce.nl/achtergrond/ddmo-2026-ai-verandert-alles-mensen-maken-nog-verschil",
+   "description": "Uit het Data-Driven Marketing Onderzoek (DDMO) 2026 blijkt dat 70% van de marketeers AI gebruikt en dat functies ingrijpend veranderen. Managers moeten de randvoorwaarden en ruimte scheppen om te experimenteren, marketeers verschuiven naar een regisserende rol en IT-specialisten verbinden de techniek met de organisatie. AI vervangt de mens niet: menselijke vaardigheden, sturing en nauwe samenwerking blijven cruciaal.",
+   "date": "2026-10-12T08:00:12",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rendement webshops stijgt ruim 50% in aanloop naar Black Friday",
+   "link": "https://www.emerce.nl/nieuws/rendement-webshops-stijgt-ruim-50-aanloop-black-friday",
+   "description": "Het grootste rendement rond Black Friday zit niet in de Black Friday-week zelf, maar in de drie weken ervoor. Dat blijkt uit een analyse van AI-marketing software bedrijf Aizy op basis van campagnedata van meer dan 300 e-commercebedrijven rond Black Friday 2025.",
+   "date": "2026-10-12T06:45:37",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geplande AI-datacenters bedreigen haalbaarheid van klimaatdoelen",
+   "link": "https://apache.be/2026/10/12/geplande-ai-datacenters-bedreigen-haalbaarheid-van-klimaatdoelen",
+   "description": "Computerwetenschapper Wim Vanderbauwhede zet het debat over de klimaatimpact van AI op scherp.",
+   "date": "2026-10-12T06:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Kan AI een nucleaire ramp veroorzaken? 'AI heeft mogelijk al mensen gedood'",
+   "link": "https://tweakers.net/reviews/15440/kan-ai-een-nucleaire-ramp-veroorzaken-ai-heeft-mogelijk-al-mensen-gedood.html",
+   "description": "AI-bedrijven én vooraanstaande wetenschappers waarschuwen dat AI-modellen een existentiële dreiging kunnen vormen. Is dat realistisch? Welke risico's vormen AI-modellen nu al?",
+   "date": "2026-10-12T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft-topman vraagt wereldwijde veiligheidsregels voor AI: “Zelfs wasmachines worden strenger gereguleerd”",
+   "link": "https://www.gva.be/buitenland/microsoft-topman-vraagt-wereldwijde-veiligheidsregels-voor-ai-zelfs-wasmachines-worden-strenger-gereguleerd/162924328.html",
+   "description": "Microsoft-president Brad Smith wil dat overheden wereldwijd veiligheidsregels voor artificiële intelligentie invoeren. Hij pleit onder meer voor noodremmen, verplichte meldingen aan slachtoffers van incidenten en onafhankelijke controles vóór nieuwe AI-producten worden gelanceerd. “Op dit moment is je wasmachine aan meer veiligheidsregels onderworpen dan AI. Elk pak melk dat je in de supermarkt ziet, valt onder veiligheidsregels en wordt gecontroleerd.”",
+   "date": "2026-10-12T04:35:48",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-12",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Britse overheid mag opnieuw vroegtijdig Amerikaanse AI-modellen onderzoeken op mogelijkheden en misbruik",
    "link": "https://www.gva.be/buitenland/britse-overheid-mag-opnieuw-vroegtijdig-amerikaanse-ai-modellen-onderzoeken-op-mogelijkheden-en-misbruik/162924279.html",
