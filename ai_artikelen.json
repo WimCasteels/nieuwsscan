@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T05:21:46",
+ "generated": "2026-10-13T19:55:56",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 33,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 153,
    "error": null
   },
   {
@@ -310,11 +310,418 @@
   {
    "name": "Volkskrant - Tech",
    "url": "https://www.volkskrant.nl/tech/rss.xml",
-   "count": 33,
+   "count": 66,
    "error": null
   }
  ],
  "articles": [
+  {
+   "title": "Nieuwe thuisassistent van Apple niet beschikbaar in Europese Unie",
+   "link": "https://www.gva.be/economie/bedrijven/nieuwe-thuisassistent-van-apple-niet-beschikbaar-in-europese-unie/163027746.html",
+   "description": "Het Amerikaanse techconcern Apple heeft dinsdag HomeView voorgesteld, een tabletcomputer die moet dienen als door kunstmatige intelligentie (AI) aangestuurde thuisassistent. Maar het toestel zal niet meteen beschikbaar zijn in de Europese Unie.",
+   "date": "2026-10-13T19:47:20",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geen AI of Photoshop: basketbalicoon Yao Ming torent boven David Beckham uit tijdens wedstrijd in China",
+   "link": "https://www.demorgen.be/nieuws/geen-ai-of-photoshop-basketbalicoon-yao-ming-torent-boven-david-beckham-uit-tijdens-wedstrijd-in-china~bd602d4a/",
+   "description": "",
+   "date": "2026-10-13T19:01:12",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Een maand met de slimme Meta-bril: een duidelijk verbod op kwetsbare plekken kan niet uitblijven",
+   "link": "https://vrtnws.be/p.xZWxJ4DGN",
+   "description": "\"Indrukwekkende technologie, maar vaak sociaal onaanvaardbaar\": dat is de conclusie van VRT NWS-journalist Tim Verheyden, die een maand lang de slimme bril van Meta droeg. Een verbod op bepaalde plekken lijkt onvermijdelijk, zeker nu AI het heel makkelijk maakt om gezichten te scannen en mensen te herkennen.",
+   "date": "2026-10-13T18:55:51",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen sluiten licht lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-licht-lager/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa zijn dinsdag licht lager gesloten, nadat Amerikaanse banken het cijferseizoen aftrapte, terwijl de chipindustrie de markt liet dalen na negatieve uitspraken door de CEO van Broadcom.De Stoxx Europe 600 index leverde een eerdere winst in en sloot 0,1 procent lager op 635,01 punten, de Duitse DAX verloor ook 0,1 …\nThe post Europese beurzen sluiten licht lager appeared first on Trends.be.",
+   "date": "2026-10-13T18:50:42",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In opspraak gekomen auteur zegt dat “geen enkele zin” van zijn bekroonde roman met AI werd geschreven, maar geeft wel plagiaat toe",
+   "link": "https://www.standaard.be/media-en-cultuur/in-opspraak-gekomen-auteur-zegt-dat-geen-enkele-zin-van-zijn-bekroonde-roman-met-ai-werd-geschreven-maar-geeft-wel-plagiaat-toe/163014778.html",
+   "description": "De Canadees-Haïtiaanse schrijver Thélyson Orélien weerlegt voor het eerst uitgebreid de beschuldiging dat hij zijn bekroonde roman met AI schreef. Hij geeft wel toe dat hij in het verleden plagiaat pleegde: “Onaanvaardbare fouten.”",
+   "date": "2026-10-13T18:20:10",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 houdt winst net vast",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-houdt-winst-net-vast/",
+   "description": "(ABM FN) De Brusselse beurs is dinsdag licht hoger geëindigd, maar leverde een groot deel van de winst wel in na de opening op Wall Street, waar de borden rood kleurden.De Bel20 index eindigde 0,1 procent hoger op 5.496,41 punten. De sterindex piekte dinsdag op 5.541 punten.Beurzen kijken uit naar een sterk cijferseizoen, maar AI-twijfels, geopolitieke …\nThe post Bel20 houdt winst net vast appeared first on Trends.be.",
+   "date": "2026-10-13T17:58:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donderdagmiddag marktenchat over ASML, LVMH, Micron en Goldman Sachs",
+   "link": "https://www.tijd.be/r/t/1/id/10695469",
+   "description": "Donderdag om klokslag 12 uur chatten we over de economie en de markten.",
+   "date": "2026-10-13T17:49:50",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI ontwikkelt zich veel sneller dan dat we onze menselijke systemen kunnen aanpassen’: hoe zijn Albert Heijn en Delhaize gehackt?",
+   "link": "https://www.demorgen.be/nieuws/ai-ontwikkelt-zich-veel-sneller-dan-dat-we-onze-menselijke-systemen-kunnen-aanpassen-hoe-zijn-albert-heijn-en-delhaize-gehackt~ba282c26/",
+   "description": "",
+   "date": "2026-10-13T17:48:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoofd van MI5 waarschuwt voor gevaar van biologische wapens door AI",
+   "link": "https://www.hln.be/buitenland/hoofd-van-mi5-waarschuwt-voor-gevaar-van-biologische-wapens-door-ai~ae29dcac/",
+   "description": "Als de beveiligingsmechanismen van artificiële intelligentie (AI) falen, kunnen terroristen via de technologie toegang krijgen tot biologische wapens of zelfs nieuwe ziekteverwekkers creëren. Daarvoor waarschuwt Ken McCallum, het hoofd van de Britse veiligheidsdienst MI5. Tijdens zijn jaarlijkse toespraak over de terreurdreiging in het Verenigd Koninkrijk noemde McCallum het misbruiken van AI voor biowapens een van de grootste zorgen.",
+   "date": "2026-10-13T17:35:48",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kritiek op camerabrillen laait verder op: drie organisaties slepen Meta voor de rechter",
+   "link": "https://www.nrc.nl/nieuws/2026/10/13/kritiek-op-camerabrillen-laait-verder-op-drie-organisaties-slepen-meta-voor-de-rechter-a4938820",
+   "description": "Belangenorganisaties Consumentenbond, Offlimits en The Firewall gaven Meta twee weken om hun omstreden AI-brillen aan te passen. Dinsdag is die termijn verstreken. Nu stappen de organisaties naar de rechter. „Het moet nú gebeuren.”",
+   "date": "2026-10-13T16:51:02",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipreus Broadcom vergelijkt AI-investeringen met “gokken in casino”",
+   "link": "https://www.standaard.be/economie/chipreus-broadcom-vergelijkt-ai-investeringen-met-gokken-in-casino/163001799.html",
+   "description": "Onzekerheid over verdienmodellen en groeiende concurrentie bezorgden chipaandelen wereldwijd een bloedrode beursdag. En bij een stevige concurrentie zal de hele wereldeconomie dat voelen, waarschuwt het IMF.",
+   "date": "2026-10-13T16:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe orders en winstmarges staan centraal bij de kwartaalcijfers van ASML",
+   "link": "https://businessam.be/nieuwe-orders-en-winstmarges-staan-centraal-bij-de-kwartaalcijfers-van-asml/",
+   "description": "Key takeaways Woensdag is een cruciaal moment voor ASML, aangezien de Nederlandse fabrikant van halfgeleiderapparatuur dan zijn kwartaalcijfers publiceert. Hoewel de verwachtingen hooggespannen zijn, wijzen verschillende indicatoren erop dat het bedrijf klaar is voor een nieuwe periode van robuuste prestaties. Omzetprognoses Wat de financiële prognoses betreft, schat ASML dat de omzet tussen de 11 en […]",
+   "date": "2026-10-13T16:47:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple introduceert HomeView-smarthometablet, maar verkoopt hem niet in de EU",
+   "link": "https://tweakers.net/nieuws/253270/apple-introduceert-homeview-smarthometablet-maar-verkoopt-hem-niet-in-de-eu.html",
+   "description": "Apple heeft zijn smarthometablet HomeView aangekondigd. Het apparaat werkt als een smarthomedashboard waarop gebruikers hun slimme apparaten kunnen aansturen. Het apparaat kost 299 dollar. De fabrikant brengt het product voorlopig niet uit in de Europese Unie, omdat Siri AI in iOS nog niet in de EU beschikbaar is.",
+   "date": "2026-10-13T16:08:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Drie Japanse topaandelen die profiteren van de AI-boom",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/drie-japanse-topaandelen-die-profiteren-van-de-ai-boom/",
+   "description": "Vooral bedrijven die profiteren van investeringen in kunstmatige intelligentie vallen op. Daardoor ontstaat naast koersgroei ook ruimte voor structureel hogere uitkeringen aan aandeelhouders. De aandacht op de Japanse beurs verschuift naar bedrijven die een rol spelen in de wereldwijde AI-infrastructuur. Het land beschikt over gespecialiseerde producenten van testapparatuur, materialen, precisiegereedschap, kabels en onderdelen die moeilijk …\nThe post Drie Japanse topaandelen die profiteren van de AI-boom appeared first on Trends.be.",
+   "date": "2026-10-13T16:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cooler Master brengt antismeltalarm voor gpu uit voor 30 euro",
+   "link": "https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html",
+   "description": "Cooler Master brengt de Shield Adapter volgende week in Europa uit voor een adviesprijs van 30 euro. Het apparaat komt tussen de voeding en gpu en meet hoeveel stroom er door de kabel gaat. Als er te veel stroom door het kastje loopt, klinkt er een alarm en zou het apparaat de stroomtoevoer moeten beperken.",
+   "date": "2026-10-13T15:00:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia maakt DLSS 5 tot twee keer sneller met kleiner AI-model",
+   "link": "https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html",
+   "description": "Nvidia komt met een verbeterd AI-model voor DLSS 5. Volgens het bedrijf is dat model tot twee keer sneller en neemt het minder vram in beslag. Dat moet vooral voor hogere framerates zorgen. Het model komt op 16 oktober naar NBA 2K27; later volgen andere games.",
+   "date": "2026-10-13T14:45:28",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gebruikers kunnen AI-muziek vóór eind 2026 volledig uit Deezer weren",
+   "link": "https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html",
+   "description": "Deezer introduceert een nieuwe optie waarmee gebruikers AI-gegenereerde muziek volledig kunnen weren. Die optie komt vóór eind 2026 beschikbaar, meldt de streamingdienst. Daarmee wil het bedrijf gebruikers een betere ervaring bieden.",
+   "date": "2026-10-13T14:28:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta wil met nieuw AI-model ‘Muse Wonder’ concurreren met ChatGPT en Claude",
+   "link": "https://businessam.be/meta-wil-met-nieuw-ai-model-muse-wonder-concurreren-met-chatgpt-en-claude/",
+   "description": "Key takeaways Meta heeft Muse Wonder voorgesteld, het nieuwste en krachtigste model van zijn AI-afdeling. Dat meldt Bloomberg. Mark Zuckerberg heeft die afdeling de afgelopen jaren grondig geherstructureerd. Het model, dat intern eerder bekendstond als Watermelon, wordt door Chief AI Officer Alexandr Wang als gelijkwaardig aan Claude en ChatGPT omschreven, vooral voor juridische, financiële en […]",
+   "date": "2026-10-13T13:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Epic Games stelt Disney-game uit en vraagt ontwikkelaars meer AI te gebruiken",
+   "link": "https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html",
+   "description": "Gameontwikkelaar Epic Games heeft een gameproject in samenwerking met Disney uitgesteld. Daarnaast vraagt het bedrijf ontwikkelaars om meer AI-tools te gebruiken om de game af te krijgen. Er is nog geen releasedatum bekend. Dat meldt Bloomberg op basis van anonieme bronnen.",
+   "date": "2026-10-13T13:13:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Von der Leyen wil AI inzetten om de administratieve lasten voor Europese bedrijven te verminderen",
+   "link": "https://businessam.be/von-der-leyen-wil-ai-inzetten-om-de-administratieve-lasten-voor-europese-bedrijven-te-verminderen/",
+   "description": "Key takeaways Ursula von der Leyen, voorzitter van de Europese Commissie, heeft voorgesteld om AI in te zetten om de bureaucratische lasten voor bedrijven in de Europese Unie sterk te verminderen. Dat meldt Politico. Tijdens een besloten bijeenkomst met de Europese Volkspartij op Sicilië op 12 oktober stelde zij dat het stroomlijnen van administratieve taken […]",
+   "date": "2026-10-13T13:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EDAY: Leiderschapslessen uit de Formule 1",
+   "link": "https://www.emerce.nl/nieuws/eday-leiderschapslessen-uit-formule-1",
+   "description": "Formule 1-teams en techbedrijven worstelen met dezelfde uitdaging: gigantische hoeveelheden data verwerken onder extreme druk, waar AI veel sneller werkt dan menselijke analyse.",
+   "date": "2026-10-13T12:00:40",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huizen op Funda onherkenbaar door AI-foto's: 'Het had geen zin om te bezichtigen'",
+   "link": "https://www.nu.nl/nujij/6412909/huizen-op-funda-onherkenbaar-door-ai-fotos-het-had-geen-zin-om-te-bezichtigen.html",
+   "description": "Met kunstmatige intelligentie kunnen makelaars huizen op Funda flink oppoetsen. Ze kunnen bijvoorbeeld muren doorbreken of lege kamers inrichten. Sommige potentiële kopers herkennen de woning tijdens de bezichtiging daardoor niet meer terug. \"Het had geen zin om te bezichtigen.\"",
+   "date": "2026-10-13T12:00:31",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kabinet wil in 2028 publieke AI-omgeving voor scholen en leraren",
+   "link": "https://www.security.nl/posting/957343/Kabinet+wil+in+2028+publieke+AI-omgeving+voor+scholen+en+leraren?channel=rss",
+   "description": "Het kabinet wil dat er in 2028 een publieke AI-omgeving is voor scholen en leraren in het funderend onderwijs. Hiervoor worden ...",
+   "date": "2026-10-13T11:41:11",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Melexis dissonant in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-melexis-dissonant-in-groene-bel20/",
+   "description": "(ABM FN) De Brusselse noteerde dinsdagochtend hoger, geholpen door de dalende rentes en lagere olieprijzen.De sterindex steeg aan het einde van de ochtend met 0,9 procent tot 5.538,40 punten in een verder groengekleurd Europa.Technologieaandelen daalden dinsdag wereldwijd verder, na een zwakke sessie op Wall Street maandag waar de Nasdaq Composite 0,4 procent verloor. Geheugenchipmaker Micron Technology …\nThe post Beursupdate: Melexis dissonant in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-10-13T11:29:25",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie Keulen verdenkt twee tieners van aanranding met Unitree-robot",
+   "link": "https://tweakers.net/nieuws/253252/politie-keulen-verdenkt-twee-tieners-van-aanranding-met-unitree-robot.html",
+   "description": "Twee Duitse tieners worden ervan verdacht met een robot een 16-jarig meisje te hebben aangerand en de aanranding via sociale media te hebben gelivestreamd. Dat heeft de politie in Keulen bekendgemaakt.",
+   "date": "2026-10-13T10:37:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wanneer AI de koper wordt: van reviews als overtuigingsmiddel naar databron voor vertrouwen",
+   "link": "https://www.emerce.nl/videos/wanneer-ai-koper-reviews-overtuigingsmiddel-databron-vertrouwen",
+   "description": "‘Twintig jaar lang was de review een instrument om mensen te overtuigen: sociale bewijskracht, herkenbaarheid, een stem die net als […]",
+   "date": "2026-10-13T10:31:08",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-serie ‘VisionQuest’ is niet voor de casual Marvel-kijker",
+   "link": "https://www.nrc.nl/nieuws/2026/10/13/ai-serie-visionquest-is-niet-voor-de-casual-marvel-kijker-a4938803",
+   "description": "Het is vrijwel onmogelijk om de serie VisionQuest te beschrijven, zonder te verwijzen naar eerdere Marvel-films en -series. Het derde deel van dit drieluik draait volledig om AI’s, die er veelal naar streven om net zoveel te voelen als de mens.",
+   "date": "2026-10-13T10:31:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Starter van de week: Fiberflux bewaakt drinkwaterleidingen met glasvezel",
+   "link": "https://trends.knack.be/ondernemen/starter-van-de-week-fiberflux-bewaakt-drinkwaterleidingen-met-glasvezel/",
+   "description": "Het Gentse Fiberflux ontwikkelde met DALI Pipeline Monitoring een technologie die kritische drinkwaterleidingen continu bewaakt via de combinatie van glasvezelkabels en machinelearning. De innovatie, die samen met het technologiebedrijf Fluves werd uitgewerkt, geeft netbeheerders realtime zicht op lekken, beschadigingen en andere incidenten. Ze wordt al gebruikt in een dertigtal landen. Wat maakt uw oplossing uniek? …\nThe post Starter van de week: Fiberflux bewaakt drinkwaterleidingen met glasvezel appeared first on Trends.be.",
+   "date": "2026-10-13T10:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta lanceert eerste krachtige frontiermodel: Muse Wonder",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/meta-lanceert-eerste-krachtige-frontiermodel-muse-wonder/",
+   "description": "Amerikaanse techgigant Meta heeft een nieuw AI-model gelanceerd: Muse Wonder. Het gaat om Meta’s eerste zogeheten ‘frontier-model’, waarmee het de krachtige modellen van OpenAI en Anthropic naar de kroon wil steken.\nThe post Meta lanceert eerste krachtige frontiermodel: Muse Wonder appeared first on Trends.be.",
+   "date": "2026-10-13T10:27:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Character.AI vraagt faillissement aan en zoekt koper",
+   "link": "https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html",
+   "description": "Character.AI wil zichzelf verkopen onder toezicht van een rechtbank. Daarvoor heeft het bedrijf in de VS een Chapter 11-faillissementsaanvraag ingediend. De dienst blijft de komende maanden in elk geval nog online.",
+   "date": "2026-10-13T09:45:41",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "X voegt abonnementen voor X, Grok en Cursor samen",
+   "link": "https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html",
+   "description": "Het bedrijf SpaceXSI van Elon Musk voegt de abonnementen van zijn socialemediaplatform X, codegenerator Cursor en AI-model Grok samen. Alle diensten vallen nu onder één abonnementsdienst, met varianten van 8 tot 200 dollar per maand.",
+   "date": "2026-10-13T08:31:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ontwikkelaar bouwt met AI opensource-alternatieven voor Photoshop, Premiere en Lightroom",
+   "link": "https://www.emerce.nl/nieuws/ontwikkelaar-bouwt-ai-opensourcealternatieven-photoshop-premiere-lightroom",
+   "description": "Software-engineer Brandon Thomas heeft een gratis, opensource-alternatief voor Adobe Creative Cloud ontwikkeld. Het pakket bevat alternatieven voor Photoshop, Illustrator, Premiere, Lightroom, Acrobat, After Effects en InDesign. De apps vallen onder de naam ArtCraft en zijn beschikbaar voor macOS, Windows en Linux.",
+   "date": "2026-10-13T07:45:32",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Artificiële intelligentie is steeds belangrijker in defensie, maar hoe gevaarlijk is dat echt?",
+   "link": "https://businessam.be/artificiele-intelligentie-is-steeds-belangrijker-in-defensie-maar-hoe-gevaarlijk-is-dat-echt/",
+   "description": "Key takeaways De integratie van artificiële intelligentie in de nationale defensie versnelt, waarbij machine learning alles verbetert, van doelwitidentificatie tot missieplanning. Hoewel de belofte van snellere verwerking en snellere reacties wordt gepresenteerd als militaire vooruitgang, versterkt dit in feite een veiligheidsdilemma dat niet met technische oplossingen kan worden opgelost. Pogingen om dit als een puur […]",
+   "date": "2026-10-13T07:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beurs in Seoel onderuit door uitverkoop chipaandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beurs-in-seoel-onderuit-door-uitverkoop-chipaandelen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten dinsdagochtend lager, met de chipgevoelige beurs in Seoel als grootste daler. Zorgen over Chinese concurrentie op de chipmarkt en het rendement op de enorme investeringen in kunstmatige intelligentie drukten het sentiment. De Kospi-index in Seoel verloor 7,5 procent, terwijl de Japanse Nikkei index na een lang weekend meer dan 2 …\nThe post Beurs in Seoel onderuit door uitverkoop chipaandelen appeared first on Trends.be.",
+   "date": "2026-10-13T07:16:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "60 procent van AI-systemen faalt voor terrorismegerelateerde veiligheidstests",
+   "link": "https://businessam.be/60-procent-van-ai-systemen-faalt-voor-terrorismegerelateerde-veiligheidstestss/",
+   "description": "Key takeaways Uit een recente analyse van de Britse non-profitorganisatie Tech Against Terrorism blijkt dat 60 procent van de AI-systemen niet voldeed aan de veiligheidsbeoordelingen met betrekking tot terrorisme. Dat meldt CBC News. Impact van “abliteratie” op veiligheid Het onderzoek omvatte het testen van meer dan 130 verschillende AI-systemen met honderden prompts die waren ontworpen […]",
+   "date": "2026-10-13T06:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI heeft al veranderd hoe consumenten zoeken, kopen is de volgende stap",
+   "link": "https://www.emerce.nl/achtergrond/ai-heeft-al-veranderd-hoe-consumenten-zoeken-kopen-volgende-stap",
+   "description": "Consumenten gebruiken AI niet langer alleen om te zoeken, maar steeds vaker om aankopen direct te voltooien. AI-platforms, retaileragents en persoonlijke agents veranderen e-commerce razendsnel met nieuwe protocollen voor automatisch afrekenen. Toch blijkt het merendeel van de online retailers hier strategisch nog niet op voorbereid.",
+   "date": "2026-10-13T06:22:14",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verbazing om uitspraken topman Meta over AI-bril, Nederlandse stichting spant kort geding aan",
+   "link": "https://www.ad.nl/tech/verbazing-om-uitspraken-topman-meta-over-ai-bril-nederlandse-stichting-spant-kort-geding-aan~a297ba7c/",
+   "description": "De kogel is door de kerk: belangenorganisatie Offlimits stapt naar de rechter om de omstreden AI-bril van Meta uit de Nederlandse winkels te krijgen. De organisatie vraagt dinsdagmiddag een datum aan voor een kort geding bij de rechtbank in Amsterdam, meldt directeur-bestuurder Robbert Hoving aan deze site.",
+   "date": "2026-10-13T06:00:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
   {
    "title": "AI kan zelf virussen ontwerpen, straks ook biowapens?",
    "link": "https://www.nrc.nl/nieuws/2026/10/13/ai-kan-zelf-virussen-ontwerpen-straks-ook-biowapens-a4938837",
