@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T22:06:26",
+ "generated": "2026-10-13T05:21:46",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 158,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 90,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "AI kan zelf virussen ontwerpen, straks ook biowapens?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/13/ai-kan-zelf-virussen-ontwerpen-straks-ook-biowapens-a4938837",
+   "description": "Groot nieuws! Wetenschappers hebben een heel nieuw biologisch virus ontworpen met AI. Goed nieuws, want als ze dat kunnen, kunnen ze met AI ook medicijnen voor allerlei nare…",
+   "date": "2026-10-13T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In deze broze wereldeconomie verzacht de AI-hausse de ergste oorlogsklappen, zegt het IMF",
+   "link": "https://www.nrc.nl/nieuws/2026/10/13/in-deze-broze-wereldeconomie-verzacht-de-ai-hausse-de-ergste-oorlogsklappen-zegt-het-imf-a4938760",
+   "description": "In zijn halfjaarlijkse analyse van de wereldeconomie beschrijft het Internationaal Monetair Fonds hoe kwetsbaar de economische groei is in deze tijden van oorlog en conflict. Energieprijzen kunnen zomaar weer de hoogte in schieten. En schuldbeladen regeringen hebben amper nog ruimte om burgers en bedrijven te helpen.",
+   "date": "2026-10-13T04:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Goedkope drones vernielen peperdure datacenters in een paar tellen en maken miljoenen mensen het leven zuur",
+   "link": "https://www.standaard.be/buitenland/goedkope-drones-vernielen-peperdure-datacenters-in-een-paar-tellen-en-maken-miljoenen-mensen-het-leven-zuur/162943606.html",
+   "description": "Datacenters worden militaire doelwitten. In Rusland, Oekraïne en de Golfstaten ontregelen goedkope drones het digitale leven van miljoenen mensen. De schade loopt op in de miljarden. De disruptie van het digitale leven leidt tot chaos.",
+   "date": "2026-10-12T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Plots duikt Mario op in een duistere fantasywereld – waarom het internet plotseling wordt overspoeld door mash-ups van games",
+   "link": "https://www.standaard.be/media-en-cultuur/plots-duikt-mario-op-in-een-duistere-fantasywereld-waarom-het-internet-plotseling-wordt-overspoeld-door-mash-ups-van-games/162901702.html",
+   "description": "In de afgelopen weken verschenen er online honderden, zo niet duizenden versies van oude videogames die je gratis en voor niets via je browser kunt spelen – ook de mafste ‘remixes’. De recente update van het AI-model Claude Opus speelt een hoofdrol. Zowel gamebedrijven als vrijetijdsmakers maken zich grote zorgen.",
+   "date": "2026-10-12T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De politici raken er niet uit, tijd om AI in te schakelen",
+   "link": "https://www.standaard.be/opinies/de-politici-raken-er-niet-uit-tijd-om-ai-in-te-schakelen/162939847.html",
+   "description": "Een begrotingsmachine zou, zo suggereert Ive Marx, snel komaf maken met flexi-jobs, salariswagens, cheques allerhande, patronale lastenverlagingen, schijnzelfstandigheid en wat ook.",
+   "date": "2026-10-12T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta gooit nieuw AI-model in strijd met OpenAI en Anthropic",
+   "link": "https://www.tijd.be/r/t/1/id/10695350",
+   "description": "De Amerikaanse techreus Meta Platforms heeft maandag een nieuw AI-model gelanceerd, Muse Wonder. Dat kan volgens het bedrijf concurreren met bekende modellen als ChatGPT en Claude.",
+   "date": "2026-10-12T22:32:04",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft onthult Maia 300: AI-chip moet afhankelijkheid van Nvidia verminderen",
+   "link": "https://businessam.be/microsoft-onthult-maia-300-ai-chip-moet-afhankelijkheid-van-nvidia-verminderen/",
+   "description": "Key takeaways In een poging om de operationele kosten te verlagen, heeft Microsoft de Maia 300 onthuld, de derde versie van zijn eigen AI-hardware. Afhankelijkheid van Nvidia verminderen Het bedrijf is van plan om tegen volgend jaar meer dan een miljoen van die processors in zijn interne infrastructuur te integreren ter ondersteuning van een breed […]",
+   "date": "2026-10-12T22:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
   {
    "title": "A no-rules approach to AI is mad politics and worse policy",
    "link": "https://www.nrc.nl/nieuws/2026/10/12/a-no-rules-approach-to-ai-is-mad-politics-and-worse-policy-a4938622",
