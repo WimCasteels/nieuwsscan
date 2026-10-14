@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T03:36:29",
+ "generated": "2026-10-14T17:41:56",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 33,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 162,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,481 @@
   }
  ],
  "articles": [
+  {
+   "title": "Roemloos einde dreigt voor omstreden en ooit mateloos populaire chatbotpionier Character AI",
+   "link": "https://www.volkskrant.nl/tech/roemloos-einde-dreigt-voor-omstreden-en-ooit-mateloos-populaire-chatbotpionier-character-ai~b0e79bbc/",
+   "description": "",
+   "date": "2026-10-14T17:38:25",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Sommige dingen moet je als samenleving niet willen. De slimme AI-bril is zo’n ding",
+   "link": "https://www.demorgen.be/meningen/sommige-dingen-moet-je-als-samenleving-niet-willen-de-slimme-ai-bril-is-zo-n-ding~bdac8881/",
+   "description": "",
+   "date": "2026-10-14T17:30:41",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-klachten overbelasten Belgische klanten- en ombudsdiensten: Vlaamse Ombudsdienst ontwikkelt begeleidingstool",
+   "link": "https://businessam.be/ai-klachten-overbelasten-belgische-klanten-en-ombudsdiensten-vlaamse-ombudsdienst-ontwikkelt-begeleidingstool/",
+   "description": "Key takeaways Klanten- en ombudsdiensten hebben te kampen met een sterke toename van klachten die door artificiële intelligentie worden gegenereerd. Dat meldt Nieuwsblad. De door AI opgestelde berichten worden doorgaans gekenmerkt door een buitensporige lengte, een overdreven agressieve toon en het gebruik van juridische argumenten die vaak irrelevant zijn of niet van toepassing zijn op […]",
+   "date": "2026-10-14T17:20:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML verhoogt verwachtingen dankzij knallende chipvraag",
+   "link": "https://www.tijd.be/r/t/1/id/10695511",
+   "description": "De Nederlandse leverancier van chipmachines ASML verhoogt zijn jaarprognose na alweer een uitstekend derde kwartaal, mede door de sterke groei van de markt voor geheugenchips. Het bedrijf gaat zijn capaciteit op langere termijn verder optrekken.",
+   "date": "2026-10-14T17:05:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Argenx maakt derde van Sjögren-uitschuiver goed",
+   "link": "https://www.tijd.be/r/t/1/id/10695591",
+   "description": "De Europese beurzen krijgen steun van de sterke kwartaalcijfers van ASML. Een hoger dan verwacht Amerikaans inflatierapport bracht ze maar even van de wijs.",
+   "date": "2026-10-14T16:39:36",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese export stijgt in september met 36,3 procent dankzij AI-boom",
+   "link": "https://businessam.be/chinese-export-stijgt-in-september-met-363-procent-dankzij-ai-boom/",
+   "description": "Key takeaways Aangedreven door een dringende drang om goederen vóór de “Gouden Week”-feestdagen te verzenden en een wereldwijde vraag naar technologie, kende de Chinese export in september een aanzienlijke stijging van 36,3 procent tot 447,18 miljard dollar (399,4 miljard euro). Tegelijkertijd steeg de invoer met 31 procent tot 133,53 miljard dollar (119,3 miljard euro), wat […]",
+   "date": "2026-10-14T16:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Slimme bril helpt me bij aankleden en de weg zoeken\": blinden en slechtzienden vrezen dat hulpmiddel verboden wordt",
+   "link": "https://vrtnws.be/p.BlXyd7yN4",
+   "description": "Terwijl privacywaakhonden pleiten voor strengere regels of zelfs een verbod op slimme brillen als de Meta-bril, betekent die technologie voor blinden en slechtzienden net een wereld van verschil. Voor velen is de bril met ingebouwde camera, luidspreker en AI-functies een hulpmiddel in het dagelijkse leven. \"Een verbod zou vreselijk zijn. Het geeft ons net het gevoel dat we zelfstandig zijn.\"",
+   "date": "2026-10-14T15:31:04",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML boekt recordomzet dankzij AI-boom en ziet vraag naar chipmachines verder stijgen",
+   "link": "https://businessam.be/asml-boekt-recordomzet-dankzij-ai-boom-en-ziet-vraag-naar-chipmachines-verder-stijgen/",
+   "description": "Key takeaways De opmars van artificiële intelligentie stuwde de Nederlandse fabrikant van halfgeleiderapparatuur ASML naar een recordkwartaal. Het bedrijf uit Veldhoven boekte in het derde kwartaal een recordomzet van 11,7 miljard euro. De nettowinst bedroeg 4,96 miljard euro, meer dan het dubbele van die in dezelfde periode vorig jaar. AI stuwt de vraag naar chipmachines […]",
+   "date": "2026-10-14T15:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google DeepMind-topman waarschuwt: “AI kan binnen 1 à 2 jaar grote incidenten veroorzaken”",
+   "link": "https://www.hln.be/buitenland/google-deepmind-topman-waarschuwt-ai-kan-binnen-1-a-2-jaar-grote-incidenten-veroorzaken~a0c28b7a/",
+   "description": "Artificiële intelligentie kan binnen één à twee jaar “grote incidenten” veroorzaken als overheden en bedrijven de technologie niet veiliger maken. Daarvoor heeft Demis Hassabis, medeoprichter van Google DeepMind, woensdag gewaarschuwd tijdens een AI-top in Dublin.",
+   "date": "2026-10-14T14:52:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie Amsterdam neemt op Amerikaans verzoek server in beslag van Italiaanse internetdienstverlener A/I: organisatie zou ‘antifa’ faciliteren",
+   "link": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
+   "description": "Dinsdag is bij een datacenter op het Science Park in Amsterdam een server in beslag genomen van de Italiaanse internetdienstverlener Autistici/Inventati, op basis van een Amerikaans rechtshulpverzoek.",
+   "date": "2026-10-14T14:44:36",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kennissessie ChatGPT Ads",
+   "link": "https://www.emerce.nl/videos/kennissessie-chatgpt-ads",
+   "description": "ChatGPT toont sinds eind augustus advertenties aan Nederlandse gebruikers. Sinds begin september kunnen merken via de Ads Manager zelf campagnes opzetten. OpenAI heeft de ambitie uitgesproken om er op termijn 100 miljard dollar per jaar mee om te zetten.",
+   "date": "2026-10-14T14:40:51",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ECB-econoom waarschuwt dat AI de onderhandelingspositie van werknemers bij loonsverhogingen kan verzwakken",
+   "link": "https://businessam.be/ecb-hoofdeconoom-waarschuwt-dat-ai-de-onderhandelingspositie-van-werknemers-bij-loonsverhogingen-kan-verzwakken/",
+   "description": "Key takeaways Philip Lane, hoofdeconoom bij de Europese Centrale Bank, suggereerde dinsdag dat de invoering van AI door bedrijven in de eurozone de onderhandelingspositie van werknemers bij het bedingen van loonsverhogingen zou kunnen verzwakken. Hij merkte op dat AI weliswaar nog geen algemene verschuivingen in de werkgelegenheidspatronen teweeg heeft gebracht, maar dat terughoudendheid bij het […]",
+   "date": "2026-10-14T14:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Welke jobs worden het meest bedreigd door AI? ‘Iedereens job zal veranderen, die van u en die van mij’",
+   "link": "https://www.demorgen.be/nieuws/welke-jobs-worden-het-meest-bedreigd-door-ai-iedereens-job-zal-veranderen-die-van-u-en-die-van-mij~b5aa8c8c/",
+   "description": "",
+   "date": "2026-10-14T14:30:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Medeoprichter Google Deepmind waarschuwt voor \"grote incidenten\" door AI binnen 1 tot 2 jaar",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/medeoprichter-google-deepmind-waarschuwt-voor-grote-incidenten~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-14T14:27:23",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Medeoprichter Google Deepmind waarschuwt voor “grote incidenten” door AI binnen 1 à 2 jaar",
+   "link": "https://www.gva.be/economie/bedrijven/medeoprichter-google-deepmind-waarschuwt-voor-grote-incidenten-door-ai-binnen-1-a-2-jaar/163058431.html",
+   "description": "Artificiële intelligentie zou binnen 1 tot 2 jaar al “grote incidenten” kunnen veroorzaken als overheden en bedrijven geen maatregelen nemen om de technologie veiliger te maken. Daarvoor heeft Demis Hassabis, medeoprichter van Google Deepmind, woensdag gewaarschuwd.",
+   "date": "2026-10-14T14:24:26",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Humanoïde gevechtsrobots worden momenteel in de praktijk getest, zegt militair expert",
+   "link": "https://businessam.be/humanoide-gevechtsrobots-worden-momenteel-in-de-praktijk-getest-zegt-militair-expert/",
+   "description": "Key takeaways Alexander Syrsky, het voormalige hoofd van het Oekraïense leger, heeft aangegeven dat humanoïde gevechtsrobots het conceptstadium achter zich hebben gelaten en momenteel veldproeven ondergaan. Hij suggereert dat deze autonome machines, naarmate kunstmatige intelligentie zich verder ontwikkelt, waarschijnlijk traditionele gevechtsstrategieën zullen veranderen. Moderne oorlogsvoering De voormalige commandant benadrukt dat oorlogsvoering steeds geavanceerder wordt. Het […]",
+   "date": "2026-10-14T14:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google prijst de mogelijkheden van nieuw AI-model Gemini 4 Argon",
+   "link": "https://businessam.be/google-prijst-de-mogelijkheden-van-nieuw-ai-model-gemini-4-argon/",
+   "description": "Key takeaways Google heeft Gemini 4 Argon officieel gelanceerd, een krachtig AI-model dat wereldwijd toegankelijk is via de Gemini-app, Google Zoeken en een API. Voor individuele gebruikers is een Pro-lidmaatschap van 21,99 euro per maand vereist om toegang te krijgen. Ontwikkelaars krijgen momenteel een tijdelijke korting en betalen 2 dollar (1,79 euro) per miljoen invoertokens […]",
+   "date": "2026-10-14T13:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia wil 2 miljard dollar investeren in nieuwe Europese AI-initiatieven",
+   "link": "https://businessam.be/nvidia-wil-2-miljard-dollar-investeren-in-nieuwe-europese-ai-initiatieven/",
+   "description": "Key takeaways Jensen Huang maakte onlangs in Parijs bekend dat Nvidia van plan is om de komende week voor 2 miljard dollar (1,7 miljard euro) aan nieuwe Europese initiatieven aan te kondigen. Die aankondiging vormt het begin van een tournee door Europa, met onder meer stops in Berlijn en Londen. In de afgelopen twaalf maanden […]",
+   "date": "2026-10-14T13:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Steeds meer klachten geschreven door AI: Vlaamse ombudsdienst roept op om geen \"epistels vol juridisch jargon\" te sturen",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/14/vlaamse-ombudsdienst-tool-ai-klachten/",
+   "description": "De Vlaamse Ombudsdienst heeft een eigen AI-prompt ontwikkeld voor mensen die artificiële intelligentie gebruiken om een klacht in te dienen. Ombudsdiensten worden de laatste tijd overspoeld door \"uitgebreide en dwingende AI-epistels vol met juridisch jargon, dat vaak ook fout wordt gebruikt\".",
+   "date": "2026-10-14T12:52:22",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Steeds meer klachten geschreven door AI: Vlaamse ombudsdienst roept op om geen \"epistels vol juridisch jargon\" te sturen",
+   "link": "https://vrtnws.be/p.y3mMl306O",
+   "description": "De Vlaamse Ombudsdienst heeft een eigen AI-prompt ontwikkeld voor mensen die artificiële intelligentie gebruiken om een klacht in te dienen. Ombudsdiensten worden de laatste tijd overspoeld door \"uitgebreide en dwingende AI-epistels vol met juridisch jargon, dat vaak ook fout wordt gebruikt\". Dat schrijft Gazet Van Antwerpen.",
+   "date": "2026-10-14T12:52:22",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Provider Onze.nl neemt voortaan ook gesprekspartners op voor AI-transcripties",
+   "link": "https://tweakers.net/nieuws/253230/provider-onze-punt-nl-neemt-voortaan-ook-gesprekspartners-op-voor-ai-transcripties.html",
+   "description": "De Nederlandse provider Onze.nl neemt voortaan audio van gesprekspartners op. Eerst verwerkte de provider alleen de stem van de beller. De geïntegreerde AI-assistent maakt hier vervolgens samenvattingen en transcripties van.",
+   "date": "2026-10-14T12:15:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Halfgeleideraandelen verliezen terrein door groeiende twijfels over AI-investeringen",
+   "link": "https://businessam.be/halfgeleideraandelen-verliezen-terrein-door-groeiende-twijfels-over-ai-investeringen/",
+   "description": "Key takeaways De halfgeleiderindustrie kampt met de grootste terugval in bijna achttien maanden. Toenemende zorgen over de uitgaven aan AI zetten de aandelenkoersen onder druk. Dat meldt MarketWatch in een analyse. Voor het eerst sinds mei 2025 hebben chipgerelateerde aandelen een langdurige daling doorgemaakt, waardoor aandeelhouders zich afvragen welke factoren uiteindelijk een herstel zouden kunnen […]",
+   "date": "2026-10-14T12:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De wereld schreeuwt om chips, en daarom wil machinefabrikant ASML de productie nog verder opvoeren",
+   "link": "https://www.trouw.nl/laatste-nieuws/de-wereld-schreeuwt-om-chips-en-daarom-wil-machinefabrikant-asml-de-productie-nog-verder-opvoeren~b444d9e9/",
+   "description": "",
+   "date": "2026-10-14T12:06:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Duitsers willen geen door AI geschreven boeken",
+   "link": "https://www.emerce.nl/nieuws/duitsers-willen-geen-door-ai-geschreven-boeken",
+   "description": "Duitsers staan terughoudend tegenover het gebruik van kunstmatige intelligentie bij het schrijven van boeken. Voor het vertalen van boeken zien zij daarentegen wel een duidelijke rol voor AI.",
+   "date": "2026-10-14T12:00:06",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen hoger in aanloop naar Amerikaanse inflatiecijfers",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-hoger-in-aanloop-naar-amerikaanse-inflatiecijfers/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa noteerden woensdag rond lunchtijd hoger in afwachting van de Amerikaanse inflatiecijfers, terwijl de sterke cijfers van ASML de chippers wat lucht gaven na de recente dalingen.Rond het middaguur won de Stoxx Europe 600 index 0,5 procent op 637,96 punten en steeg de Duitse DAX 0,4 procent op 25.361 punten. …\nThe post Europese beurzen hoger in aanloop naar Amerikaanse inflatiecijfers appeared first on Trends.be.",
+   "date": "2026-10-14T11:48:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple brengt nieuwe smart home-hub HomeView niet uit in de Europese Unie door conflict over AI-regels",
+   "link": "https://businessam.be/apple-brengt-nieuwe-smart-home-hub-homeview-niet-uit-in-de-europese-unie-door-conflict-over-ai-regels/",
+   "description": "Key takeaways Apple heeft aangekondigd dat het zijn nieuwste smart home-hub, HomeView, niet in de Europese Unie zal uitbrengen. De beslissing volgt op een conflict met Europese regelgevers over de toegang tot gebruikersgegevens voor AI-diensten. EU loopt geavanceerde Siri-functies mis Het apparaat is bedoeld om het beheer van verbonden apparaten in huis te stroomlijnen, voornamelijk […]",
+   "date": "2026-10-14T11:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Plagiaatchecker wil studentenscripties gebruiken om AI te trainen",
+   "link": "https://www.trouw.nl/onderwijs/plagiaatchecker-wil-studentenscripties-gebruiken-om-ai-te-trainen~be98a17a/",
+   "description": "",
+   "date": "2026-10-14T11:12:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beursupdate: Lotus Bakeries hoger in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-lotus-bakeries-hoger-in-groene-bel20/",
+   "description": "(ABM FN) De Brusselse beurs koerste woensdagochtend hoger, met Lotus Bakeries en WDP als grootste stijgers. Kort na de klok van elf uur won de Bel20 0,5 procent tot 5.522,30 punten.De cijfers van ASML vanochtend bevestigen dat de AI-hype nog niet voorbij is, stelde investment manager Simon Wiersma van ING. ASML presenteerde beter dan verwachte kwartaalresultaten …\nThe post Beursupdate: Lotus Bakeries hoger in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-10-14T11:10:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe ga je om met AI op de werkvloer?",
+   "link": "https://www.standaard.be/inspiratie/helpdesk/hoe-ga-je-om-met-ai-op-de-werkvloer/162926471.html",
+   "description": "Een moeilijke mail herschrijven of de essentie halen uit complexe documenten: ook op de werkvloer wordt een chatbot een handig hulpmiddel. Toch is er nog veel schroom over AI-gebruik op de werkvloer. Wat is er nodig om daarover een open gesprek te voeren?",
+   "date": "2026-10-14T10:55:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-medewerker beschuldigd van plaatsen afluisterapparaat in vergaderzaal",
+   "link": "https://www.security.nl/posting/957529/OpenAI-medewerker+beschuldigd+van+plaatsen+afluisterapparaat+in+vergaderzaal?channel=rss",
+   "description": "De Amerikaanse autoriteiten hebben een 35-jarige Saoedische medewerker van OpenAI aangeklaagd voor het plaatsen van ...",
+   "date": "2026-10-14T10:50:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI helpt warmteverlies in Brugse woningen te beperken",
+   "link": "https://trends.knack.be/ai-en-tech/best-practices/ai-helpt-warmteverlies-in-brugse-woningen-te-beperken/",
+   "description": "ThermAI, een project van Stad Brugge en de West-Vlaamse Intercommunale (WVI), onderzocht of AI thermografische scans kan verwerken. Dankzij automatisering zouden namelijk meer burgers kunnen gesensibiliseerd worden om hun woning te isoleren, en het aantal warmteverliezende voorgevels in de stad kunnen dalen. De resultaten zijn positief. \nThe post AI helpt warmteverlies in Brugse woningen te beperken appeared first on Trends.be.",
+   "date": "2026-10-14T10:48:52",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgisch universitair onderzoek toont hoe AI-agenten hun eigen natuurlijke taal ontwikkelen om te communiceren",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/belgisch-universitair-onderzoek-toont-hoe-ai-agenten-hun-eigen-natuurlijke-taal-ontwikkelen-om-te-communiceren/",
+   "description": "Onderzoekers van het Artificial Intelligence Lab van de VUB en de Universiteit van Namen (UNamur) tonen in een nieuwe grootschalige studie aan hoe autonome AI-systemen zonder menselijke tussenkomst spontaan een functionele, gedeelde taal kunnen ontwikkelen.\nThe post Belgisch universitair onderzoek toont hoe AI-agenten hun eigen natuurlijke taal ontwikkelen om te communiceren appeared first on Trends.be.",
+   "date": "2026-10-14T10:33:41",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Agentic commerce: hoe ver geef je de klant uit handen?",
+   "link": "https://www.emerce.nl/videos/agentic-commerce-hoe-ver-geef-klant-uit-handen",
+   "description": "Als consumenten straks via AI zoeken en bestellen, moet je als merk aanwezig zijn waar de klant zich bevindt. Maar […]",
+   "date": "2026-10-14T10:29:18",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google AI Plus-abonnees verliezen op 13 november toegang tot Pro-modellen Gemini",
+   "link": "https://tweakers.net/nieuws/253296/google-ai-plus-abonnees-verliezen-op-13-november-toegang-tot-pro-modellen-gemini.html",
+   "description": "Google AI Plus-abonnees hebben vanaf 13 november geen toegang meer tot de Pro-modellen van Gemini. Ze kunnen dan alleen nog de Flash-Lite- en Flash-modellen gebruiken. Om Pro te kunnen blijven gebruiken moeten abonnees overstappen op het AI Pro-abonnement.",
+   "date": "2026-10-14T10:06:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS arresteert OpenAI-werknemer voor plaatsen opnameapparaat in vergaderzaal",
+   "link": "https://tweakers.net/nieuws/253294/vs-arresteert-openai-werknemer-voor-plaatsen-opnameapparaat-in-vergaderzaal.html",
+   "description": "Een werknemer van OpenAI is opgepakt omdat hij een opnameapparaatje zou hebben geplaatst in een vergaderzaal van het bedrijf. Hij werkte aan OpenAI's agenttools. Het is onduidelijk wat zijn motieven waren.",
+   "date": "2026-10-14T09:18:46",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "XBOX richt Labs-team op voor browserports na golf AI-decompilaties",
+   "link": "https://tweakers.net/nieuws/253292/xbox-richt-labs-team-op-voor-browserports-na-golf-ai-decompilaties.html",
+   "description": "XBOX richt een nieuw team op met de naam XBOX Labs. Het team gaat zich onder meer richten op het decompileren en recompileren van games, zodat ze op andere hardware of in browsers kunnen draaien.",
+   "date": "2026-10-14T08:15:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Plan - Dev Summit 2026: AI binnen Europese muren: hoe Scrydon een sovereign AI OS bouwt",
+   "link": "https://tweakers.net/plan/4852/dev-summit-2026-ai-binnen-europese-muren-hoe-scrydon-een-sovereign-ai-os-bouwt.html",
+   "description": "Scrydon bouwt een sovereign AI operating system dat ook binnen de eigen infrastructuur van een organisatie kan draaien.",
+   "date": "2026-10-14T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rechtszaak tegen Apple over scraping van YouTube-video’s gaat door",
+   "link": "https://www.emerce.nl/nieuws/rechtszaak-tegen-apple-scraping-youtubevideos-gaat-door",
+   "description": "Apple moet zich voor de rechter verantwoorden voor beschuldigingen dat het bedrijf YouTube-video’s zonder toestemming heeft verzameld om generatieve AI-modellen te trainen. Die modellen kunnen op basis van tekstbeschrijvingen video’s genereren. Een Amerikaanse federale rechter heeft besloten dat de rechtszaak mag doorgaan.",
+   "date": "2026-10-14T07:45:27",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML haalt outlook en scherpt jaardoel aan",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/asml-haalt-outlook-en-scherpt-jaardoel-aan/",
+   "description": "(ABM FN-Dow Jones) ASML heeft in het derde kwartaal de eigen outlook gehaald en scherpte de jaardoelstellingen naar boven aan. Dit bleek woensdag uit de cijfers van de halfgeleidergigant uit Veldhoven. \"Onze klanten blijven hun prognoses voor de vraag naar apparatuur op de korte en middellange termijn naar boven bijstellen, voornamelijk aangejaagd door hun visie op …\nThe post ASML haalt outlook en scherpt jaardoel aan appeared first on Trends.be.",
+   "date": "2026-10-14T07:10:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlands MKB ziet AI als productiemiddel, geen groeimotor",
+   "link": "https://www.emerce.nl/nieuws/nederlands-mkb-ziet-ai-productiemiddel-geen-groeimotor",
+   "description": "Marketeers in het Nederlandse MKB gebruiken AI vooral als versneller van het maakwerk, niet als vehikel voor algemene groeiversnelling van de organisatie.",
+   "date": "2026-10-14T06:34:16",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Broadcom-topman Hock Tan vergelijkt AI-investeerders met “gokkers in een casino”",
+   "link": "https://businessam.be/broadcom-topman-hock-tan-vergelijkt-ai-investeerders-met-gokkers-in-een-casino/",
+   "description": "Key takeaways Hock Tan, de CEO van Broadcom, vergeleek onlangs een aanzienlijk deel van de AI-investeerders met gokkers in een casino. Tijdens een bijeenkomst in Singapore stelde Tan dat veel mensen die geld in de sector pompen de technologie die ze steunen niet echt begrijpen, wat leidt tot onrealistische verwachtingen. Misvatting over de fundamenten De […]",
+   "date": "2026-10-14T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opname-apparaatje ontdekt in vergaderzaal OpenAI, medewerker opgepakt",
+   "link": "https://nos.nl/l/2634884",
+   "description": "AI-ontwikkelaar OpenAI heeft opname-apparatuur ontdekt in een van de eigen kantoren. Het Amerikaanse bedrijf spreekt van een \"geavanceerd opname-apparaat\". Het was geplaatst in een vergaderzaal in San Francisco waar vaak bedrijfsgevoelige informatie wordt besproken.\n        OpenAI deed de ontdekking eind september. Het apparaatje was gewikkeld in wc-papier en zat in de usb-poort van een televisie. Daar zat het toen waarschijnlijk al twee dagen, zegt de FBI, die het onderzoek naar de kwestie leidt.\n        Al snel leidde het spoor naar een Saudische werknemer van OpenAI. Die was te zien op camerabeelden bij de vergaderzaal, waar hij officieel geen toegang toe had. Ook zou de man (35) in de dagen ervoor opdrachten aan een AI-chatbot hebben gegeven die te maken hadden met het maken en opslaan van geluidsopnames.\n        Verder is op camerabeelden te zien hoe de man achter de bewuste televisie naar iets lijkt te zoeken. Het opname-apparaatje was toen al ontdekt en verwijderd.\n        Jarenlange celstraf dreigt\n        De Saudische man is op 9 oktober opgepakt. Hij kan tot vijf jaar cel en een boete van maximaal 250.000 dollar krijgen. OpenAI heeft hem meteen op straat gezet. Het bedrijf zegt op X geen aanwijzingen te hebben dat hij waardevolle informatie in handen heeft gekregen.\n        FBI-baas Kash Patel ziet in de zaak het bewijs dat het beschermen van Amerikaanse AI essentieel is voor de nationale veiligheid en economische voorspoed van het land. \"De FBI beschouwt deze missie dan ook als een van de hoogste prioriteiten op het gebied van contraspionage\", zegt hij in een verklaring van de Amerikaanse justitie.",
+   "date": "2026-10-14T04:24:33",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat is de impact van AI voor u? Bekijk hier hoe automatiseerbaar uw beroep is",
+   "link": "https://www.demorgen.be/beter-leven/wat-is-de-impact-van-ai-voor-u-bekijk-hier-hoe-automatiseerbaar-uw-beroep-is~bfa13061/",
+   "description": "",
+   "date": "2026-10-14T03:59:00",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Klanten- en ombudsdiensten met de handen in het haar door AI: klachtenmails steeds vaker met artificiële intelligentie opgesteld",
    "link": "https://www.gva.be/economie/klanten-en-ombudsdiensten-met-de-handen-in-het-haar-door-ai-klachtenmails-steeds-vaker-met-artificiele-intelligentie-opgesteld/163027995.html",
@@ -355,6 +830,28 @@
    "date": "2026-10-13T23:59:00",
    "feeds": [
     "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zwaardvechten met Mario:  door AI wordt het internet overspoeld met mash-ups van games",
+   "link": "https://www.standaard.be/media-en-cultuur/zwaardvechten-met-mario-door-ai-wordt-het-internet-overspoeld-met-mash-ups-van-games/162901702.html",
+   "description": "De voorbije weken verschenen er dankzij AI honderden versies van oude videogames die je gratis en voor niets via je browser kunt spelen – ook de mafste ‘remixes’. Zowel gamebedrijven als amateurmakers maken zich grote zorgen.",
+   "date": "2026-10-13T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gents AI-bedrijf Aikido evolueert in sneltempo naar een waarde van 2 miljard dollar: “Dat we Europees zijn, is voor bepaalde klanten een troef”",
+   "link": "https://www.standaard.be/economie/gents-ai-bedrijf-aikido-evolueert-in-sneltempo-naar-een-waarde-van-2-miljard-dollar-dat-we-europees-zijn-is-voor-bepaalde-klanten-een-troef/162988404.html",
+   "description": "Kunnen Belgische bedrijven meespelen in de AI-race tussen de VS en China? Het Gentse Aikido probeert het. “Wij hacken beter dan Mythos”",
+   "date": "2026-10-13T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-10-14",
    "intro_geprobeerd": false
@@ -552,7 +1049,8 @@
    "description": "",
    "date": "2026-10-13T17:48:00",
    "feeds": [
-    "De Morgen - In Het Nieuws"
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-10-13",
    "intro_geprobeerd": true
