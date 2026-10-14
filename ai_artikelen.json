@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T19:55:56",
+ "generated": "2026-10-14T03:36:29",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 27,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 153,
+   "count": 158,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
@@ -315,6 +315,160 @@
   }
  ],
  "articles": [
+  {
+   "title": "Klanten- en ombudsdiensten met de handen in het haar door AI: klachtenmails steeds vaker met artificiële intelligentie opgesteld",
+   "link": "https://www.gva.be/economie/klanten-en-ombudsdiensten-met-de-handen-in-het-haar-door-ai-klachtenmails-steeds-vaker-met-artificiele-intelligentie-opgesteld/163027995.html",
+   "description": "Klanten- en ombudsdiensten kreunen onder de toevloed van klachtenbrieven die met behulp van AI zijn opgesteld. “Ellenlange epistels, erg dwingend van toon, vol juridische argumenten die niet altijd kloppen.” De Vlaamse Ombudsdienst lanceert daarom nu zelfs een eigen AI-tool, zodat het niet compleet uit de hand loopt.",
+   "date": "2026-10-14T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De Standaard zoekt Belgische start-ups die met AI de toekomst positief willen veranderen",
+   "link": "https://www.standaard.be/economie/de-standaard-zoekt-belgische-start-ups-die-met-ai-de-toekomst-positief-willen-veranderen/163023525.html",
+   "description": "De Standaard lanceert een wedstrijd om op zoek te gaan naar start-ups die met AI de grenzen willen verleggen van wat haalbaar is. Een jury van toppers uit de Belgische techscene kiest eerst een shortlist en dan, samen met u, beste lezer, de AI-opener van 2026.",
+   "date": "2026-10-13T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gents Aikido ademt de sfeer van Silicon Valley: “Maar wij hacken beter dan Mythos”",
+   "link": "https://www.standaard.be/economie/gents-aikido-ademt-de-sfeer-van-silicon-valley-maar-wij-hacken-beter-dan-mythos/162988404.html",
+   "description": "Kunnen Belgische bedrijven meespelen in de AI-race tussen de VS en China? Het Gentse Aikido evolueert in sneltempo naar een waarde van 2 miljard dollar. “Dat we Europees zijn, is voor bepaalde klanten een troef.”",
+   "date": "2026-10-13T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hey ChatGPT, op wie moet ik stemmen?",
+   "link": "https://www.standaard.be/opinies/hey-chatgpt-op-wie-moet-ik-stemmen/163016331.html",
+   "description": "Bij Facebook ontdekten we de schade pas achteraf, via klokkenluiders. Bij taalmodellen zien we de pogingen om kiezers te bespelen nu al. Grijpen we nu wel op tijd in, vraagt Jurgen Masure zich af.",
+   "date": "2026-10-13T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Saudische ingenieur aangeklaagd voor verstoppen opnameapparatuur bij OpenAI",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/13/saudische-ingenieur-aangeklaagd-voor-verstoppen-opnameapparatuur/",
+   "description": "Een 35-jarige Saudische ingenieur van OpenAI is aangeklaagd omdat hij in het geheim opnameapparatuur zou hebben verstopt in een vergaderzaal van het bedrijf in San Francisco. Abdulrahman Alfozan werd op vrijdag 9 oktober gearresteerd en verscheen vandaag voor een federale rechter.",
+   "date": "2026-10-13T23:46:20",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Saudische ingenieur aangeklaagd voor verstoppen opnameapparatuur bij OpenAI",
+   "link": "https://vrtnws.be/p.8eXxD40LY",
+   "description": "Een 35-jarige Saudische ingenieur van OpenAI is aangeklaagd omdat hij in het geheim opnameapparatuur zou hebben verstopt in een vergaderzaal van het bedrijf in San Francisco. Abdulrahman Alfozan werd op vrijdag 9 oktober gearresteerd en verscheen vandaag voor een federale rechter. Hij wordt ervan beschuldigd gesprekken te hebben willen onderscheppen.",
+   "date": "2026-10-13T23:46:20",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Medewerker OpenAI gearresteerd voor plaatsen van verborgen afluisterapparaat",
+   "link": "https://www.nu.nl/tech/6413062/medewerker-openai-gearresteerd-voor-plaatsen-van-verborgen-afluisterapparaat.html",
+   "description": "Een medewerker van OpenAI is afgelopen vrijdag gearresteerd voor het plaatsen van een afluisterapparaat in de vergaderzaal van de directie. De medewerker is aangeklaagd en inmiddels ontslagen, meldt het bedrijf dinsdag op X.",
+   "date": "2026-10-13T23:20:01",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bloomberg: Epic Games stelt Disney-spel uit, vraagt ontwikkelaars meer AI te gebruiken",
+   "link": "https://www.hln.be/games/bloomberg-epic-games-stelt-disney-spel-uit-vraagt-ontwikkelaars-meer-ai-te-gebruiken~a0e2680c/",
+   "description": "Gamestudio Epic Games heeft een onaangekondigd project met Disney uitgesteld en wil dat zijn ontwikkelaars meer AI gebruiken om games te maken. Dat meldt persbureau Bloomberg op basis van anonieme bronnen.",
+   "date": "2026-10-13T23:12:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ontdekt opnameapparatuur in kantoor, medewerker opgepakt",
+   "link": "https://www.hln.be/tech/openai-ontdekt-opnameapparatuur-in-kantoor-medewerker-opgepakt~a741eac1/",
+   "description": "OpenAI heeft een “geavanceerd opnameapparaat” ontdekt dat in een van de kantoren van het bedrijf was verstopt. Dat meldt de maker van ChatGPT woensdag in een bericht op socialemediaplatform X en wordt bevestigd door het Amerikaanse ministerie van Justitie.",
+   "date": "2026-10-13T22:59:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta lanceert nieuw AI-model: Muse Wonder",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/meta-lanceert-nieuw-aimodel-muse-wonder~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-13T22:50:53",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street: chipsector beperkt verlies, Bumble vlamt na overname",
+   "link": "https://www.tijd.be/r/t/1/id/10695502",
+   "description": "De Amerikaanse beurzen beëindigden een volatiele sessie dicht bij huis. De datingapp Bumble vlamde na een overnamebod, terwijl de beleggers zich zorgen blijven maken over de waarderingen in de chipsector.",
+   "date": "2026-10-13T22:36:42",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bekijk – IMF waarschuwt voor AI en oplopende begrotingstekorten",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/imf-waarschuwt-voor-ai-en-oplopende-begrotingstekorten/",
+   "description": "Het Internationaal Monetair Fonds (IMF) waarschuwt de regeringen wereldwijd voor de gevolgen van artificiële intelligentie (AI), dure olie en oplopende begrotingstekorten.\nThe post Bekijk – IMF waarschuwt voor AI en oplopende begrotingstekorten appeared first on Trends.be.",
+   "date": "2026-10-13T20:53:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google brengt Gemini 4 Argon na uitstel om cyberzorgen alsnog uit",
+   "link": "https://tweakers.net/nieuws/253284/google-brengt-gemini-4-argon-na-uitstel-om-cyberzorgen-alsnog-uit.html",
+   "description": "Google heeft zijn Gemini 4 Argon-model uitgebracht. Het model is beschikbaar voor Pro- en Ultra-abonnees in de Gemini-app en de AI-modus in Google Zoeken. Google Ultra-gebruikers kunnen Argon ook gebruiken in Googles softwareontwikkelingsprogramma Antigravity.",
+   "date": "2026-10-13T20:05:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van AI-demo naar digitale collega",
+   "link": "https://www.emerce.nl/videos/aidemo-digitale-collega",
+   "description": "Een AI-agent bouwen is inmiddels relatief eenvoudig. De echte uitdaging begint wanneer die agent onderdeel wordt van een bedrijfsproces en […]",
+   "date": "2026-10-13T20:02:46",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-14",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Nieuwe thuisassistent van Apple niet beschikbaar in Europese Unie",
    "link": "https://www.gva.be/economie/bedrijven/nieuwe-thuisassistent-van-apple-niet-beschikbaar-in-europese-unie/163027746.html",
@@ -555,6 +709,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-10-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huizen op Funda onherkenbaar door AI-foto's: 'Had geen zin om te bezichtigen'",
+   "link": "https://www.nu.nl/nujij/6412909/huizen-op-funda-onherkenbaar-door-ai-fotos-had-geen-zin-om-te-bezichtigen.html",
+   "description": "Met kunstmatige intelligentie kunnen makelaars huizen op Funda flink oppoetsen. Ze kunnen bijvoorbeeld muren doorbreken of lege kamers inrichten. Sommige potentiële kopers herkennen de woning tijdens de bezichtiging daardoor niet meer terug. \"Het had geen zin om te bezichtigen.\"",
+   "date": "2026-10-13T12:00:31",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-14",
    "intro_geprobeerd": false
   },
   {
