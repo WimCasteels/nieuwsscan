@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T17:41:56",
+ "generated": "2026-10-15T03:13:33",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 160,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 95,
    "error": null
   },
   {
@@ -315,6 +315,129 @@
   }
  ],
  "articles": [
+  {
+   "title": "Emerce Rapport De Impact van AI op Digital Agencies (richting 2027)",
+   "link": "https://www.emerce.nl/knowledgebase/emerce-rapport-impact-ai-digital-agencies-2027",
+   "description": "Voor het derde jaar op rij heeft Emerce onderzocht welke impact AI heeft op digital agencies en hoe zij daarop […]",
+   "date": "2026-10-15T02:46:21",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Update: Miljardeninvestering in Amerikaanse chipsector",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/update-miljardeninvestering-in-amerikaanse-chipsector/",
+   "description": "(ABM FN-Dow Jones) GlobalFoundries is geselecteerd als de officiële technologieleverancier en exploitant van twee nieuwe productiefaciliteiten voor halfgeleiders. Dat gebeurde in het kader van een Amerikaans-Japans initiatief dat voorziet in financiering voor de Amerikaanse chipindustrie. Dat meldde de Amerikaanse chipfabrikant woensdag op zijn website.Het project vloeit voort uit de nieuwe handels- en investeringsovereenkomst van de Amerikaanse president Donald …\nThe post Update: Miljardeninvestering in Amerikaanse chipsector appeared first on Trends.be.",
+   "date": "2026-10-15T01:05:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "UZ Brussel laat chemokuur door robot bereiden: “Veiliger en preciezer”",
+   "link": "https://www.standaard.be/binnenland/uz-brussel-laat-chemokuur-door-robot-bereiden-veiliger-en-preciezer/163042756.html",
+   "description": "In plaats van door mensenhanden worden chemokuren in het UZ Brussel sinds kort door een robot samengesteld. Het is de eerste volautomatische robot met die functie in ons land. Jaarlijks zullen er 16.000 bereidingen mee worden gemaakt, voor zowat 1.500 patiënten.",
+   "date": "2026-10-14T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Miljardeninvestering in Amerikaanse chipsector",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/miljardeninvestering-in-amerikaanse-chipsector/",
+   "description": "(ABM FN-Dow Jones) GlobalFoundries is geselecteerd als de officiële technologieleverancier en exploitant van twee nieuwe productiefaciliteiten voor halfgeleiders. Dat gebeurt in het kader van een Amerikaans-Japans initiatief dat voorziet in financiering voor de Amerikaanse chipindustrie. Dat meldde de Amerikaanse chipfabrikant donderdag op zijn website.Het project vloeit voort uit de nieuwe handels- en investeringsovereenkomst van de Amerikaanse president Donald …\nThe post Miljardeninvestering in Amerikaanse chipsector appeared first on Trends.be.",
+   "date": "2026-10-14T23:49:39",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft en OpenAI pleiten voor strengere wettelijke regels om AI veiliger te maken",
+   "link": "https://businessam.be/microsoft-en-openai-pleiten-voor-strengere-wettelijke-regels-om-ai-veiliger-te-maken/",
+   "description": "Key takeaways Tijdens de Internationale AI-top van 2026 in Ierland pleitten leiders van Microsoft en OpenAI voor de invoering van formele wettelijke kaders om AI te reguleren, met het argument dat louter waarschuwingen over mogelijke gevaren ontoereikend zijn. Brad Smith, vicevoorzitter van Microsoft, stelde dat de sector de verantwoordelijkheid heeft om schade actief te voorkomen […]",
+   "date": "2026-10-14T22:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Acht Amerikaanse staten slepen OpenAI voor de rechter omdat ChatGPT kinderen schade zou toebrengen",
+   "link": "https://www.gva.be/economie/bedrijven/acht-amerikaanse-staten-slepen-openai-voor-de-rechter-omdat-chatgpt-kinderen-schade-zou-toebrengen/163085919.html",
+   "description": "Iowa, Kansas en zes andere Amerikaanse staten slepen OpenAI voor rechtbanken in het hele land vanwege de schade die ChatGPT volgens hen aan kinderen heeft toegebracht. Ze beweren dat de chatbot kinderen heeft aangemoedigd om zichzelf of anderen schade toe te brengen.",
+   "date": "2026-10-14T21:09:01",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgische kmo’s voelen zich in de steek gelaten door banken en overheid in de strijd tegen fraude",
+   "link": "https://businessam.be/belgische-kmos-voelen-zich-in-de-steek-gelaten-door-banken-en-overheid-in-de-strijd-tegen-fraude/",
+   "description": "Key takeaways Uit een recent gezamenlijk onderzoek van iVox en de AI-boekhoudtool Horus Software blijkt dat een aanzienlijk aantal Belgische kleine en middelgrote ondernemingen (kmo’s) zich niet gesteund voelt door officiële instellingen in de strijd tegen financiële criminaliteit. Ongeveer 60 procent van de ondervraagde bedrijven is van mening dat zowel de overheid als de banksector […]",
+   "date": "2026-10-14T20:57:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML verzet zich tegen Amerikaans wetsvoorstel om export naar China verder te beperken",
+   "link": "https://businessam.be/asml-verzet-zich-tegen-amerikaans-wetsvoorstel-om-export-naar-china-verder-te-beperken/",
+   "description": "Key takeaways ASML, de in Veldhoven gevestigde producent van lithografiesystemen, heeft zijn bezorgdheid geuit over een voorgestelde Amerikaanse wetgevingsmaatregel die bekendstaat als de Match Act. Roger Dassen, de Chief Financial Officer van het bedrijf, omschreef het initiatief als onevenredig en sprak de hoop uit dat Amerikaanse beleidsmakers het voorstel na de tussentijdse verkiezingen van volgende […]",
+   "date": "2026-10-14T19:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple brengt HomeView-smarthometablet voorlopig niet naar de EU",
+   "link": "https://www.hln.be/apple/apple-brengt-homeview-smarthometablet-voorlopig-niet-naar-de-eu~ada4e303/",
+   "description": "Apple heeft de HomeView aangekondigd, een display waarmee gebruikers onder meer slimme apparaten in huis kunnen bedienen. Het apparaat kost 299 dollar en verschijnt voorlopig niet in de Europese Unie, omdat Siri AI voor iOS nog niet beschikbaar is in onze regio. De techgigant zegt daarvoor samen te werken met de EU, maar deelt geen details.",
+   "date": "2026-10-14T19:10:00",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse chiptrots ASML ziet nettowinst verdubbelen en beleggers juichen",
+   "link": "https://www.standaard.be/economie/beurs/nederlandse-chiptrots-asml-ziet-nettowinst-verdubbelen-en-beleggers-juichen/163060788.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Vandaag op de beurs’ overschouwen we elke avond drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-10-14T18:49:07",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De regie over autonome AI-agents: van uitdaging naar controle",
+   "link": "https://www.emerce.nl/videos/regie-autonome-aiagents-uitdaging-controle",
+   "description": "In deze uitzending wordt de werkelijkheid van agentic orchestration besproken. Er wordt ontleed hoe je voorkomt dat een leger aan […]",
+   "date": "2026-10-14T18:09:57",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Roemloos einde dreigt voor omstreden en ooit mateloos populaire chatbotpionier Character AI",
    "link": "https://www.volkskrant.nl/tech/roemloos-einde-dreigt-voor-omstreden-en-ooit-mateloos-populaire-chatbotpionier-character-ai~b0e79bbc/",
