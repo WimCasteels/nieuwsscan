@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T03:13:33",
+ "generated": "2026-10-15T17:29:19",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 159,
    "error": null
   },
   {
@@ -316,6 +316,358 @@
  ],
  "articles": [
   {
+   "title": "Met een micro in toiletpapier: OpenAI doelwit van bedrijfsspionage",
+   "link": "https://www.standaard.be/buitenland/met-een-micro-in-toiletpapier-openai-doelwit-van-bedrijfsspionage/163110326.html",
+   "description": "Een Saudische IT’er wilde gesprekken afluisteren in een vergaderzaal van OpenAI. Voordien zocht hij met AI op hoe dat het best kon. De man is sinds vorige week aangehouden.",
+   "date": "2026-10-15T16:50:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omzet van Anthropic stijgt met 45 procent in derde kwartaal tot 16,8 miljard dollar",
+   "link": "https://businessam.be/omzet-van-anthropic-stijgt-met-45-procent-in-derde-kwartaal-tot-168-miljard-dollar/",
+   "description": "Key takeaways Volgens berichten van de Financial Times, Reuters en Bloomberg heeft Anthropic tijdens een bijeenkomst met beleggers in San Francisco bekendgemaakt dat de omzet voor het derde kwartaal van 2026 uitkwam op 16,8 miljard dollar (14,9 miljard euro). De bekendmaking vond plaats tijdens een bijeenkomst met potentiële beleggers, in aanloop naar de geplande beursgang […]",
+   "date": "2026-10-15T16:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kabinet bezuinigt fors meer op de Belastingdienst, terwijl die door personeelsgebrek al miljarden niet kan innen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/15/kabinet-bezuinigt-fors-meer-op-de-belastingdienst-terwijl-die-door-personeelsgebrek-al-miljarden-niet-kan-innen-a4939016",
+   "description": "Bovenop al aangekondigde bezuinigingen moet de dienst 162 miljoen euro extra besparen. Om de kosten ervan te drukken, wil het kabinet onder meer vaker kunstmatige intelligentie inzetten.",
+   "date": "2026-10-15T16:20:48",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verkoopgolf techsector niet voorbij op Wall Street",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/verkoopgolf-techsector-niet-voorbij-op-wall-street/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, ondanks sterke resultaten van technologiereus TSMC, nadat producentenprijzen de sterke inflatiecijfers van woensdag bevestigden.Futures op de toonaangevende S&P 500 index noteren een half uur voor de opening 0,3 procent in het rood. De Nasdaq-future noteerde 1,3 procent lager, ten teken dat de verkoopgolf …\nThe post Verkoopgolf techsector niet voorbij op Wall Street appeared first on Trends.be.",
+   "date": "2026-10-15T15:04:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Sterke vraag naar AI-chips stuwt kwartaalwinst van TSMC naar recordhoogte",
+   "link": "https://businessam.be/sterke-vraag-naar-ai-chips-stuwt-kwartaalwinst-van-tsmc-naar-recordhoogte/",
+   "description": "Key takeaways Aangedreven door een enorme stijging in bestellingen voor AI-chips heeft chipfabrikant TSMC een ongekende kwartaalwinst gerapporteerd die de marktverwachtingen overtrof. Tijdens het derde kwartaal steeg de nettowinst van het bedrijf met meer dan 66 procent ten opzichte van het voorgaande jaar, tot 763,1 miljard Taiwanese dollar (ongeveer 21 miljard euro), terwijl de omzet […]",
+   "date": "2026-10-15T15:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic waarschuwt dat kleine AI zich binnen maanden naar iot kan kopiëren",
+   "link": "https://tweakers.net/nieuws/253354/anthropic-waarschuwt-dat-kleine-ai-zich-binnen-maanden-naar-iot-kan-kopieren.html",
+   "description": "Volgens Anthropic zijn kleine AI-modellen mogelijk binnen enkele maanden in staat om zichzelf te kopiëren naar apparaten die deel uitmaken van het internet of things (iot), zoals slimme ovens en Android TV-boxes. Het bedrijf zegt dat het dan moeilijk zou zijn om de modellen uit te schakelen, omdat ze onafhankelijk van een datacenter werken.",
+   "date": "2026-10-15T14:05:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Melexis doet flinke stap terug in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-melexis-doet-flinke-stap-terug-in-groene-bel20/",
+   "description": "(ABM FN) De Brusselse beurs koerste donderdag hoger, maar Melexis kon zich niet onttrekken aan het negatieve sentiment rond de chipsector. Rond de klok van twee uur won de Bel20 0,6 procent op 5.579 punten. Beleggers maken zich volgens beleggingsadviseur Sven van Gasse van Lynx vooral druk om de stijgende obligatierentes, hogere olieprijzen en de inflatie. Door de …\nThe post Beursupdate: Melexis doet flinke stap terug in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-10-15T14:01:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Nvidia's eerste cpu smaakt naar meer",
+   "link": "https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-nvidias-eerste-cpu-smaakt-naar-meer.html",
+   "description": "Nvidia debuteert als fabrikant van laptop-cpu's met zijn RTX Spark. We testen de ASUS ProArt P16, een van de eerste laptops met Nvidia's eerste laptopprocessor.",
+   "date": "2026-10-15T14:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Curl verhelpt 'high' RCE-kwetsbaarheid gevonden door Anthropic",
+   "link": "https://www.security.nl/posting/957769/Curl+verhelpt+%27high%27+RCE-kwetsbaarheid+gevonden+door+Anthropic?channel=rss",
+   "description": "Er is een nieuwe versie van Curl verschenen die meer dan twintig kwetsbaarheden verhelpt, waaronder een beveiligingslek dat ...",
+   "date": "2026-10-15T13:46:31",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia overweegt leveringen stop te zetten aan klanten die gevaarlijke AI-systemen ontwikkelen",
+   "link": "https://businessam.be/nvidia-overweegt-leveringen-stop-te-zetten-aan-klanten-die-gevaarlijke-ai-systemen-ontwikkelen/",
+   "description": "Key takeaways Tijdens een recent bezoek aan Londen suggereerde Jensen Huang, CEO van Nvidia, dat het bedrijf zou overwegen de leveringen aan klanten die gevaarlijke AI ontwikkelen, stop te zetten. Dat meldt Bloomberg. Hij verduidelijkte dat dit scenario voorlopig theoretisch is. Een dergelijk besluit zou volgens hem volgen op rechtstreekse gesprekken met de klant. Huang […]",
+   "date": "2026-10-15T13:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hogere inflatie zet Amerikaanse beurzen onder druk en treft vooral AI-aandelen",
+   "link": "https://businessam.be/hogere-inflatie-zet-amerikaanse-beurzen-onder-druk-en-treft-vooral-ai-aandelen/",
+   "description": "Key takeaways Op woensdag kende de Nasdaq een scherpe daling na de publicatie van inflatiecijfers die de prognoses overtroffen, wat de vrees aanwakkerde dat de Federal Reserve verdere renteverhogingen zou doorvoeren. Deze verschuiving in het sentiment had een grote impact op AI-gerichte bedrijven, die bijzonder kwetsbaar zijn voor stijgende financieringskosten. Het aandeel van Oracle kelderde […]",
+   "date": "2026-10-15T12:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen tonen gemengd beeld na koersval AI-aandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-tonen-gemengd-beeld-na-koersval-ai-aandelen/",
+   "description": "(ABM FN-Dow Jones) Europese aandelen lieten donderdag een gemengd beeld zien, terwijl een wereldwijde uitverkoop van AI-gerelateerde aandelen in een versnelling raakte.Rond het middaguur verloor de Stoxx Europe 600 index 0,2 procent op 636,65 punten en verloor de Duitse DAX 0,4 procent op 25.202,11 punten. De Franse CAC 40 stond 0,3 procent in de plus op …\nThe post Europese beurzen tonen gemengd beeld na koersval AI-aandelen appeared first on Trends.be.",
+   "date": "2026-10-15T12:18:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI beschuldigt Apple-overstapper van datadiefstal over geheim AI-apparaat",
+   "link": "https://tweakers.net/nieuws/253356/openai-beschuldigt-apple-overstapper-van-datadiefstal-over-geheim-ai-apparaat.html",
+   "description": "OpenAI verdedigt zich in de rechtszaak van Apple met de tegenbeschuldiging dat een ex-werknemer bedrijfsgeheimen zou hebben doorgegeven aan Apple. De man was van Apple overgestapt naar OpenAI, werkte daar zes maanden en keerde volgens OpenAI terug naar Apple met gestolen gegevens.",
+   "date": "2026-10-15T12:17:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Productiecapaciteit remt groei ASML af",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/productiecapaciteit-remt-groei-asml-af/",
+   "description": "ASML zag de omzet en de winst het voorbije kwartaal weer toenemen. De productiecapaciteit is de komende tijd de beperkende factor voor de groei.\nThe post Productiecapaciteit remt groei ASML af appeared first on Trends.be.",
+   "date": "2026-10-15T12:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Staten VS vinden ChatGPT schadelijk voor kinderen en spannen rechtszaken aan",
+   "link": "https://tweakers.net/nieuws/253346/staten-vs-vinden-chatgpt-schadelijk-voor-kinderen-en-spannen-rechtszaken-aan.html",
+   "description": "Acht staten in de VS spannen rechtszaken aan tegen OpenAI wegens misleiding over de veiligheid van ChatGPT. De bekende AI-chatbot zou mensen aanzetten tot geweld tegen anderen, maar ook tot zelfbeschadiging en zelfdoding. OpenAI zou kwetsbare gebruikers zoals kinderen in gevaar brengen.",
+   "date": "2026-10-15T11:36:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Melexis dissonant in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-melexis-dissonant-in-groene-bel20-2/",
+   "description": "(ABM FN) De Brusselse beurs koerste donderdag hoger, maar Melexis kon zich niet onttrekken van het negatieve sentiment rond de chipsector. Rond de klok van elf uur won de Bel20 0,6 procent op 5.579,65 punten. Beleggers maken zich volgens beleggingsadvies Sven van Gasse van Lynx vooral druk om de stijgende obligatierentes, hogere olieprijzen en de inflatie. \"In …\nThe post Beursupdate: Melexis dissonant in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-10-15T11:08:22",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Big Tech zet in op ‘kleine’ kernreactoren om de eigen energiehonger te stillen – en kan zo helpen kernenergie van de grond te krijgen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/15/gaan-kleine-kernreactoren-de-energiehonger-van-techbedrijven-stillen-a4938335",
+   "description": "Waar kerncentrales door de enorme kosten lastig van de grond komen, kan de bouw van ‘kleine’ kernreactoren een uitkomst zijn. Bedrijven als Google en Amazon investeren erin om hun eigen datacenters van energie te voorzien – ook in Nederland kunnen techbedrijven helpen deze ‘SMR’s’ te ontwikkelen.",
+   "date": "2026-10-15T10:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Apple-smarthomes, AI-slopgames en Adobe-kopieën - Tweakers Podcast #448",
+   "link": "https://tweakers.net/video/20594/apple-smarthomes-ai-slopgames-en-adobe-kopieen-tweakers-podcast-448.html",
+   "description": "Deze week praten we in de podcast over XBOX-browserports, de Apple HomeView, games ontwikkelen met AI, Starlink in KLM-vliegtuigen en gevibecodede kopieën van Adobe-software.",
+   "date": "2026-10-15T10:20:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: groeitempo Anthropic neemt af",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-groeitempo-anthropic-neemt-af/",
+   "description": "(ABM FN-Dow Jones) Anthropic heeft investeerders een update gegeven over zijn omzet, die in het derde kwartaal met bijna 50 procent steeg tot 16,8 miljard dollar, en gemeld dat het bedrijf winstgevend was. De AI-startup wil naar de beurs, terwijl er zorgen zijn over de waarderingen in de sector. Dit schreef de Financial Times donderdag. De …\nThe post Media: groeitempo Anthropic neemt af appeared first on Trends.be.",
+   "date": "2026-10-15T10:16:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EDAY: de toekomst van media inkoop",
+   "link": "https://www.emerce.nl/nieuws/eday-toekomst-media-inkoop",
+   "description": "De inkoop van digitale campagnes verandert snel: adverteerders zoeken flexibiliteit, snelheid en controle, passend bij hun eigen werkwijze. Met het nieuwe platform Serve speelt Mediahuis hierop in door directe inkoop, programmatic opties (PMP/PG) en integratie via API en MCP mogelijk te maken. Sander van Gestel presenteert Serve voor het eerst op EDAY en laat zien hoe AI-agents, data en menselijke expertise samen de toekomst van media-inkoop vormen.",
+   "date": "2026-10-15T09:55:42",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TSMC ruim boven groeidoel in derde kwartaal",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/tsmc-ruim-boven-groeidoel-in-derde-kwartaal/",
+   "description": "(ABM FN-Dow Jones) Taiwan Semiconductor Manufacturing Co. heeft opnieuw een recordwinst geboekt, door aanhoudend sterke vraag naar AI-infrastructuur, terwijl de omzetgroei boven de 50 procent uitkwam, ruim boven de doelstelling voor dit jaar. Dit bleek donderdag uit de kwartaalupdate van het Taiwanese chipbedrijf. De nettowinst van de grootste chipfabrikant ter wereld steeg met 69 procent tot …\nThe post TSMC ruim boven groeidoel in derde kwartaal appeared first on Trends.be.",
+   "date": "2026-10-15T08:28:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft over Europa’s streven naar opensource: ‘De beste innovaties krijg je niet door Linux en OpenOffice te draaien’",
+   "link": "https://trends.knack.be/ai-en-tech/microsoft-over-digitale-soevereiniteit-de-beste-innovaties-krijg-je-niet-door-linux-en-openoffice-te-draaien/",
+   "description": "Bedrijven moeten een evenwicht vinden in hun streven naar digitale soevereiniteit, zonder cyberbeveiliging en innovatie uit het oog te verliezen. Dat zegt Microsoft-topman Mark Chaban in een rondetafelgesprek met journalisten. \"Wil je de laatste innovatie in frontier AI en cyberbeveiliging of wil je volledig offline gaan en losgekoppeld zijn?\"\nThe post Microsoft over Europa’s streven naar opensource: ‘De beste innovaties krijg je niet door Linux en OpenOffice te draaien’ appeared first on Trends.be.",
+   "date": "2026-10-15T08:27:39",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple verenigt ongebruikte Mac-gpu's in gedistribueerde AI-cloud",
+   "link": "https://tweakers.net/nieuws/253338/apple-verenigt-ongebruikte-mac-gpus-in-gedistribueerde-ai-cloud.html",
+   "description": "Apple koppelt Macs in zijn bedrijfsnetwerk om ongebruikte gpu-capaciteit te bundelen in een gedistribueerde virtuele cloud. Deze flexibele rekencapaciteit moet werknemers helpen met AI-taken zonder extra gpu's aan te schaffen. Apple publiceert een paper over dit zogeheten Minions-systeem.",
+   "date": "2026-10-15T07:58:18",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaming wint Emmy voor AI-technologie: \"Tom Hanks weer 20 jaar oud maken of Frans laten spreken\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/14/jo-plaete-emmy-vlaming-ai-technologie-hollywood/",
+   "description": "Het bedrijf BRAHMA AI van Vlaming Jo Plaete heeft een Technology & Engineering Emmy Award gewonnen voor op AI-gebaseerde visual effects. Met de technologie kunnen acteurs in films bijvoorbeeld tientallen jaren jonger gemaakt worden of een andere taal spreken, terwijl hun stem en gezichtsuitdrukkingen dezelfde blijven.",
+   "date": "2026-10-15T07:52:12",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beurzen Zuid-Korea en Japan onderuit door uitverkoop chipaandelen",
+   "link": "https://www.gva.be/economie/beurzen-zuid-korea-en-japan-onderuit-door-uitverkoop-chipaandelen/163090573.html",
+   "description": "De beurzen in Zuid-Korea en Japan zijn donderdag hard onderuitgegaan. Vooral de chipbedrijven gingen in de uitverkoop na de forse koersverliezen in de Amerikaanse chipsector op woensdag. De chipaandelen zijn dit jaar sterk in waarde gestegen dankzij de grote vraag naar chips voor toepassingen op het gebied van artificiële intelligentie (AI).",
+   "date": "2026-10-15T07:52:09",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk prijst chipfabrikant Micron voor zijn eerlijke prijsbeleid tijdens de AI-boom",
+   "link": "https://businessam.be/elon-musk-prijst-chipfabrikant-micron-voor-zijn-eerlijke-prijsbeleid-tijdens-de-ai-boom/",
+   "description": "Key takeaways Elon Musk heeft zijn goedkeuring uitgesproken voor het prijsbeleid van Micron Technology. Hij prijst de eerlijke prijzen van de fabrikant van geheugenchips en zet die af tegen de agressieve prijsstrategieën van andere spelers in de sector. In een bericht op X stelde het hoofd van Tesla en SpaceX dat sommige concurrenten tijdens de […]",
+   "date": "2026-10-15T07:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen onderuit door rentevrees en dalend AI-sentiment",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-onderuit-door-rentevrees-en-dalend-ai-sentiment/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden donderdagochtend fors lager, na verliezen op Wall Street woensdagavond. Tegenvallende Amerikaanse inflatiecijfers en afnemend vertrouwen in de rendementen op AI-investeringen drukten het sentiment.De Kospi-index in Seoel verloor 7,5 procent en de Japanse Nikkei index daalde met 4,3 procent. Hongkong leverde 1,4 procent in en Shanghai verloor 2,0 procent.Chipmakers kregen …\nThe post Aziatische beurzen onderuit door rentevrees en dalend AI-sentiment appeared first on Trends.be.",
+   "date": "2026-10-15T07:20:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese en Amerikaanse financiële toezichthouders maken zich zorgen over AI-risico’s bij banken",
+   "link": "https://businessam.be/europese-en-amerikaanse-financiele-toezichthouders-maken-zich-zorgen-over-ai-risicos-bij-banken/",
+   "description": "Key takeaways Volgens berichten van Reuters verscherpen financiële autoriteiten in Europa en de Verenigde Staten hun toezicht op de banksector om mogelijke risico’s als gevolg van kunstmatige intelligentie te beperken. Er heerst onder ambtenaren een groeiende bezorgdheid dat autonome AI-entiteiten of geavanceerde cyberaanvallen de mondiale monetaire infrastructuur zouden kunnen destabiliseren. Amerikaanse toezichthouders onderzoeken AI-gebruik In […]",
+   "date": "2026-10-15T06:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ChatGPT Ads zijn nog geen bewezen succes. Maar wie na één week al concludeert, bewijst vooral iets anders",
+   "link": "https://www.emerce.nl/achtergrond/chatgpt-ads-nog-geen-bewezen-succes-wie-na-n-week-al-concludeert-bewijst-vooral-iets-anders",
+   "description": "Het te snel trekken van conclusies over ChatGPT Ads op basis van een kortstondige test met een klein budget geef een misleidend beeld. Omdat ChatGPT zich in een unieke fase van de klantreis bevindt, vereist het kanaal een doordacht testprogramma. Aan de hand van zeven concrete hypotheses, van de rol in de klantreis tot meetbaarheid en creatie, helpt dit artikel organisaties om gefundeerde beslissingen te nemen over de opname van ChatGPT Ads in hun mediamix.",
+   "date": "2026-10-15T06:22:07",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoek invloed AI op digital agencies: tarieven onder druk, eigen data als troef",
+   "link": "https://www.emerce.nl/nieuws/onderzoek-invloed-ai-agencies-2027",
+   "description": "De grote reclameholdings bouwen hun verdienmodel om onder druk van AI. WPP verwacht al eventjes dat de tarieven dalen en Monks wil eind 2026 al een kwart van de omzet uit abonnementen halen. Dit en meer blijkt uit een nieuw onderzoek dat Emerce vandaag publiceert.",
+   "date": "2026-10-15T06:01:21",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Apple-smarthomes, AI-slopgames en Adobe-kopieën - Tweakers Podcast #448",
+   "link": "https://tweakers.net/geek/253318/apple-smarthomes-ai-slopgames-en-adobe-kopieen-tweakers-podcast-448.html",
+   "description": "Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Jasper Bakker over XBOX-browserports, de Apple HomeView, games ontwikkelen met AI, Starlink in KLM-vliegtuigen en gevibecodede kopieën van Adobe-software.",
+   "date": "2026-10-15T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brengt de Meta-bril ons dichterbij een surveillancemaatschappij?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/15/brengt-de-meta-bril-ons-dichterbij-een-surveillancemaatschappij-a4939006",
+   "description": "Drie belangenorganisaties slepen Meta voor de rechter vanwege de omstreden AI-bril van het bedrijf. Redacteur Laura Hoogenraad legt uit waarom er zoveel weerstand is tegen deze…",
+   "date": "2026-10-15T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Emerce Rapport De Impact van AI op Digital Agencies (richting 2027)",
    "link": "https://www.emerce.nl/knowledgebase/emerce-rapport-impact-ai-digital-agencies-2027",
    "description": "Voor het derde jaar op rij heeft Emerce onderzocht welke impact AI heeft op digital agencies en hoe zij daarop […]",
@@ -333,6 +685,17 @@
    "date": "2026-10-15T01:05:10",
    "feeds": [
     "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse staten klagen OpenAI aan vanwege zelfbeschadiging bij kinderen",
+   "link": "https://www.nu.nl/buitenland/6413195/amerikaanse-staten-klagen-openai-aan-vanwege-zelfbeschadiging-bij-kinderen.html",
+   "description": "Iowa, Kansas en zes andere Amerikaanse staten spannen een rechtszaak aan tegen OpenAI vanwege de vermeende schadelijke effecten van ChatGPT voor kinderen. De staten willen dat het bedrijf de werking van zijn producten voor kinderen aanpast.",
+   "date": "2026-10-15T00:03:39",
+   "feeds": [
+    "NU.nl - Tech"
    ],
    "first_seen": "2026-10-15",
    "intro_geprobeerd": false
@@ -760,6 +1123,18 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Hoe ga je om met AI op de werkvloer? “Voer niet zomaar klantendossiers, wachtwoorden of bedrijfsgeheimen in”",
+   "link": "https://www.standaard.be/inspiratie/helpdesk/hoe-ga-je-om-met-ai-op-de-werkvloer-voer-niet-zomaar-klantendossiers-wachtwoorden-of-bedrijfsgeheimen-in/162926471.html",
+   "description": "Een moeilijke mail herschrijven of de essentie halen uit complexe documenten: ook op de werkvloer wordt een chatbot een handig hulpmiddel. Toch is er nog veel schroom over AI-gebruik op de werkvloer. Wat is er nodig om daarover een open gesprek te voeren?",
+   "date": "2026-10-14T10:55:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "OpenAI-medewerker beschuldigd van plaatsen afluisterapparaat in vergaderzaal",
    "link": "https://www.security.nl/posting/957529/OpenAI-medewerker+beschuldigd+van+plaatsen+afluisterapparaat+in+vergaderzaal?channel=rss",
    "description": "De Amerikaanse autoriteiten hebben een 35-jarige Saoedische medewerker van OpenAI aangeklaagd voor het plaatsen van ...",
@@ -911,6 +1286,17 @@
     "De Morgen - Beter Leven"
    ],
    "first_seen": "2026-10-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De impact van AI op uw job? Bekijk hier hoe automatiseerbaar uw beroep is",
+   "link": "https://www.demorgen.be/beter-leven/de-impact-van-ai-op-uw-job-bekijk-hier-hoe-automatiseerbaar-uw-beroep-is~bfa13061/",
+   "description": "",
+   "date": "2026-10-14T03:59:00",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-10-15",
    "intro_geprobeerd": true
   },
   {
