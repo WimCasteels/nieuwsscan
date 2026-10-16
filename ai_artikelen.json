@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T03:00:51",
+ "generated": "2026-10-16T17:11:18",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 160,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 95,
    "error": null
   },
   {
@@ -315,6 +315,360 @@
   }
  ],
  "articles": [
+  {
+   "title": "China wil exportbeperking voor AI-modellen en zonnepanelen",
+   "link": "https://tweakers.net/nieuws/253422/china-wil-exportbeperking-voor-ai-modellen-en-zonnepanelen.html",
+   "description": "China overweegt een verbod op de export van bepaalde technologie voor AI en energie. Het gaat dan onder meer om chipontwerpen en AI-modellen. Daarmee lijken de rollen tussen China en het Westen om te draaien, juist op een moment dat Chinese AI-modellen grote technologische sprongen maken.",
+   "date": "2026-10-16T16:54:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brannin McBee, architect van AI-deals op krediet ziet investeerders vluchten naar de uitgang",
+   "link": "https://www.tijd.be/r/t/1/id/10695864",
+   "description": "Geen bedrijf dat de AI-goudkoorts zo belichaamt als CoreWeave. De cloudverhuurder kreeg deze week klappen omdat beleggers zich zorgen maken over de meer dan 50 miljard dollar schuld die hij meetorst. Maar medeoprichter Brannin McBee, de uitvinder van de door chips gedekte leningen, wil net nog meer schulden aangaan.",
+   "date": "2026-10-16T16:49:24",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Apple en Nvidia droegen elk 25 miljoen dollar bij aan Trumps prestigieuze balzaal • Trump zou overwegen kabinetschef Susie Wiles te ontslaan",
+   "link": "https://www.demorgen.be/snelnieuws/live-apple-en-nvidia-droegen-elk-25-miljoen-dollar-bij-aan-balzaal-van-president-trump-trump-zou-overwegen-kabinetschef-susie-wiles-te-ontslaan~b13cc951/",
+   "description": "",
+   "date": "2026-10-16T16:34:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Een dag lang proberen ze elkaars server te hacken tijdens de European Cybersecurity Challenge – maar dan zonder AI",
+   "link": "https://www.nrc.nl/nieuws/2026/10/16/een-dag-lang-proberen-ze-elkaars-server-te-hacken-tijdens-de-european-cybersecurity-challenge-maar-dan-zonder-ai-a4939023",
+   "description": "Op de twaalfde European Cybersecurity Challenge financierde de EU deze week een competitie met ruim 400 getalenteerde hackers. Die zijn hard nodig in het licht van de recente golf cyberaanvallen, waarbij vaak AI wordt gebruikt. Maar dat is tijdens deze hackingcompetitie in Bochum juist níét toegestaan.",
+   "date": "2026-10-16T16:23:08",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia haalt RTX 5090 uit Amerikaanse webshop na geruchten over productiestop",
+   "link": "https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html",
+   "description": "De RTX 5090 staat niet meer in Nvidia's eigen Marketplace-webshop in de VS. Het bedrijf geeft geen reden voor de verdwijning van dat topmodel. Er gaan al langer geruchten rond dat Nvidia de RTX 5090 gaat uitfaseren, maar het bedrijf wil daarop niet reageren.",
+   "date": "2026-10-16T15:18:13",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Thomas More geeft alle studenten en medewerkers toegang tot betalende versie van ChatGPT: \"Iedereen gelijke kansen\"",
+   "link": "https://vrtnws.be/p.6KVNdbJZv",
+   "description": "Thomas More geeft als eerste Vlaamse hogeschool alle studenten en medewerkers toegang tot ChatGPT Edu, een betalende versie van ChatGPT voor het onderwijs. De hogeschool wil zo dat iedereen met AI kan leren werken, ongeacht de financiële mogelijkheden. \"Onze studenten zullen afstuderen in een wereld waarin AI alomtegenwoordig is. Het is dan onze verantwoordelijkheid om hen er goed mee te leren omgaan\", klinkt het.",
+   "date": "2026-10-16T15:10:42",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street koerst af op nagenoeg vlakke opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-koerst-af-op-nagenoeg-vlakke-opening-2/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan vrijdag een nagenoeg vlakke opening tegemoet, na een turbulente week waarin de volatiliteit op de rentemarkten centraal stond en AI-gerelateerde aandelen uit de gratie waren.Futures op de toonaangevende S&P 500 index noteerden ongeveer een halfuur voor de opening tot 0,1 procent in het groen. De Nasdaq-future handelde 0,1 procent …\nThe post Wall Street koerst af op nagenoeg vlakke opening appeared first on Trends.be.",
+   "date": "2026-10-16T14:55:25",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Documenten onthullen geldschieters van Trumps balzaal: Apple en Nvidia doneerden allebei 25 miljoen. En er zijn nog opvallende topdonoren",
+   "link": "https://www.hln.be/buitenland/documenten-onthullen-geldschieters-van-trumps-balzaal-apple-en-nvidia-doneerden-allebei-25-miljoen-en-er-zijn-nog-opvallende-topdonoren~ab129ad8/",
+   "description": "De prestigieuze balzaal die de Amerikaanse president Donald Trump bouwt aan het Witte Huis, wordt voor miljoenen gefinancierd door onder meer Apple en Nvidia. Dat meldt ‘The Washington Post’, dat een onthullende lijst in handen heeft met de grootste geldschieters.",
+   "date": "2026-10-16T14:48:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Volvo en Nvidia werken samen aan veiligere technologie voor autonoom rijden",
+   "link": "https://businessam.be/volvo-en-nvidia-werken-samen-aan-veiligere-technologie-voor-autonoom-rijden/",
+   "description": "Key takeaways Volvo Cars en Nvidia hebben een uitgebreide samenwerking aangekondigd om geavanceerde systemen voor autonoom rijden en bestuurdersondersteuning te ontwikkelen. De twee bedrijven combineren daarvoor de technische expertise en veiligheidsprotocollen van Volvo met de rekenkracht en AI-technologie van Nvidia. Dat meldt Reuters. Het gaat onder meer om de Hyperion-computerarchitectuur, sensortechnologie en softwareframeworks. Zo willen […]",
+   "date": "2026-10-16T14:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ethisch hacker Joost hackte de overheid en Nasa, AI baart hem zorgen: ‘Scholier kan bedrijven hacken’",
+   "link": "https://www.ad.nl/tech/ethisch-hacker-joost-hackte-de-overheid-en-nasa-ai-baart-hem-zorgen-scholier-kan-bedrijven-hacken~ae7638c1/",
+   "description": "Het ene na het andere grote bedrijf is de dupe van cyberaanvallen. AI maakt dat wel érg makkelijk, weet ethisch hacker Joost Grunwald (25). Hij wist binnen te dringen bij Nasa en de overheid. De Tilburger maakt zich zorgen. „Wat voorheen drie weken kostte, lukt nu in een paar uur.”",
+   "date": "2026-10-16T12:45:16",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huilende wiskundigen zijn een voorbode: wat doet AI met onze professionele identiteit?",
+   "link": "https://www.tijd.be/r/t/1/id/10695566",
+   "description": "Nu artificiële intelligentie op een drafje honderden tot duizenden wiskundige problemen kan oplossen, vloeien tranen bij wiskundigen. Wat gebeurt er met mensen wanneer een machine niet alleen hun taken overneemt, maar ook het gevoel dat hun werk bijzonder maakt? ‘We staan voor een nieuw begin en dat komt met identiteitscrisissen en rouwprocessen.’",
+   "date": "2026-10-16T12:32:13",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Twee Mac Studio's met M5 Ultra kunnen Meta's Muse Spark Open-model draaien",
+   "link": "https://tweakers.net/nieuws/253398/twee-mac-studios-met-m5-ultra-kunnen-metas-muse-spark-open-model-draaien.html",
+   "description": "Meta komt met een nieuw large language model (llm): Muse Spark Open. Dat model bestaat uit ruim 800 miljard parameters en kan draaien op twee Mac Studio's met M5 Ultra-chip. Muse Spark Open is direct beschikbaar.",
+   "date": "2026-10-16T12:25:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers willen geplande beurswaardering van Anthropic terugbrengen tot 1,5 biljoen dollar",
+   "link": "https://businessam.be/beleggers-willen-geplande-beurswaardering-van-anthropic-terugbrengen-tot-15-biljoen-dollar/",
+   "description": "Key takeaways Na de publicatie van recente financiële cijfers pleiten sommige huidige en toekomstige aandeelhouders van Anthropic voor een lagere waardering van 1,5 biljoen dollar (1,3 biljoen euro) bij de geplande beursgang. Dat is aanzienlijk minder dan de eerder genoemde waardering van 2 biljoen dollar (1,8 biljoen euro) voor de aandelenverkoop die in november gepland […]",
+   "date": "2026-10-16T12:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Keurmerk waarschuwt voor illegale goksites Nederland in AI-tools",
+   "link": "https://www.emerce.nl/nieuws/keurmerk-waarschuwt-illegale-goksites-nederland-aitools",
+   "description": "Nu acht Amerikaanse staten rechtszaken zijn begonnen tegen OpenAI vanwege vermeende veiligheidsrisico’s van ChatGPT, vraagt het Nederlandse Keurmerk Verantwoorde Affiliates (KVA) aandacht voor vergelijkbare zorgen over de betrouwbaarheid van AI-systemen. Uit eerder onderzoek van KVA blijkt dat populaire AI-tools Nederlandse consumenten kunnen blootstellen aan illegaal online gokaanbod. Ook minderjarigen kunnen hiermee in de problemen komen.",
+   "date": "2026-10-16T11:52:31",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | Ruimtevaart is een zakenmodel",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-ruimtevaart-is-een-zakenmodel/",
+   "description": "De ruimte, of toch de banen rond de aarde, lijkt de volgende grens waar techbedrijven zich op willen storten. We bespreken het deze week in de AI & Tech podcast.\nThe post AI & Tech-podcast | Ruimtevaart is een zakenmodel appeared first on Trends.be.",
+   "date": "2026-10-16T11:00:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Over de vloer | Mag het wat stiller?",
+   "link": "https://www.tijd.be/r/t/1/id/10695364",
+   "description": "Werkgevers investeren veel geld in AI om de productiviteit te verhogen, maar ondertussen gaat er veel geld verloren door lawaai op de werkplek.",
+   "date": "2026-10-16T10:59:17",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitse jongeren laten AI Black Friday-deals controleren",
+   "link": "https://www.emerce.nl/nieuws/duitse-jongeren-laten-ai-black-fridaydeals-controleren",
+   "description": "Bijna de helft van de Duitse Black Friday-shoppers gebruikt dit jaar waarschijnlijk AI om aanbiedingen te vinden, maar vrijwel niemand laat het systeem zelf betalen.",
+   "date": "2026-10-16T10:50:39",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "[Column] Claude, ChatGPT en Gemini: zo verdelen we het werk",
+   "link": "https://www.emerce.nl/opinie/column-claude-chatgpt-gemini-verdelen-werk",
+   "description": "co-Founded by AI bespaart kosten en verhoogt efficiëntie door AI-modellen (Claude, ChatGPT, Gemini) slim in te zetten op basis van taakzwaarte, kosten en het afbreukrisico. Lichte taken gaan naar goedkope modellen, terwijl zwaardere modellen gereserveerd blijven voor strategie en complexe productkeuzes. Afspraken en kennis worden centraal vastgelegd in een company brain.",
+   "date": "2026-10-16T10:30:24",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De lessen van een onderzoek naar het oer-internet gelden ook in tijden van AI: bij digitale innovatie staat de burger op het menu",
+   "link": "https://www.trouw.nl/sport/de-lessen-van-een-onderzoek-naar-het-oer-internet-gelden-ook-in-tijden-van-ai-bij-digitale-innovatie-staat-de-burger-op-het-menu~b440ad70/",
+   "description": "",
+   "date": "2026-10-16T10:00:22",
+   "feeds": [
+    "Trouw - Voorpagina",
+    "Trouw - Wetenschap"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "CM.com heeft eerste nettowinstgevende kwartaal",
+   "link": "https://www.emerce.nl/nieuws/cmcom-heeft-eerste-nettowinstgevende-kwartaal",
+   "description": "Techbedrijf CM.com uit Breda sluit het derde kwartaal af met zijn eerste nettowinst als beursgenoteerd bedrijf: 1 miljoen euro. AI-tak Halo verdubbelde qua omzet en is goed voor zes procent van de verkopen.",
+   "date": "2026-10-16T09:55:43",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Review: de eerste laptop met een Nvidia RTX Spark-processor",
+   "link": "https://www.hln.be/tech/review-de-eerste-laptop-met-een-nvidia-rtx-spark-processor~ad6557a9/",
+   "description": "De Nvidia RTX Spark is vooral bedoeld voor professionals die grote AI-modellen lokaal willen draaien. We testten de nieuwe chip in de ASUS ProArt P16-laptop.",
+   "date": "2026-10-16T09:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meer dan helft beleggers gebruikt AI voor beleggingsadvies of overweegt dat",
+   "link": "https://www.gva.be/economie/meer-dan-helft-beleggers-gebruikt-ai-voor-beleggingsadvies-of-overweegt-dat/163150908.html",
+   "description": "Meer dan de helft (53 procent) van de beleggers gebruikt al artificiële intelligentie (AI) voor beleggingsadvies of overweegt om het in de toekomst te doen. Dat blijkt vrijdag uit de beleggersbarometer van ING.",
+   "date": "2026-10-16T08:42:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Is ons brein wel klaar voor al die AI?’",
+   "link": "https://trends.knack.be/opinie/is-ons-brein-wel-klaar-voor-al-die-ai/",
+   "description": "Als we iedere efficiëntiewinst vertalen naar meer output, meer projecten en hogere verwachtingen, hoelang houden we dat dan vol?\nThe post ‘Is ons brein wel klaar voor al die AI?’ appeared first on Trends.be.",
+   "date": "2026-10-16T08:33:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Herstel op Aziatische beurzen dankzij chipsector",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/herstel-op-aziatische-beurzen-dankzij-chipsector/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten vrijdagochtend in het groen, aangevoerd door een herstel van technologieaandelen. De Zuid-Koreaanse Kospi-index won meer dan 3 procent, na een koersval van bijna 8 procent donderdag. De Nikkei index in Tokio steeg met 1,7 procent. In Hongkong won de Hang Seng ongeveer een procent, evenals de Shanghai Composite. Beleggers kochten …\nThe post Herstel op Aziatische beurzen dankzij chipsector appeared first on Trends.be.",
+   "date": "2026-10-16T07:11:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-in-het-groen-24/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan vrijdag een hogere opening tegemoet, na al een hoger slot op donderdag, te midden van de aanhoudende zorgen over AI. Staatsobligaties waren donderdag als veilige haven meer in trek dan bedrijfsobligaties en dat zorgde voor dalende rentes.IG voorziet een openingswinst van 184 punten voor de Duitse DAX en …\nThe post Europese beurzen openen in het groen appeared first on Trends.be.",
+   "date": "2026-10-16T06:49:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI waarschuwt bedrijven voor cyberrisico’s van goedkope Chinese AI-modellen",
+   "link": "https://businessam.be/openai-waarschuwt-bedrijven-voor-cyberrisicos-van-goedkope-chinese-ai-modellen/",
+   "description": "Key takeaways Sarah Friar, de Chief Financial Officer van OpenAI, heeft onlangs bedrijven gewaarschuwd tegen het gebruik van goedkope AI-systemen uit China, waarbij ze wees op aanzienlijke cyberbeveiligingsrisico’s. Tijdens de International AI Summit in Dublin – een evenement in het kader van het Ierse voorzitterschap van de Raad van de EU – drong Friar er […]",
+   "date": "2026-10-16T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Booking komt met AI-reisassistent",
+   "link": "https://www.emerce.nl/nieuws/bookingcom-komt-aireisassistent",
+   "description": "Booking.com richt AI-start-up Vayo op om zich te specialiseren in het domein van de AI-reisassistenten.",
+   "date": "2026-10-16T06:19:43",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meeste Google-zoekopdrachten naar merken tonen AI Overviews",
+   "link": "https://www.emerce.nl/nieuws/meeste-googlezoekopdrachten-merken-tonen-ai-overviews",
+   "description": "Praktisch alle zoekopdrachten bij Google naar een bedrijfsnaam of merk geven als eerste resultaat een AI-overview. Pas daarna en daaronder volgt het overzicht met blauwe, klikbare hyperlinks naar de betreffende bedrijven.",
+   "date": "2026-10-16T06:00:34",
+   "feeds": [
+    "Emerce - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic waarschuwt dat kleine AI-modellen als botnet op koelkasten kunnen draaien",
+   "link": "https://www.hln.be/tech/anthropic-waarschuwt-dat-kleine-ai-modellen-als-botnet-op-koelkasten-kunnen-draaien~a4adbdbe/",
+   "description": "Anthropic waarschuwt dat kleine AI-modellen zichzelf in de toekomst mogelijk kunnen kopiëren en op Internet of Things-apparaten kunnen komen te staan. Het zou dan steeds moeilijker worden om de AI-modellen uit te schakelen, waarschuwt de maker van AI-model Claude.",
+   "date": "2026-10-16T06:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Zeven jaar oud en nog altijd populair: waar blijft de Nvidia Shield TV-opvolger?",
+   "link": "https://tweakers.net/reviews/15468/zeven-jaar-oud-en-nog-altijd-populair-waar-blijft-de-nvidia-shield-tv-opvolger.html",
+   "description": "Er is niet veel tech die zeven jaar relevant blijft. Toch geldt dat wel bij Android-mediaspelers: daar is de Nvidia Shield TV Pro uit 2019 nog altijd het neusje van de zalm.",
+   "date": "2026-10-16T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarvoor dient kietelen? Dat onderzoeken ze in dit Nederlandse lab met een kietelrobot",
+   "link": "https://www.demorgen.be/beter-leven/waarvoor-dient-kietelen-dat-onderzoeken-ze-in-dit-nederlandse-lab-met-een-kietelrobot~bb6f88d7/",
+   "description": "",
+   "date": "2026-10-16T03:00:03",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Deze ‘Vlaamse’ robothond is meer dan een straf speeltje: “Kan perfect mee met Fluvius om gaslekken op te sporen”",
+   "link": "https://www.gva.be/binnenland/deze-vlaamse-robothond-is-meer-dan-een-straf-speeltje-kan-perfect-mee-met-fluvius-om-gaslekken-op-te-sporen/163137717.html",
+   "description": "Robots, op vier of twee benen: dankzij China zijn ze betaalbaarder dan ooit, maar als ze van de band rollen, kunnen ze eigenlijk bitter weinig. Het ontbreekt hen aan sensoren en AI. Er is Vlaams vernuft nodig om ze écht nuttig te maken.",
+   "date": "2026-10-16T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
   {
    "title": "GETEST. Hoe goed is deze gratis AI-assistent die al je meetings uitschrijft?",
    "link": "https://www.gva.be/lifestyle/getest.-hoe-goed-is-deze-gratis-ai-assistent-die-al-je-meetings-uitschrijft/162984016.html",
@@ -481,6 +835,17 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "Review – Google Pixel 11 Pro XL: degelijk werktoestel, met een gekende achilleshiel",
+   "link": "https://trends.knack.be/ai-en-tech/best-practices/review-google-pixel-11-pro-xl-degelijk-werktoestel-met-een-gekende-achilleshiel/",
+   "description": "Google presenteert de Pixel 11-reeks als een ernstige kandidaat voor de bedrijfsmarkt: zeven jaar updates, een eigen beveiligingschip en Gemini-AI die ingebakken zit in het besturingssysteem. We testten het Pro XL model.\nThe post Review – Google Pixel 11 Pro XL: degelijk werktoestel, met een gekende achilleshiel appeared first on Trends.be.",
+   "date": "2026-10-15T17:58:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Met een micro in toiletpapier: OpenAI doelwit van bedrijfsspionage",
    "link": "https://www.standaard.be/buitenland/met-een-micro-in-toiletpapier-openai-doelwit-van-bedrijfsspionage/163110326.html",
    "description": "Een Saudische IT’er wilde gesprekken afluisteren in een vergaderzaal van OpenAI. Voordien zocht hij met AI op hoe dat het best kon. De man is sinds vorige week aangehouden.",
@@ -494,6 +859,17 @@
   {
    "title": "Met een microfoon in toiletpapier: OpenAI doelwit van bedrijfsspionage",
    "link": "https://www.standaard.be/buitenland/met-een-microfoon-in-toiletpapier-openai-doelwit-van-bedrijfsspionage/163110326.html",
+   "description": "Een Saudische IT’er wilde gesprekken afluisteren in een vergaderzaal van OpenAI. Voordien zocht hij met AI op hoe dat het best kon. De man is sinds vorige week aangehouden.",
+   "date": "2026-10-15T16:50:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microfoon zat in toiletpapier achteraan een tv: OpenAI ontmaskert Saudische spion",
+   "link": "https://www.standaard.be/buitenland/microfoon-zat-in-toiletpapier-achteraan-een-tv-openai-ontmaskert-saudische-spion/163110326.html",
    "description": "Een Saudische IT’er wilde gesprekken afluisteren in een vergaderzaal van OpenAI. Voordien zocht hij met AI op hoe dat het best kon. De man is sinds vorige week aangehouden.",
    "date": "2026-10-15T16:50:00",
    "feeds": [
@@ -797,6 +1173,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De AI-revolutie leidt ons terug naar het kampvuur, waar iedereen via zijn oortjes naar een goed verhaal luistert",
+   "link": "https://www.nrc.nl/nieuws/2026/10/15/de-ai-revolutie-leidt-ons-terug-naar-het-kampvuur-waar-iedereen-via-zijn-oortjes-naar-een-goed-verhaal-luistert-a4938788",
+   "description": "Intelligentie komt tegenwoordig uit de kraan. Maar wat doen we met die chatbots? Waar ingenieurs ons een superbrein beloven, zoeken wij een luisterend oor.",
+   "date": "2026-10-15T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-16",
    "intro_geprobeerd": false
   },
   {
