@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T17:29:19",
+ "generated": "2026-10-16T03:00:51",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 162,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 97,
    "error": null
   },
   {
@@ -316,6 +316,171 @@
  ],
  "articles": [
   {
+   "title": "GETEST. Hoe goed is deze gratis AI-assistent die al je meetings uitschrijft?",
+   "link": "https://www.gva.be/lifestyle/getest.-hoe-goed-is-deze-gratis-ai-assistent-die-al-je-meetings-uitschrijft/162984016.html",
+   "description": "AI-transcriptie helpt je bij het noteren en analyseren van online meetings. Wij probeerden een populaire, gratis transcriptietool uit. En keken of er nog alternatieven zijn die een verslag maken zonder dat je ervoor hoeft te betalen.",
+   "date": "2026-10-16T02:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat als AI je boek schrijft? De nieuwe P.F. Thomése leest als kolder én als waarschuwing ★★★★☆",
+   "link": "https://www.standaard.be/media-en-cultuur/boeken/wat-als-ai-je-boek-schrijft-de-nieuwe-p.f.-thomese-leest-als-kolder-en-als-waarschuwing/162938929.html",
+   "description": "De nieuwe P.F. Thomése lijkt op het eerste gezicht een klucht, maar is in werkelijkheid een beangstigend visioen.",
+   "date": "2026-10-15T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-onrust ebt weg op Wall Street na opmerkingen hoofd Nvidia",
+   "link": "https://www.hln.be/economie/ai-onrust-ebt-weg-op-wall-street-na-opmerkingen-hoofd-nvidia~a8269f38/",
+   "description": "De wereldwijde verkoopgolf van AI-gerelateerde aandelen lijkt weer ten einde te komen. Op Wall Street herstelde het vertrouwen van beleggers donderdag na opmerkingen van topman Jensen Huang van chipconcern Nvidia. Hij wees zorgen over financieringsproblemen bij CoreWeave van de hand. Daarbij zei hij niet te denken dat het datacenterbedrijf gered hoeft te worden door Nvidia.",
+   "date": "2026-10-15T22:46:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street-belegger ruilt chipspelers in voor ‘krasse knarren’",
+   "link": "https://www.tijd.be/r/t/1/id/10695858",
+   "description": "De Amerikaanse beurzen veerden op. Het belangrijkste thema van de dag: de heropleving van kwaliteitsaandelen ten koste van de dure chipspelers. Al stak Nvidia-CEO Jensen Huang de chipbeleggers een hart onder de riem en werkte hij eigenhandig het dagverlies van CoreWeave weg.",
+   "date": "2026-10-15T22:16:25",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "YouTube krijgt AI-label voor muziek",
+   "link": "https://tweakers.net/nieuws/253388/youtube-krijgt-ai-label-voor-muziek.html",
+   "description": "YouTube gaat AI-labels tonen bij video's met AI-gegenereerde muziek. Streamingdienst YouTube Music laat die labels ook zien bij muziek die volgens de dienst grotendeels met AI is gemaakt.",
+   "date": "2026-10-15T21:08:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft repareert meer lekken dan ooit in Windows, met hulp van AI",
+   "link": "https://www.hln.be/tech/microsoft-repareert-meer-lekken-dan-ooit-in-windows-met-hulp-van-ai~a11e0b69/",
+   "description": "Microsoft heeft een recordaantal beveiligingslekken gerepareerd in Windows en andere software. Dat gebeurde tijdens Patch Tuesday, de maandelijkse dag waarop Microsoft bugfixes doorvoert. Het gaat om 1.100 bugs. Dat is bijna de helft meer dan een maand geleden.",
+   "date": "2026-10-15T20:58:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google geeft links prominentere plaats in AI-antwoorden",
+   "link": "https://tweakers.net/nieuws/253386/google-geeft-links-prominentere-plaats-in-ai-antwoorden.html",
+   "description": "Google gaat links naar andere sites een prominentere plaats geven in zijn AI-antwoorden op zoekopdrachten. De afgelopen jaren is het verkeer naar sommige sites drastisch afgenomen door de opkomst van AI-antwoorden in zoekmachines en AI-chatbots.",
+   "date": "2026-10-15T20:50:52",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bee introduceert nieuwe AI-wearables na overname door Amazon",
+   "link": "https://businessam.be/bee-introduceert-nieuwe-ai-wearables-na-overname-door-amazon/",
+   "description": "Key takeaways Na de overname door Amazon vorig jaar heeft het AI-wearablesbedrijf Bee zijn nieuwste hardware-assortiment onthuld. Het bedrijf introduceerde de Bee Frontier, een veelzijdig apparaat dat aan kleding kan worden vastgemaakt of om de pols kan worden gedragen, en de Bee Eclipse, een slank, kaartvormig accessoire dat magnetisch aan de achterkant van een mobiele […]",
+   "date": "2026-10-15T20:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "File in de dampkring: is ruimtevaart de volgende techboom?",
+   "link": "https://trends.knack.be/ai-en-tech/file-in-de-dampkring-is-ruimtevaart-de-volgende-techboom/",
+   "description": "De ruimte, of toch de banen rond de aarde, lijkt de volgende grens waar techbedrijven zich op willen storten. Van telecomsatellieten tot hele datacenters in de ruimte: waar komt die versnelling vandaan, en waar gaat ze heen?\nThe post File in de dampkring: is ruimtevaart de volgende techboom? appeared first on Trends.be.",
+   "date": "2026-10-15T20:05:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipaandelen krijgen stevige klappen: spat de AI-zeepbel uiteen?",
+   "link": "https://www.standaard.be/economie/chipaandelen-krijgen-stevige-klappen-spat-de-ai-zeepbel-uiteen/163113668.html",
+   "description": "Chipaandelen over de hele wereld krijgen ferme klappen. De hoge rente die het datacenterbedrijf Coreweave moet betalen om zijn investeringen te financieren, en de resultaten van Anthropic lijken een stevig domino-effect in gang gezet te hebben.",
+   "date": "2026-10-15T19:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omzet TSMC stijgt 50 procent naar record door AI-vraag",
+   "link": "https://tweakers.net/nieuws/253378/omzet-tsmc-stijgt-50-procent-naar-record-door-ai-vraag.html",
+   "description": "De omzet van de Taiwanese chipfabrikant TSMC is afgelopen kwartaal met meer dan 50 procent gestegen. Dat komt door de grote vraag naar chips van de fabrikant, onder meer door de grootschalige bouw van AI-datacenters.",
+   "date": "2026-10-15T18:54:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen schudden techmalaise af",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-schudden-techmalaise-af-2/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn donderdag hoger geëindigd, nadat de obligatierentes daalden. Intussen waren halfgeleideraandelen de gebeten hond door de aanhoudende zorgen over de forse investeringen in AI.De Stoxx Europe 600 won 0,4 procent en sloot op 640,16 punten. De Duitse DAX sloot 0,3 procent hoger op 25.382,62 punten. De Franse CAC 40 sloot …\nThe post Europese beurzen schudden techmalaise af appeared first on Trends.be.",
+   "date": "2026-10-15T18:47:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hackers leggen meer dan duizend supermarkten plat in Nederland en Frankrijk: ‘Ook bij cyberaanvallen kan bloed vloeien’",
+   "link": "https://trends.knack.be/ai-en-tech/hackers-leggen-meer-dan-duizendend-supermarkten-plat-in-nederland-en-frankrijk-ook-bij-cyberaanvallen-kan-bloed-vloeien/",
+   "description": "Grootschalige voedselverspilling en tientallen miljoenen euro’s aan schade. De Nederlandse supermarktgroep Ahold Delhaize en verschillende Franse supermarktketens meten de schade op van twee afzonderlijke cybersecurity-incidenten die vrijwel gelijktijdig plaatsvonden. \"Dit soort fouten kunnen we ons in tijden van AI niet meer veroorloven.\"\nThe post Hackers leggen meer dan duizend supermarkten plat in Nederland en Frankrijk: ‘Ook bij cyberaanvallen kan bloed vloeien’ appeared first on Trends.be.",
+   "date": "2026-10-15T18:22:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een ‘AI-godfather’ ziet buitenaardse wezens ontstaan. Bij Anthropic zullen ze niet er raar van opkijken",
+   "link": "https://www.volkskrant.nl/tech/een-ai-godfather-ziet-buitenaardse-wezens-ontstaan-bij-anthropic-zullen-ze-niet-er-raar-van-opkijken~bb59bf8e/",
+   "description": "",
+   "date": "2026-10-15T18:00:06",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Mee in de AI-wedloop met de VS en China? Deze onderzoeker ziet liever technologie die mensen echt dient",
+   "link": "https://www.volkskrant.nl/tech/mee-in-de-ai-wedloop-met-de-vs-en-china-deze-onderzoeker-ziet-liever-technologie-die-mensen-echt-dient~badc7976b/",
+   "description": "",
+   "date": "2026-10-15T18:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-16",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Met een micro in toiletpapier: OpenAI doelwit van bedrijfsspionage",
    "link": "https://www.standaard.be/buitenland/met-een-micro-in-toiletpapier-openai-doelwit-van-bedrijfsspionage/163110326.html",
    "description": "Een Saudische IT’er wilde gesprekken afluisteren in een vergaderzaal van OpenAI. Voordien zocht hij met AI op hoe dat het best kon. De man is sinds vorige week aangehouden.",
@@ -324,6 +489,17 @@
     "De Standaard - Buitenland"
    ],
    "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met een microfoon in toiletpapier: OpenAI doelwit van bedrijfsspionage",
+   "link": "https://www.standaard.be/buitenland/met-een-microfoon-in-toiletpapier-openai-doelwit-van-bedrijfsspionage/163110326.html",
+   "description": "Een Saudische IT’er wilde gesprekken afluisteren in een vergaderzaal van OpenAI. Voordien zocht hij met AI op hoe dat het best kon. De man is sinds vorige week aangehouden.",
+   "date": "2026-10-15T16:50:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-16",
    "intro_geprobeerd": false
   },
   {
@@ -401,6 +577,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-10-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techaandelen krijgen klappen: “Legt onmiddellijk pijnpunt van hele AI-boom bloot”",
+   "link": "https://www.gva.be/economie/techaandelen-krijgen-klappen-legt-onmiddellijk-pijnpunt-van-hele-ai-boom-bloot/163135698.html",
+   "description": "De techbeurzen zitten met de bibber. Nu blijkt dat de inflatie in de Verenigde Staten toch blijft stijgen, rijzen onmiddellijk vragen bij de grote AI-rush. Want kunnen die al de geïnvesteerde miljarden wel snel omzetten in omzet? “Het is de grote onzekerheid die achter de boom zit.”",
+   "date": "2026-10-15T14:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-16",
    "intro_geprobeerd": false
   },
   {
