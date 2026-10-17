@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T03:05:18",
+ "generated": "2026-10-17T16:03:26",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 36,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 164,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,61 @@
   }
  ],
  "articles": [
+  {
+   "title": "China overweegt exportbeperkingen voor AI-technologie",
+   "link": "https://www.hln.be/tech/china-overweegt-exportbeperkingen-voor-ai-technologie~a458fa90/",
+   "description": "China overweegt om de export van tientallen technologieën voor kunstmatige intelligentie en energie te beperken. Het voorstel komt op een moment dat de technologische achterstand ten opzichte van Amerikaanse AI-bedrijven kleiner wordt.",
+   "date": "2026-10-17T12:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agent stal zonder toestemming cryptovaluta op testnetwerk",
+   "link": "https://tweakers.net/nieuws/253442/openai-agent-stal-zonder-toestemming-cryptovaluta-op-testnetwerk.html",
+   "description": "OpenAI beweert dat een agent tijdens een test inbrak in een cryptowallet, terwijl dat niet tot de opdracht behoorde. Het model zou daarbij testcryptomunten hebben gestolen. Deze hebben geen echte waarde.",
+   "date": "2026-10-17T11:37:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitsland werkt met Nvidia samen om AI in de industrie te integreren",
+   "link": "https://businessam.be/duitsland-werkt-met-nvidia-samen-om-ai-in-de-industrie-te-integreren/",
+   "description": "Key takeaways De Duitse regering gaat een strategische samenwerking aan met Nvidia om artificiële intelligentie sneller in de industrie te integreren. Volgens berichten in het Handelsblatt richt dit samenwerkingsverband zich op twee hoofddoelen: het creëren van de benodigde infrastructuur voor fysieke AI – met name voor de ontwikkeling van zelfrijdende auto’s en robotica – en […]",
+   "date": "2026-10-17T06:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Steeds meer AI-boeken op de markt, Vlaamse Auteursvereniging roept op tot label",
+   "link": "https://vrtnws.be/p.M9X5aDw6Z",
+   "description": "\"Alles over Brussel\", \"Alles over Dressuur\" of \"De rol van de keeper\". Wie vandaag online een boek zoekt, heeft steeds meer kans om een door AI geschreven titel tegen te komen, vaak zonder duidelijk label. Auteurs en boekhandelaars waarschuwen dat de toevloed zo groot wordt dat menselijke schrijvers dreigen ondergesneeuwd te raken. De Vlaamse Auteursvereniging roept daarom op tot meer transparantie.",
+   "date": "2026-10-17T05:49:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hollywood-Vlaming laat met AI filmsterren alle talen spreken",
+   "link": "https://www.tijd.be/r/t/1/id/10695771",
+   "description": "Taal was altijd een remmende factor om films in een ander land uit te brengen. De Vlaming Jo Plaete werkt aan nieuwe AI-technieken om die drempel flink te verlagen. 'Een Belgische film met een beperkte thuismarkt zou zo een Engelstalig publiek kunnen bereiken.'",
+   "date": "2026-10-17T05:01:17",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Hoe baanbrekend is AI echt?",
    "link": "https://www.demorgen.be/ons-geld/hoe-baanbrekend-is-ai-echt~bf3f172a/",
