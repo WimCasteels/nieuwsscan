@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T17:11:18",
+ "generated": "2026-10-17T03:05:18",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 36,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 164,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 97,
    "error": null
   },
   {
@@ -315,6 +315,228 @@
   }
  ],
  "articles": [
+  {
+   "title": "Hoe baanbrekend is AI echt?",
+   "link": "https://www.demorgen.be/ons-geld/hoe-baanbrekend-is-ai-echt~bf3f172a/",
+   "description": "",
+   "date": "2026-10-17T03:00:56",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Huis te koop, afgewerkt met AI: hoe foto’s op immosites steeds minder de werkelijkheid tonen",
+   "link": "https://www.demorgen.be/nieuws/huis-te-koop-afgewerkt-met-ai-hoe-foto-s-op-immosites-steeds-minder-de-werkelijkheid-tonen~b9191440/",
+   "description": "",
+   "date": "2026-10-17T03:00:54",
+   "feeds": [
+    "De Morgen - Beter Leven",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google investeert miljarden in Waalse datacenters: “Dat men in Californië de Borinage business-friendly noemt, vinden wij al positief”",
+   "link": "https://www.standaard.be/binnenland/google-investeert-miljarden-in-waalse-datacenters-dat-men-in-californie-de-borinage-business-friendly-noemt-vinden-wij-al-positief/163172458.html",
+   "description": "In Farciennes ging veertig jaar geleden de allerlaatste steenkoolmijn van Wallonië dicht. Nu strijkt Google er neer met datacenters. Wat zoekt de internetreus in Wallonië, en heeft België daar wel goed over nagedacht? “België geldt voor Google als een vipbestemming.”",
+   "date": "2026-10-16T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het verdriet van het wiskundig genie: “We hadden zoveel prachtige vraagstukken, en nu heeft een ‘fucking’ machine ze opgelost”",
+   "link": "https://www.standaard.be/natuur-en-wetenschap/het-verdriet-van-het-wiskundig-genie-we-hadden-zoveel-prachtige-vraagstukken-en-nu-heeft-een-fucking-machine-ze-opgelost/162951548.html",
+   "description": "Wiskundigen zijn in rouw. Geen onoplosbare vergelijking, maar een golf aan AI-gegenereerde oplossingen stort onderzoekers en studenten in een ongeziene identiteitscrisis. “Wie wil er nog op zoek naar de puzzelstukjes, als het eindresultaat er al ligt?”",
+   "date": "2026-10-16T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alexandr Wang, de 29-jarige miljardair die Meta weer cool maakt",
+   "link": "https://www.standaard.be/media-en-cultuur/alexandr-wang-de-29-jarige-miljardair-die-meta-weer-cool-maakt/163139882.html",
+   "description": "Meta is terug, met de succesvolle AI-agent Muse en sinds deze week ook een van de meest geavanceerde AI-modellen: Muse Wonder Full. En met een stroom van puberale memes. Allemaal het werk van één man met bolle wangen: Alexandr Wang.",
+   "date": "2026-10-16T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een AI-virus in je slimme oven, hoe gevaarlijk is dat?",
+   "link": "https://www.standaard.be/media-en-cultuur/een-ai-virus-in-je-slimme-oven-hoe-gevaarlijk-is-dat/162764490.html",
+   "description": "Alsof we nog niet genoeg doemscenario’s hadden. Anthropic voegde er deze week nog eentje aan toe: zichzelf replicerende AI-agent-virussen.",
+   "date": "2026-10-16T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipaandelen opnieuw in de uitverkoop: Nasdaq kent slechtste week sinds juni",
+   "link": "https://www.tijd.be/r/t/1/id/10696049",
+   "description": "De Amerikaanse chipsector kent de langste verliesreeks sinds 2006.",
+   "date": "2026-10-16T22:04:34",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opinie: Op de hete AI-zomer in de wiskunde volgt mogelijk een koude winter",
+   "link": "https://www.trouw.nl/opinie/opinie-op-de-hete-ai-zomer-in-de-wiskunde-volgt-mogelijk-een-koude-winter~b85946c2/",
+   "description": "",
+   "date": "2026-10-16T22:00:06",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bedrijven krijgen realitycheck: het is onduidelijk wat AI echt oplevert",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/bedrijven-krijgen-realitycheck-het-is-onduidelijk-wat-ai-echt-oplevert~b57ac56e/",
+   "description": "",
+   "date": "2026-10-16T22:00:05",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De comeback van Microsoft, en zijn loyaalste aandeelhouder",
+   "link": "https://www.tijd.be/r/t/1/id/10695642",
+   "description": "Terwijl de oplopende inflatie en de hoge rente gaten slaan in de AI-euforie op de aandelenmarkten, sloop Microsoft de voorbije week geruisloos naar een recordkoers en een beurswaarde van meer dan 4.000 miljard dollar. Tot tevredenheid van ex-topman Steve Ballmer. Het pakketje Microsoft-aandelen dat hij in 1981 ontving, maakt hem bijna een halve eeuw later tot een van de rijkste mensen ter wereld.",
+   "date": "2026-10-16T20:47:17",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europa is door ASML onmisbaar voor de AI-wereld, maar nog niet onafhankelijk: “Het is niet omdat je in Europa een chipfabriek bouwt dat de rest wel zal volgen”",
+   "link": "https://www.standaard.be/economie/europa-is-door-asml-onmisbaar-voor-de-ai-wereld-maar-nog-niet-onafhankelijk-het-is-niet-omdat-je-in-europa-een-chipfabriek-bouwt-dat-de-rest-wel-zal-volgen/162730344.html",
+   "description": "Europa blijft afhankelijk van buitenlandse AI-chips. Toch ziet Jo De Boeck van Imec kansen om terrein te winnen. “Auto’s en robots hebben ook een brein nodig.”",
+   "date": "2026-10-16T20:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De AI-goudmijn wordt een mijnenveld",
+   "link": "https://www.standaard.be/economie/de-ai-goudmijn-wordt-een-mijnenveld/163200038.html",
+   "description": "De AI-investeringsboom wordt nu al de grootste investeringsgolf ooit genoemd. Terwijl miljarden de markt in stromen en chipproducenten gouden tijden beleven, waarschuwen analisten dat deze groei wel eens kunstmatig kan zijn.",
+   "date": "2026-10-16T19:55:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "<i>Not in my backyard</i>. Ineens kleurt de komst van datacentra in Amerikaanse dorpjes de verkiezingen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/16/not-in-my-backyard-ineens-kleur-de-komst-van-datacentra-in-amerikaanse-dorpjes-de-verkiezingen-a4938939",
+   "description": "Woede jegens Big Tech, vrees voor baanverlies en existentiële AI-angst wakkeren het Amerikaanse verzet tegen datacentra aan. De afkeer van de rekenhallen is uitgegroeid tot „het meest partijoverstijgende onderwerp sinds bier”.",
+   "date": "2026-10-16T19:35:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Harvard-historica Jill Lepore waarschuwt voor de AI-dystopie: “Waarom zouden wij zomaar slikken wat tech-ceo’s denken over politiek en recht?”",
+   "link": "https://www.standaard.be/buitenland/harvard-historica-jill-lepore-waarschuwt-voor-de-ai-dystopie-waarom-zouden-wij-zomaar-slikken-wat-tech-ceos-denken-over-politiek-en-recht/162745856.html",
+   "description": "De technologische omwentelingen die aan de AI-explosie voorafgingen, hadden ons al veel eerder ongerust moeten maken, zegt de Amerikaanse historica Jill Lepore. Toch is de dreigende technodystopie nog te vermijden. “De mate waarin mensen zich van AI afkeren, is uniek in de geschiedenis.”",
+   "date": "2026-10-16T19:30:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen met winst het weekend in",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-met-winst-het-weekend-in-2/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn vrijdag hoger geëindigd en gingen er op weekbasis 2 tot 3 procent op vooruit. Zorgen over de torenhoge investeringen in AI hadden voor de rentemarkten een gunstig effect, want staatsobligaties bleken als veilige haven in trek en dus daalden de rentes en namen zo de zorgen over een mogelijke …\nThe post Europese beurzen met winst het weekend in appeared first on Trends.be.",
+   "date": "2026-10-16T18:43:40",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 sluit positieve week behoudend af na koersval Argenx",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-sluit-positieve-week-behoudend-af-na-koersval-argenx/",
+   "description": "(ABM FN) De Brusselse beurs is vrijdag licht lager gesloten, nadat zwaargewicht Argenx flink terrein moest prijsgeven.De Bel20 sloot 0,1 procent lager op 5.586,04 punten, wat resulteerde in een winst op weekbasis van grofweg 2,4 procent.De andere Europese beurzen wisten de week wel positief af te sluiten, ondanks het beperkte herstel van AI-gerelateerde aandelen. De daling …\nThe post Bel20 sluit positieve week behoudend af na koersval Argenx appeared first on Trends.be.",
+   "date": "2026-10-16T18:18:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Twee genomineerde essays voor de Joost Zwagerman Prijs geschreven met AI",
+   "link": "https://www.trouw.nl/cultuur-media/twee-genomineerde-essays-voor-de-joost-zwagerman-prijs-geschreven-met-ai~bf476e12/",
+   "description": "",
+   "date": "2026-10-16T17:51:51",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "ASML kan tot en met 2028 niet genoeg chipmachines produceren om aan de vraag te voldoen",
+   "link": "https://businessam.be/asml-kan-tot-en-met-2028-niet-genoeg-chipmachines-produceren-om-aan-de-vraag-te-voldoen/",
+   "description": "Key takeaways CEO Christophe Fouquet had eerder beloofd dat ASML de groei van de halfgeleiderindustrie niet zou afremmen. Toch geeft het bedrijf nu toe dat het tot en met 2028 niet genoeg geavanceerde chipmachines kan leveren om aan de vraag te voldoen. Dat meldt Reuters. Dat zet de discussie bij aandeelhouders en klanten op scherp. […]",
+   "date": "2026-10-16T17:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggersvertrouwen in België keldert, terwijl AI steeds meer terrein wint",
+   "link": "https://businessam.be/belgische-beleggers-gebruiken-steeds-vaker-ai-maar-vertrouwen-blijft-beperkt/",
+   "description": "Key takeaways Het beleggersvertrouwen in België is aanzienlijk gedaald: de ING-beleggersbarometer zakte in september van 103 naar 89 punten. Daarmee dook de index onder de neutrale drempel van 100 punten. Economisch pessimisme De daling is voornamelijk toe te schrijven aan het pessimisme over de Belgische economie en de minder optimistische verwachtingen voor de aandelenmarkt. Volgens […]",
+   "date": "2026-10-16T17:16:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Soms kwam er geen enkele student opdagen bij een les van de pabo in Rotterdam. Nu móéten studenten actief meedoen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/16/soms-kwam-er-geen-enkele-student-opdagen-bij-een-les-van-de-pabo-in-rotterdam-nu-moeten-studenten-actief-meedoen-a4939015",
+   "description": "Studenten besteden minder tijd aan hun studie, docenten staan regelmatig voor halflege collegezalen. En AI chatbots helpen met het maken van opdrachten. Het hoger onderwijs kampt met een ‘studeercrisis’, volgens onderzoekers. . ‘Je wil dat studenten zelf doorhebben: wij willen bij de les zijn.’",
+   "date": "2026-10-16T17:06:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
   {
    "title": "China wil exportbeperking voor AI-modellen en zonnepanelen",
    "link": "https://tweakers.net/nieuws/253422/china-wil-exportbeperking-voor-ai-modellen-en-zonnepanelen.html",
@@ -379,6 +601,17 @@
     "VRT NWS - Artikels"
    ],
    "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De wereldeconomie verschuilt haar leed achter een glimlach",
+   "link": "https://www.nrc.nl/nieuws/2026/10/16/de-wereldeconomie-verschuilt-haar-leed-achter-een-glimlach-a4939122",
+   "description": "Tegen de klippen op blijft de economie wereldwijd groeien. Maar de risico’s van AI, handelsconflicten en staatsschulden stapelen zich op.",
+   "date": "2026-10-16T15:03:45",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-17",
    "intro_geprobeerd": false
   },
   {
