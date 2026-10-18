@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T02:40:32",
+ "generated": "2026-10-18T16:17:17",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 24,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 30,
    "error": null
   },
   {
@@ -196,8 +196,8 @@
   {
    "name": "Emerce - Artikels",
    "url": "https://www.emerce.nl/rss",
-   "count": 10,
-   "error": null
+   "count": 0,
+   "error": "ValueError: Geen <channel> of Atom <feed> gevonden, dit lijkt geen geldige feed."
   },
   {
    "name": "Gazet van Antwerpen - Economie",
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 158,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,116 @@
   }
  ],
  "articles": [
+  {
+   "title": "Google verbetert betrouwbaarheid van kwantumcomputers met efficiëntere techniek",
+   "link": "https://businessam.be/google-verbetert-betrouwbaarheid-van-kwantumcomputers-met-efficientere-techniek/",
+   "description": "Key takeaways Recent onderzoek dat in Science is gepubliceerd, beschrijft een belangrijke vooruitgang in de kwantumcomputing. De Quantum AI-afdeling van Google is erin geslaagd de foutpercentages met ongeveer een factor 40 te verlagen met behulp van de Willow-processor. De onderzoekers pakken daarmee een cruciaal obstakel aan. Betrouwbare kwantumtoestanden creëren vergt namelijk enorme hoeveelheden rekenkracht en […]",
+   "date": "2026-10-18T15:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-datacenters nu belangrijke militaire doelen, waarschuwt VN-adviseur",
+   "link": "https://businessam.be/ai-datacenters-nu-belangrijke-militaire-doelen-waarschuwt-vn-adviseur/",
+   "description": "Key takeaways De ontwikkeling van de moderne oorlogsvoering vereist een complete herziening van de manier waarop Europa zijn infrastructuur voor artificiële intelligentie (AI) ontwikkelt. Daarvoor waarschuwt Mehdi Paryavi, VN-adviseur en oprichter van de denktank “International Data Center Authority” in een interview met Euronews. Hij wijst erop dat datacenters zijn veranderd van eenvoudige nutscentra in militaire […]",
+   "date": "2026-10-18T14:13:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China gaat export van AI en technologie voor zonne-energie beperken",
+   "link": "https://www.hln.be/internet/china-gaat-export-van-ai-en-technologie-voor-zonne-energie-beperken~a94a3912/",
+   "description": "Het Chinese ministerie van Handel wil strengere beperkingen voor de export van 40 sleuteltechnologieën, zoals AI, fotovoltaïsche zonnepanelen en biomedische wetenschappen. Voor 14 van die technologieën moet er een verbod komen, voor de 26 andere is er goedkeuring van het ministerie nodig.",
+   "date": "2026-10-18T13:15:23",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-agent gebruikt gestolen cryptotokens om een programmeertaak af te ronden",
+   "link": "https://businessam.be/openai-agent-gebruikt-gestolen-cryptotokens-om-een-programmeertaak-af-te-ronden/",
+   "description": "Key takeaways Tijdens een interne trainingsfase op 26 juni toonde een onderzoeksmodel van OpenAI, bekend als GPT-5.6 Sol, dat het autorisatiebeperkingen kon omzeilen om een geprogrammeerde doelstelling te bereiken. De agent moest een prototype voor de handel in cryptovaluta verfijnen en slimme contracten implementeren op Sepolia, een testnetwerk van ethereum. Dat meldt het bedrijf in […]",
+   "date": "2026-10-18T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cijferseizoen komende week verder op stoom",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/cijferseizoen-komende-week-verder-op-stoom/",
+   "description": "(ABM FN) In de komende beursweek komt het cijferseizoen echt op stoom, terwijl het op macro-economisch gebied wat minder spannend is.AI, inflatie en rente bepalen het sentiment, volgens investment manager Simon Wiersma van ING.\"De combinatie van hogere energieprijzen, oplopende rentes, geopolitieke onzekerheid en de start van het cijferseizoen zorgt voor voldoende ingrediënten voor beweeglijke markten\", aldus …\nThe post Cijferseizoen komende week verder op stoom appeared first on Trends.be.",
+   "date": "2026-10-18T12:03:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dankzij AI kreeg Denemarken te maken met de grootste hack in zijn geschiedenis: de gegevens van 8,8 miljoen Denen werden gestolen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/18/dankzij-ai-kreeg-denemarken-te-maken-met-de-grootste-hack-in-zijn-geschiedenis-de-gegevens-van-88-miljoen-denen-werden-gestolen-a4938945",
+   "description": "Een hacker kon eenvoudig het Deense bevolkingsregister binnenkomen, waarbij hij dankzij AI binnen enkele dagen miljoenen gegevens verzamelde. Niet AI, maar „het grootste probleem is dat er veel data wordt verzameld zonder dat de Denen weten wat, waar en hoe”, zegt expert Thomas Ploug.",
+   "date": "2026-10-18T12:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "IMF-ledenoverleg getekend door verdeeldheid over Rusland, VS krijgen geen steun voor term ‘<b>super intelligence</b>’",
+   "link": "https://www.nrc.nl/nieuws/2026/10/18/imf-ledenoverleg-getekend-door-verdeeldheid-over-rusland-vs-krijgen-geen-steun-voor-term-super-intelligence-a4939198",
+   "description": "Europese landen liepen weg tijdens overleg tussen de 191 lidstaten van het Internationaal Monetair Fonds, toen de Russische minister sprak. Ook over de benaming van AI en over klimaatverandering als economische factor was onenigheid.",
+   "date": "2026-10-18T11:17:55",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jana Jonckheere, hoofd communicatie Nationale Bank: ‘Het is afwachten in welke mate AI een wondermiddel voor de economie is’",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/jana-jonckheere-hoofd-communicatie-nationale-bank-het-is-afwachten-in-welke-mate-ai-een-wondermiddel-voor-de-economie-is/",
+   "description": "Jana Jonckheere is een van de nieuwe gezichten van de Nationale Bank. Als hoofd communicatie helpt ze de bank aan een plek in het maatschappelijk debat. \"Dat is niet vanzelfsprekend in een wereld waarin radicale meningen veel aandacht krijgen. We willen echter absoluut onze neutraliteit en geloofwaardigheid bewaken, het is dus hard werken om gehoord te worden\", zegt Jana Jonckheere.\nThe post Jana Jonckheere, hoofd communicatie Nationale Bank: ‘Het is afwachten in welke mate AI een wondermiddel voor de economie is’ appeared first on Trends.be.",
+   "date": "2026-10-18T09:34:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia ontkent dat het stopt met RTX 5090",
+   "link": "https://tweakers.net/nieuws/253452/nvidia-ontkent-dat-het-stopt-met-rtx-5090.html",
+   "description": "Nvidia stopt niet met de RTX 5090. Eerder gingen er nog geruchten dat Nvidia de duurste consumentenvideokaart niet meer zou produceren, maar het bedrijf ontkent dat nu. De gpu is ook weer te vinden in Nvidia's webshop, al is die daar nog steeds niet te koop.",
+   "date": "2026-10-18T09:10:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verenigde Staten en Rusland bespreken gezamenlijke datacenterprojecten",
+   "link": "https://businessam.be/verenigde-staten-en-rusland-bespreken-gezamenlijke-datacenterprojecten/",
+   "description": "Key takeaways De Verenigde Staten en Rusland zijn momenteel in gesprek om gezamenlijke datacenterprojecten op te zetten. Dat vertelde de speciale vertegenwoordiger van de Russische president Vladimir Poetin, Kirill Dmitriev, tijdens het “Russian Energy Week” forum in Moskou. Volgens Dmitriev zullen er naar verwachting binnenkort verschillende gezamenlijke programma’s worden bekendgemaakt. Hij erkende dat de onderhandelingen […]",
+   "date": "2026-10-18T07:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Apple en Nvidia hebben elk 25 miljoen dollar geschonken voor Trumps nieuwe balzaal in het Witte Huis",
    "link": "https://businessam.be/apple-en-nvidia-hebben-elk-25-miljoen-dollar-geschonken-voor-trumps-nieuwe-balzaal-in-het-witte-huis/",
@@ -745,6 +855,17 @@
     "De Tijd - Politiek Belgie"
    ],
    "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schoolreisjes kunnen beter naar datacenters en kerncentrales gaan",
+   "link": "https://www.nrc.nl/nieuws/2026/10/16/schoolreisjes-kunnen-beter-naar-datacenters-en-kerncentrales-gaan-a4938969",
+   "description": "In Wat gaan mijn kinderen later doen? belicht econoom Daniel Susskind werken in een toekomst met AI. Zekerheid over soorten banen en vereiste vaardigheden biedt hij niet. Leren omgaan met kunstmatige intelligentie – dat is wél belangrijk. En, zegt hij, je kiest geen beroep meer, maar een vakgebied dat je interesseert.",
+   "date": "2026-10-16T12:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-18",
    "intro_geprobeerd": false
   },
   {
