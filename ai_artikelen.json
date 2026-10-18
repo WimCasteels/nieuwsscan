@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T16:03:26",
+ "generated": "2026-10-18T02:40:32",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 155,
    "error": null
   },
   {
@@ -315,6 +315,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "Apple en Nvidia hebben elk 25 miljoen dollar geschonken voor Trumps nieuwe balzaal in het Witte Huis",
+   "link": "https://businessam.be/apple-en-nvidia-hebben-elk-25-miljoen-dollar-geschonken-voor-trumps-nieuwe-balzaal-in-het-witte-huis/",
+   "description": "Key takeaways Volgens een vertrouwelijk intern document over fondsenwerving dat is uitgelekt naar The Washington Post, hebben Apple en Nvidia elk 25 miljoen dollar (elk 22,2 miljoen euro) bijgedragen aan de bouw van de nieuwe balzaal van president Donald Trump in het Witte Huis. Deze twee techgiganten staan samen met Charles Ergen, medeoprichter van Dish […]",
+   "date": "2026-10-17T21:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-18",
+   "intro_geprobeerd": false
+  },
   {
    "title": "China overweegt exportbeperkingen voor AI-technologie",
    "link": "https://www.hln.be/tech/china-overweegt-exportbeperkingen-voor-ai-technologie~a458fa90/",
@@ -546,6 +557,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-10-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nu AI er is, weet Fukuyama het ook niet meer",
+   "link": "https://www.nrc.nl/nieuws/2026/10/16/nu-ai-er-is-weet-fukuyama-het-ook-niet-meer-a4939140",
+   "description": "Ooit voorspelde hij 'het einde van de geschiedenis'. Wat is er over van de aanvankelijke bravoure van Francis Fukuyama?",
+   "date": "2026-10-16T18:02:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-18",
    "intro_geprobeerd": false
   },
   {
@@ -1120,6 +1142,17 @@
     "Volkskrant - Tech"
    ],
    "first_seen": "2026-10-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Een ‘AI-godfather’ ziet buitenaardse wezens ontstaan. Bij Anthropic zullen ze er niet raar van opkijken",
+   "link": "https://www.volkskrant.nl/tech/een-ai-godfather-ziet-buitenaardse-wezens-ontstaan-bij-anthropic-zullen-ze-er-niet-raar-van-opkijken~bb59bf8e/",
+   "description": "",
+   "date": "2026-10-15T18:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-18",
    "intro_geprobeerd": true
   },
   {
