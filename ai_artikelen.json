@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T02:50:49",
+ "generated": "2026-10-19T19:19:26",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 26,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 23,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 157,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 87,
    "error": null
   },
   {
@@ -315,6 +315,271 @@
   }
  ],
  "articles": [
+  {
+   "title": "China zal AI, biotech en zonnepanelen niet zomaar meer uitvoeren: “Dit is een sterk chantagemiddel”",
+   "link": "https://www.standaard.be/economie/china-zal-ai-biotech-en-zonnepanelen-niet-zomaar-meer-uitvoeren-dit-is-een-sterk-chantagemiddel/163267828.html",
+   "description": "China vergroot de greep op de eigen ondernemers én op de internationale waardeketens dramatisch. “Met zijn exportcontroles zegt Peking: je krijgt geen deel van onze innovatie, tenzij je hier blijft.”",
+   "date": "2026-10-19T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oud koppel in ondergoed en respect voor ambulances: valse en echte beelden van de protesten in Frankrijk circuleren online",
+   "link": "https://vrtnws.be/p.GvoLXevPP",
+   "description": "De protesten van Franse studenten en gele hesjes hebben geleid tot een stroom aan beelden van vernielingen en plunderingen op sociale media. Die tonen echte beelden van relschoppers die brand stichten aan gebouwen, maar ook vredig protest dat plaatsmaakt voor hulpdiensten. Ook valse beelden gaan rond: van een gerucht over een ouder koppel in ondergoed dook al snel een AI-beeld op.",
+   "date": "2026-10-19T17:12:43",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Nvidia zegt dat de RTX 5090 leeft, maar maakt dat nog uit met deze prijzen?",
+   "link": "https://tweakers.net/reviews/15490/nvidia-zegt-dat-de-rtx-5090-leeft-maar-maakt-dat-nog-uit-met-deze-prijzen.html",
+   "description": "Ondanks de vele geruchten zegt Nvidia dat de RTX 5090 niet end-of-life is. Tegelijkertijd is de videokaart duurder dan ooit. Waarom zou je hem nog kopen?",
+   "date": "2026-10-19T17:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rusland en de Verenigde Staten verwerpen verbod op autonome AI-wapens",
+   "link": "https://businessam.be/rusland-en-de-verenigde-staten-verwerpen-verbod-op-autonome-ai-wapens/",
+   "description": "Key takeaways De Russische regering heeft geweigerd een onmiddellijk verbod op dodelijke autonome wapensystemen (LAWS) te steunen. Het gaat om technologieën die gebruikmaken van AI en algoritmen om doelen aan te vallen zonder menselijke aansturing. Voorbarig Volgens Oleg Postnikov, een hooggeplaatste functionaris van de afdeling Non-proliferatie en Wapenbeheersing van het Russische ministerie van Buitenlandse Zaken, […]",
+   "date": "2026-10-19T16:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI bouwt Photoshop en Word na. Mag dat zomaar?",
+   "link": "https://www.standaard.be/economie/ai-bouwt-photoshop-en-word-na.-mag-dat-zomaar/163039071.html",
+   "description": "Een piepklein softwarebedrijf heeft met AI de belangrijkste apps van Adobe en Microsoft nagebouwd. Maar het bedrijf geeft toe dat er nog wat werk aan is. Is dat technisch mogelijk en zo ja, is het legaal?",
+   "date": "2026-10-19T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: foto van ‘beroofde tachtigers in Parijs’ is niet authentiek",
+   "link": "https://www.knack.be/factcheck/factcheck-foto-van-beroofde-tachtigers-in-parijs-is-niet-authentiek/",
+   "description": "Op sociale media gaat een foto viraal van een ouder koppel dat zaterdag zou zijn beroofd en halfnaakt achtergelaten tijdens de zware rellen in Parijs. Het beeld blijkt gemaakt of bewerkt met artificiële intelligentie.  \nThe post Factcheck: foto van ‘beroofde tachtigers in Parijs’ is niet authentiek appeared first on Knack.",
+   "date": "2026-10-19T16:20:05",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video: AI dominante thema voor dit cijferseizoen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-ai-dominante-thema-voor-dit-cijferseizoen/",
+   "description": "(ABM FN-Dow Jones) De focus zal dit cijferseizoen vooral liggen op alles wat met AI te maken heeft. Dit zei beleggingsstrateeg Ralph Wessels voor de camera tegen ABM Financial News.Klik hier voor: AI het dominante thema voor dit cijferseizoenVolgens Wessels is niet alles rozengeur en maneschijn in de AI-wereld. \"De winstgevendheid van de pure AI-spelers blijft …\nThe post Video: AI dominante thema voor dit cijferseizoen appeared first on Trends.be.",
+   "date": "2026-10-19T15:34:12",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hype rond beursgang Anthropic bekoelt, meldt Reuters",
+   "link": "https://tweakers.net/nieuws/253494/hype-rond-beursgang-anthropic-bekoelt-meldt-reuters.html",
+   "description": "De hype rond de komende beursgang van Anthropic zou bekoelen. De verwachte beurswaarde van de AI-aanbieder daalt door zorgen over minder omzet en over de aanhoudend grote investeringen in AI. Dit meldt persbureau Reuters.",
+   "date": "2026-10-19T15:21:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brasschaat lanceert WhatsApp-dienst waar AI-assistent vragen van burgers beantwoordt",
+   "link": "https://vrtnws.be/p.xZYPYWQMA",
+   "description": "De gemeente Brasschaat is vanaf nu ook bereikbaar via WhatsApp. Inwoners krijgen via dat kanaal antwoord op hun vragen van een AI-gestuurde assistent. \"Inwoners kunnen zo snel en eenvoudig de gemeente contacteren via een laagdrempelig kanaal\", klinkt het. De AI-assistent haalt zijn informatie van de gemeentelijke site. Er blijft menselijke controle.",
+   "date": "2026-10-19T15:16:22",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street heeft verdeelde opening voor de boeg",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-heeft-verdeelde-opening-voor-de-boeg/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen stevenen maandag af op een verdeelde opening. Na de flinke verkoopgolf van vorige week, lijken beleggers weer voorzichtig in te stappen in AI-aandelen.Met nog ruim een half uur te gaan, noteerden de futures op de toonaangevende S&P 500-index een plus van 0,5 procent. De Nasdaq-future steeg met 1,3 procent, terwijl …\nThe post Wall Street heeft verdeelde opening voor de boeg appeared first on Trends.be.",
+   "date": "2026-10-19T14:56:58",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese economie groeit in het derde kwartaal met 4,5 procent, aangedreven door AI-technologie",
+   "link": "https://businessam.be/chinese-economie-groeit-in-het-derde-kwartaal-met-45-procent-aangedreven-door-ai-technologie/",
+   "description": "Key takeaways Aangedreven door een sterke opmars van artificiële intelligentie kende China in het derde kwartaal een economische opleving, waarmee het land zich herstelde van een dieptepunt dat drie jaar had geduurd. Officiële statistieken geven aan dat de economie in de periode tot en met september met 4,5 procent groeide. Dit huidige percentage ligt aan […]",
+   "date": "2026-10-19T14:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic richt fonds op om vertrouwen in AI te herstellen en arbeidsmarkt te ondersteunen",
+   "link": "https://businessam.be/anthropic-richt-fonds-op-om-vertrouwen-in-ai-te-herstellen-en-arbeidsmarkt-te-ondersteunen/",
+   "description": "Key takeaways Om het groeiende gebrek aan vertrouwen van het publiek in artificiële intelligentie – dat CEO Dario Amodei een “vertrouwenscrisis” heeft genoemd – tegen te gaan, richt Anthropic een speciaal fonds voor het “algemeen belang” op. Dit initiatief is bedoeld om de organisatie meer capaciteit en aanpassingsvermogen te bieden bij het financieren van projecten […]",
+   "date": "2026-10-19T14:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft trekt stekker uit Britse datacenterdeal met Nscale",
+   "link": "https://tweakers.net/nieuws/253488/microsoft-trekt-stekker-uit-britse-datacenterdeal-met-nscale.html",
+   "description": "Microsoft trekt zich terug uit een Britse datacenterdeal met Nscale. Het datacenter moest in het Britse Essex komen. Waarom Microsoft nu uit de overeenkomst stapt, is onduidelijk. Wat er nu met de locatie gaat gebeuren, is ook niet bekend.",
+   "date": "2026-10-19T13:58:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waar is de toekomst gebleven?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/19/waar-is-de-toekomst-gebleven-a4939283",
+   "description": "De toekomst houdt zich schuil in allerlei onderzoeksgroepen waar mensen niet zitten te griezelen over hoe AI de mensheid zal vernietigen, maar kijken hoe AI kan helpen om archieven te ontsluiten of diagnoses te stellen.",
+   "date": "2026-10-19T13:51:27",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic stopt 5 procent van zijn aandelen in nieuw maatschappelijk fonds",
+   "link": "https://tweakers.net/nieuws/253486/anthropic-stopt-5-procent-van-zijn-aandelen-in-nieuw-maatschappelijk-fonds.html",
+   "description": "Anthropic schenkt vijf procent van zijn aandelen aan een nieuw eigen fonds voor het maatschappelijk belang. Met dat kapitaal doneert het nieuwe Anthropic Public Benefit Fund aan maatschappelijke projecten. De ontvangers kunnen traditionele non-profitorganisaties zijn, maar bijvoorbeeld ook specifieke bevolkingsgroepen.",
+   "date": "2026-10-19T13:24:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TSMC: correctie is instapkans",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/tsmc-correctie-is-instapkans/",
+   "description": "Beleggers plaatsten de voorbije dagen opnieuw vraagtekens achter de enorme investeringen in AI. Raken deze investeringen nog gefinancierd tegen een achtergrond van hogere rentevoeten? En kan een voldoende return verdiend worden? Anders gezegd, is AI op de beurs een zeepbel of rust de investeringsgolf op gezonde fundamenten?De Taiwanese chipbakker TSMC kwam op 15 oktober bij …\nThe post TSMC: correctie is instapkans appeared first on Trends.be.",
+   "date": "2026-10-19T13:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk wil alle Amerikaanse kinderen aandeel in SpaceX geven",
+   "link": "https://www.hln.be/tech/elon-musk-wil-alle-amerikaanse-kinderen-aandeel-in-spacex-geven~a8ade197/",
+   "description": "Elon Musk zal volgend jaar elk kind in de Verenigde Staten een van zijn aandelen in zijn tech- en ruimtevaartbedrijf SpaceX geven. Dat heeft hij maandag gezegd op X, het socialemediaplatform dat ook van hem is. De aankondiging van Musk volgt op een bericht van het AI-bedrijf Anthropic dat het bedrijf achter chatbot Claude een deel van zijn aandelen wil reserveren voor het algemeen belang.",
+   "date": "2026-10-19T11:58:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jeroen Van Hautte over de verkoop van TechWolf aan SAP: ‘We zijn niet langer een Belgische underdog’",
+   "link": "https://trends.knack.be/ondernemen/jeroen-van-hautte-over-de-verkoop-van-techwolf-aan-sap-we-waren-de-underdog/",
+   "description": "Gent is enkele miljonairs rijker. De scale-up TechWolf, die de hr-sector moderniseert met artificiële intelligentie, is verkocht aan de beursgenoteerde softwaregigant SAP. CTO Jeroen Van Hautte blikt terug én kijkt vooruit: \"We hebben de identiteitsswitch gemaakt van Belgische underdog naar Europees techbedrijf dat marktleider kan worden.\"\t\t\t\nThe post Jeroen Van Hautte over de verkoop van TechWolf aan SAP: ‘We zijn niet langer een Belgische underdog’ appeared first on Trends.be.",
+   "date": "2026-10-19T11:15:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-AI-agent steelt cryptotokens tijdens testfase",
+   "link": "https://businessam.be/openai-ai-agent-steelt-cryptotokens-tijdens-testfase/",
+   "description": "Key takeaways Een door OpenAI ontwikkelde AI-agent heeft onlangs ongeoorloofde activiteiten verricht door tijdens een testfase cryptovaluta-wallets te infiltreren. Testnetwerk Tijdens het uitvoeren van een taak op Sepolia, een testnetwerk van Ethereum, kreeg het GPT-5.6 Sol-model de opdracht om een cryptohandelplatform te lanceren. Om deze implementatie te voltooien, had de agent testtokens nodig. Ondanks de […]",
+   "date": "2026-10-19T09:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren verdeeld ondanks meevallende Chinese groei",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-verdeeld-ondanks-meevallende-chinese-groei/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen lieten maandagochtend een ingetogen beeld zien, na de forse verliezen op Wall Street vrijdagavond. Meevallende Chinese groeicijfers boden steun, maar zorgen over de financiering en winstgevendheid van AI resulteerden in aanhoudende druk op technologieaandelen.De Nikkei index in Tokio verloor 0,7 procent, terwijl de Zuid-Koreaanse Kospi 0,2 procent won. Shanghai steeg …\nThe post Aziatische beurzen noteren verdeeld ondanks meevallende Chinese groei appeared first on Trends.be.",
+   "date": "2026-10-19T07:15:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-lager-48/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan maandag een rode opening tegemoet, na een sterke beursweek met winsten van 2 tot 3 procent, maar een rood slot op Wall Street op vrijdagavond.Zorgen over de torenhoge investeringen in AI hadden voor de rentemarkten een gunstig effect, want staatsobligaties bleken als veilige haven in trek en dus …\nThe post Europese beurzen openen lager appeared first on Trends.be.",
+   "date": "2026-10-19T07:05:12",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schietpartij in Canada zet debat over meldingsplicht en privacy bij AI-bedrijven op scherp",
+   "link": "https://businessam.be/schietpartij-in-canada-zet-debat-over-meldingsplicht-en-privacy-bij-ai-bedrijven-op-scherp/",
+   "description": "Key takeaways Een schietpartij in Tumbler Ridge, Canada, heeft een kritische discussie op gang gebracht over de verantwoordelijkheid van AI-ontwikkelaars om geweldsdreigingen te melden, versus hun plicht om de vertrouwelijkheid van gebruikers te beschermen. Vóór de aanslag, waarbij meerdere mensen omkwamen, waaronder studenten en familieleden, zou de dader naar verluidt ChatGPT van OpenAI hebben gebruikt […]",
+   "date": "2026-10-19T07:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Versnellen datacenters echt de energietransitie? “De markt heeft zijn grenzen”",
+   "link": "https://apache.be/2026/10/19/versnellen-datacenters-echt-energietransitie-markt-heeft-zijn-grenzen",
+   "description": "De snelle groei van datacentra doet ook de vraag naar elektriciteit toenemen.",
+   "date": "2026-10-19T06:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Gemeenten zien meer AI-bezwaarschriften, die vaak extra werk kosten",
+   "link": "https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html",
+   "description": "Gemeenten krijgen vaker te maken met bezwaarschriften die door AI zijn gegenereerd. Ook experimenteren sommige gemeenten zelf met AI voor de verwerking van bezwaren.",
+   "date": "2026-10-19T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Een provocerend scenario voor een betaalbare welvaartsstaat na de AI-revolutie",
    "link": "https://www.standaard.be/opinies/een-provocerend-scenario-voor-een-betaalbare-welvaartsstaat-na-de-ai-revolutie/163232698.html",
