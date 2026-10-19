@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T16:17:17",
+ "generated": "2026-10-19T02:50:49",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 26,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 24,
+   "count": 23,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 162,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,61 @@
   }
  ],
  "articles": [
+  {
+   "title": "Een provocerend scenario voor een betaalbare welvaartsstaat na de AI-revolutie",
+   "link": "https://www.standaard.be/opinies/een-provocerend-scenario-voor-een-betaalbare-welvaartsstaat-na-de-ai-revolutie/163232698.html",
+   "description": "De AI-revolutie zal gepaard moeten gaan met een belastingverschuiving van arbeid naar kapitaal, gezien het jobverlies. De concurrentiekracht van ondernemers hoeft daar alleen niet onder te lijden, schrijft Jade Salhab.",
+   "date": "2026-10-18T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "What Congress can do to prevent an AI catastrophe",
+   "link": "https://www.nrc.nl/nieuws/2026/10/18/what-congress-can-do-to-prevent-an-ai-catastrophe-a4939120",
+   "description": "Lawrence Lessig and Yoshua Bengio suggest how to reduce serious risks without abandoning American technological leadership.",
+   "date": "2026-10-18T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta breidt zijn AI-aanbod uit met het open-weightmodel ‘Muse Spark Open’",
+   "link": "https://businessam.be/meta-breidt-zijn-ai-aanbod-uit-met-het-open-weightmodel-muse-spark-open/",
+   "description": "Key takeaways Meta heeft een nieuw AI-model met open gewichten geïntroduceerd, Muse Spark Open. Het model is specifiek ontworpen voor agentische workflows en programmeren. Dit volgt op de recente lancering van Muse Wonder, een geavanceerder systeem dat Meta propriëtair wil houden. Bedrijfsvertegenwoordiger Alexandr Wang verklaarde dat Meta om redenen die verband houden met beveiliging en […]",
+   "date": "2026-10-18T21:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noord-Korea test het door AI aangedreven Zam-2.0-torpedosysteem",
+   "link": "https://businessam.be/noord-korea-test-het-door-ai-aangedreven-zam-2-0-torpedosysteem/",
+   "description": "Key takeaways Pyongyang heeft zaterdag bekendgemaakt dat de test van de Zam-2.0, een geavanceerd torpedosysteem met geïntegreerde artificiële intelligentie (AI), succesvol is verlopen. Volgens berichten van het staatsnieuwsagentschap KCNA maakt het hogesnelheidswapen gebruik van AI-technologie om de geleidingsmogelijkheden te verbeteren en de doelidentificatie te verfijnen. De recente oefening was specifiek gericht op het bevestigen van […]",
+   "date": "2026-10-18T20:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Taiwan investeert 4 miljard dollar in AI- en chipcentrum in Texas",
+   "link": "https://businessam.be/taiwan-investeert-4-miljard-dollar-in-ai-en-chipcentrum-in-texas/",
+   "description": "Key takeaways Taiwan start een project van 4 miljard dollar (3,6 miljard euro) om een industrieel centrum in Texas te bouwen, gericht op het integreren van de toeleveringsketens voor halfgeleiders en hardware voor artificiële intelligentie (AI). Volgens het Taiwanese Ministerie van Economische Zaken zal deze faciliteit het ecosysteem rond techgiganten als Nvidia en TSMC ondersteunen. […]",
+   "date": "2026-10-18T19:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-19",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Google verbetert betrouwbaarheid van kwantumcomputers met efficiëntere techniek",
    "link": "https://businessam.be/google-verbetert-betrouwbaarheid-van-kwantumcomputers-met-efficientere-techniek/",
