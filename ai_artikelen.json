@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T19:19:26",
+ "generated": "2026-10-20T03:36:06",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 25,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 154,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "AI-agents veroveren de VS. Volgt straks Europa? ‘Het wordt moeilijk om dit tegen te houden’",
+   "link": "https://www.demorgen.be/nieuws/ai-agents-veroveren-de-vs-volgt-straks-europa-het-wordt-moeilijk-om-dit-tegen-te-houden~b4e35a9ce/",
+   "description": "",
+   "date": "2026-10-20T03:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft trekt zich terug uit Britse AI-datacenterovereenkomst door energieproblemen",
+   "link": "https://businessam.be/microsoft-trekt-zich-terug-uit-britse-ai-datacenterovereenkomst-door-energieproblemen/",
+   "description": "Key takeaways Het doel van het Verenigd Koninkrijk om wereldleider te worden op het gebied van artificiële intelligentie heeft een tegenslag gekregen na het besluit van Microsoft om zich terug te trekken uit een overeenkomst voor een datacenter. Het technologiebedrijf had eerder afspraken gemaakt om rekenkracht te huren van Nscale, een door Nvidia gesteund infrastructuurbedrijf, […]",
+   "date": "2026-10-19T22:49:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: Nscale en Anthropic onderhandelen over tweede miljardendeal",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-nscale-en-anthropic-onderhandelen-over-tweede-miljardendeal/",
+   "description": "(ABM FN-Dow Jones) Het Britse AI-cloudcomputingbedrijf Nscale onderhandelt om rekenkracht te verkopen aan Anthropic in een deal die ongeveer 45 miljard dollar waard zou kunnen zijn. Dit meldde persbureau Bloomberg maandagavond op basis van bronnen. Het is niet de eerste samenwerking tussen de twee bedrijven. Anthropic heeft al overeenkomsten met Nscale voor AI-infrastructuur met een waarde van …\nThe post Media: Nscale en Anthropic onderhandelen over tweede miljardendeal appeared first on Trends.be.",
+   "date": "2026-10-19T22:43:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Siemens wil met fysieke AI de productiviteit in fabrieken fors verhogen",
+   "link": "https://businessam.be/siemens-wil-fabrieksautomatisering-optrekken-tot-80-procent-met-behulp-van-ai/",
+   "description": "Key takeaways Cedrik Neike, lid van de raad van bestuur van Siemens, stelde onlangs dat de integratie van artificiële intelligentie industriële banen in landen met hoge kosten, zoals Duitsland, kan beschermen. Dat kan door de automatisering aanzienlijk op te voeren. Hogere productiviteit is noodzakelijk Tijdens een bezoek aan de elektronicafabriek van het bedrijf in Erlangen […]",
+   "date": "2026-10-19T21:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe voorwaarden Meta zaaien onrust bij nieuwsmedia",
+   "link": "https://www.tijd.be/r/t/1/id/10696196",
+   "description": "In een update van zijn gebruiksvoorwaarden eigent de Amerikaanse techreus Meta zich het recht toe om websites verbonden aan businessaccounts leeg te schrapen en te gebruiken als trainingsdata voor AI. Volgens experts mag het bedrijf in Europa rechtszaken verwachten als het doorzet.",
+   "date": "2026-10-19T20:06:14",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techreuzen ontpoppen zich tot wilde weldoeners",
+   "link": "https://www.standaard.be/economie/techreuzen-ontpoppen-zich-tot-wilde-weldoeners/163288039.html",
+   "description": "De AI-start-up Anthropic en Elon Musk beloven elk miljarden dollars uit te delen aan de Amerikaanse bevolking. Daar zit meer achter dan alleen filantropie.",
+   "date": "2026-10-19T19:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De torenhoge schulden van de AI-sector maken beleggers nerveus",
+   "link": "https://www.standaard.be/economie/de-torenhoge-schulden-van-de-ai-sector-maken-beleggers-nerveus/163297320.html",
+   "description": "De schuldenberg van AI-bedrijven loopt op tot 3.000 miljard dollar en geld lenen wordt alsmaar duurder. Wie draait op voor de rekening bij een crash?",
+   "date": "2026-10-19T19:40:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
   {
    "title": "China zal AI, biotech en zonnepanelen niet zomaar meer uitvoeren: “Dit is een sterk chantagemiddel”",
    "link": "https://www.standaard.be/economie/china-zal-ai-biotech-en-zonnepanelen-niet-zomaar-meer-uitvoeren-dit-is-een-sterk-chantagemiddel/163267828.html",
