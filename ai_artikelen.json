@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T03:36:06",
+ "generated": "2026-10-20T17:33:01",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 25,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 154,
+   "count": 153,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 85,
    "error": null
   },
   {
@@ -316,12 +316,245 @@
  ],
  "articles": [
   {
+   "title": "'Schoolverlaters mogen zich niet blindstaren op Big Four om ervaring op te doen'",
+   "link": "https://www.tijd.be/r/t/1/id/10696335",
+   "description": "Welke rol kunnen grote consultants en auditors nog spelen als professioneel lanceerplatform voor schoolverlaters? Die vraag dringt zich op nu de Big Four in de branche minder juniors aanwerven door de AI-revolutie en het barre economische klimaat. 'Dat bespaart hen nu wel geld, maar ze dreigen op langere termijn expertise te mislopen.'",
+   "date": "2026-10-20T17:05:16",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wiskunde speelde een belangrijke rol in mijn leven &#8211; tot AI zich ermee ging bemoeien",
+   "link": "https://www.nrc.nl/nieuws/2026/10/20/wiskunde-speelde-een-belangrijke-rol-in-mijn-leven-tot-ai-zich-ermee-ging-bemoeien-a4938968",
+   "description": "Bijna alle wiskundige projecten waaraan Piet Lammers als onderzoeker werkte, werden onlangs in één klap opgelost door AI. Een ontwikkeling met belang voor de hele samenleving: hoe blijven wij zelf ‘slim’ als we die slimheid eigenlijk niet meer nodig hebben?",
+   "date": "2026-10-20T17:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het omstreden Character.AI is failliet, Disney krijgt deel van technologie en personeel in handen",
+   "link": "https://www.standaard.be/media-en-cultuur/het-omstreden-character.ai-is-failliet-disney-krijgt-deel-van-technologie-en-personeel-in-handen/163274293.html",
+   "description": "De technologie en mogelijk een flink deel van het personeel van Character.AI komt, na een faillissement, terecht bij Disney. Boven Character.AI hing een reeks rechtszaken, onder meer vanwege de dood van een tiener.",
+   "date": "2026-10-20T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse federale instanties mogen DeepSeek AI niet meer gebruiken",
+   "link": "https://businessam.be/amerikaanse-federale-instanties-mogen-deepseek-ai-niet-meer-gebruiken/",
+   "description": "Key takeaways Federale instanties in de Verenigde Staten hebben de opdracht gekregen om het gebruik van AI-software van het Chinese bedrijf DeepSeek te staken. Civiele departementen geviseerd De richtlijn, die maandag door het Ministerie van Binnenlandse Veiligheid is uitgevaardigd, vereist dat de eigen tools van DeepSeek, evenals alle applicaties van derden die op die technologie […]",
+   "date": "2026-10-20T16:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI wil met nieuwe financieringsronde zijn waardering boven 1,4 biljoen dollar brengen",
+   "link": "https://businessam.be/openai-wil-met-nieuwe-financieringsronde-zijn-waardering-boven-14-biljoen-dollar-brengen/",
+   "description": "Key takeaways Volgens een recent bericht van Reuters versnelt OpenAI zijn inspanningen om ongeveer 30 miljard dollar (26,7 miljard euro) aan nieuwe financiering binnen te halen. Het bedrijf wil zo de steun van investeerders veiligstellen voordat concurrent Anthropic naar verwachting medio november naar de beurs trekt. Als dat lukt, zou de kapitaalinjectie de waardering van […]",
+   "date": "2026-10-20T15:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Friedrich Merz wil Duitse industrie versterken met grootschalige invoering van AI",
+   "link": "https://businessam.be/friedrich-merz-dringt-er-bij-duitse-bedrijven-op-aan-om-ai-in-te-zetten-om-de-economie-te-stimuleren/",
+   "description": "Key takeaways Tijdens een industriële conferentie in Berlijn riep bondskanselier Friedrich Merz Duitse bedrijven maandag op om artificiële intelligentie in hun bedrijfsvoering te integreren. De top dient als platform om nieuw kapitaal aan te trekken en kreeg opvallend bezoek van Jensen Huang, CEO van Nvidia. Merz stelde dat de invoering van AI essentieel is om […]",
+   "date": "2026-10-20T14:58:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OM beschuldigt duo van het maken van valse identiteitsbewijzen met AI",
+   "link": "https://www.security.nl/posting/958303/OM+beschuldigt+duo+van+het+maken+van+valse+identiteitsbewijzen+met+AI?channel=rss",
+   "description": "Het Openbaar Ministerie (OM) beschuldigt twee mannen uit Groningen van  grootschalige  fraude met kortlopende ...",
+   "date": "2026-10-20T14:17:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gamestudio Digital Sun stopt met publieke speeltests uit angst voor AI-clones",
+   "link": "https://tweakers.net/nieuws/253542/gamestudio-digital-sun-stopt-met-publieke-speeltests-uit-angst-voor-ai-clones.html",
+   "description": "Indiestudio Digital Sun Games stopt met publieke speeltestsessies uit angst voor met AI nagemaakte games. De towerdefencegame ReVamp krijgt geen publieke test. Onlangs maakte een andere onafhankelijke gamemaker dezelfde keuze omdat games met programmeertools als Claude Opus gemakkelijk nagemaakt kunnen worden.",
+   "date": "2026-10-20T14:05:03",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Je baas belt, maar het is je baas niet: Gents bedrijf wil wereldwijd werknemers wapenen tegen AI-oplichting",
+   "link": "https://www.hln.be/tech/je-baas-belt-maar-het-is-je-baas-niet-gents-bedrijf-wil-wereldwijd-werknemers-wapenen-tegen-ai-oplichting~a9ac4e4d/",
+   "description": "Je telefoon trilt: een sms zogezegd van je bank, een vals bericht over een pakje dat niet geleverd kon worden, een fictieve boete die je nog moet betalen. Bijna iedereen herkent het. Maar wat als het volgende telefoontje van je baas komt, met zijn stem, zijn manier van praten, en een dringende vraag om snel een betaling goed te keuren? Het Gentse cyberbeveiligingsbedrijf Aikido wil werknemers wereldwijd beter wapenen tegen phishing. Want er is een belangrijke reden waarom die steeds overtuigender wordt.",
+   "date": "2026-10-20T14:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Afmetingen van nieuwe Amerikaanse bommenwerper B-21 Raider eindelijk onthuld",
+   "link": "https://businessam.be/afmetingen-van-nieuwe-amerikaanse-bommenwerper-b-21-raider-eindelijk-onthuld/",
+   "description": "Key takeaways De werkelijke afmetingen van de B-21 Raider zijn eindelijk duidelijk geworden, waarmee een einde komt aan een periode van speculatie en onnauwkeurige voorspellingen over de grootte. Eerdere geruchten ontkracht Een tijdlang werd sociale media overspoeld met door AI gegenereerde gegevens en amateuristische grafieken die suggereerden dat het vliegtuig een spanwijdte had van minder […]",
+   "date": "2026-10-20T13:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek gaat met Huawei AI-chips ontwikkelen om minder afhankelijk te worden van Nvidia",
+   "link": "https://businessam.be/deepseek-gaat-met-huawei-ai-chips-ontwikkelen-om-minder-afhankelijk-te-worden-van-nvidia/",
+   "description": "Key takeaways In een strategische zet om de afhankelijkheid van Nvidia te verminderen, is de Chinese AI-start-up DeepSeek een samenwerking aangegaan met Huawei Technologies om gespecialiseerde halfgeleiders voor artificiële intelligentie te ontwikkelen. Volgens berichtgeving van The Information heeft Huawei ingenieurs bij DeepSeek ingezet om de hardware af te stemmen op de specifieke behoeften van de […]",
+   "date": "2026-10-20T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gearresteerde OpenAI-medewerker onderhield contact met Saoedisch koningshuis",
+   "link": "https://tweakers.net/nieuws/253534/gearresteerde-openai-medewerker-onderhield-contact-met-saoedisch-koningshuis.html",
+   "description": "De OpenAI-medewerker die onlangs in de Verenigde Staten werd gearresteerd voor verdenking van het plaatsen van afluisterapparatuur had uitvoerig contact met een lid van het Saoedische koningshuis. Voor zover bekend werd hij tijdens dat contact niet gevraagd om het vermeende afluisterapparaat te plaatsen.",
+   "date": "2026-10-20T12:33:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Niet elk AI-foutje valt weg te lachen",
+   "link": "https://apache.be/2026/10/20/Opgepikt",
+   "description": "Wat schrijven de kranten niét? Apache pikt het op in deze doorlopende blog.",
+   "date": "2026-10-20T12:24:27",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google lanceert Gemini voor overheden",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/google-lanceert-gemini-voor-overheden/",
+   "description": "(ABM FN-Dow Jones) Google heeft Gemini for government services gelanceerd. Dit maakte het techbedrijf dinsdagmiddag bekend.Het gaat om een speciaal voor overheden gelanceerde dienst met AI-agents die taken van ambtenaren kan overnemen.Vooralsnog is de service alleen beschikbaar in de VS. De staat Missouri en het Amerikaanse ministerie van Volksgezondheid maken al gebruik van de dienst.Het is …\nThe post Google lanceert Gemini voor overheden appeared first on Trends.be.",
+   "date": "2026-10-20T12:14:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-foutjes in beleidsdocumenten van Vlaams minister Demir: \"Misschien moet je ze laten nalezen door Copilot?\"",
+   "link": "https://vrtnws.be/p.kQOKApBD9",
+   "description": "\"Als je wilt, kan je ook de relevante tekst hier plakken\": in documenten over het Vlaamse arbeidsmarktbeleid zijn enkele kladzinnetjes van een AI-tool beland. Vlaams Parlementslid Stephanie D'Hose (Anders) zet daarover bevoegd minister Zuhal Demir (N-VA) met een knipoog op haar plaats.",
+   "date": "2026-10-20T11:53:49",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De CIO is aan een upgrade toe",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/de-cio-is-aan-een-upgrade-toe/",
+   "description": "AI stelt de rol van de CIO danig op de proef. Terwijl de technologie de CIO bij uitstek de kans biedt om uit te blinken als innovator, blijft hij in de praktijk al te vaak vastzitten in de rol van brandweerman. De focus op stakeholder satisfaction is een eerste stap om die impasse te doorbreken, zegt adviesbureau Info-Tech.\nThe post De CIO is aan een upgrade toe appeared first on Trends.be.",
+   "date": "2026-10-20T11:00:58",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Drie AI-experts: ‘Over vier jaar is 20 procent van alle kennisjobs overbodig. En wie mag blijven, levert salaris in’",
+   "link": "https://www.demorgen.be/tech-ai/ai-experts-vincent-ginis-peter-hinssen-en-steven-latre-over-vier-jaar-is-20-procent-van-alle-kennisjobs-overbodig-en-wie-mag-blijven-levert-salaris-in~bbd9f5fe/",
+   "description": "",
+   "date": "2026-10-20T10:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amerikaanse ambtenaren mogen Chinese AI-tool DeepSeek niet meer gebruiken",
+   "link": "https://tweakers.net/nieuws/253518/amerikaanse-ambtenaren-mogen-chinese-ai-tool-deepseek-niet-meer-gebruiken.html",
+   "description": "De Amerikaanse overheid verbiedt het gebruik van de Chinese AI-tool DeepSeek voor alle federale overheidsinstanties, met uitzondering van het ministerie van Defensie. De VS vreest dat gevoelige informatie in handen kan komen van de Chinese overheid.",
+   "date": "2026-10-20T08:29:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Melexis gaat meerjarige samenwerking aan met Neways",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/melexis-gaat-meerjarige-samenwerking-aan-met-neways/",
+   "description": "(ABM FN) Melexis gaat een meerjarige samenwerking aan met het Nederlandse Neways voor geavanceerde sensorbehuizingen. Dit maakte Neways dinsdagochtend bekend. De samenwerking richt zich op geavanceerde behuizingen voor de Triphibian-druksensoren van Melexis, die worden gebruikt voor de temperatuurregeling in elektrische voertuigen en AI-datacenters. Triphibian-sensoren zijn zeer kleine MEMS-oplossingen, die de druk rechtstreeks in zowel vloeistoffen als …\nThe post Melexis gaat meerjarige samenwerking aan met Neways appeared first on Trends.be.",
+   "date": "2026-10-20T08:23:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-zorgen drukken Aziatische beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ai-zorgen-drukken-aziatische-beurzen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden dinsdagochtend lager. Zorgen over de financiering en winstgevendheid van de AI-investeringen drukten vooral Zuid-Koreaanse chipaandelen, ondanks het herstel van de Amerikaanse techsector op maandag.De Kospi index verloor 4,4 procent en de Nikkei daalde met 1,2 procent. Hongkong leverde 1,1 procent in, terwijl Shanghai slechts licht in het rood noteerde. …\nThe post AI-zorgen drukken Aziatische beurzen appeared first on Trends.be.",
+   "date": "2026-10-20T07:10:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom we zo graag geloven dat ‘Russische bots’ zijn lamgelegd door Oekraïense drones",
+   "link": "https://www.knack.be/nieuws/wereld/waarom-we-zo-graag-geloven-dat-russische-bots-zijn-lamgelegd-door-oekraiense-drones/",
+   "description": "De Oekraïense president Volodymyr Zelensky beweerde beïnvloedingsoperaties uit Rusland te hebben lamgelegd met luchtaanvallen op Russische datacenters. Wie dat geloofde, nam vooral zijn wensen voor werkelijkheid.\nThe post Waarom we zo graag geloven dat ‘Russische bots’ zijn lamgelegd door Oekraïense drones appeared first on Knack.",
+   "date": "2026-10-20T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AI-agents veroveren de VS. Volgt straks Europa? ‘Het wordt moeilijk om dit tegen te houden’",
    "link": "https://www.demorgen.be/nieuws/ai-agents-veroveren-de-vs-volgt-straks-europa-het-wordt-moeilijk-om-dit-tegen-te-houden~b4e35a9ce/",
    "description": "",
    "date": "2026-10-20T03:00:00",
    "feeds": [
-    "De Morgen - In Het Nieuws"
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-10-20",
    "intro_geprobeerd": true
@@ -373,6 +606,17 @@
   {
    "title": "Techreuzen ontpoppen zich tot wilde weldoeners",
    "link": "https://www.standaard.be/economie/techreuzen-ontpoppen-zich-tot-wilde-weldoeners/163288039.html",
+   "description": "De AI-start-up Anthropic en Elon Musk beloven elk miljarden dollars uit te delen aan de Amerikaanse bevolking. Daar zit meer achter dan alleen filantropie.",
+   "date": "2026-10-19T19:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk en Anthropic beloven plots elk om miljarden dollars uit te delen aan de Amerikaanse bevolking",
+   "link": "https://www.standaard.be/economie/elon-musk-en-anthropic-beloven-plots-elk-om-miljarden-dollars-uit-te-delen-aan-de-amerikaanse-bevolking/163288039.html",
    "description": "De AI-start-up Anthropic en Elon Musk beloven elk miljarden dollars uit te delen aan de Amerikaanse bevolking. Daar zit meer achter dan alleen filantropie.",
    "date": "2026-10-19T19:50:00",
    "feeds": [
@@ -917,7 +1161,8 @@
    "description": "In Farciennes ging veertig jaar geleden de allerlaatste steenkoolmijn van Wallonië dicht. Nu strijkt Google er neer met datacenters. Wat zoekt de internetreus in Wallonië, en heeft België daar wel goed over nagedacht? “België geldt voor Google als een vipbestemming.”",
    "date": "2026-10-16T23:59:00",
    "feeds": [
-    "De Standaard - Binnenland"
+    "De Standaard - Binnenland",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-10-17",
    "intro_geprobeerd": false
