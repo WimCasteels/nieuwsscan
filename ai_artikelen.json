@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T03:18:54",
+ "generated": "2026-10-21T18:00:34",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -22,13 +22,13 @@
   {
    "name": "Data News - Artikels",
    "url": "https://trends.knack.be/feed/?host=datanews.knack.be",
-   "count": 50,
-   "error": null
+   "count": 0,
+   "error": "ParseError: syntax error: line 1, column 0"
   },
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 30,
    "error": null
   },
   {
@@ -238,8 +238,8 @@
   {
    "name": "Knack - Artikels",
    "url": "https://www.knack.be/feed/",
-   "count": 50,
-   "error": null
+   "count": 0,
+   "error": "ParseError: syntax error: line 1, column 0"
   },
   {
    "name": "NOS - Tech",
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 161,
    "error": null
   },
   {
@@ -262,8 +262,8 @@
   {
    "name": "Security.NL - Artikels",
    "url": "https://www.security.nl/rss/headlines.xml",
-   "count": 50,
-   "error": null
+   "count": 0,
+   "error": "ParseError: mismatched tag: line 17, column 2"
   },
   {
    "name": "Techzine - Artikels",
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 25,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 92,
    "error": null
   },
   {
@@ -316,6 +316,216 @@
  ],
  "articles": [
   {
+   "title": "Reuters: Chinese techbedrijven kopen voor 35 miljard dollar aan RTX PRO-gpu's",
+   "link": "https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html",
+   "description": "ByteDance, Alibaba en Tencent hebben meer dan drie miljoen Nvidia RTX PRO 5500-videokaarten besteld, schrijft Reuters. De totale waarde van al die kaarten zou meer dan 35 miljard dollar zijn, melden twee bronnen aan het persbureau.",
+   "date": "2026-10-21T17:44:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI schat op basis van een foto de overlevingskans na kanker in: ‘Waanzinnig dat dit kan’",
+   "link": "https://www.demorgen.be/nieuws/ai-schat-op-basis-van-een-foto-de-overlevingskans-na-kanker-in-waanzinnig-dat-dit-kan~b2ec51f1/",
+   "description": "",
+   "date": "2026-10-21T17:42:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI, Wiz en Calif werkten voor lek al maanden aan fix voor PHP-kwetsbaarheden",
+   "link": "https://tweakers.net/nieuws/253600/openai-wiz-en-calif-werkten-voor-lek-al-maanden-aan-fix-voor-php-kwetsbaarheden.html",
+   "description": "Cybersecuritybedrijven Wiz, Calif en ChatGPT-aanbieder OpenAI werkten al twee maanden aan een oplossing voor de recente PHP-kwetsbaarheden. Informatie over die kwetsbaarheden lekte onlangs uit, waardoor wereldwijd talloze sites uit voorzorg offline gingen. Inmiddels is er een beveiligingsupdate voor de kwetsbaarheid.",
+   "date": "2026-10-21T17:10:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rusland wil sneller nieuwe vliegtuigen ontwikkelen met de hulp met AI",
+   "link": "https://businessam.be/rusland-wil-sneller-nieuwe-vliegtuigen-ontwikkelen-met-de-hulp-met-ai/",
+   "description": "Key takeaways De United Aircraft Corporation (UAC), de belangrijkste producent van de Russische civiele en militaire luchtvaart, integreert artificiële intelligentie en geavanceerde software om de ontwikkeling van toekomstige vliegtuigen te versnellen. Ontwikkelingskosten verlagen Door over te stappen op digitale modellering wil het staatsbedrijf de ontwikkelingskosten verlagen en de tijd die nodig is om vernieuwde vliegtuigversies […]",
+   "date": "2026-10-21T16:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bijna de helft van de Nederlandse Kamerleden gebruikt AI om toespraken te schrijven",
+   "link": "https://businessam.be/bijna-de-helft-van-de-nederlandse-kamerleden-gebruikt-ai-om-toespraken-te-schrijven/",
+   "description": "Key takeaways Uit een onderzoek van De Groene Amsterdammer en Investico blijkt dat een aanzienlijk deel van de Nederlandse Kamerleden AI gebruikt bij het schrijven van bijdragen aan wetgevingsdebatten. Door transcripties van de eerste negen maanden van het jaar te onderzoeken, stelden onderzoekers vast dat ten minste 68 van de 150 Kamerleden openingsredevoeringen hielden waarvan […]",
+   "date": "2026-10-21T16:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Moeten Zuckerberg, Huang, Thiel en co. 5 procent van hun vermogen afstaan?",
+   "link": "https://www.tijd.be/r/t/1/id/10696323",
+   "description": "Krijgt Californië, de thuishaven van Silicon Valley, ’s werelds eerste belasting voor miljardairs? In een referendum gekoppeld aan de midterms stemmen inwoners over een eenmalige heffing van 5 procent voor de allerrijksten. Lees: de tech- en AI-bonzen wier vermogen is geëxplodeerd.",
+   "date": "2026-10-21T16:18:34",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zoveel sites in één klap plat: hoe kan dat? En zijn je gegevens veilig?",
+   "link": "https://nos.nl/l/2636090",
+   "description": "Allerlei websites gaan uit voorzorg uit de lucht, van RTL Nieuws, DigiD en MijnOverheid tot de website van de Tweede Kamer. Wat is er precies aan de hand en waar komt dit grote beveiligingslek opeens vandaan?\n        Hoe kwam dit lek aan het licht?\n        Gisteren kwam de organisatie achter PHP, een programmeertaal waar veel websites uit zijn opgebouwd, met een aankondiging, zoals makers van software dat wel vaker doen: woensdag zou er een oplossing komen voor een probleem met PHP. Dat doen softwaremakers zodat iedereen zich kan voorbereiden op een oplossing.\n        In dit geval hebben hackers die aankondiging echter aangegrepen om het precieze lek te lokaliseren en informatie erover naar buiten te brengen. Met die informatie is het relatief eenvoudig om het lek te misbruiken.\n        Wat is PHP?\n        PHP is een programmeertaal. Het is een van de oertalen van het wereldwijde web; de eerste versie kwam al in 1995 uit. Hoewel de populariteit is afgenomen doordat er nieuwe programmeertalen met een hipper imago verschenen, is het nog steeds een van de stille drijvende krachten achter het web.\n        Liveblog\n        Volg de laatste ontwikkelingen over het lek in ons liveblog.\n        Het softwarelek van vandaag zit in de zogenoemde interpreter, een stukje software dat de door programmeurs geschreven commando's vertaalt naar iets wat de computer begrijpt.\n        Hoe ernstig is dit lek?\n        Het gaat om twee weeffouten in PHP. Doordat veel websites PHP gebruiken, zijn dus ook meteen veel websites kwetsbaar. Hoe ernstig een site is getroffen, verschilt van geval tot geval.\n        Op zichzelf zijn het al twee relatief ernstige lekken. Alle softwarelekken krijgen een score op een schaal van 0 tot 10, een zogenoemde CVE-score. Deze twee lekken krijgen allebei een 9,2.\n        Wie deze weeffouten kan misbruiken, kan zichzelf naar binnen wurmen op een website en bijvoorbeeld klantdata stelen, verder inbreken in het bedrijf achter de website of nieuwe aanvallen op bezoekers openen.\n        Wat het ernstiger maakt, is dat er pas rond vier uur 's middags een oplossing kwam, terwijl het lek al urenlang leek te worden misbruikt. Een permanente oplossing was er simpelweg niet totdat de makers van PHP een nieuwe versie uitbrachten; al die tijd waren sites kwetsbaar.\n        Is het overdreven om uit voorzorg websites uit de lucht te halen?\n        Wat dit lek ernstig maakt, is dat er geen echte oplossing was. Website-eigenaren konden hun best doen om verdacht verkeer te blokkeren, maar dat werkte niet volledig: er konden altijd hackpogingen doorheen komen en slagen. Omdat er geen waterdichte oplossing was, kozen veel website-eigenaren eieren voor hun geld.\n        Toch is offline halen niet de enige oplossing. Een andere is om alle interactieve functies uit te schakelen, zodat een bezoeker bijvoorbeeld niet meer kan inloggen, reacties kan achterlaten of bestanden kan uploaden. Voor een site als DigiD heeft dat weinig nut, maar een site met alleen informatie zou zo bijvoorbeeld online kunnen blijven. Of dat in de praktijk op korte termijn kan, is een ander verhaal.\n        Zijn mijn data nu gestolen?\n        Er zijn nog geen concrete voorbeelden van misbruik bekend, maar de kans is groot dat die nog wel zullen volgen. Er zijn dus geen aanwijzingen dat websites al getroffen zijn, laat staan dat ze vervolgens privégegevens van hun gebruikers lekken, maar het is zeker niet uitgesloten.\n        En de kans dat het gaat gebeuren is nog groter, want veel website-eigenaren updaten hun software veel te laat. Vooral sites van kleinere bedrijven en hobbysites draaien soms jaren oude versies. De komende tijd zijn die dus extra kwetsbaar.\n        Wat zegt dit over de kwetsbaarheid van internet?\n        Hoe groot het internet ook is, uiteindelijk is een relatief kleine verzameling programmeertalen en software de drijvende kracht erachter. Een ernstig softwarelek kan er daarom voor zorgen dat veel websites of andere computersystemen in één keer getroffen zijn, en dat gebeurt vandaag niet voor het eerst.\n        Ook maakt AI het steeds makkelijker om lekken in software te vinden, en kan dat steeds sneller. De ethische hackers die de lekken in eerste instantie vonden en aan de makers van PHP meldden, gebruikten ook AI. Of de kwaadwillende hackers die de code voor iedereen publiceerden, dat ook deden, is onbekend.\n        Hoelang duurt het voordat de getroffen websites weer online staan?\n        De zogenoemde patch van PHP staat inmiddels online, dus nu is het in principe een kwestie van updaten. Als alles goed gaat, zouden websites relatief kort daarna weer moeten werken. Al kunnen er altijd toch problemen optreden.\n        Zo zou het kunnen dat veel meer mensen dan normaal opeens een PHP-update willen downloaden, waardoor de servers overbelast raken. Ook kunnen software-updates altijd misgaan. De kans dat de bewuste websites later vanavond of zelfs morgen nog offline zijn, lijkt echter klein.",
+   "date": "2026-10-21T15:42:49",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-teksten klinken in Kamerdebatten: 'Gaat ten koste van geloofwaardigheid'",
+   "link": "https://www.nu.nl/tech/6413896/ai-teksten-klinken-in-kamerdebatten-gaat-ten-koste-van-geloofwaardigheid.html",
+   "description": "Tientallen Tweede Kamerleden spraken dit jaar in debatten teksten uit die grotendeels met AI waren gemaakt, blijkt uit onderzoek van Investico en De Groene Amsterdammer. Deskundigen zijn bang dat het vertrouwen in de politiek op deze manier nog verder daalt.",
+   "date": "2026-10-21T15:37:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk voorziet een toekomst waarin geld irrelevant wordt als de mensheid andere planeten koloniseert",
+   "link": "https://businessam.be/elon-musk-voorziet-een-toekomst-waarin-geld-irrelevant-wordt-als-de-mensheid-andere-planeten-koloniseert/",
+   "description": "Key takeaways Elon Musk is van mening dat financiële rijkdom uiteindelijk achterhaald kan raken naarmate de mensheid evolueert naar een multiplanetaire beschaving. In een gesprek met biograaf Walter Isaacson in de podcast The Builders suggereerde de topman van SpaceX en Tesla dat traditionele valuta hun betekenis zullen verliezen zodra doorbraken in ruimteverkenning en robotica een […]",
+   "date": "2026-10-21T15:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politici gebruiken ChatGPT op grote schaal tijdens debatten, maar hoe erg is dat? ‘Er rust nog een taboe op’",
+   "link": "https://www.trouw.nl/binnenland/politici-gebruiken-chatgpt-op-grote-schaal-tijdens-debatten-maar-hoe-erg-is-dat-er-rust-nog-een-taboe-op~b41138e7/",
+   "description": "",
+   "date": "2026-10-21T15:22:20",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic boekt forse omzetgroei, maar de hoge infrastructuurkosten vergroten de financiële risico’s",
+   "link": "https://businessam.be/anthropic-boekt-forse-omzetgroei-maar-de-hoge-infrastructuurkosten-vergroten-de-financiele-risicos/",
+   "description": "Key takeaways Anthropic bereidt zich voor op een grootschalige beursgang waarbij het bedrijf mogelijk op 2 biljoen dollar (1,8 biljoen euro) wordt gewaardeerd. Uit recente voorlopige documenten blijkt dat het bedrijf een periode van explosieve financiële groei doormaakt. De AI-pionier uit San Francisco rapporteerde in de eerste helft van 2026 een omzet van 16,3 miljard […]",
+   "date": "2026-10-21T15:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vogelvrij AI-gebruik legt het failliet van de Tweede Kamer bloot",
+   "link": "https://www.trouw.nl/opinie/vogelvrij-ai-gebruik-legt-het-failliet-van-de-tweede-kamer-bloot~b2e6e484/",
+   "description": "",
+   "date": "2026-10-21T15:01:46",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nu SpaceX niet draait op raketbrandstof maar op rekenkracht komt de fusie met Tesla heel dichtbij",
+   "link": "https://www.standaard.be/economie/nu-spacex-niet-draait-op-raketbrandstof-maar-op-rekenkracht-komt-de-fusie-met-tesla-heel-dichtbij/163380284.html",
+   "description": "Comités met onafhankelijke bestuurders bij SpaceX en Tesla onderzoeken een fusie. Grote baas Elon Musk drukte bij de presentatie van de kwartaalcijfers van SpaceX de hoop uit dat die fusie er komt. “Wij kunnen sneller datacenters bouwen dan andere hyperscalers.”",
+   "date": "2026-10-21T14:20:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta schakelt deelfunctie van de populaire AI-agent Muse uit na privacyproblemen",
+   "link": "https://www.volkskrant.nl/tech/meta-schakelt-deelfunctie-van-de-populaire-ai-agent-muse-uit-na-privacyproblemen~b54cb87f/",
+   "description": "",
+   "date": "2026-10-21T13:07:33",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "“Drie uur in plaats van vier uur tussen twee paracetamols? Daar hoef je niet voor te bellen”: wanneer neem je wél contact op met het Antigifcentrum?",
+   "link": "https://www.hln.be/gezondheid/drie-uur-in-plaats-van-vier-uur-tussen-twee-paracetamols-daar-hoef-je-niet-voor-te-bellen-wanneer-neem-je-wel-contact-op-met-het-antigifcentrum~a5a48afc/",
+   "description": "“Als je twijfelt, neem contact op met het Antigifcentrum.” De populariteit van AI-chatbots als ChatGPT leidt tot een recordaantal oproepen bij dat centrum. Maar lang niet alle oproepen zijn terecht, en intussen komen mensen met echte noodgevallen in de wachtrij te staan. Dus: wanneer moet je naar het Antigifcentrum bellen en wanneer niet? Woordvoerder Patrick De Cock geeft concrete voorbeelden.",
+   "date": "2026-10-21T13:00:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie het nieuws wil ontwijken valt ten prooi aan de algoritmes",
+   "link": "https://www.nrc.nl/nieuws/2026/10/21/wie-het-nieuws-wil-ontwijken-valt-ten-prooi-aan-de-algoritmes-a4939344",
+   "description": "Kun je ongestraft stoppen met het volgen van het nieuws? Dan wordt de taaie werkelijkheid al snel omgevormd tot een nihilistische strijd.",
+   "date": "2026-10-21T13:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Vibecoders schrijven zelf firmware die ads en bloatware uit tv's verwijdert",
+   "link": "https://tweakers.net/geek/253576/vibecoders-schrijven-zelf-firmware-die-ads-en-bloatware-uit-tvs-verwijdert.html",
+   "description": "Een beetje tweaker heeft wel wat manieren gevonden om geen advertenties in zijn of haar smart-tv te krijgen. Een Pi-hole aan het thuisnetwerk koppelen bijvoorbeeld, of een Chromecast kopen en de tv in de eerste plaats niet met internet verbinden. Maar creatieve programmeurs hebben nu een ander idee. Met hulp van AI schrijven ze zelf firmware en launchers waar geen ads in zitten.",
+   "date": "2026-10-21T10:26:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Plan - Felienne Hermans op de Dev Summit over AI en code: 'Leer het omdat het leuk is!'",
+   "link": "https://tweakers.net/plan/4864/felienne-hermans-op-de-dev-summit-over-ai-en-code-leer-het-omdat-het-leuk-is.html",
+   "description": "Wie software bouwt, bepaalt voor een deel hoe anderen werken en leven. Maar hoeveel weten programmeurs eigenlijk van die anderen?",
+   "date": "2026-10-21T08:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - AMD Radeon Software Adrenalin Edition 26.10.1 WHQL",
+   "link": "https://tweakers.net/downloads/78700/amd-radeon-software-adrenalin-edition-26101-whql.html",
+   "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.10.1 is ondersteuning voor versie 4.1 van AMD's FSR Upscaling toegevoegd. Ook bevat het verbeteringen voor de spellen Call of Duty: Modern Warfare 4, Star Wars: Galactic Racer en Final Fantasy Resonance, en is er een lange lijst met problemen die nog niet zijn verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Features",
+   "date": "2026-10-21T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Waarom beleggers zich massaal indekken tegen de AI-zeepbel: ‘De vraag is vooral of dat opnieuw tot een kettingreactie zal leiden’",
    "link": "https://www.demorgen.be/tech-ai/waarom-beleggers-zich-massaal-indekken-tegen-de-ai-zeepbel-de-vraag-is-vooral-of-dat-opnieuw-tot-een-kettingreactie-zal-leiden~b45842af/",
    "description": "",
@@ -345,6 +555,17 @@
    "feeds": [
     "HLN - Economie",
     "HLN - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mea non culpa",
+   "link": "https://www.nrc.nl/nieuws/2026/10/21/laat-de-ai-scriptie-de-wal-zijn-die-het-schip-keert-a4939347",
+   "description": "Laat de huidige AI-misère de wal zijn die het schip keert. Willen we universitaire opleidingen relevant houden, dan moeten we terug naar meer kleinschalig onderwijs, meer persoonlijk onderwijs, meer analoog onderwijs.",
+   "date": "2026-10-21T02:00:00",
+   "feeds": [
+    "NRC - Artikels"
    ],
    "first_seen": "2026-10-21",
    "intro_geprobeerd": false
@@ -1985,6 +2206,17 @@
     "Gazet van Antwerpen - Economie"
    ],
    "first_seen": "2026-10-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zo installeer en gebruik je een AI-assistent die al je meetings uitschrijft: “Als gratis gebruiker kun je al heel wat kanten uit”",
+   "link": "https://www.gva.be/lifestyle/zo-installeer-en-gebruik-je-een-ai-assistent-die-al-je-meetings-uitschrijft-als-gratis-gebruiker-kun-je-al-heel-wat-kanten-uit/162984016.html",
+   "description": "AI-transcriptie helpt je bij het noteren en analyseren van online meetings. Wij probeerden een populaire, gratis transcriptietool uit. En keken of er nog alternatieven zijn die een verslag maken zonder dat je ervoor hoeft te betalen.",
+   "date": "2026-10-16T02:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-21",
    "intro_geprobeerd": false
   },
   {
