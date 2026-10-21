@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T17:33:01",
+ "generated": "2026-10-21T03:18:54",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 153,
+   "count": 159,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 85,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,229 @@
   }
  ],
  "articles": [
+  {
+   "title": "Waarom beleggers zich massaal indekken tegen de AI-zeepbel: ‘De vraag is vooral of dat opnieuw tot een kettingreactie zal leiden’",
+   "link": "https://www.demorgen.be/tech-ai/waarom-beleggers-zich-massaal-indekken-tegen-de-ai-zeepbel-de-vraag-is-vooral-of-dat-opnieuw-tot-een-kettingreactie-zal-leiden~b45842af/",
+   "description": "",
+   "date": "2026-10-21T03:00:14",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De AI-sector stapelt de schulden op, tijd om de risico’s aan te pakken",
+   "link": "https://www.demorgen.be/meningen/de-ai-sector-stapelt-de-schulden-op-tijd-om-de-risico-s-aan-te-pakken~bebcd029/",
+   "description": "",
+   "date": "2026-10-21T03:00:12",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Musk ziet fusie tussen SpaceX en Tesla wel zitten: “Zou veel voordelen hebben”",
+   "link": "https://www.hln.be/economie/musk-ziet-fusie-tussen-spacex-en-tesla-wel-zitten-zou-veel-voordelen-hebben~a5bac105/",
+   "description": "Elon Musk ziet een fusie tussen zijn bedrijven Tesla en SpaceX wel zitten. Dat heeft de CEO dinsdag gezegd tijdens een webcast waarin ruimtevaart- en AI-bedrijf SpaceX voor het eerst sinds de beursgang een kwartaalwinst rapporteerde.",
+   "date": "2026-10-21T03:00:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Musk noemt fusie tussen SpaceX en Tesla “goed idee”",
+   "link": "https://www.gva.be/economie/bedrijven/musk-noemt-fusie-tussen-spacex-en-tesla-goed-idee/163373038.html",
+   "description": "Elon Musk ziet een fusie tussen zijn bedrijven Tesla en SpaceX wel zitten. Dat heeft de CEO dinsdag gezegd tijdens een webcast waarin ruimtevaart- en AI-bedrijf SpaceX voor het eerst sinds de beursgang een kwartaalwinst rapporteerde.",
+   "date": "2026-10-21T01:40:46",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Je moet de mensen wakker schudden”: Belgische politiek blijft opvallend stil over de nakende impact van AI",
+   "link": "https://www.standaard.be/economie/je-moet-de-mensen-wakker-schudden-belgische-politiek-blijft-opvallend-stil-over-de-nakende-impact-van-ai/163173542.html",
+   "description": "De Belg zit met meer vragen en zorgen over AI dan ooit. Maar in de Belgische politiek krijgt het onderwerp weinig aandacht. “Ik zou van politici meer over AI willen horen”, zegt arbeidseconoom Maarten Goos.",
+   "date": "2026-10-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/20/spacex-voert-omzet-flink-op-dankzij-ai-tak-en-groei-bij-starlink/",
+   "description": "Ruimtevaartbedrijf SpaceX heeft de omzet het afgelopen kwartaal ruim verdubbeld. Dat komt dankzij flink toegenomen opbrengsten uit zijn activiteiten rond artificiële intelligentie (AI) en een aanhoudende groei van satellietinternetdienst Starlink.",
+   "date": "2026-10-20T23:51:09",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink",
+   "link": "https://vrtnws.be/p.pAxQL16N9",
+   "description": "Ruimtevaartbedrijf SpaceX heeft de omzet het afgelopen kwartaal ruim verdubbeld. Dat komt dankzij flink toegenomen opbrengsten uit zijn activiteiten rond artificiële intelligentie (AI) en een aanhoudende groei van satellietinternetdienst Starlink. Het bedrijf boekte ook een miljardenwinst, tegen ruim 1 miljard dollar verlies in dezelfde periode een jaar eerder.",
+   "date": "2026-10-20T23:51:09",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX voert omzet flink op dankzij AI-tak en groei bij Starlink",
+   "link": "https://www.gva.be/buitenland/spacex-voert-omzet-flink-op-dankzij-ai-tak-en-groei-bij-starlink/163372297.html",
+   "description": "SpaceX heeft de omzet het afgelopen kwartaal ruim verdubbeld, dankzij flink toegenomen opbrengsten uit zijn activiteiten rond artificiële intelligentie (AI) en een aanhoudende groei van satellietinternetdienst Starlink. Ook werd een miljardenwinst in de boeken gezet, tegen ruim 1 miljard dollar verlies in dezelfde periode een jaar eerder.",
+   "date": "2026-10-20T23:09:01",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX boekt 4,4 miljard dollar winst, AI inmiddels grootste activiteit",
+   "link": "https://www.tijd.be/r/t/1/id/10696427",
+   "description": "Het Amerikaanse ruimtevaartbedrijf SpaceX heeft in het derde kwartaal 4,4 miljard dollar winst geboekt, tegenover ruim 1 miljard dollar verlies een jaar eerder. De omzet is bijna verdrievoudigd tot 14,6 miljard dollar, vooral dankzij de sterke groei van de AI-activiteiten.",
+   "date": "2026-10-20T22:51:22",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX boekt recordomzet door AI en Starlink",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/spacex-boekt-recordomzet-door-ai-en-starlink/",
+   "description": "(ABM FN-Dow Jones) SpaceX heeft in het derde kwartaal van 2026 een explosieve omzetgroei geboekt, voornamelijk gedreven door de snelle opmars van de Super Intelligence-tak (SI) en aanhoudende groei van satellietinternetdienst Starlink. Dit bleek uit de kwartaalcijfers van het ruimtevaart- en technologiebedrijf.De omzet steeg op jaarbasis met 161 procent naar 14,6 miljard dollar, tegen 5,6 miljard …\nThe post SpaceX boekt recordomzet door AI en Starlink appeared first on Trends.be.",
+   "date": "2026-10-20T22:33:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta’s kwartaalcijfers moeten meer duidelijkheid geven over AI-uitgaven en het succes van Muse",
+   "link": "https://businessam.be/metas-kwartaalcijfers-moeten-meer-duidelijkheid-geven-over-ai-uitgaven-en-het-succes-van-muse/",
+   "description": "Key takeaways Nu Meta zich voorbereidt om woensdag de financiële resultaten over het derde kwartaal bekend te maken, zullen beleggers de forse investeringen in artificiële intelligentie en het marktbereik van zijn digitale assistent Muse nauwlettend volgen. Mark Zuckerberg wil de inkomstenbronnen van het bedrijf diversifiëren en de afhankelijkheid van traditionele reclame verminderen. Zo wil Meta […]",
+   "date": "2026-10-20T22:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgische landmacht oefent met 2.000 militairen in Duitsland: ‘We staan klaar, ‘but we have to speed up’’",
+   "link": "https://www.tijd.be/r/t/1/id/10696420",
+   "description": "De NAVO ziet de Russische dreiging toenemen. Tijdens de grootste oefening in jaren bereidt de Belgische landmacht zich voor op een mogelijk conflict, met lessen uit de oorlog in Oekraïne. ‘De militair blijft belangrijk, maar robotica zal beslissend worden op het slagveld.’",
+   "date": "2026-10-20T21:33:48",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Micron investeert in Indium Corp om Amerikaanse aanvoer van grondstoffen voor chips veilig te stellen",
+   "link": "https://businessam.be/micron-investeert-in-indium-corp-om-amerikaanse-aanvoer-van-grondstoffen-voor-chips-veilig-te-stellen/",
+   "description": "Key takeaways Om de binnenlandse aanvoer van essentiële grondstoffen voor de chipproductie te versterken, heeft geheugenchipfabrikant Micron Technology een strategische investering in Indium Corp aangekondigd. Het bedrijf, dat in de staat New York is gevestigd, moet helpen de verwerking van kritieke mineralen voor geavanceerde halfgeleiders uit te breiden. Versterking van de binnenlandse productie De financiële […]",
+   "date": "2026-10-20T20:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Toekomst fragiel? Wikipedia maakt zich zorgen over AI: minder bezoekers en meer kans op desinformatie",
+   "link": "https://www.hln.be/internet/toekomst-fragiel-wikipedia-maakt-zich-zorgen-over-ai-minder-bezoekers-en-meer-kans-op-desinformatie~a8306099/",
+   "description": "De AI-samenvattingen van Google geven gebruikers direct antwoord op hun vraag, zonder dat zij hoeven door te klikken naar websites. Dat is gemakkelijk, maar baart onder meer Wikipedia zorgen. De online encyclopedie trekt al minder bezoekers.",
+   "date": "2026-10-20T20:34:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Fundament onder Wikipedia in gevaar: als je googelt, hoef je niet meer naar die site te klikken",
+   "link": "https://www.ad.nl/binnenland/fundament-onder-wikipedia-in-gevaar-als-je-googelt-hoef-je-niet-meer-naar-die-site-te-klikken~a8306099/",
+   "description": "De AI-samenvattingen van Google geven gebruikers direct antwoord op hun vraag, zonder dat zij hoeven door te klikken naar websites. Dat is gemakkelijk, maar baart onder meer Wikipedia zorgen. De online encyclopedie trekt minder bezoekers en maakt zich zorgen dat daardoor ook het aantal vrijwilligers afneemt.",
+   "date": "2026-10-20T19:56:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gameontwikkelaar stopt met openbare test uit angst voor AI-kopieën",
+   "link": "https://www.hln.be/pc/gameontwikkelaar-stopt-met-openbare-test-uit-angst-voor-ai-kopieen~a98355c1/",
+   "description": "Gamestudio Digital Sun Games houdt voorlopig geen openbare speeltest voor 'ReVamp'. De ontwikkelaar vreest dat anderen de game met AI-tools namaken en eerder uitbrengen dan het origineel. De towerdefensegame wordt verwacht op 25 maart 2027. In dit genre moeten spelers een gebied verdedigen tegen golven van aanvallers.",
+   "date": "2026-10-20T19:29:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD brengt FSR 4.1 naar RX 6000-gpu's en XBOX Series-consoles",
+   "link": "https://tweakers.net/nieuws/253558/amd-brengt-fsr-41-naar-rx-6000-gpus-en-xbox-series-consoles.html",
+   "description": "AMD maakt FSR 4.1 beschikbaar voor onder meer RX 6000-gpu's en binnenkort de XBOX Series S en X. Ook komt de upscalingtechniek beschikbaar voor handhelds met de Z2 A- en Z2 Extreme-chips, waaronder de ASUS ROG XBOX Ally X.",
+   "date": "2026-10-20T19:22:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipfabrikant Qualcomm ontslaat vanaf november medewerkers die ondermaats presteren",
+   "link": "https://businessam.be/chipfabrikant-qualcomm-ontslaat-vanaf-november-medewerkers-die-ondermaats-presteren/",
+   "description": "Key takeaways Volgens een interne mededeling die Reuters in handen heeft gekregen, is chipfabrikant Qualcomm van plan wereldwijd het personeelsbestand in te krimpen op basis van de prestaties van medewerkers. CEO Cristiano Amon heeft het personeel maandag laten weten dat deze ontslagen, die in november van start gaan, volgen op de afronding van de jaarlijkse […]",
+   "date": "2026-10-20T18:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AstraZeneca en Oracle zetten AI in om werving voor klinische proeven te versnellen",
+   "link": "https://businessam.be/astrazeneca-en-oracle-gaan-samenwerken-om-ai-in-te-zetten-voor-klinische-proeven/",
+   "description": "Key takeaways Om de werving voor klinische proeven te versnellen, zijn AstraZeneca en Oracle een strategisch partnerschap aangegaan. Ze zetten daarvoor artificiële intelligentie en geanonimiseerde medische dossiers in. Deze samenwerking maakt deel uit van een bredere trend waarbij farmaceutische bedrijven de handen ineen slaan met technologiereuzen om AI in de gezondheidszorg te integreren. Er is […]",
+   "date": "2026-10-20T17:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie bepaalt de agenda van het AI Safety Lab aan de KU Leuven?",
+   "link": "https://www.tijd.be/r/t/1/id/10696298",
+   "description": "Natuurlijk brengt krachtige AI risico’s mee, en dat levert relevante onderzoeksvragen op. Maar critici wijzen erop dat de focus op het einde van de mensheid de aandacht afleidt van de problemen die AI vandaag al veroorzaakt.",
+   "date": "2026-10-20T17:41:37",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
   {
    "title": "'Schoolverlaters mogen zich niet blindstaren op Big Four om ervaring op te doen'",
    "link": "https://www.tijd.be/r/t/1/id/10696335",
@@ -368,6 +591,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-10-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Biodiversiteit kan geen 265 jaar wachten",
+   "link": "https://www.nrc.nl/nieuws/2026/10/20/biodiversiteit-kan-geen-265-jaar-wachten-a4939363",
+   "description": "Oorlogen, geopolitieke instabiliteit en de stormachtige opkomst van AI vragen terecht om politieke aandacht. Maar ze mogen nooit een excuus zijn om de aanpak van de klimaat- en biodiversiteitscrisis uit te stellen.",
+   "date": "2026-10-20T15:25:24",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-21",
    "intro_geprobeerd": false
   },
   {
