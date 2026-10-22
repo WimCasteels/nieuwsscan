@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T18:00:34",
+ "generated": "2026-10-22T03:15:09",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -22,13 +22,13 @@
   {
    "name": "Data News - Artikels",
    "url": "https://trends.knack.be/feed/?host=datanews.knack.be",
-   "count": 0,
-   "error": "ParseError: syntax error: line 1, column 0"
+   "count": 50,
+   "error": null
   },
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 33,
    "error": null
   },
   {
@@ -238,8 +238,8 @@
   {
    "name": "Knack - Artikels",
    "url": "https://www.knack.be/feed/",
-   "count": 0,
-   "error": "ParseError: syntax error: line 1, column 0"
+   "count": 50,
+   "error": null
   },
   {
    "name": "NOS - Tech",
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 159,
    "error": null
   },
   {
@@ -262,8 +262,8 @@
   {
    "name": "Security.NL - Artikels",
    "url": "https://www.security.nl/rss/headlines.xml",
-   "count": 0,
-   "error": "ParseError: mismatched tag: line 17, column 2"
+   "count": 50,
+   "error": null
   },
   {
    "name": "Techzine - Artikels",
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 25,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 96,
    "error": null
   },
   {
@@ -315,6 +315,226 @@
   }
  ],
  "articles": [
+  {
+   "title": "Na het succes van Meta met Muse presenteert Anthropic zijn AI-agent “die alles kan”",
+   "link": "https://www.gva.be/buitenland/na-het-succes-van-meta-met-muse-presenteert-anthropic-zijn-ai-agent-die-alles-kan/163431730.html",
+   "description": "Anthropic heeft woensdag een nieuwe agent voor artificiële intelligentie (AI) onthuld, een mobiele applicatie in de testfase die inspeelt op de trend van interfaces die alles kunnen, zoals het bijzonder succesvolle Muse van Meta.",
+   "date": "2026-10-22T03:01:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta Platforms verhoogt investeringen: Muse blijkt rekenkrachtvreterje",
+   "link": "https://www.tijd.be/r/t/1/id/10696659",
+   "description": "Meta voert het tempo van zijn AI-offensief verder op, onder andere nu blijkt dat AI-agent Muse behoorlijk wat rekenkracht opeist. Beleggers lijken niet kritisch, aangezien de sociale mediareus ook beter dan verwachte resultaten voor kan leggen.",
+   "date": "2026-10-22T02:13:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ondanks monsterboetes overtreft Meta  verwachtingen en gaat het nog meer investeren in artificiële intelligentie",
+   "link": "https://www.gva.be/buitenland/ondanks-monsterboetes-overtreft-meta-verwachtingen-en-gaat-het-nog-meer-investeren-in-artificiele-intelligentie/163431550.html",
+   "description": "Het Amerikaanse socialemediabedrijf Meta heeft in het derde kwartaal de verwachtingen van analisten overtroffen. Het bedrijf boekte meer omzet en winst en kondigt woensdag ook aan dat het zijn investeringen in artificiële intelligentie (AI) nog zal opvoeren.",
+   "date": "2026-10-22T00:31:21",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Texas Instruments boekt fors hogere winst",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/texas-instruments-boekt-fors-hogere-winst-2/",
+   "description": "(ABM FN-Dow Jones) Texas Instruments heeft in het derde kwartaal van 2026 fors meer omzet en winst geboekt, gedreven door de aanhoudende groei in de industriële markt, datacenters en de automotive-sector. Dit bleek woensdag nabeurs uit de cijfers van de Amerikaanse chipmaker.De omzet steeg met 28 procent op jaarbasis tot 6,06 miljard dollar en lag 11 …\nThe post Texas Instruments boekt fors hogere winst appeared first on Trends.be.",
+   "date": "2026-10-21T22:26:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Update: meevallende cijfers voor Meta",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/meevallende-cijfers-voor-meta/",
+   "description": "(ABM FN-Dow Jones) Meta heeft in het derde kwartaal de omzet nog iets sterker dan verwacht zien stijgen, terwijl de winst hoger uitviel dan analisten hadden voorzien. Dit bleek woensdagavond uit de kwartaalcijfers van de eigenaar van Facebook, Instagram en WhatsApp. \"We hebben dit kwartaal belangrijke mijlpalen bereikt met onze reis naar persoonlijke superintelligentie voor iedereen, …\nThe post Update: meevallende cijfers voor Meta appeared first on Trends.be.",
+   "date": "2026-10-21T22:24:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: SpaceX blaast AI-rally terug in leven",
+   "link": "https://www.tijd.be/r/t/1/id/10696647",
+   "description": "Sterke kwartaalcijfers van SpaceX en Super Micro Computer deden de chipsector herstellen. Netflix gaf stevig terrein prijs door een zwak rapport. Na de slotbel verschuift alle aandacht naar Meta en Tesla.",
+   "date": "2026-10-21T22:05:17",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Israel’s election overseer on how to stop AI distorting votes",
+   "link": "https://www.nrc.nl/nieuws/2026/10/21/israels-election-overseer-on-how-to-stop-ai-distorting-votes-a4939127",
+   "description": "Chatbots can help inform citizens but should not be allowed to make choices for them, says Dean Livne.",
+   "date": "2026-10-21T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Muurklimmende robots en AI moeten Amerikaanse oorlogsschepen sneller herstellen en miljoenen besparen",
+   "link": "https://businessam.be/muurklimmende-robots-en-ai-moeten-amerikaanse-oorlogsschepen-sneller-herstellen-en-miljoenen-besparen/",
+   "description": "Key takeaways Om de tijd die oorlogsschepen in onderhoudsdocks doorbrengen te verkorten, heeft de Amerikaanse marine het budget voor een overeenkomst inzake robotinspecties aanzienlijk verhoogd, waarbij het maximum is opgetrokken van 71 miljoen dollar naar 300 miljoen dollar. Deze aanpassing, die dinsdag door Gecko Robotics werd aangekondigd, stelt het leger in staat om het gebruik […]",
+   "date": "2026-10-21T21:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lek sluimderde al 14 jaar bij PHP, tot AI het opspoorde: \"Als hackers zo'n lek ontdekken, hebben we groter probleem\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/21/de-rol-van-ai-in-php-lekken-terzake/",
+   "description": "Artificiële intelligentie (AI) is de hulp én de schuldige in de veiligheidslekken in PHP. Dat zegt AI-expert Steven Latré. De lekken stonden al 14 jaar in de codes PHP, maar zijn nu pas ontdekt door een cybersecuritybedrijf en met de hulp van AI.",
+   "date": "2026-10-21T21:31:15",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Lek sluimderde al 14 jaar bij PHP, tot AI het opspoorde: \"Als hackers zo'n lek ontdekken, hebben we groter probleem\"",
+   "link": "https://vrtnws.be/p.dLRmpQd0N",
+   "description": "Artificiële intelligentie (AI) is de hulp én de schuldige in de veiligheidslekken in PHP. Dat zegt AI-expert Steven Latré. De lekken stonden al 14 jaar in de codes PHP, maar zijn nu pas ontdekt door een cybersecuritybedrijf en met de hulp van AI. Latré vreest dat in de toekomst nog meer zulke lekken naar boven zullen komen. \"Als een hackerscollectief dat ontdekt, zitten we met een groter probleem.\"",
+   "date": "2026-10-21T21:31:15",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na het PHP-lek dat tal van sites offline haalde: “Je kunt AI zowel voor de aanval als voor de verdediging gebruiken”",
+   "link": "https://www.standaard.be/economie/technologie/na-het-php-lek-dat-tal-van-sites-offline-haalde-je-kunt-ai-zowel-voor-de-aanval-als-voor-de-verdediging-gebruiken/163422999.html",
+   "description": "Duizenden websites, ook in Vlaanderen, gingen woensdag tijdelijk offline vanwege een uiterst gevaarlijk lek in de programmeertaal PHP. Dat lek werd ontdekt met AI. “Dankzij AI zullen we programma’s zonder bugs kunnen uitbrengen. Maar de overgangsperiode zal woelig zijn.”",
+   "date": "2026-10-21T21:07:24",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Uitgever ziet toch AI-gebruik in roman van revelatie Thélyson Orélien en stopt samenwerking",
+   "link": "https://www.tijd.be/r/t/1/id/10696643",
+   "description": "Volgens de uitgeverij Boréal heeft de schrijver Thélyson Orélien dan toch artificiële intelligentie gebruikt bij het schrijven van ‘C’était ça ou mourir’. Het boek zal niet herdrukt worden.",
+   "date": "2026-10-21T20:21:29",
+   "feeds": [
+    "De Tijd - Cultuur"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dank u, PHP, voor alle keren dat het internet níét onderuit ging",
+   "link": "https://www.standaard.be/media-en-cultuur/dank-u-php-voor-alle-keren-dat-het-internet-niet-onderuit-ging/163267972.html",
+   "description": "Wat leren we uit de twee PHP-lekken die ertoe hebben geleid dat een flink deel van het internet woensdag onbereikbaar was? Iets over hoe AI een tweesnijdend zwaard is. Maar misschien vooral: hoe belangrijk het ondankbare werk van opensourceontwikkelaars is.",
+   "date": "2026-10-21T19:59:37",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van techbro’s tot ceo’s van Belgische start-ups: waarom is de AI-wereld zo mannelijk?",
+   "link": "https://www.standaard.be/economie/van-techbros-tot-ceos-van-belgische-start-ups-waarom-is-de-ai-wereld-zo-mannelijk/163193096.html",
+   "description": "Slechts een op de tien ceo’s van Belgische technologiestart-ups is een vrouw. Nochtans doen ze het vaak beter. “Het glazen plafond verandert in een betonnen muur wanneer het gaat om het ophalen van kapitaal.”",
+   "date": "2026-10-21T19:43:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Uitgeverij zet in opspraak gekomen auteur Thélyson Orélien aan de deur: “Toch AI gebruikt bij het schrijven”",
+   "link": "https://www.standaard.be/media-en-cultuur/uitgeverij-zet-in-opspraak-gekomen-auteur-thelyson-orelien-aan-de-deur-toch-ai-gebruikt-bij-het-schrijven/163423373.html",
+   "description": "De Canadees-Haïtiaanse schrijver Thélyson Orélien heeft volgens zijn Canadese uitgeverij dan toch artificiële intelligentie gebruikt bij het schrijven van zijn bekroonde roman. De samenwerking wordt stopgezet.",
+   "date": "2026-10-21T19:19:02",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beveiligingslek PHP: websites DPG Media en Smartschool weer bereikbaar • Lekken werden gevonden met behulp van AI-model",
+   "link": "https://www.demorgen.be/tech-ai/live-beveiligingslek-php-websites-dpg-media-en-smartschool-weer-bereikbaar-lekken-werden-gevonden-met-behulp-van-ai-model~b1cfb635/",
+   "description": "",
+   "date": "2026-10-21T19:07:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Nieuwe elementen dat AI is gebruikt bij 'C'était ça ou mourir'\", zegt uitgeverij van Thélyson Orélien",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/21/thelyson-orelien-uitgeverij-bevestigt-ai/",
+   "description": "Nieuwe wending in de zaak van de in opspraak gekomen roman 'C'était ça ou mourir' van de Canadees-Haïtiaanse schrijver Thélyson Orélien. Volgens zijn Canadese uitgeverij Boréal werd er dan toch kunstmatige intelligentie (AI) gebruikt bij het schrijven van de roman. Dat heeft ze woensdag verklaard.",
+   "date": "2026-10-21T18:47:30",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Nieuwe elementen dat AI is gebruikt bij 'C'était ça ou mourir'\", zegt uitgeverij van Thélyson Orélien",
+   "link": "https://vrtnws.be/p.KK8yNN4Xm",
+   "description": "Nieuwe wending in de zaak van de in opspraak gekomen roman 'C'était ça ou mourir' van de Canadees-Haïtiaanse schrijver Thélyson Orélien. Volgens zijn Canadese uitgeverij Boréal werd er dan toch kunstmatige intelligentie (AI) gebruikt bij het schrijven van de roman. Dat heeft ze woensdag verklaard. De uitgeverij heeft de samenwerking met Orélien stopgezet.",
+   "date": "2026-10-21T18:47:30",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Groen slot op Europese beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/groen-slot-op-europese-beurzen/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn woensdag in het groen gesloten. De publicatie van kwartaalcijfers bepaalde het sentiment bij beleggers, terwijl de obligatierentes in Europa wat opliepen. Koersen van AI- en technologie-aandelen toonden een herstel na een meerdaagse verkoopgolf.De Stoxx Europe 600 index sloot uiteindelijk 0,9 procent hoger op 644,49 punten, terwijl de Duitse DAX …\nThe post Groen slot op Europese beurzen appeared first on Trends.be.",
+   "date": "2026-10-21T18:46:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-topman relativeert zorgen over Europese achterstand in de AI-race",
+   "link": "https://businessam.be/nvidia-topman-relativeert-zorgen-over-europese-achterstand-in-de-ai-race/",
+   "description": "Key takeaways Tijdens het GTC-evenement in Berlijn verwierp Jensen Huang, CEO van Nvidia, het idee dat Europa achterop raakt in de internationale concurrentiestrijd op het gebied van artificiële intelligentie. Hoewel Amerikaanse bedrijven momenteel toonaangevend zijn in de sector, stelde Huang dat het Europese AI-landschap aanzienlijk aan momentum wint en klaar is voor snelle groei. Hij […]",
+   "date": "2026-10-21T18:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Reuters: Chinese techbedrijven kopen voor 35 miljard dollar aan RTX PRO-gpu's",
    "link": "https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html",
@@ -383,6 +603,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "“Het gevaar is dat iemand bij alle data kan”: tal van websites wereldwijd preventief offline na door AI ontdekte veiligheidslekken",
+   "link": "https://www.standaard.be/media-en-cultuur/het-gevaar-is-dat-iemand-bij-alle-data-kan-tal-van-websites-wereldwijd-preventief-offline-na-door-ai-ontdekte-veiligheidslekken/163395651.html",
+   "description": "Vanwege twee veiligheidslekken in de populaire programmeertaal PHP zijn woensdag wereldwijd tal van websites preventief offline gehaald. De lekken zijn ontdekt met AI. Een oplossing voor het probleem is ondertussen gepubliceerd en veel sites, zoals Smartschool, zijn opnieuw bereikbaar.",
+   "date": "2026-10-21T15:48:25",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Zoveel sites in één klap plat: hoe kan dat? En zijn je gegevens veilig?",
    "link": "https://nos.nl/l/2636090",
    "description": "Allerlei websites gaan uit voorzorg uit de lucht, van RTL Nieuws, DigiD en MijnOverheid tot de website van de Tweede Kamer. Wat is er precies aan de hand en waar komt dit grote beveiligingslek opeens vandaan?\n        Hoe kwam dit lek aan het licht?\n        Gisteren kwam de organisatie achter PHP, een programmeertaal waar veel websites uit zijn opgebouwd, met een aankondiging, zoals makers van software dat wel vaker doen: woensdag zou er een oplossing komen voor een probleem met PHP. Dat doen softwaremakers zodat iedereen zich kan voorbereiden op een oplossing.\n        In dit geval hebben hackers die aankondiging echter aangegrepen om het precieze lek te lokaliseren en informatie erover naar buiten te brengen. Met die informatie is het relatief eenvoudig om het lek te misbruiken.\n        Wat is PHP?\n        PHP is een programmeertaal. Het is een van de oertalen van het wereldwijde web; de eerste versie kwam al in 1995 uit. Hoewel de populariteit is afgenomen doordat er nieuwe programmeertalen met een hipper imago verschenen, is het nog steeds een van de stille drijvende krachten achter het web.\n        Liveblog\n        Volg de laatste ontwikkelingen over het lek in ons liveblog.\n        Het softwarelek van vandaag zit in de zogenoemde interpreter, een stukje software dat de door programmeurs geschreven commando's vertaalt naar iets wat de computer begrijpt.\n        Hoe ernstig is dit lek?\n        Het gaat om twee weeffouten in PHP. Doordat veel websites PHP gebruiken, zijn dus ook meteen veel websites kwetsbaar. Hoe ernstig een site is getroffen, verschilt van geval tot geval.\n        Op zichzelf zijn het al twee relatief ernstige lekken. Alle softwarelekken krijgen een score op een schaal van 0 tot 10, een zogenoemde CVE-score. Deze twee lekken krijgen allebei een 9,2.\n        Wie deze weeffouten kan misbruiken, kan zichzelf naar binnen wurmen op een website en bijvoorbeeld klantdata stelen, verder inbreken in het bedrijf achter de website of nieuwe aanvallen op bezoekers openen.\n        Wat het ernstiger maakt, is dat er pas rond vier uur 's middags een oplossing kwam, terwijl het lek al urenlang leek te worden misbruikt. Een permanente oplossing was er simpelweg niet totdat de makers van PHP een nieuwe versie uitbrachten; al die tijd waren sites kwetsbaar.\n        Is het overdreven om uit voorzorg websites uit de lucht te halen?\n        Wat dit lek ernstig maakt, is dat er geen echte oplossing was. Website-eigenaren konden hun best doen om verdacht verkeer te blokkeren, maar dat werkte niet volledig: er konden altijd hackpogingen doorheen komen en slagen. Omdat er geen waterdichte oplossing was, kozen veel website-eigenaren eieren voor hun geld.\n        Toch is offline halen niet de enige oplossing. Een andere is om alle interactieve functies uit te schakelen, zodat een bezoeker bijvoorbeeld niet meer kan inloggen, reacties kan achterlaten of bestanden kan uploaden. Voor een site als DigiD heeft dat weinig nut, maar een site met alleen informatie zou zo bijvoorbeeld online kunnen blijven. Of dat in de praktijk op korte termijn kan, is een ander verhaal.\n        Zijn mijn data nu gestolen?\n        Er zijn nog geen concrete voorbeelden van misbruik bekend, maar de kans is groot dat die nog wel zullen volgen. Er zijn dus geen aanwijzingen dat websites al getroffen zijn, laat staan dat ze vervolgens privégegevens van hun gebruikers lekken, maar het is zeker niet uitgesloten.\n        En de kans dat het gaat gebeuren is nog groter, want veel website-eigenaren updaten hun software veel te laat. Vooral sites van kleinere bedrijven en hobbysites draaien soms jaren oude versies. De komende tijd zijn die dus extra kwetsbaar.\n        Wat zegt dit over de kwetsbaarheid van internet?\n        Hoe groot het internet ook is, uiteindelijk is een relatief kleine verzameling programmeertalen en software de drijvende kracht erachter. Een ernstig softwarelek kan er daarom voor zorgen dat veel websites of andere computersystemen in één keer getroffen zijn, en dat gebeurt vandaag niet voor het eerst.\n        Ook maakt AI het steeds makkelijker om lekken in software te vinden, en kan dat steeds sneller. De ethische hackers die de lekken in eerste instantie vonden en aan de makers van PHP meldden, gebruikten ook AI. Of de kwaadwillende hackers die de code voor iedereen publiceerden, dat ook deden, is onbekend.\n        Hoelang duurt het voordat de getroffen websites weer online staan?\n        De zogenoemde patch van PHP staat inmiddels online, dus nu is het in principe een kwestie van updaten. Als alles goed gaat, zouden websites relatief kort daarna weer moeten werken. Al kunnen er altijd toch problemen optreden.\n        Zo zou het kunnen dat veel meer mensen dan normaal opeens een PHP-update willen downloaden, waardoor de servers overbelast raken. Ook kunnen software-updates altijd misgaan. De kans dat de bewuste websites later vanavond of zelfs morgen nog offline zijn, lijkt echter klein.",
@@ -438,6 +669,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Tech leidt Wall Street naar hogere opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/tech-leidt-wall-street-naar-hogere-opening/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, geholpen door een herstel in AI-aandelen. Futures op de toonaangevende S&P 500 index stonden circa een half uur voor opening tot 0,3 procent in het groen. Techbeurs Nasdaq kan 0,6 procent hoger openen. Daarmee lijken de aandelenmarkten voort te bouwen op de rally in AI-aandelen die …\nThe post Tech leidt Wall Street naar hogere opening appeared first on Trends.be.",
+   "date": "2026-10-21T15:02:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Vogelvrij AI-gebruik legt het failliet van de Tweede Kamer bloot",
    "link": "https://www.trouw.nl/opinie/vogelvrij-ai-gebruik-legt-het-failliet-van-de-tweede-kamer-bloot~b2e6e484/",
    "description": "",
@@ -446,6 +688,17 @@
     "Trouw - Voorpagina"
    ],
    "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Hackers vinden makkelijker lekken door AI\", steeds meer websites weer online",
+   "link": "https://vrtnws.be/p.RaJMmwl7d",
+   "description": "Verschillende websites zijn preventief offline gehaald om zich te weren tegen een mogelijke cyberaanval. In de populaire programmeertaal PHP zijn lekken ontdekt, waardoor de kans op een wereldwijde cyberaanval groot is. Volg alle updates in deze liveblog.",
+   "date": "2026-10-21T14:52:53",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-22",
    "intro_geprobeerd": true
   },
   {
@@ -493,6 +746,28 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Steven Latré (imec) waarschuwt voor “naïeve” AI-integraties: “Bedrijven plaatsen AI bovenop hun bestaande product, en krijgen enorme tokenkosten zonder meerwaarde”",
+   "link": "https://trends.knack.be/ai-en-tech/steven-latre-imec-waarschuwt-voor-naieve-ai-integraties-bedrijven-plaatsen-ai-bovenop-hun-bestaande-product-en-krijgen-enorme-tokenkosten-zonder-meerwaarde/",
+   "description": "Bedrijven bijten zich stuk op de kosten die AI-integraties met zich meebrengen als ze niet nadenken over de juiste usecase, waarschuwt Steven Latré, vicepresident AI bij het onderzoekscentrum imec. Dat deed hij dinsdag tijdens zijn keynote op het Flanders AI Forum. “We moeten ongelooflijk geobsedeerd zijn door tokenkosten.” Nicolas Deruytter, CEO van ML6, gaf toe dat zijn bedrijf de tokenkosten zag oplopen zonder dat het meteen meerwaarde vond.\nThe post Steven Latré (imec) waarschuwt voor “naïeve” AI-integraties: “Bedrijven plaatsen AI bovenop hun bestaande product, en krijgen enorme tokenkosten zonder meerwaarde” appeared first on Trends.be.",
+   "date": "2026-10-21T12:43:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Carrefour onderuit op hogere Europese beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/carrefour-onderuit-op-hogere-europese-beurzen/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden woensdag rond het middaguur licht hoger, na verliezen op dinsdag en een verdeelde ochtendhandel, met herstellende koersen van AI- en technologie-aandelen.De brede STOXX Europe 600 index steeg 0,5 procent tot 641,62 punten, de Duitse DAX won 0,5 procent op 25.423 punten en voor de Franse CAC 40 resteerde een …\nThe post Carrefour onderuit op hogere Europese beurzen appeared first on Trends.be.",
+   "date": "2026-10-21T12:37:26",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": ".Geek - Vibecoders schrijven zelf firmware die ads en bloatware uit tv's verwijdert",
    "link": "https://tweakers.net/geek/253576/vibecoders-schrijven-zelf-firmware-die-ads-en-bloatware-uit-tvs-verwijdert.html",
    "description": "Een beetje tweaker heeft wel wat manieren gevonden om geen advertenties in zijn of haar smart-tv te krijgen. Een Pi-hole aan het thuisnetwerk koppelen bijvoorbeeld, of een Chromecast kopen en de tv in de eerste plaats niet met internet verbinden. Maar creatieve programmeurs hebben nu een ander idee. Met hulp van AI schrijven ze zelf firmware en launchers waar geen ads in zitten.",
@@ -504,6 +779,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Super Micro verhoogt omzetverwachting fors",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/super-micro-verhoogt-omzetverwachting-fors/",
+   "description": "(ABM FN-Dow Jones) Super Micro Computer heeft de omzetverwachting voor het eerste kwartaal van boekjaar 2027 fors naar boven bijgesteld, vanwege een sterk toegenomen vraag naar AI-platforms. Dat maakte de Amerikaanse serverfabrikant dinsdagavond laat bekend in een voorlopige bedrijfsupdate over het kwartaal dat eindigde op 30 september 2026. Het bedrijf rekent nu op een omzet tussen 18,5 en …\nThe post Super Micro verhoogt omzetverwachting fors appeared first on Trends.be.",
+   "date": "2026-10-21T08:39:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": ".Plan - Felienne Hermans op de Dev Summit over AI en code: 'Leer het omdat het leuk is!'",
    "link": "https://tweakers.net/plan/4864/felienne-hermans-op-de-dev-summit-over-ai-en-code-leer-het-omdat-het-leuk-is.html",
    "description": "Wie software bouwt, bepaalt voor een deel hoe anderen werken en leven. Maar hoeveel weten programmeurs eigenlijk van die anderen?",
@@ -512,6 +798,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-10-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verdeeld beeld op Aziatische beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/verdeeld-beeld-op-aziatische-beurzen-22/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden woensdagochtend verdeeld. “Het sentiment op de markten stabiliseerde vannacht, hoewel er bezorgdheid blijft bestaan over de duurzaamheid van de AI-rally,” zei analist Michael Wan van MUFG Bank.De Zuid-Koreaanse Kospi steeg woensdagochtend vroeg met 2,5 procent en de Japanse Nikkei noteerde 0,8 procent hoger. De Hang Seng verloor 0,4 procent, …\nThe post Verdeeld beeld op Aziatische beurzen appeared first on Trends.be.",
+   "date": "2026-10-21T07:38:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
    "intro_geprobeerd": false
   },
   {
