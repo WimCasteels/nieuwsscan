@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T03:15:09",
+ "generated": "2026-10-22T17:47:06",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 26,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 156,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 96,
+   "count": 90,
    "error": null
   },
   {
@@ -316,6 +316,314 @@
  ],
  "articles": [
   {
+   "title": "TSMC wil fabrieksapparatuur aanpassen om minder afhankelijk te zijn van Chinese zeldzame aardmetalen",
+   "link": "https://businessam.be/tsmc-wil-fabrieksapparatuur-aanpassen-om-minder-afhankelijk-te-zijn-van-chinese-zeldzame-aardmetalen/",
+   "description": "Key takeaways Om de risico’s van de Chinese dominantie op het gebied van kritieke mineralen te beperken, onderzoekt chipfabrikant TSMC manieren om zeldzame aardmetalen uit zijn productiemachines te verwijderen. Volgens bronnen die op de hoogte zijn van de situatie, wil de halfgeleidergigant zijn productie van geavanceerde chips beschermen tegen mogelijke verstoringen door de strenge exportregels […]",
+   "date": "2026-10-22T17:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Corsair RM1200e-voeding knijpt gpu-stroom af bij overbelaste 12V-2x6-connector",
+   "link": "https://tweakers.net/nieuws/253652/corsair-rm1200e-voeding-knijpt-gpu-stroom-af-bij-overbelaste-12v-2x6-connector.html",
+   "description": "Corsair komt met een nieuwe RM1200e-voeding. Die beschikt over Corsairs PinProtect-functie, die moet voorkomen dat 12V-2x6-aansluitingen smelten. De RM1200e is vanaf nu beschikbaar en kost 194,90 euro.",
+   "date": "2026-10-22T16:59:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipbedrijf Besi ziet orderinstroom fors stijgen dankzij sterke vraag naar AI-datacenters",
+   "link": "https://businessam.be/chipbedrijf-besi-ziet-orderinstroom-fors-stijgen-dankzij-sterke-vraag-naar-ai-datacenters/",
+   "description": "Key takeaways Aangedreven door de sterke stijging in de vraag naar AI-datacenters rapporteerde BE Semiconductor Industries (Besi) ordervolumes voor het derde kwartaal die de voorspellingen van analisten overtroffen. De nieuwe orders bedroegen 342,6 miljoen euro, wat neerkomt op een stijging van 17 procent ten opzichte van het vorige kwartaal en bijna een verdubbeling ten opzichte […]",
+   "date": "2026-10-22T16:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "PHP-lek toont aan dat bedrijven zich maar beter schrap zetten: ‘AI is een brandversneller’",
+   "link": "https://trends.knack.be/ai-en-tech/cybersecurity/php-lek-toont-aan-dat-bedrijven-zich-maar-beter-schrap-zetten-ai-is-een-brandversneller/",
+   "description": "Kunstmatige intelligentie vindt steeds meer van die kwetsbaarheden in code, en de oplossingen komen als een stortvloed op het IT-departement af. Beveiligingsexperts denken dat er nog momenten zullen komen zoals het PHP-lek dat duizenden sites kwetsbaar maakte. Is dit het nieuwe normaal? En hoe gaat u daar als bedrijf mee om?\nThe post PHP-lek toont aan dat bedrijven zich maar beter schrap zetten: ‘AI is een brandversneller’ appeared first on Trends.be.",
+   "date": "2026-10-22T15:51:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Barclays gaat 5.000 banen schrappen door AI",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/barclays-gaat-5-000-banen-schrappen-door-ai-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Barclays gaat 5.000 banen schrappen door AI appeared first on Trends.be.",
+   "date": "2026-10-22T15:37:42",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: luchtfoto van Parijs in lichterlaaie is gemaakt met artificiële intelligentie",
+   "link": "https://www.knack.be/factcheck/factcheck-luchtfoto-van-parijs-in-lichterlaaie-is-gemaakt-met-artificiele-intelligentie/",
+   "description": "Op sociale media circuleert een luchtfoto die een brandend Parijs zou tonen tijdens de recente rellen. Dat klopt niet: het beeld blijkt gegenereerd met artificiële intelligentie.\nThe post Factcheck: luchtfoto van Parijs in lichterlaaie is gemaakt met artificiële intelligentie appeared first on Knack.",
+   "date": "2026-10-22T15:32:57",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Podcast De Dag: de kwetsbaarheid van PHP, 'de onderbroek' van het internet",
+   "link": "https://nos.nl/l/2636214",
+   "description": "Van DigiD tot de Franse overheid, en van RTL Nieuws tot Schiphol. Sites van allerlei instanties gingen gisteren een paar uur offline. Er zaten lekken in PHP, een taal om sites te programmeren. Doordat die lekken op straat lagen, waren de sites kwetsbaar voor hackers. En dus was het veiliger om websites even uit de lucht te halen. Wat zegt dit lek over de kwetsbaarheid van ons internet?\n        Luister hier:\n        Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren.\n        Volgens techjournalist van de NOS Joost Schellevis kan je PHP vergelijken met een onderbroek. Iedereen gebruikt het, het is belangrijk, maar normaal blijft het onzichtbaar. Met behulp van AI is het lek in die onderbroek nu gevonden.\n        Kunstmatige intelligentie is een vloek en zegen voor de kwetsbaarheid van het internet. Aan de ene kant worden meer lekken gedicht die een mens moeilijk kan vinden. Aan de andere kant kunnen hackers die kwaad in de zin hebben, makkelijker toeslaan.\n        Ook techsite Tweakers ging offline. Dat was jammer, want juist daar wilden ze over dit lek schrijven. Normaal gesproken wordt er pas over geschreven als de oplossing, een patch, voorhanden is. Maar nu ging die volgorde overhoop, waardoor het halve internet op zwart ging. Tweakers-hoofdredacteur Wout Funnekotter vreest dat dit niet de laatste keer zal zijn.\n        Reageren: Mail naar dedag@nos.nl Presentatie & montage: Marco Geijtenbeek Redactie: Wouter Sloekers",
+   "date": "2026-10-22T15:32:23",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canadese uitgever breekt met Thélyson Orélien om AI-gebruik bij roman, De Bezige Bij trekt Nederlandse vertaling terug",
+   "link": "https://www.nrc.nl/nieuws/2026/10/22/canadese-uitgever-breekt-met-thelyson-orelien-om-ai-gebruik-bij-roman-de-bezige-bij-trekt-nederlandse-vertaling-terug-a4939528",
+   "description": "Een maand geleden stond Oréliens debuutroman C’était ça ou mourir nog op de longlist van de de prestigieuze literatuurprijs Prix Goncourt. Zijn uitgeverij concludeert na onderzoek dat Orélien inderdaad kunstmatige intelligentie gebruikte bij het schrijven.",
+   "date": "2026-10-22T15:18:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gebruikt u bewust enkel Europese AI-toepassingen?",
+   "link": "https://www.standaard.be/economie/gebruikt-u-bewust-enkel-europese-ai-toepassingen/163461394.html",
+   "description": "Gebruikt u bewust de chatbot van het Europese Mistral in plaats van die van het Amerikaanse ChatGPT? Of werkt uw bedrijf zo veel mogelijk met Europese software en AI-tools? Waarom maakte u die keuze? En botst u daarbij op bepaalde moeilijkheden?",
+   "date": "2026-10-22T15:01:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kan AI de treinen stipter laten rijden? Infrabel zet in op deep learning en data-analyse",
+   "link": "https://trends.knack.be/ai-en-tech/kan-ai-de-treinen-stipter-laten-rijden-infrabel-zet-in-op-deep-learning-en-data-analyse/",
+   "description": "De stiptheid van de treinen is historisch hoog, maar infrastructuurbeheerder Infrabel wil niet op zijn lauweren rusten. In een pilootproject met softwarebedrijf SAS verkent het bedrijf hoe artificiële intelligentie de data-analyse van incidenten kan versnellen en verfijnen.\nThe post Kan AI de treinen stipter laten rijden? Infrabel zet in op deep learning en data-analyse appeared first on Trends.be.",
+   "date": "2026-10-22T14:36:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia DGX Station-pc met Windows verschijnt in december vanaf 100.000 euro",
+   "link": "https://tweakers.net/nieuws/253640/nvidia-dgx-station-pc-met-windows-verschijnt-in-december-vanaf-100000-euro.html",
+   "description": "De eerste Nvidia DGX Station-pc's met Windows 11 verschijnen in december. De prijzen variëren van 100.000 tot 150.000 euro, afhankelijk van de configuratie. De systemen hebben zeker 748GB gedeeld geheugen en zijn bedoeld voor enterprisegebruik.",
+   "date": "2026-10-22T14:25:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Palantir verzekert Europese bondgenoten dat zijn militaire AI-systeem niet op afstand kan worden uitgeschakeld",
+   "link": "https://businessam.be/palantir-verzekert-europese-bondgenoten-dat-zijn-militaire-ai-systeem-niet-op-afstand-kan-worden-uitgeschakeld/",
+   "description": "Key takeaways Nu Europa zich steeds meer zorgen maakt over zijn afhankelijkheid van Amerikaanse defensietechnologie, heeft Palantir verduidelijkt dat zijn AI-software, die de NAVO gebruikt, niet op afstand kan worden uitgeschakeld. Die toezegging volgt op berichten dat de dienstverlening van SpaceX via Starshield in Oekraïne werd beperkt. Dat zou onder meer gevolgen hebben gehad voor […]",
+   "date": "2026-10-22T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Barclays schrapt wereldwijd 5.000 banen dankzij efficiëntieverbeteringen door AI",
+   "link": "https://businessam.be/barclays-schrapt-wereldwijd-5-000-banen-dankzij-efficientieverbeteringen-door-ai/",
+   "description": "Key takeaways Dankzij de verhoogde efficiëntie door artificiële intelligentie verwacht Barclays tegen het einde van 2026 wereldwijd ongeveer 5.000 banen te schrappen. De inkrimping vertegenwoordigt ongeveer 5 procent van het totale personeelsbestand van het bedrijf, dat eind 2025 uit ongeveer 93.000 medewerkers bestond. Vooral functionele en operationele banen Hoewel er in de eerste zes maanden […]",
+   "date": "2026-10-22T14:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Citi leent Nebius miljarden",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/citi-leent-nebius-miljarden/",
+   "description": "(ABM FN-Dow Jones) Nebius heeft een lening gekregen van Citi voor een bedrag van 3,5 miljard dollar. Dit maakte het AI-cloudbedrijf uit Amsterdam met een beursnotering aan de Nasdaq donderdag bekend.  Het gaat om een door onderpand gedekte lening tegen \"aantrekkelijke rentes\", aldus Nebius. Het geld zal worden gebruikt voor de financiering van de bouw van …\nThe post Citi leent Nebius miljarden appeared first on Trends.be.",
+   "date": "2026-10-22T13:49:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic komt met Claude Duet-agent als antwoord op OpenAI Dots en Meta's Muse",
+   "link": "https://tweakers.net/nieuws/253638/anthropic-komt-met-claude-duet-agent-als-antwoord-op-openai-dots-en-metas-muse.html",
+   "description": "Anthropic komt met Claude Duet, een AI-agent die actief allerlei taken kan uitvoeren. Het bedrijf gaat daarmee de concurrentie aan met Meta's Muse-app en OpenAI's Dots. Claude Duet komt vooralsnog alleen als preview beschikbaar voor betalende gebruikers in de Verenigde Staten.",
+   "date": "2026-10-22T13:44:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 621.01 WHQL",
+   "link": "https://tweakers.net/downloads/78724/geforce-game-ready-driver-62101-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 621.01 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen Phantom Blade Zero, Call of Duty: Modern Warfare 4, NBA 2K27, Cyberpunk 2077 en Crimson Desert Enhanced: Charting the Unknown. De complete changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-10-22T13:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta overtreft winstverwachtingen dankzij AI, ondanks forse investeringen en personeelsinkrimping",
+   "link": "https://businessam.be/meta-overtreft-winstverwachtingen-dankzij-ai-ondanks-forse-investeringen-en-personeelsinkrimping/",
+   "description": "Key takeaways De financiële resultaten van Meta voor het derde kwartaal overtroffen de marktverwachtingen, met een omzetstijging van 26 procent ten opzichte van vorig jaar tot 64,6 miljard dollar (57,5 miljard euro). De groei resulteerde in een winst per aandeel van 3,83 dollar. Vooruitkijkend verwacht het bedrijf voor het vierde kwartaal een omzet tussen 73 […]",
+   "date": "2026-10-22T12:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Overleden vrouw met AI op scène, theatermarathon van 5 uur en woordloze voorstelling: NTGent trapt nieuw seizoen af",
+   "link": "https://vrtnws.be/p.dLRmkn7Je",
+   "description": "NTGent opent het theaterseizoen met bijzondere producties die passen in het thema 'Melancholie als verzet'. Een voorstelling zonder woorden én gezichten bijt de spits af. Verder is er een marathonopvoering, waarbij 4 actrices een heel leven naspelen. Nog opvallend: een AI-experiment waarbij een overleden vrouw tot leven komt en in dialoog gaat met haar man en dochter. \"We zijn allemaal vergankelijk. Er zit net veel schoonheid in om daar bewust mee om te gaan\", zegt artistiek leider Barbara Raes.",
+   "date": "2026-10-22T12:00:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: DeepSeek haalt 15 miljard dollar op",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-deepseek-haalt-15-miljard-dollar-op/",
+   "description": "(ABM FN-Dow Jones) DeepSeek rondt naar verluidt zijn grootste kapitaalronde ooit af. Het Chinese AI-bedrijf haalt ongeveer 100 miljard yuan op, omgerekend bijna 15 miljard dollar, bij bestaande en nieuwe investeerders. Dat schreven Bloomberg en Reuters op basis van bronnen.Batterijfabrikant CATL en internetgigant Tencent, waar het in Amsterdam genoteerde Prosus een belang in heeft, behoren tot …\nThe post Media: DeepSeek haalt 15 miljard dollar op appeared first on Trends.be.",
+   "date": "2026-10-22T11:53:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Fortinet brengt vandaag kritieke patches uit die klanten snel moeten installeren",
+   "link": "https://tweakers.net/nieuws/253630/fortinet-brengt-vandaag-kritieke-patches-uit-die-klanten-snel-moeten-installeren.html",
+   "description": "Fortinet brengt donderdag 22 oktober een reeks securityupdates uit voor zijn producten. Het raadt gebruikers met klem aan die patches meteen na release te installeren. De updates zijn voor verantwoord gemelde kwetsbaarheden, die mede met hulp van geavanceerde AI-modellen zijn gevonden.",
+   "date": "2026-10-22T11:12:44",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De andere AI-race: de strijd om de fysieke keten",
+   "link": "https://www.tijd.be/r/t/1/id/10695627",
+   "description": "Woorden als software, cloud en modellen doen AI immaterieel lijken, maar ze verbergen een zware fysieke keten van chips, geheugen, grondstoffen, stroom en water. Wie die keten kan vastleggen, krijgt speelruimte die anderen missen.",
+   "date": "2026-10-22T11:09:30",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Britse bank Barclays gaat 5.000 banen schrappen door AI",
+   "link": "https://www.gva.be/economie/bedrijven/britse-bank-barclays-gaat-5.000-banen-schrappen-door-ai/163439443.html",
+   "description": "De Britse bank Barclays is van plan dit jaar 5.000 banen te schrappen door de opkomst van artificiële intelligentie. Dat heeft de bank donderdag aangekondigd.",
+   "date": "2026-10-22T10:34:44",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla verlaagt uitgavenprognose voor 2026 en boekt onverwacht sterke vrije kasstroom",
+   "link": "https://businessam.be/tesla-schroeft-ai-uitgaven-terug-terwijl-musk-een-fusie-met-spacex-overweegt/",
+   "description": "Key takeaways Tesla heeft zijn prognose voor de jaarlijkse kapitaaluitgaven onverwacht met 20 procent verlaagd. Het bedrijf rapporteerde ook een verrassend positieve vrije kasstroom voor het derde kwartaal, dat eindigde op 30 september. Dat resultaat komt doordat Tesla aanzienlijk minder kapitaal heeft besteed aan robotica en artificiële intelligentie dan marktanalisten hadden verwacht. Gevolgen voor SpaceX […]",
+   "date": "2026-10-22T10:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BBB’er Henk Vermeer glunderde even toen hij ‘veelpleger’ werd genoemd",
+   "link": "https://www.nrc.nl/nieuws/2026/10/22/bbber-henk-vermeer-glunderde-even-toen-hij-veelpleger-werd-genoemd-a4939519",
+   "description": "Wat voor samenleving willen we zijn, was de vraag in talkshow ‘Eva’ naar aanleiding van de lekken bij enkele websites. Dat was een zinniger vraag dan de visie van Henk Vermeer op AI en koffiezetapparaten.",
+   "date": "2026-10-22T10:08:03",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Barclays schrapt 5.000 banen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/barclays-schrapt-5-000-banen/",
+   "description": "(ABM FN-Dow Jones) Barclays is van plan dit jaar om 5.000 banen te schrappen nu AI het werk efficiënter maakt. Dit meldde de Britse bank donderdag bij de kwartaalcijfers, die ondermaats bleken.Met de banenkrimp wil Barclays de kostenbasis structureel verlagen. Hierdoor ontstaat ruimte voor verdere investeringen in het bedrijf.In het derde kwartaal nam de bank structurele …\nThe post Barclays schrapt 5.000 banen appeared first on Trends.be.",
+   "date": "2026-10-22T09:56:12",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump wil lokale bewoners dividenden beloven om steun voor AI-datacenters te winnen",
+   "link": "https://businessam.be/trump-wil-lokale-bewoners-dividenden-beloven-om-steun-voor-ai-datacenters-te-winnen/",
+   "description": "Key takeaways In de aanloop naar de komende tussentijdse verkiezingen heeft president Donald Trump voorgesteld dat exploitanten van AI-datacenters “dividenden” uitkeren aan lokale bewoners om de acceptatie bij het publiek te vergroten. Financiële overeenkomst In een bericht op Truth Social stelde de president voor dat bedrijven de lokale weerstand zouden kunnen overwinnen door financiële vergoedingen […]",
+   "date": "2026-10-22T09:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen fors lager na cijferreeks nabeurs op Wall Street",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-fors-lager-na-cijferreeks-nabeurs-op-wall-street/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden donderdag lager, aangevoerd door technologieaandelen. Zorgen over de financiering en het rendement van de omvangrijke investeringen in kunstmatige intelligentie drukten op het sentiment.De Zuid-Koreaanse Kospi-index verloor 3,9 procent, met verliezen van ongeveer 4 procent voor Samsung Electronics en ruim 6 procent voor SK Hynix. Beleggers vrezen dat hogere financieringskosten …\nThe post Aziatische beurzen fors lager na cijferreeks nabeurs op Wall Street appeared first on Trends.be.",
+   "date": "2026-10-22T07:11:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat als AI je levenswerk overneemt?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/22/wat-als-ai-je-levenswerk-overneemt-a4939523",
+   "description": "AI is in korte tijd opvallend goed geworden in wiskunde. Zelfs de slimsten in het veld waarschuwen dat zij het tempo niet meer kunnen bijbenen.",
+   "date": "2026-10-22T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Na het succes van Meta met Muse presenteert Anthropic zijn AI-agent “die alles kan”",
    "link": "https://www.gva.be/buitenland/na-het-succes-van-meta-met-muse-presenteert-anthropic-zijn-ai-agent-die-alles-kan/163431730.html",
    "description": "Anthropic heeft woensdag een nieuwe agent voor artificiële intelligentie (AI) onthuld, een mobiele applicatie in de testfase die inspeelt op de trend van interfaces die alles kunnen, zoals het bijzonder succesvolle Muse van Meta.",
@@ -344,6 +652,17 @@
    "date": "2026-10-22T00:31:21",
    "feeds": [
     "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
+   "link": "https://nos.nl/l/2636149",
+   "description": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. De sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline, maar die werden in de loop van de nacht weer bereikbaar.\n        Een woordvoerder van het ministerie van Binnenlandse Zaken laat weten dat het nog niet duidelijk is wanneer overheid.nl weer beschikbaar komt. Sommige sites nemen langer de tijd om hun systemen te updaten en zijn daarom nog niet online.\n        Ruim honderd gemeenten, provincies en waterschappen maken voor de verspreiding van officiële brieven gebruik van het raadssysteem Notubiz. De website van die organisatie is online, maar niet elk onderdeel is voor gemeenten of provincies te gebruiken.\n        Officiële documenten van onder meer de gemeenten Den Haag, Almere, Breda, Haarlem, Den Bosch en Delft en van de provincies Overijssel, Gelderland en Friesland, kunnen niet worden ingezien. NotuBiz wil vanavond eerst testen of de updates goed zijn doorgevoerd en gaat ervan uit dat alle pagina's morgenochtend weer beschikbaar zijn.\n        Update\n        Een programmeertaal is een taal waarmee programmeurs websites, apps en software kunnen bouwen. Ongeveer 70 procent van alle websites wereldwijd gebruikt de programmeertaal PHP of een variatie daarop. Daarom gingen er vandaag zoveel websites offline, ook internationaal.\n        Om 16.00 uur gistermiddag voerde de organisatie achter de programmeertaal PHP een beveiligingsupdate door die gebruikers konden installeren. Daardoor konden websites weer veilig opstarten. Veel sites zijn weer in de lucht, maar voor een aantal andere geldt dat dus niet.\n        Ook internationaal gingen websites uit voorzorg offline. Naast Nederland konden overheidswebsites van België, Finland, Duitsland en Frankrijk niet worden gebruikt. Voor België en Frankrijk is dat nog steeds het geval.\n        Nadat de Amerikaanse organisatie achter de programmeertaal PHP, PHP Foundation, gisteren communiceerde dat het vandaag een beveiligingsupdate zou doorvoeren, grepen hackers de aankondiging aan om het lek te lokaliseren en informatie erover te verspreiden. De informatie had misbruikt kunnen worden; kwaadwillenden hadden websites die gebruikmaken van de programmeertaal binnen kunnen dringen om daar klantdata te stelen.\n        In 2024 waren er al aanwijzingen dat er iets mis was aan de programmeertaal PHP. Maar door andere, concretere problemen werden de aanwijzingen overschaduwd, schrijft PHP Foundation op zijn eigen site.\n        Daarna werd het eerste lek gevonden op 11 augustus door onderzoekers van het beveiligingsbedrijf Calif in samenwerking met OpenAI. Daarvoor werd een speciaal AI-model gebruikt. Het tweede lek werd op 24 augustus ontdekt door beveiligingsbedrijf Wiz, dat eigendom is van Google.\n        Geen indicatie van misbruik\n        Volgens de PHP Foundation, zijn er vooralsnog geen signalen dat de kwetsbaarheden in de programmeertaal hebben geleid tot misbruik van bedrijven via hun websites. Dat beamen het Nederlandse NCSC en het Amerikaanse CISA, beide gespecialiseerd in cybersecurity. Zij zeggen geen actief misbruik van het lek te hebben gezien.",
+   "date": "2026-10-21T22:54:10",
+   "feeds": [
+    "NOS - Tech"
    ],
    "first_seen": "2026-10-22",
    "intro_geprobeerd": false
@@ -459,8 +778,30 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Dank u, PHP, voor alle keren dat het internet níét onderuitging",
+   "link": "https://www.standaard.be/media-en-cultuur/dank-u-php-voor-alle-keren-dat-het-internet-niet-onderuitging/163267972.html",
+   "description": "Wat leren we uit de twee PHP-lekken die maakten dat een flink deel van het internet woensdag onbereikbaar was? Iets over hoe AI een tweesnijdend zwaard is. Maar vooral: hoe belangrijk het ondankbare werk van opensourceontwikkelaars is.",
+   "date": "2026-10-21T19:59:37",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Van techbro’s tot ceo’s van Belgische start-ups: waarom is de AI-wereld zo mannelijk?",
    "link": "https://www.standaard.be/economie/van-techbros-tot-ceos-van-belgische-start-ups-waarom-is-de-ai-wereld-zo-mannelijk/163193096.html",
+   "description": "Slechts een op de tien ceo’s van Belgische technologiestart-ups is een vrouw. Nochtans doen ze het vaak beter. “Het glazen plafond verandert in een betonnen muur wanneer het gaat om het ophalen van kapitaal.”",
+   "date": "2026-10-21T19:43:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom is de AI-wereld zo mannelijk? “Het is triestig. Ik ben vaak de enige vrouw op evenementen waar oprichters samenkomen”",
+   "link": "https://www.standaard.be/economie/waarom-is-de-ai-wereld-zo-mannelijk-het-is-triestig.-ik-ben-vaak-de-enige-vrouw-op-evenementen-waar-oprichters-samenkomen/163193096.html",
    "description": "Slechts een op de tien ceo’s van Belgische technologiestart-ups is een vrouw. Nochtans doen ze het vaak beter. “Het glazen plafond verandert in een betonnen muur wanneer het gaat om het ophalen van kapitaal.”",
    "date": "2026-10-21T19:43:00",
    "feeds": [
@@ -555,6 +896,17 @@
     "De Morgen - In Het Nieuws"
    ],
    "first_seen": "2026-10-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Via een foto van het gezicht bepaalt een algoritme de kans dat iemand kanker overleeft: ‘De voorspellingen zijn vrij accuraat’",
+   "link": "https://www.demorgen.be/nieuws/via-een-foto-van-het-gezicht-bepaalt-een-algoritme-de-kans-dat-iemand-kanker-overleeft-de-voorspellingen-zijn-vrij-accuraat~b2ec51f1/",
+   "description": "",
+   "date": "2026-10-21T17:42:00",
+   "feeds": [
+    "De Morgen - Best Gelezen"
+   ],
+   "first_seen": "2026-10-22",
    "intro_geprobeerd": true
   },
   {
