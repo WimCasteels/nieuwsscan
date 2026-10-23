@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T17:47:06",
+ "generated": "2026-10-23T03:14:30",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 2,
+   "count": 1,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 34,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 160,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 92,
    "error": null
   },
   {
@@ -316,6 +316,138 @@
  ],
  "articles": [
   {
+   "title": "Zijn huisartsen met uitsterven bedreigd? Microsoft ontwikkelt AI-tool die stapsgewijs diagnoses stelt en in studie dubbel zo accuraat blijkt dan dokters",
+   "link": "https://www.gva.be/buitenland/zijn-huisartsen-met-uitsterven-bedreigd-microsoft-ontwikkelt-ai-tool-die-stapsgewijs-diagnoses-stelt-en-in-studie-dubbel-zo-accuraat-blijkt-dan-dokters/163491189.html",
+   "description": "Een AI-systeem van Microsoft heeft in een studie ingewikkelde medische gevallen ruim twee keer zo vaak correct opgelost als artsen. De technologie bepaalt stap voor stap welke vragen en onderzoeken nodig zijn om tot een diagnose te komen. De resultaten verschenen donderdag in Science.",
+   "date": "2026-10-23T03:05:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Franse jongeren blijven op straat komen: “Pannenkoeken redden de wereld niet, maar we doen tenminste iets”",
+   "link": "https://www.standaard.be/buitenland/franse-jongeren-blijven-op-straat-komen-pannenkoeken-redden-de-wereld-niet-maar-we-doen-tenminste-iets/163477381.html",
+   "description": "Donderdag kwamen opnieuw leerlingen en studenten op straat in Parijs. De – verboden – betoging bleef rustig. Terwijl de fanfare speelde en de ordediensten toekeken, legde de Franse jeugd uit waarom ze blijven demonstreren. “Een vaag algoritme beslist over onze toekomst.”",
+   "date": "2026-10-22T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canadese uitgever breekt met Thélyson Orélien om AI-gebruik bij roman, De Bezige Bij trekt Nederlandse vertaling terug",
+   "link": "https://www.standaard.be/media-en-cultuur/boeken/canadese-uitgever-breekt-met-thelyson-orelien-om-ai-gebruik-bij-roman-de-bezige-bij-trekt-nederlandse-vertaling-terug/163467921.html",
+   "description": "Volgens zijn Canadese uitgeverij gebruikte Thélyson Orélien AI voor zijn roman. De Bezige Bij trekt de Nederlandse vertaling terug.",
+   "date": "2026-10-22T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe het PHP-lek eigenlijk onder controle was, maar toch ontspoorde",
+   "link": "https://www.standaard.be/economie/technologie/hoe-het-php-lek-eigenlijk-onder-controle-was-maar-toch-ontspoorde/163466893.html",
+   "description": "Het PHP-lek, dat woensdag een flink stuk van het internet onderuithaalde, kwam niet zomaar uit de lucht vallen. Door de opkomst van AI-modellen zoals Mythos zijn we in een nieuwe, gevaarlijke wereld beland waarin alles vooral steeds sneller gaat.",
+   "date": "2026-10-22T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese AI-ontwikkelaar DeepSeek haalt zo’n 13 miljard euro op om zijn positie op de AI-markt te versterken",
+   "link": "https://businessam.be/chinese-ai-ontwikkelaar-deepseek-haalt-zon-13-miljard-euro-op-om-zijn-positie-op-de-ai-markt-te-versterken/",
+   "description": "Key takeaways De Chinese AI-ontwikkelaar DeepSeek heeft in zijn recentste financieringsronde ongeveer 100 miljard yuan (zo’n 13 miljard euro) opgehaald. Met dat kapitaal wil het bedrijf de concurrentie aangaan met Amerikaanse AI-bedrijven zoals OpenAI en Anthropic. De financieringsronde behoort tot de grootste in de Chinese geschiedenis en toont DeepSeeks ambitie om zijn internationale aanwezigheid uit […]",
+   "date": "2026-10-22T22:47:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verkoopgolf rolt over Wall Street: Nasdaq verliest 2,6 procent",
+   "link": "https://www.tijd.be/r/t/1/id/10696840",
+   "description": "De angst dat grote techbedrijven overmatig investeren in AI-datacenters grijpt weer om zich heen. Meta Platforms zakte 7 procent ondanks sterke kwartaalcijfers, terwijl de chipspelers opnieuw forse klappen incasseerden. Spotify en Lockheed Martin scoorden wel. De langetermijnrente nam een duik.",
+   "date": "2026-10-22T22:10:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘De defensieve houding van links is strategisch onverstandig: technologie maakt ons betere mensen’",
+   "link": "https://www.knack.be/nieuws/cultuur/boeken/de-defensieve-houding-van-links-is-strategisch-onverstandig-technologie-maakt-ons-betere-mensen/",
+   "description": "' Terwijl rechts technologie claimt als symbool van durf, daadkracht en toekomst, blijft links vaak hangen in waarschuwing en beperking. Alsof het beste wat we van innovatie kunnen hopen, is dat zij zo min mogelijk schade aanricht. Willen we echt het continent zijn dat de AI-revolutie mist, en toch trots verkondigt de eerste te zijn met strenge AI-regels?' Journalist Hidde Boersma en jurist Floris Kreiken houden in hun nieuwe boek 'Overvloed' een vurig pleidooi voor een hernieuwd progressief techno-optimisme. We bieden u hier een fragment aan.\nThe post ‘De defensieve houding van links is strategisch onverstandig: technologie maakt ons betere mensen’ appeared first on Knack.",
+   "date": "2026-10-22T20:24:01",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe AI een gevaarlijk lek vond voor de hackers het deden",
+   "link": "https://www.demorgen.be/nieuws/hoe-ai-een-gevaarlijk-lek-vond-voor-de-hackers-het-deden~b0a58122/",
+   "description": "",
+   "date": "2026-10-22T19:45:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "“Ze zijn niet sexy, maar zo belangrijk”: Europa heeft eigen datacenters nodig",
+   "link": "https://www.standaard.be/economie/ze-zijn-niet-sexy-maar-zo-belangrijk-europa-heeft-eigen-datacenters-nodig/163267892.html",
+   "description": "Nooit eerder werden zoveel datacenters in Europa gebouwd. Maar zelfs die recordgroei kan de vraag niet bijbenen, laat staan de kloof met de VS en China dichten. In een wereld met “nog weinig vrienden” zijn datacenters cruciaal voor onze soevereiniteit.",
+   "date": "2026-10-22T19:40:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Arc Browser stopt per 22 december volledig",
+   "link": "https://tweakers.net/nieuws/253660/arc-browser-stopt-per-22-december-volledig.html",
+   "description": "The Browser Company stopt eind dit jaar met zijn Arc-webbrowser. Het bedrijf wil zich volledig richten op Dia, een andere webbrowser met een nadruk op AI. Vanaf 22 december is Arc niet meer te gebruiken, aldus het bedrijf.",
+   "date": "2026-10-22T19:33:30",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Plannen voor hogere AI-uitgaven stuwen kredietrisico van Meta naar recordniveau",
+   "link": "https://businessam.be/meta-ziet-kredietrisico-oplopen-door-hoge-investeringen-in-ai-infrastructuur/",
+   "description": "Key takeaways De bezorgdheid over de financiële stabiliteit van Meta Platforms Inc. bereikte donderdag een ongekend hoogtepunt, wat leidde tot een daling van de obligatiewaarden. Dat meldt Bloomberg. Aanleiding waren de plannen van Meta om de kapitaaluitgaven te verhogen. Daardoor vrezen beleggers dat grote technologiebedrijven steeds meer schulden zullen aangaan om hun investeringen in artificiële […]",
+   "date": "2026-10-22T19:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Explainer | PHP-crisis laat zien hoe AI het internet verandert",
+   "link": "https://www.nu.nl/331545/video/php-crisis-laat-zien-hoe-ai-het-internet-verandert.html",
+   "description": "",
+   "date": "2026-10-22T18:15:12",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "TSMC wil fabrieksapparatuur aanpassen om minder afhankelijk te zijn van Chinese zeldzame aardmetalen",
    "link": "https://businessam.be/tsmc-wil-fabrieksapparatuur-aanpassen-om-minder-afhankelijk-te-zijn-van-chinese-zeldzame-aardmetalen/",
    "description": "Key takeaways Om de risico’s van de Chinese dominantie op het gebied van kritieke mineralen te beperken, onderzoekt chipfabrikant TSMC manieren om zeldzame aardmetalen uit zijn productiemachines te verwijderen. Volgens bronnen die op de hoogte zijn van de situatie, wil de halfgeleidergigant zijn productie van geavanceerde chips beschermen tegen mogelijke verstoringen door de strenge exportregels […]",
@@ -324,6 +456,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-10-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een oefening in het niet meer nodig zijn",
+   "link": "https://www.nrc.nl/nieuws/2026/10/22/een-oefening-in-het-niet-meer-nodig-zijn-a4939475",
+   "description": "Het was een dapper en pijnlijk opiniestuk, van de wiskundige die onlangs in de krant schreef over de ervaring overbodig te zijn geworden door AI (Wiskunde speelde een belangrijke…",
+   "date": "2026-10-22T17:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-23",
    "intro_geprobeerd": false
   },
   {
