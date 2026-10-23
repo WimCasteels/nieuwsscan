@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T03:14:30",
+ "generated": "2026-10-23T17:37:40",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 34,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 100,
    "error": null
   },
   {
@@ -315,6 +315,260 @@
   }
  ],
  "articles": [
+  {
+   "title": "Student-ondernemer Teljo Kodia, van de cel naar eigen AI-bedrijf Helvaro: 'Ik heb mensen moeten loslaten die me oprecht dierbaar waren'",
+   "link": "https://www.tijd.be/r/t/1/id/10696864",
+   "description": "Een dag voor zijn 18de verjaardag werd hij opgepakt voor winkeldiefstal. Een reis naar Angola later begon Teljo Kodia zijn eigen tradingbedrijfje. Nu probeert de student-ondernemer autodealers te helpen om met AI potentiële klanten ook echt binnen te halen. ‘Elke dag als ik opsta, staat mijn teller weer op nul.’",
+   "date": "2026-10-23T16:51:11",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Experts spreken met al die hacks al van Zwarte Oktober: AI legt bloot dat het internet aan een grondige renovatie toe is",
+   "link": "https://www.nrc.nl/nieuws/2026/10/23/experts-spreken-met-al-die-hacks-al-van-zwarte-oktober-ai-legt-bloot-dat-het-internet-aan-een-grondige-renovatie-toe-is-a4939590",
+   "description": "Het lek in programmeertaal PHP dat de wereld deze week deed opschrikken was al jarenlang bekend. Maar door AI is een geautomatiseerde hack in opdracht van kwaadwillenden een realistisch scenario geworden. Internet dateert van de jaren zeventig. „Het systeem ging ervan uit dat partijen op het netwerk te vertrouwen waren.”",
+   "date": "2026-10-23T16:39:18",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Zweedse overheid verbiedt gebruik van ChatGPT en Claude door ambtenaren'",
+   "link": "https://www.security.nl/posting/958798/%27Zweedse+overheid+verbiedt+gebruik+van+ChatGPT+en+Claude+door+ambtenaren%27?channel=rss",
+   "description": "De Zweedse overheid verbiedt het gebruik van ChatGPT en Claude door rijksambtenaren, zo meldt de Zweedse publieke radiozender ...",
+   "date": "2026-10-23T16:36:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Poolse uitdager van Palantir jaagt op Belgische deal, maar overheid is moeilijke klant",
+   "link": "https://www.tijd.be/r/t/1/id/10694537",
+   "description": "DataWalk, een Pools bedrijf dat met AI waardevolle inzichten kan halen uit massa's data, geniet interesse van de Belgische overheid. Maar krappe budgetten en lange procedures maken het zakendoen in België en Europa erg moeilijk, zegt CEO Pawel Wieczynski.",
+   "date": "2026-10-23T15:56:58",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Studente Josephine (21) uit Knokke valt in de prijzen met 'StudyBuddy' voor leerlingen met dyslexie en dysfasie",
+   "link": "https://vrtnws.be/p.kQOM4v58W",
+   "description": "Studente toegepaste informatica Josephine Bouwens uit Knokke ontwikkelde voor haar bachelorproef aan Hogeschool PXL in Hasselt een chatbot waarmee leerlingen met een taalstoornis hun leerstof kunnen inoefenen. De 'StudyBuddy' stelt vragen over de lessen en controleert of de antwoorden van de leerlingen correct zijn. De 21-jarige studente heeft daar de 'prijs van bijzondere verdienste' voor gekregen.",
+   "date": "2026-10-23T15:48:04",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Calibre 9.17",
+   "link": "https://tweakers.net/downloads/78744/calibre-917.html",
+   "description": "Versie 9.17 van Calibre is uitgekomen. Calibre is een open source e-bookbeheerprogramma dat haast onmisbaar is voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 9 is onder meer een boekenplank toegevoegd, wat een nieuwe manier is om alle boeken te tonen. Ook zijn er enkele optionele AI-functies toegevoegd, die bijvoorbeeld een suggestie kunnen doen welk volgend boek je moet lezen of vragen over de inhoud van een boek kunnen beantwoorden. De changelog voor deze uitgave kan hieronder worden gevonden. New features",
+   "date": "2026-10-23T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX wil met meer dan 130 partners de inzet van Grok bij bedrijven versnellen",
+   "link": "https://businessam.be/spacex-lanceert-partnernetwerk-om-grok-ai-breder-in-bedrijven-te-integreren/",
+   "description": "Key takeaways SpaceX heeft een samenwerkingsnetwerk geïntroduceerd dat is ontworpen om de integratie van Grok AI in bedrijfsomgevingen te vergemakkelijken. Dit nieuwe initiatief, bekend als het “Super Intelligence Partner Network”, heeft al meer dan 130 vroege deelnemers aangetrokken, waaronder grote bedrijven als Nvidia en Apollo Global Management. Dat meldt Bloomberg. Divers netwerk van integratiepartners Het […]",
+   "date": "2026-10-23T14:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techoligarch Ellison, twee keer éven de rijkste man ter wereld, zet nu al zijn geld op AI",
+   "link": "https://www.nrc.nl/nieuws/2026/10/23/techoligarch-larry-ellison-twee-keer-even-de-rijkste-man-ter-wereld-zet-al-zijn-geld-op-ai-a4938605",
+   "description": "De oprichter en topman van techbedrijf Oracle ziet AI als het toekomstige hart van de wereldeconomie, en data als de benodigde zuurstof. Oracles internationale netwerk van datacenters moet dan het bloedvatenstelsel gaan vormen. Maar met de enorme bedragen die Larry Ellison hierin investeert, neemt hij een gok die desastreus kan uitpakken.",
+   "date": "2026-10-23T13:59:23",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SK Hynix staakt plan voor beursgang geheugenchipdivisie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/sk-hynix-staakt-plan-voor-beursgang-geheugenchipdivisie/",
+   "description": "(ABM FN-Dow Jones) SK Hynix staakt de plannen om zijn geheugenchipdivisie in de VS naar de beurs te brengen. Dit maakte de Zuid-Koreaanse chipfabrikant vrijdag bekend.  Dochteronderneming Solidigm onderzocht een beursgang als optie om financiering te verkrijgen voor een nieuwe productiefaciliteit in de VS. Daarbij werd een kapitaalronde van ongeveer 5 biljoen Koreaanse won overwogen. …\nThe post SK Hynix staakt plan voor beursgang geheugenchipdivisie appeared first on Trends.be.",
+   "date": "2026-10-23T13:37:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijven gaan geld weggeven. Zo versterken ze hun grip op de wereld",
+   "link": "https://www.nrc.nl/nieuws/2026/10/23/ai-bedrijven-gaan-geld-weggeven-zo-versterken-ze-hun-grip-op-de-wereld-a4939615",
+   "description": "Beste lezer, overtuigd dat kunstmatige intelligentie de arbeidsmarkt radicaal zal transformeren, moeten grote AI-bedrijven nu nadenken over hoe ze de rest van de wereld van die hypothetische toekomstige welvaart kunnen laten meeprofiteren. In dat kader kwamen Anthropic en SpaceX-baas Elon Musk deze week met opzienbarende ideeën. Veel leesplezier,",
+   "date": "2026-10-23T12:10:42",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI mikt op waardering van 1,25 biljoen dollar met nieuwe financieringsronde van 30 miljard dollar",
+   "link": "https://businessam.be/openai-mikt-op-waardering-van-125-biljoen-dollar-met-nieuwe-financieringsronde-van-30-miljard-dollar/",
+   "description": "Key takeaways OpenAI legt momenteel de laatste hand aan een financieringsronde die tot wel 30 miljard dollar (26 miljard euro) zou kunnen opleveren, waarmee de pre-money-waardering van het bedrijf op ongeveer 1,25 biljoen dollar (zo’n 1,1 biljoen euro) komt. Volgens berichten van CNBC wordt dit initiatief aangevoerd door Coatue en diverse investeerders uit de Verenigde […]",
+   "date": "2026-10-23T11:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI hoeft niet tot professionele identiteitscrisissen te leiden",
+   "link": "https://www.tijd.be/r/t/1/id/10696510",
+   "description": "Als je de subjectieve beleving van werk negeert, riskeer je daar later een prijs voor te betalen in de vorm van minder motivatie, een lager welzijn en contraproductief werkgedrag.",
+   "date": "2026-10-23T11:23:45",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pizza of toch liever een jas van patatten? Just Eat excuseert zich na flaters van AI-tool",
+   "link": "https://www.hln.be/het-leukste-van-het-web/pizza-of-toch-liever-een-jas-van-patatten-just-eat-excuseert-zich-na-flaters-van-ai-tool~a38bcb5a1/",
+   "description": "Maaltijdbestelplatform Just Eat, in België actief als takeaway.com, is in het Verenigd Koninkrijk het middelpunt van hoon en spot geworden na een test met een AI-tool. Als een aardappel in de schil plots een jas met patatten wordt, dan weet je dat het goed misgaat.",
+   "date": "2026-10-23T11:16:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | De bitterzoete les van AI",
+   "link": "https://www.tijd.be/r/t/1/id/10696780",
+   "description": "Overal zien en horen we dat AI programmeren overneemt en zo computerwetenschappen nutteloos maakt. Toch smaakt die bittere les voor mij niet slecht.",
+   "date": "2026-10-23T11:01:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Liesbeth Ceelen, CEO van BioLizard: ‘Met enkele regels code alleen kom je er niet’",
+   "link": "https://trends.knack.be/ondernemen/liesbeth-ceelen-ceo-van-biolizard-met-enkele-regels-code-alleen-kom-je-er-niet/",
+   "description": "Artificiële intelligentie bracht BioLizard de afgelopen twee jaar in een stroomversnelling. De kmo schoof een eind op van een consultancy- naar een techbedrijf, breidde zijn activiteiten uit naar nieuwe sectoren en stoomt zich klaar voor de Aziatische markt. Artificiële intelligentie bracht dan wel groei, maar dompelt de sector ook in onzekerheid. \nThe post Liesbeth Ceelen, CEO van BioLizard: ‘Met enkele regels code alleen kom je er niet’ appeared first on Trends.be.",
+   "date": "2026-10-23T10:55:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "1Password laat AI-agents inloggen zonder wachtwoorden prijs te geven",
+   "link": "https://tweakers.net/nieuws/253672/1password-laat-ai-agents-inloggen-zonder-wachtwoorden-prijs-te-geven.html",
+   "description": "Wachtwoordmanager 1Password komt met een functie waarmee AI-agents kunnen inloggen op gekoppelde accounts, zonder dat ze toegang krijgen tot de bijbehorende inloggegevens. Gebruikers moeten voor iedere inlogpoging wel eerst toestemming geven.",
+   "date": "2026-10-23T10:07:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggingstip van de week: Nemetschek",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/beleggingstip-van-de-week-nemetschek/",
+   "description": "De beurskoers van Nemetschek is fors teruggevallen, maar de winstgroei blijft overeind. De Duitse softwarespecialist profiteert van structurele groeitrends in de bouwsector en lijkt weinig kwetsbaar voor artificiële intelligentie. Dat maakt het bedrijf interessant als herstelkandidaat.\nThe post Beleggingstip van de week: Nemetschek appeared first on Trends.be.",
+   "date": "2026-10-23T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | AI laat je trein op tijd rijden maar zet het internet in brand",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-kan-ai-onze-treinen-stipter-laten-rijden-en-de-phpocalypse/",
+   "description": "De huidige stiptheidcijfers van de treinen heeft spoorwegnetbeheerder Infrabel al heel lang niet meer heeft gezien. Kan AI de laatste procentpunten winnen die met klassieke analysemethoden moeilijk te behalen zijn? Dat bespreken we deze week in de podcast AI & Tech. En ja, ook de PHPocalypse.\nThe post AI & Tech-podcast | AI laat je trein op tijd rijden maar zet het internet in brand appeared first on Trends.be.",
+   "date": "2026-10-23T08:56:42",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook AI kent een loonkloof: virtuele vrouwen verdienen minder dan mannen",
+   "link": "https://trends.knack.be/ai-en-tech/ook-ai-kent-een-loonkloof-virtuele-vrouwen-verdienen-minder-dan-mannen/",
+   "description": "Zopas werd bekend dat de loonkloof in België vorig jaar licht is toegenomen. Opmerkelijk genoeg krijgen ‘vrouwelijke’ AI-systemen te maken met dezelfde vooroordelen die de loonkloof op de werkvloer veroorzaken, blijkt uit onderzoek van de universiteiten van Zürich en Limerick.\nThe post Ook AI kent een loonkloof: virtuele vrouwen verdienen minder dan mannen appeared first on Trends.be.",
+   "date": "2026-10-23T08:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - AMD Ryzen Chipset Driver 8.09.28.1124",
+   "link": "https://tweakers.net/downloads/78734/amd-ryzen-chipset-driver-809281124.html",
+   "description": "AMD heeft een nieuwe versie van zijn Ryzen Chipset-drivers uitgebracht. De drivers zijn geschikt voor de zevende generatie AMD A-processoren en hoger, en de TRX40-chipsets en hoger. Downloads zijn beschikbaar voor Windows 10 en 11. Voor installatie-instructies verwijst AMD naar deze pagina. In deze uitgave heeft AMD geen nieuwe zaken toegevoegd, wel zijn er enkele problemen verholpen. Release Highlights",
+   "date": "2026-10-23T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen overwegend lager door AI-zorgen en Japanse inflatie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-overwegend-lager-door-ai-zorgen-en-japanse-inflatie/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden vrijdag overwegend lager. Technologieaandelen stonden opnieuw onder druk door zorgen over de financiering en het rendement van de omvangrijke investeringen in kunstmatige intelligentie. In Japan hielden beleggers daarnaast de oplopende inflatie in de gaten. Tijdens de ochtendhandel verloor de Nikkei-index in Tokio 0,9 procent en daalde de Zuid-Koreaanse Kospi met …\nThe post Aziatische beurzen overwegend lager door AI-zorgen en Japanse inflatie appeared first on Trends.be.",
+   "date": "2026-10-23T07:11:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Al die AI-agenten kleuren niet uit zichzelf netjes binnen de lijntjes. Hoe blijft de mens de baas?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/23/al-die-ai-agenten-kleuren-niet-uit-zichzelf-netjes-binnen-de-lijntjes-hoe-blijft-de-mens-de-baas-a4938927",
+   "description": "Softwareagenten bestaan al decennia. Zulke programma’s kunnen zelfstandig beslissen en handelen. Soms loopt dat uit de hand. „We kunnen AI inzetten om AI veiliger te maken.”",
+   "date": "2026-10-23T06:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-posters zijn overal, maar grafisch ontwerpers maken zich (nog) geen zorgen: \"We worden net meer gewaardeerd\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/22/hoe-ai-gegenereerde-posters-het-werk-van-grafisch-ontwerpers-bei/",
+   "description": "Van restaurants en feestjes tot een quiz van de jeugdbeweging: steeds vaker duiken AI-gegenereerde posters op in ons straatbeeld. Slecht nieuws voor grafisch ontwerpers, zou je denken, maar de realiteit blijkt complexer: \"Iedereen merkt dat iets AI is.",
+   "date": "2026-10-23T05:11:38",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Zijn huisartsen met uitsterven bedreigd? Microsoft ontwikkelt AI-tool die stapsgewijs diagnoses stelt en in studie dubbel zo accuraat blijkt dan dokters",
    "link": "https://www.gva.be/buitenland/zijn-huisartsen-met-uitsterven-bedreigd-microsoft-ontwikkelt-ai-tool-die-stapsgewijs-diagnoses-stelt-en-in-studie-dubbel-zo-accuraat-blijkt-dan-dokters/163491189.html",
@@ -355,6 +609,17 @@
    "date": "2026-10-22T23:59:00",
    "feeds": [
     "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verbod houdt Franse jongeren niet tegen: “Pannenkoeken redden de wereld niet, maar we doen tenminste iets”",
+   "link": "https://www.standaard.be/buitenland/verbod-houdt-franse-jongeren-niet-tegen-pannenkoeken-redden-de-wereld-niet-maar-we-doen-tenminste-iets/163477381.html",
+   "description": "Donderdag kwamen opnieuw leerlingen en studenten op straat in Parijs. De – verboden – betoging bleef rustig. Terwijl de fanfare speelde en de ordediensten toekeken, legde de Franse jeugd uit waarom ze blijven demonstreren. “Een vaag algoritme beslist over onze toekomst.”",
+   "date": "2026-10-22T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
    ],
    "first_seen": "2026-10-23",
    "intro_geprobeerd": false
