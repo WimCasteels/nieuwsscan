@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:37:40",
+ "generated": "2026-10-24T03:23:42",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 36,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 166,
    "error": null
   },
   {
@@ -315,6 +315,107 @@
   }
  ],
  "articles": [
+  {
+   "title": "OpenAI zegt krachtigste modellen vanaf nu in offline wereld te trainen",
+   "link": "https://www.trouw.nl/economie/openai-zegt-krachtigste-modellen-vanaf-nu-in-offline-wereld-te-trainen~b42b341a/",
+   "description": "",
+   "date": "2026-10-24T03:01:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI zegt krachtigste modellen vanaf nu in offline wereld te trainen",
+   "link": "https://www.ad.nl/tech/openai-zegt-krachtigste-modellen-vanaf-nu-in-offline-wereld-te-trainen~a42b341a/",
+   "description": "OpenAI, het techbedrijf achter de bekende chatbot ChatGPT, gaat zijn krachtigste modellen vanaf nu trainen in een offline omgeving. Dat heeft het bedrijf vrijdag gemeld in een blogpost.",
+   "date": "2026-10-24T02:22:47",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI zegt krachtigste modellen vanaf nu in offline wereld te trainen",
+   "link": "https://www.demorgen.be/snelnieuws/openai-zegt-krachtigste-modellen-vanaf-nu-in-offline-wereld-te-trainen~b42b341a/",
+   "description": "",
+   "date": "2026-10-24T02:18:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta mag niet alleen Facebook-pagina's scrapen, maar ook websites van gebruikers",
+   "link": "https://tweakers.net/nieuws/253702/meta-mag-niet-alleen-facebook-paginas-scrapen-maar-ook-websites-van-gebruikers.html",
+   "description": "Meta stelt de invoering van zijn algemene voorwaarden voor zakelijke gebruikers met een paar weken uit vanwege de ophef over het gebruik van paginainhoud voor AI. Meta zegt nu dat die nieuwe voorwaarden niet volgende week, maar eind november ingaan. Dat verandert verder niets aan de situatie: Meta mag niet alleen de pagina's van bedrijven, maar ook hun websites scrapen.",
+   "date": "2026-10-23T20:33:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Videobeelden tonen hoe Chinezen op grote schaal RTX 5090's ombouwen voor servers",
+   "link": "https://tweakers.net/nieuws/253700/videobeelden-tonen-hoe-chinezen-op-grote-schaal-rtx-5090s-ombouwen-voor-servers.html",
+   "description": "In een uitgelekte video op sociale media is te zien hoe Chinese fabriekswerkers in een professioneel ogende productielijn RTX 5090-videokaarten uit elkaar halen om de hardware te gebruiken in AI-clusters. Deze videokaarten mogen officieel niet verkocht worden in China.",
+   "date": "2026-10-23T20:06:15",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat zegt het gezond (beurs)verstand over AI?",
+   "link": "https://www.standaard.be/economie/geld/wat-zegt-het-gezond-beursverstand-over-ai/163350497.html",
+   "description": "Artificiële intelligentie verdeelt alles en iedereen: werknemers, consumenten, bedrijven, financiële markten en zelfs werelddelen. Wat zijn de gevolgen voor uw beleggingsportefeuille?",
+   "date": "2026-10-23T19:45:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De rekenkracht voor AI is de olie van de nieuwe economie. Maar hoe verhandel je zogenoemde ‘compute’?",
+   "link": "https://www.standaard.be/economie/de-rekenkracht-voor-ai-is-de-olie-van-de-nieuwe-economie.-maar-hoe-verhandel-je-zogenoemde-compute/163534686.html",
+   "description": "Financiële bedrijven zijn in een wedloop verwikkeld om nieuwe instrumenten te ontwikkelen waarmee rekenkracht voor AI kan worden verhandeld.",
+   "date": "2026-10-23T19:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trumps economisch rapport voor de midterms: historisch onpopulaire president laveert tussen dure diesel en AI-boom",
+   "link": "https://www.tijd.be/r/t/1/id/10696976",
+   "description": "Als de Amerikanen op 3 november gaan stemmen voor de midterms, zal dat naar goede gewoonte vooral met hun portefeuille zijn. President Donald Trump ging de Amerikaanse economie beter besturen, maar na twee jaar is het beeld verdeeld.",
+   "date": "2026-10-23T18:54:59",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistrals nieuwe spraakmodellen zijn goedkoper dan die van concurrenten",
+   "link": "https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html",
+   "description": "Mistral heeft spraakmodel Voxtral 3 vrijgegeven. Voxtral 3, dat onder andere Nederlands en Frans ondersteunt, bestaat uit een software development kit voor ontwikkelaars en uit spraak-naar-tekst- en tekst-naar-spraakmodellen. Daarmee kunnen ontwikkelaars stembesturing aan software toevoegen, waardoor gebruikers in normale spraak met een llm kunnen praten.",
+   "date": "2026-10-23T18:05:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Student-ondernemer Teljo Kodia, van de cel naar eigen AI-bedrijf Helvaro: 'Ik heb mensen moeten loslaten die me oprecht dierbaar waren'",
    "link": "https://www.tijd.be/r/t/1/id/10696864",
