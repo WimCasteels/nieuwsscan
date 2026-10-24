@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T03:23:42",
+ "generated": "2026-10-24T16:14:35",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 32,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 36,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 167,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 93,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "name": "VRT NWS - Artikels",
    "url": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-   "count": 50,
+   "count": 49,
    "error": null
   },
   {
@@ -315,6 +315,105 @@
   }
  ],
  "articles": [
+  {
+   "title": "Spaanse oppositiepartij deelt deepfakebeelden van entourage premier Sanchez met valse bekentenissen van wangedrag",
+   "link": "https://www.demorgen.be/nieuws/spaanse-oppositiepartij-deelt-deepfakebeelden-van-entourage-premier-sanchez-met-valse-bekentenissen-van-wangedrag~b0083861/",
+   "description": "",
+   "date": "2026-10-24T15:00:34",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google kapt illegaal honderdduizenden bomen voor 2 datacentra in Finland",
+   "link": "https://vrtnws.be/p.11pl8DmKW",
+   "description": "De Finse vergunningsautoriteiten hebben de bouw van 2 datacentra van Google voorlopig stopgezet. De techgigant heeft er in totaal 530 hectare gekapt zonder toestemming, goed voor honderdduizenden bomen. Google geeft de feiten toe, maar zegt dat het te goeder trouw handelde.",
+   "date": "2026-10-24T14:12:17",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gigabyte levert grote ramkoeler mee met WRX90 AI TOP-moederbord",
+   "link": "https://tweakers.net/nieuws/253710/gigabyte-levert-grote-ramkoeler-mee-met-wrx90-ai-top-moederbord.html",
+   "description": "Gigabyte maakt meer details bekend over zijn WRX90 AI TOP-moederbord voor AMD's Threadripper PRO 7000- en 9000-processors. De fabrikant levert een actieve koeler mee voor de DDR5-modules. De prijs is nog niet bekend.",
+   "date": "2026-10-24T12:17:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang",
+   "link": "https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html",
+   "description": "OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang, na een reeks ontsnappingen door AI-agents. Het bedrijf zegt dat te blijven doen totdat de benodigde safeguards voldoende zijn verbeterd.",
+   "date": "2026-10-24T11:14:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verenigde Staten investeren 389 miljoen dollar om binnenlandse productie van halfgeleiders te versterken",
+   "link": "https://businessam.be/verenigde-staten-investeren-389-miljoen-dollar-om-binnenlandse-productie-van-halfgeleiders-te-versterken/",
+   "description": "Key takeaways Het Amerikaanse ministerie van Handel heeft aangekondigd bijna 389 miljoen dollar (347 miljoen euro) uit te trekken voor de ontwikkeling van halfgeleiders en essentiële materialen voor de energie-infrastructuur. De subsidies worden verstrekt via de CHIPS and Science Act. Ze moeten de binnenlandse productie versterken en de afhankelijkheid van buitenlandse leveranciers van cruciale onderdelen […]",
+   "date": "2026-10-24T09:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De kansen voor de mensheid volgens AI-makers",
+   "link": "https://www.trouw.nl/cartoons/verhoudingen~bf325d65/",
+   "description": "",
+   "date": "2026-10-24T07:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic waarschuwt voor groeiende cyberdreiging nu AI steeds sneller softwarelekken ontdekt",
+   "link": "https://businessam.be/anthropic-waarschuwt-voor-groeiende-cyberdreiging-nu-ai-steeds-sneller-softwarelekken-ontdekt/",
+   "description": "Key takeaways Een hoge beveiligingsmanager bij Anthropic heeft gewaarschuwd voor het toenemende gevaar van cyberaanvallen, vooral op vitale openbare infrastructuur. Jason Clinton, adjunct-hoofd informatiebeveiliging bij het bedrijf, waarschuwde dat een enorme golf van softwarefouten binnenkort de capaciteit van bestaande beveiligingssystemen zou kunnen overstijgen. Hij merkte op dat de integratie van artificiële intelligentie de snelheid waarmee […]",
+   "date": "2026-10-24T06:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van nepnieuws tot deepfakes, Nederlanders zitten boordevol AI-zorgen: ‘Het wordt onze ondergang’",
+   "link": "https://www.ad.nl/tech/van-nepnieuws-tot-deepfakes-nederlanders-zitten-boordevol-ai-zorgen-het-wordt-onze-ondergang~ac74012fa/",
+   "description": "Nederlanders vinden dat AI te snel een plaats in onze samenleving inneemt. Van nepnieuws tot privacy en van banenverlies tot milieuschade: de zorgen zijn groot. ‘Mensen om me heen lijken steeds dommer te worden.’",
+   "date": "2026-10-24T05:00:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI traint zijn meest geavanceerde AI-modellen voortaan zonder toegang tot het internet",
+   "link": "https://www.gva.be/buitenland/openai-traint-zijn-meest-geavanceerde-ai-modellen-voortaan-zonder-toegang-tot-het-internet/163551598.html",
+   "description": "OpenAI, het techbedrijf achter de populaire chatbot ChatGPT, gaat zijn meest geavanceerde modellen voortaan in een offline omgeving trainen. Dat maakte het vrijdag bekend in een blogpost.",
+   "date": "2026-10-24T03:24:32",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI zegt krachtigste modellen vanaf nu in offline wereld te trainen",
    "link": "https://www.trouw.nl/economie/openai-zegt-krachtigste-modellen-vanaf-nu-in-offline-wereld-te-trainen~b42b341a/",
@@ -412,6 +511,17 @@
    "date": "2026-10-23T18:05:49",
    "feeds": [
     "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kunnen we AI politiseren zonder te polariseren?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/23/kunnen-we-ai-politiseren-zonder-te-polariseren-a4939605",
+   "description": "Het kan iets positiefs zijn dat AI-kritiek geen politiek label heeft. Tegelijk is de vraag: maakt een onderwerp nog kans in de politieke arena als het niet in bestaande kampen past?",
+   "date": "2026-10-23T18:00:00",
+   "feeds": [
+    "NRC - Artikels"
    ],
    "first_seen": "2026-10-24",
    "intro_geprobeerd": false
