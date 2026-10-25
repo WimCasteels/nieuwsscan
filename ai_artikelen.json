@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T16:14:35",
+ "generated": "2026-10-25T02:51:48",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 157,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 92,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "name": "VRT NWS - Artikels",
    "url": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-   "count": 49,
+   "count": 50,
    "error": null
   },
   {
@@ -315,6 +315,28 @@
   }
  ],
  "articles": [
+  {
+   "title": "Oekraïense droneaanvallen treffen Russische datacentra en AI-hardware",
+   "link": "https://businessam.be/oekraiense-droneaanvallen-treffen-russische-datacentra-en-ai-hardware/",
+   "description": "Key takeaways Gedurende de maand oktober richtten Oekraïense drone-operaties zich op vijf belangrijke datacentra die worden beheerd door toonaangevende Russische technologiebedrijven. De aanvallen leidde tot verstoringen van navigatie-apps, betalingssystemen en clouddiensten in het hele land. De aanvallen troffen drie Yandex-locaties evenals een Sber-faciliteit en een VKontakte-serverhub. Deze drie bedrijven beheren het grootste deel van de […]",
+   "date": "2026-10-24T19:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 ontsnapt aan techmalaise met hulp van zwaargewichten",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-ontsnapt-aan-techmalaise-met-hulp-van-zwaargewichten/",
+   "description": "(ABM FN) De Brusselse beurs wist afgelopen week circa 200 punten te stijgen en deed het zo beduidend beter dan omringende beurzen. In Amsterdam bleven de AI-zorgen hangen en in Frankrijk zijn de begrotingszorgen steeds nadrukkelijker aanwezig en dus steeg de Franse tienjaarsrente weer flink.De Bel20 sloot vrijdag op 5.782 punten, met steun van een aantal …\nThe post Bel20 ontsnapt aan techmalaise met hulp van zwaargewichten appeared first on Trends.be.",
+   "date": "2026-10-24T17:43:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Spaanse oppositiepartij deelt deepfakebeelden van entourage premier Sanchez met valse bekentenissen van wangedrag",
    "link": "https://www.demorgen.be/nieuws/spaanse-oppositiepartij-deelt-deepfakebeelden-van-entourage-premier-sanchez-met-valse-bekentenissen-van-wangedrag~b0083861/",
