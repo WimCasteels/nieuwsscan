@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T02:51:48",
+ "generated": "2026-10-25T15:47:17",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 96,
    "error": null
   },
   {
@@ -315,6 +315,61 @@
   }
  ],
  "articles": [
+  {
+   "title": "Ex-genomineerde essayprijs Michael Vonk: ‘Ik snap dat mijn AI-gebruik een regelrechte belediging is van de schrijver die Joost Zwagerman was’",
+   "link": "https://www.trouw.nl/cultuur-media/ex-genomineerde-essayprijs-michael-vonk-ik-snap-dat-mijn-ai-gebruik-een-regelrechte-belediging-is-van-de-schrijver-die-joost-zwagerman-was~b0bb9048/",
+   "description": "",
+   "date": "2026-10-25T14:17:41",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Vooruitblik op de beursweek: laten de ECB en de Fed de rente onveranderd?",
+   "link": "https://trends.knack.be/beleggen/adviezen/vooruitblik-op-de-beursweek-laten-de-ecb-en-de-fed-de-rente-onveranderd/",
+   "description": "De komende week wordt een belangrijke test voor de financiële markten. Beleggers kijken uit naar de rentebesluiten van de Amerikaanse Federal Reserve (Fed) en de Europese Centrale Bank (ECB). Microsoft, Alphabet en Amazon komen met kwartaalresultaten. Vooral de vraag of de miljardeninvesteringen in artificiële intelligentie voldoende rendement opleveren, kan de technologiesector in beweging zetten. Dichter bij huis staan Melexis en Proximus in de kijker. \nThe post Vooruitblik op de beursweek: laten de ECB en de Fed de rente onveranderd? appeared first on Trends.be.",
+   "date": "2026-10-25T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe datacenters Trump-kiezers in de armen van de Democraten jagen",
+   "link": "https://www.knack.be/nieuws/wereld/midtermverkiezingen-in-de-vs-hoe-datacenters-trump-kiezers-in-de-armen-van-de-democraten-jagen/",
+   "description": "Het verzet tegen datacenters kan bij de midterms in november de doorslag geven in spannende verkiezingsraces.\nThe post Hoe datacenters Trump-kiezers in de armen van de Democraten jagen appeared first on Knack.",
+   "date": "2026-10-25T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie is er bang voor AI? ‘Het zal het komende jaar eens grondig misgaan’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/wie-is-er-bang-voor-ai-het-zal-het-komende-jaar-eens-grondig-misgaan/",
+   "description": "De vraag is niet of het eens ernstig zal fout lopen, maar wanneer, voorspelt techondernemer Jonathan Berte. Achter de schermen bereiden de grote AI-bedrijven zich voor op de publieke en politieke storm die na zo’n incident zal volgen. Intussen lijkt niemand bereid de ontwikkeling van AI te beteugelen.\nThe post Wie is er bang voor AI? ‘Het zal het komende jaar eens grondig misgaan’ appeared first on Knack.",
+   "date": "2026-10-25T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Centrum voor Cybersecurity België: ‘AI-agenten zijn hackers op steroïden’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/centrum-voor-cybersecurity-belgie-ai-agenten-zijn-hackers-op-steroiden/",
+   "description": "‘De balans tussen wat cyberaanvallers kunnen en de manier waarop wij ons verdedigen, begint in ons nadeel te kantelen’, zegt Miguel De Bruycker van het Centrum voor Cybersecurity België (CCB).\nThe post Centrum voor Cybersecurity België: ‘AI-agenten zijn hackers op steroïden’ appeared first on Knack.",
+   "date": "2026-10-25T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-25",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Oekraïense droneaanvallen treffen Russische datacentra en AI-hardware",
    "link": "https://businessam.be/oekraiense-droneaanvallen-treffen-russische-datacentra-en-ai-hardware/",
