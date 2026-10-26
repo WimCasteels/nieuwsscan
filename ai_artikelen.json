@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T15:47:17",
+ "generated": "2026-10-26T01:59:43",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 25,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 161,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 96,
+   "count": 87,
    "error": null
   },
   {
@@ -315,6 +315,50 @@
   }
  ],
  "articles": [
+  {
+   "title": "Europees commissaris Henna Virkkunen: “Van de 45.000 Europese start-ups richten zo’n 9.000 zich op AI. We hebben alles wat nodig is om concurrentieel te zijn”",
+   "link": "https://www.standaard.be/economie/europees-commissaris-henna-virkkunen-van-de-45.000-europese-start-ups-richten-zon-9.000-zich-op-ai.-we-hebben-alles-wat-nodig-is-om-concurrentieel-te-zijn/163526477.html",
+   "description": "Europees commissaris voor Technologische Soevereiniteit, Henna Virkkunen, wil Europa digitaal en technologisch meer op eigen benen laten staan. Maar “soevereiniteit wil niet zeggen dat je alles zelf moet doen”.",
+   "date": "2026-10-25T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bill Gates waarschuwt voor grote economische gevolgen van artificiële intelligentie",
+   "link": "https://businessam.be/bill-gates-waarschuwt-dat-ai-decennia-van-maatschappelijke-instabiliteit-kan-veroorzaken/",
+   "description": "Key takeaways Bill Gates heeft gewaarschuwd dat de integratie van artificiële intelligentie kan leiden tot ongeveer twee decennia van ingrijpende sociale en financiële instabiliteit. In de Decoder-podcast stelde de medeoprichter van Microsoft dat de verschuiving naar een AI-gerichte economie waarschijnlijk zal leiden tot aanzienlijke ontwrichting, waardoor er een kloof ontstaat tussen degenen die hiervan profiteren […]",
+   "date": "2026-10-25T20:17:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Goedkoper en meer controle: bedrijven kijken met interesse naar Chinese AI",
+   "link": "https://nos.nl/l/2636658",
+   "description": "Wat als je AI goedkoper kunt gebruiken én je de controle houdt over de informatie die je deelt? Bedrijven en organisaties die werken met AI-technologie kijken daarvoor met veel interesse naar open AI-modellen, die vooral door Chinese bedrijven worden gemaakt.\n        Terwijl de grote Amerikaanse AI-bedrijven zoals Anthropic, OpenAI en Google abonnementskosten vragen en kosten rekenen voor het gebruik van hun krachtigste gesloten AI-modellen, zijn de open AI-modellen gratis te downloaden.\n        Gebruikers kunnen daardoor zelf kiezen op welke servers een open AI-model draait, terwijl bij gesloten modellen de maker bepaalt. Dat kan risicovol zijn als je persoonlijke of gevoelige informatie wil verwerken met een gesloten AI-model: die gegevens worden verwerkt op computerapparatuur die je zelf niet beheert.\n        De populairste open AI-modellen worden gemaakt door Chinese bedrijven zoals Alibaba, DeepSeek, Moonshot en Z.ai. Ook een aantal Amerikaanse bedrijven brengt open AI-modellen uit, waaronder Meta, het bedrijf achter Facebook en Instagram.\n        Veel interesse in open AI-modellen\n        Het advocatenkantoor Driven Lawyers in Amsterdam maakt daar dankbaar gebruik van. Het bedrijf draait een kleine versie van het AI-model Qwen op computerservers in Duitsland, vertelt oprichter Arvid van Oorschot. \"Dat model is minder goed dan de grote Amerikaanse AI-modellen, maar voor sommige taken is het heel geschikt. We gebruiken het bijvoorbeeld om samenvattingen te maken van juridische contracten.\"\n        \"Vroeger was dat handwerk, nu doen we dat met AI. Daarvoor willen we echt geen duur Amerikaanse AI-model gebruiken. Als je maar door blijft gaan, lopen de kosten behoorlijk op. Het is belangrijk om daar als bedrijf op te letten.\"\n        Er is veel interesse bij bedrijven naar dit soort open modellen, zegt Philip Gast. Hij is een van de oprichters van The Stack, een netwerk van bedrijven en mensen die werken met AI-technologie. \"Voor sommige taken heb je echt geen duur AI-model nodig.\"\n        \"De open modellen kun je gratis downloaden. De grootste en krachtigste AI-modellen kun je niet zomaar op je laptop draaien. Daarvoor heb je nog wel dure apparatuur met veel rekenkracht nodig. Daarom zijn er ook bedrijven die verschillende open AI-modellen op hun servers aanbieden. Dat kost ook geld, maar je kunt alsnog goedkoper uit zijn.\"\n        Een van die bedrijven is OpenRouter, wereldwijd een van de grootste partijen die verschillende AI-modellen aanbiedt. In wereldwijde gebruikerscijfers van het Amerikaanse bedrijf is te zien dat het AI-gebruik enorm toeneemt en dat open modellen steeds meer worden gebruikt.\n        Eind vorig jaar kwam ongeveer 30 procent van het AI-gebruik van open en 70 procent van 'gesloten' AI-modellen, zoals Claude (van Anthropic) en GPT (OpenAI) en Gemini (Google). De afgelopen tijd is dat andersom: 70 procent van het AI-gebruik komt nu van open modellen van voornamelijk Chinese bedrijven.\n        Werken met gevoelige gegevens\n        Naast de kosten speelt ook mee dat je met een open AI-model veel meer controle hebt over je gegevens. \"Wij werken als advocatenkantoor met heel veel gevoelige dossiers en informatie\", zegt Van Oorschot. \"Die willen we niet naar servers in Amerika of China sturen.\"\n        Omdat je het model gewoon kunt downloaden, kun je als bedrijf zelf bepalen op welke servers het draait. Voor veel bedrijven is het belangrijk of zelfs noodzakelijk dat de informatie binnen Europa blijft, zoals in de gezondheidszorg of defensie-industrie.\n        De open modellen vormen dus een serieuze bedreiging voor de Amerikaanse AI-bedrijven, zegt Gast. De controle houden over je informatie is belangrijk, maar voor veel bedrijven gaat het vooral om de kosten. \"Als je jouw werk kan doen met veel goedkopere AI-modellen uit China, waarom zou je dan nog een duur Amerikaans model gebruiken?\"\n        China wil beperkingen opleggen\n        Tot nu toe kunnen de Chinese AI-bedrijven hun open modellen vrij beschikbaar stellen, maar de vraag is hoelang dat nog gaat duren. De Chinese overheid is van plan om beperkingen op te leggen aan AI-technologie. Als de regels er komen, kan dat betekenen dat open AI-modellen voortaan alleen met een vergunning openbaar gemaakt mogen worden, of zelfs verboden worden buiten China.\n        De vergunningsplicht geldt volgens het huidige plan niet voor AI-modellen die nu al openbaar zijn gemaakt, zoals de populaire modellen van DeepSeek en Z.ai die nu ook in Europa en de Verenigde Staten veel gebruikt worden.\n        China-correspondent Gabi Verberg:\n        \"China wil er met de beperkingen voor zorgen dat het land waardevolle kennis zoveel mogelijk zelf kan gebruiken, terwijl de grote concurrent, de Verenigde Staten, er niet van profiteert. Eerder dit jaar blokkeerde de Chinese overheid nog de overname van het Chinese AI-bedrijf Manus door het Amerikaanse bedrijf Meta.\"\n        \"Sinds vorige maand is het voor de Chinese overheid veel makkelijker om Chinezen tegen te houden die naar het buitenland willen reizen. Volgens experts is deze maatregel ook bedoeld om Chinees AI-talent makkelijker te kunnen controleren.\"\n        \"Het voorstel dat nu op tafel ligt, zorgt voor veel onzekerheid. Het is de vraag of de toonaangevende Chinese AI-bedrijven in de toekomst hun beste nieuwe modellen nog als open model met de rest van de wereld kunnen blijven delen en onder welke voorwaarden. Dat kan een grote klap betekenen voor de Amerikaanse en Europese bedrijven die maar al te graag gebruikmaken van de Chinese AI-technologie.\"",
+   "date": "2026-10-25T19:51:01",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Silicon Valley voelde zich altijd al uitverkoren",
+   "link": "https://www.nrc.nl/nieuws/2026/10/25/silicon-valley-voelde-zich-altijd-al-uitverkoren-a4939046",
+   "description": "De techbro’s die de scepter zwaaien over sociale media en AI staan in een traditie, ziet Jurgen Masure. In Silicon Valley leeft namelijk al veel langer de opvatting dat een kleine tech-elite mag besluiten waar het heen gaat met de mensheid.",
+   "date": "2026-10-25T16:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-26",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Ex-genomineerde essayprijs Michael Vonk: ‘Ik snap dat mijn AI-gebruik een regelrechte belediging is van de schrijver die Joost Zwagerman was’",
    "link": "https://www.trouw.nl/cultuur-media/ex-genomineerde-essayprijs-michael-vonk-ik-snap-dat-mijn-ai-gebruik-een-regelrechte-belediging-is-van-de-schrijver-die-joost-zwagerman-was~b0bb9048/",
