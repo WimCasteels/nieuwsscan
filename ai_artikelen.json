@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T02:50:00",
+ "generated": "2026-10-27T17:11:32",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 168,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,424 @@
   }
  ],
  "articles": [
+  {
+   "title": "Mag je een schoolboek in AI gooien om een oefentoets te maken?",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/mag-je-een-schoolboek-in-ai-gooien-om-een-oefentoets-te-maken/",
+   "description": "Om je kind voor te bereiden op een examen, upload je zijn lesboek in een AI-tool en vraag je om een oefentoets te maken. Een minuut later staat de pdf al op je bureaublad, netjes gelayout en mét verbetersleutel bovendien. Handig. Alleen: mag het eigenlijk wel?\nThe post Mag je een schoolboek in AI gooien om een oefentoets te maken? appeared first on Knack.",
+   "date": "2026-10-27T17:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Musks antiwoke AI-versie van ‘The Odyssey’ wordt compleet neergesabeld: “Bizarre rotzooi”",
+   "link": "https://www.hln.be/buitenland/musks-antiwoke-ai-versie-van-the-odyssey-wordt-compleet-neergesabeld-bizarre-rotzooi~aadf6c97b/",
+   "description": "Topregisseur Christopher Nolan veroverde dit jaar de bioscoopzalen met zijn kaskraker ‘The Odyssey’. Zijn grootste tegenstander? Miljardair Elon Musk, die kloeg over “woke Hollywood” en de film “een belediging voor Homerus” noemde. Hij zou tonen hoe het wél moest, met zijn eigen Grok-AI. Nu de eerste clip van zeven minuten is gelost, oogst Musk geen applaus met zijn AI-antwoord, maar keiharde spot. “Zielloze troep.”",
+   "date": "2026-10-27T16:53:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie betaalt straks de zorg en het onderwijs als er door AI veel minder inkomstenbelasting binnenkomt?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/27/wie-betaalt-straks-de-zorg-en-het-onderwijs-als-er-door-ai-veel-minder-inkomstenbelasting-binnenkomt-a4938403",
+   "description": "Banenverlies en extra productiviteitswinst: de inzet van kunstmatige intelligentie kan de grondslag van het Nederlandse belastingstelsel aantasten. Moet arbeid nu niet meer worden ontzien en kapitaal zwaarder worden belast? Of moet toch de btw omhoog? Vier manieren om elders geld op te halen.",
+   "date": "2026-10-27T16:27:39",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "68 procent van de Belgische managers integreert AI, maar zorgen over jobs blijven",
+   "link": "https://businessam.be/68-procent-van-de-belgische-managers-integreert-ai-maar-zorgen-over-jobs-blijven/",
+   "description": "Key takeaways Artificiële intelligentie wordt een vast onderdeel van het Belgische bedrijfsleven: 68 procent van de managers geeft aan dat AI in hun bedrijfsvoering is geïntegreerd. Complexe relatie Gegevens van het European Digital Observatory, een onderzoek uitgevoerd door Institut Bona Fidé in opdracht van Inetum onder 2.400 Europese leidinggevenden, wijzen op een complexe relatie tussen […]",
+   "date": "2026-10-27T16:17:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met tal van camera's en artificiële intelligentie: zo voert Antwerpen (dure) strijd tegen sluikstort steeds verder op",
+   "link": "https://vrtnws.be/p.0YpnGlaQQ",
+   "description": "In Antwerpen wordt het gespecialiseerde team dat met camera's en artificiële intelligentie sluikstorters identificeert en beboet, uitgebreid van 20 naar 31 medewerkers. Zo voert de stad de strijd tegen sluikstort steeds verder op. VRT NWS ging kijken hoe het camerateam van de stad te werk gaat.",
+   "date": "2026-10-27T16:04:55",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple voegt met OpenAI en niet Google AI-functies toe aan kantoorsoftware",
+   "link": "https://tweakers.net/nieuws/253822/apple-voegt-met-openai-en-niet-google-ai-functies-toe-aan-kantoorsoftware.html",
+   "description": "Apple heeft AI-functies toegevoegd aan zijn foto- en kantoorsoftware, zoals Pixelmator Pro en Keynote, Pages en Numbers. Apple maakt die functies met OpenAI en niet met Google, zoals met de nieuwe Siri AI.",
+   "date": "2026-10-27T16:04:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donderdagmiddag marktenchat over Anthropic, AB InBev, Alphabet en de Fed",
+   "link": "https://www.tijd.be/r/t/1/id/10697406",
+   "description": "Om 12 uur chatten we donderdag over de markten en de economie.",
+   "date": "2026-10-27T16:02:10",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Vermoedelijke Roblox-crawler downloadt 145GB aan 3d-assets zonder toestemming'",
+   "link": "https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html",
+   "description": "Volgens de 3d-assetsite Open3DLab heeft een crawler die vermoedelijk afkomstig is van Roblox 145GB aan projecten gedownload zonder toestemming van de site. Het is niet bekend of de crawler echt van Roblox is. De site vermoedt dat de bestanden zullen worden gebruikt voor AI-training. Roblox heeft niet gereageerd.",
+   "date": "2026-10-27T15:49:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaamse boekensector wil regels tegen gebruik van boeken voor AI-training",
+   "link": "https://tweakers.net/nieuws/253814/vlaamse-boekensector-wil-regels-tegen-gebruik-van-boeken-voor-ai-training.html",
+   "description": "De Vlaamse boekensector wil dat de politiek optreedt tegen het gebruik van boeken voor AI-training zonder vergoeding. Daarom zouden er Europese en Belgische regels moeten komen, zo vindt de Groep Algemene Uitgevers.",
+   "date": "2026-10-27T15:32:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX is vooral een belegging in AI",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/spacex-is-vooral-een-belegging-in-ai/",
+   "description": "De naam doet anders vermoeden, maar SpaceX is veel meer een AI- dan een ruimtevaartbedrijf. \nThe post SpaceX is vooral een belegging in AI appeared first on Trends.be.",
+   "date": "2026-10-27T15:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anduril en Qualcomm lanceren ‘all-American’ laptop",
+   "link": "https://www.tijd.be/r/t/1/id/10697383",
+   "description": "De Amerikaanse gevechtsdronebouwer Anduril en chipreus Qualcomm slaan de handen in elkaar om laptops op Amerikaanse bodem te produceren. Het initiatief past in een groeiend techpatriottisme, waarbij de VS hun afhankelijkheid van Aziatische fabrikanten willen verkleinen.",
+   "date": "2026-10-27T14:57:56",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Boekensector roept regeringen op tot betere bescherming tegen AI",
+   "link": "https://www.tijd.be/r/t/1/id/10697321",
+   "description": "De Vlaamse boekensector start een campagne tegen AI-bedrijven die hun taalmodellen trainen op boeken zonder toestemming, transparantie of vergoeding. De uitgevers eisen dat bedrijven toestemming vragen, openbaar maken welke werken ze gebruiken en betalen voor wat ze al hebben overgenomen.",
+   "date": "2026-10-27T14:54:05",
+   "feeds": [
+    "De Tijd - Cultuur"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Modders slopen AI-prestatielimiet uit Nvidia's RTX 20-, 30- en 40-gpu's",
+   "link": "https://tweakers.net/nieuws/253804/modders-slopen-ai-prestatielimiet-uit-nvidias-rtx-20-30-en-40-gpus.html",
+   "description": "Modders hebben een manier gevonden om de AI-prestatielimieten uit Nvidia's RTX 20-, 30- en 40-videokaarten te schrappen. Via een exploit kunnen sommige gpu's daarmee op papier fors beter presteren bij specifieke AI-rekentaken, al zal dat in de praktijk niet altijd zo zijn.",
+   "date": "2026-10-27T14:30:28",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "&#8216;Als je niet oplet, doet AI al het interessante werk, en kijk jij zijn huiswerk na&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/10/27/als-je-niet-oplet-doet-ai-al-het-interessante-werk-en-kijk-jij-zijn-huiswerk-na-a4939033",
+   "description": "Hoe werk je slim samen met AI? Bestsellerauteur Ethan Mollick heeft nieuwe tips voor het tijdperk van de agents.  „AI wordt voorlopig niet overal beter in dan jij, en waar het wel beter is, kan het je vrijmaken voor waardevoller werk.”",
+   "date": "2026-10-27T14:21:43",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Proton bevestigt dat het mogelijk mensen ontslaat die geen AI gebruiken in werk",
+   "link": "https://tweakers.net/nieuws/253800/proton-bevestigt-dat-het-mogelijk-mensen-ontslaat-die-geen-ai-gebruiken-in-werk.html",
+   "description": "Proton, de organisatie achter ProtonMail en veel andere diensten, wil medewerkers vragen hoe ze AI in hun werk gaan gebruiken. De uitkomst van zo'n gesprek kan ertoe leiden dat Proton opnieuw beoordeelt of de medewerker in dienst mag blijven.",
+   "date": "2026-10-27T14:04:51",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een thermometer in de AI-wereld: wat leert de beursgang van Anthropic ons?",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/een-thermometer-in-de-ai-wereld-wat-leert-de-beursgang-van-anthropic-ons~bed515bc/",
+   "description": "",
+   "date": "2026-10-27T13:44:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft biedt 60.000 medewerkers een vrijwillig vertrekpakket aan om de AI-inspanningen te financieren",
+   "link": "https://businessam.be/microsoft-biedt-60-000-medewerkers-een-vrijwillig-vertrekpakket-aan-om-de-ai-inspanningen-te-financieren/",
+   "description": "Key takeaways In een poging om de uitgaven te beheersen en financiering te verschaffen voor zijn uitgebreide initiatieven op het gebied van artificiële intelligentie, biedt Microsoft vrijwillige vertrekregelingen aan aan ongeveer 60.000 medewerkers. Dit aantal vertegenwoordigt meer dan 25 procent van het totale wereldwijde personeelsbestand van de organisatie. Strategische heroriëntatie  Amy Coleman, de Chief People […]",
+   "date": "2026-10-27T13:04:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaamse uitgevers verzetten zich tegen AI en zullen actie voeren op Boektopia: “Het is eigenlijk het Wilde Westen”",
+   "link": "https://www.standaard.be/media-en-cultuur/vlaamse-uitgevers-verzetten-zich-tegen-ai-en-zullen-actie-voeren-op-boektopia-het-is-eigenlijk-het-wilde-westen/163637039.html",
+   "description": "AI-bedrijven betalen niets voor de Vlaamse boeken die ze gebruiken om hun modellen te trainen. De Vlaamse uitgevers slaan alarm. “Ik denk dat er best wat uitgevers overkop zullen gaan. De marge in deze sector is al heel beperkt.”",
+   "date": "2026-10-27T12:05:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De gelukkige Amerikaanse belegger",
+   "link": "https://www.tijd.be/r/t/1/id/10697325",
+   "description": "De zenuwen staan gespannen bij Amerikaanse beleggers, omdat onduidelijk is wat de ontwikkeling van AI en de tussentijdse verkiezingen in petto hebben. Maar er zijn redenen genoeg voor optimisme.",
+   "date": "2026-10-27T11:52:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: klein verlies in Brussel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-klein-verlies-in-brussel-9/",
+   "description": "(ABM FN) De Brusselse beurs noteerde dinsdag aan het einde van de ochtend licht lager. De Bel20 index daalde met 0,3 procent tot 5.769 punten.Internationaal werd het sentiment bepaald door de vraagtekens over de houdbaarheid van de enorme investeringen en hoge waarderingen van AI-gerelateerde bedrijven. Grote verliezen bij Anthropic, dat zich opmaakt voor een beursgang, zorgden …\nThe post Beursupdate: klein verlies in Brussel appeared first on Trends.be.",
+   "date": "2026-10-27T11:51:25",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musks AI-versie van ‘The Odyssey’ is zo slecht als verwacht",
+   "link": "https://www.nrc.nl/nieuws/2026/10/27/elon-musks-ai-versie-van-the-odyssey-is-zo-slecht-als-verwacht-a4939832",
+   "description": "Elon Musk wond zich eerder dit jaar op over Christopher Nolans The Odyssey. Hij beloofde een niet-woke, „historisch accurate” versie van Homerus’ heldendicht te maken. De eerste aflevering is nu te bekijken. En het is zo slecht en vreemd als je zou denken.",
+   "date": "2026-10-27T11:48:27",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noyb dient bij Autoriteit Persoonsgegevens klacht in tegen AI-bedrijf Scale AI",
+   "link": "https://www.security.nl/posting/959233/Noyb+dient+bij+Autoriteit+Persoonsgegevens+klacht+in+tegen+AI-bedrijf+Scale+AI?channel=rss",
+   "description": "Privacyorganisatie noyb heeft bij de Autoriteit Persoonsgegevens (AP), alsmede drie andere Europese privacytoezichthouders, een ...",
+   "date": "2026-10-27T11:42:32",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Gedurfd, maar verstandig’: wat we leerden uit het 240.000 woorden tellende prospectus van Anthropic",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/gedurfd-maar-verstandig-wat-we-leerden-uit-het-240-000-woorden-tellende-prospectus-van-anthropic/",
+   "description": "Het prospectus biedt inzicht in de ‘missie’ van het bedrijf, zijn investeringsverplichtingen van 800 miljard dollar voor datacenters en zijn buitengewone bestuursstructuur.\nThe post ‘Gedurfd, maar verstandig’: wat we leerden uit het 240.000 woorden tellende prospectus van Anthropic appeared first on Trends.be.",
+   "date": "2026-10-27T11:42:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Parlementsverkiezingen Israël: Netanyahu schakelt over op paniekmodus",
+   "link": "https://www.knack.be/nieuws/wereld/parlementsverkiezingen-israel-netanyahu-schakelt-over-op-paniekmodus/",
+   "description": "Aanvalsplannen tegen Iran, AI-beelden van atoomexplosies in Tel Aviv en fantasieën over cryptomunten: de Israëlische premier Benjamin Netanyahu zet in de eindsprint van de verkiezingscampagne in op escalatie, met mogelijk catastrofale gevolgen.\nThe post Parlementsverkiezingen Israël: Netanyahu schakelt over op paniekmodus appeared first on Knack.",
+   "date": "2026-10-27T11:10:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia pompt 3 miljard dollar in Meta terwijl Meta meer Nvidia-chips koopt",
+   "link": "https://tweakers.net/nieuws/253790/nvidia-pompt-3-miljard-dollar-in-meta-terwijl-meta-meer-nvidia-chips-koopt.html",
+   "description": "Nvidia en Meta gaan nauwer samenwerken. De gpu-maker investeert 3 miljard dollar in Meta, dat op zijn beurt meer Nvidia-chips gaat gebruiken om AI mee te trainen. De twee bedrijven gaan specifiek samenwerken aan de AI-assistent Muse en de onderliggende AI-modellen.",
+   "date": "2026-10-27T11:09:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI brengt GPT-6.1 Terra uit met 50 procent lagere api-tarieven dan Sol",
+   "link": "https://tweakers.net/nieuws/253786/openai-brengt-gpt-61-terra-uit-met-50-procent-lagere-api-tarieven-dan-sol.html",
+   "description": "OpenAI komt met GPT-6.1 Terra, een nieuw AI-model dat is gericht op efficiëntie. Volgens het bedrijf zijn de standaard api-tarieven 50 procent lager dan die voor zijn complexere GPT-6.1 Sol-model. Het nieuwe model moet tegen lagere kosten ook aanzienlijk beter presteren dan het vorige Terra-model.",
+   "date": "2026-10-27T10:23:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple brengt iOS 27.2 uit met Apple Pencil-ondersteuning voor iPhone Duo",
+   "link": "https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html",
+   "description": "Apple heeft iOS 27.2 uitgebracht. Deze update bevat verschillende wijzigingen voor de iPhone Duo, waaronder Apple Pencil-ondersteuning. Siri AI krijgt ondersteuning voor meer talen, maar nog niet voor het Nederlands.",
+   "date": "2026-10-27T09:14:23",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geluksfilosoof Mo Gawdat pleit voor ethische AI: ‘AI moet ons slimmer maken, niet dommer’",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/geluksfilosoof-mo-gawdat-pleit-voor-ethische-ai-ai-moet-ons-slimmer-maken-niet-dommer/",
+   "description": "Mo Gawdat ziet het als zijn persoonlijke ambitie om een miljard mensen gelukkig te maken. En ja, daar kan AI bij helpen. Maar de kans bestaat ook dat het helemaal fout loopt voor het mogelijk weer beter gaat. Is AI de grootste uitvinding ooit of onze definitieve ondergang? \nThe post Geluksfilosoof Mo Gawdat pleit voor ethische AI: ‘AI moet ons slimmer maken, niet dommer’ appeared first on Trends.be.",
+   "date": "2026-10-27T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Een op hol geslagen AI-agent is gewoon een worm die kan nadenken’",
+   "link": "https://trends.knack.be/ai-en-tech/een-op-hol-geslagen-ai-agent-is-gewoon-een-worm-die-kan-nadenken/",
+   "description": "Een AI-agent is nog altijd een stuk software, deels geschreven en deels getraind. Het is software die een bedrijf heeft gebouwd, geconfigureerd en aangezet. Dat maakt dit kort door de bocht een worm. En voor wormen gelden al lang duidelijke regels, zo schrijft Tom De Blende, managing partner bij Cloudar.\nThe post ‘Een op hol geslagen AI-agent is gewoon een worm die kan nadenken’ appeared first on Trends.be.",
+   "date": "2026-10-27T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Videokaartenbouwer: we kunnen geen RTX 5090-chips meer bestellen bij Nvidia",
+   "link": "https://tweakers.net/nieuws/253782/videokaartenbouwer-we-kunnen-geen-rtx-5090-chips-meer-bestellen-bij-nvidia.html",
+   "description": "Een Nvidia-boardpartner zegt dat Nvidia nu geen RTX 5090-bestellingen accepteert. Dat meldt Roman Hartung, beter bekend als der8auer, op basis van ingewijden. Nvidia accepteert ook geen backorders, wat bij gpu-tekorten normaal wel kon.",
+   "date": "2026-10-27T08:20:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zweden verbiedt ChatGPT en Claude voor overheidsmedewerkers",
+   "link": "https://businessam.be/zweden-verbiedt-chatgpt-en-claude-voor-overheidsmedewerkers/",
+   "description": "Key takeaways Door zorgen over gegevensbeheer heeft de Zweedse overheid haar medewerkers sinds maandag verboden toegang te krijgen tot Claude en ChatGPT. De beperking geldt voor werkcomputers om verkeerd gebruik van vertrouwelijke informatie te voorkomen. “Schaduw-IT” De maatregel volgt op een evaluatie die eerder dit jaar werd uitgevoerd, waarbij zorgwekkende patronen werden vastgesteld in de […]",
+   "date": "2026-10-27T07:58:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Firmware-update - Apple iOS 27.2",
+   "link": "https://tweakers.net/downloads/78780/apple-ios-272.html",
+   "description": "Apple heeft een update voor versie 27 van iOS uitgebracht. In iOS 27, dat geschikt is voor de iPhone 11 en hoger, heeft Apple onder meer extra AI-functies beschikbaar gemaakt, zijn er meer mogelijkheden voor ouders om hun kinderen te beschermen en zijn er diverse verbeteringen in Liquid Glass aangebracht. In versie 27.2 zijn de volgende veranderingen en verbeteringen aangebracht: iOS 27.2",
+   "date": "2026-10-27T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen overwegend hoger na hernieuwd AI-optimisme",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-overwegend-hoger-na-hernieuwd-ai-optimisme/",
+   "description": "(ABM FN) De Aziatische beurzen noteerden dinsdagochtend overwegend hoger, aangevoerd door techaandelen. De aanvraag voor een IPO door Anthropic gaf het vertrouwen in kunstmatige intelligentie een impuls. In Tokio won de Nikkei-index circa 1,8 procent, terwijl de Zuid-Koreaanse Kospi ongeveer 4 procent steeg. Anthropic, het bedrijf achter chatbot Claude, diende maandag documenten in voor een beursgang en maakte …\nThe post Aziatische beurzen overwegend hoger na hernieuwd AI-optimisme appeared first on Trends.be.",
+   "date": "2026-10-27T07:25:39",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI schakelt live internettoegang uit tijdens de training van geavanceerde AI-modellen",
+   "link": "https://businessam.be/openai-schakelt-live-internettoegang-uit-bij-training-van-geavanceerde-ai-modellen/",
+   "description": "Key takeaways Om de veiligheid en beveiliging te verbeteren, heeft OpenAI realtime internetverbinding tijdens het trainen van zijn meest geavanceerde AI-systemen uitgeschakeld. Volgens een recente aankondiging van het bedrijf communiceren deze modellen nu met een opgeslagen versie van het web in plaats van met het live internet. Deze beslissing vloeit voort uit de inschatting van […]",
+   "date": "2026-10-27T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Naaktbeelden en botlegers: hoe Israëlische dark tech zich laat gelden in verkiezingen",
+   "link": "https://apache.be/2026/10/27/naaktbeelden-en-botlegers-hoe-israelische-dark-tech-zich-laat-gelden-verkiezingen",
+   "description": "Hele legers van AI-gestuurde bots worden in de strijd geworpen om kiezers te beïnvloeden.",
+   "date": "2026-10-27T06:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van Israël tot de VS: partijen maken in de kiesstrijd volop AI-nepvideo’s van hun tegenstanders",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/26/deepfakesaiverkiezingenisraelvsspanje/",
+   "description": "Israël kiest vandaag een nieuw parlement. Volgende week trekken de Amerikanen naar de stembus, eind november de Spanjaarden. In alle 3 de landen duiken in de campagne nepbeelden op, gemaakt met artificiële intelligentie. Niet door anonieme trollen, maar door de politieke partijen zelf. Vaak zijn ze overduidelijk nep.",
+   "date": "2026-10-27T05:31:54",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft biedt 60.000 werknemers vertrekregeling aan",
+   "link": "https://nos.nl/l/2636818",
+   "description": "Microsoft heeft 60.000 werknemers een vrijwillige vertrekregeling aangeboden. Dat is zo'n 27 procent van het totale aantal mensen dat bij de Amerikaanse techgigant werkt.\n        De regeling werd gisteren bekendgemaakt door het bedrijf en richt zich op werknemers in Canada, India, het Verenigd Koninkrijk en de Verenigde Staten. \"Het vrijwillige vertrekaanbod is nieuw voor ons\", schrijft HR-baas Amy Coleman.\n        \"Tegelijkertijd blijven we mensen helpen zich te concentreren op het werk dat er echt toe doet, helpen we ze met nieuwe vaardigheden te ontwikkelen en - waar dat logisch is - nieuwe kansen binnen het bedrijf te vinden\", schrijft ze. \n        Kwartaalcijfers\n        Het bedrijf presenteert woensdag zijn kwartaalcijfers en had eind juni zo'n 223.000 medewerkers. Deze maand bereikte de aandelenkoers van het bedrijf een historisch hoogtepunt. \n        Volgens financieel persbureau Bloomberg verwacht Microsoft dat het percentage werknemers dat op het aanbod ingaat aanzienlijk lager zal liggen dan de 30 procent die inging op een vervroegde pensioenregeling van eerder dit jaar. Het bedrijf kondigde in juli al aan om 4800 banen te schrappen. \n        Net als onder meer Google investeert het bedrijf fors in kunstmatige intelligentie. Alleen al dit kalenderjaar verwacht Microsoft 175 miljard dollar uit te geven aan AI. Om de winstmarges voor aandeelhouders hoog te houden, moet daarom gesneden worden in de operationele kosten, zoals personeel.",
+   "date": "2026-10-27T04:10:49",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic zet landing in voor beursgang, maar veel vragen blijven: “Kunnen nog altijd niet zeggen of en wanneer ze winst kunnen maken”",
+   "link": "https://www.gva.be/economie/anthropic-zet-landing-in-voor-beursgang-maar-veel-vragen-blijven-kunnen-nog-altijd-niet-zeggen-of-en-wanneer-ze-winst-kunnen-maken/163650269.html",
+   "description": "Nu is het officieel, Anthropic trekt naar de beurs. Maar hun officiële prospectus – hun verkoopspraatje voor geïnteresseerde beleggers – blijft al bij al karig met informatie over hoe ze ooit winst willen draaien. Het zal moeten, ze draaien 81 miljard dollar verlies.",
+   "date": "2026-10-27T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Lezersreacties: AI-fraude is de diepst mogelijke belediging voor de essayistiek",
    "link": "https://www.trouw.nl/opinie/lezersreacties-ai-fraude-is-de-diepst-mogelijke-belediging-voor-de-essayistiek~b901b9e6/",
@@ -392,6 +810,17 @@
    ],
    "first_seen": "2026-10-27",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Von der Leyen: Brussel zou meer AI moeten gebruiken",
+   "link": "https://www.trouw.nl/buitenland/von-der-leyen-brussel-zou-meer-ai-moeten-gebruiken~ba2384f9/",
+   "description": "",
+   "date": "2026-10-26T19:48:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": true
   },
   {
    "title": "ChatGPT? Deze bedrijven werken liever met Europese AI: “Loskomen van Amerikaanse systemen vergt veel moed”",
@@ -868,6 +1297,17 @@
    ],
    "first_seen": "2026-10-26",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Antifa’, Rusland, Hamas …: hoe iedereen op sociale media ‘zijn’ dader van de Franse rellen vindt",
+   "link": "https://www.knack.be/nieuws/belgie/politiek/van-antifa-over-rusland-tot-hamas-hoe-iedereen-op-sociale-media-zijn-dader-van-de-franse-rellen-vindt/",
+   "description": "Beeldmateriaal van de recente rellen in Frankrijk werd op sociale media een kaleidoscoop waarin iedereen kon zien wat hij wilde – al dan niet met de hulp van AI.\nThe post ‘Antifa’, Rusland, Hamas …: hoe iedereen op sociale media ‘zijn’ dader van de Franse rellen vindt appeared first on Knack.",
+   "date": "2026-10-26T00:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-27",
+   "intro_geprobeerd": false
   },
   {
    "title": "Europees commissaris Henna Virkkunen: “Van de 45.000 Europese start-ups richten zo’n 9.000 zich op AI. We hebben alles wat nodig is om concurrentieel te zijn”",
