@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T03:01:46",
+ "generated": "2026-10-28T17:58:19",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 166,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 91,
    "error": null
   },
   {
@@ -316,6 +316,238 @@
  ],
  "articles": [
   {
+   "title": "Koersval Adyen duwt AEX in het rood",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/koersval-adyen-duwt-aex-in-het-rood/",
+   "description": "(ABM FN-Dow Jones) De Amsterdamse beurs noteerde woensdag aan het einde van de ochtend in het rood, na een reeks resultaten van grote Nederlandse bedrijven, waarvan Adyen de meeste aandacht trok door een forse koersval.De AEX sloot 0,4 procent lager op 1.135,56 punten.De stemming rond technologie en AI verbeterde, na een periode van twijfel op de …\nThe post Koersval Adyen duwt AEX in het rood appeared first on Trends.be.",
+   "date": "2026-10-28T17:55:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Musks AI-variant van ‘The Odyssey’ oogt als een slopversie van ‘The lord of the rings’",
+   "link": "https://www.standaard.be/nieuws/musks-ai-variant-van-the-odyssey-oogt-als-een-slopversie-van-the-lord-of-the-rings/163717097.html",
+   "description": "Hoe slecht is Elon Musks Grok AI-versie van de film ‘The Odyssey’? Heel slecht, als je afgaat op een aantal recensies die de voorbije dagen verschenen. Al is dat wat voorbarig, aangezien we maar de eerste zeven minuten te zien kregen. “Ik denk dat veel Hollywoodfilms even slecht geschreven en geacteerd zijn.”",
+   "date": "2026-10-28T16:50:00",
+   "feeds": [
+    "De Standaard - Cultuur",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onderzoeker vindt weer kritieke Chrome-lekken met behulp van Claude",
+   "link": "https://www.security.nl/posting/959455/Onderzoeker+vindt+weer+kritieke+Chrome-lekken+met+behulp+van+Claude?channel=rss",
+   "description": "Een beveiligingsonderzoeker van AI-bedrijf Anthropic heeft weer met behulp van chatbot Claude kritieke kwetsbaarheden in Google ...",
+   "date": "2026-10-28T16:35:06",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie neemt tientallen servers in beslag bij 'bulletproof hoster' in Limburg",
+   "link": "https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html",
+   "description": "De Nederlandse politie heeft in een internationaal onderzoek naar een hostingbedrijf tientallen servers in beslag genomen bij een datacentrum in Limburg. Het bedrijf zou betrokken zijn bij uiteenlopende vormen van cybercrime, van ransomware en infostealers tot phishing en kindermisbruikmateriaal.",
+   "date": "2026-10-28T16:15:21",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle breidt samenwerking met Nvidia uit en zet ook in op AI-chips van Google en Cerebras",
+   "link": "https://businessam.be/oracle-breidt-samenwerking-met-nvidia-uit-en-zet-ook-in-op-ai-chips-van-google-en-cerebras/",
+   "description": "Key takeaways Oracle heeft een uitbreiding van zijn samenwerking met Nvidia aangekondigd. Tegelijkertijd wil het bedrijf hardware van andere leveranciers integreren, waaronder Cerebras Systems en Google, dat deel uitmaakt van Alphabet. Als onderdeel van deze uitbreiding is de cloudprovider van plan om de nieuwste „Vera Rubin“-AI-servers van Nvidia op een schaal van meerdere gigawatt in […]",
+   "date": "2026-10-28T16:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'OpenAI wil chips van Google kopen om minder afhankelijk van Nvidia te worden'",
+   "link": "https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html",
+   "description": "OpenAI is van plan om tensor processing units van Google te kopen. Dat melden Bloomberg en The Information op basis van ingewijden. Het bedrijf zou zo minder afhankelijk worden van Nvidia, wiens chips OpenAI nu voornamelijk gebruikt voor het trainen en draaien van zijn AI-modellen.",
+   "date": "2026-10-28T16:12:26",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Elon Musk liet AI een anti-woke ‘The Odyssey’ maken, maar kijkers zien vooral ‘zielloze slop’",
+   "link": "https://www.trouw.nl/cultuur-media/elon-musk-liet-ai-een-anti-woke-the-odyssey-maken-maar-kijkers-zien-vooral-zielloze-slop~b4e8d211d/",
+   "description": "",
+   "date": "2026-10-28T15:48:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bank of America adviseert klanten om wachtwoord niet met AI-agent te delen",
+   "link": "https://www.security.nl/posting/959438/Bank+of+America+adviseert+klanten+om+wachtwoord+niet+met+AI-agent+te+delen?channel=rss",
+   "description": "De Bank of America, één van de grootste banken van de Verenigde Staten, adviseert klanten om hun inloggegevens niet met ...",
+   "date": "2026-10-28T15:25:06",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De grootste beursgang ooit, maar staat de mensheid op het spel? ‘Anthropic vertelt Terminator-verhaal’",
+   "link": "https://www.ad.nl/tech/de-grootste-beursgang-ooit-maar-staat-de-mensheid-op-het-spel-anthropic-vertelt-terminator-verhaal~a1270b4c/",
+   "description": "De beursgang van AI-pionier Anthropic wordt mogelijk de grootste ooit. De belangstelling onder beleggers is enorm, maar de risico’s zijn groot. Het bedrijf verbrandt geld en zijn techniek zou zelfs de mensheid bedreigen. „Ze presenteren zich als moderne Oppenheimer.”",
+   "date": "2026-10-28T15:01:02",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: foto van Pink Panther die middelvingers opsteekt tijdens rellen in Parijs is bewerkt met AI",
+   "link": "https://www.knack.be/factcheck/factcheck-foto-van-pink-panther-die-middelvingers-opsteekt-tijdens-rellen-in-parijs-is-bewerkt-met-ai/",
+   "description": "Op sociale media circuleert een foto van een betoger in een Pink Panther-kostuum die tijdens de recente rellen in Frankrijk beide middelvingers opsteekt. Het beeld blijkt met artificiële intelligentie bewerkt: aan een foto van een betoging in Armenië tegen de hoge elektriciteitsprijzen in 2015 werd een figuur in een rozepanterpak toegevoegd.\nThe post Factcheck: foto van Pink Panther die middelvingers opsteekt tijdens rellen in Parijs is bewerkt met AI appeared first on Knack.",
+   "date": "2026-10-28T14:53:50",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump noemt artificiële intelligentie een “onnauwkeurige” benaming en wil de term verbieden",
+   "link": "https://businessam.be/trump-noemt-artificiele-intelligentie-een-onnauwkeurige-benaming-en-wil-de-term-verbieden/",
+   "description": "Key takeaways Donald Trump heeft beloofd het gebruik van de uitdrukking “artificiële intelligentie” te verbieden en pleit in plaats daarvan voor de invoering van “superintelligentie“. Via een bericht op Truth Social bekritiseerde de president de huidige terminologie als onnauwkeurig en verklaarde hij zijn voornemen om “AI” formeel te verbieden in alle officiële documenten en communicatie. […]",
+   "date": "2026-10-28T13:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Imec, Combell en delaware willen AI-tokenkosten drukken voor bedrijven met nieuwe European Sovereign AI Cloud: ‘We zijn onze eigen customer zero’",
+   "link": "https://trends.knack.be/ai-en-tech/imec-combell-en-delaware-willen-ai-tokenkosten-drukken-voor-bedrijven-met-nieuwe-european-sovereign-ai-cloud-we-zijn-onze-eigen-customer-zero/",
+   "description": "De European Sovereign AI Cloud (ESAI) is een cloudoplossing van imec, Combell en delaware dat bedrijven helpt om meer controle te krijgen over de kosten van AI. De data van bedrijven draaien op Europese servers, hun tokenconsumptie wordt in kaart gebracht en over AI-modellen worden doordachte keuzes gemaakt.\nThe post Imec, Combell en delaware willen AI-tokenkosten drukken voor bedrijven met nieuwe European Sovereign AI Cloud: ‘We zijn onze eigen customer zero’ appeared first on Trends.be.",
+   "date": "2026-10-28T12:02:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASM International verhoogt omzetverwachting voor 2027 met 24 procent door AI-boom",
+   "link": "https://businessam.be/asm-international-verhoogt-omzetverwachting-voor-2027-met-24-procent-door-ai-boom/",
+   "description": "Key takeaways De sterke vraag naar apparatuur voor AI-chips heeft ASM International ertoe aangezet zijn omzetprognose voor 2027 met ongeveer 24 procent te verhogen, zo blijkt uit een rapport van Bloomberg. De Nederlandse leverancier van machines voor de productie van halfgeleiders verwacht nu een omzet van meer dan 5,7 miljard euro in 2027. Dat is […]",
+   "date": "2026-10-28T11:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Praat mee | Gebruik jij AI om je zorgen te delen en om te vragen of je gelijk hebt?",
+   "link": "https://www.nu.nl/stelling/6414643/gebruik-jij-ai-om-je-zorgen-te-delen-en-om-te-vragen-of-je-gelijk-hebt.html",
+   "description": "Als je vroeger persoonlijke kwesties wilde delen, deed je dat met mensen. Maar steeds meer mensen gebruiken AI-chatbots, zoals ChatGPT, als een luisterend oor. Gebruik jij weleens AI om bijvoorbeeld relatieproblemen, zorgen of onzekerheden te delen? Praat mee in de reacties.",
+   "date": "2026-10-28T10:50:32",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CIO’s vertrouwen de beveiliging van hun AI, terwijl ze daar niet altijd zicht op hebben",
+   "link": "https://trends.knack.be/ai-en-tech/cybersecurity/cios-vertrouwen-de-beveiliging-van-hun-ai-terwijl-ze-daar-niet-altijd-zicht-op-hebben/",
+   "description": "De meeste ondervraagde Belgische CIO’s (80%) denken dat hun AI-agenten veilig werken, maar slechts een vierde heeft een volledig overzicht van de software supply chain voor die agenten. \nThe post CIO’s vertrouwen de beveiliging van hun AI, terwijl ze daar niet altijd zicht op hebben appeared first on Trends.be.",
+   "date": "2026-10-28T10:22:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepMind geeft generator 3d-'spelwerelden' met Genie 4 dynamische audio",
+   "link": "https://tweakers.net/nieuws/253848/deepmind-geeft-generator-3d-spelwerelden-met-genie-4-dynamische-audio.html",
+   "description": "Google DeepMind brengt de nieuwste versie van de generator van interactieve 3d-werelden genaamd Genie 4 onder een beperkt aantal testers. Het nieuwe model kan onder meer audio genereren bij de 'spelwerelden'. Later moet het model beschikbaar komen voor Google AI Ultra-abonnees.",
+   "date": "2026-10-28T09:37:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Koreaanse beurs schiet omhoog",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/zuid-koreaanse-beurs-schiet-omhoog-3/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten woensdag overtuigend hoger, met flinke winsten voor met name de Zuid-Koreaanse aandelenmarkt. De Kospi-index schoot maar liefst 6,7 procent omhoog tot 6.017,49 punten. Daarmee koerste de index op het hoogste niveau in twee weken. Halfgeleiders en andere techaandelen waren in trek, nadat SK Hynix liet weten van plan te zijn …\nThe post Zuid-Koreaanse beurs schiet omhoog appeared first on Trends.be.",
+   "date": "2026-10-28T07:11:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ByteDance-oprichter Zhang Yiming is opnieuw de rijkste persoon van China",
+   "link": "https://businessam.be/bytedance-oprichter-zhang-yiming-is-opnieuw-de-rijkste-persoon-van-china/",
+   "description": "Key takeaways Aangedreven door de opmars van artificiële intelligentie heeft Zhang Yiming, de oprichter van ByteDance, zijn positie als rijkste persoon van China heroverd. Uit gegevens van het Hurun Research Institute blijkt dat het vermogen van Zhang is gestegen tot 89,4 miljard euro, een stijging van 43 procent ten opzichte van vorig jaar en een […]",
+   "date": "2026-10-28T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Combell, Delaware en Imec bundelen krachten voor Europese AI-cloud",
+   "link": "https://www.tijd.be/r/t/1/id/10697432",
+   "description": "De Belgische techbedrijven Combell, Delaware en Imec lanceren een gecombineerd aanbod om bedrijven te helpen hun AI-gebruik beter te controleren.",
+   "date": "2026-10-28T06:00:00",
+   "feeds": [
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dit is waarom AI-chatbots altijd '7' kiezen als je een willekeurig getal tussen 1 en 10 vraagt",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/27/ai-chatbots-willekeurig-getal-7/",
+   "description": "Vraag je een willekeurig getal tussen 1 en 10 aan AI-chatbots zoals ChatGPT of Claude, dan antwoorden die bijna altijd met '7'. Volgens wiskundeprofessor Ann Dooms komt dat doordat chatbots menselijke teksten nabootsen en het in de menselijke aard zit om voor 7 te kiezen.",
+   "date": "2026-10-28T05:12:01",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Kan door AI iedereen nu hacken?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/28/kan-door-ai-iedereen-nu-hacken-a4939937",
+   "description": "Organisaties hacken en websites platleggen is door AI makkelijker dan ooit. Onderzoeksjournalist Rik Wassens legt uit hoe weinig kennis cybercriminelen nog nodig hebben om hacks…",
+   "date": "2026-10-28T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Een prima koper-ETF",
    "link": "https://trends.knack.be/beleggen/opties-derivaten-grondstoffen/een-prima-koper-etf/",
    "description": "De vooruitzichten voor de kopermijnbouw zijn gunstig. Koper is onmisbaar voor de energietransitie. Het aanbod blijft achter, terwijl elektrificatie, AI, datacenters, elektriciteitsnetten en elektrische auto’s de vraag stuwen. Sinds begin 2025 is de koperprijs op de London Metal Exchange met circa 60 procent gestegen, tot ongeveer 14.540 dollar per ton. Naast vraag en aanbod spelen …\nThe post Een prima koper-ETF appeared first on Trends.be.",
@@ -329,6 +561,17 @@
   {
    "title": "Bedrijven zetten in op AI, maar de rekening weegt steeds zwaarder: “Elke maand komt er 40 procent bij”",
    "link": "https://www.standaard.be/economie/bedrijven-zetten-in-op-ai-maar-de-rekening-weegt-steeds-zwaarder-elke-maand-komt-er-40-procent-bij/163661441.html",
+   "description": "Veel bedrijven hopen met AI stevige productiviteitswinst te boeken, maar dat kost steeds meer. Imec, Delaware en Combell lanceren ESAI, een tool die bedrijven helpt om hun AI-factuur te drukken.",
+   "date": "2026-10-27T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bedrijven zetten in op AI, maar de rekening loopt steeds hoger op: “Elke maand komt er 40 procent bij”",
+   "link": "https://www.standaard.be/economie/bedrijven-zetten-in-op-ai-maar-de-rekening-loopt-steeds-hoger-op-elke-maand-komt-er-40-procent-bij/163661441.html",
    "description": "Veel bedrijven hopen met AI stevige productiviteitswinst te boeken, maar dat kost steeds meer. Imec, Delaware en Combell lanceren ESAI, een tool die bedrijven helpt om hun AI-factuur te drukken.",
    "date": "2026-10-27T23:59:00",
    "feeds": [
