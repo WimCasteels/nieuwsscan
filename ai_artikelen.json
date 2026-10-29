@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T17:58:19",
+ "generated": "2026-10-29T03:07:48",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 168,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 89,
    "error": null
   },
   {
@@ -316,6 +316,161 @@
  ],
  "articles": [
   {
+   "title": "Waarom te brave AI ook gevaarlijk kan zijn",
+   "link": "https://www.demorgen.be/meningen/waarom-te-brave-ai-ook-gevaarlijk-kan-zijn~bd58684df/",
+   "description": "",
+   "date": "2026-10-29T03:00:43",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Alphabet: Google Cloud groeit in ijltempo, maar markt schrikt van advertentiecijfers",
+   "link": "https://www.tijd.be/r/t/1/id/10697646",
+   "description": "De Amerikaanse techreus Alphabet weet de forse AI-investeringen om te zetten in een verdubbeling van de omzet in de Google Cloud, zo blijkt uit het kwartaalrapport. Maar beleggers vrezen dat de tegenvallende advertentie-inkomsten een signaal zijn dat AI-agenten aan het verdienmodel van zoekmachine Google vreten.",
+   "date": "2026-10-29T01:57:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vraag naar AI duwt omzet van Google en Microsoft omhoog",
+   "link": "https://www.gva.be/buitenland/vraag-naar-ai-duwt-omzet-van-google-en-microsoft-omhoog/163771195.html",
+   "description": "Het Google-moederbedrijf Alphabet en het techconcern Microsoft hebben in het voorbije kwartaal een hogere omzet behaald dankzij hun cloudtak. De grote vraag naar rekenkracht en toepassingen van kunstmatige intelligentie (AI) heeft de cijfers de hoogte in geduwd, zo blijkt uit de woensdag gepubliceerde kwartaalresultaten.",
+   "date": "2026-10-29T00:34:30",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-start-up Ravical tankt 17 miljoen dollar voor Europese expansie",
+   "link": "https://www.tijd.be/r/t/1/id/10697505",
+   "description": "Het Gentse Ravical, dat werk van accountants- en belastingkantoren helpt automatiseren met AI-agents, heeft zich verzekerd van 17 miljoen dollar groeifinanciering. De kapitaalronde moet de nog piepjonge start-up helpen snelheid te maken in de verovering van Europa.",
+   "date": "2026-10-29T00:06:01",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Charlotte De Witte laat de stem van de Iraanse vrouw horen",
+   "link": "https://www.standaard.be/media-en-cultuur/charlotte-de-witte-laat-de-stem-van-de-iraanse-vrouw-horen/163733881.html",
+   "description": "De weg naar de hel is geplaveid met goede bedoelingen. Moeten we dus boos zijn of blij dat Charlotte De Witte muziek opneemt om Iraanse vrouwen te steunen – met een Iraanse AI-zangeres?",
+   "date": "2026-10-28T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Studio 100 werkte deels met AI voor de ontwikkeling van de nieuwe K3-strip. Moeten we dat erg vinden?",
+   "link": "https://www.standaard.be/media-en-cultuur/studio-100-werkte-deels-met-ai-voor-de-ontwikkeling-van-de-nieuwe-k3-strip.-moeten-we-dat-erg-vinden/163390182.html",
+   "description": "‘K3 Superhelden: Brand in de stad’, de nieuwste strip van Studio 100, is deels gemaakt met generatieve AI. Dat mag natuurlijk, maar vanuit de creatieve sector kun je er vragen bij stellen.",
+   "date": "2026-10-28T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alphabet blijft hard groeien",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/alphabet-blijft-hard-groeien/",
+   "description": "(ABM FN) Alphabet heeft in het derde kwartaal, ondanks een hogere omzet, de winst zien dalen, terwijl de investeringen hard stegen en de kasstroom opnieuw negatief was. Dit bleek woensdag uit de kwartaalcijfers van het moederbedrijf van onder meer Google en Youtube.\"We hadden een sterk kwartaal\", aldus CEO Sundar Pichai. De Gemini app heeft inmiddels meer …\nThe post Alphabet blijft hard groeien appeared first on Trends.be.",
+   "date": "2026-10-28T21:36:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: schuldenberg Oracle blijkt vliegwiel in plaats van molensteen",
+   "link": "https://www.tijd.be/r/t/1/id/10697641",
+   "description": "De Amerikaanse beurzen bleven kalm, ondanks de strenge taal van Fed-voorzitter Kevin Warsh. Oracle toont aan dat de forse AI-investeringen hun vruchten afwerpen. Als belangrijke ontvanger van die cashflows spint SK Hynix flink garen bij de AI-boom. Daarvoor wordt de belegger beloond.",
+   "date": "2026-10-28T21:07:31",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft stopt met bekritiseerde Copilot-app op smart-tv's van Samsung en LG",
+   "link": "https://tweakers.net/nieuws/253882/microsoft-stopt-met-bekritiseerde-copilot-app-op-smart-tvs-van-samsung-en-lg.html",
+   "description": "Microsoft stopt met de ondersteuning voor Copilot op smart-tv's. Televisies van LG en Samsung kregen vorig jaar een Copilot-app, die in eerste instantie niet te verwijderen was. Daar kwam veel kritiek op.",
+   "date": "2026-10-28T20:56:39",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google komt al na twee weken met opvolger van cybersecuritymodel Gemini 4 Argon",
+   "link": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html",
+   "description": "Google heeft Gemini 4 Carbon aangekondigd. Het bedrijf claimt dat dit AI-model beter presteert in cybersecuritytaken dan Gemini 4 Argon, dat pas twee weken geleden verscheen. Het bedrijf brengt het nieuwe model niet meteen voor iedereen uit.",
+   "date": "2026-10-28T20:18:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Midterms in de VS tonen aan: AI zit overal in het democratisch proces",
+   "link": "https://www.tijd.be/r/t/1/id/10697600",
+   "description": "De midterms van volgende week in de VS zijn behalve een cruciale stembusslag voor de rest van Donald Trumps termijn ook een experiment in democratie ten tijde van volle AI-hausse. Terwijl het wantrouwen groot is, wordt de technologie volop ingezet door kandidaten én kiezers. ‘We bevinden ons op onontgonnen terrein.’",
+   "date": "2026-10-28T20:13:14",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verenigde Staten maakten B-2-bommenwerper veel krachtiger met duizend keer meer rekenkracht en vijf keer zoveel precisiebommen",
+   "link": "https://businessam.be/verenigde-staten-maakten-b-2-bommenwerper-veel-krachtiger-met-duizend-keer-meer-rekenkracht-en-vijf-keer-zoveel-precisiebommen/",
+   "description": "Key takeaways De Northrop Grumman B-2 Spirit, voortkomend uit het Advanced Technology Bomber-programma, is ontworpen om Sovjetradar te omzeilen en nucleaire ladingen af te leveren op hoogwaardige doelen. Sinds zijn operationele debuut in 1993 wordt het vliegtuig gekenmerkt door zijn enorme maximale startgewicht van ongeveer 152,6 ton, een bereik van ongeveer 11.112 kilometer dankzij vier […]",
+   "date": "2026-10-28T20:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SK Hynix waarschuwt dat het tekort aan geheugenchips nog tot 2030 kan duren",
+   "link": "https://businessam.be/sk-hynix-waarschuwt-dat-het-tekort-aan-geheugenchips-nog-tot-2030-kan-duren/",
+   "description": "Key takeaways Volgens de Zuid-Koreaanse chipfabrikant SK Hynix zal het tekort aan geheugenchips naar verwachting tot het einde van dit decennium aanhouden. Tijdens een recente kwartaalpresentatie gaf het bedrijf aan dat de vraag als gevolg van AI-infrastructuur waarschijnlijk tot 2030 groter zal zijn dan de productiecapaciteit. Dat meldt The Register. Deze onbalans zal naar verwachting […]",
+   "date": "2026-10-28T19:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: foto van Pink Panther die wegrent voor waterkanon is bewerkt met AI",
+   "link": "https://www.knack.be/factcheck/factcheck-foto-van-pink-panther-die-wegrent-voor-waterkanon-is-bewerkt-met-ai/",
+   "description": "Op sociale media circuleren beelden van een betoger in een Pink Panther-kostuum die tijdens de recente rellen in Frankrijk wegrent voor de straal van een waterkanon. Maar het beeld blijkt bewerkt met artificiële intelligentie.\nThe post Factcheck: foto van Pink Panther die wegrent voor waterkanon is bewerkt met AI appeared first on Knack.",
+   "date": "2026-10-28T17:59:50",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Koersval Adyen duwt AEX in het rood",
    "link": "https://trends.knack.be/beleggen/beursnieuws/koersval-adyen-duwt-aex-in-het-rood/",
    "description": "(ABM FN-Dow Jones) De Amsterdamse beurs noteerde woensdag aan het einde van de ochtend in het rood, na een reeks resultaten van grote Nederlandse bedrijven, waarvan Adyen de meeste aandacht trok door een forse koersval.De AEX sloot 0,4 procent lager op 1.135,56 punten.De stemming rond technologie en AI verbeterde, na een periode van twijfel op de …\nThe post Koersval Adyen duwt AEX in het rood appeared first on Trends.be.",
@@ -324,6 +479,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ASML investeert twintig jaar lang in dependance Rijksmuseum in Brabant: ‘Een renaissance voor cultuur in Eindhoven’",
+   "link": "https://www.nrc.nl/nieuws/2026/10/28/asml-investeert-twintig-jaar-lang-in-dependance-rijksmuseum-in-brabant-een-renaissance-voor-cultuur-in-eindhoven-a4939989",
+   "description": "ASML gaat 100 miljoen euro investeren in de komst van een dependance van het Rijksmuseum naar Eindhoven. De vestiging zal „wat meer ruimte” innemen dan gepland, nadat de gemeenteraad had gevraagd om een ambitieuzer plan.",
+   "date": "2026-10-28T17:00:26",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-29",
    "intro_geprobeerd": false
   },
   {
@@ -424,6 +590,17 @@
     "Knack - Artikels"
    ],
    "first_seen": "2026-10-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pangram is de moderne Heksenwaag",
+   "link": "https://www.nrc.nl/nieuws/2026/10/28/pangram-is-de-moderne-heksenwaag-a4939840",
+   "description": "De hetze met AI-detectietools doet Barend Last akelig veel denken aan de middeleeuwse Heksenwaag in Oudewater. Net als die weegschaal zegt een AI-detector volgens hem niks over de validiteit van een beschuldiging.",
+   "date": "2026-10-28T13:34:44",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-29",
    "intro_geprobeerd": false
   },
   {
