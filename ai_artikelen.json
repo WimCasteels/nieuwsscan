@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T03:07:48",
+ "generated": "2026-10-29T18:18:14",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 168,
+   "count": 171,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 87,
    "error": null
   },
   {
@@ -316,11 +316,375 @@
  ],
  "articles": [
   {
+   "title": "Gezien de reacties op de Musk-versie van The Odyssey lijken de meeste mensen helemaal klaar met AI-rommel",
+   "link": "https://www.volkskrant.nl/tech/gezien-de-reacties-op-de-musk-versie-van-the-odyssey-lijken-de-meeste-mensen-helemaal-klaar-met-ai-rommel~b3dbd2ff/",
+   "description": "",
+   "date": "2026-10-29T18:00:18",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Breinrot door de chatbot? Hoe AI het denkvermogen kan beïnvloeden: de eerste onderzoeken stromen binnen",
+   "link": "https://www.volkskrant.nl/tech/breinrot-door-de-chatbot-hoe-ai-het-denkvermogen-kan-beinvloeden-de-eerste-onderzoeken-stromen-binnen~b380cf07/",
+   "description": "",
+   "date": "2026-10-29T18:00:12",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nederland blijft voor essentiële grondstoffen sterk afhankelijk van China",
+   "link": "https://businessam.be/nederland-blijft-voor-essentiele-grondstoffen-sterk-afhankelijk-van-china/",
+   "description": "Key takeaways Recente cijfers van het Nederlandse Centraal Bureau voor de Statistiek (CBS) wijzen op de sterke afhankelijkheid van Nederland van China voor essentiële grondstoffen. Die afhankelijkheid maakt de Nederlandse economie kwetsbaar, omdat China een groot deel van deze grondstoffen wint en verwerkt. Halfgeleidersector Gallium is een goed voorbeeld van deze afhankelijkheid. Dit metaal is […]",
+   "date": "2026-10-29T17:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nasdaq onderuit door AI-vrees bij softwarespelers en hyperscalers",
+   "link": "https://www.tijd.be/r/t/1/id/10697845",
+   "description": "De resultaten van Google-moeder Alphabet verpesten de sfeer op Wall Street, maar ook Microsoft verliest ondanks een sterke resultatenset. De softwarespeler ServiceNow dondert een kwart lager na tegenvallende prognoses.",
+   "date": "2026-10-29T17:00:33",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-topman doelwit van Chinese ‘spion’, president Trump werd ingelicht maar ondernam geen actie",
+   "link": "https://www.demorgen.be/nieuws/nvidia-topman-doelwit-van-chinese-spion-president-trump-werd-ingelicht-maar-ondernam-geen-actie~bd0ec005/",
+   "description": "",
+   "date": "2026-10-29T16:58:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Van 0 naar 5 miljard euro in twee jaar: bedrijven vallen massaal voor AI-agents van Wonderful",
+   "link": "https://www.tijd.be/r/t/1/id/10697030",
+   "description": "Wonderful werd in amper twee jaar een van de snelst groeiende start-ups ter wereld. Met AI-agents die bedrijfsprocessen overnemen hertekent het de manier waarop bedrijven al jaren werken. ‘Ik ben geobsedeerd door snelheid’, zegt oprichter Bar Winkler.",
+   "date": "2026-10-29T16:47:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kamermeerderheid wil verbod op generatieve AI voor basisschoolleerlingen",
+   "link": "https://www.nu.nl/politiek/6414833/kamermeerderheid-wil-verbod-op-generatieve-ai-voor-basisschoolleerlingen.html",
+   "description": "De Tweede Kamer wil dat kinderen op de basisschool geen generatieve AI gebruiken. Een motie van Volt en CDA kreeg donderdag een ruime meerderheid. De partijen willen dat het kabinet zo'n verbod regelt.",
+   "date": "2026-10-29T16:44:21",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Rouwbots nemen een deel van het innerlijke werk van het rouwen over’",
+   "link": "https://www.knack.be/nieuws/rouwbots-nemen-een-deel-van-het-innerlijke-werk-van-het-rouwen-over/",
+   "description": "Filosoof Kris Goffin staat in de week voor Allerheiligen stil bij wat digitale rouw betekent en gaat dieper in op de  vraag wat AI betekent voor de manier waarop we omgaan met verlies en overledenen.\nThe post ‘Rouwbots nemen een deel van het innerlijke werk van het rouwen over’ appeared first on Knack.",
+   "date": "2026-10-29T16:31:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na verzet stelt Meta nieuwe zakelijke voorwaarden voor onbepaalde tijd uit",
+   "link": "https://tweakers.net/nieuws/253910/na-verzet-stelt-meta-nieuwe-zakelijke-voorwaarden-voor-onbepaalde-tijd-uit.html",
+   "description": "Meta stelt de invoering van nieuwe voorwaarden voor zakelijke gebruikers voor onbepaalde tijd uit. Oorspronkelijk stelde Meta het al uit tot 20 november, maar door weerstand uit de uitgeverswereld en de advertentiesector stelt het bedrijf de invoering nu voor onbepaalde tijd uit. Meta zou content van derden mogen gebruiken voor AI-training.",
+   "date": "2026-10-29T16:30:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alibaba Cloud opent twee datacenters in Amsterdam",
+   "link": "https://www.nrc.nl/nieuws/2026/10/29/alibaba-cloud-opent-twee-datacenters-in-amsterdam-a4940073",
+   "description": "Alibaba Cloud, de cloudtak van de Chinese multinational Alibaba, opent twee datacenters in Amsterdam.",
+   "date": "2026-10-29T16:06:05",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe AI alles in de economie verdringt",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/hoe-ai-alles-in-de-economie-verdringt~b3e6bdc8/",
+   "description": "",
+   "date": "2026-10-29T16:03:03",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Oekraïne wil binnen zes maanden humanoïde robots naar het front sturen om menselijke soldaten te vervangen",
+   "link": "https://businessam.be/oekraine-wil-binnen-zes-maanden-humanoide-gevechtsrobots-inzetten/",
+   "description": "Key takeaways Mykhailo Fedorov, de voormalige Oekraïense minister van Defensie, heeft een ambitieuze doelstelling aangekondigd om binnen zes maanden een humanoïde robot in actieve gevechtssituaties in te zetten. Dit initiatief maakt deel uit van een bredere Robotleger-strategie, met de langetermijnvisie om tegen 2027 militaire missies uit te voeren die volledig geautomatiseerd zijn en zonder menselijke […]",
+   "date": "2026-10-29T15:30:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse economie groeit sterker dan verwacht, ondanks aanhoudende inflatiedruk",
+   "link": "https://businessam.be/amerikaanse-economie-groeit-sterker-dan-verwacht-ondanks-aanhoudende-inflatiedruk/",
+   "description": "Key takeaways De Verenigde Staten kenden in het derde kwartaal een sterker dan verwachte economische groei, waarbij het bbp op jaarbasis met 3,4 procent steeg. De groei werd voornamelijk aangedreven door stabiele consumentenactiviteit en bedrijfsinvesteringen in artificiële intelligentie, die de economische rem hielpen neutraliseren die werd veroorzaakt door stijgende oliekosten als gevolg van de instabiliteit […]",
+   "date": "2026-10-29T15:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vlaamse jongeren herkennen AI-beelden vaker dan oudere generaties",
+   "link": "https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html",
+   "description": "Jongeren zijn mediawijzer dan ouderen: ze herkennen AI-beeldmateriaal sneller, begrijpen algoritmes beter en hebben een goed besef van de invloed van sociale media. Dit blijkt uit onderzoek in opdracht van de Vlaamse minister van Media onder 4456 Vlamingen van 16 tot 98 jaar.",
+   "date": "2026-10-29T14:40:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Samsung ziet bedrijfswinst fors stijgen door AI-boom, maar beleggers reageren negatief",
+   "link": "https://businessam.be/samsung-ziet-winst-fors-stijgen-door-ai-boom-maar-beleggers-zijn-niet-overtuigd/",
+   "description": "Key takeaways Door de toenemende vraag naar hardware voor artificiële intelligentie zag Samsung Electronics zijn bedrijfswinst in het derde kwartaal sterk stijgen. Die kwam uit op 107,4 biljoen won (72 miljard euro), bijna negen keer zoveel als in dezelfde periode vorig jaar. Het bedrijf boekte een totale omzet van ongeveer 195,3 biljoen won (130,9 miljard […]",
+   "date": "2026-10-29T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google gaat in meer landen reclame tonen in AI-modus, maar nog niet in de EU",
+   "link": "https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html",
+   "description": "Google gaat in meer landen advertenties tonen in zijn AI-zoekresultaten. Het bedrijf deed dat tot nu toe alleen in de VS, maar breidt nu uit naar tien andere landen. Later dit jaar volgen nóg meer landen. Voorlopig zitten Nederland en België er niet tussen.",
+   "date": "2026-10-29T13:20:47",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google wil met nieuw beveiligingssysteem de bewaring van cryptovaluta veiliger maken",
+   "link": "https://businessam.be/google-wil-met-nieuw-beveiligingssysteem-de-bewaring-van-cryptovaluta-veiliger-maken/",
+   "description": "Key takeaways Als reactie op de toenemende risico’s van artificiële intelligentie bereidt Alphabet, het moederbedrijf van Google, de introductie voor van een gespecialiseerd beveiligingssysteem voor de bewaring van cryptovaluta. Dit nieuwe systeem, genaamd “Google Multi-Party Compute”, is bedoeld om financiële instellingen en banken te helpen bij het beschermen van tokenized activa en digitale valuta. Compatibiliteit […]",
+   "date": "2026-10-29T12:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gentse AI-start-up Ravical haalt 17 miljoen dollar op voor uitbreiding accountantsplatform",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/gentse-ai-startup-ravical-haalt-17-miljoen-dollar-op-voor-uitbreiding-accountantsplatform/",
+   "description": "Het Gentse Ravical kondigt een nieuwe seedronde van 17 miljoen dollar aan om zijn AI-platform voor accountantskantoren verder uit te rollen in Europa en de VS. In totaal haalde Ravical tot dusver al 25 miljoen dollar op.\nThe post Gentse AI-start-up Ravical haalt 17 miljoen dollar op voor uitbreiding accountantsplatform appeared first on Trends.be.",
+   "date": "2026-10-29T11:28:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AP: incassobureaus hebben onvoldoende zicht op risico's van AI-gebruik",
+   "link": "https://www.security.nl/posting/959544/AP%3A+incassobureaus+hebben+onvoldoende+zicht+op+risico%27s+van+AI-gebruik?channel=rss",
+   "description": "Nederlandse incassobureaus maken breed gebruik van AI, maar hebben onvoldoende zicht op de risico's die dit met zich meebrengt, ...",
+   "date": "2026-10-29T11:17:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EFF wil dat Apple en Google gebruikers meer controle over AI-features geven",
+   "link": "https://www.security.nl/posting/959537/EFF+wil+dat+Apple+en+Google+gebruikers+meer+controle+over+AI-features+geven?channel=rss",
+   "description": "De Amerikaanse burgerrechtenbeweging EFF wil dat Apple en Google gebruikers meer controle over AI-features op hun smartphone ...",
+   "date": "2026-10-29T10:56:10",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cloudomzet van Microsoft overtreft verwachtingen door sterke groei van Azure",
+   "link": "https://businessam.be/cloudactiviteiten-van-microsoft-presteren-beter-dan-verwacht-in-derde-kwartaal/",
+   "description": "Key takeaways Uit de meest recente kwartaalcijfers van Microsoft blijkt dat de cloudinkomsten de verwachtingen van analisten overtroffen. Dat wijst erop dat de forse investeringen van het bedrijf in artificiële intelligentie tastbare resultaten opleveren. Tegelijkertijd groeit op Wall Street de scepsis over de hoge kosten van de uitbreiding van de infrastructuur bij grote technologiebedrijven. Snelle […]",
+   "date": "2026-10-29T10:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wat rest van je professionele waarde als AI het overneemt?’",
+   "link": "https://trends.knack.be/opinie/wat-rest-van-je-professionele-waarde-als-ai-het-overneemt/",
+   "description": "Stel dat je morgen dezelfde kwaliteit kunt leveren in een kwart van de tijd. Je klant tevreden, jij tevreden. Tot die klant vraagt waarom hij nog voor een volledige dag betaalt. Plots wordt het gesprek over technologische vooruitgang een stuk minder gezellig. Het is nochtans de realiteit in veel sectoren.\nThe post ‘Wat rest van je professionele waarde als AI het overneemt?’ appeared first on Trends.be.",
+   "date": "2026-10-29T10:07:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia fikst videofreezes en zwarte schermen op RTX 50-videokaarten en RTX Spark",
+   "link": "https://tweakers.net/nieuws/253886/nvidia-fikst-videofreezes-en-zwarte-schermen-op-rtx-50-videokaarten-en-rtx-spark.html",
+   "description": "Nvidia komt met een hotfixdriver voor RTX 50-videokaarten en de RTX Spark. De update verhelpt een probleem in een driver die vorige week uitkwam. Daarbij kon videoweergave vastlopen en aangesloten schermen een paar seconden zwart worden.",
+   "date": "2026-10-29T08:22:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pieterjan Bouten (ex-Showpad) lanceert nieuw Entourage-fonds van 100 miljoen euro",
+   "link": "https://trends.knack.be/ondernemen/pieterjan-bouten-ex-showpad-lanceert-nieuw-entourage-fonds-van-100-miljoen-euro/",
+   "description": "Meer dan twee jaar na het eerste fonds van Entourage heeft Pieterjan Bouten 100 miljoen euro verzameld om in start-ups te investeren. Het verse kapitaal moet een vijfentwintigtal bedrijven in software, AI, robotica en deep tech ondersteunen.\nThe post Pieterjan Bouten (ex-Showpad) lanceert nieuw Entourage-fonds van 100 miljoen euro appeared first on Trends.be.",
+   "date": "2026-10-29T08:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI wil AI-chips van Google kopen om minder afhankelijk te zijn van Nvidia",
+   "link": "https://businessam.be/openai-wil-ai-chips-van-google-kopen-om-minder-afhankelijk-te-zijn-van-nvidia/",
+   "description": "Key takeaways Volgens een bericht van The Information is OpenAI van plan om tensor processing units (TPU’s) van Google aan te schaffen. Hoewel de specifieke financiële afspraken vertrouwelijk blijven, duidt deze stap op een strategische koerswijziging voor OpenAI, dat van oudsher sterk leunde op de grafische processors van Nvidia. Vraag naar Google-hardware Voor Google zou […]",
+   "date": "2026-10-29T07:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren overwegend in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-overwegend-in-het-groen-4/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden donderdagochtend overwegend hoger. De cijfers van Alphabet en Samsung zetten het enthousiasme over kunstmatige intelligentie wel wat onder druk.De Zuid-Koreaanse Kospi-index herstelde van openingsverliezen en noteerde vlak, terwijl de Hang Seng in Hongkong nipt terrein prijs gaf. De Japanse Nikkei won ruim een procent en de Australische beurs steeg …\nThe post Aziatische beurzen noteren overwegend in het groen appeared first on Trends.be.",
+   "date": "2026-10-29T07:03:57",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Staat New York beperkt gebruik van AI-chatbots door minderjarigen",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/staat-new-york-beperkt-gebruik-van-aichatbots-door-minderjarige~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-29T06:47:23",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Jongeren zijn 'mediawijzer' dan verwacht: Gen Z herkent AI-beelden sneller dan oudere generaties",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/28/jongeren-mediawijzer-dan-gedacht/",
+   "description": "Jongeren zijn vaak mediawijzer dan oudere generaties. Ze herkennen AI-beelden sneller, begrijpen algoritmes beter en zijn zich meer bewust van de invloed van sociale media. Dat blijkt uit de Mediawijzer, een grootschalig onderzoek van de Arteveldehogeschool bij bijna 4.500 Vlamingen.",
+   "date": "2026-10-29T06:38:52",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Achtergrond - EU maakt AI-watermerken verplicht, maar niet waterdicht",
+   "link": "https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html",
+   "description": "Alle AI-diensten bouwen watermerken in om later te kunnen zien of bijvoorbeeld een tekst door AI is gemaakt. Hoe werkt dat?",
+   "date": "2026-10-29T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gen Z gebruikt AI het vaakst maar \"veel gebruiken en goed begrijpen vallen bij AI niet samen”",
+   "link": "https://www.gva.be/binnenland/gen-z-gebruikt-ai-het-vaakst-maar-veel-gebruiken-en-goed-begrijpen-vallen-bij-ai-niet-samen/163771733.html",
+   "description": "Wie het meest met artificiële intelligentie werkt, begrijpt ze niet noodzakelijk het best. Dat blijkt uit de Mediawijzer, een grootschalige bevraging van 4.456 Vlamingen door de Arteveldehogeschool in opdracht van de Vlaamse overheid. Het beste inzicht in AI vind je bij de millennials.",
+   "date": "2026-10-29T05:04:08",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "4 op de 10 Vlamingen zien verschil tussen AI en menselijk denken niet",
+   "link": "https://www.tijd.be/r/t/1/id/10697023",
+   "description": "Vier op de tien Vlamingen schrijven artificiële intelligentie een vorm van menselijk denken toe, of zien het verschil niet tussen AI en menselijk redeneren. Dat blijkt uit een brede studie naar de mediawijsheid in Vlaanderen. Niet jongeren, maar volwassenen blijken het pijnpunt in het goed inschatten van de digitale samenleving.",
+   "date": "2026-10-29T05:01:45",
+   "feeds": [
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "New York verbiedt minderjarigen om te praten met AI-gezellen “die de indruk wekken menselijk te zijn”",
+   "link": "https://www.gva.be/buitenland/new-york-verbiedt-minderjarigen-om-te-praten-met-ai-gezellen-die-de-indruk-wekken-menselijk-te-zijn/163771666.html",
+   "description": "Gouverneur Kathy Hochul van de staat New York heeft woensdag een wet ondertekend die verbiedt dat minderjarigen gesprekken voeren met AI-gezellen. De definitie die de wet daarbij hanteert, is zo ruim dat ze van toepassing is op de meeste generatieve AI-chatbots op de markt.",
+   "date": "2026-10-29T04:51:08",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Waarom te brave AI ook gevaarlijk kan zijn",
    "link": "https://www.demorgen.be/meningen/waarom-te-brave-ai-ook-gevaarlijk-kan-zijn~bd58684df/",
    "description": "",
    "date": "2026-10-29T03:00:43",
    "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Als miljoenen mensen de antwoorden van AI niet meer in vraag stellen, bereiken minder discussies de rechter en staat het recht stil",
+   "link": "https://www.demorgen.be/meningen/als-miljoenen-mensen-de-antwoorden-van-ai-niet-meer-in-vraag-stellen-bereiken-minder-discussies-de-rechter-en-staat-het-recht-stil~bd58684df/",
+   "description": "",
+   "date": "2026-10-29T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
     "De Morgen - Meningen"
    ],
    "first_seen": "2026-10-29",
@@ -342,6 +706,17 @@
    "link": "https://www.gva.be/buitenland/vraag-naar-ai-duwt-omzet-van-google-en-microsoft-omhoog/163771195.html",
    "description": "Het Google-moederbedrijf Alphabet en het techconcern Microsoft hebben in het voorbije kwartaal een hogere omzet behaald dankzij hun cloudtak. De grote vraag naar rekenkracht en toepassingen van kunstmatige intelligentie (AI) heeft de cijfers de hoogte in geduwd, zo blijkt uit de woensdag gepubliceerde kwartaalresultaten.",
    "date": "2026-10-29T00:34:30",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vraag naar AI duwt omzet van Google en Microsoft omhoog, nettowinst Samsung verzesvoudigt",
+   "link": "https://www.gva.be/buitenland/vraag-naar-ai-duwt-omzet-van-google-en-microsoft-omhoog-nettowinst-samsung-verzesvoudigt/163771195.html",
+   "description": "Het Google-moederbedrijf Alphabet en het techconcern Microsoft hebben in het voorbije kwartaal een hogere omzet behaald dankzij hun cloudtak. De grote vraag naar rekenkracht en toepassingen van kunstmatige intelligentie (AI) heeft de cijfers de hoogte in geduwd, zo blijkt uit de woensdag gepubliceerde kwartaalresultaten.",
+   "date": "2026-10-29T00:34:28",
    "feeds": [
     "Gazet van Antwerpen - Economie"
    ],
@@ -373,6 +748,28 @@
   {
    "title": "Studio 100 werkte deels met AI voor de ontwikkeling van de nieuwe K3-strip. Moeten we dat erg vinden?",
    "link": "https://www.standaard.be/media-en-cultuur/studio-100-werkte-deels-met-ai-voor-de-ontwikkeling-van-de-nieuwe-k3-strip.-moeten-we-dat-erg-vinden/163390182.html",
+   "description": "‘K3 Superhelden: Brand in de stad’, de nieuwste strip van Studio 100, is deels gemaakt met generatieve AI. Dat mag natuurlijk, maar vanuit de creatieve sector kun je er vragen bij stellen.",
+   "date": "2026-10-28T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Charlotte de Witte laat de stem van de Iraanse vrouw horen, al heeft ze er wel AI voor nodig",
+   "link": "https://www.standaard.be/media-en-cultuur/charlotte-de-witte-laat-de-stem-van-de-iraanse-vrouw-horen-al-heeft-ze-er-wel-ai-voor-nodig/163733881.html",
+   "description": "De weg naar de hel is geplaveid met goede bedoelingen. Moeten we dus boos zijn of blij dat Charlotte de Witte muziek opneemt om Iraanse vrouwen te steunen – met een Iraanse AI-zangeres?",
+   "date": "2026-10-28T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Studio 100 werkte deels met AI voor de nieuwe K3-strip: “Daar besparen ze een paar duizend euro mee, dat geld kunnen ze als groot bedrijf wel missen”",
+   "link": "https://www.standaard.be/media-en-cultuur/studio-100-werkte-deels-met-ai-voor-de-nieuwe-k3-strip-daar-besparen-ze-een-paar-duizend-euro-mee-dat-geld-kunnen-ze-als-groot-bedrijf-wel-missen/163390182.html",
    "description": "‘K3 Superhelden: Brand in de stad’, de nieuwste strip van Studio 100, is deels gemaakt met generatieve AI. Dat mag natuurlijk, maar vanuit de creatieve sector kun je er vragen bij stellen.",
    "date": "2026-10-28T23:59:00",
    "feeds": [
@@ -418,6 +815,17 @@
    "title": "Google komt al na twee weken met opvolger van cybersecuritymodel Gemini 4 Argon",
    "link": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html",
    "description": "Google heeft Gemini 4 Carbon aangekondigd. Het bedrijf claimt dat dit AI-model beter presteert in cybersecuritytaken dan Gemini 4 Argon, dat pas twee weken geleden verscheen. Het bedrijf brengt het nieuwe model niet meteen voor iedereen uit.",
+   "date": "2026-10-28T20:18:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-29",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google komt al na twee weken met opvolger van zijn flagshipmodel Gemini 4 Argon",
+   "link": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-zijn-flagshipmodel-gemini-4-argon.html",
+   "description": "Google heeft Gemini 4 Carbon aangekondigd. Het bedrijf claimt dat dit AI-model onder meer beter presteert in cybersecuritytaken dan Gemini 4 Argon, dat pas twee weken geleden verscheen. Het bedrijf brengt het nieuwe model niet meteen voor iedereen uit.",
    "date": "2026-10-28T20:18:40",
    "feeds": [
     "Tweakers - Mixed"
