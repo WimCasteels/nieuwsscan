@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T18:18:14",
+ "generated": "2026-10-30T03:24:55",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 33,
+   "count": 32,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 171,
+   "count": 170,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 90,
    "error": null
   },
   {
@@ -316,6 +316,149 @@
  ],
  "articles": [
   {
+   "title": "Clouddivisie Amazon groeit hard, maar beleggers reageren toch teleurgesteld",
+   "link": "https://www.gva.be/buitenland/clouddivisie-amazon-groeit-hard-maar-beleggers-reageren-toch-teleurgesteld/163831532.html",
+   "description": "Technologie- en webwinkelconcern Amazon heeft in het derde kwartaal meer omzet en winst behaald met zijn clouddivisie. De vraag naar rekenkracht en opslagruimte op servers groeit hard door de snelle ontwikkeling van kunstmatige intelligentie, en Amazon is daar ‘s werelds grootste leverancier van. Tegelijkertijd liepen de uitgaven van Amazon hard op.",
+   "date": "2026-10-30T00:59:58",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon: sterke groei AWS weegt niet op tegen nieuwe investeringsgolf",
+   "link": "https://www.tijd.be/r/t/1/id/10697897",
+   "description": "De miljardeninvesteringen van Amazon in AI-infrastructuur stuwen de groei van AWS tot boven de verwachtingen. Toch zakt het aandeel nabeurs 7 procent, omdat de prognose voor het vierde kwartaal weinig overtuigt en CEO Andy Jassy voor 2027 aanzienlijk hogere kapitaaluitgaven aankondigt.",
+   "date": "2026-10-30T00:28:10",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We jagen op AI-schrijvers zoals we ooit op heksen jaagden, en onze detectiemethoden zijn niet veel betrouwbaarder",
+   "link": "https://www.standaard.be/opinies/we-jagen-op-ai-schrijvers-zoals-we-ooit-op-heksen-jaagden-en-onze-detectiemethoden-zijn-niet-veel-betrouwbaarder/163795293.html",
+   "description": "Pangram zou “zeer betrouwbaar” zijn in het herkennen van teksten die met AI geschreven zijn. Maar Barend Last vraagt zich af wat er eigenlijk gemeten wordt. En wat willen we weten?",
+   "date": "2026-10-29T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noorwegen overweegt bouwstop voor datacenters uit vrees voor stroomtekorten",
+   "link": "https://businessam.be/noorwegen-overweegt-bouwstop-voor-datacenters-uit-vrees-voor-stroomtekorten/",
+   "description": "Key takeaways Noorse autoriteiten en energieambtenaren maken zich steeds meer zorgen over prognoses die een sterke stijging van het elektriciteitsverbruik door de datacentersector laten zien. Dit heeft tot politieke onrust geleid: één partij heeft verzocht om een spoedzitting van het parlement volgende week om een mogelijk moratorium op de goedkeuring van nieuwe faciliteiten te bespreken. […]",
+   "date": "2026-10-29T22:05:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Minder winst maar betere marge voor Intel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/minder-winst-maar-betere-marge-voor-intel/",
+   "description": "(ABM FN-Dow Jones) Intel heeft in het derde kwartaal van 2026 de marge verbeterd terwijl de groei aan de verwachtingen voldeed. Dit bleek donderdag nabeurs uit de cijfers van de Amerikaanse chipreus.De omzet verbeterde met 21 procent op jaarbasis van 13,7 miljard tot 16,5 miljard dollar, wat overeenkwam met de analistenverwachtingen. In het tweede kwartaal kwam …\nThe post Minder winst maar betere marge voor Intel appeared first on Trends.be.",
+   "date": "2026-10-29T21:12:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google stopt eind dit jaar met zijn AI-codinghulp Jules",
+   "link": "https://tweakers.net/nieuws/253928/google-stopt-eind-dit-jaar-met-zijn-ai-codinghulp-jules.html",
+   "description": "Google trekt de stekker uit zijn AI-codinghulp Jules. Gebruikers kunnen deze AI-agent voor het schrijven van code nog tot 11 november gebruiken. Daarna zet Google de tool op read-only om hem daarna op 31 december geheel stop te zetten.",
+   "date": "2026-10-29T21:01:03",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI zet het kat-en-muis-spel tussen ontwikkelaars en hackers in een hogere versnelling",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/ai-zet-het-kat-en-muis-spel-tussen-ontwikkelaars-en-hackers-in-een-hogere-versnelling~b6f364c6/",
+   "description": "",
+   "date": "2026-10-29T20:47:25",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Orange Cyberdefense gaat AI van Mistral inzetten om geavanceerde cyberaanvallen tegen te gaan",
+   "link": "https://businessam.be/orange-cyberdefense-gaat-ai-van-mistral-inzetten-om-geavanceerde-cyberaanvallen-tegen-te-gaan/",
+   "description": "Key takeaways Orange Cyberdefense, een Europese aanbieder van digitale beveiligingsdiensten, heeft een overeenkomst gesloten met Mistral AI. Het bedrijf wil een gespecialiseerde versie van het nieuwste AI-model van de Franse start-up in zijn aanbod integreren. De samenwerking komt er op een moment waarop de sector te maken krijgt met steeds meer grootschalige cyberaanvallen waarbij aanvallers […]",
+   "date": "2026-10-29T20:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met een dikke kat zegt het Franse AI-bedrijf Mistral: kijk ook eens naar ons",
+   "link": "https://nos.nl/l/2637207",
+   "description": "Met een verwijzing naar een dikke kat zet het Franse AI-bedrijf zijn nieuwste AI-model in de markt: le chonk. De bijnaam verwijst naar een internetgrap over het gewicht van katten. Hoe dikker de kat, hoe meer 'chonk' het beestje is. Het nieuwe AI-model heet officieel Large 4 en is volgens Mistral het grootste en krachtigste AI-model dat het bedrijf tot nu toe heeft uitgebracht: chonk dus.\n        Mistral wordt gezien als het enige serieuze Europese antwoord op de Amerikaanse en Chinese AI-bedrijven, zegt Eric Postma. Hij is hoogleraar kunstmatige intelligentie aan Tilburg University. \"Het bedrijf probeert te concurreren met de Amerikaanse modellen, met het idee dat je voor AI-technologie niet afhankelijk bent van de Verenigde Staten.\"\n        Het is moeilijk om verschillende AI-modellen goed met elkaar te vergelijken, maar deskundigen zien dat de AI-bedrijven Anthropic en OpenAI de aanbieders blijven van de krachtigste AI-modellen. \"Mistral probeert hetzelfde type product te ontwikkelen als deze bedrijven\", zegt Jelle Zuidema, docent kunstmatige intelligentie aan de Universiteit van Amsterdam. \"Maar ze zijn steeds een paar maanden later en het is net ietsie minder.\"\n        Veel meer investeringen in Amerika\n        Maar: we moeten ons niet te veel laten afleiden door deze 'wedstrijd', vindt Zuidema. \"De Amerikanen zijn daar heel erg mee bezig: wie heeft het allerbeste AI-model? Dat is deels ook om heel veel indruk te maken.\"\n        \"Dat doen ze deels om bij investeerders geld op te halen\", zegt Postma van de Tilburg University. \"Dat zit heel diep in de cultuur van de Verenigde Staten: het is een keiharde strijd om zoveel mogelijk geld op te halen. Daardoor hebben de Amerikaanse AI-bedrijven heel veel geld tot hun beschikking.\"\n        Mistral heeft sinds zijn oprichting in 2023 ruim 6,6 miljard euro opgehaald, blijkt uit gegevens van marktanalist Crunchbase. Ter vergelijking: in OpenAI is omgerekend zo'n 181 miljard euro geïnvesteerd en in Anthropic 153 miljard euro.\n        \"Omdat investeerders zo ongelofelijk veel geld in Anthropic en OpenAI stoppen, kunnen deze bedrijven hun AI-diensten ver onder de kostprijs aanbieden\", zegt Zuidema. \"Je kunt voor 200 euro een abonnement afsluiten, maar voor duizenden euro's aan AI-rekenkracht gebruiken. De strategie: mensen nu laten wennen aan de AI-technologie, en later de prijzen verhogen.\"\n        Omdat Mistral daar niet tegenop kan, moet het bedrijf zoeken naar iets anders dat het bedrijf onderscheidt van de concurrentie, zegt Paul Verhagen. Hij is AI- en geopolitiek analist bij het The Hague Centre for Strategic Studies (HCSS).\n        Hij denkt dat Mistral kan profiteren door zich nadrukkelijk te verkopen als Europees bedrijf. \"Mistral is niet per se beter dan de AI-modellen die in de Verenigde Staten of China ontwikkeld worden. En op prijs concurreren is lastig.\"\n        Onafhankelijk van de Verenigde Staten\n        \"Maar in Europa kan er een andere reden zijn om toch voor Mistral te kiezen: je bent dan niet afhankelijk van andere landen. We hebben de afgelopen maanden al gezien dat de Amerikaanse regering bereid is om de toegang tot Amerikaanse technologie te blokkeren. Als dat echt gebeurt, heb je wel een probleem.\"\n        \"Je wil niet dat een ander land kan bepalen of je toegang hebt tot deze technologie\", zegt Postma. Want omdat AI op heel veel plekken gebruikt wordt, kan dat onze hele economie stilleggen, zegt Zuidema. \"We kunnen er niet van uitgaan dat er altijd een goede relatie met de VS blijft bestaan. Als het verder de verkeerde kant op gaat, wil Europa toch nog toegang hebben tot goede AI-technologie.\"\n        Verhagen denkt dat de Europese overheden en belangrijke organisaties vanuit dat perspectief serieus naar Mistral moeten kijken. \"Denk aan Defensie, maar ook de Belastingdienst en energie zoals gas en elektriciteit. Dat is belangrijk voor onze veiligheid. Het is goed om daar AI-modellen uit Europa te gebruiken.\"\n        \"Mistral heeft die steun nodig om als bedrijf succesvol te worden, denkt hij. \"De overheid hoeft niet per se naar het goedkoopste te kijken, maar kan ervoor kiezen onafhankelijkheid belangrijker te vinden. Met het geld dat Mistral daarmee verdient, kan het bedrijf zijn AI-modellen blijven doorontwikkelen en ook andere bedrijven helpen met hun kennis. Mistral hoeft niet per se de allerbeste AI-modellen te maken, maar moet wel goed genoeg zijn om bij te kunnen blijven.\"",
+   "date": "2026-10-29T20:25:54",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Driekwart van AI-chipproductie door Chinese fabrikant CXMT is niet bruikbaar'",
+   "link": "https://tweakers.net/nieuws/253926/driekwart-van-ai-chipproductie-door-chinese-fabrikant-cxmt-is-niet-bruikbaar.html",
+   "description": "De Chinese geheugenmaker CXMT zou eind dit jaar met de massaproductie van HBM3E-chips voor AI-hardware willen beginnen, maar slechts een kwart van de geproduceerde chips zou bruikbaar zijn. De verwachte yields van de chipproductie liggen tussen de 20 en 30 procent, meldt persbureau Reuters.",
+   "date": "2026-10-29T20:08:32",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers vrezen impact van AI op advertenties: 500 miljard dollar beurswaarde bij Google in enkele minuten verdampt",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/beleggers-vrezen-impact-van-ai-op-advertenties-500-miljard-doll~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-10-29T20:04:17",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google verliest 500 miljard dollar beurswaarde in enkele minuten",
+   "link": "https://www.standaard.be/economie/google-verliest-500-miljard-dollar-beurswaarde-in-enkele-minuten/163780961.html",
+   "description": "Google-moeder Alphabet gaat zwaar onderuit door tegenvallende advertentie-inkomsten en zware investeringen in AI. Microsoft profiteert daarentegen net van de AI-boom.",
+   "date": "2026-10-29T18:48:39",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kamer wil AI-verbod op basisschool, staatssecretaris maant tot kalmte",
+   "link": "https://www.trouw.nl/binnenland/kamer-wil-ai-verbod-op-basisschool-staatssecretaris-maant-tot-kalmte~b33b0e79/",
+   "description": "",
+   "date": "2026-10-29T18:22:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Gezien de reacties op de Musk-versie van The Odyssey lijken de meeste mensen helemaal klaar met AI-rommel",
    "link": "https://www.volkskrant.nl/tech/gezien-de-reacties-op-de-musk-versie-van-the-odyssey-lijken-de-meeste-mensen-helemaal-klaar-met-ai-rommel~b3dbd2ff/",
    "description": "",
@@ -336,6 +479,17 @@
    ],
    "first_seen": "2026-10-29",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "Kamermeerderheid wil, op initiatief van Volt en CDA, totaalverbod voor AI in het primair onderwijs",
+   "link": "https://www.nrc.nl/nieuws/2026/10/29/kamermeerderheid-wil-op-initiatief-van-volt-en-cda-totaalverbod-voor-ai-in-het-primair-onderwijs-a4940091",
+   "description": "Een Kamermeerderheid wil dat het kabinet een verbod voor generatieve kunstmatige intelligentie (AI) voor basisschoolkinderen opneemt in het Regieplan Digitalisering.",
+   "date": "2026-10-29T17:22:04",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
   },
   {
    "title": "Nederland blijft voor essentiële grondstoffen sterk afhankelijk van China",
