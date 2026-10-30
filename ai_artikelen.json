@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T03:24:55",
+ "generated": "2026-10-30T17:56:15",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 170,
+   "count": 175,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,468 @@
   }
  ],
  "articles": [
+  {
+   "title": "Is Anthropic te laat voor zijn eigen AI-feest?",
+   "link": "https://www.tijd.be/r/t/1/id/10697714",
+   "description": "De beursgang van de AI-pionier Anthropic belooft een van de grootste uit de geschiedenis te worden. Maar terwijl vroege investeerders al fortuinen verdienden, krijgen particuliere beleggers een peperduur aandeel voorgeschoteld, met honderden miljarden aan toekomstige verplichtingen. Valt er nog geld te verdienen in de late uurtjes van het AI-feestje?",
+   "date": "2026-10-30T17:45:21",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CEO van chipreus Nvidia had jaar lang \"nauwe band\" met Chinese spion, meldt The New York Times",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/10/30/ceo-nvidia-mogelijk-bespioneerd-door-china/",
+   "description": "Topman Jensen Huang van chipreus Nvidia had een jaar lang een \"nauwe band' met een spion die voor China informatie doorsluisde naar Peking. Dat schrijft The New York Times op basis van getuigenissen van medewerkers van inlichtingendiensten in de VS.",
+   "date": "2026-10-30T17:31:51",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "CEO van chipreus Nvidia had jaar lang \"nauwe band\" met Chinese spion, meldt The New York Times",
+   "link": "https://vrtnws.be/p.BlYOPknp1",
+   "description": "Topman Jensen Huang van chipreus Nvidia had een jaar lang een \"nauwe band' met een spion die voor China informatie doorsluisde naar Peking. Dat schrijft The New York Times op basis van getuigenissen van medewerkers van inlichtingendiensten in de VS. Opvallend: Donald Trump was volgens de krant op de hoogte, maar greep niet in.",
+   "date": "2026-10-30T17:31:51",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De onstilbare geldhonger van AI: Is er cash genoeg om alle ambities te dragen?",
+   "link": "https://www.tijd.be/r/t/1/id/10698017",
+   "description": "We werden deze week om de oren geslagen met ongeziene kapitaaloperaties die de AI-uitbouw moeten helpen financieren. Maar zelfs de ongeziene cashhoeveelheid die uit alle hoeken en kieren naar datacenters stroomt, is goed voor slechts een fractie van de noden. Botsen de ongebreidelde ambities straks op een muur?",
+   "date": "2026-10-30T17:29:59",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-platform Northflank gehackt, gegevens van meerdere klanten gestolen",
+   "link": "https://www.security.nl/posting/959798/AI-platform+Northflank+gehackt%2C+gegevens+van+meerdere+klanten+gestolen?channel=rss",
+   "description": "Aanvallers zijn erin geslaagd om AI-platform Northflank te hacken en hebben daarbij gegevens van klanten gestolen en gebruikt. ...",
+   "date": "2026-10-30T16:57:01",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple heeft agentische-AI-start-up Ascend.io overgenomen",
+   "link": "https://tweakers.net/nieuws/253978/apple-heeft-agentische-ai-start-up-ascend-punt-io-overgenomen.html",
+   "description": "Apple heeft eerder dit jaar de AI-start-up Ascend.io overgenomen. Dat valt te lezen op de website van de Europese Commissie. Door de Digital Markets Act moeten bedrijven overnames boven een bepaald bedrag openbaar maken. Wat Apple precies heeft betaald voor de start-up, is niet bekend.",
+   "date": "2026-10-30T16:16:09",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met AI dreigt Google zijn eigen verdienmodel onderuit te halen",
+   "link": "https://www.nrc.nl/nieuws/2026/10/30/met-ai-snijdt-google-in-eigen-vlees-a4940163",
+   "description": "Net als andere AI-bedrijven zet Alphabet, het moederbedrijf van Google, volop in op verdere ontwikkeling en toepassing van kunstmatige intelligentie. Maar daarmee schaadt het een belangrijk deel van zijn verdienmodel.",
+   "date": "2026-10-30T16:09:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Heel Silicon Valley heeft belang bij slagen van beursgang Anthropic",
+   "link": "https://www.nrc.nl/nieuws/2026/10/30/heel-silicon-valley-heeft-belang-bij-slagen-van-beursgang-anthropic-a4940002",
+   "description": "Binnen enkele weken heeft het jonge AI-bedrijf zijn notering aan de beurs. Voor rivalen in Silicon Valley en andere bigtechbedrijven staat daarbij veel op het spel door de grote verwevenheid aan financiële belangen.",
+   "date": "2026-10-30T15:58:42",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Robotica-expert Bram Vanderborght: ‘Gaan we Chinese humanoïden het hier laten overnemen?’",
+   "link": "https://www.tijd.be/r/t/1/id/10697949",
+   "description": "Toen hij klein was, knutselde Bram Vanderborght ‘robots’ avant la lettre in elkaar, die hij op afstand liet vliegen. Vandaag kloppen bedrijven bij hem aan en stelt de professor robotica dat Europa vooral zelf moet durven te ­investeren in zijn humanoïden. Ontbijt met De Tijd.",
+   "date": "2026-10-30T15:40:21",
+   "feeds": [
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Nvidia wil RTX 5080 met 24GB eerder uitbrengen dan verwacht en 16GB uitfaseren'",
+   "link": "https://tweakers.net/nieuws/253974/nvidia-wil-rtx-5080-met-24gb-eerder-uitbrengen-dan-verwacht-en-16gb-uitfaseren.html",
+   "description": "Nvidia zou de GeForce RTX 5080 met 24GB eerder uitbrengen dan gedacht. De kaart zou volgend jaar worden aangekondigd, maar lijkt volgens bronnen van ChannelGate in ieder geval in China al in december van dit jaar uit te komen. De kaart vervangt dan de huidige 16GB-versie en wordt de krachtigste videokaart die in China te koop komt. Het is niet duidelijk of de kaart ook in andere regio's de 16GB-versie vervangt.",
+   "date": "2026-10-30T15:08:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI verdubbelt gebruikslimieten ChatGPT Pro na kritiek op geplande verlaging",
+   "link": "https://tweakers.net/nieuws/253960/openai-verdubbelt-gebruikslimieten-chatgpt-pro-na-kritiek-op-geplande-verlaging.html",
+   "description": "OpenAI gaat de gebruikslimiet voor alle ChatGPT Pro-abonnementen verdubbelen na kritiek op de oorspronkelijke plannen om die limiet juist te halveren. ChatGPT Pro is de duurste abonnementsreeks die OpenAI aanbiedt. De techgigant wilde de gebruikslimiet halveren voor het goedkopere ChatGPT Pro 200-abonnement, terwijl de prijs voor de dienst even hoog zou blijven.",
+   "date": "2026-10-30T14:45:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistrals grootste openweightmodel Le Chonk is uit",
+   "link": "https://tweakers.net/nieuws/253970/mistrals-grootste-openweightmodel-le-chonk-is-uit.html",
+   "description": "Het Franse AI-bedrijf Mistral heeft de weights van zijn Large 4-model openbaar gemaakt. Het bedrijf kondigde het krachtigste model, ook wel 'Le Chonk' genoemd, eerder deze maand aan. Het model bestaat uit een biljoen parameters en is daarmee het grootste openweightmodel buiten China.",
+   "date": "2026-10-30T14:41:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Ente Photos 1.3.67",
+   "link": "https://tweakers.net/downloads/78830/ente-photos-1367.html",
+   "description": "Ente Photos is een oplossing voor het beheren van foto's. Het is open source, maakt gebruik van end-to-endversleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. In versie 1.3.67 zijn de volgende veranderingen en verbeteringen in aangebracht: Changes in Ente Photos 1.3.67",
+   "date": "2026-10-30T14:32:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techaandelen drukken sentiment op Europese beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/techaandelen-drukken-sentiment-op-europese-beurzen/",
+   "description": "(ABM FN-Dow Jones) Op de laatste handelsdag van de maand laten de Europese beurzen een verdeeld beeld zien, waarbij vooral de AI-gerelateerde aandelen op het sentiment drukken, nu Intel een kwart van zijn beurswaarde dreigt te verspelen en Amazon ruim 7 procent moet inleveren. Ook Alphabet, het moederbedrijf van Google, verloor donderdag al bijna 13 procent …\nThe post Techaandelen drukken sentiment op Europese beurzen appeared first on Trends.be.",
+   "date": "2026-10-30T13:06:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ik wil niet dat AI me shortcuts of stijladvies geeft",
+   "link": "https://www.demorgen.be/boeken/ik-wil-niet-dat-ai-me-shortcuts-of-stijladvies-geeft~b9fa8541/",
+   "description": "",
+   "date": "2026-10-30T12:00:46",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Backdoor in Anthropic Claude Code-extensie raakt duizenden gebruikers",
+   "link": "https://www.security.nl/posting/959754/Backdoor+in+Anthropic+Claude+Code-extensie+raakt+duizenden+gebruikers?channel=rss",
+   "description": "Aanvallers zijn erin geslaagd om een officiële extensie van AI-bedrijf Anthropic te voorzien van een backdoor, zo waarschuwen ...",
+   "date": "2026-10-30T11:52:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "We googelen minder door nieuwe chatbots, moederbedrijf Google verliest daardoor in één dag 447 miljard euro",
+   "link": "https://www.ad.nl/tech/we-googelen-minder-door-nieuwe-chatbots-moederbedrijf-google-verliest-daardoor-in-een-dag-447-miljard-euro~a84d804b/",
+   "description": "Techbedrijven hebben deze week flinke verliezen geleden op de beurs door paniek rond AI, waaronder chatbots. Het moederbedrijf van Google beleefde donderdag de grootste koersval in de geschiedenis van het bedrijf. Aandeelhouders zijn bang dat de investeringen in AI wellicht niet terug worden verdiend.",
+   "date": "2026-10-30T11:49:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Automatiseringsdienst If This Then That werkt voortaan met credits",
+   "link": "https://tweakers.net/nieuws/253944/automatiseringsdienst-if-this-then-that-werkt-voortaan-met-credits.html",
+   "description": "Automatiseringsdienst If This Then That verandert zijn prijzen. De dienst stapt over op een systeem waarbij gebruikers onbeperkt applets kunnen maken, maar betalen naar gebruik. IFTTT integreert daarnaast verschillende AI-functies. Zo wordt het mogelijk met gewone taal applets te maken, maar applets kunnen ook bijvoorbeeld websites in de gaten houden en ze kunnen worden geïntegreerd in andere llm's.",
+   "date": "2026-10-30T11:39:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel overtreft kwartaalverwachtingen, maar aandeel keldert door sombere vooruitzichten",
+   "link": "https://businessam.be/aandeel-intel-keldert-met-20-procent-na-het-niet-halen-van-omzetverwachtingen/",
+   "description": "Key takeaways Het aandeel van Intel kende tijdens de verlengde handelsuren op donderdag een scherpe daling van meer dan 20 procent. Die daling volgde op tegenvallende prognoses voor het vierde kwartaal, voornamelijk als gevolg van een terugval in de pc-sector en operationele hindernissen binnen de datacenterdivisie. Gemiste financiële prognoses Voor het vierde kwartaal verwacht Intel […]",
+   "date": "2026-10-30T11:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gaat de AI-bubbel nu barsten? Chinese techbeurzen zien 2,4 biljoen dollar in rook opgaan",
+   "link": "https://www.ad.nl/economie/gaat-de-ai-bubbel-nu-barsten-chinese-techbeurzen-zien-2-4-biljoen-dollar-in-rook-opgaan~af1a05dd/",
+   "description": "AI wordt het helemáál! Of toch niet? In China is iets opvallends aan de hand: de hosannastemming over AI lijkt een beetje over te zijn. Op techbeurzen verloren bedrijven er sinds de zomer al 40 procent aan waarde. Is dit ons voorland? ‘Dit kun je gerust een crash noemen.’",
+   "date": "2026-10-30T11:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Wees een beetje beleefd tegen je AI-bot",
+   "link": "https://www.tijd.be/r/t/1/id/10697380",
+   "description": "Beleefdheid tegenover AI is niet alleen een kwestie van etiquette. Ze kan ook de prestaties beïnvloeden.",
+   "date": "2026-10-30T11:05:42",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | Naïeve AI-projecten doen kosten oplopen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-naieve-ai-projecten-doen-kosten-oplopen/",
+   "description": "Naïeve AI-integraties: dat is waarvoor Steven Latré waarschuwt. Hij is vicepresident AI bij imec en leidt het onderzoek naar artificiële intelligentie bij het onderzoekscentrum. Dat bespreken we deze week in de podcast AI & Tech.\nThe post AI & Tech-podcast | Naïeve AI-projecten doen kosten oplopen appeared first on Trends.be.",
+   "date": "2026-10-30T10:45:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techondernemer Guy Van Neck lanceert Khova, een AI-copiloot die horecamanagers gidst door wildgroei aan informatie",
+   "link": "https://trends.knack.be/ondernemen/techondernemer-guy-van-neck-lanceert-khova-een-ai-copiloot-die-horecamanagers-gidst-door-wildgroei-aan-informatie/",
+   "description": "Ondernemer Guy Van Neck, bedenker van het leertechnologiebedrijf MobieTrain, lanceert met Khova een AI-copiloot voor horeca en retail. De voedingsketens Alice Pizza en Frites Atelier van Sergio Herman sprongen al mee aan boord. \nThe post Techondernemer Guy Van Neck lanceert Khova, een AI-copiloot die horecamanagers gidst door wildgroei aan informatie appeared first on Trends.be.",
+   "date": "2026-10-30T10:45:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google vecht verbod op waterwinning uit de Samber voor datacenter aan",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/google-vecht-verbod-op-waterwinning-uit-de-samber-voor-datacenter-aan/",
+   "description": "De Amerikaanse technologiegigant Google heeft beroep aangetekend bij de Raad van State nadat de Waalse minister François Desquesnes weigerde de vergunning voor zijn site in Farciennes aan te passen. Achter het dossier schuilt een breder debat over water- en elektriciteitsverbruik en de economische meerwaarde van datacenters.\nThe post Google vecht verbod op waterwinning uit de Samber voor datacenter aan appeared first on Trends.be.",
+   "date": "2026-10-30T10:21:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het is zover: AI slaat gaten in het verdienmodel van de journalistiek",
+   "link": "https://www.nrc.nl/nieuws/2026/10/30/het-is-zover-ai-slaat-gaten-in-het-verdienmodel-van-de-journalistiek-a4940053",
+   "description": "Is journalistiek van NRC nog van NRC? Toen ik die vraag opschreef, had zich die ochtend in Spanje een rampzalig treinongeluk voltrokken.",
+   "date": "2026-10-30T10:11:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "One Million Club: EDGX rust satellieten uit met rekenkracht",
+   "link": "https://trends.knack.be/ondernemen/one-million-club-edgx-rust-satellieten-uit-met-rekenkracht/",
+   "description": "Scale-ups die minstens één miljoen euro ophalen of realiseren als jaarlijkse omzet, treden toe tot de One Million Club. Samen met Scaleup Flanders gaan we op zoek naar deze groeibedrijven.\nThe post One Million Club: EDGX rust satellieten uit met rekenkracht appeared first on Trends.be.",
+   "date": "2026-10-30T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meerderheid van Nederlandse Kamer wil verbod op AI in het basisonderwijs",
+   "link": "https://tweakers.net/nieuws/253932/meerderheid-van-nederlandse-kamer-wil-verbod-op-ai-in-het-basisonderwijs.html",
+   "description": "Een meerderheid van de Nederlandse Tweede Kamer wil dat scholieren in het basisonderwijs geen generatieve AI mogen gebruiken. Onder andere regeringspartij D66 en oppositiepartijen van alle kanten van het politieke spectrum hebben een motie van volt mede-ingediend. De verantwoordelijke staatssecretaris wil eerst onderzoek naar het plan. Het kabinet hoeft een motie niet direct uit te voeren.",
+   "date": "2026-10-30T09:55:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tweede Kamer wil gebruik van generatieve AI op basisscholen verbieden",
+   "link": "https://www.security.nl/posting/959723/Tweede+Kamer+wil+gebruik+van+generatieve+AI+op+basisscholen+verbieden?channel=rss",
+   "description": "De Tweede Kamer wil dat het gebruik van generatieve AI op basisscholen wordt verboden. Een motie van Volt die hiertoe oproept ...",
+   "date": "2026-10-30T09:53:58",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canada sluit zich aan bij Europees netwerk van supercomputers en AI-faciliteiten",
+   "link": "https://businessam.be/canada-sluit-zich-aan-bij-het-supercomputernetwerk-van-de-eu-om-ai-onderzoek-te-stimuleren/",
+   "description": "Key takeaways Canada breidt zijn technologische mogelijkheden uit door zich aan te sluiten bij de supercomputerinfrastructuur van de Europese Unie. Dat meldt Politico. Die infrastructuur speelt een belangrijke rol in de ontwikkeling van artificiële intelligentie. Ursula von der Leyen, voorzitter van de Europese Commissie, maakte het partnerschap donderdag bekend. Daarmee bevestigde ze eerdere berichten dat […]",
+   "date": "2026-10-30T09:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gedaan met slapeloze nachten? Chinees apparaat jaagt op muggen met AI-laser, al is dat niet zonder gevaar",
+   "link": "https://www.gva.be/buitenland/gedaan-met-slapeloze-nachten-chinees-apparaat-jaagt-op-muggen-met-ai-laser-al-is-dat-niet-zonder-gevaar/163835153.html",
+   "description": "Zijn slapeloze nachten door muggen binnenkort voorgoed verleden tijd? Een Chinees bedrijf zegt een hoogtechnologische oplossing te hebben ontwikkeld in de strijd tegen het vervelende gezoem: een AI-gestuurd apparaat mét laser. Er is wel een (niet onbelangrijk) potentieel risico.",
+   "date": "2026-10-30T09:04:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ik wil ook <b>excited</b> zijn. Maar ik weet niet wat ik zojuist gezien heb",
+   "link": "https://www.nrc.nl/nieuws/2026/10/30/ik-wil-ook-excited-zijn-maar-ik-weet-niet-wat-ik-zojuist-gezien-heb-a4939763",
+   "description": "AI-vlogger Chloe reist door de geschiedenis en wordt door docenten als lesmateriaal gebruikt. Stine Jensen pleit voor een minister voor Digitale Zaken én AI-begrenzing in het onderwijs.",
+   "date": "2026-10-30T09:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reddit gaat volledig achter de login-muur",
+   "link": "https://tweakers.net/nieuws/253934/reddit-gaat-volledig-achter-de-login-muur.html",
+   "description": "Reddit verdwijnt volledig achter een loginmuur. Het sociale netwerk experimenteerde al langer met geforceerde logins. Het gaat om een van de grootste veranderingen van het platform, waarop ook veel gebruikers via Google terechtkwamen als ze bijvoorbeeld technische vragen hadden. Reddit wil met de inlogplicht AI-bots tegenhouden.",
+   "date": "2026-10-30T08:47:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI in de Belgische maakindustrie: ‘Het is nog niet te laat, maar de klok tikt’",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/ai-in-de-belgische-maakindustrie-het-is-nog-niet-te-laat-maar-de-klok-tikt/",
+   "description": "De Belgische maakindustrie digitaliseert, maar ongelijk en vaak zonder duidelijke strategie. Ludwig De Locht, Business Unit Manager Digital bij Sirris – dat is het collectief centrum van de Belgische technologische industrie, gelieerd aan sectorfederatie Agoria – ziet vooral een sector in transitie: \"Bedrijven experimenteren volop met AI, maar de stap naar meetbare businessimpact blijft uit.\"\nThe post AI in de Belgische maakindustrie: ‘Het is nog niet te laat, maar de klok tikt’ appeared first on Trends.be.",
+   "date": "2026-10-30T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 wacht terughoudende opening na nieuwe AI-zorgen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-wacht-terughoudende-opening-na-nieuwe-ai-zorgen/",
+   "description": "(ABM FN) De Brusselse beurs gaat vrijdag naar verwachting licht lager van start, nadat zorgen over de opbrengsten van de omvangrijke AI-investeringen opnieuw oplaaiden. De Bel20 eindigde donderdag nog 0,4 procent hoger op 5.840,26 punten, ondanks de koersdaling van AB InBev na cijfers. Beleggers verwerkten een stroom kwartaalcijfers, Amerikaanse macrocijfers en de rentebesluiten van de Federal …\nThe post Bel20 wacht terughoudende opening na nieuwe AI-zorgen appeared first on Trends.be.",
+   "date": "2026-10-30T08:17:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google kondigt twee weken na de release van Gemini 4 Argon al nieuw AI-model aan",
+   "link": "https://www.hln.be/tech/google-kondigt-twee-weken-na-de-release-van-gemini-4-argon-al-nieuw-ai-model-aan~ae247c785/",
+   "description": "Google heeft Gemini 4 Carbon aangekondigd, maar brengt het AI-model nog niet algemeen uit vanwege zorgen over cybersecurity. Volgens het bedrijf presteert Carbon beter dan zijn voorganger, die pas twee weken geleden verscheen.",
+   "date": "2026-10-30T08:00:51",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische techaandelen onderuit na nieuwe AI-zorgen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-techaandelen-onderuit-na-nieuwe-ai-zorgen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden vrijdagochtend verdeeld, met forse verliezen voor techaandelen in Japan en Zuid-Korea. Twijfels over het rendement op de enorme investeringen in kunstmatige intelligentie drukten op het sentiment. Hongkong wist zich aan de verkoopdruk te onttrekken. De Nikkei verloor rond zeven uur Nederlandse tijd 2,4 procent. De Zuid-Koreaanse Kospi daalde zelfs …\nThe post Aziatische techaandelen onderuit na nieuwe AI-zorgen appeared first on Trends.be.",
+   "date": "2026-10-30T07:26:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techbedrijven VS zoeken geld in Europa, risico voor Europese bedrijven",
+   "link": "https://nos.nl/l/2637253",
+   "description": "Uit kwartaalcijfers van Amerikaanse techbedrijven deze week blijkt dat ze nog meer geld nodig hebben voor de ontwikkeling van kunstmatige intelligentie (AI). Steeds vaker halen ze dat geld op door leningen uit te geven, eerst in dollars maar nu ook in euro's. Dat brengt ook een risico voor Europese bedrijven met zich mee.\n        Vooral het bouwen van datacenters kost veel geld. Voorheen gebruikten deze hyperscalers, zoals de grote Amerikaanse techbedrijven ook wel genoemd worden, voornamelijk hun eigen winsten, maar dat is niet meer voldoende. Daarom geven ze veel obligaties uit. Dat zijn leningen met rente en een einddatum waarop het totale uitgeleende bedrag terugbetaald wordt.\n        En deze technologiebedrijven doen dat steeds meer in euro's in plaats van dollars. Zo kunnen ze een nieuwe groep beleggers bereiken. Alphabet, het moederbedrijf van Google, was vorig jaar de eerste hyperscaler en gaf twee leningen uit die samen neerkwamen op meer dan 13 miljard euro, en dit jaar nog eens 9 miljard euro. En dit jaar volgde ook Amazon met de grootste bedrijfsobligatie ooit in euro's uitgegeven: 14,5 miljard euro. Dat was reden voor de Europese Centrale Bank om deze ontwikkeling nauw in de gaten te houden.\n        Verdringing\n        Bedrijven reageren door deze ontwikkeling namelijk anders dan voorheen, zegt Oana Furtuna, analist financiële markten bij de Europese Centrale Bank. \"Zo zijn er Europese bedrijven die het uitgeven van een lening uitstellen wanneer een Amerikaans techbedrijf dat ook doet, om zo de directe concurrentie uit de weg te gaan.\"\n        Daarnaast kan het dat beleggers deze nieuwe obligaties gaan kopen en minder van andere uitleners kunnen aankopen. Dat zou kunnen zorgen voor een verdringing van Europese bedrijfsobligaties, schrijven ECB-economen onder wie Furtuna. Bedrijven moeten dan een hogere rente gaan aanbieden op een lening en wordt het voor hen dus duurder om geld op te halen.\n        Ook econoom Tyrone Gunther van De Nederlandsche Bank ziet dat risico. \"Wanneer er in een keer veel schuld naar de markt komt, zie je dat beleggers meer rente vragen wanneer zij geld uitlenen. Zo wordt het voor bedrijven duurder om geld te lenen.\" Wel benadrukken beide economen dat dit in Europa nog niet aan de orde is.\n        Maar in de VS is dat een ander verhaal. Voorzitter van de Amerikaanse centrale bank Kevin Warsh uitte recent zijn zorgen over het uitgeven van leningen door techbedrijven. De snelle toename is volgens hem een van de factoren achter hogere rente in de VS.\n        Schuldenberg\n        Al kan de komst van deze euro-obligaties ook voordelen met zich meebrengen, denkt Furtuna. In de Europese Unie zijn er nog maar weinig technologiebedrijven die op deze schaal obligaties uitgeven. En het zijn ook vaak leningen met een zeer lange looptijd. De keuze voor beleggers wordt daarmee groter.\n        \"Over het algemeen zijn beleggers daar zeker blij mee\", zegt hoofdstrateeg van Achmea Investment Management, Thomas van Galen. De komst van deze euro-obligaties heeft volgens hem nog een ander voordeel. Veel grote Europese beleggers gebruiken obligaties die in euro's zijn uitgegeven namelijk om bepaalde renterisico's te verkleinen. \"De vijver met obligaties waarin beleggers vissen wordt zo beter gevuld\", aldus Van Galen.\n        De golf aan schuld die hyperscalers nu uitgeven, komen op een moment dat overheden te maken hebben met hoge financieringskosten. De rentes op staatsleningen van de VS maar ook Frankrijk, Duitsland en het Verenigd Koninkrijk stijgen tot niveaus die in geen 25 jaar zo hoog waren.\n        Dat beïnvloedt ook keuzes van beleggers. \"Als je de keuze hebt tussen een Franse staatsobligatie of een obligatie van een hyperscaler, dan is het niet meer vanzelfsprekend dat de staatslening de veiligere belegging is\", zegt Van Galen.\n        Nu AI-bedrijven steeds vaker langlopende leningen uitgeven, roept dat de vraag op of beleggers hun staatsobligaties inruilen voor obligaties van techbedrijven. Dan zou het voor overheden duurder worden om geld te lenen. Hoewel sommige analisten op Wall Street dit beweren, is daar nog geen duidelijk bewijs voor.",
+   "date": "2026-10-30T07:04:41",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Big Short’-belegger Michael Burry waarschuwt dat financiële verwevenheid de AI-sector kwetsbaar maakt",
+   "link": "https://businessam.be/big-short-belegger-michael-burry-waarschuwt-dat-financiele-verwevenheid-de-ai-sector-kwetsbaar-maakt/",
+   "description": "Key takeaways Michael Burry, de belegger die bekendstaat om zijn voorspelling van de financiële crisis van 2008, heeft na het lezen van de documenten voor de beursgang van Anthropic zijn bezorgdheid geuit over de opmars van artificiële intelligentie. Hoge investeringen maken AI-sector kwetsbaar Volgens Burry creëren de financiële afhankelijkheden binnen de sector en de enorme […]",
+   "date": "2026-10-30T07:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen verdeeld",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-verdeeld-25/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen gaan vrijdag een verdeelde opening tegemoet, met aanhoudende zorgen over AI-investeringen. IG voorziet een openingsverlies van 58 punten voor de Duitse DAX, een min van 12 punten voor de Franse CAC 40 en een stijging van 26 punten voor de Britse FTSE 100.De Europese beurzen sloten donderdag hoger, na de rentebesluiten …\nThe post Europese beurzen openen verdeeld appeared first on Trends.be.",
+   "date": "2026-10-30T06:58:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: deze video van Rowan Atkinson over Gaza is nep",
+   "link": "https://www.knack.be/factcheck/factcheck-deze-video-van-rowan-atkinson-over-gaza-is-nep/",
+   "description": "Op sociale media circuleert een interview met de Britse acteur Rowan Atkinson waarin hij zich uitspreekt over de oorlog die Israël voert in Gaza. De video is waarschijnlijk gegenereerd met behulp van AI. Er worden al langer valse quotes over Gaza aan Atkinson toegeschreven en de video lijkt een bewerkte versie van een radio-interview waar het onderwerp niet aan bod komt.\nThe post Factcheck: deze video van Rowan Atkinson over Gaza is nep appeared first on Knack.",
+   "date": "2026-10-30T06:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alphabet verliest 500 miljard dollar aan beurswaarde nu AI-samenvattingen advertentie-inkomsten van Google aantasten",
+   "link": "https://www.gva.be/buitenland/alphabet-verliest-500-miljard-dollar-aan-beurswaarde-nu-ai-samenvattingen-advertentie-inkomsten-van-google-aantasten/163831970.html",
+   "description": "Het moederbedrijf van Google, Alphabet, is donderdag iets meer dan 500 miljard dollar aan beurswaarde kwijtgespeeld. Beleggers schrokken van de laatste kwartaalcijfers van het jaar, waaruit bleek dat de AI-samenvattingen in de zoekmachine wegen op de advertentie-inkomsten. Het aandeel zakte naar het laagste peil in zes maanden.",
+   "date": "2026-10-30T05:54:21",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook in Europa buit big tech arbeiders uit voor bouw van datacenters",
+   "link": "https://apache.be/Opgepikt",
+   "description": "Wat schrijven de kranten niét? Apache pikt het op in deze doorlopende blog.",
+   "date": "2026-10-30T05:30:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-10-30",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Clouddivisie Amazon groeit hard, maar beleggers reageren toch teleurgesteld",
    "link": "https://www.gva.be/buitenland/clouddivisie-amazon-groeit-hard-maar-beleggers-reageren-toch-teleurgesteld/163831532.html",
