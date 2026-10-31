@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T03:02:13",
+ "generated": "2026-10-31T16:56:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 171,
+   "count": 174,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 97,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,128 @@
   }
  ],
  "articles": [
+  {
+   "title": "Finland kon niet zonder Nokia en belandde in een verloren decennium. Kan Nederland wel zonder ASML?",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/finland-kon-niet-zonder-nokia-en-belandde-in-een-verloren-decennium-kan-nederland-wel-zonder-asml~bb8df713/",
+   "description": "",
+   "date": "2026-10-31T16:35:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meer dan 1.000 miljard euro aan beurswaarde verdampt: is de AI-bubbel gebarsten?",
+   "link": "https://www.gva.be/economie/technologie/meer-dan-1.000-miljard-euro-aan-beurswaarde-verdampt-is-de-ai-bubbel-gebarsten/163900764.html",
+   "description": "Meer dan 1.000 miljard dollar verdampte deze week van de beurs na eerder teleurstellende kwartaalrapporten van de big tech-industrie. Een correctie of is er meer aan de hand? “De beurs heeft een indigestie.”",
+   "date": "2026-10-31T16:32:14",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Open AI verlaagt financieringsdoel met 10 miljard dollar",
+   "link": "https://www.nrc.nl/nieuws/2026/10/31/open-ai-verlaagt-financieringsdoel-met-10-miljard-dollar-a4940197",
+   "description": "OpenAI, de maker van ChatGPT, heeft het streefbedrag voor de nieuwste financieringsronde naar beneden bijgesteld.",
+   "date": "2026-10-31T10:50:01",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic sloopt vijfuurslimiet uit duurste Claude-abonnement",
+   "link": "https://tweakers.net/nieuws/253996/anthropic-sloopt-vijfuurslimiet-uit-duurste-claude-abonnement.html",
+   "description": "Anthropic verandert de namen van zijn twee duurste abonnementen. Het Max 20x-abonnement heet vanaf nu Ultra en het voormalige Max 5x wordt Max. Ook schrapt het bedrijf de vijfuurslimiet bij het Ultra-abonnement.",
+   "date": "2026-10-31T10:20:23",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China ontkent dat vrouw met banden met Nvidia-topman voor Chinese overheid spioneerde",
+   "link": "https://businessam.be/china-ontkent-beschuldigingen-over-spion-met-banden-aan-ceo-van-nvidia/",
+   "description": "Key takeaways Peking heeft de beweringen uit een artikel van The New York Times officieel ontkend. Daarin staat dat een persoon met banden met de CEO van Nvidia naar verluidt als spion voor de Chinese overheid zou hebben gewerkt. Volgens de krant werd Donald Trump ongeveer een jaar geleden op de hoogte gebracht van deze […]",
+   "date": "2026-10-31T09:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ongeneeslijk zieke hoogleraar Jan Rotmans laat 'AI-tweeling' van zichzelf maken",
+   "link": "https://nos.nl/l/2637407",
+   "description": "Lezingen geven en vragen beantwoorden, ook als hij er zelf niet meer is. Dat moet een digitale versie van hoogleraar Jan Rotmans (65) straks kunnen. De ongeneeslijk zieke wetenschapper laat met kunstmatige intelligentie zijn \"digitale tweeling\" bouwen. Op die manier moet zijn kennis over maatschappelijke veranderingen worden doorgegeven aan toekomstige generaties. Kritiek is er echter ook.\n        Rotmans zegt de eerste Nederlandse hoogleraar te zijn die een dergelijke \"digitale tweeling\" laat bouwen. Hij laat zijn avatar bouwen door studio The Synths, die eerder een digitaal evenbeeld van Ruud Gullit ontwikkelde.\n        De hoogleraar geldt als pionier op het gebied van klimaatmodellen en systeemveranderingen. Zijn tientallen boeken, honderden wetenschappelijke publicaties en colleges zullen de basis van zijn avatar vormen. \"Vorige week is alles van mij vastgelegd: geluid, beeld, stem en mimiek. In de komende maanden wordt een serieus lijkende versie gemaakt\", zegt Rotmans tegen de NOS.\n        Voor het einde van het jaar moet de eerste versie online beschikbaar zijn. Later moet er ook een hologram komen, dat over een podium kan lopen. \"Op die manier kan ik toch op plekken zijn waar ik niet meer ben.\"\n        Uitgezaaide prostaatkanker\n        Wat meespeelt: Rotmans heeft al bijna twee jaar uitgezaaide prostaatkanker. De artsen gaven hem in 2024 nog vijf jaar. Naar omstandigheden gaat het goed met hem. \"Ik ben volop actief. De vooruitzichten zijn beter dan een aantal jaar geleden en de laatste onderzoeken waren bemoedigend.\"\n        Rotmans hoopt de komende tijd van zijn \"AI-kloon\" te kunnen leren. Zo wil hij met zijn digitale evenbeeld praten over problemen waar hij al langer voor waarschuwt. Wat als het internet bijvoorbeeld twee weken uitvalt? \"Ik sluit niet uit dat mijn avatar oplossingen aandraagt die ik zelf niet heb.\"\n        AI-hoogleraar over plan: 'Heel onwenselijk'\n        Iris van Rooij, AI-hoogleraar aan de Radboud Universiteit, spreekt van \"een heel onwenselijke ontwikkeling\". Ze noemt de toepassing \"een direct voortvloeisel van de AI-hype, een vorm van een ontmenselijking\".\n        Een statisch model van tekst en afbeeldingen is geen mens, benadrukt ze. \"Het model zelf is inherent betekenisloos: het is alles wat de lezer of luisteraar eraan toedicht. Mensen schrijven van alles toe aan bots, zoals intelligentie, denken en emoties, of sociale relaties. Maar een digitale gesprekspartner is niets meer dan een scam.\"\n        Van Rooij begrijpt naar eigen zeggen de wens om kennis en inzichten na te laten, en om toekomstige generaties te willen inspireren. \"Maar we hebben daar al media voor, met boeken, artikelen, video's, et cetera. En precies die media worden gebruikt om statistische modellen te maken. Waarom moet daar een machine van AI-slop (massaal geproduceerde digitale rommel, red.) door een commercieel bedrijf tussen worden gezet?\n        Ik zou zelf graag willen dat wanneer ik er niet meer ben, mensen mijn artikelen en boeken lezen. Dat mensen dat doen op basis van mijn eigen woorden, die ik zorgvuldig heb gekozen - in de tijdgeest en context dat ik ze schreef - en op basis daarvan mijn inzichten en ideeën proberen te begrijpen.\"\n        Zover is het nog niet, benadrukt Rotmans. \"De AI die ik nu gebruik is allemaal logisch en vooral gebaseerd op dingen die ik eerder heb gedaan en gezegd. Ik hoop vooral dat er binnenkort dingen uitkomen die mij ook verrassen.\"\n        Het zou kunnen dat zijn avatar antwoorden geeft die niet kloppen, beweringen doet waar Rotmans niet achter staat of desinformatie verspreidt. \"Daarom testen we het uitgebreid om fouten eruit te halen\", zegt hij.\n        Nieuwe inzichten die zijn digitale tweeling opdoet, wil Rotmans eerst zelf beoordelen. En wanneer dat niet meer kan, vertrouwt hij erop dat andere mensen dat zullen doen. \"Zoals Wikipedia werkt bijvoorbeeld, waar mensen elkaar corrigeren.\"\n        Bang voor misbruik is hij niet. \"Klimaatontkenners hebben ook al misbruik gemaakt van mijn inzichten en artikelen en mijn kennis op een gezagsondermijnende manier gebruikt. Ik kan beter koploper zijn, want dan heb ik het zelf nog in de hand. En als dit misgaat, kan ik mensen waarschuwen. Ik accepteer het risico dat eraan verbonden is.\"\n        Geen vervanger\n        Een persoonlijke vervanger moet zijn AI-tweeling nadrukkelijk niet worden, zegt Rotmans. \"Mijn vrouw zegt ook: naast zo'n AI-avatar ga ik niet slapen. De digital twin wordt zo getraind dat hij geen antwoord geeft op rare vragen, of iets zegt over dingen waar ik niets zinnigs over te zeggen heb.\"\n        Hij verwacht dat andere wetenschappers zijn voorbeeld snel volgen en over 25 jaar vrijwel iedereen zo'n digitale tweeling heeft. \"Vrijwel niemand is enthousiast. Voor mij is dat een goed teken. Als ik iets nieuws probeer en iedereen is enthousiast, dan ga ik twijfelen, omdat het waarschijnlijk niet vernieuwend genoeg is. Als veel mensen sceptisch zijn, weet ik dat ik goed zit.\"\n        Nieuwsuur maakte onlangs dit item over de AI-bubbel:",
+   "date": "2026-10-31T07:52:25",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wie nu bespaart op starters, hypothekeert zijn toekomst’",
+   "link": "https://trends.knack.be/opinie/wie-nu-bespaart-op-starters-hypothekeert-zijn-eigen-toekomst/",
+   "description": "De krantenkoppen zijn verleidelijk in hun eenvoud: de jongerenwerkloosheid stijgt, bedrijven werven minder afgestudeerden aan, en dus heeft artificiële intelligentie (AI) de starterjob opgeslokt. Het is een aantrekkelijk narratief voor wie van snelle conclusies houdt. Alleen klopt er opvallend weinig van.\nThe post ‘Wie nu bespaart op starters, hypothekeert zijn toekomst’ appeared first on Trends.be.",
+   "date": "2026-10-31T07:34:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic groeit uit tot grootste klant van SpaceX en is goed voor ruim een derde van de omzet",
+   "link": "https://businessam.be/anthropic-groeit-uit-tot-grootste-klant-van-spacex-en-is-goed-voor-ruim-een-derde-van-de-omzet/",
+   "description": "Key takeaways Volgens een rapport van Bloomberg, dat zich baseert op een goed geïnformeerde bron, is Anthropic uitgegroeid tot de belangrijkste klant van SpaceX. Het AI-bedrijf is goed voor meer dan een derde van de inkomsten van SpaceX in het derde kwartaal. “Klant B” Dit komt overeen met een recent document van SpaceX waarin staat […]",
+   "date": "2026-10-31T07:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Grote AI-spelers geven toe aan druk van de media: één knop moet einde maken aan het leegroven van websites",
+   "link": "https://www.gva.be/buitenland/grote-ai-spelers-geven-toe-aan-druk-van-de-media-een-knop-moet-einde-maken-aan-het-leegroven-van-websites/163890666.html",
+   "description": "OpenAI, Google, Microsoft en Anthropic hebben vrijdag beloofd dat media en andere websites binnenkort op een eenvoudige manier kunnen verhinderen dat hun inhoud wordt gebruikt om AI-modellen te trainen. De belofte komt er op een moment dat een deel van de pers met de AI-bedrijven in een juridisch gevecht verwikkeld is.",
+   "date": "2026-10-31T03:03:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kan een Duitse robotbouwer Europa redden van de Chinese AI-overmacht?",
+   "link": "https://www.demorgen.be/tech-ai/kan-een-duitse-robotbouwer-europa-redden-van-de-chinese-ai-overmacht~be22c1b9/",
+   "description": "",
+   "date": "2026-10-31T03:01:09",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe AI de machtsbalans verder van Europa wegduwt",
+   "link": "https://www.demorgen.be/nieuws/hoe-ai-de-machtsbalans-verder-van-europa-wegduwt~bb0dd033/",
+   "description": "",
+   "date": "2026-10-31T03:01:07",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Techaandelen krijgen flinke klappen op beurs New York: slechtste dag voor Nasdaq sinds juni",
    "link": "https://www.hln.be/economie/techaandelen-krijgen-flinke-klappen-op-beurs-new-york-slechtste-dag-voor-nasdaq-sinds-juni~a3dd642f/",
@@ -1129,6 +1251,17 @@
     "Volkskrant - Tech"
    ],
    "first_seen": "2026-10-29",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Open gewoon Chat’ – maar wat doet het met je denkvermogen als je vaak een chatbot gebruikt?",
+   "link": "https://www.volkskrant.nl/tech/open-gewoon-chat-maar-wat-doet-het-met-je-denkvermogen-als-je-vaak-een-chatbot-gebruikt~b380cf07/",
+   "description": "",
+   "date": "2026-10-29T18:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-10-31",
    "intro_geprobeerd": true
   },
   {
