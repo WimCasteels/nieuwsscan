@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T17:56:15",
+ "generated": "2026-10-31T03:02:13",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 175,
+   "count": 171,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 97,
    "error": null
   },
   {
@@ -315,6 +315,195 @@
   }
  ],
  "articles": [
+  {
+   "title": "Techaandelen krijgen flinke klappen op beurs New York: slechtste dag voor Nasdaq sinds juni",
+   "link": "https://www.hln.be/economie/techaandelen-krijgen-flinke-klappen-op-beurs-new-york-slechtste-dag-voor-nasdaq-sinds-juni~a3dd642f/",
+   "description": "Techaandelen op de beurzen in New York zijn vrijdag lager geëindigd na tegenvallende kwartaalcijfers van chipfabrikant Intel en webwinkelconcern Amazon. Beleggers bouwden hun posities in belangrijke AI-aandelen af.",
+   "date": "2026-10-31T02:38:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vandaag biedt AI vooral kansen aan Nvidia en co.",
+   "link": "https://www.standaard.be/economie/geld/vandaag-biedt-ai-vooral-kansen-aan-nvidia-en-co./163698172.html",
+   "description": "Techkenners en fondsbeheerders denken dat de AI-revolutie nog in een vroege fase zit. Ze focussen nu op bedrijven die cruciaal zijn in de opbouw van de AI-infrastructuur, met op kop wereldleiders als Nvidia en TSMC.",
+   "date": "2026-10-31T01:00:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opinie: Docenten kunnen er niet omheen: leerlingen gebruiken gewoon AI",
+   "link": "https://www.trouw.nl/opinie/opinie-docenten-kunnen-er-niet-omheen-leerlingen-gebruiken-gewoon-ai~b04020df2/",
+   "description": "",
+   "date": "2026-10-30T22:00:23",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-twijfels doen in een knip 1.000 miljard dollar aan beurswaarde verdampen",
+   "link": "https://www.tijd.be/r/t/1/id/10698037",
+   "description": "Alphabet, Intel, Amazon en Meta hebben de afgelopen dagen 1.000 miljard dollar beurswaarde in rook zien opgaan na teleurstellende kwartaalrapporten. ‘Big tech kan nog weinig goeds doen’, klinkt het bij strategen.",
+   "date": "2026-10-30T21:20:49",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nasdaq kent slechtste dag sinds juni",
+   "link": "https://www.tijd.be/r/t/1/id/10698035",
+   "description": "Wall Street kleurde bloedrood. Chipbakker Intel kende zijn slechtste beursdag in ruim 40 jaar. Ook Amazon kreeg geen beloning voor zijn kwartaalrapport en hoge AI-investeringen.",
+   "date": "2026-10-30T21:05:51",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pangram als oldschool actieheld: de vijand verslaan maar ten koste van wat?",
+   "link": "https://www.nrc.nl/nieuws/2026/10/30/pangram-als-oldschool-actieheld-de-vijand-verslaan-maar-ten-koste-van-wat-a4940166",
+   "description": "We hebben een nieuwe superheld, de plantsoendienst die overal op internet het onkruid komt wieden: Pangram. Het is een begrijpelijke strohalm die wordt aangegrepen om iets te kunnen doen tegen de enorme golf van AI-tekst die ons overspoelt. Maar wat hebben we er nou echt aan?",
+   "date": "2026-10-30T21:04:33",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-ceo zou 'nauwe band' hebben gehad met spion uit China",
+   "link": "https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html",
+   "description": "Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.",
+   "date": "2026-10-30T20:27:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Machtige mediabedrijven binden de strijd aan met AI-giganten: “Dit is de grootste diefstal van menselijke arbeid in de geschiedenis”",
+   "link": "https://www.standaard.be/economie/bedrijven/machtige-mediabedrijven-binden-de-strijd-aan-met-ai-giganten-dit-is-de-grootste-diefstal-van-menselijke-arbeid-in-de-geschiedenis/163858105.html",
+   "description": "Nieuwsmedia staan voor de strijd van hun leven. Amerikaanse AI-giganten bouwen aan een toekomst waarin voor kranten steeds minder plaats is. De grote pershuizen vragen de overheid om hulp, maar zien zich tegelijk genoodzaakt om met de techreuzen te onderhandelen. “Google is voor ons de totale horror.”",
+   "date": "2026-10-30T20:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de crash van 500 miljard: AI zet  verdienmodel van Google onder druk",
+   "link": "https://www.standaard.be/economie/na-de-crash-van-500-miljard-ai-zet-verdienmodel-van-google-onder-druk/163874562.html",
+   "description": "Zelfs de reus Google is niet immuun voor de schokgolven die AI door de technologiewereld jaagt. Beleggers verliezen hun geloof in het lucratieve advertentiemodel van de zoekmachine.",
+   "date": "2026-10-30T19:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de grootste cryptoroof ooit: hoe veilig zijn bitcoin en co. nog?",
+   "link": "https://www.standaard.be/economie/na-de-grootste-cryptoroof-ooit-hoe-veilig-zijn-bitcoin-en-co.-nog/163847423.html",
+   "description": "Hackers hebben voor 6,3 miljard dollar aan cryptomunten kunnen buitmaken bij Binance. Een ramp voor het handelsplatform, maar verrassend genoeg kon een kleine helft van de buit bevroren worden. De vraag blijft: hoe veilig zijn ze nog, zeker in tijden van AI-modellen die zoveel kunnen kraken?",
+   "date": "2026-10-30T19:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie zijn de zeven van Anthropic, de progressieve miljardairs die de AI-wereld veroverden?",
+   "link": "https://www.standaard.be/economie/wie-zijn-de-zeven-van-anthropic-de-progressieve-miljardairs-die-de-ai-wereld-veroverden/163847301.html",
+   "description": "Ieder van hen is zo’n 14 miljard dollar waard en samen beslissen ze collectief over ’s werelds belangrijkste AI-bedrijf. Wie zijn ze, die zeven stichters van Anthropic? Een blik achter de schermen van een uniek techcollectief.",
+   "date": "2026-10-30T19:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Proton-ceo schrapt hersollicitatiegesprekken met werknemers over AI-gebruik'",
+   "link": "https://tweakers.net/nieuws/253986/proton-ceo-schrapt-hersollicitatiegesprekken-met-werknemers-over-ai-gebruik.html",
+   "description": "Proton-ceo Andy Yen zou 'hersollicitatiegesprekken' met werknemers over hun AI-gebruik hebben geannuleerd. Volgens 404 Media wilde Yen met de gesprekken onderzoeken hoe zijn werknemers AI gebruiken. Als zij niet genoeg AI zouden inzetten, zou dat mogelijk leiden tot ontslag.",
+   "date": "2026-10-30T19:25:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Historisch beursverlies voor Google, mede door succes van eigen AI-chatbot Gemini",
+   "link": "https://www.demorgen.be/nieuws/historisch-beursverlies-voor-google-mede-door-succes-van-eigen-ai-chatbot-gemini~bfe0aa24/",
+   "description": "",
+   "date": "2026-10-30T19:00:48",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Meta stelt nieuwe voorwaarden voor zakelijke gebruikers voor onbepaalde tijd uit.",
+   "link": "https://www.hln.be/tech/meta-stelt-nieuwe-voorwaarden-voor-zakelijke-gebruikers-voor-onbepaalde-tijd-uit~a7a6fdb5/",
+   "description": "Meta stelt nieuwe voorwaarden voor zakelijke gebruikers voor onbepaalde tijd uit. Uitgevers en adverteerders verzetten zich tegen de plannen, waarmee het bedrijf inhoud van gebruikers zou mogen gebruiken om AI-modellen te trainen.",
+   "date": "2026-10-30T19:00:18",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese spionne geraakte erg dicht bij Nvidia-baas Jensen Huang",
+   "link": "https://www.standaard.be/economie/chinese-spionne-geraakte-erg-dicht-bij-nvidia-baas-jensen-huang/163861152.html",
+   "description": "Zakenvrouw Alice Huang is volgens de Amerikaanse autoriteiten een Chinese spion. Ze blijkt een persoonlijke relatie te hebben ontwikkeld met Jensen Huang, de ceo van AI-chipmaker Nvidia.",
+   "date": "2026-10-30T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Overschatten we de impact van AI? De wet van Amara brengt raad",
+   "link": "https://www.standaard.be/economie/overschatten-we-de-impact-van-ai-de-wet-van-amara-brengt-raad/163751586.html",
+   "description": "Futuroloog Roy Amara signaleerde een interessant patroon, dat nog altijd tot nadenken stemt.",
+   "date": "2026-10-30T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen sluiten onstuimige maand overwegend lager af",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-onstuimige-maand-overwegend-lager-af/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn de turbulente maand oktober overwegend lager geëindigd. Vooral indexen met veel technamen hadden het vrijdag moeilijk.Op de laatste dag van de maand waren de zorgen over de investeringen in AI de dominante factor, wat zorgde voor flinke negatieve koersuitslagen in de techsector. Zo verloor Intel vandaag bijna 30 procent …\nThe post Europese beurzen sluiten onstuimige maand overwegend lager af appeared first on Trends.be.",
+   "date": "2026-10-30T18:40:47",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-10-31",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Is Anthropic te laat voor zijn eigen AI-feest?",
    "link": "https://www.tijd.be/r/t/1/id/10697714",
