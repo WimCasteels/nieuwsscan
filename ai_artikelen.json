@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T02:52:57",
+ "generated": "2026-11-01T17:59:34",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,127 @@
   }
  ],
  "articles": [
+  {
+   "title": "Met plankenkoorts bibbert de AI-sector de novembermaand in",
+   "link": "https://www.nrc.nl/nieuws/2026/11/01/met-plankenkoorts-bibbert-de-ai-sector-de-novembermaand-in-a4940171",
+   "description": "Is dit de top van de hausse op de beurzen rond kunstmatige intelligentie (AI), of is het een hobbel op de weg? Die vraag dringt zich op na een brute week op de Amerikaanse beurzen.",
+   "date": "2026-11-01T17:04:09",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Youtuber maakt holografische AI-assistent met singleboardcomputer en oledscherm",
+   "link": "https://tweakers.net/geek/254022/youtuber-maakt-holografische-ai-assistent-met-singleboardcomputer-en-oledscherm.html",
+   "description": "Heb je altijd al willen praten met je eigen holografische AI-assistent? Dat kan met NOVA, een hologram dat youtuber DD Electrotech zelf ontwierp met een oledschermpje, een singleboardcomputer, zelfgebouwde printplaatjes en een 3d-geprinte behuizing.",
+   "date": "2026-11-01T13:37:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google ontvangt haiku vanuit satelliet in eerste stap naar ruimte-datacenter",
+   "link": "https://tweakers.net/nieuws/254020/google-ontvangt-haiku-vanuit-satelliet-in-eerste-stap-naar-ruimte-datacenter.html",
+   "description": "Google heeft voor het eerst data vanuit een tpu ontvangen die in een satelliet in de ruimte is gebouwd. Google wil met Project Suncatcher meeliften op het idee om datacenters in de ruimte te bouwen en zegt daar met een eerste, toepasselijke 'Hello world' een belangrijke mijlpaal in te hebben behaald.",
+   "date": "2026-11-01T12:53:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Sam Altman: het is heel erg dat mensen ram in hun pc hebben zitten",
+   "link": "https://tweakers.net/geek/254016/sam-altman-het-is-heel-erg-dat-mensen-ram-in-hun-pc-hebben-zitten.html",
+   "description": "Ben jij een van die gelukkigen die nog een klein beetje ram in een game-pc heeft zitten? Dan ben jij onderdeel van het probleem, vindt OpenAI-ceo Sam Altman. Hij vindt het 'quite terrible' dat zoveel mensen lokaal geheugen gebruiken. Dat geheugen zou volgens hem veel beter naar cloudcomputing kunnen gaan, zegt de ceo die voor een groot deel verantwoordelijk is voor de ramcrisis van dit moment.",
+   "date": "2026-11-01T12:08:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Imec gaat onderzoek doen naar toepassingen voor Belgisch leger",
+   "link": "https://tweakers.net/nieuws/254010/imec-gaat-onderzoek-doen-naar-toepassingen-voor-belgisch-leger.html",
+   "description": "Het Belgische onderzoeksinstituut imec gaat samenwerken met het ministerie van Defensie. Imec gaat onder andere onderzoek doen op gebieden waar het leger behoefte aan heeft, zoals communicatie, AI, locatiegegevens en sensoren.",
+   "date": "2026-11-01T11:24:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waymo en Toyota slaan handen in elkaar voor internationale robotaximarkt",
+   "link": "https://businessam.be/waymo-en-toyota-slaan-handen-in-elkaar-voor-internationale-robotaximarkt/",
+   "description": "Key takeaways Waymo is een alliantie aangegaan met Toyota om zelfrijdende software te integreren in elektrische voertuigen die bestemd zijn voor internationale robotaximarkten. Proefritten in Japan Vanaf volgend jaar zullen de twee bedrijven beginnen met proefritten met autonome bZ4X-modellen in Japan. De voertuigen zullen worden geproduceerd in de Takaoka-fabriek van Toyota, waar de autonome software […]",
+   "date": "2026-11-01T11:16:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Grok gaat watermerken toevoegen aan tekst",
+   "link": "https://tweakers.net/nieuws/254008/ook-grok-gaat-watermerken-toevoegen-aan-tekst.html",
+   "description": "AI-model Grok gaat onzichtbare watermerken toevoegen aan tekstoutput. Dat doet ontwikkelaar SpaceXSI vanwege de Europese AI-verordening. Zakelijke gebruikers kunnen het watermerk wel uitzetten. De api krijgt een optie om watermerken te herkennen.",
+   "date": "2026-11-01T11:07:31",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude mag geen bestaande games meer bewerken of repliceren",
+   "link": "https://tweakers.net/nieuws/254004/claude-mag-geen-bestaande-games-meer-bewerken-of-repliceren.html",
+   "description": "Anthropic heeft strengere regels toegevoegd aan Claude voor het herschrijven of aanpassen van games. In de basisprompt van de llm staat een nieuwe regel waarin staat dat Claude geen specifieke bestaande games mag herschrijven. Meerdere ontwikkelaars melden dat ook op GitHub. Steeds meer gamemakers gebruiken Claude om bestaande games te verbeteren, maar dat knijpt Anthropic nu af.",
+   "date": "2026-11-01T09:53:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een race die Europa wel wint: groenere steden",
+   "link": "https://www.nrc.nl/nieuws/2026/11/01/een-race-die-europa-wel-wint-groenere-steden-a4940149",
+   "description": "We moeten meedoen met de AI-wedloop, klinkt het vaak. Als we verliezen van de VS en China, verliezen we onze toekomst. We moeten nu, in de hoogste versnelling die kant op racen. Maar welke kant racen we eigenlijk op? En wat als we een héél andere richting kiezen: die van de levendiger gemeenschappen in groenere steden?",
+   "date": "2026-11-01T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom het een slecht idee is om je hart te luchten bij een AI-bot: 'Namaakbegrip'",
+   "link": "https://www.nu.nl/tech/6414803/waarom-het-een-slecht-idee-is-om-je-hart-te-luchten-bij-een-ai-bot-namaakbegrip.html",
+   "description": "Een AI-chatbot is altijd beschikbaar en vindt jou geweldig. Het kan voelen alsof er eindelijk iemand is die je begrijpt. Maar wat gebeurt er als we persoonlijke problemen steeds vaker voorleggen aan een systeem dat ons niet werkelijk begrijpt?",
+   "date": "2026-11-01T05:00:40",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jong talent: Amadeus Maes (32) bouwt een chatbot over politiek",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/jong-talent-amadeus-maes-32-bouwt-een-chatbot-over-politiek/",
+   "description": "Politiek is hard en belangrijk werk, vindt Amadeus Maes. De jonge ondernemer ontwierp een AI-chatbot waaraan je vragen over de Belgische politiek en de publieke opinie kunt stellen. Sphairo bezorgt je vervolgens cijfers, met bronvermelding van de antwoorden. ‘Ik zie de democratie als een enorme machine die nooit stilstaat. Mijn software wordt hopelijk de smeerolie die deze machine soepeler doet draaien.’ \nThe post Jong talent: Amadeus Maes (32) bouwt een chatbot over politiek appeared first on Knack.",
+   "date": "2026-11-01T04:54:46",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Apple opnieuw waardevolste bedrijf ter wereld; Nvidia verliest terrein door zorgen over AI-uitgaven",
    "link": "https://businessam.be/apple-opnieuw-waardevolste-bedrijf-ter-wereld-nvidia-verliest-terrein-door-zorgen-over-ai-uitgaven/",
