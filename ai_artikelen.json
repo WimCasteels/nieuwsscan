@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T16:56:47",
+ "generated": "2026-11-01T02:52:57",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 174,
+   "count": 165,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "Apple opnieuw waardevolste bedrijf ter wereld; Nvidia verliest terrein door zorgen over AI-uitgaven",
+   "link": "https://businessam.be/apple-opnieuw-waardevolste-bedrijf-ter-wereld-nvidia-verliest-terrein-door-zorgen-over-ai-uitgaven/",
+   "description": "Key takeaways Apple heeft opnieuw zijn positie als wereldleider op het gebied van marktkapitalisatie veiliggesteld en Nvidia ingehaald. Stabiliteit van Apple Deze verschuiving vond plaats doordat beleggers hun aandacht verlegden naar de vermeende stabiliteit van de iPhone-ontwikkelaar, ingegeven door groeiende scepsis over de enorme uitgaven in verband met artifciële intelligentie. Bij het sluiten van de […]",
+   "date": "2026-10-31T18:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-01",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Finland kon niet zonder Nokia en belandde in een verloren decennium. Kan Nederland wel zonder ASML?",
    "link": "https://www.trouw.nl/duurzaamheid-economie/finland-kon-niet-zonder-nokia-en-belandde-in-een-verloren-decennium-kan-nederland-wel-zonder-asml~bb8df713/",
