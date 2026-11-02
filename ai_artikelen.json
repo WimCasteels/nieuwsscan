@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T03:08:10",
+ "generated": "2026-11-02T21:04:51",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 179,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
@@ -315,6 +315,316 @@
   }
  ],
  "articles": [
+  {
+   "title": "OpenAI-CEO Altman: artificiële intelligentie steekt topwetenschappers voorbij",
+   "link": "https://businessam.be/openai-ceo-altman-artificiele-intelligentie-steekt-topwetenschappers-voorbij/",
+   "description": "Key takeaways Tijdens een recente energietop in Abu Dhabi stelde Sam Altman, CEO van OpenAI, dat moderne artificiële intelligentie zich zodanig heeft ontwikkeld dat het in de meeste opzichten de intelligentie van ’s werelds toonaangevende wetenschappers overtreft. Hij merkte op dat AI in slechts één jaar tijd een aanzienlijke sprong voorwaarts heeft gemaakt: van een […]",
+   "date": "2026-11-02T20:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Korea trekt recordbedrag uit voor begroting 2027 met focus op AI en defensie",
+   "link": "https://businessam.be/zuid-korea-trekt-recordbedrag-uit-voor-begroting-2027-met-focus-op-ai-en-defensie/",
+   "description": "Key takeaways De Zuid-Koreaanse regering heeft het parlement om goedkeuring gevraagd voor een historische begroting voor 2027 van in totaal 548,8 miljard euro. De voorgestelde uitgaven betekenen een stijging van 12,8 procent ten opzichte van de huidige uitgaven, met een strategische nadruk op het versterken van de nationale economische vitaliteit door middel van vooruitgang op […]",
+   "date": "2026-11-02T20:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alphabet zoekt 6 miljard dollar op obligatiemarkt terwijl twijfels over AI-investeringen groeien",
+   "link": "https://businessam.be/alphabet-zoekt-6-miljard-dollar-op-obligatiemarkt-terwijl-twijfels-over-ai-investeringen-groeien/",
+   "description": "Key takeaways Alphabet, het moederbedrijf van Google, heeft maandag een obligatie-uitgifte van 6 miljard euro gelanceerd, die als graadmeter dient voor het vertrouwen van beleggers na een periode van instabiliteit in de technologiesector. Uit een memorandum van de leidende banken blijkt dat er grote belangstelling was voor de uitgifte, met een totale vraag van meer […]",
+   "date": "2026-11-02T19:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reddit voelt de hete adem van AI: voortaan moet je inloggen om berichten te lezen",
+   "link": "https://www.standaard.be/economie/reddit-voelt-de-hete-adem-van-ai-voortaan-moet-je-inloggen-om-berichten-te-lezen/163965454.html",
+   "description": "Wie berichten op onlineforum Reddit wil lezen, zal voortaan eerst moeten inloggen. Dat moet het inkomstenverlies compenseren nu mensen de inhoud van het internetforum steeds vaker consumeren via AI.",
+   "date": "2026-11-02T19:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic boekt omzet van 17 miljard dollar in derde kwartaal",
+   "link": "https://www.standaard.be/economie/anthropic-boekt-omzet-van-17-miljard-dollar-in-derde-kwartaal/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-02T19:12:47",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-baas Sam Altman vindt het vreselijk dat mensen geheugen in hun pc hebben zitten",
+   "link": "https://www.hln.be/tech/openai-baas-sam-altman-vindt-het-vreselijk-dat-mensen-geheugen-in-hun-pc-hebben-zitten~ab7a5e1f4/",
+   "description": "Sam Altman, baas van ChatGPT-moederbedrijf OpenAI, vindt het “vreselijk” dat mensen geheugen in hun eigen pc hebben zitten. Het zou beter zijn om dat geheugen in datacenters te hebben, redeneert hij.",
+   "date": "2026-11-02T19:03:00",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met behulp van wiskunde, AI en broccoli: wat maakt het nieuwe marathonfenomeen Andreas Almgren zo apart?",
+   "link": "https://www.standaard.be/sport/atletiek/met-behulp-van-wiskunde-ai-en-broccoli-wat-maakt-het-nieuwe-marathonfenomeen-andreas-almgren-zo-apart/163970024.html",
+   "description": "Financieel risico-analist, dataverwerker, en sinds zondag de debutant die de prestigieuze marathon van New York won: wie is het Zweedse loopwonder Andreas Almgren (31)?",
+   "date": "2026-11-02T18:45:47",
+   "feeds": [
+    "De Standaard - Sport"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "YouTuber maakt AI-assistent met holografisch effect dankzij scherm dat meedraait met gebruiker",
+   "link": "https://www.hln.be/tech/youtuber-maakt-ai-assistent-met-holografisch-effect-dankzij-scherm-dat-meedraait-met-gebruiker~afabed41/",
+   "description": "Een YouTuber heeft een AI-assistent gemaakt die eruitziet als een hologram. De assistent, die de naam Project Nova heeft gekregen, wordt weergegeven op een oledscherm dat meedraait met de gebruiker om het 3D-effect in stand te houden.",
+   "date": "2026-11-02T18:22:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cyberaanval op supermarkten staat niet alleen: hoe artificiële intelligentie hackers steeds gevaarlijker maakt",
+   "link": "https://www.demorgen.be/nieuws/cyberaanval-op-supermarkten-staat-niet-alleen-hoe-artificiele-intelligentie-hackers-steeds-gevaarlijker-maakt~b4323829/",
+   "description": "",
+   "date": "2026-11-02T18:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Driver-update - AMD Radeon Software Adrenalin Edition 26.10.2",
+   "link": "https://tweakers.net/downloads/78870/amd-radeon-software-adrenalin-edition-26102.html",
+   "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.10.2 treffen we een verzameling bugfixes aan en is er een even lange lijst met problemen die wel al bekend zijn, maar waar nog geen oplossing voor is. De complete changelog voor deze uitgave kan hieronder worden gevonden. Fixed Issues",
+   "date": "2026-11-02T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Loten dan maar? Wetenschap zoekt oplossing voor stortvloed aan AI-publicaties",
+   "link": "https://www.trouw.nl/onderwijs/loten-dan-maar-wetenschap-zoekt-oplossing-voor-stortvloed-aan-ai-publicaties~bfad10e1/",
+   "description": "",
+   "date": "2026-11-02T17:52:00",
+   "feeds": [
+    "Trouw - Voorpagina",
+    "Trouw - Wetenschap"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Marvell neemt Lumentum over in een AI-hardware-deal van 115 miljard dollar",
+   "link": "https://businessam.be/marvell-neemt-lumentum-over-in-een-ai-hardware-deal-van-115-miljard-dollar/",
+   "description": "Key takeaways In een strategische zet om te profiteren van de groei op het gebied van artificiële intelligentie (AI) heeft Marvell Technology een overeenkomst gesloten voor de overname van Lumentum, een fabrikant van optische componenten. De transactie, die volledig in aandelen plaatsvindt en waarbij ook schulden worden overgenomen, heeft een waarde van 115 miljard dollar […]",
+   "date": "2026-11-02T17:34:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijf Anthropic boekt omzet van 17 miljard dollar in derde kwartaal",
+   "link": "https://www.gva.be/economie/bedrijven/ai-bedrijf-anthropic-boekt-omzet-van-17-miljard-dollar-in-derde-kwartaal/163975656.html",
+   "description": "Het Amerikaanse AI-bedrijf Anthropic, het bedrijf achter chatbot Claude, heeft tijdens het derde kwartaal een omzet geboekt van 17 miljard dollar (15,2 miljard euro), een stijging met 46 procent ten opzichte van de drie maanden daarvoor. Dat blijkt maandag uit een document van de Amerikaanse beurswaakhond SEC.",
+   "date": "2026-11-02T16:28:18",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Nvidia deelt nog geen RTX 5080 24GB-ontwerpen met fabrikanten'",
+   "link": "https://tweakers.net/nieuws/254046/nvidia-deelt-nog-geen-rtx-5080-24gb-ontwerpen-met-fabrikanten.html",
+   "description": "Er staan vraagtekens bij de release van een RTX 5080 24GB. Nvidia was volgens geruchten van plan om die in januari al beschikbaar te stellen, maar die planning lijkt toch niet haalbaar. Nvidia zou namelijk nog geen ontwerpen hebben gedeeld met videokaartmakers.",
+   "date": "2026-11-02T15:50:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rocky Linux-maker bouwt met AI in elf dagen Linux-compatibele kernel",
+   "link": "https://tweakers.net/nieuws/254032/rocky-linux-maker-bouwt-met-ai-in-elf-dagen-linux-compatibele-kernel.html",
+   "description": "De maker van Linux-distributies CentOS en Rocky Linux heeft met OpenAI Codex in elf dagen een geheel nieuwe besturingssysteemkernel gemaakt die compatibel is met Linux. Dit zogeheten Ginux is geheel in Rust geschreven en draait op x86-64-processors.",
+   "date": "2026-11-02T15:36:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "S&P Global verlaagt vooruitzichten voor Meta naar “negatief” door hoge AI-investeringen",
+   "link": "https://businessam.be/sp-verlaagt-vooruitzichten-meta-nu-ai-uitgaven-oplopen/",
+   "description": "Key takeaways S&P Global Ratings heeft de vooruitzichten voor Meta Platforms verlaagd van “stabiel” naar “negatief”. Aanleiding zijn de bezorgdheid over de forse investeringen van het bedrijf in artificiële intelligentie en de gevolgen daarvan voor de vrije operationele kasstroom (FOCF). Dat meldt Reuters. Grote technologiebedrijven investeren al langer in e-commerce en cloudinfrastructuur. De huidige AI-boom […]",
+   "date": "2026-11-02T15:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met de tool ‘Dehook’ kunnen gebruikers hun algoritme op YouTube aanpassen",
+   "link": "https://www.volkskrant.nl/tech/met-de-tool-dehook-kunnen-gebruikers-hun-algoritme-op-youtube-aanpassen~b124bb89/",
+   "description": "",
+   "date": "2026-11-02T15:00:48",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Temperaturen in koeling van aantal supermarkten stegen plots fors: ‘Vanaf 01.00 uur eerste alarmen’",
+   "link": "https://www.ad.nl/binnenland/temperaturen-in-koeling-van-aantal-supermarkten-stegen-plots-fors-vanaf-01-00-uur-eerste-alarmen~ac769346/",
+   "description": "Hackers vielen vannacht massaal koelsystemen aan in Europa. Supermarkten en buurtwinkels zijn de dupe. De temperatuur ging soms wel naar 70 graden. Moeten we wel al onze apparaten aan het internet willen verbinden? „AI is een goed hulpje van criminelen.”",
+   "date": "2026-11-02T13:52:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Marvell neemt chipbedrijf Lumentum over",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/marvell-neemt-chipbedrijf-lumentum-over/",
+   "description": "(ABM FN-Dow Jones) Marvell Technology neemt sectorgenoot Lumentum over. Dit maakten de twee Amerikaanse technologiebedrijven maandagmiddag bekend.  De overname werd gedaan met het oog op de overstap van koperverbindingen naar optische technologie voor chips. Aandeelhouders van Lumentum ontvangen voor elk aandeel dat zij bezitten 4,5 aandelen Marvell. Daarmee wordt de ondernemingswaarde van Lumentum op 115 miljard …\nThe post Marvell neemt chipbedrijf Lumentum over appeared first on Trends.be.",
+   "date": "2026-11-02T13:23:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DeepSeek lanceert AI-agent die programmeertaken zelfstandig kan uitvoeren",
+   "link": "https://businessam.be/deepseek-lanceert-autonome-programmeeragent-als-concurrent-voor-claude-code/",
+   "description": "Key takeaways DeepSeek, een Chinees AI-bedrijf, heeft een open-sourceprogramma voor autonoom programmeren gelanceerd onder de naam Super-Agent. Met de introductie wil het bedrijf de concurrentie met Amerikaanse AI-producten, met name Claude Code van Anthropic, opvoeren. Het systeem moet programmeertaken uitvoeren met aanzienlijk minder menselijke tussenkomst. Proactieve hulp bij het programmeren Volgens een bericht op WeChat […]",
+   "date": "2026-11-02T13:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rusland ontwikkelt steeds slimmere aanvalsdrones met AI die zonder gps kunnen navigeren en doelen herkennen",
+   "link": "https://businessam.be/rusland-ontwikkelt-steeds-slimmere-aanvalsdrones-met-ai-die-zonder-gps-kunnen-navigeren-en-doelen-herkennen/",
+   "description": "Key takeaways Rusland verandert de aard van luchtgevechten fundamenteel door AI-aangedreven drones in massa te produceren en een eigen satellietnetwerk voor wapencoördinatie op te zetten. Dat meldt de gespecialiseerde website United24Media. Tijdens een recente briefing toonden defensietechnologie-expert Serhii Beskrestnov (bekend als ‘Flash’) en sanctiecommissaris Vladyslav Vlasiuk wrakstukken van diverse Russische raketten en UAV’s – waaronder […]",
+   "date": "2026-11-02T12:20:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Niet alleen beursgang Anthropic maakt november tot cruciale AI-maand",
+   "link": "https://www.nrc.nl/nieuws/2026/11/02/niet-alleen-beursgang-anthropic-maakt-november-tot-cruciale-ai-maand-a4940292",
+   "description": "Voor het eerst gaat een bedrijf naar de beurs dat zich alleen maar met AI bezig houdt. De spanning rond de beursgang van Anthropic zal deze maand oplopen. Maar let ook op de neoclouds, de datacenterbouwers waar beleggers steeds minder vertrouwen in hebben. Gaat de zeepbel knappen? En: de kou treedt langzaam in en de spanning rond gasvoorraden loopt op. Deze week komt er meer inzicht in hoe slecht Europa ervoor staat.",
+   "date": "2026-11-02T11:40:05",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China beweert Amerikaanse F-22- en F-35-gevechtsvliegtuigen met 97 procent nauwkeurigheid te kunnen herkennen dankzij AI",
+   "link": "https://businessam.be/china-beweert-amerikaanse-f-22-en-f-35-gevechtsvliegtuigen-met-97-procent-nauwkeurigheid-te-kunnen-herkennen-dankzij-ai/",
+   "description": "Key takeaways Onderzoekers van de China Airborne Missile Academy en het Beijing Institute of Technology beweren een AI-gestuurde infraroodzoeker te hebben ontwikkeld die F-22- en F-35-vliegtuigen kan identificeren met een succespercentage van maar liefst 97,1 procent. Artificiële intelligentie Dit lichtgewicht systeem is bedoeld voor lucht-luchtraketten en maakt gebruik van warmtebeeldtechnologie om de warmte van de […]",
+   "date": "2026-11-02T11:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De belangrijkste AI-vaardigheid? Zelfstandig blijven denken",
+   "link": "https://businessam.be/de-belangrijkste-ai-vaardigheid-zelfstandig-blijven-denken/",
+   "description": "Generatieve AI is in korte tijd een alledaags hulpmiddel geworden. Leerlingen gebruiken chatbots voor onderzoek en schrijfopdrachten, werknemers laten teksten samenvatten en organisaties automatiseren er taken mee. We hoeven ons niet langer af te vragen óf mensen AI gaan gebruiken. De relevante vraag is of zij zelf aan het roer blijven. Bij AI-geletterdheid denken we […]",
+   "date": "2026-11-02T09:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI laat ChatGPT-gebruik vanaf december meetellen voor Codex-limiet",
+   "link": "https://tweakers.net/nieuws/254024/openai-laat-chatgpt-gebruik-vanaf-december-meetellen-voor-codex-limiet.html",
+   "description": "OpenAI telt ChatGPT-gebruik vanaf december mee voor de gebruikslimieten van zijn programmeerhulp Codex. Daarnaast stelt het grenzen aan het aantal betaalde ChatGPT-accounts per apparaat en per betaalkaart. Gebruikers kunnen extra tegoed kopen voor bestaande accounts.",
+   "date": "2026-11-02T08:39:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Online shoppen met AI-agents: waarom Walmart ze omarmt en Amazon ze blokkeert",
+   "link": "https://trends.knack.be/ai-en-tech/online-shoppen-met-ai-agents-waarom-walmart-agents-verwelkomt-en-amazon-ze-blokkeert/",
+   "description": "AI-agents die boodschappen doen in opdracht van consumenten: het is een populaire taak van nieuwe persoonlijke AI-agents zoals OpenAI Dots en Muse van Meta. Die laatste bouwt er zelfs een verdienmodel rond. Nochtans zijn de meningen onder ’s werelds grootste e-commercegiganten verdeeld: Amazon blokkeert AI-agents, terwijl Walmart ze met open armen ontvangt.\nThe post Online shoppen met AI-agents: waarom Walmart ze omarmt en Amazon ze blokkeert appeared first on Trends.be.",
+   "date": "2026-11-02T08:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Doemdenkbeelden domineren niet zomaar AI-debat",
+   "link": "https://apache.be/2026/11/02/doemdenkbeelden-domineren-niet-zomaar-ai-debat",
+   "description": "Door te focussen op hypothetische risico’s van AI verliezen we de werkelijke schade uit het oog.",
+   "date": "2026-11-02T06:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zuid-Koreaanse president Lee wil recordbedrag van 14,3 miljard euro investeren in AI",
+   "link": "https://www.gva.be/buitenland/zuid-koreaanse-president-lee-wil-recordbedrag-van-143-miljard-euro-investeren-in-ai/163941531.html",
+   "description": "De Zuid-Koreaanse president Lee Jae Myung heeft vandaag in het parlement beloofd om stevig te investeren in artificiële intelligentie. Hij wil daarmee het groeipotentieel van de economie opkrikken. Lee vroeg de parlementsleden om hun goedkeuring voor de begroting van volgend jaar, die de overheidsuitgaven met een recordstijging van 12,8 procent optrekt tot 820,9 biljoen won (549 miljard euro).",
+   "date": "2026-11-02T04:39:17",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Lezersreacties: Moeten basisscholen AI verbieden?",
    "link": "https://www.trouw.nl/opinie/lezersreacties-moeten-basisscholen-ai-verbieden~b0dd801e/",
