@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T21:04:51",
+ "generated": "2026-11-02T21:37:40",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -315,6 +315,39 @@
   }
  ],
  "articles": [
+  {
+   "title": "VK en Duitsland gaan tegen 2027 militaire AI inzetten",
+   "link": "https://businessam.be/vk-en-duitsland-gaan-tegen-2027-militaire-ai-inzetten/",
+   "description": "Key takeaways Het Verenigd Koninkrijk en Duitsland gaan samenwerken aan de ontwikkeling en implementatie van artificiële intelligentie voor hun respectieve strijdkrachten tegen 2027. Experimenteren De Britse minister van Defensie Wes Streeting heeft aangekondigd dat de twee landen van plan zijn gezamenlijk te experimenteren met en gebruik te maken van AI-technologieën om een strategisch voordeel te […]",
+   "date": "2026-11-02T21:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "New York Times klaagt Brave aan voor AI-scraping en het omzeilen van betaalmuren",
+   "link": "https://tweakers.net/nieuws/254058/new-york-times-klaagt-brave-aan-voor-ai-scraping-en-het-omzeilen-van-betaalmuren.html",
+   "description": "The New York Times en verschillende andere kranten hebben Brave aangeklaagd. Ze claimen dat de webbrowser hun betaalmuren omzeilt en 'miljoenen' van hun artikelen onrechtmatig scrapet en doorverkoopt aan AI-bedrijven.",
+   "date": "2026-11-02T21:32:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic boekt in derde kwartaal bijna 17 miljard dollar omzet, twaalf keer zoveel als jaar eerder",
+   "link": "https://businessam.be/anthropic-plant-historische-beursgang-nu-de-kwartaalomzet-17-miljard-bereikt/",
+   "description": "Key takeaways Anthropic, het bedrijf achter de AI-chatbot Claude, zag zijn kwartaalomzet in het derde kwartaal stijgen tot bijna 17 miljard dollar (15,1 miljard euro). Dat is twaalf keer zoveel als in dezelfde periode een jaar eerder. De omzet overtrof bovendien de 16,3 miljard dollar (14,5 miljard euro) die het bedrijf in de eerste zes […]",
+   "date": "2026-11-02T21:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI-CEO Altman: artificiële intelligentie steekt topwetenschappers voorbij",
    "link": "https://businessam.be/openai-ceo-altman-artificiele-intelligentie-steekt-topwetenschappers-voorbij/",
