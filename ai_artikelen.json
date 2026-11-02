@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T17:59:34",
+ "generated": "2026-11-02T03:08:10",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 166,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,86 @@
   }
  ],
  "articles": [
+  {
+   "title": "Lezersreacties: Moeten basisscholen AI verbieden?",
+   "link": "https://www.trouw.nl/opinie/lezersreacties-moeten-basisscholen-ai-verbieden~b0dd801e/",
+   "description": "",
+   "date": "2026-11-01T22:00:25",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De AI-bedrijven veroorzaken enorme schade. Laat ze daar zelf ook voor opdraaien",
+   "link": "https://www.trouw.nl/opinie/de-ai-bedrijven-veroorzaken-enorme-schade-laat-ze-daar-zelf-ook-voor-opdraaien~b0c21fdf/",
+   "description": "",
+   "date": "2026-11-01T22:00:24",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Door de inzet van AI begint het aanvragen van wetenschapsbeurzen op een loterij te lijken",
+   "link": "https://www.trouw.nl/onderwijs/door-de-inzet-van-ai-begint-het-aanvragen-van-wetenschapsbeurzen-op-een-loterij-te-lijken~b40a8de5/",
+   "description": "",
+   "date": "2026-11-01T22:00:23",
+   "feeds": [
+    "Trouw - Voorpagina",
+    "Trouw - Wetenschap"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ignore AI and ask for that pay rise",
+   "link": "https://www.nrc.nl/nieuws/2026/11/01/ignore-ai-and-ask-for-that-pay-rise-a4940147",
+   "description": "Fear of a technological revolution may be suppressing wages.",
+   "date": "2026-11-01T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bezorgdheid over AI-uitgaven kost Nasdaq mogelijk 2 biljoen dollar in oktober",
+   "link": "https://businessam.be/bezorgdheid-over-ai-uitgaven-kost-nasdaq-mogelijk-2-biljoen-dollar-in-oktober/",
+   "description": "Key takeaways De toenemende bezorgdheid over de winstgevendheid van artificiële intelligentie (AI) dreigt in oktober van dit jaar meer dan 2 biljoen dollar (1,8 biljoen euro) aan marktkapitalisatie van de Nasdaq 100 te doen verdwijnen. Dit potentiële verlies volgt op een daling van de index met 5,8 procent. Beleggers zijn steeds sceptischer over de vraag […]",
+   "date": "2026-11-01T21:46:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse leger wil AI (of Superintelligentie) versneld inzetten omdat toekomstige oorlogsvoering te complex wordt voor mensen",
+   "link": "https://businessam.be/amerikaanse-leger-wil-ai-of-superintelligentie-versneld-inzetten-omdat-toekomstige-oorlogsvoering-te-complex-wordt-voor-mensen/",
+   "description": "Key takeaways Generaal Dan Caine, voorzitter van de Joint Chiefs of Staff, heeft de integratie van geavanceerde computertechnologie aangemerkt als een primaire strategische doelstelling voor het Amerikaanse leger. Tijdens een recente bijeenkomst van het U.S. Transportation Command en de National Defense Transportation Association in Texas noemde Caine deze technologie zijn op één na belangrijkste prioriteit, […]",
+   "date": "2026-11-01T21:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-CEO Huang ziet Kazachstan als het AI-knooppunt van Europa",
+   "link": "https://businessam.be/nvidia-ceo-huang-ziet-kazachstan-als-het-ai-knooppunt-van-europa/",
+   "description": "Key takeaways Jensen Huang, de oprichter en CEO van Nvidia, bracht onlangs zijn eerste bezoek aan Kazachstan, waar hij aangaf dat het land goed gepositioneerd is om een belangrijk centrum voor artificiële intelligentie voor het Europese continent te worden. Tijdens een toespraak in het Alem.ai International center for artificial intelligence in Astana benadrukte Huang dat […]",
+   "date": "2026-11-01T20:13:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-02",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Met plankenkoorts bibbert de AI-sector de novembermaand in",
    "link": "https://www.nrc.nl/nieuws/2026/11/01/met-plankenkoorts-bibbert-de-ai-sector-de-novembermaand-in-a4940171",
