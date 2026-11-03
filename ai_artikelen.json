@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T21:37:40",
+ "generated": "2026-11-03T04:50:39",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 179,
+   "count": 176,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,39 @@
   }
  ],
  "articles": [
+  {
+   "title": "Apple waarschuwt: Siri AI en geheugenchips zijn margevretertjes",
+   "link": "https://www.tijd.be/r/t/1/id/10698268",
+   "description": "De techreus Apple heeft de verkoop in het vierde kwartaal van zijn gebroken boekjaar met 12 procent zien stijgen. De vouwtelefoon iPhone Duo moet de verkopen een zetje geven in het kerstkwartaal, maar de hoge kosten van geheugenchips én van Siri AI wegen op de margeprognose.",
+   "date": "2026-11-03T02:46:04",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Chinese AI liegt en bedriegt: “China is AI-agents in een razende vaart beginnen te reguleren”",
+   "link": "https://www.standaard.be/buitenland/ook-chinese-ai-liegt-en-bedriegt-china-is-ai-agents-in-een-razende-vaart-beginnen-te-reguleren/163968221.html",
+   "description": "Ook Chinese AI-modellen vertonen steeds vaker onbedoeld en potentieel gevaarlijk gedrag. Ze proberen uit hun testomgeving te ontsnappen, zoeken extra rekenkracht of vertonen andere vormen van ongewenst gedrag. “Er zijn in de Chinese AI-sector nog geen grootschalige hackingincidenten geweest”, zegt AI-veiligheidsexpert Brian Tse. “Maar de waarschuwingssignalen zijn er wel degelijk.”",
+   "date": "2026-11-02T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic heeft uitgavenbeloftes ter waarde van 895 miljard dollar lopen",
+   "link": "https://www.tijd.be/r/t/1/id/10698261",
+   "description": "De AI-reus Anthropic heeft de komende jaren voor 895 miljard dollar aan investeringsbeloftes gedaan. Dat blijkt uit de publicatie van de resultaten over het derde kwartaal en voorafgaand aan de nakende beursgang.",
+   "date": "2026-11-02T21:51:36",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
   {
    "title": "VK en Duitsland gaan tegen 2027 militaire AI inzetten",
    "link": "https://businessam.be/vk-en-duitsland-gaan-tegen-2027-militaire-ai-inzetten/",
