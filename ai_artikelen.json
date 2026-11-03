@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T04:50:39",
+ "generated": "2026-11-03T19:13:55",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 176,
+   "count": 162,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 25,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 90,
    "error": null
   },
   {
@@ -316,6 +316,204 @@
  ],
  "articles": [
   {
+   "title": "Europese beurzen sluiten lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-lager-17/",
+   "description": "(ABM FN-Dow Jones) De Europese aandelenmarkten waren dinsdag lager gesloten, waarbij een herstel van de AI-gerelateerde aandelen vooralsnog uitbleef en het wachten is op de uitslag van de Amerikaanse verkiezingen.Hoe de verkiezingsuitslag de markt raakt, is volgens Commerzbank lastig te voorspellen. De bank stelde dat een Democratische meerderheid in het Congres per saldo gunstig zou kunnen …\nThe post Europese beurzen sluiten lager appeared first on Trends.be.",
+   "date": "2026-11-03T18:47:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Hackers kwamen binnen via nepsollicitatiegesprek’, zegt Binance na grootste cryptoroof ooit",
+   "link": "https://www.ad.nl/economie/hackers-kwamen-binnen-via-nepsollicitatiegesprek-zegt-binance-na-grootste-cryptoroof-ooit~ab5680a2/",
+   "description": "Hackers kregen via een nepsollicitatiegesprek controle over een computer om uiteindelijk miljarden dollars aan cryptomunten te stelen, meldt Binance. De hackers maakten daarna gebruik van een interne AI-tool om toegang te krijgen tot cryptoportemonnees. Het gaat om de grootste cryptoroof ooit.",
+   "date": "2026-11-03T18:01:44",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Samsung Foundry gaat HBM-dies maken voor AMD en Nvidia in tweede fabriek Texas'",
+   "link": "https://tweakers.net/nieuws/254106/samsung-foundry-gaat-hbm-dies-maken-voor-amd-en-nvidia-in-tweede-fabriek-texas.html",
+   "description": "Samsung Foundry gaat in zijn tweede fabriek in Texas naar verluidt basedies voor High Bandwidth Memory (HBM) maken voor AMD en Nvidia. Daardoor is de fabriek nu al volgeboekt, meldt het Zuid-Koreaanse Maeil Business Newspaper. Samsung zou deze maand beginnen de fabriek te bouwen. De massaproductie moet in 2030 beginnen.",
+   "date": "2026-11-03T17:28:13",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mozilla: AI kan alle in Firefox aanwezige beveiligingslekken vinden",
+   "link": "https://www.security.nl/posting/960263/Mozilla%3A+AI+kan+alle+in+Firefox+aanwezige+beveiligingslekken+vinden?channel=rss",
+   "description": "Mozilla heeft door gebruik te maken van AI dit jaar al zeven keer meer beveiligingsupdates voor Firefox uitgebracht dan ...",
+   "date": "2026-11-03T17:13:51",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Hackers kwamen binnen via nepsollicitatiegesprek”, zegt Binance na grootste cryptoroof ooit",
+   "link": "https://www.hln.be/buitenland/hackers-kwamen-binnen-via-nepsollicitatiegesprek-zegt-binance-na-grootste-cryptoroof-ooit~ad626719/",
+   "description": "Hackers kregen via een nepsollicitatiegesprek controle over een computer om uiteindelijk miljarden dollars aan cryptomunten te stelen, meldt Binance. De hackers maakten daarna gebruik van een interne AI-tool om toegang te krijgen tot cryptoportemonnees. Het gaat om de grootste cryptoroof ooit.",
+   "date": "2026-11-03T16:51:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video: beleggers in chippers moeten geduld hebben",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/video-beleggers-in-chippers-moeten-geduld-hebben/",
+   "description": "(ABM FN-Dow Jones) Beleggers in halfgeleideraandelen moeten nog even geduld hebben. Dat is het advies van  technisch analist Nico Bakker namens BNP Paribas.Klik hier voor: beleggers in chippers moeten geduld hebbenDe correctie in de SOXX index, die de prestaties volgt van 30 toonaangevende bedrijven in de halfgeleidersector in de VS,  is nog gaande. Beleggers die nieuwe posities …\nThe post Video: beleggers in chippers moeten geduld hebben appeared first on Trends.be.",
+   "date": "2026-11-03T16:31:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia legt datacenters beperkingen op: alleen minderheid van de klanten mag nog Chinees zijn",
+   "link": "https://www.standaard.be/economie/nvidia-legt-datacenters-beperkingen-op-alleen-minderheid-van-de-klanten-mag-nog-chinees-zijn/164001897.html",
+   "description": "Nvidia wil dat voortaan minstens 51 procent van de klanten van de datacenters die op chips van Nvidia draaien, niet-Chinese bedrijven zijn. Dat schrijft ‘Financial Times’.",
+   "date": "2026-11-03T15:35:05",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europees Hof: AI-bot Google schendt mogelijk rechten en belangen nieuwsmedia",
+   "link": "https://www.nrc.nl/nieuws/2026/11/03/europees-hof-ai-bot-google-schendt-mogelijk-rechten-en-belangen-nieuwsmedia-a4940410",
+   "description": "Maken AI-bots zoals Googles Gemini inbreuk op het auteursrecht van nieuwsmedia, door gepubliceerde artikelen samen te vatten in de eigen omgeving?",
+   "date": "2026-11-03T15:07:53",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple steekt Nvidia weer voorbij als duurste bedrijf ter wereld, maar ziet kosten van AI oplopen",
+   "link": "https://www.standaard.be/economie/apple-steekt-nvidia-weer-voorbij-als-duurste-bedrijf-ter-wereld-maar-ziet-kosten-van-ai-oplopen/164003304.html",
+   "description": "Apple maakte sterke kwartaalcijfers bekend, maar moet de winstprognoses wel licht verlagen door onder andere dure geheugenchips.",
+   "date": "2026-11-03T14:12:31",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'SUSE ontslaat 10 procent van zijn personeel vanwege AI'",
+   "link": "https://tweakers.net/nieuws/254086/suse-ontslaat-10-procent-van-zijn-personeel-vanwege-ai.html",
+   "description": "SUSE is van plan om tien procent van zijn personeel te ontslaan. Dat meldt het bedrijf in een intern memo, dat is ingezien door The Register. Het bedrijf doet dat vanwege 'automatisering en AI', aldus dat nieuwsmedium.",
+   "date": "2026-11-03T14:06:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia stelt beperkingen aan het aantal Chinese klanten van datacenters met zijn chips",
+   "link": "https://www.demorgen.be/nieuws/nvidia-stelt-beperkingen-aan-het-aantal-chinese-klanten-van-datacenters-met-zijn-chips~bbd79950/",
+   "description": "",
+   "date": "2026-11-03T13:38:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Rusland verplicht particuliere datacenters om een deel van hun capaciteit beschikbaar te houden voor de overheid",
+   "link": "https://businessam.be/rusland-verplicht-particuliere-datacenters-om-een-deel-van-hun-capaciteit-beschikbaar-te-houden-voor-de-overheid/",
+   "description": "Key takeaways President Vladimir Poetin heeft een verordening uitgevaardigd die particuliere datacenters in Rusland verplicht om 10 procent van hun totale capaciteit toe te wijzen aan informatiediensten die door de staat worden beheerd. Zoals Astra op 2 november meldde, is de richtlijn gepubliceerd op het officiële juridische portaal van het land. Bedrijven krijgen tien dagen […]",
+   "date": "2026-11-03T13:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitse bondskanselier Merz noemt digitale soevereiniteit cruciaal voor de toekomst van Duitsland en Europa",
+   "link": "https://businessam.be/duitse-bondskanselier-merz-noemt-digitale-soevereiniteit-cruciaal-voor-de-toekomst-van-duitsland-en-europa/",
+   "description": "Key takeaways De Duitse bondskanselier Friedrich Merz heeft gewaarschuwd dat Europa en Duitsland de ontwikkeling van eigen artificiële intelligentie moeten versnellen om een te grote afhankelijkheid van buitenlandse technologie te voorkomen. Dat meldt Reuters. Tijdens een AI-top in Berlijn omschreef Merz digitale autonomie als een kwestie van overleven, waarbij hij stelde dat het land moet […]",
+   "date": "2026-11-03T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen noteren lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-noteren-lager-2/",
+   "description": "(ABM FN-Dow Jones) De Europese aandelenbeurzen stonden dinsdag lager, met opnieuw verliezen voor de chipaandelen, nadat Wall Street maandagavond AI-gerelateerde aandelen in de uitverkoop gooide.De brede STOXX Europe 600 daalde met 0,3 procent tot 647,22 punten. De Duitse DAX index daalde met 0,6 procent tot 25.827 punten. De Franse CAC 40 verloor een kwart procent op …\nThe post Europese beurzen noteren lager appeared first on Trends.be.",
+   "date": "2026-11-03T12:41:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Palantir ziet winst bijna verdubbelen door sterke vraag naar AI-software",
+   "link": "https://businessam.be/palantir-ziet-winst-bijna-verdubbelen-door-sterke-vraag-naar-ai-software/",
+   "description": "Key takeaways Aangedreven door een explosieve stijging van de vraag naar zijn AI-oplossingen heeft Palantir Technologies zijn financiële prognoses voor dit boekjaar naar boven bijgesteld. Het bedrijf noteerde een enorme winststijging van 96 procent in het derde kwartaal, tot 2,31 miljard dollar (2,06 miljard euro), bijna een verdubbeling ten opzichte van de 1,18 miljard dollar […]",
+   "date": "2026-11-03T11:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Betalende Grok-klanten krijgen plots lagere limieten, ook bij 200 dollar",
+   "link": "https://tweakers.net/nieuws/254062/betalende-grok-klanten-krijgen-plots-lagere-limieten-ook-bij-200-dollar.html",
+   "description": "Elon Musks bedrijf xAI heeft dit weekend onaangekondigd de gebruikslimieten van Grok Bot verlaagd voor betalende klanten. Volgens Musk waren de kosten voor het gebruik te hoog in vergelijking met de omzet.",
+   "date": "2026-11-03T09:54:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Proximus NXT ziet toekomst in edge datacenters: ‘Antwoord op energievraagstuk en soevereiniteit’",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/proximus-nxt-ziet-toekomst-in-edge-datacenters-antwoord-op-energievraagstuk-en-soevereiniteit/",
+   "description": "Geopolitieke druk, een energiecrisis rond grote datacenters en AI die niet opschaalt: Fabrice De Windt, hoofd van Proximus NXT, ziet wel wat uitdagingen die de strategie van de enterprise-tak van Proximus vormgeven. \"De combo telco met IT in één organisatie moet opnieuw het verschil maken\", klinkt het.\nThe post Proximus NXT ziet toekomst in edge datacenters: ‘Antwoord op energievraagstuk en soevereiniteit’ appeared first on Trends.be.",
+   "date": "2026-11-03T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple wil AI alleen integreren wanneer de technologie concrete meerwaarde biedt voor gebruikers",
+   "link": "https://businessam.be/apple-wil-ai-alleen-integreren-wanneer-de-technologie-concrete-meerwaarde-biedt-voor-gebruikers/",
+   "description": "Key takeaways John Ternus, die in september 2026 de functie van CEO van Apple op zich nam, heeft onlangs het strategische standpunt van het bedrijf over artificiële intelligentie toegelicht. Tijdens een gesprek met Steven Levy van Wired weerlegde Ternus de bewering dat Apple achterloopt op zijn concurrenten. Hij legde uit dat het bedrijf AI niet […]",
+   "date": "2026-11-03T07:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Apple waarschuwt: Siri AI en geheugenchips zijn margevretertjes",
    "link": "https://www.tijd.be/r/t/1/id/10698268",
    "description": "De techreus Apple heeft de verkoop in het vierde kwartaal van zijn gebroken boekjaar met 12 procent zien stijgen. De vouwtelefoon iPhone Duo moet de verkopen een zetje geven in het kerstkwartaal, maar de hoge kosten van geheugenchips én van Siri AI wegen op de margeprognose.",
@@ -330,6 +528,17 @@
    "title": "Ook Chinese AI liegt en bedriegt: “China is AI-agents in een razende vaart beginnen te reguleren”",
    "link": "https://www.standaard.be/buitenland/ook-chinese-ai-liegt-en-bedriegt-china-is-ai-agents-in-een-razende-vaart-beginnen-te-reguleren/163968221.html",
    "description": "Ook Chinese AI-modellen vertonen steeds vaker onbedoeld en potentieel gevaarlijk gedrag. Ze proberen uit hun testomgeving te ontsnappen, zoeken extra rekenkracht of vertonen andere vormen van ongewenst gedrag. “Er zijn in de Chinese AI-sector nog geen grootschalige hackingincidenten geweest”, zegt AI-veiligheidsexpert Brian Tse. “Maar de waarschuwingssignalen zijn er wel degelijk.”",
+   "date": "2026-11-02T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook Chinese AI liegt en bedriegt: “Een AI-agent van Alibaba probeerde spontaan cryptomunten te minen”",
+   "link": "https://www.standaard.be/buitenland/ook-chinese-ai-liegt-en-bedriegt-een-ai-agent-van-alibaba-probeerde-spontaan-cryptomunten-te-minen/163968221.html",
+   "description": "Ook Chinese AI-modellen vertonen steeds vaker onbedoeld en potentieel gevaarlijk gedrag. Ze proberen uit hun testomgeving te ontsnappen, zoeken extra rekenkracht of vertonen andere vormen van ongewenst gedrag. “Peking is AI-agents in een razende vaart beginnen te reguleren”, zegt veiligheidsexpert Brian Tse.",
    "date": "2026-11-02T23:59:00",
    "feeds": [
     "De Standaard - Buitenland"
