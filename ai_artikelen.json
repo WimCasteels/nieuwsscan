@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T19:13:55",
+ "generated": "2026-11-04T03:55:22",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 168,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 25,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 84,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "Is dit nu dat droomscenario, een AI die ons verrijkt, als de prijs daarvoor onze controle over en ons begrip van de wereld is?",
+   "link": "https://www.demorgen.be/meningen/is-dit-nu-dat-droomscenario-een-ai-die-ons-verrijkt-als-de-prijs-daarvoor-onze-controle-over-en-ons-begrip-van-de-wereld-is~bc8565fc/",
+   "description": "",
+   "date": "2026-11-04T03:00:30",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Smells like gen Z spirit’: waarom de tijd rijp is voor een grunge-revival",
+   "link": "https://www.standaard.be/media-en-cultuur/smells-like-gen-z-spirit-waarom-de-tijd-rijp-is-voor-een-grunge-revival/163985069.html",
+   "description": "Over het kanaal laten rockbands zich weer inspireren door grunge. Het modderige gitaargeluid antwoordt op de behoefte aan iets rauws in tijden van gladde algoritmes en sombere toekomstvoorspellingen. “Door naar Nirvana te luisteren, voel ik dat ik leef.”",
+   "date": "2026-11-03T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een heksenjacht op AI-teksten? Heksen bestaan niet, AI-teksten wel",
+   "link": "https://www.standaard.be/opinies/een-heksenjacht-op-ai-teksten-heksen-bestaan-niet-ai-teksten-wel/164038269.html",
+   "description": "De enige dam tegen de vloedgolf aan AI-teksten zou het onderwijs kunnen zijn, schrijft Jeff Spiessens. Helaas heeft het die taak al opgegeven.",
+   "date": "2026-11-03T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Knalcijfers van AI-chipmaker AMD counteren AI-stress",
+   "link": "https://www.tijd.be/r/t/1/id/10698430",
+   "description": "De AI-chipmaker AMD boekte een nog sterker dan verwachte omzetgroei en ziet ook nog geen einde komen aan de investeringsboom in AI-infrastructuur. Die boodschap was welkom na een scherpe correctie bij de chipaandelen op de beurs.",
+   "date": "2026-11-03T23:12:43",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street vist chipaandelen op, margedruk nekt Apple",
+   "link": "https://www.tijd.be/r/t/1/id/10698427",
+   "description": "De beleggers op Wall Street grepen Election Day aan om de afgestrafte chipaandelen weer in het koopmandje te leggen. De iPhone-maker Apple noteerde met verlies nadat hij in zijn kwartaalrapport heeft gewaarschuwd voor tanende winstmarges. Die zijn een gevolg van de oplopende kosten voor AI-toepassingen.",
+   "date": "2026-11-03T22:28:13",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD boekt recordomzet door datacenters",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/amd-boekt-recordomzet-door-datacenters/",
+   "description": "(ABM FN-Dow Jones) Chipmaker AMD heeft in het derde kwartaal meer omzet geboekt dan ooit tevoren. De groei komt vooral door de grote vraag naar AI-chips voor datacenters. Het bedrijf denkt dat de groei in het vierde kwartaal nog harder gaat. Dit maakte het bedrijf dinsdag nabeurs bekend.De omzet kwam uit op 13,4 miljard dollar, 45 …\nThe post AMD boekt recordomzet door datacenters appeared first on Trends.be.",
+   "date": "2026-11-03T22:26:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Saab test met succes artificiële intelligentie die Gripen E-gevechtsvliegtuig zelfstandig kan besturen",
+   "link": "https://businessam.be/saab-test-met-succes-artificiele-intelligentie-die-gripen-e-gevechtsvliegtuig-zelfstandig-kan-besturen/",
+   "description": "Key takeaways Saab heeft met succes vliegproeven uitgevoerd waarbij gebruik is gemaakt van zijn eigen artificiële intelligentie om een Gripen E-gevechtsvliegtuig autonoom aan te sturen tijdens gevechtsacties op lange afstand. Menselijke piloten ondersteunen Deze proeven tonen software die is ontworpen om menselijke piloten te ondersteunen of zelfstandig te opereren binnen onbemande luchtvaartuigen. Door de AI-agenten, […]",
+   "date": "2026-11-03T21:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Europese beurzen sluiten lager",
    "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-lager-17/",
@@ -379,6 +456,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-11-03",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wij zijn de koeien van de toekomst",
+   "link": "https://www.nrc.nl/nieuws/2026/11/03/wij-zijn-de-koeien-van-de-toekomst-a4940385",
+   "description": "AI zal zo’n geavanceerd bestuurlijk systeem creëren dat wij mensen het niet langer zullen begrijpen. Maar onze levens zullen er wel door gecontroleerd worden.",
+   "date": "2026-11-03T15:38:49",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-04",
    "intro_geprobeerd": false
   },
   {
