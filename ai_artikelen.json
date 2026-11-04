@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T03:55:22",
+ "generated": "2026-11-04T19:26:53",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 168,
+   "count": 167,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 84,
+   "count": 93,
    "error": null
   },
   {
@@ -316,11 +316,321 @@
  ],
  "articles": [
   {
+   "title": "Is je laptop aan vervanging toe? Zo tik je, zelfs in tijden van stijgende prijzen, een voordelig vervangexemplaar op de kop",
+   "link": "https://www.hln.be/tech/is-je-laptop-aan-vervanging-toe-zo-tik-je-zelfs-in-tijden-van-stijgende-prijzen-een-voordelig-vervangexemplaar-op-de-kop~aed3cd64/",
+   "description": "Laptops worden de laatste maanden fors duurder. De reden daarvoor? Een globale schaarste aan chips voor werkgeheugen en opslag. Die worden immers massaal opgekocht voor de bouw van datacenters voor AI. Ben jij toch toe aan een nieuwe laptop en wil je je bankrekening niet plunderen? Overweeg een refurbished exemplaar. HLN Shop gooit de voor- en nadelen van zo’n toestel in de schaal.",
+   "date": "2026-11-04T19:10:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beurzen kleuren groen na Democratische ‘blue wave’, op aandelen van datacenterbedrijven na",
+   "link": "https://www.standaard.be/economie/beurzen-kleuren-groen-na-democratische-blue-wave-op-aandelen-van-datacenterbedrijven-na/164072536.html",
+   "description": "Na de Amerikaanse midterms leken de beurzen aanvankelijk in het rood te gaan, maar de oproep tot samenwerking van Donald Trump deed het sentiment keren.",
+   "date": "2026-11-04T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - KeePass Password Safe 2.62",
+   "link": "https://tweakers.net/downloads/78912/keepass-password-safe-262.html",
+   "description": "Dominik Reichl heeft versie 2.62 van KeePass Password Safe uitgebracht. Met deze opensource wachtwoordmanager kunnen accounts worden opgeslagen, inclusief de bijbehorende gegevens, zoals gebruikersnaam, wachtwoord en URL. Alle gegevens worden veilig in een met het Rijndael-algoritme versleutelde database opgeslagen. Verder kan het programma automatisch wachtwoorden genereren en lijsten im- en exporteren. Door het toevoegen van een taalbestand kan het programma ook in andere talen worden gebruikt. Van KeePass Password Safe bestaan twee verschillende uitvoeringen die beide actief worden ontwikkeld. Versie 1.x is niet afhankelijk van andere software en werkt alleen onder Windows. Versie 2 maakt intern gebruik van XML en heeft verder minimaal versie 2.0 van het .NET Framework nodig of, als het programma onder Linux, macOS of FreeBSD wordt gebruikt, van Mono versie 2.6 of hoger. Een volledig overzicht van de verschillen tussen versie 1 en 2 is op deze pagina te vinden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features:",
+   "date": "2026-11-04T18:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nexus Mods dwingt modders eerlijk over AI-gebruik te zijn, maar verbiedt AI niet",
+   "link": "https://tweakers.net/nieuws/254158/nexus-mods-dwingt-modders-eerlijk-over-ai-gebruik-te-zijn-maar-verbiedt-ai-niet.html",
+   "description": "Nexus Mods past zijn gebruikersbeleid aan door modmakers standaard te vragen of zij AI hebben gebruikt bij de ontwikkeling van een mod. Het gebruik van AI om bijvoorbeeld code of beelden te genereren is niet verboden, maar het verzwijgen hiervan wel.",
+   "date": "2026-11-04T18:08:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donderdagmiddag marktenchat over de midterms, AI-stress en de Bel20 op record",
+   "link": "https://www.tijd.be/r/t/1/id/10698587",
+   "description": "Naar goede gewoonte chatten we op donderdagmiddag, van 12 tot 13 uur, over de markten en de economie. Heeft u vragen over uw beleggingen? Stuur ze alvast in.",
+   "date": "2026-11-04T17:33:03",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google belooft 15 miljard dollar voor AI-infrastructuur in Maleisië",
+   "link": "https://businessam.be/google-belooft-15-miljard-dollar-voor-ai-infrastructuur-in-maleisie/",
+   "description": "Key takeaways Google heeft een omvangrijk financieringsinitiatief van 15 miljard dollar (13,4 miljard euro) voor Maleisië geïntroduceerd, dat loopt van 2027 tot 2028. De aanzienlijke kapitaalinjectie is bedoeld voor de bouw van datacenters en ondersteunende infrastructuur om gelijke tred te houden met de sterk toenemende behoefte aan AI-capaciteiten. De nieuwste toezegging volgt op een eerdere […]",
+   "date": "2026-11-04T17:00:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Valve wil stortvloed aan AI-games indammen met strengere Steam-keuring",
+   "link": "https://tweakers.net/nieuws/254136/valve-wil-stortvloed-aan-ai-games-indammen-met-strengere-steam-keuring.html",
+   "description": "Valve gaat het beoordelingsproces voor onuitgebrachte games aanscherpen op Steam.  Ontwikkelaars moeten voortaan zelf de integratie van Steam-functies testen voordat ze hun game indienen voor een technische controle door Valve. Het gamebedrijf wil hiermee een achterstand wegwerken die is ontstaan door een stortvloed aan AI-gegenereerde games.",
+   "date": "2026-11-04T16:40:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI doopt de gehate ‘datacenters’ om tot ‘compute campuses’ in de hoop op een positiever imago",
+   "link": "https://www.standaard.be/economie/openai-doopt-de-gehate-datacenters-om-tot-compute-campuses-in-de-hoop-op-een-positiever-imago/164061137.html",
+   "description": "In de VS lijken kiezers hun afkeer van datacenters te hebben uitgesproken. OpenAI hoopt dat het publiek positiever zal staan tegenover ‘compute campuses’. Het is een eerste indicatie van de nieuwe toon die technologiebedrijven aanslaan, nu de politieke wind van richting verandert.",
+   "date": "2026-11-04T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI herdoopt ‘datacenter’ tot ‘compute campus’",
+   "link": "https://www.standaard.be/economie/openai-herdoopt-datacenter-tot-compute-campus/164061137.html",
+   "description": "In de VS lijken kiezers hun afkeer van datacenters te hebben uitgesproken. OpenAI hoopt dat het publiek positiever zal staan tegenover ‘compute campuses’. Het is een eerste indicatie van de nieuwe toon die technologiebedrijven aanslaan, nu de politieke wind van richting verandert.",
+   "date": "2026-11-04T16:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - OpenLogi 0.9.0",
+   "link": "https://tweakers.net/downloads/78910/openlogi-090.html",
+   "description": "OpenLogi is een open source alternatief voor Logitech Options+ en kan worden gebruikt om randapparatuur van Logitech te beheren. Het is met de nodige hulp van AI geschreven in Rust en beschikbaar voor Windows, Linux en macOS. Het draait volledig lokaal, heeft geen account nodig en stuurt geen telemetrie op. De software is nog volop in ontwikkeling en is in dat opzicht nog niet helemaal af, maar wel goed bruikbaar. Versie 0.9.0 is uitgekomen en de changelog daarvan kan hieronder worden gevonden.",
+   "date": "2026-11-04T16:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse en Europese beurzen kleuren groen, AI-aandelen feesten niet mee",
+   "link": "https://www.tijd.be/r/t/1/id/10698458",
+   "description": "De Amerikaanse en Europese beurzen veren op, nadat de Democraten de meerderheid hebben veroverd in beide kamers van het Amerikaanse Congres. Sectoren als banken, hernieuwbare energie en goud doen het goed, maar beleggers dumpen oliemaatschappijen, defensiebedrijven en de AI-sector.",
+   "date": "2026-11-04T15:59:26",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CEO van mijn leven | Peru Dharani, Senior Vice President Innovation Barco: ‘Ik ben nog altijd dezelfde jongen uit dat kleine dorp in India’",
+   "link": "https://trends.knack.be/ondernemen/peru-dharani-senior-vice-president-innovation-barco-ik-ben-nog-altijd-dezelfde-jongen-uit-dat-kleine-dorp-in-india/",
+   "description": "Peru Dharani groeide op in een landbouwgemeenschap in India, promoveerde in de kwantumfysica en werkte voor technologiebedrijven zoals Intel en Huawei. Vandaag leidt hij de innovatieactiviteiten van de technologiegroep Barco. Dharani vertelt waarom we onze carrières minder lineair moeten bekijken, waarom nieuwsgierigheid belangrijk blijft in tijden van AI en hoe Europa zichzelf te weinig waardeert.\nThe post CEO van mijn leven | Peru Dharani, Senior Vice President Innovation Barco: ‘Ik ben nog altijd dezelfde jongen uit dat kleine dorp in India’ appeared first on Trends.be.",
+   "date": "2026-11-04T15:58:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD haalt ruim tien keer meer omzet uit datacenters dan gaming",
+   "link": "https://tweakers.net/nieuws/254144/amd-haalt-ruim-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html",
+   "description": "De omzet van AMD's datacentersegment is bijna verdubbeld. De chipfabrikant maakt bekend dat zijn datacenterproducten vorig kwartaal 8,57 miljard dollar hebben opgeleverd. Dat is 97 procent meer dan een jaar geleden. De omzet uit gamingproducten daalde juist met 40 procent.",
+   "date": "2026-11-04T15:02:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia wil dat datacenterpartners hun zakelijke banden met China beperken",
+   "link": "https://businessam.be/nvidia-wil-dat-datacenterpartners-hun-zakelijke-banden-met-china-beperken/",
+   "description": "Key takeaways Volgens een bericht van de Financial Times geeft Nvidia zijn datacenterpartners de opdracht om hun zakelijke banden met Chinese klanten te beperken. Bronnen die bekend zijn met de situatie melden dat aanbieders van cloudcomputingdiensten die Nvidia-hardware gebruiken, ervoor moeten zorgen dat minstens 51 procent van hun activiteiten buiten China plaatsvindt. De nieuwe richtlijnen […]",
+   "date": "2026-11-04T15:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jonge, hoogopgeleide kenniswerkers krijgen op de arbeidsmarkt last van AI. Welke banen veranderen het snelst?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/04/door-ai-hangt-er-veel-rook-op-de-arbeidsmarkt-maar-is-er-ook-vuur-a4940448",
+   "description": "Een opvallende groep raakt kwetsbaar door kunstmatige intelligentie: jonge, hoogopgeleide kenniswerkers. Misschien speelt óók thuiswerken een rol: daardoor is het lastiger jonge medewerkers op te leiden. „Wat we thuis in ons eentje achter het scherm kunnen doen, kan AI vaak ook.”",
+   "date": "2026-11-04T14:31:45",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Indieplatform Itch.io verwijdert 'terabytes aan AI-slop' en breidt AI-filter uit",
+   "link": "https://tweakers.net/nieuws/254126/indieplatform-itch-punt-io-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html",
+   "description": "Indiegameplatform Itch.io heeft 'terabytes aan AI-slop' verwijderd. Ontwikkelaars moeten voortaan ook bij bepaalde gamegenres vermelden wanneer ze AI gebruiken. Itch.io verbiedt AI-projecten niet volledig, maar wijst wel op regels over spam.",
+   "date": "2026-11-04T14:18:45",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Binance-oprichter waarschuwt dat AI cyberaanvallen op banken en cryptobeurzen zal aanwakkeren",
+   "link": "https://businessam.be/binance-oprichter-waarschuwt-dat-ai-cyberaanvallen-op-banken-en-cryptobeurzen-zal-aanwakkeren/",
+   "description": "Key takeaways Changpeng Zhao, de oprichter van Binance, heeft gewaarschuwd dat de ontwikkeling van artificiële intelligentie waarschijnlijk zal leiden tot een sterke toename van cyberaanvallen op zowel traditionele banken als platforms voor digitale activa. In een gesprek met CoinDesk op 3 november stelde Zhao dat de enige haalbare verdediging tegen door AI aangestuurde inbraken de […]",
+   "date": "2026-11-04T13:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse kiezers zetten rem op ontwikkeling datacenters en dat kan gevolgen hebben voor de groei, rente en inflatie",
+   "link": "https://www.standaard.be/economie/amerikaanse-kiezers-zetten-rem-op-ontwikkeling-datacenters-en-dat-kan-gevolgen-hebben-voor-de-groei-rente-en-inflatie/164056087.html",
+   "description": "De grote winst van Democratische kandidaten betekent dat er meer beperkingen worden opgelegd aan de uitbouw van de AI-industrie.",
+   "date": "2026-11-04T12:15:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Midterms: Democratische gouverneurs verkozen met belofte om bouw van datacenters af te remmen",
+   "link": "https://trends.knack.be/nieuws/macro-economie-beleid/midterms-democratische-gouverneurs-verkozen-met-belofte-om-bouw-van-datacenters-af-te-remmen/",
+   "description": "Verkiezingsoverwinningen voor de Democraten in Texas, Georgia en Ohio en lokale referenda tonen een groeiende weerstand tegen de door president Donald Trump gesteunde infrastructuurgolf.\nThe post Midterms: Democratische gouverneurs verkozen met belofte om bouw van datacenters af te remmen appeared first on Trends.be.",
+   "date": "2026-11-04T11:00:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Sterke vraag naar AI-chips stuwt omzet van AMD en leidt tot optimistische prognose voor vierde kwartaal",
+   "link": "https://businessam.be/amd-aandelen-schieten-omhoog-na-het-overtreffen-van-de-kwartaalomzetverwachtingen/",
+   "description": "Key takeaways Het aandeel AMD steeg met meer dan 7 procent in de handel na sluitingstijd. Het bedrijf had kwartaalresultaten en omzetprognoses bekendgemaakt die de verwachtingen van analisten overtroffen. Het bedrijf, gevestigd in Santa Clara, Californië, is een belangrijke speler in de Amerikaanse halfgeleiderindustrie en is gespecialiseerd in de ontwikkeling van geavanceerde chips voor AI-toepassingen, […]",
+   "date": "2026-11-04T10:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lezersvraag: mag ik Anthropic niet missen?",
+   "link": "https://trends.knack.be/beleggen/adviezen/lezersvraag-mag-ik-anthropic-niet-missen/",
+   "description": "De beursgang van Anthropic is een van de meest fascinerende ooit. Moet ik een positie kopen of is het beter nog af te wachten?\nThe post Lezersvraag: mag ik Anthropic niet missen? appeared first on Trends.be.",
+   "date": "2026-11-04T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistral-topman waarschuwt voor Europese afhankelijkheid van Amerikaanse en Chinese AI-modellen",
+   "link": "https://businessam.be/mistral-topman-waarschuwt-voor-europese-afhankelijkheid-van-amerikaanse-en-chinese-ai-modellen/",
+   "description": "Key takeaways Volgens Arthur Mensch, topman van AI-bedrijf Mistral, dreigt Europa in een strategische impasse te belanden als het wel inzet op industriële AI-toepassingen, maar voor de ontwikkeling van geavanceerde AI-modellen afhankelijk blijft van de Verenigde Staten en China. Dat zei hij in een interview met Politico. Tijdens de Digital Summit in Berlijn stelde Mensch […]",
+   "date": "2026-11-04T09:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nexperia klaagt eigenaar Wingtech aan en eist schadevergoeding",
+   "link": "https://tweakers.net/nieuws/254120/nexperia-klaagt-eigenaar-wingtech-aan-en-eist-schadevergoeding.html",
+   "description": "De Nijmeegse chipmaker Nexperia klaagt zijn eigen moederbedrijf Wingtech, diens eigenaar Zhang Xuezheng en de Chinese onderdelen van Nexperia aan. Nexperia eist een schadevergoeding, omdat de handelingen van Wingtech en Xuezheng 'aanzienlijke schade' hebben toegebracht aan het bedrijf.",
+   "date": "2026-11-04T09:31:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "UCB breidt AI-antilichaamplatform uit",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ucb-breidt-ai-antilichaamplatform-uit/",
+   "description": "(ABM FN) UCB gaat samenwerken met het Amsterdamse AI-bedrijf Cradle om de ontdekking en ontwikkeling van antilichaamtherapieën te versnellen. Dat maakte het Belgische biofarmaceutische bedrijf woensdag bekend. De samenwerking is de nieuwste stap in het programma van UCB om computationele technieken breder in te zetten binnen de eigen antilichaamontdekking.Cradle bouwt een AI-platform voor het ontwerpen en …\nThe post UCB breidt AI-antilichaamplatform uit appeared first on Trends.be.",
+   "date": "2026-11-04T08:34:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Google laat scholen AI-tools in onderwijssoftware uitschakelen’",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/google-laat-scholen-ai-tools-in-onderwijssoftware-uitschakelen/",
+   "description": "Google zal kunstmatige intelligentie-tools in zijn populaire software voor leerlingen in het basis- en middelbaar onderwijs in de Verenigde Staten uitschakelen, tenzij schoolbesturen er expliciet voor kiezen om deze tools beschikbaar te maken. Dat schrijft de Amerikaanse krant The New York Times op basis van een verklaring van Google.\nThe post ‘Google laat scholen AI-tools in onderwijssoftware uitschakelen’ appeared first on Trends.be.",
+   "date": "2026-11-04T08:09:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google schakelt zoekfunctie mogelijk volledig uit op scholen die geen AI willen",
+   "link": "https://tweakers.net/nieuws/254116/google-schakelt-zoekfunctie-mogelijk-volledig-uit-op-scholen-die-geen-ai-willen.html",
+   "description": "Google schakelt zijn zoekfunctie mogelijk volledig uit op scholen die de AI van het bedrijf afwijzen, meldt The New York Times. Volgens Chris Philips, vicepresident onderwijs bij Google, zijn Google Zoeken en AI 'diep met elkaar verweven' en biedt het bedrijf de functies niet los van elkaar aan.",
+   "date": "2026-11-04T07:45:57",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Carmignac ziet grootste kansen in AI-hardware: niet iedereen profiteert van AI-boom",
+   "link": "https://businessam.be/carmignac-ziet-grootste-kansen-in-ai-hardware-niet-iedereen-profiteert-van-ai-boom/",
+   "description": "Key takeaways Uit analyse van Carmignac blijkt dat de uitbouw van AI-infrastructuur weliswaar geen tekenen van vertraging vertoont, maar dat de verdeling van de winsten onzeker blijft. Recente cijfers over het derde kwartaal geven aan dat de vraag naar essentiële hardware nog steeds sterk stijgt. Zo krijgt ASML bijvoorbeeld aanvragen die reiken tot in 2030, […]",
+   "date": "2026-11-04T06:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Is dit nu dat droomscenario, een AI die ons verrijkt, als de prijs daarvoor onze controle over en ons begrip van de wereld is?",
    "link": "https://www.demorgen.be/meningen/is-dit-nu-dat-droomscenario-een-ai-die-ons-verrijkt-als-de-prijs-daarvoor-onze-controle-over-en-ons-begrip-van-de-wereld-is~bc8565fc/",
    "description": "",
    "date": "2026-11-04T03:00:30",
    "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-04",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wat als AI ons rijker maakt, maar ons de controle ontneemt? Is dat dan het droomscenario?",
+   "link": "https://www.demorgen.be/meningen/wat-als-ai-ons-rijker-maakt-maar-ons-de-controle-ontneemt-is-dat-dan-het-droomscenario~bc8565fc/",
+   "description": "",
+   "date": "2026-11-04T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
     "De Morgen - Meningen"
    ],
    "first_seen": "2026-11-04",
