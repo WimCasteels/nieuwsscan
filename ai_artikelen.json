@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T19:26:53",
+ "generated": "2026-11-05T04:12:34",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 165,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 91,
    "error": null
   },
   {
@@ -315,6 +315,61 @@
   }
  ],
  "articles": [
+  {
+   "title": "Ik wil de laatste internetvrije oma’s en opa’s beschermen als een uitstervende diersoort",
+   "link": "https://www.standaard.be/media-en-cultuur/ik-wil-de-laatste-internetvrije-omas-en-opas-beschermen-als-een-uitstervende-diersoort/163893773.html",
+   "description": "Een opa die het ene na het andere filmpje bekijkt op zijn smartphone. Het is een beeld dat Yelena Schmitz verwart, irriteert en verdrietig maakt. Waar grootouders ooit het laatste bastion van rust en onverdeelde aandacht waren, zijn ook zij gezwicht voor het algoritme.",
+   "date": "2026-11-04T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beste midterm-rally sinds 1982 doet zorgen op Wall Street verdwijnen",
+   "link": "https://www.tijd.be/r/t/1/id/10698600",
+   "description": "Wall Street veerde op na de overwinning van de Democraten bij de Amerikaanse midterms. De verwachte vertraging in de bouw van datacenters remde de techsector niet af: de markt ziet het als een voordeel voor de gevestigde hyperscalers.",
+   "date": "2026-11-04T22:28:43",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De muziekindustrie strijdt tegen AI, maar hebben muzikanten daar iets aan?",
+   "link": "https://www.trouw.nl/cultuur-media/de-muziekindustrie-strijdt-tegen-ai-maar-hebben-muzikanten-daar-iets-aan~b3cbea03/",
+   "description": "",
+   "date": "2026-11-04T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "China kan Amerikaanse vliegdekschepen steeds beter volgen dankzij artificiële intelligentie en satellieten",
+   "link": "https://businessam.be/china-kan-amerikaanse-vliegdekschepen-steeds-beter-volgen-dankzij-artificiele-intelligentie-en-satellieten/",
+   "description": "Key takeaways Recente satellietgegevens van het Chinese bedrijf MizarVision hebben de locatie van de vliegdekschipgroep van de USS Theodore Roosevelt vastgesteld terwijl deze op 4 november door de Zuid-Chinese Zee voer. USS Roosevelt en USS Chosin De commerciële onderneming maakte gebruik van artificiële intelligentie om het vliegdekschip te identificeren, samen met de raketvernietiger USS Roosevelt […]",
+   "date": "2026-11-04T20:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Design-app Canva schrapt ruim 1.200 jobs onder druk van AI",
+   "link": "https://www.tijd.be/r/t/1/id/10698597",
+   "description": "Het Australische techbedrijf Canva, dat mensen helpt makkelijk zelf grafische designs te maken, schrapt 1.271 jobs, goed voor 22 procent van het totale personeelsbestand. De reden? U raadt het al: de opmars van artificiële intelligentie.",
+   "date": "2026-11-04T20:44:35",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Is je laptop aan vervanging toe? Zo tik je, zelfs in tijden van stijgende prijzen, een voordelig vervangexemplaar op de kop",
    "link": "https://www.hln.be/tech/is-je-laptop-aan-vervanging-toe-zo-tik-je-zelfs-in-tijden-van-stijgende-prijzen-een-voordelig-vervangexemplaar-op-de-kop~aed3cd64/",
@@ -398,7 +453,8 @@
    "description": "In de VS lijken kiezers hun afkeer van datacenters te hebben uitgesproken. OpenAI hoopt dat het publiek positiever zal staan tegenover ‘compute campuses’. Het is een eerste indicatie van de nieuwe toon die technologiebedrijven aanslaan, nu de politieke wind van richting verandert.",
    "date": "2026-11-04T16:30:00",
    "feeds": [
-    "De Standaard - Cultuur"
+    "De Standaard - Cultuur",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-04",
    "intro_geprobeerd": false
@@ -502,6 +558,18 @@
    ],
    "first_seen": "2026-11-04",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI-godfather’ Geoffrey Hinton verwacht grootschalige AI-ramp op korte termijn",
+   "link": "https://www.demorgen.be/nieuws/ai-godfather-geoffrey-hinton-verwacht-grootschalige-ai-ramp-op-korte-termijn~b5ff0857/",
+   "description": "",
+   "date": "2026-11-04T12:20:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": true
   },
   {
    "title": "Amerikaanse kiezers zetten rem op ontwikkeling datacenters en dat kan gevolgen hebben voor de groei, rente en inflatie",
