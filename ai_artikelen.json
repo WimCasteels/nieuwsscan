@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T04:12:34",
+ "generated": "2026-11-05T19:14:41",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 25,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 162,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 92,
    "error": null
   },
   {
@@ -316,6 +316,303 @@
  ],
  "articles": [
   {
+   "title": "OpenAI verwacht in 2027 klaar te zijn voor beursgang en haalt meeste omzet uit zakelijke klanten",
+   "link": "https://businessam.be/openai-overweegt-mogelijke-beursgang-tegen-2027/",
+   "description": "Key takeaways OpenAI verwacht in 2027 klaar te zijn voor een beursgang. Dat verklaarde voorzitter Greg Brockman woensdag tijdens een technologieconferentie van The Wall Street Journal in Napa, Californië. Volgens Brockman is het grootste deel van de huidige inkomsten van het bedrijf afkomstig van zakelijke klanten. OpenAI versterkt zijn positie op die markt en gaat […]",
+   "date": "2026-11-05T19:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nasdaq tuimelt 5 procent door slachting onder chipaandelen",
+   "link": "https://www.tijd.be/r/t/1/id/10698749",
+   "description": "Amerikaanse beleggers gooien alles wat met AI te maken heeft in de verkoop, de chipaandelen in het bijzonder. De Nasdaq keldert met zo’n 5 procent.",
+   "date": "2026-11-05T18:45:04",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen verspelen winst terwijl AI-zorgen verder oplaaien",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-verspelen-winst-terwijl-ai-zorgen-verder-oplaaien/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen hebben donderdag hun winst verspeeld, nadat een hernieuwde uitverkoop van techaandelen Wall Street flink onder druk zette. Chipaandelen in Europa gingen ook hard onderuit, net als defensie-aandelen die reageerden op een waarschuwing van Rheinmetall.De Stoxx Europe 600 eindigde 0,4 procent lager en sloot op 654,87 punten. De Duitse DAX sloot …\nThe post Europese beurzen verspelen winst terwijl AI-zorgen verder oplaaien appeared first on Trends.be.",
+   "date": "2026-11-05T18:35:40",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse techaandelen gaan onderuit na overwinning van de Democraten",
+   "link": "https://www.hln.be/economie/amerikaanse-techaandelen-gaan-onderuit-na-overwinning-van-de-democraten~a8f97af6/",
+   "description": "Uit vrees voor strengere AI-regelgeving na de overwinning van de Democraten bij de tussentijdse verkiezingen in de Verenigde Staten gaan de aandelen van technologiebedrijven donderdag onderuit.",
+   "date": "2026-11-05T18:30:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU trekt 525 miljoen euro uit om start-ups in de chipsector te ondersteunen",
+   "link": "https://businessam.be/eu-trekt-525-miljoen-euro-uit-om-start-ups-in-de-chipsector-te-ondersteunen/",
+   "description": "Key takeaways In een poging om de technologische kloof met China en de Verenigde Staten te dichten, trekt de Europese Unie 525 miljoen euro uit ter ondersteuning van start-ups in de halfgeleiderindustrie. Henna Virkkunen, uitvoerend vicevoorzitter van de EU voor Technologische Soevereiniteit, kondigde het initiatief woensdag aan en stelde dat Europese bedrijven hun activiteiten sneller […]",
+   "date": "2026-11-05T17:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verkoopgolf op Wall Street treft techaandelen terwijl Brusselse beurs geschiedenis schrijft",
+   "link": "https://www.gva.be/economie/beurs/verkoopgolf-op-wall-street-treft-techaandelen-terwijl-brusselse-beurs-geschiedenis-schrijft/164155101.html",
+   "description": "Uit vrees voor strengere AI-regelgeving na de overwinning van de Democraten bij de tussentijdse verkiezingen in de VS, gaan de aandelen van Amerikaanse technologiebedrijven donderdag onderuit. In ons land klokte de Bel-20-index dan weer 0,6 procent hoger af op 6.015,09 punten, een nieuw record.",
+   "date": "2026-11-05T17:38:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Tweaker maakt met Claude native Half-Life 2-port voor RISC-V",
+   "link": "https://tweakers.net/geek/254206/tweaker-maakt-met-claude-native-half-life-2-port-voor-risc-v.html",
+   "description": "Kan het DOOM draaien? Waarschijnlijk wel. Het klassieke schietspel is de afgelopen jaren naar allerlei apparaten geport. Tweaker Bas Magré vond het daarom tijd voor iets nieuws: hij heeft met behulp van AI-bot Claude een native port van Half-Life 2 voor de open source RISC-V-architectuur gemaakt.",
+   "date": "2026-11-05T17:20:01",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verkiezingsuitslag Amerikaanse midterms ook voelbaar op de beurs: technologie-index Nasdaq krijgt stevige klappen",
+   "link": "https://vrtnws.be/p.0YpAJDO1M",
+   "description": "Een dag na het verlies van de Republikeinen in de Amerikaanse midterms verkopen Amerikaanse beleggers massaal AI-aandelen. Ze maken zich onder meer zorgen over de uitbouw van AI-datacentra nu de Democraten de macht in het Huis en de Senaat naar zich toe hebben getrokken. Vooral de Amerikaanse technologie-index Nasdaq krijgt een stevige tik.",
+   "date": "2026-11-05T17:12:18",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse kiezers gieten in referenda koud water over de ambities van de techreuzen met AI",
+   "link": "https://www.demorgen.be/nieuws/amerikaanse-kiezers-gieten-in-referenda-koud-water-over-de-ambities-van-de-techreuzen-met-ai~b3063608/",
+   "description": "",
+   "date": "2026-11-05T17:00:05",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bloomberg: Chinese klanten krijgen maar 1 procent van bestelde Nvidia RTX PRO's",
+   "link": "https://tweakers.net/nieuws/254202/bloomberg-chinese-klanten-krijgen-maar-1-procent-van-bestelde-nvidia-rtx-pros.html",
+   "description": "Alibaba, Tencent, ByteDance en andere Chinese AI- en cloudbedrijven verwachten dat ze de komende vier maanden slechts enkele tienduizenden RTX PRO 5500 zullen ontvangen. Dat is slechts 1 procent van het totale aantal bestelde chips.",
+   "date": "2026-11-05T16:22:26",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Intel krijgt een enorme pandoering",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/intel-krijg-een-enorme-pandoering/",
+   "description": "Intel was de voorbije kwartalen een beurslieveling, maar daar kwam met het meest recente kwartaalrapport een einde aan. De chipproducent presteerde in het derde kwartaal grotendeels in lijn met de verwachtingen, maar pakte uit met teleurstellende omzet- en winstprognoses voor het vierde kwartaal. \nThe post Intel krijgt een enorme pandoering appeared first on Trends.be.",
+   "date": "2026-11-05T16:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse kiezers gieten in referenda koud water over de ambities van de techreuzen met kunstmatige intelligentie",
+   "link": "https://www.volkskrant.nl/buitenland/amerikaanse-kiezers-gieten-in-referenda-koud-water-over-de-ambities-van-de-techreuzen-met-kunstmatige-intelligentie~b3063608/",
+   "description": "",
+   "date": "2026-11-05T15:20:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Als er in het Louvre ingebroken wordt, dan is het wereldnieuws. Terwijl kunstroof door AI op veel grotere schaal plaatsvindt’",
+   "link": "https://www.nrc.nl/nieuws/2026/11/05/als-er-in-het-louvre-ingebroken-wordt-dan-is-het-wereldnieuws-terwijl-kunstroof-door-ai-op-veel-grotere-schaal-plaatsvindt-a4940597",
+   "description": "In aanloop naar de vergadering van de Tweede Kamer over het cultuurbeleid doet de Kunstenbond namens de cultuursector een dringende oproep aan de politiek: stop de diefstal van ons werk door de AI van techbedrijven en zorg voor een eerlijke vergoeding voor wat wij maken.",
+   "date": "2026-11-05T15:08:19",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street heeft verdeelde opening voor de boeg",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-heeft-verdeelde-opening-voor-de-boeg-2/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet door vrees voor AI-vertraging na de Democratische verkiezingswinst. Terwijl aandelen van chipmakers en datacenterleveranciers dalen, stappen beleggers over naar andere sectoren.Futures op de toonaangevende S&P 500 index noteerden een half uur voor de opening 0,1 procent hoger en die op de Dow Jones index …\nThe post Wall Street heeft verdeelde opening voor de boeg appeared first on Trends.be.",
+   "date": "2026-11-05T14:59:56",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dit koffertje moet controleren wat er in grote datacenters gebeurt - een nieuw veiligheidsmiddel in de wereldwijde AI-race",
+   "link": "https://www.nrc.nl/nieuws/2026/11/05/de-ai-race-aan-banden-leggen-zoals-dat-ooit-gebeurde-bij-nucleaire-wapens-is-dat-mogelijk-a4940157",
+   "description": "Nederland wil het voortouw nemen in internationale discussies over AI-veiligheid. Daarvoor ontwikkelt de overheid een systeem om toezicht te houden op wat er gebeurt in datacenters. De een noemt het „een kansarme poging” Nederland relevant te maken in „de AI-wapenwedloop”. De ander ziet een belangrijke stap naar een veiliger wereld.",
+   "date": "2026-11-05T14:13:24",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google zoekt manieren om miljardeninvesteringen in AI terug te verdienen",
+   "link": "https://businessam.be/google-zoekt-manieren-om-miljardeninvesteringen-in-ai-terug-te-verdienen/",
+   "description": "Key takeaways Alphabet staat voor een belangrijke uitdaging: het bedrijf moet zijn forse investeringen in artificiële intelligentie rendabel maken zonder de inkomsten uit zijn traditionele zoekmachine onder druk te zetten. Hoewel Google het snelste groeitempo in zoekopdrachten in vijf jaar rapporteert, vertaalt die stijging zich niet in een even sterke groei van de advertentie-inkomsten. In […]",
+   "date": "2026-11-05T13:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Maker van Windows-Taakbeheer bouwt met AI ram voor vintage PDP-11",
+   "link": "https://tweakers.net/geek/254184/maker-van-windows-taakbeheer-bouwt-met-ai-ram-voor-vintage-pdp-11.html",
+   "description": "Een voormalig Microsoft-ingenieur heeft zelf rammodules voor zijn vintagecomputer van DEC gebouwd. Dave Plummer, de oorspronkelijke maker van de Taakbeheer-app van Windows, gebruikte AI om de insteekkaarten met 4MB geheugen te ontwerpen en die hardware te debuggen.",
+   "date": "2026-11-05T12:24:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 621.14 WHQL",
+   "link": "https://tweakers.net/downloads/78920/geforce-game-ready-driver-62114-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 621.14 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen World of Warcraft: Forever, Doom: The Dark Ages | Revelations, Hogwarts Legacy en War Thunder. De complete changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-11-05T12:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politici en DuckDuckGo kritisch op Googles AI-beleid voor scholen",
+   "link": "https://www.security.nl/posting/960482/Politici+en+DuckDuckGo+kritisch+op+Googles+AI-beleid+voor+scholen?channel=rss",
+   "description": "Amerikaanse politici en zoekmachine DuckDuckGo hebben uitgehaald naar Google, omdat het techbedrijf scholen zou willen ...",
+   "date": "2026-11-05T11:41:43",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pieter Van Geite (Buildwise) geeft 120.000 bouwbedrijven toegang tot AI-agents: ‘In de huidige economie ontbreekt het aan tijd om met software en administratie bezig te zijn’",
+   "link": "https://trends.knack.be/ai-en-tech/pieter-van-geite-buildwise-geeft-120-000-bouwbedrijven-toegang-tot-ai-agents-in-de-huidige-economie-ontbreekt-het-aan-tijd-om-met-software-en-administratie-bezig-te-zijn/",
+   "description": "Buildwise, het innovatie- en onderzoekscentrum voor de Belgische bouwsector, geeft sinds dit jaar 120.000 bedrijven toegang tot AI-agents. Ze verlichten de administratie, kunnen een constructie technisch analyseren en vinden veiligheidsrisico’s op de werf. De stap naar een breed agentic AI-platform is opmerkelijk voor een sector die traditioneel achterloopt in digitalisering.\nThe post Pieter Van Geite (Buildwise) geeft 120.000 bouwbedrijven toegang tot AI-agents: ‘In de huidige economie ontbreekt het aan tijd om met software en administratie bezig te zijn’ appeared first on Trends.be.",
+   "date": "2026-11-05T11:40:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese Commissie gaat AI gebruiken om wetteksten te verbeteren",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/europese-commissie-gaat-ai-gebruiken-om-wetteksten-te-verbeteren~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-05T10:56:44",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Opeens kon Jan Hoek al zijn ‘zieke gedachtekronkels’ omzetten in beeld",
+   "link": "https://www.nrc.nl/nieuws/2026/11/05/opeens-kon-jan-hoek-al-zijn-zieke-gedachtekronkels-omzetten-in-beeld-a4940627",
+   "description": "Twee jaar geleden besloot kunstenaar Jan Hoek iets nieuws te leren, en hij kwam uit op AI-kunst. „Dat kunst tijd moet kosten is een achterhaald idee.”",
+   "date": "2026-11-05T10:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: Nintendo's grootste romchipmaker voor Switch 1-gamecards stopt ermee",
+   "link": "https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-1-gamecards-stopt-ermee.html",
+   "description": "Macronix, de grootste maker van geheugenchips voor Switch 1-gamecards, zou stoppen met die bedrijfsactiviteit. Het zou er te weinig aan verdienen en dus geen nieuwe romchips meer maken voor Nintendo, meldt een analist. Dit zou geen gevolgen hebben voor chips voor Switch 2-gamecards.",
+   "date": "2026-11-05T09:07:45",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 wacht vermoedelijk vlakke opening na felle sectorrotatie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-wacht-vermoedelijk-vlakke-opening-na-felle-sectorrotatie/",
+   "description": "(ABM FN) De Belgische beurs gaat donderdag naar verwachting een vlakke opening tegemoet. De positieve stemming op Wall Street krijgt vanochtend geen breed vervolg in Azië, waar vooral halfgeleideraandelen zwaar onder druk staan.De Brusselse beurs wist woensdag nog stevig te profiteren van het positieve sentiment op de internationale aandelenmarkten, nadat de Democraten een overtuigende overwinning boekten …\nThe post Bel20 wacht vermoedelijk vlakke opening na felle sectorrotatie appeared first on Trends.be.",
+   "date": "2026-11-05T08:14:43",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - CPU-Z 3.02",
+   "link": "https://tweakers.net/downloads/78914/cpu-z-302.html",
+   "description": "CPUID heeft versie 3.02 van CPU-Z uitgebracht voor Windows. Dit kleine programma geeft uitgebreide informatie over de processor, het moederbord en het geheugen in de computer. Daarnaast kan het programma informatie over de grafische kaart in de computer geven, zij het beperkt. Hiervoor kan beter GPU-Z worden gebruikt, dat ondanks een vergelijkbare naam niet van dezelfde makers is. De download bevat aparte versies voor 32bit- en 64bit-omgevingen. Ook zijn er downloads beschikbaar met een thema van een specifieke fabrikant, zoals ASUS, MSI en Asrock. In deze uitgave is herkenning voor niuewe hardware toegevoegd en zijn er twee problemen verholpen. Changes in CPU-Z version 3.02:",
+   "date": "2026-11-05T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren uitzonderlijk verdeeld na koersval chippers",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-uitzonderlijk-verdeeld-na-koersval-chippers/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden donderdagochtend sterk verdeeld. Een verkoopgolf onder halfgeleideraandelen drukte de Japanse en Zuid-Koreaanse beurs, terwijl Hongkong en Sydney profiteerden van het positievere sentiment na de Amerikaanse verkiezingen en de scherpe daling van de olieprijzen. De Nikkei-index in Tokio daalde rond de klok van zeven uur met 2,2 procent, terwijl de Zuid-Koreaanse …\nThe post Aziatische beurzen noteren uitzonderlijk verdeeld na koersval chippers appeared first on Trends.be.",
+   "date": "2026-11-05T07:16:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoge kosten voor AI-rekenkracht zetten winstmarges van Anthropic onder druk in aanloop naar beursgang",
+   "link": "https://businessam.be/hoge-kosten-voor-ai-rekenkracht-zetten-winstmarges-van-anthropic-onder-druk-in-aanloop-naar-beursgang/",
+   "description": "Key takeaways Terwijl Anthropic zich voorbereidt op een beursgang, werpen nieuwe financiële gegevens licht op de economische uitdagingen van het runnen van een grootschalig AI-laboratorium. Het bedrijf groeit snel, maar uit recente cijfers blijkt dat de kosten voor rekenkracht een steeds groter deel van de omzet opslokken. Stijgende kosten ondanks omzetgroei Volgens een bijgewerkte rapportage […]",
+   "date": "2026-11-05T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Ik wil de laatste internetvrije oma’s en opa’s beschermen als een uitstervende diersoort",
    "link": "https://www.standaard.be/media-en-cultuur/ik-wil-de-laatste-internetvrije-omas-en-opas-beschermen-als-een-uitstervende-diersoort/163893773.html",
    "description": "Een opa die het ene na het andere filmpje bekijkt op zijn smartphone. Het is een beeld dat Yelena Schmitz verwart, irriteert en verdrietig maakt. Waar grootouders ooit het laatste bastion van rust en onverdeelde aandacht waren, zijn ook zij gezwicht voor het algoritme.",
@@ -347,6 +644,17 @@
    ],
    "first_seen": "2026-11-05",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "Op een terras intellectuele boeken lezen onder het genot van een iced hojicha latte. Is dat nou goede smaak? Of doe je maar alsof?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/04/heb-je-echt-goede-smaak-of-doe-je-alsof-a4938548",
+   "description": "Het is tegenwoordig wel héél makkelijk om te doen alsof je goede smaak hebt. „Ik zie objecten die door een algoritme naar boven zijn komen drijven.”",
+   "date": "2026-11-04T21:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
   },
   {
    "title": "China kan Amerikaanse vliegdekschepen steeds beter volgen dankzij artificiële intelligentie en satellieten",
