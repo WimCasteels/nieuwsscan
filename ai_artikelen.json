@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T19:14:41",
+ "generated": "2026-11-05T19:30:30",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 25,
+   "count": 26,
    "error": null
   },
   {
