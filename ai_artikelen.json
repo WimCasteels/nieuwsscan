@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T19:30:30",
+ "generated": "2026-11-06T04:12:45",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 33,
    "error": null
   },
   {
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 1,
+   "count": 2,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 162,
+   "count": 175,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 102,
    "error": null
   },
   {
@@ -315,6 +315,106 @@
   }
  ],
  "articles": [
+  {
+   "title": "Help, mijn kind maakt huiswerk met behulp van AI. Hoe erg is dat?",
+   "link": "https://www.demorgen.be/beter-leven/help-mijn-kind-maakt-huiswerk-met-behulp-van-ai-hoe-erg-is-dat~bfcb9563/",
+   "description": "",
+   "date": "2026-11-06T03:00:52",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Big tech lobbyt in Brussel met succes voor soepel datacenterbeleid. “Vreemd dat Europa het onpopulaire Amerikaanse beleid achternaholt”",
+   "link": "https://www.standaard.be/binnenland/big-tech-lobbyt-in-brussel-met-succes-voor-soepel-datacenterbeleid.-vreemd-dat-europa-het-onpopulaire-amerikaanse-beleid-achternaholt/164145540.html",
+   "description": "Lobbyisten van Amerikaanse techreuzen vinden vlot de weg naar Europese beleidsmakers. Naar hun wensen over regelgeving rond datacenters wordt goed geluisterd, heeft de waakhond Corporate Europe Observatory ontdekt.",
+   "date": "2026-11-05T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Steven Van Ammel trekt al zingend een muur op tegen de stroom aan AI-boeken",
+   "link": "https://www.standaard.be/media-en-cultuur/boeken/steven-van-ammel-trekt-al-zingend-een-muur-op-tegen-de-stroom-aan-ai-boeken/163810100.html",
+   "description": "De enshittification der dingen, de stroom aan bagger, is alomtegenwoordig, merkt Steven Van Ammel aan de stroom aan AI-pulp.",
+   "date": "2026-11-05T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse techaandelen onderuit na overwinning Democraten: Musk in één week 90 miljard dollar kwijt",
+   "link": "https://www.hln.be/economie/amerikaanse-techaandelen-onderuit-na-overwinning-democraten-musk-in-een-week-90-miljard-dollar-kwijt~a8f97af6/",
+   "description": "Uit vrees voor strengere AI-regelgeving na de overwinning van de Democraten bij de tussentijdse verkiezingen in de Verenigde Staten gaan de aandelen van technologiebedrijven donderdag onderuit. Wall Street maakte zijn slechtste beursdag sinds april vorig jaar door. Tesla- en SpaceX-baas Elon Musk raakte in één week tijd maar liefst 90 miljard dollar (80 miljard euro) kwijt.",
+   "date": "2026-11-05T22:31:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opinie: Verbod op chatbots in basisonderwijs is nog maar begin",
+   "link": "https://www.trouw.nl/opinie/opinie-verbod-op-chatbots-in-basisonderwijs-is-nog-maar-begin~b6922fdc/",
+   "description": "",
+   "date": "2026-11-05T22:00:41",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Claude kan in navolging van ChatGPT financiën bijhouden door koppeling met bank",
+   "link": "https://tweakers.net/nieuws/254224/claude-kan-in-navolging-van-chatgpt-financien-bijhouden-door-koppeling-met-bank.html",
+   "description": "Anthropic heeft Claude Personal Finance aangekondigd, een manier om via een koppeling met een bank persoonlijke geldzaken in de gaten te houden. De functie werkt voorlopig alleen nog in Anthropics thuisland, de Verenigde Staten.",
+   "date": "2026-11-05T21:12:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Maite Zubiaurre, de topvrouw van Bol.com: “Wij weten veel. Met AI kunnen we die kennis nu inzetten om de klant echt te helpen”",
+   "link": "https://www.standaard.be/economie/maite-zubiaurre-de-topvrouw-van-bol.com-wij-weten-veel.-met-ai-kunnen-we-die-kennis-nu-inzetten-om-de-klant-echt-te-helpen/164138655.html",
+   "description": "Bol.com, de grootste webwinkel van Nederland, kreeg vorig jaar een nieuwe ceo. Hoe probeert Maite Zubiaurre haar bedrijf stand te laten houden tussen de steeds grotere concurrentie? “Het ergste wat wij kunnen doen, is denken: relax.”",
+   "date": "2026-11-05T19:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de Republikeinse nederlaag gooien Amerikaanse beleggers AI-aandelen massaal overboord",
+   "link": "https://www.standaard.be/economie/na-de-republikeinse-nederlaag-gooien-amerikaanse-beleggers-ai-aandelen-massaal-overboord/164157729.html",
+   "description": "De naweeën van de midterms laten zich voelen op de beurs. Amerikaanse beleggers gooiden donderdag AI- en chipaandelen massaal overboord. Niet alleen de technologie-index Nasdaq kreeg stevige klappen, ook andere aandelen gingen onderuit.",
+   "date": "2026-11-05T19:39:07",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het grote vingerwijzen naar de schuldigen van de Republikeinse nederlaag is begonnen: van benzine- en voedselprijzen tot datacenters, Iran, Israël en Trump zelf",
+   "link": "https://www.nrc.nl/nieuws/2026/11/05/het-grote-vingerwijzen-naar-de-schuldigen-van-de-republikeinse-nederlaag-is-begonnenvs-van-benzine-en-voedselprijzen-tot-datacenra-iran-israel-en-trump-zelf-a4940604",
+   "description": "Het lijkt erop dat Republikeinse politici en rechtse commentatoren na de desastreuze nederlaag van hun partij kordater afstand durven nemen van Trump. „Ik werd meegesleurd door de Trump-tsunami, net als vele andere zittende senatoren.”",
+   "date": "2026-11-05T19:34:26",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI verwacht in 2027 klaar te zijn voor beursgang en haalt meeste omzet uit zakelijke klanten",
    "link": "https://businessam.be/openai-overweegt-mogelijke-beursgang-tegen-2027/",
@@ -415,6 +515,17 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "Lopen mijn apparaten het risico gehackt te worden? “Vraag jezelf af of het nuttig is dit toestel met het internet te verbinden”",
+   "link": "https://www.standaard.be/inspiratie/helpdesk/lopen-mijn-apparaten-het-risico-gehackt-te-worden-vraag-jezelf-af-of-het-nuttig-is-dit-toestel-met-het-internet-te-verbinden/164119611.html",
+   "description": "Hoezo, een koelkast kan worden gehackt? Welja, elk apparaat dat met het internet verbonden is. Sinds de opmars van AI is het risico veel groter. Tijd om uw eigen thuisnetwerk grondig te controleren.",
+   "date": "2026-11-05T16:55:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Bloomberg: Chinese klanten krijgen maar 1 procent van bestelde Nvidia RTX PRO's",
    "link": "https://tweakers.net/nieuws/254202/bloomberg-chinese-klanten-krijgen-maar-1-procent-van-bestelde-nvidia-rtx-pros.html",
    "description": "Alibaba, Tencent, ByteDance en andere Chinese AI- en cloudbedrijven verwachten dat ze de komende vier maanden slechts enkele tienduizenden RTX PRO 5500 zullen ontvangen. Dat is slechts 1 procent van het totale aantal bestelde chips.",
@@ -434,6 +545,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI verandert werk snel – letten politici wel op?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/05/ai-verandert-werk-snel-letten-politici-wel-op-a4940497",
+   "description": "Is het dit keer anders? Dat is de grote vraag rondom kunstmatige intelligentie op de werkvloer. Waar eerdere technologische revoluties vaak nieuwe werkgelegenheid creëerden, is…",
+   "date": "2026-11-05T15:30:03",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
    "intro_geprobeerd": false
   },
   {
@@ -610,6 +732,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-11-05",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Groeiende datacentercapaciteit in Vlaanderen vraagt om degelijke bekabeling",
+   "link": "https://businessam.be/groeiende-datacentercapaciteit-in-vlaanderen-vraagt-om-degelijke-bekabeling/",
+   "description": "Met branded content van Maunt Wanneer een datacenter in Vlaanderen uitbreidt, groeit met elke extra rij racks ook het aantal kabels en verbindingen dat netjes moet worden aangelegd en bijgehouden. Over stroomvoorziening en koeling wordt veel geschreven, maar de bekabeling binnenin krijgt minder aandacht, terwijl de dagelijkse werking er sterk op steunt. Dit artikel bekijkt […]",
+   "date": "2026-11-05T06:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
    "intro_geprobeerd": false
   },
   {
