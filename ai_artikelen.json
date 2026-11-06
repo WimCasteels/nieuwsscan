@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T04:12:45",
+ "generated": "2026-11-06T18:48:38",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 33,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 175,
+   "count": 169,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 102,
+   "count": 98,
    "error": null
   },
   {
@@ -316,10 +316,552 @@
  ],
  "articles": [
   {
+   "title": "Europese beurzen onderuit na AI-verkoopgolf",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-onderuit-na-ai-verkoopgolf/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn vrijdag onderuit gegaan, na de verkoopgolf van AI-aandelen op Wall Street donderdag. Wel sloten de indices boven het dieptepunt van de dag.De Stoxx Europe 600 eindigde 1,0 procent lager en sloot op 648,33 punten. De Duitse DAX sloot 1,9 procent in de min op 25.820,36 punten. De Franse CAC …\nThe post Europese beurzen onderuit na AI-verkoopgolf appeared first on Trends.be.",
+   "date": "2026-11-06T18:35:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nasdaq herstelt zich dankzij stijging halfgeleider- en AI-aandelen",
+   "link": "https://businessam.be/nasdaq-herstelt-zich-dankzij-stijging-halfgeleider-en-ai-aandelen/",
+   "description": "Key takeaways De Nasdaq Composite herstelde zich vrijdag, voornamelijk dankzij een opleving van halfgeleideraandelen na een periode van intense volatiliteit. Deze opleving vond plaats nadat de index donderdag het laagste daggemiddelde in bijna twee jaar had bereikt. Dat zette een formele marktcorrectie in gang en betekende het einde van bijna een maand aan opeenvolgende wekelijkse […]",
+   "date": "2026-11-06T18:23:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nasdaq krabbelt recht na rammeling",
+   "link": "https://www.tijd.be/r/t/1/id/10698975",
+   "description": "Wall Street kleurt groen, na de verkoopgolf in AI-aandelen op donderdag. Chipaandelen als Nvidia en AMD herstellen.",
+   "date": "2026-11-06T18:02:22",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Lokale AI-modellen draaien: Apple vs. Nvidia vs. AMD",
+   "link": "https://tweakers.net/video/20612/lokale-ai-modellen-draaien-apple-vs-nvidia-vs-amd.html",
+   "description": "In deze video testen we de nieuwste AI-systemen van Apple, Nvidia en AMD. Hoe presteren ze bij het draaien van lokale AI-modellen?",
+   "date": "2026-11-06T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Demonstranten willen datacenter van Microsoft ‘terugpakken’, maar lopen tegen de wapenstok aan",
+   "link": "https://www.trouw.nl/binnenland/demonstranten-willen-datacenter-van-microsoft-terugpakken-maar-lopen-tegen-de-wapenstok-aan~bce579ff/",
+   "description": "",
+   "date": "2026-11-06T17:52:28",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Blijf door de bomen het Zweedse bos zien",
+   "link": "https://www.tijd.be/r/t/1/id/10698791",
+   "description": "Minder chips, meer Biscoff. Een Democratische vloedgolf bij de Amerikaanse verkiezingen spoelde het beleggersenthousiasme voor AI-hipsters weg, ten voordele van geruststellend saaie aandelen. En saai doet de Bel20 als geen ander.",
+   "date": "2026-11-06T17:50:18",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NCTV: Nederland is niet bestand tegen toename van cyberdreiging door AI",
+   "link": "https://tweakers.net/nieuws/254260/nctv-nederland-is-niet-bestand-tegen-toename-van-cyberdreiging-door-ai.html",
+   "description": "De capaciteiten en activiteiten van cybercriminelen nemen mede door AI toe, terwijl de cyberweerbaarheid van Nederlandse organisaties achterblijft. Dat schrijft de NCTV in het Cybersecuritybeeld Nederland 2026. De NCTV noemt dit 'een ernstig risico voor de nationale veiligheid'.",
+   "date": "2026-11-06T17:41:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een blauwe rups botst op de politie bij de datacenter-bouwplaats. ‘We bouwen alleen maar zodat Big Tech ongelooflijk veel geld kan verdienen’",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/een-blauwe-rups-botst-op-de-politie-bij-de-datacenter-bouwplaats-we-bouwen-alleen-maar-zodat-big-tech-ongelooflijk-veel-geld-kan-verdienen-a4940612",
+   "description": "Activisten bezetten vrijdag het bouwterrein waar in Amsterdam een omstreden datacenter moet verrijzen. „We willen een moratorium op de bouw van nieuwe datacenters in heel Europa.”",
+   "date": "2026-11-06T17:38:20",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen",
+   "link": "https://vrtnws.be/p.ew4EKdmjK",
+   "description": "Technologiebeurs Nasdaq is op Wall Street gedeeltelijk hersteld van de zware verliezen gisteren. Beleggers maakten van de lagere aandelenkoersen gebruik om opnieuw aandelen te kopen, vooral van chipbedrijven. Die waren hard afgestraft uit vrees dat een Democratische meerderheid in het Amerikaanse Congres zou kunnen leiden tot strengere regelgeving voor artificiële intelligentie en vertraging van de bouw van AI-datacenters.",
+   "date": "2026-11-06T17:37:25",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onrust op Wall Street over datacenters en AI",
+   "link": "https://www.trouw.nl/buitenland/onrust-op-wall-street-over-datacenters-en-ai~b0d81fc6/",
+   "description": "",
+   "date": "2026-11-06T17:34:36",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Machtige mediabedrijven binden de strijd aan met AI-giganten: &#8216;Dit is de grootste diefstal van menselijke arbeid in de geschiedenis&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/machtige-mediabedrijven-binden-de-strijd-aan-met-ai-giganten-dit-is-de-grootste-diefstal-van-menselijke-arbeid-in-de-geschiedenis-a4940534",
+   "description": "Nieuwsmedia staan voor de strijd van hun leven. Amerikaanse AI-giganten bouwen aan een toekomst waarin voor kranten steeds minder plaats is. De grote pershuizen vragen de overheid om hulp, maar zien zich tegelijk genoodzaakt om met de techreuzen te onderhandelen. „Google is voor ons de totale horror.”",
+   "date": "2026-11-06T17:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla gaat minder Cybertrucks bouwen en zet volop in op zelfrijdende Cybercabs",
+   "link": "https://vrtnws.be/p.11pMm5bDp",
+   "description": "Tesla gaat de productie van de Cybertruck vanaf volgend jaar afbouwen. Dat meldt ceo Elon Musk op X. Hij wil zo ruimte maken voor een verhoogde productie van Cybercabs.",
+   "date": "2026-11-06T16:51:05",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Microsoft is genocide”: activisten dringen binnen op bouwplaats datacenter in Amsterdam",
+   "link": "https://www.standaard.be/buitenland/microsoft-is-genocide-activisten-dringen-binnen-op-bouwplaats-datacenter-in-amsterdam/164191976.html",
+   "description": "In Amsterdam hebben tientallen activisten het terrein waar Microsoft een datacenter bouwt bezet. Het kwam tot een confrontatie tussen de actievoerders en de politie.",
+   "date": "2026-11-06T16:45:00",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beurzen in het rood. Remmen de Democraten de opmars van AI?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/beurzen-in-het-rood-remmen-de-democraten-de-opmars-van-ai-in-het-nieuws-a4940732",
+   "description": "De aandelenbeurzen in Azië en de VS gingen diep in het rood. Wall Street beleefde de slechtste dag in anderhalf jaar: miljarden euro’s aan beurswaarde verdwenen.",
+   "date": "2026-11-06T16:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techgraadmeter Nasdaq herstelt op Wall Street na koersdreun",
+   "link": "https://www.hln.be/economie/techgraadmeter-nasdaq-herstelt-op-wall-street-na-koersdreun~a6695dbaa/",
+   "description": "Techbeurs Nasdaq toonde vrijdag wat herstel in New York na de koersdreun een dag eerder. Koopjesjagers sloegen toe en kochten vooral chipaandelen na de verkoopgolf in de sector op donderdag. Die golf werd aangewakkerd door de vrees dat een Democratische meerderheid in het Amerikaanse Congres zou kunnen leiden tot strengere regelgeving voor artificiële intelligentie (AI) en vertraging van de bouw van AI-datacenters.",
+   "date": "2026-11-06T16:28:16",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Nvidia brengt nostalgische Steam-demo uit voor 20-jarig jubileum van 8800 GTX",
+   "link": "https://tweakers.net/geek/254258/nvidia-brengt-nostalgische-steam-demo-uit-voor-20-jarig-jubileum-van-8800-gtx.html",
+   "description": "Wie met nostalgie terugdenkt aan de videokaarten van weleer, wordt door Nvidia op zijn wenken bediend. Ter viering van het 20-jarige jubileum van de GeForce 8800 GTX, Nvidia's eerste videokaart met CUDA-ondersteuning, brengt het bedrijf een interactieve demo uit die spelers terugbrengt naar 2006.",
+   "date": "2026-11-06T16:27:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NCTV: Cyberdreigingen ontwikkelen zich te snel voor bedrijven en overheden",
+   "link": "https://www.nu.nl/tech/6415745/nctv-cyberdreigingen-ontwikkelen-zich-te-snel-voor-bedrijven-en-overheden.html",
+   "description": "De overheid en bedrijven kunnen het tempo van cyberdreiging niet bijhouden, waarschuwt antiterrorismecoördinator NCTV. Dit komt onder meer door een gebrek aan \"financiële middelen en capaciteit\". Hackers gebruiken daarnaast steeds vaker AI om hun cyberaanvallen sneller, groter en efficiënter te maken.",
+   "date": "2026-11-06T16:11:47",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS klaagt drietal aan voor diefstal van 129 miljoen dollar via 'AI-directeur'",
+   "link": "https://www.security.nl/posting/960668/VS+klaagt+drietal+aan+voor+diefstal+van+129+miljoen+dollar+via+%27AI-directeur%27?channel=rss",
+   "description": "De Amerikaanse autoriteiten hebben drie mannen aangeklaagd voor het stelen van 129 miljoen dollar van bedrijven, waarbij ...",
+   "date": "2026-11-06T16:11:46",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Midterms zetten de bouw van datacenters onder druk: ‘Europa kan profiteren, maar moet slimmer zijn’",
+   "link": "https://www.knack.be/nieuws/wereld/midterms-zetten-de-bouw-van-datacenters-onder-druk-europa-kan-profiteren-maar-moet-slimmer-zijn/",
+   "description": "De tussentijdse verkiezingen maakten duidelijk hoe sterk het verzet tegen datacenters in de Verenigde Staten is geworden. Tegelijk wil Europa honderden miljarden investeren in de bouw van nieuwe datacenters. ‘Hier ligt wel degelijk een kans voor Europa’, zegt onderzoeker Paul Timmers.\nThe post Midterms zetten de bouw van datacenters onder druk: ‘Europa kan profiteren, maar moet slimmer zijn’ appeared first on Knack.",
+   "date": "2026-11-06T16:11:07",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU investeert 525 miljoen euro in chipontwerp, maar kan het de kloof met VS en China dichten?",
+   "link": "https://businessam.be/eu-investeert-525-miljoen-euro-in-chipontwerp-maar-kan-het-de-kloof-met-vs-en-china-dichten/",
+   "description": "Key takeaways De Europese Commissie heeft woensdag een initiatief van 525 miljoen euro gelanceerd om de ontwerpcapaciteiten op het gebied van halfgeleiders op het continent te versterken. De stap komt er door het besef dat het bouwen van fabrieken alleen onvoldoende is voor technologische soevereiniteit. Deze stap moet een aanzienlijke onevenwichtigheid rechtzetten. Europa blinkt uit […]",
+   "date": "2026-11-06T16:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NCTV: cyberdreiging neemt snel toe door AI, actie nodig",
+   "link": "https://www.trouw.nl/binnenland/nctv-cyberdreiging-neemt-snel-toe-door-ai-actie-nodig~b6fbe18f8/",
+   "description": "",
+   "date": "2026-11-06T16:00:52",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Koester het lanterfanten, want dat kan de chatbot niet",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/koester-het-lanterfanten-want-dat-kan-de-chatbot-niet-a4940305",
+   "description": "Je tijd zo efficiënt mogelijk besteden, de juiste fitnessroutine kiezen, werk boven alles stellen: door eindeloze zelf-optimalisatie gaan mensen volgens Mathijs Mul steeds meer op algoritmes lijken. Terwijl die beweging eigenlijk andersom zou moeten lopen.",
+   "date": "2026-11-06T15:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street stevent af op verdeelde opening na sterk banenrapport",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-stevent-af-op-verdeelde-opening-na-sterk-banenrapport/",
+   "description": "(ABM FN-Dow Jones) Wall Street stevent af op een verdeelde opening, ondanks een veel sterker banenrapport dan verwacht, nadat donderdag de Amerikaanse beurzen hard werden getroffen door zorgen over een mogelijke vertraging in de bouw van datacenters, in reactie op de grote verkiezingswinst van de Democraten.Futures op de Nasdaq wezen vrijdagmiddag, ongeveer een halfuur voor de …\nThe post Wall Street stevent af op verdeelde opening na sterk banenrapport appeared first on Trends.be.",
+   "date": "2026-11-06T15:03:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse chipaandelen beleven zwaarste verliesdag sinds 2020 door AI-zorgen",
+   "link": "https://businessam.be/amerikaanse-chipaandelen-beleven-zwaarste-verliesdag-sinds-2020-door-ai-zorgen/",
+   "description": "Key takeaways Een enorme wereldwijde daling van de aandelenmarkten heeft zich verder doorgezet, aangewakkerd door zorgen over de toekomst van AI-datacenters en de zwaarste crash van Amerikaanse halfgeleideraandelen sinds 2020. Donderdag kelderde de marktwaarde van S&P 500-bedrijven met een historisch bedrag van 2,9 biljoen dollar (2,6 biljoen euro). Deze volatiliteit zette zich voort tot en […]",
+   "date": "2026-11-06T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Calibre 9.18",
+   "link": "https://tweakers.net/downloads/78940/calibre-918.html",
+   "description": "Versie 9.18 van Calibre is uitgekomen. Calibre is een open source e-bookbeheerprogramma dat haast onmisbaar is voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 9 is onder meer een boekenplank toegevoegd, wat een nieuwe manier is om alle boeken te tonen. Ook zijn er enkele optionele AI-functies toegevoegd, die bijvoorbeeld een suggestie kunnen doen welk volgend boek je moet lezen of vragen over de inhoud van een boek kunnen beantwoorden. De changelog voor deze uitgave kan hieronder worden gevonden. New features",
+   "date": "2026-11-06T13:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wiskundeprofessor Ann Dooms | Wat vandaag geheim is, kan morgen op straat liggen",
+   "link": "https://www.tijd.be/r/t/1/id/10698712",
+   "description": "Als we de AI- en kwantumdreiging blijven negeren, duurt de digitale stilstand in de niet zo verre toekomst veel langer dan één dag.",
+   "date": "2026-11-06T13:27:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Betogers breken door de hekken van terrein datacenter Microsoft in Amsterdam",
+   "link": "https://vrtnws.be/p.jGkP3BG5Y",
+   "description": "In Amsterdam zijn tientallen betogers door de hekken gebroken van een terrein waar een datacenter van Microsoft wordt gebouwd. Dat melden Nederlandse media. Zo’n 200 betogers proberen al sinds vanmorgen het bouwterrein in de buurt van Sloterdijk te bezetten, waar 3 datatorens gepland staan. De politie is ter plaatse en probeert de betogers tegen te houden.",
+   "date": "2026-11-06T13:23:23",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GPT 6-Cyber vindt 948 kwetsbaarheden in Linux",
+   "link": "https://tweakers.net/nieuws/254240/gpt-6-cyber-vindt-948-kwetsbaarheden-in-linux.html",
+   "description": "OpenAI brengt GPT 6-Cyber uit, een cybersecurityvariant van GPT 6-Astra. Gebruikers kunnen met het nieuwe model kwetsbaarheden in software vinden en patches ontwikkelen. In een test van OpenAI vond GPT 6-Cyber 948 kwetsbaarheden in Linux.",
+   "date": "2026-11-06T13:19:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursgang Anthropic in gevaar nu beleggers vraagtekens zetten bij waardering",
+   "link": "https://businessam.be/beursgang-anthropic-in-gevaar-nu-beleggers-vraagtekens-zetten-bij-waardering/",
+   "description": "Key takeaways De geplande beursgang van AI-gigant Anthropic loopt mogelijk gevaar door een toenemende aarzeling bij beleggers. Bronnen van Reuters geven aan dat de voor volgende week geplande roadshow van het bedrijf en de beoogde beursnotering in november onder de loep worden genomen. Uit de huidige discussies blijkt dat de eerder genoemde waardering van 1,5 […]",
+   "date": "2026-11-06T12:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen sterk lager rond middaguur",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sterk-lager-rond-middaguur/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden vrijdag rond het middaguur sterk lager, nadat donderdag de brede Stoxx Europe 600 nog nieuwe records in het vizier had. Toen Wall Street de deuren opende, ging het echter mis: er volgde een sterke uitverkoop, met name in AI-gerelateerde namen, en de Nasdaq eindigde zelfs 5,5 procent lager. Beleggers hebben …\nThe post Europese beurzen sterk lager rond middaguur appeared first on Trends.be.",
+   "date": "2026-11-06T12:24:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijven leken onaantastbaar. Maar na de midterms zitten ze in de verdrukking",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/ai-bedrijven-leken-onaantastbaar-maar-na-dinsdag-zitten-ze-in-de-verdrukking-a4940621",
+   "description": "Ongehinderd door regulering en verwend met belastingvoordelen, werden Amerikaanse AI-bedrijven de afgelopen jaren een serieuze machtsfactor in de wereld. Dinsdag rekenden kiezers af met die laissez-faire-houding van de regering-Trump, wat leidde tot grote nervositeit op de beurzen.",
+   "date": "2026-11-06T12:03:21",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agent Claude Code deelde e-mailadres gebruikers met websites",
+   "link": "https://www.security.nl/posting/960604/AI-agent+Claude+Code+deelde+e-mailadres+gebruikers+met+websites?channel=rss",
+   "description": "AI-agent Claude Code deelde zonder toestemming het e-mailadres van gebruikers met allerlei websites, die hierdoor spam ...",
+   "date": "2026-11-06T11:41:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Er is iets aan de hand met onze robots",
+   "link": "https://www.tijd.be/r/t/1/id/10698537",
+   "description": "Zonder doorbraken in de technologie voor robothanden blijft een humanoïde robot een prijzige kluns.",
+   "date": "2026-11-06T11:06:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Google mogelijk op juridisch glad ijs als het AI-functies aan Zoeken koppelt",
+   "link": "https://tweakers.net/reviews/15576/google-mogelijk-op-juridisch-glad-ijs-als-het-ai-functies-aan-zoeken-koppelt.html",
+   "description": "Scholen die geen AI-diensten van Google willen, krijgen mogelijk ook geen toegang meer tot Google Zoeken. Die koppeling staat op gespannen voet met de mededingingswetgeving.",
+   "date": "2026-11-06T11:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech Podcast | AI-agents nemen het internet over",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-ai-agents-nemen-het-internet-over/",
+   "description": "AI-agents die online shoppen in opdracht van consumenten komen vooral in de Verenigde Staten op.  Het bedrijf van Mark Zuckerberg ziet in online winkelen zelfs een verdienmodel voor zijn Muse AI-agent. Nochtans zijn de reacties van retail zelf heel gemengd. Hoe moet uw bedrijf met die vloed aan agenten omgaan?\nThe post AI & Tech Podcast | AI-agents nemen het internet over appeared first on Trends.be.",
+   "date": "2026-11-06T10:15:09",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chatbots hebben sociale normen, maar waarop baseert AI zijn respons? Deze patronen vallen op",
+   "link": "https://www.trouw.nl/wetenschap/chatbots-hebben-sociale-normen-maar-waarop-baseert-ai-zijn-respons-deze-patronen-vallen-op~b6cbf10e/",
+   "description": "",
+   "date": "2026-11-06T10:00:00",
+   "feeds": [
+    "Trouw - Voorpagina",
+    "Trouw - Wetenschap"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Kies voor kwaliteit bij AI-obligaties",
+   "link": "https://trends.knack.be/beleggen/obligaties/kies-voor-kwaliteit-bij-ai-obligaties/",
+   "description": "De explosieve investeringen in artificiële intelligentie (AI) jagen de schulduitgifte van technologiebedrijven naar recordhoogtes. Zelfs de grootste Amerikaanse techreuzen moeten steeds vaker geld lenen om hun datacenters, chips en energievoorziening te financieren. Dat creëert kansen voor obligatiebeleggers, maar ook nieuwe risico’s. Achter het indrukwekkende groeiverhaal schuilen steeds hogere schulden, complexe financieringsconstructies en grote verschillen in kredietkwaliteit. Niet elke AI-obligatie verdient daarom dezelfde beoordeling. \nThe post Kies voor kwaliteit bij AI-obligaties appeared first on Trends.be.",
+   "date": "2026-11-06T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dropbox voegt AI-tools voor zoeken en bewerken toe aan opslagdienst",
+   "link": "https://tweakers.net/nieuws/254232/dropbox-voegt-ai-tools-voor-zoeken-en-bewerken-toe-aan-opslagdienst.html",
+   "description": "Dropbox voegt verschillende AI-functies toe aan zijn opslagdienst, waarmee gebruikers hun opgeslagen gegevens via prompts kunnen doorzoeken en bewerken. De functies zijn in eerste instantie gericht op zakelijke klanten en worden voorlopig alleen buiten Europa uitgerold. Of en wanneer ze in de Benelux beschikbaar komen, is nog niet bekend. Daarnaast neemt Dropbox een AI-bedrijf over.",
+   "date": "2026-11-06T08:50:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als een robot ineens stilstaat, weet niemand behalve Mappalink waarom",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/als-een-robot-ineens-stilstaat-weet-niemand-behalve-mappalink-waarom/",
+   "description": "De Leuvense start-up Mappalink bouwt software die robotvloten, ordersystemen en menselijke expertise met elkaar laat praten. Zo slaagt het bedrijf er in om sneller te weten wat er precies aan de hand is bij een mogelijk defect.\nThe post Als een robot ineens stilstaat, weet niemand behalve Mappalink waarom appeared first on Trends.be.",
+   "date": "2026-11-06T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 wacht na recordslot rode opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-wacht-na-recordslot-rode-opening/",
+   "description": "(ABM FN) De Brusselse beurs maakt zich vrijdag op voor een lagere opening, nadat technologieaandelen donderdag op Wall Street hard onderuitgingen en ook de Aziatische beurzen vanochtend zware verliezen leden. Donderdag eindigde de Bel20 nog op een nieuw record.De zorgen over de enorme investeringen in kunstmatige intelligentie en het rendement daarop zijn verder toegenomen, terwijl de …\nThe post Bel20 wacht na recordslot rode opening appeared first on Trends.be.",
+   "date": "2026-11-06T08:11:41",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europees Parlementsvoorzitter Metsola waarschuwt voor AI bij het opstellen van wetten",
+   "link": "https://businessam.be/europees-parlement-waarschuwt-tegen-het-gebruik-van-ai-ter-vervanging-van-wetgeving/",
+   "description": "Key takeaways Roberta Metsola, voorzitter van het Europees Parlement, heeft de Europarlementariërs gewaarschuwd om artificiële intelligentie niet als vervanging voor het wetgevingsproces te gebruiken. Dat meldt Politico. Tijdens een bijeenkomst over AI-gebruik in het Parlement stelde ze dat verkozen vertegenwoordigers zelf verantwoordelijk moeten blijven voor alle wetgevende beslissingen. Volgens Metsola kan AI helpen bij het […]",
+   "date": "2026-11-06T08:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen onderuit door verkoopgolf in AI-aandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-onderuit-door-verkoopgolf-in-ai-aandelen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen stonden vrijdagochtend fors onder druk, waarbij vooral de aandelenmarkten in Japan en Zuid-Korea zware verliezen leden. Beleggers maken zich steeds meer zorgen over de vooruitzichten voor kunstmatige intelligentie, nadat technologieaandelen donderdag op Wall Street hard onderuit gingen.De Japanse Nikkei-index daalde vrijdagochtend rond de klok van zeven uur met 5,6 procent, …\nThe post Aziatische beurzen onderuit door verkoopgolf in AI-aandelen appeared first on Trends.be.",
+   "date": "2026-11-06T07:01:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spotify-concurrent Deezer zucht onder 90.000 AI-liedjes per dag: ‘Niet aan ons om te bepalen wat goede muziek is’",
+   "link": "https://www.ad.nl/tech/spotify-concurrent-deezer-zucht-onder-90-000-ai-liedjes-per-dag-niet-aan-ons-om-te-bepalen-wat-goede-muziek-is~a32ed1293/",
+   "description": "Wat te doen als je dag in, dag uit 90.000 AI-liedjes op je afgevuurd krijgt? Daar breken ze hun hoofd over bij Spotify-concurrent Deezer. Ondanks een fors ontmoedigingsbeleid, wordt de vloedgolf aan nepliedjes alleen maar hoger. „Bots maken het lastig.”",
+   "date": "2026-11-06T07:00:49",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple verlaagt AI-budgetten voor ingenieurs om stijgende kosten te beheersen",
+   "link": "https://businessam.be/apple-verlaagt-uitgavenlimieten-voor-ai-voor-technische-medewerkers/",
+   "description": "Key takeaways In een poging de stijgende kosten te beheersen, heeft Apple de dagelijkse budgetten voor het gebruik van AI-modellen door technisch personeel verlaagd. Volgens bronnen die Bloomberg aanhaalt, is het dagelijkse budget teruggebracht van 300 naar 200 dollar (van 267 naar 178 euro). Voor sommige teams kan dat bedrag verder dalen tot 100 dollar […]",
+   "date": "2026-11-06T06:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook beurzen in Tokio en Seoel duiken fors na vrees voor strengere AI-regels in VS",
+   "link": "https://www.hln.be/economie/ook-beurzen-in-tokio-en-seoel-duiken-fors-na-vrees-voor-strengere-ai-regels-in-vs~a5620024/",
+   "description": "In navolging van de Amerikaanse beurzen hebben ook de beurzen in Japan en Zuid-Korea vrijdag een duik genomen. Beleggers lijken vooral schrik te hebben voor nieuwe mogelijke beperkingen op de ontwikkeling van artificiële intelligentie (AI) die in de Verenigde Staten verwacht worden na de overwinning van de Democraten bij de tussentijdse verkiezingen.",
+   "date": "2026-11-06T06:26:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verbluft, verbijsterd of verheugd zien wiskundigen hoe AI hun wereld op zijn kop zet",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/verbluft-verbijsterd-of-verheugd-zien-wiskundigen-hoe-ai-hun-wereld-op-zijn-kop-zet-a4939887",
+   "description": "Dit jaar is een nieuw tijdperk begonnen: AI-modellen bereikten het niveau van de beste wiskundigen. Wat betekent dit voor de wetenschap? En welke rol blijft er over voor de mens?",
+   "date": "2026-11-06T06:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers weten het niet meer",
+   "link": "https://www.tijd.be/r/t/1/id/10698789",
+   "description": "Het duidelijke verdict van de kiezer over Donald Trump en zijn Republikeinen leidt op de Amerikaanse beurs tot vertwijfeling. Eerst optimisme, dan grote zorgen over het AI-verhaal, met een rotatie waar de Brusselse beurs bij wint. Zouden de beleggers nerveus zijn?",
+   "date": "2026-11-06T05:00:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Help, mijn kind maakt huiswerk met behulp van AI. Hoe erg is dat?",
    "link": "https://www.demorgen.be/beter-leven/help-mijn-kind-maakt-huiswerk-met-behulp-van-ai-hoe-erg-is-dat~bfcb9563/",
    "description": "",
    "date": "2026-11-06T03:00:52",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ik zou er gif op innemen dat een open AI-model achter de cyberaanvallen op diepvriezers zit",
+   "link": "https://www.demorgen.be/meningen/ik-zou-er-gif-op-innemen-dat-een-open-ai-model-achter-de-cyberaanvallen-op-diepvriezers-zit~b18b98d2/",
+   "description": "",
+   "date": "2026-11-06T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-06",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "ChatGPT inschakelen voor schooltaken een goed idee? ‘Besteed je huiswerk uit, dan mis je bouwstenen. En het is de vraag of je dat later kunt inhalen’",
+   "link": "https://www.demorgen.be/beter-leven/chatgpt-inschakelen-voor-schooltaken-een-goed-idee-besteed-je-huiswerk-uit-dan-mis-je-bouwstenen-en-het-is-de-vraag-of-je-dat-later-kunt-inhalen~bfcb9563/",
+   "description": "",
+   "date": "2026-11-06T03:00:00",
    "feeds": [
     "De Morgen - Beter Leven"
    ],
@@ -332,7 +874,8 @@
    "description": "Lobbyisten van Amerikaanse techreuzen vinden vlot de weg naar Europese beleidsmakers. Naar hun wensen over regelgeving rond datacenters wordt goed geluisterd, heeft de waakhond Corporate Europe Observatory ontdekt.",
    "date": "2026-11-05T23:59:00",
    "feeds": [
-    "De Standaard - Binnenland"
+    "De Standaard - Binnenland",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-06",
    "intro_geprobeerd": false
