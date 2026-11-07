@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T18:48:38",
+ "generated": "2026-11-07T03:33:14",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 36,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 169,
+   "count": 172,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 100,
    "error": null
   },
   {
@@ -315,6 +315,139 @@
   }
  ],
  "articles": [
+  {
+   "title": "AI komt niet uw haag snoeien, maar wel uw kantoorbaan opslokken",
+   "link": "https://www.demorgen.be/meningen/ai-komt-niet-uw-haag-snoeien-maar-wel-uw-kantoorbaan-opslokken~b01cdd79/",
+   "description": "",
+   "date": "2026-11-07T03:00:34",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘De AI-doemscenario’s zijn een list van de techbro’s’",
+   "link": "https://www.demorgen.be/nieuws/de-ai-doemscenario-s-zijn-een-list-van-de-techbro-s~b37c1b65/",
+   "description": "",
+   "date": "2026-11-07T03:00:32",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Het is makkelijk om tegen datacenters te zijn, maar zijn zij wel de juiste tegenstander?",
+   "link": "https://www.standaard.be/media-en-cultuur/het-is-makkelijk-om-tegen-datacenters-te-zijn-maar-zijn-zij-wel-de-juiste-tegenstander/163951916.html",
+   "description": "In de VS heeft de angst en afkeer tegenover AI zich gekristalliseerd in weerstand tegen de aanleg van datacenters. Zijn dat echt de boosdoeners?",
+   "date": "2026-11-06T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Overwinning Democraten verandert de spelregels van de grootste investeringsgolf ooit",
+   "link": "https://www.standaard.be/economie/overwinning-democraten-verandert-de-spelregels-van-de-grootste-investeringsgolf-ooit/164189595.html",
+   "description": "Na de blauwe tsunami lijkt het Wilde Westen van de AI-wereld voorbij. Datacenters die Democratische gouverneurs nog goedkeuren, zullen aan strengere voorwaarden moeten voldoen. Wie zijn de winnaars en verliezers?",
+   "date": "2026-11-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kris Naudts, de Belgische psychiater die in kwantumtechnologie investeert: “Ons land heeft alles, behalve visie en budget”",
+   "link": "https://www.standaard.be/economie/kris-naudts-de-belgische-psychiater-die-in-kwantumtechnologie-investeert-ons-land-heeft-alles-behalve-visie-en-budget/163681647.html",
+   "description": "De Londense Vlaming Kris Naudts investeert in kwantumcomputing vanuit zijn interesse in AI en robotica. “Er zijn geen non-believers meer.”",
+   "date": "2026-11-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie pakt 150 tot 200 mensen op bij protestactie aan datacentrum van Microsoft in Amsterdam",
+   "link": "https://www.demorgen.be/snelnieuws/politie-pakt-150-tot-200-mensen-op-bij-protestactie-aan-datacentrum-van-microsoft-in-amsterdam~bb3c4b79/",
+   "description": "",
+   "date": "2026-11-06T23:19:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Opinie: Jonge afgestudeerden in het Westen zijn de grote verliezers van AI",
+   "link": "https://www.trouw.nl/opinie/opinie-jonge-afgestudeerden-in-het-westen-zijn-de-grote-verliezers-van-ai~bc885380/",
+   "description": "",
+   "date": "2026-11-06T22:00:34",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Staten als Rusland en China gebruiken AI bij cyberaanvallen op Nederlandse overheden en bedrijven, signaleert waakhond NCTV voor het eerst",
+   "link": "https://www.nrc.nl/nieuws/2026/11/06/staten-als-rusland-en-china-gebruiken-ai-bij-cyberaanvallen-op-nederlandse-overheden-en-bedrijven-signaleert-waakhond-nctv-voor-het-eerst-a4940728",
+   "description": "De Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) waarschuwt dat de ontwikkeling van AI zo snel verloopt dat dit „ons voorstellingsvermogen uitdaagt”.",
+   "date": "2026-11-06T20:53:17",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TikTok-algoritme schendt mogelijk EU-regels via ‘rabbit holes’",
+   "link": "https://businessam.be/tiktok-algoritme-schendt-mogelijk-eu-regels-via-rabbit-holes/",
+   "description": "Key takeaways De Europese Commissie heeft de eerste resultaten van een onderzoek bekendgemaakt waaruit blijkt dat het systeem voor het aanbieden van content van TikTok mogelijk in strijd is met de regelgeving van de Europese Unie. De algoritmen van het socialemediaplatform zou gebruikers naar gevaarlijke inhoud leiden. De toezichthouder waarschuwde met name dat de ‘For […]",
+   "date": "2026-11-06T20:43:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinese beurs hervalt in malaise, en het kan nog erger",
+   "link": "https://www.tijd.be/r/t/1/id/10698976",
+   "description": "Stevige verliezen voor de Chinese aandelenmarkt sinds de zomer bevestigen de reputatie van eeuwige onderpresteerder. Sombere consumenten en teleurstellende winstcijfers van exportbedrijven verpesten de sfeer. Voor AI-aandelen kan de pijn nog groter worden.",
+   "date": "2026-11-06T20:17:40",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Datacenterrevolte’ brengt AI-hausse brutaal tot stilstand",
+   "link": "https://www.tijd.be/r/t/1/id/10698777",
+   "description": "Door de overweldigende overwinning van de Democraten in de tussentijdse verkiezingen moesten beleggers hun verwachtingen over de uitbouw van AI-datacenters deze week grondig bijstellen, met een verkoopgolf in AI-aandelen tot gevolg. 'Dit is niet de AI-bubbel die uiteenspat', zeggen analisten. 'Maar het is goed dat beleggers waakzaam zijn voor de broeiende risico's.'",
+   "date": "2026-11-06T19:48:47",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wanneer hackers de koelcellen overnemen: waar zit de blinde vlek in uw cyberbeveiliging?",
+   "link": "https://www.tijd.be/r/t/1/id/10698933",
+   "description": "De hack van koelinstallaties in supermarkten toont aan hoe kwetsbaar onze economie is in een geconnecteerde digitale maatschappij. Door de kracht van AI hebben bedrijven steeds minder tijd om zich daartegen te wapenen. ‘We zitten in een perfecte storm.’",
+   "date": "2026-11-06T19:22:52",
+   "feeds": [
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Europese beurzen onderuit na AI-verkoopgolf",
    "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-onderuit-na-ai-verkoopgolf/",
@@ -426,6 +559,17 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "Nieuwe Democratische gouverneurs willen datacenters aan banden leggen vanwege stroom, water en herrie",
+   "link": "https://www.trouw.nl/buitenland/nieuwe-democratische-gouverneurs-willen-datacenters-aan-banden-leggen-vanwege-stroom-water-en-herrie~b0d81fc6/",
+   "description": "",
+   "date": "2026-11-06T17:34:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Machtige mediabedrijven binden de strijd aan met AI-giganten: &#8216;Dit is de grootste diefstal van menselijke arbeid in de geschiedenis&#8217;",
    "link": "https://www.nrc.nl/nieuws/2026/11/06/machtige-mediabedrijven-binden-de-strijd-aan-met-ai-giganten-dit-is-de-grootste-diefstal-van-menselijke-arbeid-in-de-geschiedenis-a4940534",
    "description": "Nieuwsmedia staan voor de strijd van hun leven. Amerikaanse AI-giganten bouwen aan een toekomst waarin voor kranten steeds minder plaats is. De grote pershuizen vragen de overheid om hulp, maar zien zich tegelijk genoodzaakt om met de techreuzen te onderhandelen. „Google is voor ons de totale horror.”",
@@ -501,6 +645,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-11-06",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cyberdreigingen ontwikkelen zich te snel voor bedrijven en overheden",
+   "link": "https://www.nu.nl/tech/6415745/cyberdreigingen-ontwikkelen-zich-te-snel-voor-bedrijven-en-overheden.html",
+   "description": "De overheid en bedrijven kunnen het tempo waarop cyberdreiging zich ontwikkelt niet bijhouden, waarschuwt antiterrorismecoördinator NCTV. Dit komt onder meer door een gebrek aan \"financiële middelen en capaciteit\". Hackers gebruiken daarnaast steeds vaker AI om hun cyberaanvallen sneller, grootschaliger en efficiënter te maken.",
+   "date": "2026-11-06T16:11:47",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-07",
    "intro_geprobeerd": false
   },
   {
