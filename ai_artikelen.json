@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T03:33:14",
+ "generated": "2026-11-07T17:43:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 36,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 172,
+   "count": 170,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 95,
    "error": null
   },
   {
@@ -316,6 +316,162 @@
  ],
  "articles": [
   {
+   "title": "Nvidia-topman Jensen Huang via ‘honey trap’ mogelijk slachtoffer van Chinese spionageoperatie op het hoogste niveau",
+   "link": "https://www.demorgen.be/tech-ai/nvidia-topman-jensen-huang-via-honey-trap-mogelijk-slachtoffer-van-chinese-spionageoperatie-op-het-hoogste-niveau~b763bec8/",
+   "description": "",
+   "date": "2026-11-07T15:30:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amerikaanse inlichtingendiensten:’Nvidia-topman Huang had relatie met Chinese spionne’",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/amerikaanse-inlichtingendienstennvidia-topman-huang-had-relatie-met-chinese-spionne-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Amerikaanse inlichtingendiensten:’Nvidia-topman Huang had relatie met Chinese spionne’ appeared first on Trends.be.",
+   "date": "2026-11-07T15:24:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Big Tech en milieuorganisaties bespreken toekomst van datacenters in de VS",
+   "link": "https://businessam.be/big-tech-en-milieuorganisaties-bespreken-toekomst-van-datacenters-in-de-vs/",
+   "description": "Key takeaways Om de ecologische en maatschappelijke gevolgen van de opkomst van artificiële intelligentie (AI) tegen te gaan, heeft een coalitie van toonaangevende technologiebedrijven en milieuorganisaties het “Responsible Data Center Collaborative” opgericht. Dat blijkt uit een document dat werd ingezien door het Franse persagentschap AFP. Dit samenwerkingsverband, waaraan industriereuzen als Microsoft, Google, Amazon, Meta, Nvidia, […]",
+   "date": "2026-11-07T15:04:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zakenvrouw die \"nauwe band\" had met Nvidia-topman Huang, \"was spion voor China's belangrijkste inlichtingendienst\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/zakenvrouw-die-nauwe-band-had-met-nvidiatopman-huang-was-sp~1776671241366/",
+   "description": "Artificiële intelligentie is niet meer weg te denken uit ons dagelijks leven. De ontwikkelingen gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-07T14:36:05",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "'Amerikaanse inlichtingendiensten denken dat Nvidia-topman Huang relatie had met Chinese spion'",
+   "link": "https://www.tijd.be/r/t/1/id/10698995",
+   "description": "De Amerikaanse inlichtingendiensten denken dat Jensen Huang, de topman van techreus Nvidia, een relatie heeft gehad met een Chinese spionne. Nvidia produceert zeer geavanceerde chips, waarvoor exportrestricties naar China gelden.",
+   "date": "2026-11-07T12:56:24",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reuters: Democraten VS willen AI met 'vloedgolf' aan wetten aan banden leggen",
+   "link": "https://tweakers.net/nieuws/254276/reuters-democraten-vs-willen-ai-met-vloedgolf-aan-wetten-aan-banden-leggen.html",
+   "description": "De Amerikaanse Democraten willen AI-bedrijven in de volgende Congrestermijn, die op 3 januari 2027 begint, aan banden leggen. Tot dusver was het Amerikaanse parlement in handen van de Republikeinen, die de toonaangevende techbedrijven juist de vrije loop lieten. Mogelijk kan president Donald Trump de nieuwe wetsvoorstellen wel blokkeren.",
+   "date": "2026-11-07T11:38:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: ja, AI kan diabetes herkennen aan stem",
+   "link": "https://www.knack.be/factcheck/factcheck-ja-ai-kan-diabetes-herkennen-aan-stem/",
+   "description": "‘AI kan diabetes diagnosticeren op basis van je stem’, zo lazen we in The Independent. Uit onderzoek blijkt dat AI-tests op basis van stemgeluid zinvol kunnen zijn voor de screening van diabetes, al blijft een bloedtest nodig voor diagnose. We beoordelen de stelling als eerder waar.\nThe post Factcheck: ja, AI kan diabetes herkennen aan stem appeared first on Knack.",
+   "date": "2026-11-07T11:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta sluit deal voor 250 megawatt zonne-energie om datacenters van stroom te voorzien",
+   "link": "https://businessam.be/meta-sluit-deal-voor-250-megawatt-zonne-energie-om-datacenters-van-stroom-te-voorzien/",
+   "description": "Key takeaways Om tegemoet te komen aan de toenemende elektriciteitsbehoefte van zijn datacenters heeft techgigant Meta een nieuw initiatief op het gebied van hernieuwbare energie gelanceerd in Arkansas in de Verenigde Staten. Op 4 november is het bedrijf begonnen met de bouw van het Cypress Knee Solar-project in Chicot County. Deze installatie is ontworpen om […]",
+   "date": "2026-11-07T09:46:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Melissa brengt vergeten Belgen tot leven met AI: \"Als je begint te kijken, wil je het echt uitkijken\"",
+   "link": "https://vrtnws.be/p.mRJPAYea9",
+   "description": "Historische figuren die zelf hun levensverhaal vertellen, alsof ze vandaag voor de camera staan. Op Instagram brengt Melissa met hyperrealistische AI-filmpjes Belgische geschiedenis tot leven. Van James Ensor tot priester Daens: haar video's lokken heel wat enthousiaste reacties uit. \"Het is een goed format\", reageert historicus Brecht Deseure. Al zijn er ook een aantal kanttekeningen.",
+   "date": "2026-11-07T09:17:11",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | AI-klonen, podcasts genereren: hoe menselijk blijft de journalistiek?",
+   "link": "https://www.nu.nl/tech-wetenschap/6415615/ai-klonen-podcasts-genereren-hoe-menselijk-blijft-de-journalistiek.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer: gaat kunstmatige intelligentie uiteindelijk Schermtijd overnemen?",
+   "date": "2026-11-07T08:31:26",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman Jensen Huang van AI-chipfabrikant Nvidia had relatie met Chinese spionne, zeggen Amerikaanse inlichtingendiensten",
+   "link": "https://www.demorgen.be/snelnieuws/topman-jensen-huang-van-ai-chipfabrikant-nvidia-had-relatie-met-chinese-spionne-zeggen-amerikaanse-inlichtingendiensten~bba48659/",
+   "description": "",
+   "date": "2026-11-07T06:16:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Benchmark - Welke hardware is het snelst voor lokale AI? Apple, Nvidia en AMD getest",
+   "link": "https://tweakers.net/reviews/15458/welke-hardware-is-het-snelst-voor-lokale-ai-apple-nvidia-en-amd-getest.html",
+   "description": "Voor het draaien van lokale AI-modellen zoals Qwen 3.8 en GLM 5.3 komen steeds meer systemen met heel veel ram op de markt. Maar zijn ze ook een beetje snel?",
+   "date": "2026-11-07T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vrouw met wie Nvidia-topman Jensen Huang een relatie had, werkte volgens VS voor Chinese inlichtingendienst",
+   "link": "https://www.gva.be/buitenland/vrouw-met-wie-nvidia-topman-jensen-huang-een-relatie-had-werkte-volgens-vs-voor-chinese-inlichtingendienst/164224652.html",
+   "description": "Een memo die vorige lente circuleerde bij topbeleidsmakers van de regering-Trump stelt op basis van inlichtingen dat Alice Huang, een Chinese zakenvrouw met een nauwe relatie met Nvidia-CEO Jensen Huang, voor het Chinese ministerie van Staatsveiligheid (MSS) werkte. Dat melden mensen die over de inlichtingen werden ingelicht aan The New York Times.",
+   "date": "2026-11-07T05:59:51",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘We zijn kritisch voor AI-auteurs, waarom niet voor ghostwriters?’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/we-zijn-kritisch-voor-ai-auteurs-waarom-niet-voor-ghostwriters/",
+   "description": "Kris Goffin staat stil bij de relatie tussen AI en auteurschap, naar aanleiding van de campagne Iedereen auteur? van het Vlaamse BoekenOverleg. 'Wat betekent het om auteur te zijn?'\nThe post ‘We zijn kritisch voor AI-auteurs, waarom niet voor ghostwriters?’ appeared first on Knack.",
+   "date": "2026-11-07T05:45:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "AI komt niet uw haag snoeien, maar wel uw kantoorbaan opslokken",
    "link": "https://www.demorgen.be/meningen/ai-komt-niet-uw-haag-snoeien-maar-wel-uw-kantoorbaan-opslokken~b01cdd79/",
    "description": "",
@@ -331,6 +487,17 @@
    "link": "https://www.demorgen.be/nieuws/de-ai-doemscenario-s-zijn-een-list-van-de-techbro-s~b37c1b65/",
    "description": "",
    "date": "2026-11-07T03:00:32",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amerikaanse computerwetenschapper Timnit Gebru: ‘De AI-doemscenario’s zijn een list van de techbro’s’",
+   "link": "https://www.demorgen.be/nieuws/amerikaanse-computerwetenschapper-timnit-gebru-de-ai-doemscenario-s-zijn-een-list-van-de-techbro-s~b37c1b65/",
+   "description": "",
+   "date": "2026-11-07T03:00:00",
    "feeds": [
     "De Morgen - In Het Nieuws"
    ],
@@ -363,6 +530,17 @@
    "title": "Kris Naudts, de Belgische psychiater die in kwantumtechnologie investeert: “Ons land heeft alles, behalve visie en budget”",
    "link": "https://www.standaard.be/economie/kris-naudts-de-belgische-psychiater-die-in-kwantumtechnologie-investeert-ons-land-heeft-alles-behalve-visie-en-budget/163681647.html",
    "description": "De Londense Vlaming Kris Naudts investeert in kwantumcomputing vanuit zijn interesse in AI en robotica. “Er zijn geen non-believers meer.”",
+   "date": "2026-11-06T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat nu met de datacenters? Overwinning Democraten verandert de spelregels van de grootste investeringsgolf ooit",
+   "link": "https://www.standaard.be/economie/wat-nu-met-de-datacenters-overwinning-democraten-verandert-de-spelregels-van-de-grootste-investeringsgolf-ooit/164189595.html",
+   "description": "Na de blauwe tsunami lijkt het Wilde Westen van de AI-wereld voorbij. Datacenters die Democratische gouverneurs nog goedkeuren, zullen aan strengere voorwaarden moeten voldoen. Wie zijn de winnaars en verliezers?",
    "date": "2026-11-06T23:59:00",
    "feeds": [
     "De Standaard - Economie"
