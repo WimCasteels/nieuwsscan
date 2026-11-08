@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T17:43:47",
+ "generated": "2026-11-08T03:03:44",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 170,
+   "count": 169,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "In Liechtenstein is de publieke omroep ingeruild voor goedkopere AI-radio",
+   "link": "https://nos.nl/l/2638489",
+   "description": "Het is bijna als bij zoveel andere radiostations in Europa en in de rest van de wereld: elk uur of halfuur klinkt een deuntje en leest een presentator het radionieuws voor. Zo ook in het kleine Alpenland Liechtenstein. \"Elf uur, met nu: het nieuws\", klinkt het op Radio Vaterland.\n        Maar de eerste zin van het radiobulletin verraadt het al: \"Dit is met kunstmatige intelligentie de stem van Nicky Stettler\". De teksten van het radiobulletin zijn volledig door AI geschreven en vervolgens uitgesproken, door gekloonde stemmen van redacteuren. Ook de muziekmix wordt zonder tussenkomst van mensen bepaald.\n        En zo ziet dat eruit: \n        In hoofdstad Vaduz laat initiatiefnemer Daniel Bargetze grappend de radiostudio zien: zijn laptop. \"Wij zijn een radiozender zonder studio, alles zit in de cloud.\" Het AI-model maakt gebruik van artikelen uit zijn krant, Liechtensteiner Vaterland, die dagelijks door tientallen mensen wordt gemaakt. \"De basis blijft dus de mens.\" Maar presentatoren en weermensen zijn niet meer nodig.\n        \"In het begin lazen we de teksten nog na, maar inmiddels werkt alles goed genoeg\", vervolgt Bargetze. Kleine foutjes blijven, zoals de uitspraak van buitenlandse politici en bands als U2 en Lynyrd Skynyrd. En hoewel de bevolking onderling een dialect van het Duits spreekt, kan het AI-model op dit moment alleen nog het Standaard Duits aan.\n        Radio Vaterland is in het gat gesprongen dat ontstond toen de publieke omroep in de ministaat met zo'n 41.000 inwoners werd stopgezet. In 2024 stemde een kleine meerderheid in een referendum voor privatisering van de omroep. Dat bleek financieel onhaalbaar, waarna de omroep van Liechtenstein stopte. In één klap stonden 25 omroepmedewerkers op straat.\n        \"Onze AI-zender is met een factor 10 tot 20 goedkoper dan de voormalige omroep\", zegt Bargetze trots. Daar staat tegenover dat het marktaandeel van Radio Vaterland veel kleiner is dan de opgeheven, mensgedreven publieke omroep.\n        De techniek achter Radio Vaterland werd voor het eerst gebruikt op Helgoland, een eiland in de Duitse Noordzee. Oprichter Thore Laufenber van Radio Helgoland verkoopt die software nu tegen betaling aan radiozenders die AI willen gebruiken.\n        Emotie\n        Oud-medewerker van de Liechtensteinse publieke omroep Michel Erismann denkt dat een AI-zender nooit dezelfde emotie kan bieden als een \"menselijke\" zender. Daarom begon hij na het verdwijnen van de publieke omroep een Liechtensteinse variant van Radio2go, een bestaande Zwitserse zender.\n        Nederlandse AI-radio\n        In Nederland ging deze zomer TalkRadio van start, een AI-gedreven radiozender met onder andere nieuws van het ANP. \"Het is een flinke ambitie om een 105 jaar oud medium te vernieuwen\", zegt initiatiefnemer Richard Otto. Hij sleutelt nog aan zijn zender, onder andere aan de stemmen. \"Ik verwacht dat het over vier maanden alweer beter klinkt dan nu.\"\n        De NPO heeft geen plannen om dat op zijn radiozender NPO Radio 1 ook te doen. \"Radio gaat om menselijke connectie\", meldt directeur media Jurre Bosman in een schriftelijke reactie. \"Als het gaat om het maken van de programma's en onze podcasts, zie ik AI niet zomaar de rol van de menselijke maker overnemen.\"\n        \"Een AI-zender is leuk, maar kan nooit hetzelfde bieden als echte radio\", vertelt Erismann in zijn thuisstudio. \"Radio draait om menselijk contact en het overdragen van emoties\", vervolgt hij. \"Als het hier in de Alpen sneeuwt, wil je iemand horen die zegt: jongens, let op, het gaat waanzinnig sneeuwen!\"\n        Zijn wens is om een volwaardige zender te bouwen, met onafhankelijke journalistieke programma's. \"Maar het ontbreekt aan geld\", verzucht Erismann. De Liechtensteinse regering is om financiering gevraagd, maar wijst dat verzoek tot nu toe af.\n        AI-radio is dan een stuk goedkoper. Chef Bargetze ziet AI als hulpmiddel, niet als vervanging van zijn werk. \"Het werkt bij ons omdat we al een krantenredactie zijn. Zonder deze journalisten geen input voor AI.\"",
+   "date": "2026-11-07T20:50:29",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-08",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Nvidia-topman Jensen Huang via ‘honey trap’ mogelijk slachtoffer van Chinese spionageoperatie op het hoogste niveau",
    "link": "https://www.demorgen.be/tech-ai/nvidia-topman-jensen-huang-via-honey-trap-mogelijk-slachtoffer-van-chinese-spionageoperatie-op-het-hoogste-niveau~b763bec8/",
