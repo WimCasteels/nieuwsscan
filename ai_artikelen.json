@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T17:54:49",
+ "generated": "2026-11-09T03:23:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 26,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 34,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 165,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 89,
    "error": null
   },
   {
@@ -315,6 +315,72 @@
   }
  ],
  "articles": [
+  {
+   "title": "‘Anthropic wordt een belangrijke test’: is dit het begin van de AI-crash?",
+   "link": "https://www.demorgen.be/nieuws/anthropic-wordt-een-belangrijke-test-is-dit-het-begin-van-de-ai-crash~ba838468/",
+   "description": "",
+   "date": "2026-11-09T03:00:27",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe reageer je als belegger het best op de recente AI-crash?",
+   "link": "https://www.standaard.be/opinies/hoe-reageer-je-als-belegger-het-best-op-de-recente-ai-crash/164254721.html",
+   "description": "De Amerikaanse aandelenmarkt krijgt flinke klappen, vooral in de techsector. Kunnen Europese beleggers niet beter de VS gewoon de rug toekeren? Frank Vranken vindt alvast van niet.",
+   "date": "2026-11-08T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-topman geeft affaire toe, Amerikaanse chipreus opent onderzoek naar berichtgeving over relatie met Chinese spionne",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/nvidiatopman-geeft-affaire-toe-amerikaanse-chipreus-opent-onde~1776671241366/",
+   "description": "De ontwikkelingen in Artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-08T22:56:40",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Alphabet neemt een belang van 548 miljoen dollar in chipfabrikant Qualcomm",
+   "link": "https://businessam.be/alphabet-neemt-een-belang-van-548-miljoen-dollar-in-chipfabrikant-qualcomm/",
+   "description": "Key takeaways Alphabet heeft in het derde kwartaal een belang in Qualcomm verworven ter waarde van ongeveer 548 miljoen dollar (491 miljoen euro). Met die strategische investering wil het bedrijf de uitbreiding van Qualcomm naar datacentertechnologie ondersteunen. De investering komt op een belangrijk moment voor de chipfabrikant, die zijn inkomstenbronnen wil diversifiëren nu de mobiele-telefoonindustrie […]",
+   "date": "2026-11-08T22:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia opent onderzoek naar relatie topman Huang met mogelijke Chinese spionne",
+   "link": "https://www.tijd.be/r/t/1/id/10699026",
+   "description": "De raad van bestuur van chipgigant Nvidia lanceert een onafhankelijk onderzoek naar de relatie die zijn topman Jensen Huang had met een vrouw die mogelijk spioneerde voor China. De CEO gaf zondag toe dat hij zijn vrouw bedrogen heeft.",
+   "date": "2026-11-08T22:17:39",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dit document beschrijft ‘geheime ziekteremedies’ in codetaal, AI heeft het nu gekraakt",
+   "link": "https://www.demorgen.be/nieuws/dit-document-beschrijft-geheime-ziekteremedies-in-codetaal-ai-heeft-het-nu-gekraakt~b0b816d1/",
+   "description": "",
+   "date": "2026-11-08T21:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
   {
    "title": "'Anthropic sluit megadeal over gasgeneratoren voor AI-datacenters'",
    "link": "https://www.tijd.be/r/t/1/id/10699018",
@@ -357,6 +423,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-11-08",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Hobbyist maakt e-inkhandheld om AI-gegenereerde textadventures te spelen",
+   "link": "https://tweakers.net/geek/254292/hobbyist-maakt-e-inkhandheld-om-ai-gegenereerde-textadventures-te-spelen.html",
+   "description": "Choose-your-own-adventureboeken zijn al een gamificatie van lezen, maar hobbyist Jeremy Ngai gaat nog een stapje verder. Hij heeft een gaminghandheld met e-inkscherm gemaakt om textadventures op te spelen.",
+   "date": "2026-11-08T13:37:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
    "intro_geprobeerd": false
   },
   {
@@ -415,6 +492,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "“Anthropic sluit miljardendeal over gasgeneratoren voor AI-datacenters”",
+   "link": "https://www.standaard.be/economie/anthropic-sluit-miljardendeal-over-gasgeneratoren-voor-ai-datacenters/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-07T18:49:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Nvidia-topman Jensen Huang via ‘honey trap’ mogelijk slachtoffer van Chinese spionageoperatie op het hoogste niveau",
    "link": "https://www.demorgen.be/tech-ai/nvidia-topman-jensen-huang-via-honey-trap-mogelijk-slachtoffer-van-chinese-spionageoperatie-op-het-hoogste-niveau~b763bec8/",
    "description": "",
@@ -445,6 +533,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-ceo geeft romantische relatie met mogelijke Chinese spion toe, bedrijf kondigt onderzoek aan",
+   "link": "https://www.standaard.be/buitenland/nvidia-ceo-geeft-romantische-relatie-met-mogelijke-chinese-spion-toe-bedrijf-kondigt-onderzoek-aan/164224742.html",
+   "description": "De Amerikaanse tussentijdse verkiezingen zijn uitgedraaid op een duidelijke zege voor de Democraten. Zowel in het Huis van Afgevaardigden als in de Senaat halen ze een stevige meerderheid.",
+   "date": "2026-11-07T15:02:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-09",
    "intro_geprobeerd": false
   },
   {
