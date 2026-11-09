@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T03:23:47",
+ "generated": "2026-11-09T22:17:20",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 34,
+   "count": 30,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 89,
+   "count": 93,
    "error": null
   },
   {
@@ -316,6 +316,480 @@
  ],
  "articles": [
   {
+   "title": "Wall Street sluit hoger ondanks commotie rond Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-sluit-hoger-ondanks-commotie-rond-nvidia/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen eindigden maandag diep in het groen, na de uitverkoop van tech- en AI-aandelen vorige week. Dissonant was wel de in opspraak geraakte topman van Nvidia vanwege een affaire met een mogelijke Chinese spion.Dat deed de aandelenkoers van Nvidia dalen, maar over het brede front werden andere techaandelen niet mee omlaag …\nThe post Wall Street sluit hoger ondanks commotie rond Nvidia appeared first on Trends.be.",
+   "date": "2026-11-09T22:12:49",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De duurste affaire ooit",
+   "link": "https://www.tijd.be/r/t/1/id/10699162",
+   "description": "De buitenechtelijke relatie van Nvidia-baas Jensen Huang legt bloot hoe de AI-revolutie macht geconcentreerd heeft bij een te kleine groep mensen en bedrijven.",
+   "date": "2026-11-09T21:17:13",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Koopjesjagers duwen Nasdaq bijna 3 procent hoger, chipaandelen boeken fors herstel",
+   "link": "https://www.tijd.be/r/t/1/id/10699136",
+   "description": "De Amerikaanse beurzen kleuren felgroen. Een opvallende opwaartse uitschieter is de techbeurs Nasdaq, met een fors herstel voor chipaandelen. En dat ondanks de klap voor zwaargewicht Nvidia, als gevolg van de affaire van CEO Jensen Huang met een vrouw die mogelijk spioneerde namens China.",
+   "date": "2026-11-09T21:00:01",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic lanceert krachtigere en goedkopere versie van geavanceerde AI Claude",
+   "link": "https://www.gva.be/economie/bedrijven/anthropic-lanceert-krachtigere-en-goedkopere-versie-van-geavanceerde-ai-claude/164328777.html",
+   "description": "Het Amerikaanse AI-bedrijf Anthropic, het bedrijf achter chatbot Claude, heeft maandag een krachtigere en goedkopere versie van zijn meest geavanceerde AI gelanceerd. Fable 5.2 komt er een week voor de verwachte beursgang van het AI-bedrijf.",
+   "date": "2026-11-09T20:44:25",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een zwarte leren jas en AI-visionair: wie is Nvidia-topman Jensen Huang?",
+   "link": "https://nos.nl/l/2638777",
+   "description": "\"Ik heb er heel veel van, wel dertig of veertig\", zei Nvidia-oprichter en topman Jensen Huang over zijn kenmerkende zwarte jas tegen CBS News. Elke dag draagt hij hetzelfde, zodat hij zich naar eigen zeggen op andere zaken kan richten.\n        Het grootste deel van die jassen kreeg hij van zijn vrouw Lori. Over die echtgenote heeft Huang gisteren toegegeven dat hij haar heeft bedrogen, mogelijk met een Chinese spionne. De affaire veroorzaakte veel opschudding en leidde tot een ongekende koersval vandaag op de beurs van New York.\n        'Koppige ondernemer'\n        De topman blijft voorlopig leidinggeven aan het chipbedrijf, dat hij zelf oprichtte in 1993. Dat deed hij niet in een garage, zoals de oprichters van Apple of Google, maar met twee collega's in de Amerikaanse restaurantketen Denny's. Het werd een van de waardevolste bedrijven ter wereld.\n        In de biografie The Thinking Machine beschrijft auteur Stephen Witt het als het verhaal van een \"koppige ondernemer\" die zijn visie doorzette en daarmee een van de rijkste mannen ter wereld werd: Huang staat op plek 10 van de Bloomberg Billionare Index, met een geschat fortuin van 155 miljard dollar.\n        Van Taiwan naar Silicon Valley\n        Jen-Hsun Huang, later verengelst naar Jensen, werd in 1963 geboren in Taiwan. Zijn ouders verkochten veel van hun bezittingen om hem op jonge leeftijd naar familie in de Verenigde Staten te kunnen sturen. Hij studeerde daar elektrotechniek en ging aan de slag in Silicon Valley, een regio in de staat Californië die bekendstaat om technologische uitvindingen en ontwikkelingen.\n        Huang is al sinds jonge leeftijd samen met zijn vrouw: in 1985 trouwde hij met Lori, die ook is afgestudeerd in de elektrotechniek.\n        Op 30-jarige leeftijd nam hij ontslag bij zijn baan en richtte hij Nvidia op, een chipbedrijf dat zich niet bezighield met het maken van processoren voor een computer, maar juist met een grafische kaart. Die werden voornamelijk in gamecomputers gebruikt.\n        Behalve Huang werkt ook Chris Malachowsky, een van de andere oprichters, nog steeds bij Nvidia. De derde oprichter, Curtis Priem, stapte in 2003 uit het bedrijf en heeft zijn aandelen jaren geleden verkocht.\n        Aan het eind van de jaren 90 had Huang de meeste concurrenten op de markt verslagen, zegt biograaf Witt in een podcast. Maar alleen voor gamecomputers onderdelen aanleveren, daar nam Huang geen genoegen mee.\n        In 2014 nam hij stappen om AI volledig te omarmen. Nvidia maakte een overgang naar mobiele rekenkracht: computers die niet alleen geprogrammeerd zijn om elke keer hetzelfde te doen, maar ook om te leren. Die techniek wordt tegenwoordig gebruikt door bedrijven als OpenAI en Anthropic.\n        \"Hij schetst een helder beeld van 2026, terwijl de rest van ons Flappy Bird speelt op onze telefoons\", omschrijft Witt de visie van Huang uit 2014. Waar miljoenen op hun mobiele telefoon een vogeltje tussen obstakels heen loodsten, voorzag Huang de vlucht die AI zou nemen.\n        Beurswaarde\n        In de eerste jaren na 2010 stond Nvidia bekend als een slechte investering op de beurs; de aandelenkoers van het bedrijf van Jensen Huang kelderde twee keer. Tegenwoordig is de koers een stuk meer waard, ondanks de koersval vandaag door het nieuws over Huangs affaire.\n        Huangs idee om in te zetten op AI en een ander gebruik van chips stuitte in het begin op veel verzet. In die jaren leek zo'n investering onrendabel en Nvidia maakte goede winst met de verkoop van de gamechips. Pas toen Google in 2014 een bestelling plaatste voor de chips ter waarde van 130 miljoen dollar, trok de markt zich wat aan van Huangs ideeën.\n        In de jaren daarna zou Nvidia voor vele miljarden dollars aan bestellingen binnenkrijgen.\n        Toekomst als topman\n        Naast een groot fortuin, heeft Huang ook politieke connecties. Hij heeft veel contact met Donald Trump en Huang zit in een raad die tech-advies geeft aan de president. Daarnaast maakt Nvidia gespecialiseerde chips die niet naar China mogen van de VS. De topman lijkt mede daarom te zijn uitgekozen om te bespioneren.\n        Nvidia is een onderzoek gestart naar de affaire van Huang. Of hij uiteindelijk het veld moet ruimen als topman is niet zeker, zegt Leen Paape, expert ondernemingsbestuur.\n        \"Als ik in de leiding zou zitten, zou ik zeggen: dit is onbestaanbaar. Ik ben zelf recht in de leer: dit kun je niet zomaar laten passeren. Zeker niet bij zo'n bedrijf\", verwijst hij naar marktleider Nvidia, waar de markante oprichter Huang al decennia aan het roer staat.\n        \"Maar niets is uitgesloten: juist omdát het zo'n bijzonder bedrijf is, kan het zijn dat hij ermee wegkomt.\"",
+   "date": "2026-11-09T20:18:11",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google onthult twee nieuwe gespecialiseerde AI-chips om concurrentie met Nvidia op te voeren",
+   "link": "https://businessam.be/google-onthult-twee-nieuwe-gespecialiseerde-ai-chips-om-concurrentie-met-nvidia-op-te-voeren/",
+   "description": "Key takeaways In een poging de concurrentie met Nvidia op te voeren, introduceert Google twee op maat gemaakte tensor processing units (TPU’s). Volgens Amin Vahdat, hoofd van de chipdivisie van Google, worden de TPU 8tx en TPU 8i Max vandaag aangekondigd. De introductie staat gepland voor volgend jaar. Dat meldt Bloomberg. Verbeterde beveiliging De TPU […]",
+   "date": "2026-11-09T20:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie let op de rechten van patiënten tijdens de AI-opmars? &#8216;AI-tools werken anders in een chaotisch ziekenhuis dan in hun testomgeving&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/11/09/wie-let-op-de-rechten-van-patienten-tijdens-de-ai-opmars-ai-tools-werken-anders-in-een-chaotisch-ziekenhuis-dan-in-hun-testomgeving-a4940504",
+   "description": "De zorgsector laat zich te veel leiden door AI-enthousiasme, ziet jurist Hannah van Kolfschooten. Ook is het voor artsen niet altijd helder hoe ze AI-tools veilig kunnen inzetten. „Het is oneerlijk om van dokters te vragen goede zorg te verlenen en de regels voor AI-gebruik zelf toe te passen.”",
+   "date": "2026-11-09T19:45:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Datacenters stillen energiehonger met tweedehands vliegtuigmotoren",
+   "link": "https://www.tijd.be/r/t/1/id/10699155",
+   "description": "De snelle opmars van datacenters voor AI leidt tot een rush op energie-infrastructuur. Omdat de wachttijden van nieuwe generatoren oplopen, maken energiebedrijven jacht op oude toestellen en zelfs op vliegtuigmotoren.",
+   "date": "2026-11-09T19:43:13",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dat lijkt wel AI, in het Barneveldse boekenhok",
+   "link": "https://www.nrc.nl/nieuws/2026/11/09/dat-lijkt-wel-ai-in-het-barneveldse-boekenhok-a4940926",
+   "description": "Uit straatboekenkastjes in heel Nederland haalt Arjen Fortuin steeds een boek, bespreekt het, en geeft het door. Deze week een Griekse liefdesroman met surrogaten en slapstick in Barneveld.",
+   "date": "2026-11-09T19:41:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Eén regenboogvlag maakt nog geen motief: onzekerheid over aanslag Krakau leidt tot speculatie online",
+   "link": "https://vrtnws.be/p.nwvBXXj4D",
+   "description": "De vele onzekerheden over de aanslag in de Poolse stad Krakau hebben meteen tot nepnieuws online geleid. Onscherpe beelden van de aanslag zijn scherper gemaakt met AI, maar die fantaseert er helaas ook details bij. En een foto van een man met een regenboogvlag verraadt niet het motief van de dader, zoals online wel wordt beweerd. Waarom de dader de aanslag uitvoerde, is momenteel nog niet geweten.",
+   "date": "2026-11-09T19:18:48",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google kondigt twee AI-chipsystemen aan met betere beveiliging of efficiëntie",
+   "link": "https://tweakers.net/nieuws/254330/google-kondigt-twee-ai-chipsystemen-aan-met-betere-beveiliging-of-efficientie.html",
+   "description": "Google heeft twee varianten van zijn achtste generatie tpu-AI-chipsystemen aangekondigd. De 8tx-versie is beter beveiligd, terwijl de 8i Max minder ruimte inneemt en meer geheugenbandbreedte biedt. Het is voor het eerst dat Google vier tpu-versies in één jaar aankondigt.",
+   "date": "2026-11-09T18:26:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politieke overwinning Democraten zou Amerikaans energie- en AI-beleid grondig kunnen veranderen",
+   "link": "https://businessam.be/politieke-overwinning-democraten-zou-amerikaans-energie-en-ai-beleid-grondig-kunnen-veranderen/",
+   "description": "Key takeaways Na een grote overwinning van de Democraten wordt een ingrijpende verschuiving in het Amerikaanse energielandschap verwacht. Met de controle over beide kamers van het Congres en essentiële commissies, evenals belangrijke gouverneursposten in staten als Texas, Georgia en Ohio, bevinden de Democraten zich in een positie om de focus van de regering-Trump op fossiele […]",
+   "date": "2026-11-09T17:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tests met zelfrijdende auto tussen Corda Campus Hasselt en Eindhoven",
+   "link": "https://vrtnws.be/p.5wa4DeZLJ",
+   "description": "Deze week zijn er enkele tests met een zelfrijdende Tesla tussen de Corda Campus in Hasselt en het Nederlandse Eindhoven, en op enkele trajecten in Lommel en Pelt. De wagen rijdt zelf, maar er zit wel nog altijd een persoon achter het stuur die indien nodig kan ingrijpen. De testwagen is uitgerust met extra camera’s en sensoren om de reacties van de bestuurder en de andere weggebruikers nauwgezet te registreren en analyseren.",
+   "date": "2026-11-09T17:06:21",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Seks, spionage en een van de machtigste mannen ter wereld. Waarom ligt het schandaal rond Nvidia-topman Jensen Huang zo gevoelig?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/09/seks-ai-en-geopolitiek-nvidia-topman-jensen-huang-bleek-niet-bestand-tegen-ouderwetse-honeytrap-a4940841",
+   "description": "Onder leiding van Jensen Huang groeide de Amerikaanse chipfabrikant Nvidia uit tot een van de bedrijven met de hoogste waarde ter wereld, met voor de VS een groot geopolitiek belang. Nu is Huang verwikkeld in een spionageschandaal. Waarom ligt dit zo gevoelig?",
+   "date": "2026-11-09T17:04:17",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Werd Nvidia-topman verleid door een Chinese spion? ‘China zoekt constant naar zwakke plekken van invloedrijke mensen’",
+   "link": "https://www.volkskrant.nl/buitenland/werd-nvidia-topman-verleid-door-een-chinese-spion-china-zoekt-constant-naar-zwakke-plekken-van-invloedrijke-mensen~bce36be2/",
+   "description": "",
+   "date": "2026-11-09T17:00:53",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AMD erkent dat driverbug veel onnodige ssd-schrijfacties oplevert",
+   "link": "https://tweakers.net/nieuws/254324/amd-erkent-dat-driverbug-veel-onnodige-ssd-schrijfacties-oplevert.html",
+   "description": "AMD bevestigt dat een bug in zijn drivers ervoor kan zorgen dat er veel onnodige schrijfacties op de ssd plaatsvinden. Dit kan de levensduur van de ssd verkorten. De bug zit al zeker een jaar in de driver en wordt deze maand opgelost.",
+   "date": "2026-11-09T17:00:52",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De rockster van de techindustrie zit in het nauw: hoe de affaire van Jensen Huang veel meer dan alleen Nvidia bedreigt",
+   "link": "https://www.standaard.be/economie/technologie/de-rockster-van-de-techindustrie-zit-in-het-nauw-hoe-de-affaire-van-jensen-huang-veel-meer-dan-alleen-nvidia-bedreigt/164279203.html",
+   "description": "Het spionageschandaal rond Nvidia-ceo Jensen Huang escaleert. Als de ‘rockster’ van de techindustrie moet opstappen, kan dat grote gevolgen hebben voor Nvidia, de spil van de huidige AI-boom.",
+   "date": "2026-11-09T16:55:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China verwerpt beweringen over mogelijke spionage rond Nvidia-CEO",
+   "link": "https://businessam.be/china-verwerpt-beweringen-over-mogelijke-spionage-rond-nvidia-ceo/",
+   "description": "Key takeaways Nadat Jensen Huang, CEO van Nvidia, een buitenechtelijke relatie had toegegeven, heeft het Chinese ministerie van Buitenlandse Zaken beweringen ontkend dat er sprake zou zijn van spionage. Woordvoerder Guo Jiakun bestempelde de beschuldigingen als verzonnen en lasterlijk. Intern onderzoek  Hoewel de topman van het Amerikaanse halfgeleiderbedrijf de affaire heeft toegegeven, wat het bedrijf […]",
+   "date": "2026-11-09T16:45:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De truc met de afgeschreven vliegtuigen: hun oude, vervuilende motoren krijgen een nieuw leven als stroomgenerator voor AI-datacenters",
+   "link": "https://www.standaard.be/economie/de-truc-met-de-afgeschreven-vliegtuigen-hun-oude-vervuilende-motoren-krijgen-een-nieuw-leven-als-stroomgenerator-voor-ai-datacenters/164283682.html",
+   "description": "AI-bedrijven als xAI en OpenAI zetten oude, vervuilende vliegtuigmotoren in om hun datacenters van stroom te voorzien. Zo raken ze sneller aan de nodige elektriciteit.",
+   "date": "2026-11-09T16:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia verliest ruim 350 miljard dollar aan beurswaarde nadat CEO Jensen Huang affaire met mogelijke Chinese spion toegeeft",
+   "link": "https://www.demorgen.be/nieuws/nvidia-verliest-ruim-350-miljard-dollar-aan-beurswaarde-nadat-ceo-jensen-huang-affaire-met-mogelijke-chinese-spion-toegeeft~bd14166c/",
+   "description": "",
+   "date": "2026-11-09T16:06:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Geen duidelijke opvolger en zijn kinderen in de coulissen: waarom Jensen Huang niet zo gemakkelijk te straffen is door Nvidia",
+   "link": "https://www.demorgen.be/nieuws/geen-duidelijke-opvolger-en-zijn-kinderen-in-de-coulissen-waarom-jensen-huang-niet-zo-gemakkelijk-te-straffen-is-door-nvidia~be03606b/",
+   "description": "",
+   "date": "2026-11-09T16:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nvidia verliest ruim 350 miljard dollar beurswaarde bij opening Wall Street",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/nvidia-verliest-ruim-350-miljard-dollar-beurswaarde-bij-opening-~1776671241366/",
+   "description": "De ontwikkelingen in Artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-09T15:53:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "“Ja, ik ben ontrouw geweest”: affaire met ‘Chinese spionne’ kost Nvidia ruim 350 miljard dollar aan beurswaarde",
+   "link": "https://www.hln.be/economie/ja-ik-ben-ontrouw-geweest-affaire-met-chinese-spionne-kost-nvidia-ruim-350-miljard-dollar-aan-beurswaarde~a9b72401/",
+   "description": "Chipconcern Nvidia is op de beurs in New York onderuitgegaan door een affaire van Jensen Huang. De topman heeft toegegeven een romance gehad te hebben met een vrouw die verdacht wordt van spionage voor China. Beleggers vragen zich onder meer af of Huang nu nog wel kan aanblijven bij Nvidia. Ze hebben het aandeel zo’n 8 procent lager gezet. Dat betekent dat er meer dan 350 miljard dollar (313 miljard euro) aan beurswaarde in rook opgegaan is.",
+   "date": "2026-11-09T15:44:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VUB-studenten bestrijden Aziatische hoornaar met AI, een val en een schimmel die het hele nest treft",
+   "link": "https://vrtnws.be/p.jGkKXa0YV",
+   "description": "Een interdisciplinair studententeam van de Vrije Universiteit Brussel (VUB) heeft een innovatieve methode ontwikkeld om de Aziatische hoornaar gericht en effectief te bestrijden. Dat meldt VUB in een persbericht. Het team omschrijft het middel als een 'Trojaans paard'.",
+   "date": "2026-11-09T14:47:38",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EFF hekelt Google over het opdringen van AI aan scholen",
+   "link": "https://www.security.nl/posting/960915/EFF+hekelt+Google+over+het+opdringen+van+AI+aan+scholen?channel=rss",
+   "description": "De Amerikaanse burgerrechtenbeweging EFF hekelt Google over het opdringen van AI aan scholen.  Google maakte vorige week bekend ...",
+   "date": "2026-11-09T14:17:34",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Minister: politiedrones voor verkeershandhaving beschikken niet over AI",
+   "link": "https://www.security.nl/posting/960895/Minister%3A+politiedrones+voor+verkeershandhaving+beschikken+niet+over+AI?channel=rss",
+   "description": "Drones die de Amsterdamse politie inzet om gevaarlijk verkeersgedrag tegen te gaan beschikken niet over AI-beeldherkenning. De ...",
+   "date": "2026-11-09T14:00:03",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic koopt voor 3,4 miljard dollar aan gasgeneratoren om datacenters van stroom te voorzien",
+   "link": "https://businessam.be/anthropic-koopt-voor-34-miljard-dollar-aan-gasgeneratoren-om-datacenters-van-stroom-te-voorzien/",
+   "description": "Key takeaways Volgens een bericht in de Financial Times heeft Anthropic 3,4 miljard dollar (3 miljard euro) uitgetrokken voor de aankoop van gasgeneratoren om zijn datacenters van stroom te voorzien. Het gaat om de grootste afzonderlijke aankoop van energieapparatuur door een AI-bedrijf tot nu toe. De generatoren hebben samen een opwekkingscapaciteit van 1,7 gigawatt. De […]",
+   "date": "2026-11-09T13:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NYT: Chinese bedrijven krijgen ondanks verbod via omwegen toch Nvidia H200-chips",
+   "link": "https://tweakers.net/nieuws/254312/nyt-chinese-bedrijven-krijgen-ondanks-verbod-via-omwegen-toch-nvidia-h200-chips.html",
+   "description": "Chinese bedrijven die op een sanctielijst staan, kunnen via een omweg toch aan H200-chips van Nvidia komen. Uit onderzoek van The New York Times blijkt dat zij bijvoorbeeld het verbod omzeilen door de AI-chips via nepbedrijven in te kopen.",
+   "date": "2026-11-09T13:19:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DroidDeck werkt nu ook op recente Samsung- en Pixel-telefoons",
+   "link": "https://tweakers.net/nieuws/254306/droiddeck-werkt-nu-ook-op-recente-samsung-en-pixel-telefoons.html",
+   "description": "DroidDeck ondersteunt nu ook Mali-, PowerVR- en Xclipse-gpu's. De ontwikkelaars hebben de ondersteuning toegevoegd in versie 0.7.0. Daardoor werkt de app ook op recente Google Pixel- en Samsung-telefoons.",
+   "date": "2026-11-09T12:24:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Affaire met spionne doet Nvidia-baas Huang wankelen: dit moet je over hem weten",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/09/jensen-huang-ceo-nvidia-portret/",
+   "description": "Nvidia-topman Jensen Huang staat in het oog van de storm, nu hij een amoureuze affaire blijkt te hebben met een dame die volgens de inlichtingendiensten een Chinese spionne zou zijn. De onthulling komt net op het moment dat Huangs populariteit als AI-goeroe hoge toppen scheert. Maar waar komt Huang eigenlijk vandaan?",
+   "date": "2026-11-09T12:05:42",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Waarom de affaire van Nvidia-topman Jensen Huang wereldnieuws is",
+   "link": "https://www.trouw.nl/buitenland/waarom-de-affaire-van-nvidia-topman-jensen-huang-wereldnieuws-is~bf9b7168/",
+   "description": "",
+   "date": "2026-11-09T11:57:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Affaire van Nvidia-topman is niet alleen schadelijk voor zijn eigen reputatie: “Dit kan gebeurtenis worden voor in geschiedenisboeken”",
+   "link": "https://www.gva.be/economie/affaire-van-nvidia-topman-is-niet-alleen-schadelijk-voor-zijn-eigen-reputatie-dit-kan-gebeurtenis-worden-voor-in-geschiedenisboeken/164288098.html",
+   "description": "De mea culpa van Nvidia-topman Jensen Huang over een affaire met een vermeende Chinese spionne is niet enkel schadelijk voor ‘s mans reputatie. “Dit kan een gebeurtenis worden voor in de geschiedenisboeken.”",
+   "date": "2026-11-09T11:37:03",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-CEO Jensen Huang geeft relatie met vermoedelijke Chinese spion toe: ‘Er is geen enkel excuus voor wat ik heb gedaan’",
+   "link": "https://trends.knack.be/ai-en-tech/nvidia-ceo-jensen-huang-geeft-relatie-met-vermoedleijke-chinese-spion-toe-ik-blijf-me-volledig-inzetten-voor-nvidia/",
+   "description": "Nvidia-topman Jensen Huang heeft toegegeven dat hij een affaire heeft gehad. Dat doet hij twee dagen nadat de Financial Times berichtte over zijn vermeende romantische relatie met een vrouw die volgens de Amerikaanse inlichtingendiensten als spion voor China werkte.\nThe post Nvidia-CEO Jensen Huang geeft relatie met vermoedelijke Chinese spion toe: ‘Er is geen enkel excuus voor wat ik heb gedaan’ appeared first on Trends.be.",
+   "date": "2026-11-09T11:08:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic geeft drie miljard euro uit aan generatoren voor stroom in datacenters",
+   "link": "https://tweakers.net/nieuws/254308/anthropic-geeft-drie-miljard-euro-uit-aan-generatoren-voor-stroom-in-datacenters.html",
+   "description": "Anthropic heeft dit najaar een overeenkomst gesloten om drie miljard euro te investeren in generatoren op gas voor zijn Amerikaanse AI-datacenters. AI-bedrijven laten dit doorgaans over aan leveranciers, maar Anthropic heeft dit contract zelf gesloten.",
+   "date": "2026-11-09T10:50:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia onderzoekt mogelijke Chinese spionage rond CEO Jensen Huang",
+   "link": "https://businessam.be/nvidia-onderzoekt-mogelijke-chinese-spionage-rond-ceo-jensen-huang/",
+   "description": "Key takeaways De raad van bestuur van Nvidia heeft een extern onderzoek ingesteld naar aanleiding van beschuldigingen dat CEO Jensen Huang het doelwit was van een door China georkestreerde spionagecampagne. Relatie met vermeende Chinese spion Het besluit volgt op de publicatie van een persoonlijke verklaring van Huang, waarin hij toegaf een buitenechtelijke relatie te hebben […]",
+   "date": "2026-11-09T10:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursblog: wat is de toegevoegde waarde van AI?",
+   "link": "https://trends.knack.be/beleggen/adviezen/beursblog-wat-is-de-toegevoegde-waarde-van-ai/",
+   "description": "De minicrash op de beurzen van vorige week bewijst hoe onzeker het AI-narratief nog is. Niemand weet of de massale investeringen uiteindelijk rendabel zullen zijn, laat staan wie daar het meest van zal profiteren.\nThe post Beursblog: wat is de toegevoegde waarde van AI? appeared first on Trends.be.",
+   "date": "2026-11-09T10:04:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Poolse vicepremier pleit voor nucleaire afschrikking tegen AI-cyberaanvallen in Europa",
+   "link": "https://businessam.be/europa-moet-zich-met-koude-oorlog-aanpak-wapenen-tegen-ai-oorlogsvoering-volgens-polen/",
+   "description": "Key takeaways Krzysztof Gawkowski, vicepremier van Polen en minister van Digitale Zaken, stelt dat Europa een veiligheidsstrategie moet invoeren die doet denken aan de “wederzijds gegarandeerde vernietiging” uit de Koude Oorlog, om de groeiende dreiging van door AI aangestuurde conflicten te bestrijden. Hij beschrijft artificiële intelligentie (AI) als een “krachtvermenigvuldiger” die een volledige herziening van […]",
+   "date": "2026-11-09T08:32:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NVIDIA start onderzoek naar topman die affaire met mogelijke spion toegeeft",
+   "link": "https://www.nu.nl/economie/6415947/nvidia-start-onderzoek-naar-topman-die-affaire-met-mogelijke-spion-toegeeft.html",
+   "description": "NVIDIA-CEO Jensen Huang geeft toe dat hij zijn vrouw ontrouw is geweest. Het chipbedrijf start een onderzoek naar de affaire met een vrouw die mogelijk door de Chinese overheid is gestuurd.",
+   "date": "2026-11-09T08:15:27",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Terughoudende weekstart voor Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/terughoudende-weekstart-voor-bel20/",
+   "description": "(ABM FN) De Brusselse beurs maakt zich maandag op voor een min of meer vlakke opening, na een turbulente handelsweek waarin vooral technologieaandelen onder druk stonden door zorgen over de hoge waarderingen en de enorme investeringen in kunstmatige intelligentie, na de grote overwinning van de Democraten bij de midterms.De Bel20 sloot vrijdag 0,3 procent in het …\nThe post Terughoudende weekstart voor Bel20 appeared first on Trends.be.",
+   "date": "2026-11-09T08:01:36",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia start onderzoek naar topman Huang",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-start-onderzoek-naar-topman-huang/",
+   "description": "(ABM FN-Dow Jones) De raad van bestuur van Nvidia start een onafhankelijk onderzoek naar aanleiding van recente berichten dat oprichter en CEO Jensen Huang het doelwit is geweest van een buitenlandse inlichtingenoperatie. Dit meldde de Amerikaanse chipreus zondagavond laat.Hoewel de raad van bestuur geen reden heeft om aan te nemen dat de nationale veiligheid of bedrijfsgeheimen …\nThe post Nvidia start onderzoek naar topman Huang appeared first on Trends.be.",
+   "date": "2026-11-09T07:41:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia start onderzoek ceo Jensen Huang vanwege contact met spion",
+   "link": "https://tweakers.net/nieuws/254294/nvidia-start-onderzoek-ceo-jensen-huang-vanwege-contact-met-spion.html",
+   "description": "Het bestuur van Nvidia onderzoekt zijn eigen ceo Jensen Huang. Het bedrijf wil uitzoeken of Huang vertrouwelijke informatie heeft doorgespeeld aan een vermoedelijke spion. Met haar heeft hij een liefdesrelatie gehad.",
+   "date": "2026-11-09T07:30:44",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Jullie verdienen beter van mij\": Nvidia-topman geeft overspel toe in brief, bestuur opent onderzoek",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/09/jensen-huang-nvidia-affaire-spionne-open-brief-onderzoek/",
+   "description": "Het Amerikaanse technologiebedrijf Nvidia opent een onafhankelijk onderzoek naar zijn eigen CEO en oprichter Jensen Huang.",
+   "date": "2026-11-09T06:54:17",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Klap in het gezicht voor Silicon Valley: Amerikanen zeggen nee tegen datacentra en AI",
+   "link": "https://www.ad.nl/buitenland/klap-in-het-gezicht-voor-silicon-valley-amerikanen-zeggen-nee-tegen-datacentra-en-ai~a412f57d/",
+   "description": "Niet alleen de Republikeinen, ook AI-bedrijven kregen een tik tijdens de midterms. Zowel nationaal als lokaal wonnen Democraten die meer regelgeving wensen. Bovendien stemden Amerikanen in referenda massaal tegen datacentra.",
+   "date": "2026-11-09T06:00:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-09",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "‘Anthropic wordt een belangrijke test’: is dit het begin van de AI-crash?",
    "link": "https://www.demorgen.be/nieuws/anthropic-wordt-een-belangrijke-test-is-dit-het-begin-van-de-ai-crash~ba838468/",
    "description": "",
@@ -332,7 +806,8 @@
    "description": "De Amerikaanse aandelenmarkt krijgt flinke klappen, vooral in de techsector. Kunnen Europese beleggers niet beter de VS gewoon de rug toekeren? Frank Vranken vindt alvast van niet.",
    "date": "2026-11-08T23:59:00",
    "feeds": [
-    "De Standaard - Opinies"
+    "De Standaard - Opinies",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-09",
    "intro_geprobeerd": false
