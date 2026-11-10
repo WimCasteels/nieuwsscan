@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T22:17:20",
+ "generated": "2026-11-10T05:30:04",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 167,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "De Colorado als klimaatcase: steeds minder water voor steeds meer gegadigden",
+   "link": "https://vrtnws.be/p.oLqGn6vqO",
+   "description": "De Colorado in het westen van de VS levert drinkwater aan miljoenen mensen en dieren en sproeiwater aan tienduizenden boeren. Zonder het water van de rivier had de stad Las Vegas nooit dezelfde groei gekend of zouden sla, broccoli of vlees niet zo goedkoop op de Amerikaanse markt kunnen komen. Dat het waterpeil van de rivier al 26 jaar blijft zakken, is dan ook een reden tot bezorgdheid. Zeker nu er nog nieuwe spelers opduiken, zoals datacenters, die van het water gebruik willen maken. We trokken naar de VS om er een documentaire te draaien en om na te gaan wie er moet leven van de Colorado.",
+   "date": "2026-11-10T05:13:27",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia en topman Huang aangeklaagd in verband met spionagezaak",
+   "link": "https://www.nrc.nl/nieuws/2026/11/10/nvidia-en-topman-huang-aangeklaagd-in-verband-met-spionagezaak-a4940977",
+   "description": "Het AI-chipconcern en zijn topman Jensen Huang zijn aangeklaagd in een collectieve rechtszaak. Zij worden ervan beschuldigd aandeelhouders te hebben misleid.",
+   "date": "2026-11-10T03:33:01",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mogelijke Nvidia-spionagezaak wordt onderzocht door FBI, zegt Trump",
+   "link": "https://www.standaard.be/economie/mogelijke-nvidia-spionagezaak-wordt-onderzocht-door-fbi-zegt-trump/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-10T03:20:09",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Macron wil AI verbieden voor kinderen als hun gezondheid in gevaar is",
+   "link": "https://www.gva.be/economie/technologie/macron-wil-ai-verbieden-voor-kinderen-als-hun-gezondheid-in-gevaar-is/164332757.html",
+   "description": "De Franse president Emmanuel Macron wil AI-technologie verbieden voor kinderen wanneer die een risico vormt voor hun gezondheid. Dat heeft hij maandag gezegd.",
+   "date": "2026-11-10T02:55:11",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aandeelhouders spannen rechtszaak aan tegen Jensen Huang en Nvidia, FBI onderzoekt affaire met Chinese spion",
+   "link": "https://www.gva.be/economie/bedrijven/aandeelhouders-spannen-rechtszaak-aan-tegen-jensen-huang-en-nvidia-fbi-onderzoekt-affaire-met-chinese-spion/164332746.html",
+   "description": "Aandeelhouders van Nvidia hebben maandag een rechtszaak ingediend tegen de techreus en topman Jensen Huang. Die zouden hen hebben misleid door de relatie van Huang met een vermeende Chinese spion te verzwijgen. De FBI onderzoekt de affaire.",
+   "date": "2026-11-10T02:37:42",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump gelooft Nvidia-CEO over affaire met spionne, maar \"FBI onderzoekt de zaak\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/trump-gelooft-nvidiaceo-over-affaire-met-spionne-maar-fbi-ond~1776671241366/",
+   "description": "De ontwikkelingen in Artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-09T23:41:24",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic lanceert snellere goedkopere versies van zijn AI-model in aanloop naar beursgang",
+   "link": "https://www.tijd.be/r/t/1/id/10699165",
+   "description": "De AI-reus Anthropic heeft weken voor wat de grootste beursgang aller tijden kan worden nieuwe en vooral ook goedkopere versies van zijn AI-model Claude gelanceerd.",
+   "date": "2026-11-09T22:15:50",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Wall Street sluit hoger ondanks commotie rond Nvidia",
    "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-sluit-hoger-ondanks-commotie-rond-nvidia/",
