@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T05:30:04",
+ "generated": "2026-11-10T19:27:44",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 29,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,482 @@
   }
  ],
  "articles": [
+  {
+   "title": "TSMC ziet omzet in oktober met bijna 60 procent stijgen door aanhoudende vraag naar AI-chips",
+   "link": "https://businessam.be/tsmc-ziet-omzet-in-oktober-met-bijna-60-procent-stijgen-door-aanhoudende-vraag-naar-ai-chips/",
+   "description": "Key takeaways Aangedreven door de aanhoudende opmars van artificiële intelligentie rapporteerde Taiwan Semiconductor Manufacturing Corp (TSMC) een aanzienlijke winststijging voor oktober. Omzet stijgt met bijna 60 procent De halfgeleidergigant zag zijn maandomzet stijgen tot 367,47 miljard Taiwanese dollar (ongeveer 9,9 miljard euro), wat neerkomt op een groei van 59,7 procent ten opzichte van dezelfde maand […]",
+   "date": "2026-11-10T18:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen houden winst vast",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-houden-winst-vast-2/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn dinsdag overwegend hoger geëindigd, met hulp van halfgeleideraandelen en banken, terwijl de olieprijzen verder daalden. Na de lagere opening van Wall Street liepen de winsten in Europa wel terug.De Stoxx Europe 600 eindigde 0,3 procent hoger en sloot op 658,32 punten. De Duitse DAX sloot ook 0,3 procent in …\nThe post Europese beurzen houden winst vast appeared first on Trends.be.",
+   "date": "2026-11-10T18:36:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Handelsoverschot China bereikt 1 biljoen dollar door sterke stijging AI-export",
+   "link": "https://businessam.be/handelsoverschot-china-bereikt-1-biljoen-dollar-door-sterke-stijging-ai-export/",
+   "description": "Key takeaways Aangedreven door de wereldwijde opmars van artificiële intelligentie overschreed het handelsoverschot van China in oktober de grens van 1 biljoen dollar, waarmee deze mijlpaal sneller werd bereikt dan tijdens het vorige recordjaar. Economisch vangnet De stijging is grotendeels toe te schrijven aan een sterke toename van internationale bestellingen voor netwerkhardware, datacenterservers en halfgeleiders. […]",
+   "date": "2026-11-10T18:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Preview - AMD Zen 6-processors - Eindelijk meer cores per chiplet",
+   "link": "https://tweakers.net/reviews/15572/amd-zen-6-processors-eindelijk-meer-cores-per-chiplet.html",
+   "description": "AMD gaat met zijn nieuwe Zen 6-architectuur de grootste stap in jaren zetten. De cores worden niet alleen sneller, maar ook de aantallen gaan omhoog.",
+   "date": "2026-11-10T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD zet AI in om serverram deels te vervangen door goedkoper flashgeheugen",
+   "link": "https://tweakers.net/nieuws/254226/amd-zet-ai-in-om-serverram-deels-te-vervangen-door-goedkoper-flashgeheugen.html",
+   "description": "AMD wil het werkgeheugen van servers voor een deel gaan vervangen door goedkoper flashgeheugen. Dat zei het bedrijf tijdens een presentatie in Las Vegas. Door de gestegen geheugenprijzen maakt ram inmiddels driekwart van de kostprijs van een server uit. De nieuwe techniek moet dat terugdringen.",
+   "date": "2026-11-10T18:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Een AI-agent is geen tool, het is een digitale immigrant’: historicus Harari zet CIO’s aan het denken op Gartner IT Symposium",
+   "link": "https://trends.knack.be/ai-en-tech/een-ai-agent-is-geen-tool-het-is-een-digitale-immigrant-historicus-harari-zet-cios-aan-het-denken-op-gartner-it-symposium/",
+   "description": "Op het IT Symposium van Gartner in Barcelona zette historicus en bestseller-auteur Yuval Noah Harari de zaal op scherp met een ongemakkelijke boodschap: de manier waarop bedrijven AI inzetten, is fundamenteel verkeerd. \"Wie AI behandelt als een softwaretool, begrijpt niet waarmee hij bezig is.\"\nThe post ‘Een AI-agent is geen tool, het is een digitale immigrant’: historicus Harari zet CIO’s aan het denken op Gartner IT Symposium appeared first on Trends.be.",
+   "date": "2026-11-10T17:59:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic mikt op waardering van 1.400 miljard dollar. Maar weet het beleggers te overtuigen dat AI winstgevend wordt?",
+   "link": "https://www.standaard.be/economie/anthropic-mikt-op-waardering-van-1.400-miljard-dollar.-maar-weet-het-beleggers-te-overtuigen-dat-ai-winstgevend-wordt/164340293.html",
+   "description": "Het gaat er stormachtig aan toe in de AI-wereld. Toch zet Anthropic de eindspurt in naar zijn langverwachte beursgang. Maar om zijn investeringen terug te verdienen, zal de omzet de hoogte in moeten.",
+   "date": "2026-11-10T17:51:32",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Frankrijk wil met internationale afspraken de veiligheidsrisico’s van AI beter beheersen",
+   "link": "https://businessam.be/frankrijk-wil-met-internationale-afspraken-de-veiligheidsrisicos-van-ai-beter-beheersen/",
+   "description": "Key takeaways Gedreven door toenemende zorgen over de veiligheidsrisico’s die gepaard gaan met artificiële intelligentie, heeft de Franse president Emmanuel Macron gepleit voor strenger wereldwijd toezicht. Tijdens een recente virtuele top bracht de Franse leider ongeveer 50 sleutelfiguren bijeen, waaronder vooraanstaande directeuren van AI-laboratoria, academische onderzoekers en internationale staatshoofden. De “Paris Call for AI Safety” […]",
+   "date": "2026-11-10T17:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spionageschandaal zet spot op bestuurscultuur bij Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10699247",
+   "description": "Nu de stoel van Jensen Huang wankelt, klinken er plots ongemakkelijke vragen over hoe de Nvidia-CEO 33 jaar lang het bedrijf leidde. Hoe kon een van de belangrijkste bedrijven van de wereld zo afhankelijk worden van één man?",
+   "date": "2026-11-10T17:07:17",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Russische techgigant Yandex: 3 procent van klantendata verloren na Oekraïense aanvallen op datacenters",
+   "link": "https://www.demorgen.be/oorlog-in-oekraine/live-gesprekken-tussen-oekraine-rusland-en-vs-in-abu-dhabi-zijn-afgelopen-en-gaan-morgen-verder-vs-en-eu-benadrukken-inzet-voor-sterke-veiligheid-na-oorlog~b38bed0a/",
+   "description": "",
+   "date": "2026-11-10T17:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws",
+    "De Morgen - Oorlog Oekraine"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hielp Nvidia bij het omzeilen van Amerikaanse exportcontroles?",
+   "link": "https://www.standaard.be/buitenland/hielp-nvidia-bij-het-omzeilen-van-amerikaanse-exportcontroles/164339793.html",
+   "description": "Nvidia’s pogingen om geavanceerde AI-chips in China te krijgen, komen onder een vergrootglas te liggen. Jensen Huangs rol als Chinafluisteraar van de regering-Trump lijkt uitgespeeld.",
+   "date": "2026-11-10T16:55:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia en CEO Jensen Huang aangeklaagd door aandeelhouders na spionagezaak",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/nvidia-en-ceo-jensen-huang-aangeklaagd-door-aandeelhouders-na-sp~1776671241366/",
+   "description": "De ontwikkelingen in Artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-10T16:45:56",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wie is Alice Huang, de Chinese spionne met een verdacht eigen bedrijf dicht bij Nvidia?",
+   "link": "https://www.standaard.be/economie/wie-is-alice-huang-de-chinese-spionne-met-een-verdacht-eigen-bedrijf-dicht-bij-nvidia/164335153.html",
+   "description": "Vele miljoenen dollars besteedde Nvidia aan de beveiliging van ceo Jensen Huang. Toch slaagde één innemende zakenvrouw met verdachte connecties met Peking erin een vertrouwensband met hem op te bouwen. Wie is Alice Huang?",
+   "date": "2026-11-10T16:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Seks en spionage: de druk op Nvidia neemt toe",
+   "link": "https://www.nrc.nl/nieuws/2026/11/10/seks-en-spionage-de-druk-op-nvidia-neemt-toe-in-het-nieuws-a4941032",
+   "description": "Drama bij Nvidia, een van de bedrijven met de hoogste waarde ter wereld. De topman van de chipfabrikant, Jensen Huang, zou een affaire hebben gehad met een Chinese vrouw die door de Amerikaanse veiligheidsdiensten wordt verdacht van spionage voor de Chinese overheid.",
+   "date": "2026-11-10T16:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic houdt vast aan geplande beursgang ondanks onrust op de AI-markt",
+   "link": "https://businessam.be/anthropic-bereidt-beursgang-op-nasdaq-voor-te-midden-van-volatiliteit-op-de-ai-markt/",
+   "description": "Key takeaways Volgens een bericht in The Wall Street Journal bereidt Anthropic zich voor om volgende week donderdag of vrijdag naar de beurs te gaan. Het bedrijf zet door met zijn beursdebuut op de Nasdaq onder het tickersymbool ANT, ondanks de huidige instabiliteit in de sector van artificiële intelligentie en onenigheid over de marktwaardering. Afronding […]",
+   "date": "2026-11-10T16:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia verder omlaag op Wall Street door affaire topman",
+   "link": "https://www.hln.be/economie/nvidia-verder-omlaag-op-wall-street-door-affaire-topman~a7dce0e4/",
+   "description": "Het aandeel Nvidia ging dinsdag verder omlaag op de beurzen in New York met een verlies van 4 procent bij aanvang. De grootste verkoper van AI-chips ter wereld kwam vorige week donderdag al onder zware druk te staan door de verkoopgolf in de AI-sector. Die volgde op de angst voor strengere regulering van AI na de ruime overwinning van de Democraten bij de midterms.",
+   "date": "2026-11-10T15:58:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Vijf vragen over de affaire en spionagekwestie rond Nvidia-ceo Jensen Huang",
+   "link": "https://tweakers.net/reviews/15586/vijf-vragen-over-de-affaire-en-spionagekwestie-rond-nvidia-ceo-jensen-huang.html",
+   "description": "Nvidia-ceo Jensen Huang ligt onder vuur vanwege een buitenechtelijke relatie met een vermeende Chinese spion. Wat weten we inmiddels over deze affaire?",
+   "date": "2026-11-10T15:45:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic wil ruim 64 miljard dollar ophalen met beursgang",
+   "link": "https://www.hln.be/economie/anthropic-wil-ruim-64-miljard-dollar-ophalen-met-beursgang~a4b01e90/",
+   "description": "Het Amerikaanse AI-bedrijf Anthropic wil 64,4 miljard dollar (ongeveer 57,4 miljard euro) ophalen met zijn geplande beursgang. Daarmee komt de maker van chatbot Claude in de buurt van het recordbedrag dat SpaceX heeft opgehaald bij zijn stap naar de aandelenbeurs.",
+   "date": "2026-11-10T15:35:35",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "IBM en Microsoft lanceren nieuw AI-platform",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ibm-en-microsoft-lanceren-nieuw-ai-platform/",
+   "description": "(ABM FN-Dow Jones) IBM en Microsoft hebben dinsdag een nieuw platform voor AI-agenten gelanceerd: Imagine Enterprise. Dit maakten de twee Amerikaanse techgiganten bekend.IBM brengt in de samenwerking meer dan 6.000 reeds gebouwde AI-agenten en het IBM Consulting Platform in, terwijl Microsoft zorgt draagt voor cloud- en beveiligingstechnologie, zodat de AI agenten veilig binnen de gehele organisatie …\nThe post IBM en Microsoft lanceren nieuw AI-platform appeared first on Trends.be.",
+   "date": "2026-11-10T14:43:25",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic wil ruim 64 miljard dollar ophalen met beursgang en mikt op waardering van 1.400 miljard",
+   "link": "https://www.standaard.be/economie/anthropic-wil-ruim-64-miljard-dollar-ophalen-met-beursgang-en-mikt-op-waardering-van-1.400-miljard/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-10T14:40:03",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DPG Media test Nederlands AI-model GPT-NL voor nieuwskoppen en tekstcontrole",
+   "link": "https://tweakers.net/nieuws/254356/dpg-media-test-nederlands-ai-model-gpt-nl-voor-nieuwskoppen-en-tekstcontrole.html",
+   "description": "Het Belgische mediabedrijf DPG Media test het Nederlandse AI-model GPT-NL. Het model moet inspiratie bieden voor koppen en teksten nakijken op onder meer zinsbouw, zo laat het bedrijf weten.",
+   "date": "2026-11-10T14:21:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vakbonden zetten onderhandelingen met ASML stop na onenigheid over reorganisatie",
+   "link": "https://businessam.be/vakbonden-zetten-onderhandelingen-met-asml-stop-na-onenigheid-over-reorganisatie/",
+   "description": "Key takeaways Vakbondsvertegenwoordigers hebben de onderhandelingen met ASML stopgezet, omdat zij beweren dat het bedrijf zijn toezeggingen met betrekking tot de interne herstructurering niet nakomt. Zoals gemeld door het Eindhovens Dagblad, stellen de vakbonden dat de langdurige aard van de reorganisatie een negatieve invloed heeft op het sociaal plan dat is bedoeld om ontslagen werknemers […]",
+   "date": "2026-11-10T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Samsung zet nieuwe AI-functies vermoedelijk achter betaalmuur",
+   "link": "https://tweakers.net/nieuws/254350/samsung-zet-nieuwe-ai-functies-vermoedelijk-achter-betaalmuur.html",
+   "description": "Samsung werkt aan abonnementen voor komende AI-diensten op zijn Galaxy-smartphones. Dat melden meerdere bronnen. De Galaxy S27-telefoons krijgen mogelijk een betaalmuur voor onder meer video genereren en het gebruik van een agent.",
+   "date": "2026-11-10T13:49:21",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OM verdenkt man van oplichting bank met behulp van deepfakes",
+   "link": "https://www.security.nl/posting/961056/OM+verdenkt+man+van+oplichting+bank+met+behulp+van+deepfakes?channel=rss",
+   "description": "Het Openbaar Ministerie (OM) verdenkt een 38-jarige man uit Almere van het oplichten van een bank met behulp van deepfakes, ...",
+   "date": "2026-11-10T13:15:36",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang is lang niet enige CEO die door affaire in de problemen komt: 5 recente voorvallen (en hun gevolgen)",
+   "link": "https://vrtnws.be/p.APQdP8YZ1",
+   "description": "Analisten rollen dezer dagen over elkaar heen om in te schatten welke impact de liefdesaffaire van Nvidia-CEO Jensen Huang zal hebben. Een blik op de geschiedenis leert alvast dat zulke amoureuze escapades geen zeldzaamheid zijn, ook niet bij de grootste bedrijven van de planeet. De lijst is lang, dus wij plukten er 5 recente voorvallen uit.",
+   "date": "2026-11-10T12:49:29",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Goldman Sachs-topman verwacht aanhoudende vraag naar financiering voor AI-infrastructuur",
+   "link": "https://businessam.be/goldman-sachs-topman-ziet-aanhoudende-vraag-naar-financiering-voor-ai-infrastructuur/",
+   "description": "Key takeaways Ondanks recente schommelingen op de markt stelt David Solomon, hoofd van Goldman Sachs Group, dat de vraag naar financiering voor AI-infrastructuur robuust blijft. Aanhoudende vraag naar AI-investeringen In een gesprek met CNBC merkte Solomon op dat zijn organisatie de laatste tijd nog steeds intensief betrokken is bij transacties op de kapitaalmarkt rond artificiële […]",
+   "date": "2026-11-10T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipsector en lagere olieprijs stuwen Europese beurzen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/chipsector-en-lagere-olieprijs-stuwen-europese-beurzen/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden dinsdag rond het middaguur hoger, gesteund door chipfondsen en een lagere olieprijs. De oliefuture zakte tijdelijk onder 90 dollar, voor het eerst in maanden.De brede STOXX Europe 600-index won 0,75 procent tot 661,44 punten. De Duitse DAX won 1,2 procent tot 26.568 punten en de Franse CAC 40 won …\nThe post Chipsector en lagere olieprijs stuwen Europese beurzen appeared first on Trends.be.",
+   "date": "2026-11-10T12:37:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: Microsoft lobbyt tegen verbod op Chinese glasvezeltechnologie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-microsoft-lobbyt-tegen-verbod-op-chinese-glasvezeltechnologie/",
+   "description": "(ABM FN-Dow Jones) Microsoft dringt er bij de regering-Trump op aan de import uit China van een belangrijk onderdeel voor AI-datacenters niet te verbieden. Dit meldde Reuters dinsdag.Het gaat om Chinese transceivers of zendontvangers van data via glasvezel. Deze onderdelen zorgen ervoor dat data in datacenters razendsnel via glasvezelkabels worden verstuurd.De Amerikaanse regering wil de import …\nThe post Media: Microsoft lobbyt tegen verbod op Chinese glasvezeltechnologie appeared first on Trends.be.",
+   "date": "2026-11-10T12:29:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese Commissie vraagt Anthropic en OpenAI om uitleg over veiligheidsproblemen met hun AI-systemen",
+   "link": "https://businessam.be/europese-commissie-vraagt-anthropic-en-openai-om-uitleg-over-veiligheidsproblemen-met-hun-ai-systemen/",
+   "description": "Key takeaways De Europese Commissie vraagt om nadere toelichting van Anthropic en OpenAI naar aanleiding van verschillende opvallende veiligheidsinbreuken waarbij hun AI-systemen betrokken waren. Dat meldt Rapporteur. Commissie onderzoekt gevolgen van veiligheidsincidenten Volgens een woordvoerder van de Commissie richt het onderzoek zich op de frequentie van die incidenten en de omvang van de gevolgen binnen […]",
+   "date": "2026-11-10T12:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang met de broek op de enkels: overleeft de Nvidia-baas het Chinese spionageverhaal?",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/jensen-huang-met-de-broek-op-de-enkels-overleeft-de-nvidia-baas-het-chinese-spionageverhaal/",
+   "description": "Hoe kon de topman van het belangrijkste techbedrijf ter wereld in de val trappen van de oudste spionagetruc? Jensen Huang, ceo van de Amerikaanse chipgigant Nvidia, gaf de affaire met de vermoedelijke Chinese spion toe en toont berouw. Maar wat zijn de gevolgen voor Nvidia en de wereldwijde AI-boom.\nThe post Jensen Huang met de broek op de enkels: overleeft de Nvidia-baas het Chinese spionageverhaal? appeared first on Knack.",
+   "date": "2026-11-10T11:55:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump: 'FBI kijkt naar affaire van Jensen Huang'",
+   "link": "https://www.tijd.be/r/t/1/id/10699242",
+   "description": "Volgens de Amerikaanse president Donald Trump is de federale politiedienst FBI een onderzoek gestart naar de affaire die Nvidia-CEO Jensen Huang zondag opbiechtte met een vermoedelijke Chinese spionne.",
+   "date": "2026-11-10T11:48:46",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Risico’s van AI groeien sneller dan de waarde die de technologie kan leveren",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/risicos-van-ai-groeien-sneller-dan-de-waarde-die-de-technologie-kan-leveren/",
+   "description": "AI levert resultaten op, maar de risico's groeien sneller dan de voordelen. Volgens Gartner ziet liefst 86 procent van de CIO's dat gebeuren. Op het IT Symposium in Barcelona waarschuwen de marktkenners voor een groeiende kloof tussen AI-investeringen, daadwerkelijke bedrijfswaarde en de capaciteit om de technologie onder controle te houden.\nThe post Risico’s van AI groeien sneller dan de waarde die de technologie kan leveren appeared first on Trends.be.",
+   "date": "2026-11-10T10:49:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Criminelen stelen chatgesprekken klanten AI-platform Notion.com",
+   "link": "https://www.security.nl/posting/961023/Criminelen+stelen+chatgesprekken+klanten+AI-platform+Notion_com?channel=rss",
+   "description": "Criminelen zijn erin geslaagd om chatgesprekken van klanten van AI-platform Notion.com te stelen, zo heeft het bedrijf ...",
+   "date": "2026-11-10T10:37:43",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple rekent 50 dollar voor extra AI-gebruik in Logic Pro, meer apps volgen",
+   "link": "https://tweakers.net/nieuws/254346/apple-rekent-50-dollar-voor-extra-ai-gebruik-in-logic-pro-meer-apps-volgen.html",
+   "description": "Apple introduceert de optie om te betalen voor extra gebruik van de AI-mogelijkheden in zijn software. Het eerste zogeheten Intelligence Usage Pack is voor muziekproductieapp Logic Pro en kost 50 dollar. Dit aanbod geldt nog niet in Nederland en België. Tot op heden waren AI-functies van Apple gratis beschikbaar voor gebruikers van zijn software en hardware.",
+   "date": "2026-11-10T10:00:43",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI-agents missen het buikgevoel dat bedrijven zo succesvol maakt’",
+   "link": "https://trends.knack.be/ai-en-tech/ai-agents-missen-het-buikgevoel-dat-bedrijven-zo-succesvol-maakt/",
+   "description": "Het is een vraag die naast computeringenieurs ook veel bedrijven bezighoudt: in hoeverre zijn we in staat AI-agents te bouwen die de juiste en verstandigste beslissingen nemen? Het is een cruciale vraag in de nieuwe digitaliseringsgolf die er de komende jaren aankomt.\nThe post ‘AI-agents missen het buikgevoel dat bedrijven zo succesvol maakt’ appeared first on Trends.be.",
+   "date": "2026-11-10T09:29:11",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SoftBank duikt diep in rode cijfers door AI-investeringen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/softbank-duikt-diep-in-rode-cijfers-door-ai-investeringen/",
+   "description": "(ABM FN-Dow Jones) SoftBank Group heeft in het tweede kwartaal van het gebroken boekjaar een nettoverlies van circa 1,1 biljoen yen, omgerekend ongeveer 7 miljard dollar, geleden, na een winst van circa 2,5 biljoen yen een jaar eerder. Dit bleek dinsdag uit de kwartaalcijfers van de Japanse technologie-investeerder.Het verlies over de periode juli tot en met …\nThe post SoftBank duikt diep in rode cijfers door AI-investeringen appeared first on Trends.be.",
+   "date": "2026-11-10T08:42:59",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Infineon rekent op sterke groei in 2027",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/infineon-rekent-op-sterke-groei-in-2027/",
+   "description": "(ABM FN) Infineon verwacht in boekjaar 2027 een omzetgroei van meer dan 20 procent en een sterk hogere winstgevendheid, nadat het boekjaar 2026 werd afgesloten met een recordkwartaal. Dit bleek dinsdag uit cijfers van de Duitse chipfabrikant. In het vierde kwartaal van het gebroken boekjaar, dat eindigde op 30 september, steeg de omzet naar 4,7 …\nThe post Infineon rekent op sterke groei in 2027 appeared first on Trends.be.",
+   "date": "2026-11-10T08:25:18",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Onderzoek VS naar AI-chipsmokkel Megaspeed ging op pauze na mail Nvidia-jurist’",
+   "link": "https://tweakers.net/nieuws/254338/onderzoek-vs-naar-ai-chipsmokkel-megaspeed-ging-op-pauze-na-mail-nvidia-jurist.html",
+   "description": "Het Amerikaanse ministerie van Handel zette volgens The New York Times een al maanden lopend smokkelonderzoek naar Nvidia-klant Megaspeed stop. Dit gebeurde nadat de hoofdjurist van Nvidia direct contact opnam. Op verzoek van het ministerie van Justitie werd het onderzoek daarna stilgelegd.",
+   "date": "2026-11-10T08:20:46",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta breidt AI-leeftijdsverificatie wereldwijd uit om minderjarigen beter te beschermen",
+   "link": "https://businessam.be/meta-breidt-ai-leeftijdsverificatie-wereldwijd-uit-om-minderjarigen-beter-te-beschermen/",
+   "description": "Key takeaways Als reactie op de toenemende juridische druk en beschuldigingen over de negatieve impact van zijn diensten op jongeren, heeft Meta Platforms maandag de wereldwijde uitbreiding aangekondigd van zijn AI-gestuurde tools voor leeftijdsverificatie. Teen Accounts Die technologie heeft tot doel miljoenen Instagram-gebruikers over te hevelen naar gespecialiseerde ‘Teen Accounts’, waarbij zelf opgegeven geboortedata worden […]",
+   "date": "2026-11-10T08:03:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Firmware-update - Apple iOS 27.2.1",
+   "link": "https://tweakers.net/downloads/79000/apple-ios-2721.html",
+   "description": "Apple heeft een update voor versie 27 van iOS uitgebracht. In iOS 27, dat geschikt is voor de iPhone 11 en hoger, heeft Apple onder meer extra AI-functies beschikbaar gemaakt, zijn er meer mogelijkheden voor ouders om hun kinderen te beschermen en zijn er diverse verbeteringen in Liquid Glass aangebracht. In versie 27.2.1 zijn diverse beveiligingsproblemen verholpen. AirPlay",
+   "date": "2026-11-10T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Omzetgroei TSMC trekt flink aan",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/omzetgroei-tsmc-trekt-flink-aan/",
+   "description": "(ABM FN-Dow Jones) Taiwan Semiconductor Manufacturing Company heeft in oktober flink meer omzet behaald dan een maand eerder, toen er sprake was van een pas op de plaats. Dit maakte de Taiwanese chipfabrikant dinsdag bekend.  De omzet kwam vorige maand uit op 589 miljard Taiwanese dollar. De omzet steeg daarmee met 14,7 procent ten opzichte van september …\nThe post Omzetgroei TSMC trekt flink aan appeared first on Trends.be.",
+   "date": "2026-11-10T07:20:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse techgiganten gebruiken motoren van afgedankte militaire vliegtuigen om AI-datacenters van stroom te voorzien",
+   "link": "https://businessam.be/amerikaanse-techgiganten-gebruiken-motoren-van-afgedankte-militaire-vliegtuigen-om-ai-datacenters-van-stroom-te-voorzien/",
+   "description": "Key takeaways Techgiganten zoals Google, Meta en Apple wenden zich tot Amerikaanse vliegtuigkerkhoven om een kritieke energiecrisis op te lossen. Nu de vraag naar artificiële intelligentie sterk toeneemt, verbruiken de enorme datacenters die nodig zijn om deze technologieën te ondersteunen elektriciteit in een onhoudbaar tempo. Omdat de Amerikaanse overheid erop heeft aangedrongen dat ontwikkelaars van […]",
+   "date": "2026-11-10T06:27:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Review - Ubuntu 26.10 Stonking Stingray - Myna dicteert Ubuntu's nieuwe koers",
+   "link": "https://tweakers.net/reviews/15494/ubuntu-2610-stonking-stingray-myna-dicteert-ubuntus-nieuwe-koers.html",
+   "description": "Ubuntu 26.10 is uit. Deze tussentijdse release bevat vooral kleine wijzigingen, met als hoogtepunt dicteerfunctie Myna op basis van lokale llm's.",
+   "date": "2026-11-10T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
   {
    "title": "De Colorado als klimaatcase: steeds minder water voor steeds meer gegadigden",
    "link": "https://vrtnws.be/p.oLqGn6vqO",
@@ -366,6 +842,17 @@
    "date": "2026-11-10T02:37:42",
    "feeds": [
     "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met onbezonnen romance speelde ceo Nvidia met vuur",
+   "link": "https://www.standaard.be/opinies/met-onbezonnen-romance-speelde-ceo-nvidia-met-vuur/164317099.html",
+   "description": "Een van ’s werelds belangrijkste bedrijfsleiders is verwikkeld in een spionageschandaal. Dat roept heel wat vragen op, maar het valt af te wachten of er antwoorden komen.",
+   "date": "2026-11-09T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
    ],
    "first_seen": "2026-11-10",
    "intro_geprobeerd": false
@@ -568,6 +1055,17 @@
    ],
    "first_seen": "2026-11-09",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "From China with love: werd Nvidia-topman verleid door een Chinese spion?",
+   "link": "https://www.volkskrant.nl/buitenland/from-china-with-love-werd-nvidia-topman-verleid-door-een-chinese-spion~bce36be2/",
+   "description": "",
+   "date": "2026-11-09T17:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-10",
+   "intro_geprobeerd": true
   },
   {
    "title": "De rockster van de techindustrie zit in het nauw: hoe de affaire van Jensen Huang veel meer dan alleen Nvidia bedreigt",
