@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T19:27:44",
+ "generated": "2026-11-11T03:33:06",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 167,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 93,
    "error": null
   },
   {
@@ -315,6 +315,149 @@
   }
  ],
  "articles": [
+  {
+   "title": "Nvidia-topman Jensen Huang zat midden in de American dream, totdat hij viel voor een vermeende Chinese spion",
+   "link": "https://www.volkskrant.nl/tech/nvidia-topman-jensen-huang-zat-midden-in-de-american-dream-totdat-hij-viel-voor-een-vermeende-chinese-spion~b7e7bf61/",
+   "description": "",
+   "date": "2026-11-11T05:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "ASMI verhoogt prognose",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/asmi-verhoogt-prognose/",
+   "description": "ASMI realiseerde in het derde kwartaal 1,16 miljard euro omzet, 44 procent meer dan in dezelfde periode vorig jaar. De verkoop van chipmachines nam met 48 procent toe, gedragen door de forse investeringen in AI. Ook de service- en onderhoudsactiviteiten presteerden sterk (+32%).De winstgevendheid verbeterde eveneens. De brutomarge steeg licht van 51,9 naar 52 procent, …\nThe post ASMI verhoogt prognose appeared first on Trends.be.",
+   "date": "2026-11-11T00:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Loodgieter van AI-tijdperk CoreWeave sust beleggers over tanende AI-vraag",
+   "link": "https://www.tijd.be/r/t/1/id/10699341",
+   "description": "De leverancier van AI-infrastructuur CoreWeave trekt zijn omzetprognose voor 2026 op. De boodschap: van een vertragende vraag naar AI-rekenkracht is vooralsnog geen sprake. Beleggers blijven op hun hoede.",
+   "date": "2026-11-10T23:35:45",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia huurt topadvocatenkantoor in om affaire ceo te onderzoeken, aandeel blijft klappen krijgen",
+   "link": "https://www.standaard.be/economie/nvidia-huurt-topadvocatenkantoor-in-om-affaire-ceo-te-onderzoeken-aandeel-blijft-klappen-krijgen/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-10T22:51:51",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opnieuw recordomzet voor CoreWeave",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/opnieuw-recordomzet-voor-coreweave/",
+   "description": "(ABM FN-Dow Jones) CoreWeave heeft in het derde kwartaal opnieuw een recordomzet en ook hogere marges geboekt, terwijl de kosten stegen en het verlies toenam. Dit bleek dinsdagavond uit de resultaten van het Amerikaanse bedrijf met datacenters voor kunstmatige intelligentie en cloudcomputingtoepassingen. CEO en medeoprichter Michael Intrator sprak van een doorbraakkwartaal voor CoreWeave, \"met een omzetstijging van …\nThe post Opnieuw recordomzet voor CoreWeave appeared first on Trends.be.",
+   "date": "2026-11-10T22:45:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Helsing ontwikkelt eigen AI-systeem voor militaire doelbepaling om Europese afhankelijkheid van de Verenigde Staten te verminderen",
+   "link": "https://businessam.be/helsing-ontwikkelt-eigen-ai-systeem-voor-militaire-doelbepaling-om-europese-afhankelijkheid-van-vs-te-verminderen/",
+   "description": "Key takeaways Helsing, een in Duitsland gevestigd defensiebedrijf, introduceert aanstaande woensdag een nieuw AI-programma voor militaire doelbepaling. Het bedrijf wil inspelen op de groeiende terughoudendheid bij Europese landen om afhankelijk te blijven van Amerikaanse technologieleveranciers zoals Palantir. Streven naar digitale soevereiniteit De bezorgdheid over data-autonomie en de afhankelijkheid van de Verenigde Staten is in heel […]",
+   "date": "2026-11-10T22:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft verzet zich tegen voorgesteld Amerikaans verbod op Chinese datacentercomponenten",
+   "link": "https://businessam.be/microsoft-dringt-er-bij-de-regering-trump-op-aan-om-het-verbod-op-chinese-ai-componenten-in-te-trekken/",
+   "description": "Key takeaways Volgens een bericht van Reuters dringt Microsoft er bij de regering-Trump op aan om een voorgestelde beperking op de invoer van optische transceivers uit China te heroverwegen. Deze componenten zijn van vitaal belang voor de werking van AI-datacenters. De Amerikaanse telecomtoezichthouder FCC buigt zich al sinds augustus over dit verbod. De grootste zorg […]",
+   "date": "2026-11-10T22:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Koers Nvidia verder omlaag op Wall Street door affaire topman",
+   "link": "https://www.gva.be/buitenland/koers-nvidia-verder-omlaag-op-wall-street-door-affaire-topman/164380921.html",
+   "description": "Nvidia stond dinsdag opnieuw onder flinke druk op de beurzen in New York vanwege de grote onrust rond de affaire van topman Jensen Huang met een vermeende Chinese spion.",
+   "date": "2026-11-10T22:31:50",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: scheve schaats van topman kleurt Nvidia opnieuw dieprood",
+   "link": "https://www.tijd.be/r/t/1/id/10699333",
+   "description": "De hoger dan verwachte inflatiecijfers en oplopende rente duwden Wall Street dinsdag in het rood. De kostprijs van Jensen Huangs slippertje met een Chinese spionne loopt intussen verder op: Nvidia verloor voor de tweede dag op rij fors terrein.",
+   "date": "2026-11-10T20:56:55",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic stelt prijsrange voor beursgang vast op 70 tot 78 dollar per aandeel",
+   "link": "https://businessam.be/anthropic-bereidt-beursgang-voor-met-een-potentiele-waardering-van-14-biljoen-dollar/",
+   "description": "Key takeaways Ondanks een algemene daling van de investeringen in AI en onstabiele marktomstandigheden zet Anthropic zijn plannen voor een beursgang door. Volgens een recent ingediend document wil de ontwikkelaar van Claude 825 miljoen aandelen van klasse A uitgeven tegen een prijs van 70 tot 78 dollar per aandeel. Daarmee zou het bedrijf tussen 57,75 […]",
+   "date": "2026-11-10T20:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google maakt Gemini 4 Carbon beschikbaar: betere begrenzing, maar ook duurder",
+   "link": "https://tweakers.net/nieuws/254374/google-maakt-gemini-4-carbon-beschikbaar-betere-begrenzing-maar-ook-duurder.html",
+   "description": "Google maakt Gemini 4 Carbon beschikbaar voor abonnees. Het nieuwe model moet aanzienlijk betere begrenzingen hebben om misbruik te voorkomen. Vooralsnog kost het model net zoveel als de voorganger, maar na 30 november verdubbelen de prijzen.",
+   "date": "2026-11-10T20:24:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spionageaffaire NVIDIA bewijst dat verleidingstruc blinde vlek is voor bedrijven",
+   "link": "https://www.nu.nl/tech/6416154/spionageaffaire-nvidia-bewijst-dat-verleidingstruc-blinde-vlek-is-voor-bedrijven.html",
+   "description": "De affaire tussen NVIDIA-topman Jensen Huang en een Chinese spion heeft al meteen grote gevolgen: de beurskoers krijgt harde klappen en aandeelhouders dienen een aanklacht in. Moeten bedrijven beter toezicht houden op de privérelaties van sleutelfiguren? \"Velen weten niet dat ze op de radar staan.\"",
+   "date": "2026-11-10T19:50:43",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS zou onderzoek naar smokkelen van AI-chips naar China gepauzeerd hebben na contact met Nvidia",
+   "link": "https://www.hln.be/tech/vs-zou-onderzoek-naar-smokkelen-van-ai-chips-naar-china-gepauzeerd-hebben-na-contact-met-nvidia~a35352ef7/",
+   "description": "Het Amerikaanse ministerie van Justitie pauzeerde een onderzoek naar het smokkelen van geavanceerde Nvidia-chips voor AI-toepassingen naar China, aldus ‘The New York Times’. Dat gebeurde naar verluidt nadat de hoofdjurist van Nvidia contact opnam met de onderzoekers.",
+   "date": "2026-11-10T19:36:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
   {
    "title": "TSMC ziet omzet in oktober met bijna 60 procent stijgen door aanhoudende vraag naar AI-chips",
    "link": "https://businessam.be/tsmc-ziet-omzet-in-oktober-met-bijna-60-procent-stijgen-door-aanhoudende-vraag-naar-ai-chips/",
@@ -415,6 +558,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Catalogus van doodzonden",
+   "link": "https://www.nrc.nl/nieuws/2026/11/10/catalogus-van-doodzonden-a4940989",
+   "description": "Verrassende verkiezingsuitslagen in Servië en de VS. En nu doorpakken, voor de samenleving, schrijft Maxim Februari. De superrijken, AI-roof en knokploegen op straat zijn aan de beurt.",
+   "date": "2026-11-10T17:06:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Live - Russische techgigant Yandex: 3 procent van klantendata verloren na Oekraïense aanvallen op datacenters",
    "link": "https://www.demorgen.be/oorlog-in-oekraine/live-gesprekken-tussen-oekraine-rusland-en-vs-in-abu-dhabi-zijn-afgelopen-en-gaan-morgen-verder-vs-en-eu-benadrukken-inzet-voor-sterke-veiligheid-na-oorlog~b38bed0a/",
    "description": "",
@@ -435,6 +589,18 @@
     "De Standaard - Buitenland"
    ],
    "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De rol van Jensen Huang als Chinafluisteraar van de regering-Trump lijkt uitgespeeld",
+   "link": "https://www.standaard.be/buitenland/de-rol-van-jensen-huang-als-chinafluisteraar-van-de-regering-trump-lijkt-uitgespeeld/164339793.html",
+   "description": "De pogingen van Nvidia om geavanceerde AI-chips in China te krijgen, komen onder een vergrootglas te liggen. Hielp de wereldwijde marktleider bij het omzeilen van Amerikaanse exportcontroles?",
+   "date": "2026-11-10T16:55:00",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-11",
    "intro_geprobeerd": false
   },
   {
