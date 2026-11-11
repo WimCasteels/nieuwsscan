@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T03:33:06",
+ "generated": "2026-11-11T19:21:35",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 166,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 88,
    "error": null
   },
   {
@@ -316,6 +316,326 @@
  ],
  "articles": [
   {
+   "title": "Europese beurzen sluiten hoger",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-hoger-22/",
+   "description": "(ABM FN-Dow Jones) De Europese aandelenbeurzen zijn woensdag hoger gesloten, omdat de AI-hausse weer opleefde na de sterke terugval in de voorgaande week.De brede STOXX Europe 600-index won 0,7 procent tot 663,05 punten, nipt onder de oude recordstand. De Duitse DAX won 1,2 procent tot 26.662,77 punten en de Franse CAC 40 steeg   0,6 procent …\nThe post Europese beurzen sluiten hoger appeared first on Trends.be.",
+   "date": "2026-11-11T19:12:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dringen voor de beursgang van Anthropic: vraag overvleugelt aanbod ruimschoots",
+   "link": "https://www.standaard.be/economie/beurs/dringen-voor-de-beursgang-van-anthropic-vraag-overvleugelt-aanbod-ruimschoots/164423441.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Op de beurs’ overschouwen we drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-11-11T19:00:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia koopwaardig na verkoopgolf van bijna 30 procent?",
+   "link": "https://www.tijd.be/r/t/1/id/10699442",
+   "description": "De AI-chipontwikkelaar Nvidia verloor sinds zijn piek in oktober bijna 30 procent van zijn beurswaarde. Hoewel de affaire van CEO Jensen Huang met een vermeende Chinese spionne voor meer onzekerheid zorgt, lijkt de waardering van Nvidia intussen weinig veeleisend.",
+   "date": "2026-11-11T18:58:06",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 sluit net onder recordniveau",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-sluit-net-onder-recordniveau/",
+   "description": "(ABM FN-Dow Jones) De Brusselse beurs trok zich woensdag weinig aan van de opgelaaide renteverwachtingen in de Verenigde Staten. Net als elders in Europa ondersteunde het herstel van technologie- en AI-aandelen het beurssentiment, al kon de Bel20 daar weinig van profiteren door het beperkte gewicht van technologieaandelen in de index.De Bel20 sloot 0,1 procent lager …\nThe post Bel20 sluit net onder recordniveau appeared first on Trends.be.",
+   "date": "2026-11-11T18:07:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse zakenbank Baird verlaagt koersdoel voor Nvidia naar 200 dollar door leveringsbeperkingen en geopolitieke risico’s",
+   "link": "https://businessam.be/amerikaanse-zakenbank-baird-verlaagt-koersdoel-voor-nvidia-naar-200-dollar-door-leveringsbeperkingen-en-geopolitieke-risicos/",
+   "description": "Key takeaways Baird heeft zijn rating voor Nvidia verlaagd naar “Neutraal” en het koersdoel aanzienlijk bijgesteld van 500 naar 200 dollar. Analist Tristan Gerra verwacht dat het aandeel waarschijnlijk zal stagneren door een gebrek aan duidelijkheid over de vereisten voor datacenters in 2027. Dat komt voornamelijk door leveringsbeperkingen en geopolitieke risico’s. Dat meldt Investing.com. Vertraging […]",
+   "date": "2026-11-11T17:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het schaduwnetwerk dat chips tot in China krijgt",
+   "link": "https://www.tijd.be/r/t/1/id/10699416",
+   "description": "De affaire die Nvidia-CEO Jensen Huang erop nahield met een vermoedelijke Chinese spionne belicht ook hoe de chips van het bedrijf gegeerde smokkelwaar zijn geworden. Via een netwerk van vennootschappen stroomden de voorbije jaren voor miljarden dollars GPU’s naar het ‘verboden’ land.",
+   "date": "2026-11-11T17:39:22",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI loopt mijlen achter op concurrent Anthropic",
+   "link": "https://www.tijd.be/r/t/1/id/10699439",
+   "description": "Terwijl Anthropic zich klaarstoomt om eind november Wall Street te veroveren, timmert concurrent OpenAI aan een inhaalbeweging. Al blijft de achterstand meer dan behoorlijk.",
+   "date": "2026-11-11T17:28:04",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gerucht: Nvidia stelt 24GB-variant van RTX 5080 voor onbepaalde tijd uit",
+   "link": "https://tweakers.net/nieuws/254418/gerucht-nvidia-stelt-24gb-variant-van-rtx-5080-voor-onbepaalde-tijd-uit.html",
+   "description": "Nvidia zou de release van een 24GB-uitvoering van zijn RTX 5080-videokaart alsnog schrappen. Dat zou komen door de hoge kosten van 3GB-GDDR7-chips, waardoor een 24GB-model te duur zou zijn. De 16GB-uitvoering die Nvidia zou uitfaseren, lijkt toch te blijven.",
+   "date": "2026-11-11T17:25:44",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Modder brengt tool uit om ssd-bug in AMD-drivers op te lossen",
+   "link": "https://tweakers.net/nieuws/254408/modder-brengt-tool-uit-om-ssd-bug-in-amd-drivers-op-te-lossen.html",
+   "description": "Een modder heeft een opensourcetool uitgebracht die voorkomt dat AMD-drivers onnodig vaak naar een ssd schrijven. De bug kan de levensduur van ssd's verkorten. AMD erkent de bug en gaat het probleem deze maand oplossen.",
+   "date": "2026-11-11T17:02:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zowel Democraten als Republikeinen nemen Nvidia-topman Huang onder vuur",
+   "link": "https://www.tijd.be/r/t/1/id/10699410",
+   "description": "Congresleden van beide Amerikaanse politieke partijen reageren verontwaardigd op de spionageaffaire waarin Nvidia-topman Jensen Huang beland is. Ze willen hem op het matje roepen en pleiten voor een striktere regelgeving op de export van hoogwaardige technologie. Er rijzen ook steeds meer vragen over de mate waarin president Donald Trump op de hoogte was van de zaak.",
+   "date": "2026-11-11T15:29:14",
+   "feeds": [
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cyanogen-maker wil Linux-distro met vrij te kiezen AI in 2027 uitbrengen",
+   "link": "https://tweakers.net/nieuws/254030/cyanogen-maker-wil-linux-distro-met-vrij-te-kiezen-ai-in-2027-uitbrengen.html",
+   "description": "Een van de oprichters van Android-alternatief Cyanogen onthult een Linux-distributie met AI-modellen en -agents als onderdeel van het besturingssysteem. Gebruikers kunnen AI zelf instellen en lokaal draaien. Chipmaker Qualcomm en AI-bedrijf Humain werken mee en KORA moet in 2027 uitkomen.",
+   "date": "2026-11-11T15:11:02",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Goldman Sachs verwacht dat Anthropic tegen 2030 jaarlijks 685 miljard dollar omzet zal behalen",
+   "link": "https://businessam.be/goldman-sachs-verwacht-dat-anthropic-tegen-2030-jaarlijks-685-miljard-dollar-omzet-zal-behalen/",
+   "description": "Key takeaways Volgens berichten van Bloomberg en de Financial Times verwachten analisten van Goldman Sachs dat Anthropic tegen 2030 een jaarlijkse omzet van ongeveer 685 miljard dollar (614 miljard euro) zal genereren. Dat zou een enorme stijging betekenen, tot bijna 150 keer de inkomsten van het bedrijf in het voorgaande jaar. Goldman Sachs begeleidt momenteel […]",
+   "date": "2026-11-11T15:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump wist al van affaire Nvidia-topman met vermeende Chinese spionne tijdens hun gezamenlijke trip naar Peking",
+   "link": "https://www.standaard.be/economie/trump-wist-al-van-affaire-nvidia-topman-met-vermeende-chinese-spionne-tijdens-hun-gezamenlijke-trip-naar-peking/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-11T14:51:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-optimisme helpt Wall Street vermoedelijk aan hogere opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/ai-optimisme-helpt-wall-street-vermoedelijk-aan-hogere-opening/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen bewegen woensdag richting een hogere opening. Futures op de toonaangevende S&P 500 index noteren circa een half uur voor opening tot 0,9 procent in het groen. Technologiebeurs Nasdaq lijkt zelfs 2 procent hoger van start te gaan. De handel in AI-aandelen lijkt aan te trekken en beleggers proberen de hoger dan …\nThe post AI-optimisme helpt Wall Street vermoedelijk aan hogere opening appeared first on Trends.be.",
+   "date": "2026-11-11T14:50:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de klap van maandag sloot Nvidia nog eens 5 procent lager. Geldexpert ziet kansen, maar waarschuwt voor risico’s",
+   "link": "https://www.hln.be/economie/na-de-klap-van-maandag-sloot-nvidia-nog-eens-5-procent-lager-geldexpert-ziet-kansen-maar-waarschuwt-voor-risicos~afc9f00f/",
+   "description": "De koers van het aandeel van de Amerikaanse chipsgigant Nvidia is gisteren nog eens met ruim vijf procent gezakt. Maandag had het aandeel ook al vier procent verloren zodra de affaire van CEO Jensen Huang met een Chinese ‘spionne’ was uitgelekt. De mondiale slagader van de AI- en computerspitstechnologie is in vrije val door de scheve schaats van één man. Is het aandeel Nvidia nu koopwaardig? Geldexpert Chris Sugira waarschuwt voor nog meer turbulentie.",
+   "date": "2026-11-11T14:25:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belastingdienst overtreedt AVG tien jaar na invoering nog steeds",
+   "link": "https://tweakers.net/nieuws/254398/belastingdienst-overtreedt-avg-tien-jaar-na-invoering-nog-steeds.html",
+   "description": "De Nederlandse Belastingdienst voldoet meer dan tien jaar na invoering van de Algemene verordening gegevensbescherming (AVG) nog steeds niet aan de privacywet. De Autoriteit Persoonsgegevens is bang voor mogelijke discriminatie en mensenrechtenschendingen door slechte ict en privacyprocessen bij de fiscus. Zo kan de dienst niet aantonen dat hij algoritmische besluiten controleert en is de beveiliging van persoonsgegevens niet op orde.",
+   "date": "2026-11-11T14:13:48",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Bel20 komt op adem na recente records",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-bel20-komt-op-adem-na-recente-records/",
+   "description": "(ABM FN) De Brusselse beurs kwam woensdagmiddag op adem na de recente recordreeks, in een overwegend groengekleurd Europa. De Bel20 noteerde 0,3 procent lager op 6.088,44 punten. Dinsdag scherpte de index de recordstand nog aan tot 6.144,44 punten.Chipfondsen zaten in de lift, nadat solide derdekwartaalcijfers van cloudcomputingbedrijf CoreWeave de interesse in AI opnieuw aanwakkerden. De sector kreeg …\nThe post Beursupdate: Bel20 komt op adem na recente records appeared first on Trends.be.",
+   "date": "2026-11-11T13:58:25",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tech trekt Europese beurzen omhoog, defensie in de min",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/tech-trekt-europese-beurzen-omhoog-defensie-in-de-min/",
+   "description": "(ABM FN-Dow Jones) Europese aandelen zaten woensdag rond het middaguur in de lift, aangevoerd door winsten in de technologiesector, waarbij het herstellende sentiment rond kunstmatige intelligentie de markten hielp opveren.De brede STOXX Europe 600 index won 0,3 procent tot 660,47 punten. De Duitse DAX steeg 0,7 procent tot 26.528,51 punten, terwijl de Franse CAC 40 …\nThe post Tech trekt Europese beurzen omhoog, defensie in de min appeared first on Trends.be.",
+   "date": "2026-11-11T12:28:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mogelijke spion die affaire had met NVIDIA-topman naar Taiwan gereisd",
+   "link": "https://www.nu.nl/economie/6416207/mogelijke-spion-die-affaire-had-met-nvidia-topman-naar-taiwan-gereisd.html",
+   "description": "De Chinese Alice Huang is met een Hongkongs paspoort Taiwan binnengekomen en daarna doorgereisd. De vrouw wordt ervan verdacht topman Jensen Huang van NVIDIA te hebben bespioneerd voor China. De Taiwanese regering doet onderzoek naar de inreisprocedures.",
+   "date": "2026-11-11T12:18:44",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CoreWeave verhoogt omzetprognose voor 2026 door groeiende vraag naar AI-infrastructuur",
+   "link": "https://businessam.be/coreweave-verhoogt-omzetprognose-voor-2026-maar-schuldenlast-blijft-risico/",
+   "description": "Key takeaways Aangedreven door een toenemende behoefte aan AI-gerichte hardware heeft CoreWeave zijn financiële prognoses voor 2026 naar boven bijgesteld, wat tijdens de handel na sluitingstijd leidde tot een koersstijging van bijna 13 procent. Het bedrijf verwacht nu een jaaromzet tussen 13 miljard en 13,3 miljard dollar (11,6 – 11,9 miljard euro), waarmee de eerdere […]",
+   "date": "2026-11-11T12:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dat een Chinese spion Nvidia-topman Huang heeft verleid, is ‘onwaar’ en tegelijk ‘ongelofelijk knap’, vinden ze in China",
+   "link": "https://www.nrc.nl/nieuws/2026/11/11/dat-een-chinese-spion-nvidia-topman-huang-heeft-verleid-is-onwaar-en-tegelijk-razend-knap-vinden-ze-in-china-a4941076",
+   "description": "De manier waarop de affaire naar buiten kwam, laat volgens de Chinese autoriteiten zien dat het om een politieke manoeuvre van Washington gaat. Als de vrouw inderdaad een spion is, is dat tegelijkertijd „onwaar” en „ongelofelijk knap” van de Chinese diensten.",
+   "date": "2026-11-11T11:56:16",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De gok van de Anthropic-belegger",
+   "link": "https://www.tijd.be/r/t/1/id/10699372",
+   "description": "Anthropic belooft beleggers dat ze meebouwen aan een ‘tijdperk van mirakels’. Of dat mirakel zich ook in de portemonnee van de aandeelhouders voltrekt, is een andere vraag.",
+   "date": "2026-11-11T11:43:20",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AP: Belastingdienst hield tot dusverre slechts 3 van 100 algoritmes tegen het licht",
+   "link": "https://www.trouw.nl/binnenland/ap-belastingdienst-hield-tot-dusverre-slechts-3-van-100-algoritmes-tegen-het-licht~bb4d1d017/",
+   "description": "",
+   "date": "2026-11-11T11:10:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft brengt Auto SR naar XBOX Ally X en X20, ook in handheldmodus",
+   "link": "https://tweakers.net/nieuws/254382/microsoft-brengt-auto-sr-naar-xbox-ally-x-en-x20-ook-in-handheldmodus.html",
+   "description": "Microsoft heeft Automatic Super Resolution (Auto SR) officieel beschikbaar gesteld. De upscalingtechnologie werkt op de ROG XBOX Ally X, Ally X20 en bepaalde Windows Copilot+-systemen met een AMD Ryzen-chip.",
+   "date": "2026-11-11T09:26:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-boom zet aanvoer van chips voor auto- en industriesector onder druk",
+   "link": "https://businessam.be/ai-boom-zet-aanvoer-van-chips-voor-auto-en-industriesector-onder-druk/",
+   "description": "Key takeaways De sterke groei van de ontwikkeling van artificiële intelligentie veroorzaakt verstoringen in de toeleveringsketens van de automobiel- en industriesector. Dat zeggen leidinggevenden uit de halfgeleiderindustrie. Tijdens de Electronica-beurs in München onthulde Stefan Tilger, interim-CEO van Nexperia, dat zijn bedrijf te maken heeft met een extreme vraag omdat fabrikanten voorrang geven aan de productie […]",
+   "date": "2026-11-11T08:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Japanse en Zuid-Koreaanse beurzen in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/japanse-en-zuid-koreaanse-beurzen-in-het-groen-2/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen koersten woensdag overwegend hoger, met de Japanse Nikkei-index en Zuid-Koreaanse Kospi-index aan kop. De Nikkei-index won 1,4 procent op 61.319,94 punten en de Kospi-index trok zelfs met 2,6 procent aan tot 5.373,17 punten. Beide indices werden gesteund door een herstel van AI-aandelen. Zo stegen Samsung en SK Hynix tussen de 3 en …\nThe post Japanse en Zuid-Koreaanse beurzen in het groen appeared first on Trends.be.",
+   "date": "2026-11-11T07:32:51",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen in het groen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-in-het-groen-25/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan woensdag een hogere opening tegemoet, na een lager slot op Wall Street dinsdagavond.Meevallende cijfers gisterenavond van Coreweave en een outlookverhoging van het neocloudbedrijf hielpen het sentiment rond AI vanochtend.IG voorziet een openingswinst van 208 punten voor de Duitse DAX en een plus van 60 punten voor de Franse …\nThe post Europese beurzen openen in het groen appeared first on Trends.be.",
+   "date": "2026-11-11T06:57:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bank of England waarschuwt dat overgewaardeerde AI-aandelen tot een beurscrash kunnen leiden",
+   "link": "https://businessam.be/bank-of-england-waarschuwt-voor-risicos-van-overgewaardeerde-ai-aandelen/",
+   "description": "Key takeaways Andrew Bailey, gouverneur van de Bank of England, heeft gewaarschuwd dat overgewaardeerde aandelen in de sector van artificiële intelligentie een marktcrash kunnen veroorzaken. Dat zou het Britse financiële stelsel mogelijk kunnen destabiliseren. Onrealistische verwachtingen op AI-markt Tijdens een toespraak aan het Swiss Institute of International Studies van de Universiteit van Zürich merkte Bailey […]",
+   "date": "2026-11-11T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI pikt banen in van hoogopgeleide jongeren. Wat nu?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/11/ai-pikt-banen-in-van-hoogopgeleide-jongeren-wat-nu-a4941062",
+   "description": "Pikt AI onze banen in? Het is een veelbesproken angst, die redacteur Wouter van Noort langzaam werkelijkheid ziet worden.",
+   "date": "2026-11-11T05:00:01",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Nvidia-topman Jensen Huang zat midden in de American dream, totdat hij viel voor een vermeende Chinese spion",
    "link": "https://www.volkskrant.nl/tech/nvidia-topman-jensen-huang-zat-midden-in-de-american-dream-totdat-hij-viel-voor-een-vermeende-chinese-spion~b7e7bf61/",
    "description": "",
@@ -325,6 +645,17 @@
    ],
    "first_seen": "2026-11-11",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe Anthropic het grootste AI-bedrijf ter wereld werd (ook in doemscenario’s en jubelverhalen)",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/hoe-anthropic-het-grootste-ai-bedrijf-ter-wereld-werd-ook-in-doemscenarios-en-jubelverhalen/",
+   "description": "De beursgang van Anthropic lijkt een van de grootste ooit te worden. Waar schuilt het geheim van het pas vijf jaar oude AI-bedrijf in? Biedt kunstmatige intelligentie echt de enorme economische kansen die ze voorspiegelt? En hoe reëel zijn de catastrofale gevaren waar Anthropic tegelijkertijd voor waarschuwt?\nThe post Hoe Anthropic het grootste AI-bedrijf ter wereld werd (ook in doemscenario’s en jubelverhalen) appeared first on Knack.",
+   "date": "2026-11-11T05:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-11",
+   "intro_geprobeerd": false
   },
   {
    "title": "ASMI verhoogt prognose",
