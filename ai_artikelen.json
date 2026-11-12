@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T19:21:35",
+ "generated": "2026-11-12T04:37:46",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 166,
+   "count": 164,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,107 @@
   }
  ],
  "articles": [
+  {
+   "title": "De houdbaarheid van wat waar is, blijkt in de AI-wereld vaak erg kort",
+   "link": "https://www.demorgen.be/meningen/de-houdbaarheid-van-wat-waar-is-blijkt-in-de-ai-wereld-vaak-erg-kort~be9df237/",
+   "description": "",
+   "date": "2026-11-12T03:01:01",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "“Nvidia bereidt ontslag van topman Jensen Huang voor”",
+   "link": "https://www.gva.be/economie/bedrijven/nvidia-bereidt-ontslag-van-topman-jensen-huang-voor/164432285.html",
+   "description": "Het bestuur van AI-chipconcern Nvidia bereidt het ontslag van topman Jensen Huang voor wegens twee buitenechtelijke relaties. Dat meldt de krant The Wall Street Journal. Een van de vrouwen, Alice Huang, wordt ervan verdacht een Chinese spion te zijn.",
+   "date": "2026-11-12T02:55:39",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Nvidia bereidt ontslag CEO Jensen Huang voor’",
+   "link": "https://www.tijd.be/r/t/1/id/10699450",
+   "description": "Het ziet ernaar uit dat Nvidia-CEO Jensen Huang dan toch het veld moet ruimen voor zijn relatie met een mogelijke Chinese spionne. Het aandeel dondert fors lager in de nabeurshandel. Inclusief dat verlies heeft de affaire Nvidia al ruim 600 miljard dollar aan beurswaarde gekost.",
+   "date": "2026-11-12T00:58:08",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street sluit hoger dankzij optimisme over AI, ook Nvidia begint te herstellen",
+   "link": "https://www.gva.be/economie/beurs/wall-street-sluit-hoger-dankzij-optimisme-over-ai-ook-nvidia-begint-te-herstellen/164432026.html",
+   "description": "De aandelenbeurzen in New York zijn woensdag hoger geëindigd. Een opleving bij techbedrijven door het teruggekeerde enthousiasme rond de handel in AI zorgde voor een stijging van de aandelenkoersen. Ook het aandeel van Nvidia steeg weer.",
+   "date": "2026-11-12T00:21:14",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de affaire-Huang: hoe Peking jaagt op westerse technologie",
+   "link": "https://www.standaard.be/buitenland/na-de-affaire-huang-hoe-peking-jaagt-op-westerse-technologie/164326725.html",
+   "description": "Van een verzoek via Linkedin en nachtelijke bezoeken aan een labo tot een affaire met de ceo van Nvidia: om de technologische kloof met het Westen te dichten, beschikt China over een breed arsenaal aan spionagemethodes.",
+   "date": "2026-11-11T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Laat de mens oordelen over AI-onderzoeksprojecten",
+   "link": "https://www.standaard.be/opinies/laat-de-mens-oordelen-over-ai-onderzoeksprojecten/164360807.html",
+   "description": "In tijden van AI moet de onderzoeker weer op het voorfront komen, en niet alleen het project, schrijven Severine Vermeire en Isabelle Huys.",
+   "date": "2026-11-11T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: CoreWeave sluit kwart hoger en geeft AI-rally brandstof",
+   "link": "https://www.tijd.be/r/t/1/id/10699447",
+   "description": "De sterke cijfers van neocloud CoreWeave en een hoge vraag naar Anthropic-aandelen in aanloop naar de beursgang gaven de Nasdaq vleugels. Chipaandelen lagen in het koopmandje.",
+   "date": "2026-11-11T22:26:48",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Alice Huang, de vrouw die de topman van Nvidia in zijn blootje zette",
+   "link": "https://www.standaard.be/buitenland/alice-huang-de-vrouw-die-de-topman-van-nvidia-in-zijn-blootje-zette/164408372.html",
+   "description": "Seks, spionage, datacenters en een slippertje van 14 miljard. Wie is Alice Huang, de Chinese zakenvrouw die uitgroeide tot een van de meest mysterieuze figuren in de strijd om Nvidia’s begeerde chips?",
+   "date": "2026-11-11T21:19:03",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe erg is het dat De Wever EU-top mist? ‘Als je er één moet skippen, dan liefst deze’",
+   "link": "https://www.tijd.be/r/t/1/id/10699435",
+   "description": "De Europese top die donderdag en vrijdag in Dublin plaatsvindt, zal er een zonder premier Bart De Wever zijn. Een akkoord over de federale begroting is voor hem urgenter dan discussies over de veiligheid van Europa, de vredesgesprekken tussen Rusland en Oekraïne en een Europees AI-beleid. In geen enkel dossier wordt een doorbraak verwacht.",
+   "date": "2026-11-11T20:13:53",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Europa"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Europese beurzen sluiten hoger",
    "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-hoger-22/",
@@ -1154,6 +1255,17 @@
     "De Tijd - Politiek Internationaal"
    ],
    "first_seen": "2026-11-10",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-populisme doet iets met me",
+   "link": "https://www.nrc.nl/nieuws/2026/11/10/ai-populisme-doet-iets-met-me-a4940835",
+   "description": "Thomas Hogeling beschouwt wekelijks de publieke opinie. Wat wordt er gezegd en vooral niet gezegd? Deze week: AI-populisme.",
+   "date": "2026-11-10T11:32:47",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-12",
    "intro_geprobeerd": false
   },
   {
