@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T04:37:46",
+ "generated": "2026-11-12T19:40:47",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 164,
+   "count": 163,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 88,
    "error": null
   },
   {
@@ -316,12 +316,676 @@
  ],
  "articles": [
   {
+   "title": "Wall Street: AMD profiteert van machtsvacuüm bij Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10699635",
+   "description": "Techbeleggers verteren het vertrek van Nvidia-CEO Jensen Huang, maar analisten hebben voorlopig vertrouwen in zijn tijdelijke opvolgster. Ondertussen wint directe concurrent AMD stevig terrein.",
+   "date": "2026-11-12T19:07:14",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De val van Nvidia-ceo Jensen Huang maakt ook Anthropic-beleggers nerveus",
+   "link": "https://www.standaard.be/economie/beurs/de-val-van-nvidia-ceo-jensen-huang-maakt-ook-anthropic-beleggers-nerveus/164451863.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Op de beurs’ overschouwen we drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-11-12T19:06:09",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen breken records",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-breken-records/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn donderdag overwegend hoger gesloten, met enkele nieuwe records, maar halfgeleideraandelen stonden onder druk na het vertrek van Nvidia-topman Jensen Huang.De Stoxx Europe 600 sloot 0,1 procent hoger op 664,01 punten, na een nieuwe piek op 666,58 punten eerder op de dag. Zowel Londen als Frankfurt scherpten hun recordstand …\nThe post Europese beurzen breken records appeared first on Trends.be.",
+   "date": "2026-11-12T19:01:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarom de affaires van één ceo ons allemaal aangaan: wat is Nvidia en waarom moest Jensen Huang absoluut vertrekken?",
+   "link": "https://www.standaard.be/economie/waarom-de-affaires-van-een-ceo-ons-allemaal-aangaan-wat-is-nvidia-en-waarom-moest-jensen-huang-absoluut-vertrekken/164433606.html",
+   "description": "Het schandaal aan de top van chipontwerper Nvidia, dat ceo Jensen Huang de kop kostte, zet de politieke en economische wereld op stelten. Waarom zijn Nvidia en Huang zo belangrijk? Hoe komt het dat niemand dit zag aankomen? En wie of wat kan de ex-ceo allemaal in zijn val meesleuren?",
+   "date": "2026-11-12T19:00:55",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Trump bemoeit zich met opvolging afgetreden Nvidia-topman en pleit voor benoeming Apple-bestuurder Tim Cook",
+   "link": "https://www.demorgen.be/snelnieuws/live-voor-het-eerst-sinds-1982-democraten-halen-senaatszetel-in-mississippi-binnen~b13cc951/",
+   "description": "",
+   "date": "2026-11-12T19:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Houdt cfo Colette Kress als ceo ad interim bij Nvidia de stoel warm voor ex-Apple ceo Tim Cook?",
+   "link": "https://www.standaard.be/economie/houdt-cfo-colette-kress-als-ceo-ad-interim-bij-nvidia-de-stoel-warm-voor-ex-apple-ceo-tim-cook/164464670.html",
+   "description": "Financieel directeur Colette Kress krijgt voorlopig de leiding bij Nvidia, na het ontslag van Jensen Huang. De moeilijke zoektocht naar een definitieve opvolger kan beginnen.",
+   "date": "2026-11-12T18:59:59",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe moet chipmaker Nvidia verder na het vertrek van oprichter en topman Jensen Huang?",
+   "link": "https://www.volkskrant.nl/economie/hoe-moet-chipmaker-nvidia-verder-na-het-vertrek-van-oprichter-en-topman-jensen-huang~bc7dce84/",
+   "description": "",
+   "date": "2026-11-12T18:57:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Voormalig Nvidia-ceo Jensen Huang legt binnenkort verantwoording af voor Congres",
+   "link": "https://tweakers.net/nieuws/254478/voormalig-nvidia-ceo-jensen-huang-legt-binnenkort-verantwoording-af-voor-congres.html",
+   "description": "Voormalig Nvidia-baas Jensen Huang gaat verantwoording afleggen tegenover het Amerikaanse Congres. Congresleden hadden daarom gevraagd, na berichtgeving dat de topman een affaire had met een vermeende Chinese spion.",
+   "date": "2026-11-12T18:50:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe crisis bij Nvidia veel Belgische beleggers raakt",
+   "link": "https://www.tijd.be/r/t/1/id/10699625",
+   "description": "Het vertrek van Jensen Huang bij Nvidia - en de bijhorende tuimelperte van het aandeel - laat zich voelen in de portefeuille van veel Belgische beleggers. Ook bij wie enkel in ETF's belegt.",
+   "date": "2026-11-12T18:37:18",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Brusselse beurs: een traditionele 'slow clap' voor KBC",
+   "link": "https://www.tijd.be/r/t/1/id/10699555",
+   "description": "De financiële markten hielden de blik gericht op het vertrek van Nvidia-topman Jensen Huang, maar de Bel20 speelde zijn rol van rustige vastheid. Ondanks een tik voor index-zwaargewicht KBC noteerde de Belgische sterrenkorf hoger.",
+   "date": "2026-11-12T18:09:36",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De affaires van de Nvidia-topman komen op een nogal ongelegen moment voor de Amerikaanse techindustrie",
+   "link": "https://www.volkskrant.nl/tech/de-affaires-van-de-nvidia-topman-komen-op-een-nogal-ongelegen-moment-voor-de-amerikaanse-techindustrie~b6c834e7/",
+   "description": "",
+   "date": "2026-11-12T18:00:22",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bel20 sluit hoger ondanks koersdruk KBC",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-sluit-hoger-ondanks-koersdruk-kbc/",
+   "description": "(ABM FN) De Brusselse sterindex is donderdag hoger gesloten, ondanks de koersdaling van KBC na cijfers.De Bel20 index won 0,2 procent op 6.115,09 punten.Beleggers volgden vandaag met veel belangstelling de ontwikkelingen rond Nvidia. In de middag werd uiteindelijk bekend dat Jensen Huang per direct terugtreedt als CEO.Na de onthullingen over zijn relatie met een Chinese zakenvrouw …\nThe post Bel20 sluit hoger ondanks koersdruk KBC appeared first on Trends.be.",
+   "date": "2026-11-12T17:54:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De 7 Extra | Onze journalisten over het einde van een tijdperk bij AI-boegbeeld Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10699630",
+   "description": "'De 7 Extra' is een podcast van De Tijd. Bij grote nieuwsverhalen krijg je meer achtergrond, analyse en duiding.",
+   "date": "2026-11-12T17:43:55",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD, Broadcom of SK Hynix: dit zijn de winnaars en verliezers na vertrek Huang",
+   "link": "https://www.tijd.be/r/t/1/id/10699501",
+   "description": "De exit van Jensen Huang als CEO van Nvidia leidt tot miljardenstromen in en uit aandelen, afhankelijk van de band van de bedrijven met de chipontwerper. Wij lijsten de winnaars en verliezers op de beurzen op.",
+   "date": "2026-11-12T17:39:12",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-marktplaats Apify meldt inbraak op interne systemen door gestolen login",
+   "link": "https://www.security.nl/posting/961447/AI-marktplaats+Apify+meldt+inbraak+op+interne+systemen+door+gestolen+login?channel=rss",
+   "description": "Aanvallers zijn erin geslaagd om met behulp van gestolen inloggegevens op interne systemen van AI-marktplaats Apify in te ...",
+   "date": "2026-11-12T17:06:45",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang moet opstappen: kan Nvidia zonder zijn ceo?",
+   "link": "https://www.standaard.be/economie/jensen-huang-moet-opstappen-kan-nvidia-zonder-zijn-ceo/164442328.html",
+   "description": "Na nieuwe revelaties heeft het bestuur van Nvidia zijn oprichter en ceo, Jensen Huang, opzijgezet. Cfo Colette Cress wordt interim-ceo terwijl een nieuwe leider voor het bedrijf wordt gezocht. Die staat immers niet klaar.",
+   "date": "2026-11-12T17:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zonder z’n allesbepalende ex-topman Jensen Huang zit Nvidia in een bestuurscrisis",
+   "link": "https://www.nrc.nl/nieuws/2026/11/12/zonder-zn-allesbepalende-ex-topman-jensen-huang-zit-nvidia-in-een-bestuurscrisis-a4941202",
+   "description": "Weinig grote techbedrijven waren zo van hun topman afhankelijk als chipontwerper Nvidia. Doordat Jensen Huang niet aan opvolgingsplanning deed, verkeert één van de belangrijkste bedrijven ter wereld na zijn vertrek in een bestuurscrisis. „Huang was echt de spil van het bedrijf.”",
+   "date": "2026-11-12T16:51:14",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verzekeraars zien gebruik van AI bij plegen van verzekeringsfraude",
+   "link": "https://www.security.nl/posting/961442/Verzekeraars+zien+gebruik+van+AI+bij+plegen+van+verzekeringsfraude?channel=rss",
+   "description": "Fraudeurs hebben vorig jaar verschillende keren gebruikgemaakt van AI voor het plegen van verzekeringsfraude, zo laat het ...",
+   "date": "2026-11-12T16:33:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang stapt op als Nvidia-topman",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/jensen-huang-stapt-op-als-nvidia-topman~b3e00c87/",
+   "description": "",
+   "date": "2026-11-12T15:53:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Turkije maakt van de klimaattop een songfestival, met een lied dat naar AI riekt",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/turkije-maakt-van-de-klimaattop-een-songfestival-met-een-lied-dat-naar-ai-riekt~b2e32a9d/",
+   "description": "",
+   "date": "2026-11-12T15:37:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Jensen Huang treedt af als CEO van Nvidia; financieel directeur Colette Kress neemt tijdelijk over",
+   "link": "https://businessam.be/jensen-huang-treedt-af-als-ceo-van-nvidia-financieel-directeur-colette-kress-neemt-tijdelijk-over/",
+   "description": "Key takeaways Jensen Huang heeft zijn functie als CEO van Nvidia neergelegd na onthullingen over meerdere buitenechtelijke relaties. De raad van bestuur heeft financieel directeur Colette Kress aangesteld om tijdelijk de leiding over het bedrijf op zich te nemen. Relatie met leidinggevende binnen Nvidia De controverse vloeit voort uit twee afzonderlijke relaties. De ene was […]",
+   "date": "2026-11-12T15:33:57",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang treedt af als ceo van Nvidia na affaires",
+   "link": "https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html",
+   "description": "Jensen Huang treedt af als ceo van Nvidia. Hij kwam onder vuur te liggen na meerdere affaires, waardoor zijn positie niet meer houdbaar was. Colette Kress, de huidige cfo van het bedrijf, volgt hem tijdelijk op.",
+   "date": "2026-11-12T15:05:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "1.900 miljard dollar verdampt in een maand: waarom ook jij de beursklap van Nvidia zou kunnen voelen",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beurs-impact-etf-s-trackers-pensioenfondsen/",
+   "description": "Nvidia krijgt klappen op de beurs nu CEO Jensen Huang opstapt als CEO na het nieuws over enkele buitenechtelijke liefdesaffaires. En dat is niet alleen een probleem voor speculanten en grote aandeelhouders.",
+   "date": "2026-11-12T15:04:42",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "1.900 miljard dollar verdampt in een maand: waarom ook jij de beursklap van Nvidia zou kunnen voelen",
+   "link": "https://vrtnws.be/p.APQNanD6k",
+   "description": "Nvidia krijgt klappen op de beurs nu CEO Jensen Huang opstapt als CEO na het nieuws over enkele buitenechtelijke liefdesaffaires. En dat is niet alleen een probleem voor speculanten en grote aandeelhouders. Want Nvidia is zo aanwezig bij beleggers dat iedereen die wat centen in een ETF of pensioenfonds heeft zitten dit zou kunnen voelen.",
+   "date": "2026-11-12T15:04:42",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman Nvidia stapt op na onrust rond affaire",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/topman-nvidia-stapt-op-na-onrust-rond-affaire~b729c7d8/",
+   "description": "",
+   "date": "2026-11-12T15:04:19",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Affaires kosten CEO Nvidia de kop: Jensen Huang stapt op",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/12/exit-jensen-huang/",
+   "description": "Jensen Huang stapt op als CEO, voorzitter én lid van de raad van bestuur van Nvidia. Dat meldt de technologiereus op zijn website. Hij was in opspraak gekomen na een relatie met een spion uit China en mogelijk ook met een ondergeschikte. Huang wordt ad interim opgevolgd door financieel directeur Colette Kress.",
+   "date": "2026-11-12T14:58:30",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Affaires kosten CEO Nvidia de kop: Jensen Huang stapt op",
+   "link": "https://vrtnws.be/p.0Ype1AJ6L",
+   "description": "Jensen Huang stapt op als CEO, voorzitter én lid van de raad van bestuur van Nvidia. Dat meldt de technologiereus op zijn website. Hij was in opspraak gekomen na een relatie met een spion uit China en mogelijk ook met een ondergeschikte. Huang wordt ad interim opgevolgd door financieel directeur Colette Kress.",
+   "date": "2026-11-12T14:58:30",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aandeel Nvidia keldert na vertrek ceo Jensen Huang",
+   "link": "https://www.standaard.be/economie/aandeel-nvidia-keldert-na-vertrek-ceo-jensen-huang/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-12T14:58:24",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-CEO Jensen Huang stapt op, aandeel bedrijf zakt meer dan 10 procent",
+   "link": "https://www.gva.be/economie/bedrijven/nvidia-ceo-jensen-huang-stapt-op-aandeel-bedrijf-zakt-meer-dan-10-procent/164461627.html",
+   "description": "Nvidia-topman Jensen Huang stapt op als CEO, president en bestuurslid van het bedrijf nadat woensdagavond berichten over een tweede affaire naar buiten kwamen. Het aandeel van het bedrijf zakt meer dan 10 procent.",
+   "date": "2026-11-12T14:57:04",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang neemt ontslag als topman van Nvidia na onthullingen over affaires, aandeel bedrijf keldert",
+   "link": "https://www.demorgen.be/nieuws/jensen-huang-neemt-ontslag-als-topman-van-nvidia-na-onthullingen-over-affaires-aandeel-bedrijf-keldert~b1a88c42/",
+   "description": "",
+   "date": "2026-11-12T14:57:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street opent lager door onrust rond Nvidia-topman",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-opent-lager-door-onrust-rond-nvidia-topman/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen hebben een lagere start in het zicht. Nu het erop lijkt dat Nvidia zijn topman aan de kant schuift, golft onrust door de hele techsector. De financiële markten volgen elke nieuwe ontwikkeling op de voet.Met nog een half uur te gaan voor opening noteren de futures op de toonaangevende S&P 500 …\nThe post Wall Street opent lager door onrust rond Nvidia-topman appeared first on Trends.be.",
+   "date": "2026-11-12T14:56:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Topman Huang van chipbedrijf Nvidia vertrekt per direct vanwege affaires",
+   "link": "https://nos.nl/l/2639176",
+   "description": "Het doek is gevallen voor Jensen Huang als topman van chipbedrijf Nvidia. De CFO, de huidige financiële topvrouw Colette Kress, neemt de functie tijdelijk over. Het bedrijf is daarnaast een zoektocht gestart naar een opvolger. Daarvoor wordt binnen en buiten het bedrijf gekeken.\n        Huang was in 1993 een van de oprichters van Nvidia, dat qua beurswaarde een van de waardevolste bedrijven ter wereld is. Hij heeft een sleutelrol gespeeld in het succes van het bedrijf.\n        Met zijn vertrek belandt het bedrijf in een periode van grote onzekerheid, en dat is terug te zien op de beurs in Amerika. Het aandeel stond bij de opening van de handel op Wall Street 13 procent in de min. Na bijna anderhalf uur beurshandel zijn beleggers van de ergste schrik bekomen en staat het aandeel op min 5 procent.\n        Gisteren meldde The New York Times dat Huang een affaire had met een directe medewerker bij Nvidia. Dat is tegen de interne gedragscode van het bedrijf. Het zou gaan om Kimberly Powell, vicepresident gezondheidszorg bij het concern. De krant baseert zich op anonieme bronnen binnen het bedrijf. Powell heeft het bericht nog niet bevestigd.\n        De onthulling kwam enkele dagen na het nieuws dat Huang een affaire had met Alice Huang. Zij is leidinggevende bij Megaspeed, een Singaporese klant van de Amerikaanse chipmaker, en wordt ervan verdacht voor China te spioneren.\n        Vervanger\n        President Trump - met wie Jensen Huang een nauwe band had opgebouwd - zegt in een reactie op zijn platform Truth Social dat Huang het \"fantastisch\" heeft gedaan. Volgens Trump is er maar één persoon die hem kan opvolgen: Tim Cook, die tot voor kort CEO was van Apple. \"Een legende moet een legende vervangen.\"\n        Cook werkt nog altijd voor Apple in de rol van chairman, vergelijkbaar met een president-commissaris in Nederland, en speelt een belangrijke rol in de lobby van het techbedrijf.\n        Over Jensen Huang en Nvidia schreven we eerder dit profiel:\n        Eerder werd nog aangenomen dat Huang de spionage-affaire wel zou kunnen overleven. Hij zou voor Nvidia too big to fire zijn, te belangrijk om te ontslaan. Maar de opeenstapeling van onthullingen heeft het voor hem onmogelijk gemaakt om aan te blijven.\n        Huang bestuurde Nvidia nogal solistisch. Hij had tientallen managers onder zich die direct aan hem rapporteerden. Dat is veel meer dan bij soortgelijke bedrijven, waar de bestuurlijke verantwoordelijkheid doorgaans over een bredere laag wordt verspreid.\n        De nieuwe tijdelijke CEO, Colette Kress, is onderdeel van de kleine kring van topmensen om Huang heen. Ze werkt nu dertien jaar voor het bedrijf, daarvoor had ze hoge posities bij Cisco en Microsoft. Haar vuurdoop in deze nieuwe tijdelijke rol is zeer waarschijnlijk volgende week, dan presenteert Nvidia nabeurs in de VS zijn kwartaalcijfers. Analisten zullen vermoedelijk veel vragen hebben.\n        De nu oud-topman komt zelf niet aan het woord aan het persbericht. Huang wordt alleen kort bedankt door het bestuur voor zijn \"immense bijdrage\".\n        Chairman\n        Met het vertrek van Huang kondigt Nvidia ook de aanstelling aan van een zogeheten board chairman aan. Dat is een bestuurslid dat de voorzittershamer hanteert en afstand heeft tot de dagelijkse gang van zaken.\n        De chairman heeft een toezichthoudende taak, enigszins te vergelijken met een president-commissaris in Nederland. Huang vond zo'n functionaris niet nodig bij Nvidia. Maar nu komt hij er dus wel.\n        Musk\n        Elon Musk liet eerder weten \"het een eer te vinden Huang in dienst te nemen\". Nvidia is een belangrijke leverancier van grafische processors aan Musks autobedrijf Tesla. Of Huang daarvoor openstaat is onbekend. Afgelopen zondag, toen het nog alleen om de affaire met de mogelijk Chinese spion ging, klonk er vanuit Silicon Valley behoorlijk wat steun voor Huang.\n        Door de opmars van kunstmatige intelligentie groeide Nvidia uit tot een van de waardevolste beursgenoteerde bedrijven ter wereld. De vrees bestaat dat door de relatie van Huang met de vermeende spion bedrijfsgeheimen in handen van China zijn gekomen. Het is niet bekend of dat ook echt is gebeurd.",
+   "date": "2026-11-12T14:55:47",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-ceo Jensen Huang stapt op: ‘Hij was God in zijn eigen bedrijf’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/de-val-van-nvidia-koning-jensen-huang-hij-was-god-in-zijn-eigen-bedrijf/",
+   "description": "De positie van Nvidia-topman Jensen Huang was onhoudbaar, nadat bekend was geraakt dat hij een affaire had met iemand die gevoelige informatie naar China doorspeelde. Wat betekent zijn ontslag voor de toekomst van de Amerikaanse chipreus?\nThe post Nvidia-ceo Jensen Huang stapt op: ‘Hij was God in zijn eigen bedrijf’ appeared first on Knack.",
+   "date": "2026-11-12T14:51:28",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nebius scherpt outlook aan door uitgestelde omzet",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nebius-scherpt-outlook-aan-door-uitgestelde-omzet/",
+   "description": "(ABM FN-Dow Jones) Nebius heeft in het derde kwartaal een omzet van bijna 1 miljard dollar geboekt, terwijl het verlies veel kleiner was en er op aangepast niveau zelfs winst in de boeken kwam. Dit bleek donderdag uit de cijfers van het Nederlandse AI-bedrijf met een notering op Wall Street, dat de outlook iets aangescherpte.Volgens CEO …\nThe post Nebius scherpt outlook aan door uitgestelde omzet appeared first on Trends.be.",
+   "date": "2026-11-12T13:36:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Review - GMKtec EVO-X5 Pro - 192GB ram voor gigantische AI-modellen",
+   "link": "https://tweakers.net/reviews/15548/gmktec-evo-x5-pro-192gb-ram-voor-gigantische-ai-modellen.html",
+   "description": "De GMKtec EVO-X5 Pro is de eerste mini-pc die we testen met AMD's Ryzen AI Max+ Pro 495. De processor is iets sneller dan zijn voorganger en stuurt 50 procent meer geheugen aan.",
+   "date": "2026-11-12T13:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen bereiken nieuwe records",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-bereiken-nieuwe-records-2/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen bereikten donderdag rond lunchtijd nieuwe records, na een reeks aan bedrijfscijfers. Halfgeleideraandelen stonden wel onder druk, terwijl de zorgen rond Nvidia weer oplaaiden.De Stoxx Europe 600 stond 0,4 procent hoger op 665,90 punten en daarmee rond een record. De Duitse DAX noteerde 0,9 procent in de plus op 26.891,97 …\nThe post Europese beurzen bereiken nieuwe records appeared first on Trends.be.",
+   "date": "2026-11-12T12:10:47",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Identificatie-app itsme gaat in België gezichtsherkenning toepassen",
+   "link": "https://www.security.nl/posting/961377/Identificatie-app+itsme+gaat+in+Belgi%C3%AB+gezichtsherkenning+toepassen?channel=rss",
+   "description": "Identificatie-app itsme gaat in België gezichtsherkenning toepassen, wat moet voorkomend dat accounts van gebruikers worden ...",
+   "date": "2026-11-12T11:53:41",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia zit met een opvolgingsprobleem: hoe CEO Jensen Huang zich onmisbaar maakte aan de top",
+   "link": "https://www.gva.be/economie/technologie/nvidia-zit-met-een-opvolgingsprobleem-hoe-ceo-jensen-huang-zich-onmisbaar-maakte-aan-de-top/164444693.html",
+   "description": "Nu Jensen Huang in een tweede buitenechtelijke affaire wordt genoemd, lijkt de stoel van de mythische CEO van Nvidia te wankelen. Al zal het bedrijf niet zomaar overgaan tot drastische beslissingen. “Jensen Huang is geen gewone CEO: hij ís Nvidia.”",
+   "date": "2026-11-12T11:37:11",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China beschuldigt VS van ‘verzinnen spionageverhalen’ in rel rond Nvidia-topman Huang",
+   "link": "https://www.ad.nl/buitenland/china-beschuldigt-vs-van-verzinnen-spionageverhalen-in-rel-rond-nvidia-topman-huang~a53d70f7/",
+   "description": "China vindt dat de Verenigde Staten valse beschuldigingen van spionage gebruiken als voorwendsel om een technologische ‘blokkade’ tegen China in te stellen. Dat heeft een woordvoerder van het Chinese ministerie van Buitenlandse Zaken gezegd, na beweringen dat Nvidia-topman Jensen Huang het slachtoffer zou zijn van een Chinees spionagecomplot.",
+   "date": "2026-11-12T11:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China boos over ‘spionagecomplot’ Nvidia: “Smoes van VS voor techblokkade tegen China”",
+   "link": "https://www.hln.be/economie/china-boos-over-spionagecomplot-nvidia-smoes-van-vs-voor-techblokkade-tegen-china~aa1bf6ef/",
+   "description": "China vindt dat de Verenigde Staten valse beschuldigingen van spionage gebruiken als voorwendsel om een technologische “blokkade” tegen China in te stellen. Centraal staat de overspelsaga rond Nvidia-CEO Jensen Huang. Een van zijn minnaressen wordt ervan verdacht een Chinese spionne te zijn.",
+   "date": "2026-11-12T11:20:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Melexis en UCB trekken de kar in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-melexis-en-ucb-trekken-de-kar-in-groene-bel20/",
+   "description": "(ABM FN) De Brusselse beurs koerste donderdagochtend hoger, mede geholpen door winsten bij Melexis en UCB. Rond de klok van elf uur steeg de Bel20 met 0,5 procent tot 6.129,17 punten.Markten hebben naast de laatste AI-ontwikkelingen ook oog voor de spanningen in het Midden-Oosten en het rentebeleid van de Federal Reserve, zo merkten strategen van UBS …\nThe post Beursupdate: Melexis en UCB trekken de kar in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-11-12T11:15:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ziet kwartaalomzet met bijna 50 procent stijgen tot 10 miljard dollar",
+   "link": "https://businessam.be/openai-ziet-kwartaalomzet-met-bijna-50-procent-stijgen-tot-10-miljard-dollar/",
+   "description": "Key takeaways Volgens een rapport van Bloomberg bereikte OpenAI in het kwartaal dat eindigde in september een belangrijk financieel keerpunt, waarbij de omzet steeg tot 10 miljard dollar (9 miljard euro). Dit cijfer vertegenwoordigt een stijging van bijna 50 procent ten opzichte van het vorige kwartaal en is bijna het drievoudige van het bedrag dat […]",
+   "date": "2026-11-12T11:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mogen wij meelezen als de overheid met AI praat?",
+   "link": "https://www.tijd.be/r/t/1/id/10699079",
+   "description": "Wat gebeurt er als een ambtenaar een AI-model een beleidsnota laat schrijven? Of argumenten laat verzamelen om een individuele subsidie te weigeren?",
+   "date": "2026-11-12T10:51:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dankzij AI timmert Erik Lindeman uit Beverwijk aan de weg als countryzanger: &#8216;Dit vind ik veel efficiënter dan een band&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/11/12/dankzij-ai-timmert-erik-lindeman-uit-beverwijk-aan-de-weg-als-countryzanger-dit-vind-ik-veel-efficienter-dan-een-band-a4940159",
+   "description": "Erik Lindeman wilde doorbreken als zanger en eigen muziek maken, maar liep telkens tegen barrières aan. Dankzij AI maakt hij nu zijn muzikale ambities waar: maandelijks heeft hij meer dan 110.000 luisteraars. „Eigenlijk heb ik door Suno een volwaardige band tot mijn beschikking.”",
+   "date": "2026-11-12T10:20:42",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Berichten over mogelijk ontslag van Jensen Huang zetten NVIDIA-aandeel onder druk",
+   "link": "https://businessam.be/berichten-over-mogelijk-ontslag-van-jensen-huang-zetten-nvidia-aandeel-onder-druk/",
+   "description": "Key takeaways Het aandeel NVIDIA daalde woensdag na sluiting van de beurs met meer dan 6 procent. Aanleiding waren berichten dat de raad van bestuur van het bedrijf CEO en medeoprichter Jensen Huang mogelijk wil ontslaan. Deze mogelijke leiderschapswisseling vloeit voort uit beschuldigingen van twee buitenechtelijke relaties, waaronder één met een vrouw die ervan wordt […]",
+   "date": "2026-11-12T10:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-topman Jensen Huang opgestapt na spionage-affaire",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/jensen-huang-nvidia-ontslag/",
+   "description": "De topman en medeoprichter van Nvidia Jensen Huang (63) is opgestapt. Het aandeel van de chipmaker is op de beurs meer dan 10 procent gedaald. Financieel topvrouw Colette Kress neemt tijdelijk de functie van CEO over.\nThe post Nvidia-topman Jensen Huang opgestapt na spionage-affaire appeared first on Trends.be.",
+   "date": "2026-11-12T08:50:59",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Foxconn houdt sterke winstgroei vast",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/foxconn-houdt-sterke-winstgroei-vast/",
+   "description": "(ABM FN-Dow Jones) Foxconn heeft in het derde kwartaal de sterke groei van de winst en omzet voortgezet, gedreven door aanhoudende vraag naar AI-servers en andere hardware. Dit bleek donderdag uit de kwartaalcijfers van het Taiwanese bedrijf.De omzet steeg in het afgelopen kwartaal met 46 procent tot 3,02 biljoen Taiwanese dollar, omgerekend circa 82,6 miljard euro, …\nThe post Foxconn houdt sterke winstgroei vast appeared first on Trends.be.",
+   "date": "2026-11-12T08:45:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 wacht vlakke opening na koersval Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-wacht-vlakke-opening-na-koersval-nvidia/",
+   "description": "(ABM FN) De Brusselse beurs maakt zich donderdag op voor een vlakke opening, nadat Wall Street woensdagavond flink hoger sloot, maar de stemming rond technologieaandelen vannacht omsloeg door onzekerheid over de toekomst van Nvidia-topman Jensen Huang.De Brusselse beurs trok zich woensdag weinig aan van de opgelaaide renteverwachtingen in de Verenigde Staten. Net als elders in Europa …\nThe post Bel20 wacht vlakke opening na koersval Nvidia appeared first on Trends.be.",
+   "date": "2026-11-12T08:06:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgisch Horus Software komt deels in Franse handen",
+   "link": "https://trends.knack.be/ondernemen/belgische-horus-software-komt-deels-in-franse-handen/",
+   "description": "Horus Software, de leverancier van een AI-platform voor accountants en boekhoudkantoren, krijgt Verto aan boord als minderheidsaandeelhouder. Het Franse fonds wil een actieve rol opnemen in de groei van de Belgische scale-up. Horus draait vandaag meer dan 25 miljoen euro recurrente jaaromzet en geeft zichzelf vijf jaar om een volgende Belgische eenhoorn te worden.\nThe post Belgisch Horus Software komt deels in Franse handen appeared first on Trends.be.",
+   "date": "2026-11-12T07:59:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Raad van bestuur Nvidia vergadert over lot van CEO Jensen Huang na onthulling tweede affaire",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beraadt-zich-over-ceo-jensen-huang-tweede-affaire-lekt-u/",
+   "description": "De raad van bestuur van de Amerikaanse techreus Nvidia beraadt zich over het lot van medeoprichter en topman Jensen Huang. Eerder raakte bekend dat hij een buitenechtelijke relatie had met een Chinese vrouw die mogelijk een spion was.",
+   "date": "2026-11-12T07:58:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nvidia-bestuur zou ontslag van ceo Jensen Huang overwegen na tweede affaire",
+   "link": "https://tweakers.net/nieuws/254428/nvidia-bestuur-zou-ontslag-van-ceo-jensen-huang-overwegen-na-tweede-affaire.html",
+   "description": "Het bestuur van Nvidia zou overwegen om oprichter en directeur Jensen Huang te ontslaan na de onthulling van een tweede affaire. De medewerker met wie hij die buitenechtelijke relatie heeft of had, valt direct onder hem.",
+   "date": "2026-11-12T07:33:40",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Sentiment in Azië verzuurt door ontwikkelingen rondom Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/sentiment-in-azie-verzuurt-door-ontwikkelingen-rondom-nvidia/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Azië gaven donderdag openingswinsten prijs en noteerden rond de klok van 7 uur onder aanvoering van technologieaandelen lager. De onzekerheid over de toekomst van Nvidia-topman Jensen Huang drukte op het sentiment rond kunstmatige intelligentie, ondanks een sterke beursdag op Wall Street woensdag.De Hang Seng index in Hongkong verloor 1,2 procent en …\nThe post Sentiment in Azië verzuurt door ontwikkelingen rondom Nvidia appeared first on Trends.be.",
+   "date": "2026-11-12T07:21:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Nvidia bereidt ontslag van topman voor” nu ook tweede vermeende affaire aan het licht komt, Musk wil Huang “wel inhuren”",
+   "link": "https://www.gva.be/economie/bedrijven/nvidia-bereidt-ontslag-van-topman-voor-nu-ook-tweede-vermeende-affaire-aan-het-licht-komt-musk-wil-huang-wel-inhuren/164432285.html",
+   "description": "Nvidia-CEO Jensen Huang, wiens wandel en handel momenteel wordt onderzocht vanwege een affaire met een vermeende Chinese spion, zou ook een buitenechtelijke relatie hebben gehad met een werkneemster van zijn bedrijf. Dat vertellen vijf voormalige werknemers van het bedrijf aan de New York Times.",
+   "date": "2026-11-12T07:06:45",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen hoger",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-hoger-75/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen gaan donderdag een donderdag opening tegemoet. IG Markets voorziet een openingswinst van 168 punten voor de Duitse DAX, een plus van 28 punten voor de Franse CAC 40 en een stijging van 76 punten voor de Britse FTSE 100.De Europese aandelenbeurzen sloten woensdag hoger, omdat de AI-hausse weer opleefde na …\nThe post Europese beurzen openen hoger appeared first on Trends.be.",
+   "date": "2026-11-12T06:51:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese cyberwaakhond: “AI-ontwikkelingen en geopolitieke spanningen doen cyberdreigingen in de EU toenemen”",
+   "link": "https://businessam.be/europese-cyberwaakhond-ai-ontwikkelingen-en-geopolitieke-spanningen-doen-cyberdreigingen-in-de-eu-toenemen/",
+   "description": "Key takeaways Het Agentschap van de Europese Unie voor cyberbeveiliging (ENISA) heeft onlangs gewaarschuwd voor de toenemende complexiteit van digitale bedreigingen binnen de EU. Het wijst daarbij op de dubbele invloed van geopolitieke instabiliteit en doorbraken op het gebied van artificiële intelligentie. Cyberdreiging blijft aanzienlijk In zijn meest recente tweejaarlijkse beoordeling over 2025 en 2026 […]",
+   "date": "2026-11-12T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Explainer | Mogelijke spion die affaire had met NVIDIA-topman naar Taiwan",
+   "link": "https://www.nu.nl/332185/video/mogelijke-spion-die-affaire-had-met-nvidia-topman-naar-taiwan.html",
+   "description": "",
+   "date": "2026-11-12T06:14:04",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Video - Nvidia-thrillers, wasmachineliedjes en GTA-framerates - Tweakers Podcast #452",
+   "link": "https://tweakers.net/video/20624/nvidia-thrillers-wasmachineliedjes-en-gta-framerates-tweakers-podcast-452.html",
+   "description": "Deze week praten Arnoud Wokke, Jurian Ubachs, Dennis de Vries en Daan van Monsjou over GTA VI op 30fps, het stopzetten van de PlayStation-app op de pc, DroidDeck en meer.",
+   "date": "2026-11-12T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Nvidia-thrillers, wasmachineliedjes en GTA-framerates - Tweakers Podcast #452",
+   "link": "https://tweakers.net/geek/254406/nvidia-thrillers-wasmachineliedjes-en-gta-framerates-tweakers-podcast-452.html",
+   "description": "Deze week praten Arnoud Wokke, Jurian Ubachs, Dennis de Vries en Daan van Monsjou over GTA VI op 30fps, het stopzetten van de PlayStation-app op de pc, DroidDeck, waarschuwingen voor kwetsbare apparaten en de spionagezaak rond Nvidia-topman Jensen Huang.",
+   "date": "2026-11-12T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Netbeheerder Elia krijgt half jaar extra om aansluitingswachtrijen weg te werken",
+   "link": "https://www.tijd.be/r/t/1/id/10699441",
+   "description": "Door de explosie van aanvragen om windparken, datacenters, industrie en batterijparken aan te sluiten op het hoogspanningsnet, kampt Elia met een zware achterstand. De energiewaakhond CREG geeft het netbedrijf een half jaar extra om die weg te werken.",
+   "date": "2026-11-12T05:01:58",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Starter van de week: Clariteer, private-equityfondsen in één overzicht",
+   "link": "https://trends.knack.be/ondernemen/starter-van-de-week-clariteer-private-equityfondsen-in-een-overzicht/",
+   "description": "Het Brusselse Clariteer helpt particuliere en professionele investeerders hun beleggingen in private-equity- en venture-capital-fondsen op één plek op te volgen. Het AI-platform leest de fondsdocumenten automatisch in en zet die om in een gestandaardiseerd overzicht. \"Wat vroeger uren werk in Excel vroeg, gebeurt nu automatisch\", legt medeoprichter Gregory Blondeau uit.Wat maakt uw platform uniek?\"Veel bestaande …\nThe post Starter van de week: Clariteer, private-equityfondsen in één overzicht appeared first on Trends.be.",
+   "date": "2026-11-12T05:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "De houdbaarheid van wat waar is, blijkt in de AI-wereld vaak erg kort",
    "link": "https://www.demorgen.be/meningen/de-houdbaarheid-van-wat-waar-is-blijkt-in-de-ai-wereld-vaak-erg-kort~be9df237/",
    "description": "",
    "date": "2026-11-12T03:01:01",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-11-12",
    "intro_geprobeerd": true
@@ -382,6 +1046,18 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Peking beschikt over een breed arsenaal aan spionagemethodes om westerse technologie te stelen",
+   "link": "https://www.standaard.be/buitenland/peking-beschikt-over-een-breed-arsenaal-aan-spionagemethodes-om-westerse-technologie-te-stelen/164326725.html",
+   "description": "Van een verzoek via Linkedin en nachtelijke bezoeken aan een labo tot een affaire met de ceo van Nvidia: om de technologische kloof met het Westen te dichten, beschikt China over een breed arsenaal aan spionagemethodes.",
+   "date": "2026-11-11T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Wall Street: CoreWeave sluit kwart hoger en geeft AI-rally brandstof",
    "link": "https://www.tijd.be/r/t/1/id/10699447",
    "description": "De sterke cijfers van neocloud CoreWeave en een hoge vraag naar Anthropic-aandelen in aanloop naar de beursgang gaven de Nasdaq vleugels. Chipaandelen lagen in het koopmandje.",
@@ -398,7 +1074,8 @@
    "description": "Seks, spionage, datacenters en een slippertje van 14 miljard. Wie is Alice Huang, de Chinese zakenvrouw die uitgroeide tot een van de meest mysterieuze figuren in de strijd om Nvidia’s begeerde chips?",
    "date": "2026-11-11T21:19:03",
    "feeds": [
-    "De Standaard - Buitenland"
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-12",
    "intro_geprobeerd": false
@@ -2282,6 +2959,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-11-07",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | AI-klonen, podcasts genereren: hoe menselijk blijft de journalistiek?",
+   "link": "https://www.nu.nl/tech/6415615/ai-klonen-podcasts-genereren-hoe-menselijk-blijft-de-journalistiek.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer: gaat kunstmatige intelligentie uiteindelijk Schermtijd overnemen?",
+   "date": "2026-11-07T08:31:26",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-12",
    "intro_geprobeerd": false
   },
   {
