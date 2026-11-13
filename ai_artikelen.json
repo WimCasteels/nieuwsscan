@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T04:09:46",
+ "generated": "2026-11-13T19:21:40",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 164,
+   "count": 172,
    "error": null
   },
   {
@@ -268,8 +268,8 @@
   {
    "name": "Techzine - Artikels",
    "url": "https://www.techzine.be/feed/",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 10,
+   "error": null
   },
   {
    "name": "Trouw - Opinie",
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 95,
    "error": null
   },
   {
@@ -315,6 +315,789 @@
   }
  ],
  "articles": [
+  {
+   "title": "“Topman van chipontwerper Arm gepolst als opvolger van Jensen Huang bij Nvidia”",
+   "link": "https://www.gva.be/economie/bedrijven/topman-van-chipontwerper-arm-gepolst-als-opvolger-van-jensen-huang-bij-nvidia/164540578.html",
+   "description": "Nvidia heeft topman Rene Haas van chipontwerper Arm Holdings benaderd als mogelijke nieuwe topman, meldt zakenkrant Financial Times.",
+   "date": "2026-11-13T19:13:01",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een zwarte zwaan met een leren jas",
+   "link": "https://www.tijd.be/r/t/1/id/10699991",
+   "description": "Het vertrek van Jensen Huang heeft honderden miljarden dollars aan beurswaarde weggeveegd. Is Nvidia zonder zijn visionaire oprichter plots een minder goed bedrijf, of krijgen beleggers een zeldzame koopkans voorgeschoteld?",
+   "date": "2026-11-13T19:10:40",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft biedt verontschuldigingen aan, technische problemen grotendeels opgelost",
+   "link": "https://www.hln.be/tech/microsoft-biedt-verontschuldigingen-aan-technische-problemen-grotendeels-opgelost~ac83f430/",
+   "description": "Microsoft 365 heeft last van een storing waardoor gebruikers wereldwijd hun diensten zoals Teams, Outlook, OneDrive en Copilot niet kunnen gebruiken. Inmiddels duurt de storing al meer dan 21 uur. In Vlaanderen lijken de diensten zich te herstellen. Het blijft onduidelijk wanneer het probleem volledig van de baan is. Volg in deze liveblog alle updates.",
+   "date": "2026-11-13T19:04:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "5 favoriete aandelen: 'Deze techmastodont profiteert op twee manieren van AI '",
+   "link": "https://www.tijd.be/r/t/1/id/10699086",
+   "description": "Victor Zwart van Wealtheon Asset Management heeft vijf aandelen gekozen die passen bij de groeistrategie.",
+   "date": "2026-11-13T19:01:29",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google geeft bedrijven korter de tijd om bugs te fixen vanwege AI",
+   "link": "https://tweakers.net/nieuws/254520/google-geeft-bedrijven-korter-de-tijd-om-bugs-te-fixen-vanwege-ai.html",
+   "description": "Google gaat de termijn verkorten waarbinnen bedrijven aangedragen bugs mogen repareren. Googles responsibledisclosurebeleid gaat nu uit van maximaal 120 dagen, maar dat gaat in stappen naar 30 dagen. Het gaat dan om bugs die Google vindt in diensten van andere bedrijven en via responsible disclosure bij hen onder de aandacht brengt. Google noemt AI en llm's als belangrijkste reden om de termijn te verkleinen.",
+   "date": "2026-11-13T18:45:41",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen winnen ondanks inflatiezorgen en Nvidia-onrust",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-winnen-ondanks-inflatiezorgen-en-nvidia-onrust/",
+   "description": "(ABM FN-Dow Jones) De Europese aandelenmarkten zijn vrijdag na een turbulente week dicht bij de vorige slotstanden geëindigd, maar boekten op weekbasis duidelijke winsten. Sommige indices bereikten deze week zelfs nieuwe recordstanden. Beleggers lijken zich weinig aan te trekken van de hoge inflatie en de opwaartse rentedruk. De plotselinge bestuurscrisis bij chipgigant Nvidia leidde vooralsnog niet …\nThe post Europese beurzen winnen ondanks inflatiezorgen en Nvidia-onrust appeared first on Trends.be.",
+   "date": "2026-11-13T18:43:43",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Groep non-profitorganisaties stapt naar de rechter om ontwikkeling van geavanceerde AI-modellen te stoppen",
+   "link": "https://businessam.be/vijf-ai-bedrijven-aangeklaagd-omdat-hun-geavanceerde-modellen-een-gevaar-zouden-vormen-voor-de-mensheid/",
+   "description": "Key takeaways Een groep non-profitorganisaties heeft bij de Superior Court van San Francisco een rechtszaak aangespannen tegen vijf vooraanstaande AI-ontwikkelaars: Google, Meta, OpenAI, Anthropic en SpaceX Super Intelligence. De eisers, waaronder het Heat Initiative, Public Citizen, het Irreplaceable Education Fund en de Alliance for Secure AI, eisen een stop op de ontwikkeling van geavanceerde AI-modellen […]",
+   "date": "2026-11-13T18:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe vermakelijk de psychologie van de machtige scheveschaatsrijder ook is, de affaire-Nvidia legt lastigere vragen bloot",
+   "link": "https://www.demorgen.be/meningen/hoe-vermakelijk-de-psychologie-van-de-machtige-scheveschaatsrijder-ook-is-de-affaire-nvidia-legt-lastigere-vragen-bloot~b8853116/",
+   "description": "",
+   "date": "2026-11-13T18:30:50",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-aandelen krijgen dag na ontslag Nvidia-CEO Jensen Huang klappen op de beurs",
+   "link": "https://www.gva.be/economie/bedrijven/ai-aandelen-krijgen-dag-na-ontslag-nvidia-ceo-jensen-huang-klappen-op-de-beurs/164537614.html",
+   "description": "De aandelen die gelinkt worden aan artificiële intelligentie staan vrijdag massaal in de uitverkoop op Wall Street, daags nadat de topman van chipfabrikant Nvidia ontslag heeft genomen. Ook het aandeel van Nvidia zelf zette zijn neergang voort.",
+   "date": "2026-11-13T18:12:46",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voor het eerst staat AI op de Europese agenda, maar Oekraïne krijgt de meeste aandacht",
+   "link": "https://www.trouw.nl/buitenland/voor-het-eerst-staat-ai-op-de-europese-agenda-maar-oekraine-krijgt-de-meeste-aandacht~b68fa23d/",
+   "description": "",
+   "date": "2026-11-13T17:46:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Zo kan de AI-toekomst er ook uitzien: technologie die samenwerking versterkt in plaats van mensen uit elkaar speelt",
+   "link": "https://www.nrc.nl/nieuws/2026/11/13/zo-kan-de-ai-toekomst-er-ook-uitzien-technologie-die-samenwerking-versterkt-in-plaats-van-mensen-uit-elkaar-speelt-a4938771",
+   "description": "Er zijn ook ándere AI-toekomsten mogelijk dan wat er uit Silicon Valley komt. De Taiwanese Audrey Tang verzet zich tegen het idee van de singularity, dat één superintelligente AI alles gaat overnemen van mensen. „Pluraliteit is het tegendeel: dat elke gemeenschap het vermogen behoudt om samen betekenis te geven aan wat er gebeurt.”",
+   "date": "2026-11-13T17:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-affaire zet ook Amerikaans minister van Handel Lutnick in de wind",
+   "link": "https://www.tijd.be/r/t/1/id/10699655",
+   "description": "De Amerikaanse minister van Handel Howard Lutnick vecht voor zijn politieke overleven, nu het schandaal dat leidde tot het ontslag van Nvidia-topman Jensen Huang tot in het Witte Huis echoot.",
+   "date": "2026-11-13T17:03:11",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De pikante berichtjes van Jeff Bezos en de McDonald’s-baas die aandelen beloofde in ruil voor seks: ook deze CEO’s brachten hun bedrijf in de problemen met affaires",
+   "link": "https://www.hln.be/economie/de-pikante-berichtjes-van-jeff-bezos-en-de-mcdonalds-baas-die-aandelen-beloofde-in-ruil-voor-seks-ook-deze-ceos-brachten-hun-bedrijf-in-de-problemen-met-affaires~a7a520b3/",
+   "description": "Toen Karen Damen en Josje Huisman met Gert Verhulst tussen de lakens belandden, was hij hun baas. En vóór Marie-Jeanne ‘mevrouw Willy Naessens’ werd, was ze zijn secretaresse en maîtresse. Die affaires waren voer voor grapjes, maar nooit voor controverse. In het puriteinse Amerika ligt dat anders. Buitenechtelijke schandalen maakten deze week een einde aan de carrière van Jensen Huang en deden het beursaandeel van Nvidia kelderen. Dat is lang niet het eerste bedrijf dat pijn gedaan wordt door een scheve schaats van de grote baas. Ook McDonald’s, Boeing, Amazon, Nestlé en Intel moesten het uitzweten na een avontuurtje van hun CEO.",
+   "date": "2026-11-13T17:00:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als AI de journalistiek binnendringt",
+   "link": "https://www.nrc.nl/nieuws/2026/11/13/als-ai-de-journalistiek-binnendringt-a4940503",
+   "description": "AI dringt zich steeds vaker op aan NRC-redacteur Juurd Eijsvoogel als hij aan het werk is – tot zijn ergernis. Hij vraagt zich af: ben ik te oud en inflexibel? Of is AI echt bezig om fundamenten van de journalistiek aan te tasten? Hij gaat te rade bij een AI-liefhebbende vakgenoot. „Hoi Juurd, dit is Beeperbot, de assistent (een AI-agent) van Jeroen.”",
+   "date": "2026-11-13T17:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers tonen massale belangstelling voor beursgang van Anthropic: Nederlandse particulieren kunnen intekenen, Belgische niet",
+   "link": "https://businessam.be/beleggers-tonen-massale-belangstelling-voor-beursgang-van-anthropic/",
+   "description": "Key takeaways Het enthousiasme van beleggers voor de aanstaande beursgang van Anthropic is sterk toegenomen: het aantal orders bedraagt nu ongeveer zes keer het totale aantal beschikbare aandelen. Die sterke stijging van de vraag, waarover Bloomberg News berichtte, wijst op een groeiende belangstelling voor de maker van Claude. De beursgang zou daardoor een van de […]",
+   "date": "2026-11-13T16:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI laat ChatGPT aankopen betalen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/openai-laat-chatgpt-aankopen-betalen/",
+   "description": "(ABM FN-Dow Jones) OpenAI introduceert ChatGPT Wallet, waarmee ChatGPT namens de gebruiker aankopen kan betalen zonder zijn kaartgegevens te zien. Dit maakte het bedrijf vrijdag bekend.De betaalfunctie is ontwikkeld met American Express, Mastercard en Visa. ChatGPT Wallet wordt in eerste instantie uitgerold via dots, de AI-agents van OpenAI die namens gebruikers aankopen doen. De functie is …\nThe post OpenAI laat ChatGPT aankopen betalen appeared first on Trends.be.",
+   "date": "2026-11-13T16:25:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De zaak-Jensen Huang: een triomf van de driften over artificiële intelligentie",
+   "link": "https://www.standaard.be/opinies/de-zaak-jensen-huang-een-triomf-van-de-driften-over-artificiele-intelligentie/164472747.html",
+   "description": "De overspelige wordt door iets anders dan pure lust gedreven, schrijft ervaringsdeskundige Saskia De Coster. Je zet alles op het spel, terwijl je weet dat je alles te verliezen hebt.",
+   "date": "2026-11-13T16:25:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "TIJDLIJN. Van een eerste etentje in Singapore tot zijn ontslag: zo voltrok de ondergang van Nvidia-CEO Jensen Huang zich",
+   "link": "https://www.gva.be/economie/bedrijven/tijdlijn.-van-een-eerste-etentje-in-singapore-tot-zijn-ontslag-zo-voltrok-de-ondergang-van-nvidia-ceo-jensen-huang-zich/164523324.html",
+   "description": "Affaires met een vermeende Chinese spionne en een leidinggevende die aan hem moest rapporteren, deden deze week de kop van de topman van techgigant Nvidia rollen. Daarna volgde ook nog het nieuws over een mogelijke derde affaire. Een tijdlijn van de toch niet zo plotse ondergang van de CEO Jensen Huang (63).",
+   "date": "2026-11-13T16:21:24",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wie alleen naar Jensen Huang wijst, ziet enkel de splinter, niet de balk’",
+   "link": "https://trends.knack.be/opinie/wie-alleen-naar-jensen-huang-wijst-ziet-enkel-de-splinter-niet-de-balk/",
+   "description": "Dat de AI-bubbel zou barsten, verkondig ik Cassandra-gewijs al zowat een jaar. Wat ik niet had verwacht: de bubbel barst niet door een slecht kwartaalcijfer, maar door het liefdesleven van één man. Dat zegt minder over Jensen Huang dan over de fondsenmanagers die drie jaar lang blind achter hem aanliepen.\nThe post ‘Wie alleen naar Jensen Huang wijst, ziet enkel de splinter, niet de balk’ appeared first on Trends.be.",
+   "date": "2026-11-13T16:19:27",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Witte Huis overweegt ontslag minister van Handel Howard Lutnick na Nvidia-controverse",
+   "link": "https://businessam.be/witte-huis-overweegt-ontslag-minister-van-handel-howardlutnick-na-nvidia-controverse/",
+   "description": "Key takeaways Hooggeplaatste medewerkers van het Witte Huis debatteren momenteel over het mogelijke ontslag van minister van Handel Howard Lutnick naar aanleiding van een controverse rond de voormalige topman van Nvidia, Jensen Huang. De kritiek vloeit voort uit beschuldigingen dat Lutnick de export van AI-chips naar China onvoldoende heeft gereguleerd en heeft nagelaten een cruciale […]",
+   "date": "2026-11-13T16:13:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Noord-Koreaanse hackers stelen  meer dan 400 miljoen dollar van slachtoffers met deepfakevideo's",
+   "link": "https://vrtnws.be/p.oLqp3wjXY",
+   "description": "Noord-Koreaanse hackers hebben de afgelopen 18 maanden meer dan 400 miljoen dollar in crypto buitgemaakt aan de hand van deepfakevideo's. Dat zegt de Amerikaanse politiedienst FBI. Noord-Korea zelf verwerpt alle beschuldigingen.",
+   "date": "2026-11-13T16:12:19",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de zaak-Huang: ‘CEO’s hebben geen idee dat ze spionagedoelwitten zijn, tot het fout loopt’",
+   "link": "https://www.tijd.be/r/t/1/id/10699388",
+   "description": "Dat de Amerikaanse Nvidia-chipkoning Jensen Huang zich mogelijk zomaar in een ‘honeytrap’ van een vermeende Chinese spionne liet lokken, slaat de wereld met verstomming. Toch kan het iedereen overkomen. ‘We hebben allemaal een zwakke plek. De kunst is om te weten wát die is.’",
+   "date": "2026-11-13T16:02:43",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Premier De Wever heeft last van partycrashers en Jensen Huang laat een puinhoop achter: beluister de podcast Tussen Wetstraat en Wall Street",
+   "link": "https://www.knack.be/nieuws/belgie/politiek/premier-de-wever-heeft-last-van-partycrashers-en-jensen-huang-laat-een-puinhoop-achter-beluister-de-podcast-tussen-wetstraat-en-wall-street/",
+   "description": "Het zoveelste moment van de waarheid voor de regering-De Wever. Maandag wordt de premier op het paleis verwacht. Maar heeft hij tegen dan een akkoord of zal hij toch met de partijvoorzitters een nieuwe regeerakkoord moeten smeden? En we buigen ons ook over de vraag of ex-CEO Jensen Huang wist dat zijn minnares Nvidia-chips naar China smokkelde.\nThe post Premier De Wever heeft last van partycrashers en Jensen Huang laat een puinhoop achter: beluister de podcast Tussen Wetstraat en Wall Street appeared first on Knack.",
+   "date": "2026-11-13T16:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia toont valkuilen van huwelijk tussen bedrijfswereld en geopolitiek",
+   "link": "https://www.tijd.be/r/t/1/id/10699845",
+   "description": "De bedrijfswereld en de geopolitiek vielen elkaar de voorbije jaren in de armen. De zaak-Nvidia toont hoe dat niet altijd even goed afloopt.",
+   "date": "2026-11-13T15:34:29",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft meldt na ruim anderhalve dag vooruitgang bij oplossen grote storing",
+   "link": "https://www.nu.nl/tech/6416487/microsoft-meldt-na-ruim-anderhalve-dag-vooruitgang-bij-oplossen-grote-storing.html",
+   "description": "Microsoft zegt vooruitgang te boeken bij het herstellen van de wereldwijde storing. Technische problemen hebben sinds donderdag onder meer e-maildienst Outlook, vergaderdienst Teams en AI-hulp Copilo platgelegd.",
+   "date": "2026-11-13T15:22:21",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - AMD Radeon Software Adrenalin Edition 26.11.1 Optional",
+   "link": "https://tweakers.net/downloads/79058/amd-radeon-software-adrenalin-edition-26111-optional.html",
+   "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.11.1 is een optionele update en moet een fout verhelpen die heel erg veel data naar de systeemschijf deed schrijven op systemen met een RX 7000, wat mogelijk to slijtage van de SSD kon leiden. De complete changelog voor deze uitgave kan hieronder worden gevonden. Fixed Issues",
+   "date": "2026-11-13T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Jensen Huang weg bij Nvidia: hoe kwam het zover en wie kan hem opvolgen?",
+   "link": "https://tweakers.net/reviews/15604/jensen-huang-weg-bij-nvidia-hoe-kwam-het-zover-en-wie-kan-hem-opvolgen.html",
+   "description": "Jensen Huang stapt op als Nvidia-ceo, nadat meerdere schandalen aan het licht kwamen. Hoe moet het verder met het grootste chipbedrijf ter wereld?",
+   "date": "2026-11-13T15:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google introduceert goedkoper AI-model Gemini 4 Hydrogen als vervanger van Flash",
+   "link": "https://tweakers.net/nieuws/254496/google-introduceert-goedkoper-ai-model-gemini-4-hydrogen-als-vervanger-van-flash.html",
+   "description": "Google heeft het AI-model Gemini 4 Hydrogen uitgebracht. Dat is goedkoper dan de eerder uitgebrachte Carbon- en Argon-modellen. Hydrogen vervangt Gemini 3.8 Flash. Het AI-model is beschikbaar voor alle betalende gebruikers in onder meer de Gemini-app en Google AI Studio.",
+   "date": "2026-11-13T14:15:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cisco boekt recordomzet en verhoogt jaarprognose dankzij sterke vraag naar AI-infrastructuur",
+   "link": "https://businessam.be/cisco-boekt-recordomzet-en-verhoogt-jaarprognoses-dankzij-groeiende-vraag-naar-ai-infrastructuur/",
+   "description": "Key takeaways Cisco Systems Inc. boekte sterke resultaten in het eerste kwartaal van het boekjaar 2027. De marktleider op het gebied van netwerken overtrof de marktverwachtingen en verhoogde zijn jaarprognoses, waarmee het de grootste winst- en omzetstijgingen in meer dan anderhalf decennium realiseerde. Sterke financiële prestaties Uit de financiële resultaten bleek een gecorrigeerde winst per […]",
+   "date": "2026-11-13T14:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipgigant TSMC meldt diefstal van personeelsgegevens",
+   "link": "https://www.security.nl/posting/961566/Chipgigant+TSMC+meldt+diefstal+van+personeelsgegevens?channel=rss",
+   "description": "Een aanvaller is erin geslaagd om gegevens van voormalig en huidig personeel van chipgigant TSMC te stelen, zo heeft het ...",
+   "date": "2026-11-13T14:03:52",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voor Musk is de mens slechts een vervangbaar opstapje naar de overheersing van de computer",
+   "link": "https://www.nrc.nl/nieuws/2026/11/13/voor-musk-is-de-mens-slechts-een-vervangbaar-opstapje-naar-de-overheersing-van-de-computer-a4940611",
+   "description": "Of je nu zijn succesvolle bedrijven bewondert of bibbert van zijn megalomane uitspraken over AI; volgens Jurgen Masure moet je snappen dat er sowieso een overkoepelend wereldbeeld schuilt achter Elon Musks imperium. Musk wil de baas zijn tijdens de overgang van mens naar machine.",
+   "date": "2026-11-13T14:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Miljoenen gebruikers zonder Outlook, Teams en Copilot: zijn we te afhankelijk geworden van één grote cloudleverancier?",
+   "link": "https://vrtnws.be/p.0Ype9YxmE",
+   "description": "De problemen met Microsoft tonen pijnlijk hoe erg we afhankelijk zijn geworden van de cloud. Zeker als je je eieren in de mand van één grote cloudleverancier legt. Dat zegt cybersecurity-expert Eddy Willems. Hoewel hij vreest dat deze problemen moeilijk te voorkomen zijn, heeft hij één advies. “Wat je wél kan doen, is testen wat er zou gebeuren als er een aantal diensten van de cloud uitvallen.”",
+   "date": "2026-11-13T13:42:15",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van de Bijbel tot de Stasi: een ‘honingval’ zoals bij Nvidia-baas Huang is van alle tijden",
+   "link": "https://www.volkskrant.nl/buitenland/van-de-bijbel-tot-de-stasi-een-honingval-zoals-bij-nvidia-baas-huang-is-van-alle-tijden~b0869bf4/",
+   "description": "",
+   "date": "2026-11-13T13:28:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Pratende boekenkast, slimme moswand en inclusieve belevingsroute: dit zijn de winnaars van de Einstein van Limburg-awards",
+   "link": "https://vrtnws.be/p.LNWAoW0nB",
+   "description": "Op de Corda Campus in Hasselt zijn gisteren voor het eerst de Einstein van Limburg-awards uitgereikt. De hoofdprijs ter waarde van 50.000 euro ging naar Niels Adriaenssens voor een platform dat met artificiële intelligentie handgeschreven huistaken kan verbeteren. Daardoor kunnen leerkrachten sneller werken en de vrijgekomen tijd gebruiken voor het persoonlijk begeleiden van hun leerlingen.",
+   "date": "2026-11-13T13:24:54",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CNN: geen doorslaggevend bewijs dat Alice Huang Chinese spion is",
+   "link": "https://tweakers.net/nieuws/254498/cnn-geen-doorslaggevend-bewijs-dat-alice-huang-chinese-spion-is.html",
+   "description": "Er is nog geen doorslaggevend bewijs gevonden dat Alice Huang een spion was voor de Chinese overheid. Dat melden bronnen van Amerikaanse veiligheidsdiensten aan CNN. Mede door de affaire met Alice Huang besloot Jensen Huang (geen familie) af te treden als ceo van Nvidia.",
+   "date": "2026-11-13T12:54:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia verkocht verboden AI-chips aan bedrijf van Chinese minnares van opgestapte topman Huang",
+   "link": "https://www.ad.nl/tech/nvidia-verkocht-verboden-ai-chips-aan-bedrijf-van-chinese-minnares-van-opgestapte-topman-huang~ac5a2371/",
+   "description": "Een Chinees bedrijf dat werd opgericht door Alice Huang, de vermeende Chinese spion die centraal staat in het schandaal rond Nvidia, heeft verboden AI-chips van het Amerikaanse bedrijf verkregen. Dat meldt persbureau Bloomberg op basis van anonieme bronnen.",
+   "date": "2026-11-13T12:50:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese leiders bespreken in Dublin hoe Europa zijn positie in de AI-race kan versterken",
+   "link": "https://businessam.be/europese-leiders-bespreken-in-dublin-hoe-europa-zijn-positie-in-de-ai-race-kan-versterken/",
+   "description": "Key takeaways Dublin is deze vrijdag gastheer van de eerste EU-top die volledig in het teken staat van artificiële intelligentie. De staatshoofden en regeringsleiders van de lidstaten proberen er een strategie uit te werken om de technologische kloof met China en de Verenigde Staten te overbruggen. De top sluit een reeks diplomatieke bijeenkomsten op hoog […]",
+   "date": "2026-11-13T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude heeft storing: gebruikers hebben moeite met inloggen - update",
+   "link": "https://tweakers.net/nieuws/254500/claude-heeft-storing-gebruikers-hebben-moeite-met-inloggen.html",
+   "description": "Sommige diensten van AI-chatbot Claude zijn vrijdagochtend deels of helemaal niet beschikbaar. Gebruikers hebben problemen met het inloggen bij Claude.ai en Claude Code. Hoe de problemen zijn ontstaan, is niet bekend.",
+   "date": "2026-11-13T12:07:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "U kiest welk aandeel Trends Beleggen analyseert: van KBC tot Nvidia",
+   "link": "https://trends.knack.be/beleggen/adviezen/u-kiest-welk-aandeel-trends-beleggen-analyseert-stem-hier/",
+   "description": "Trends Beleggen geeft u het woord. Kies welke van deze vijf spraakmakende aandelen we volgende week tot op de bodem analyseren. Stem in de poll hieronder.\nThe post U kiest welk aandeel Trends Beleggen analyseert: van KBC tot Nvidia appeared first on Trends.be.",
+   "date": "2026-11-13T12:06:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De opvolger van Jensen Huang bij Nvidia krijgt de moeilijkste job in de techwereld",
+   "link": "https://trends.knack.be/nieuws/de-opvolger-van-jensen-huang-bij-nvidia-krijgt-de-moeilijkste-job-in-de-techwereld/",
+   "description": "Nvidia moet verder zonder zijn oprichter Jensen Huang. Een bedrijf dat om één man heen is opgebouwd, moet nu leren zonder hem te functioneren.\nThe post De opvolger van Jensen Huang bij Nvidia krijgt de moeilijkste job in de techwereld appeared first on Trends.be.",
+   "date": "2026-11-13T12:00:37",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chinees bedrijf van vermeende spion Alice Huang verkreeg verboden Nvidia-chips",
+   "link": "https://www.demorgen.be/nieuws/chinees-bedrijf-van-vermeende-spion-alice-huang-verkreeg-verboden-nvidia-chips~bc208674/",
+   "description": "",
+   "date": "2026-11-13T12:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Verboden Nvidia-chips via Singapore naar Chinees datacenter",
+   "link": "https://www.techzine.be/nieuws/privacy-compliance/83823/verboden-nvidia-chips-via-singapore-naar-chinees-datacenter/",
+   "description": "Een Chinees bedrijf, opgericht door Alice Huang, schafte gesmokkelde AI-chips aan. Alice Huang kwam afgelopen week in het nieuws vanwege een intieme relatie met Jensen Huang, de voormalige CEO van Nvidia. De chips zijn geïnstalleerd in een datacenter in Shanghai dat banden heeft met Megaspeed.  Dit blijkt uit documenten die door Bloomberg zijn ingezien. Sommige […]",
+   "date": "2026-11-13T11:51:23",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Het “bange hertje” moet nu het grootste bedrijf ter wereld leiden: wie is Colette Kress, de nieuwe topvrouw van Nvidia?",
+   "link": "https://www.gva.be/economie/het-bange-hertje-moet-nu-het-grootste-bedrijf-ter-wereld-leiden-wie-is-colette-kress-de-nieuwe-topvrouw-van-nvidia/164504049.html",
+   "description": "Toen ze er begon, was Nvidia “het kleinste bedrijf waarvoor ik ooit heb gewerkt”. Nu is het een van de grootste ter wereld, en is ze er de baas. Wie is “bang hertje” Colette Kress?",
+   "date": "2026-11-13T11:50:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cisco profiteert van AI-‘supercyclus’ met voorspelde omzet van 75 miljard",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83821/cisco-profiteert-van-ai-supercyclus-met-voorspelde-omzet-van-75-miljard/",
+   "description": "Cisco-aandelen stegen donderdag, nadat de fabrikant van netwerkapparatuur resultaten over het eerste kwartaal van het boekjaar rapporteerde die beter waren dan verwacht. Het bedrijf verhoogde de omzetprognose en gaat uit van een aanhoudend sterke vraag van bedrijven die hun AI-infrastructuur uitbreiden. Cisco probeert voet aan de grond te krijgen in de ontwikkeling van de AI-infrastructuur, […]",
+   "date": "2026-11-13T11:16:04",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat is er aan de hand met Microsoft 365? Gaat het om een cyberaanval? Alles wat we nu weten over de wereldwijde storing",
+   "link": "https://www.hln.be/tech/wat-is-er-aan-de-hand-met-microsoft-365-gaat-het-om-een-cyberaanval-alles-wat-we-nu-weten-over-de-wereldwijde-storing~a9152f74/",
+   "description": "Microsoft 365 heeft last van een storing, waardoor gebruikers wereldwijd niet bij diensten zoals Teams, Outlook, OneDrive en Copilot kunnen. Dit is alles wat we nu weten.",
+   "date": "2026-11-13T11:15:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zo digitaal kwetsbaar zijn we geworden: één storing volstaat",
+   "link": "https://trends.knack.be/opinie/zo-digitaal-kwetsbaar-zijn-we-geworden-een-storing-volstaat/",
+   "description": "We maken ons terecht zorgen over AI, over ransomware, hackers, de Russen, Chinezen en Iraniërs. Maar we lijken de ouderwetse panne te vergeten. Uitgerekend deze vrijdag de 13de maakt dat nog eens duidelijk. \nThe post Zo digitaal kwetsbaar zijn we geworden: één storing volstaat  appeared first on Trends.be.",
+   "date": "2026-11-13T11:05:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | AI lost het grote kerstprobleem op",
+   "link": "https://www.tijd.be/r/t/1/id/10699108",
+   "description": "Waarom zouden we voor kerstcadeaus op ons beperkte voorstellingsvermogen blijven vertrouwen? We gebruiken ChatGPT toch al voor zowat alles.",
+   "date": "2026-11-13T11:01:57",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nooit meer uitgelachen om je steenkolenfrans – hoe een chatbot leerlingen met spreekangst helpt",
+   "link": "https://www.volkskrant.nl/binnenland/nooit-meer-uitgelachen-om-je-steenkolenfrans-hoe-een-chatbot-leerlingen-met-spreekangst-helpt~b6f2dfba/",
+   "description": "",
+   "date": "2026-11-13T10:46:39",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wie is Colette Kress, de vrouw die tijdelijk de leiding krijgt over Nvidia?",
+   "link": "https://businessam.be/nvidia-benoemt-colette-kress-tot-interim-ceo-na-het-vertrek-van-jensen-huang/",
+   "description": "Key takeaways Na het onverwachte vertrek van Jensen Huang, die de chipgigant meer dan drie decennia lang aan het roer stond, heeft NVIDIA Colette Kress benoemd tot tijdelijke CEO. Kress, 59, was tot nu toe financieel directeur van het bedrijf. Ze geldt als een spilfiguur binnen de organisatie dankzij haar uitgebreide kennis van de financiële […]",
+   "date": "2026-11-13T10:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe groot zijn de problemen bij Microsoft-diensten, en waarom duurt het zo lang? “Het is allemaal heel vreemd”",
+   "link": "https://www.gva.be/economie/technologie/hoe-groot-zijn-de-problemen-bij-microsoft-diensten-en-waarom-duurt-het-zo-lang-het-is-allemaal-heel-vreemd/164498856.html",
+   "description": "Het Amerikaanse techbedrijf Microsoft kampt met een wereldwijde storing. Daardoor hebben gebruikers onder meer problemen met hun Outlook-mailbox, Teams en Copilot. Wat is er precies aan de hand? Is er sprake van hacking? En wat zijn de alternatieven?",
+   "date": "2026-11-13T10:43:17",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook in Nederland veel problemen door wereldwijde storing Microsoft, 'geen hack'",
+   "link": "https://nos.nl/l/2639277",
+   "description": "De urenlange wereldwijde storing bij Microsoft leidt ook in Nederland tot problemen, nu de werkdag is begonnen. Sinds gistermiddag 17.15 uur is er hinder bij verschillende diensten van Microsoft 365 zoals Outlook en Teams, waardoor mensen moeilijk of niet bij hun e-mails kunnen en soms ook niet online kunnen vergaderen.\n        Daarnaast is de kalender soms niet beschikbaar en hebben sommige mensen problemen met thuiswerken. Dat komt doordat de Authenticator het niet doet, waarmee mensen op afstand moeten inloggen.\n        In Nederland zijn er duizenden meldingen gedaan op Allestoringen.nl, met een piek om 09.00 uur, het begin van de werkdag. Een groot deel van de overheid en het bedrijfsleven leunt op Microsoft.\n        Problemen bij gemeenten en provincies\n        Diverse gemeenten waaronder Leeuwarden, Barneveld en Krimpen aan den IJssel zien problemen. Die laatste gemeente laat weten dat mensen wel producten of diensten via de gemeentewebsite kunnen aanvragen, maar daar voorlopig geen bevestigingsmail van krijgen.\n        De provincies Groningen en Noord-Holland laten weten minder goed bereikbaar te zijn. Ook de rechtbanken kunnen geen mails ontvangen of versturen, maar zijn wel te bellen. Diverse regionale omroepen laten aan hun publiek weten voorlopig slechter bereikbaar te zijn. De Rijksoverheid heeft vooralsnog niets gecommuniceerd over de storing.\n        In meer dan zeventig andere landen wordt melding gedaan van problemen als gevolg van de storing. Zo roept de Britse politie mensen op om te bellen in plaats een online formulier in te vullen. In Australië melden de geheime dienst en politiedienst dat ze last hebben van haperend mailverkeer. Verder ondervinden de Japanse overheid, Singaporese overheidsdiensten en veel Indiase bedrijven hinder.\n        Wereldwijd zijn er meer dan 430 miljoen gebruikers van Microsoft 365, een abonnement waarin Office-apps als Word, Excel en Powerpoint zitten.\n        Geen hack, oorzaak niet bekend\n        De oorzaak van de problemen is niet gedeeld door Microsoft. Dat gebeurt pas als de storing is opgelost. Het gaat in elk geval niet om een cyberincident, zegt het techbedrijf. Volgens Microsoft is sprake van \"verhoogde belasting\" en is \"een aantal servers onverwacht niet beschikbaar, waardoor de resterende infrastructuur onder druk komt te staan\". Het is ingewikkeld om de servercapaciteit weer volledig te herstellen als die is weggevallen.\n        Microsoft werkt intussen hard aan een oplossing. Vannacht zag het er nog niet goed uit: pogingen om de systemen te herstarten hadden nog niet het gewenste effect. Rond 10.30 uur sprak Microsoft van \"vroege tekenen van stabilisatie\", maar dat onder meer Outlook, Teams en AI-dienst Copilot nog altijd niet zoals gewoonlijk functioneren.\n        Ook kondigde Microsoft aan een aanpassing te hebben gedaan in wat de e-mail timeout wordt genoemd. Om ervoor te zorgen dat e-mails niet verloren gaan, worden ze pas weggegooid als die 48 uur lang niet bezorgd kunnen worden. Dat geldt overigens niet voor mailservers van derden (zoals Gmail) die hun mails bij Outlook-adressen proberen af te leveren.\n        Het is ook niet bekend wanneer de storing verholpen zal zijn. Analisten verwachten dat de problemen bedrijven wereldwijd miljarden dollars kunnen kosten, omdat er productiviteitsproblemen zijn ontstaan door het ontbreken van Outlook en Teams.",
+   "date": "2026-11-13T10:41:33",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: farmaceuten aan kop",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-farmaceuten-aan-kop/",
+   "description": "(ABM FN) De Brusselse beurs doet het vrijdagochtend rustig aan. De Bel20 index steeg met 0,1 procent en ook op de omringende beurzen waren de koersbewegingen beperkt.Veel nieuws was er vanochtend ook niet, na de onrust donderdag in reactie op het vertrek van CEO Jensen Huang bij Nvidia. Inmiddels is ook een derde affaire van de …\nThe post Beursupdate: farmaceuten aan kop appeared first on Trends.be.",
+   "date": "2026-11-13T10:26:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI laat Poolse Geralt na beroerte stemacteur weer klinken als in Witcher 3",
+   "link": "https://tweakers.net/nieuws/254490/ai-laat-poolse-geralt-na-beroerte-stemacteur-weer-klinken-als-in-witcher-3.html",
+   "description": "Ontwikkelaar CD Projekt RED past de Poolse stem van Geralt met AI aan in de Songs of the Past-uitbreiding van The Witcher 3, meldt Game File. Dat doet de studio omdat stemacteur Jacek Rozenek in 2019 een beroerte had gehad. Daardoor was zijn stem veranderd.",
+   "date": "2026-11-13T09:31:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gemini 4 Hydrogen brengt Google terug in de race om betaalbare AI",
+   "link": "https://www.techzine.be/nieuws/applications/83820/gemini-4-hydrogen-brengt-google-terug-in-de-race-om-betaalbare-ai/",
+   "description": "Google introduceert Gemini 4 Hydrogen. Dit is een nieuw model voor softwareontwikkeling en agentic workflows. Hydrogen combineert geavanceerd redeneervermogen met een lagere latentie en lagere kosten. Volgens Google kan het model veel ontwikkeltaken sneller uitvoeren dan zijn voorganger, Gemini 3.8 Flash. Hydrogen voegt zich bij de onlangs geïntroduceerde modellen Gemini 4 Carbon en Gemini 4 […]",
+   "date": "2026-11-13T09:24:37",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bedrijf opgericht door minnares van Nvidia-topman kreeg verboden chips in China",
+   "link": "https://www.gva.be/buitenland/bedrijf-opgericht-door-minnares-van-nvidia-topman-kreeg-verboden-chips-in-china/164493874.html",
+   "description": "Een Chinees bedrijf dat is opgericht door Alice Huang, de vrouw die een affaire had met voormalig Nvidia-topman Jensen Huang, heeft gesmokkelde AI-chips van Nvidia aangeschaft. Die zijn geïnstalleerd in een datacentrum in Shanghai dat banden heeft met het bedrijf Megaspeed International, waar Alice Huang kaderlid was. Dat blijkt uit documenten die persbureau Bloomberg kon inkijken.",
+   "date": "2026-11-13T09:12:57",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Opgestapte Nvidia-topman moet getuigen voor Senaat om affaires",
+   "link": "https://nos.nl/l/2639261",
+   "description": "Jensen Huang, voormalig topman van chipgigant Nvidia, is opgeroepen om te getuigen voor een Amerikaanse Senaatscommissie. Huang stapte gisteren op na een nieuwe onthulling over een buitenechtelijke relatie.\n        The New York Times schreef dat Huang een affaire had gehad met een directe medewerker binnen Nvidia. Persbureau Reuters berichtte daarna op basis van twee ingewijden dat er sprake was van een derde affaire, wederom met een werknemer van Nvidia.\n        Vorige week werd Huangs eerste affaire bekend, die hij ook toegaf. Hierbij ging het volgens diverse media om zijn naamgenoot Alice Huang, die ervan wordt verdacht voor China te spioneren.\n        Over de verhoudingen tussen deze Chinese zakenvrouw en de Chinese overheid lijkt binnen de Amerikaanse inlichtingendiensten twijfel te bestaan. Vorige week meldden bronnen bij de diensten tegen Amerikaanse media dat er bewijs is dat ze als spion werkte. Andere bronnen spreken dat nu tegen CNN tegen.\n        Volgens CNN doet de FBI al minstens een jaar onderzoek naar de affaire met de vermeende spion. Zij is de voormalige leidinggevende van het Singaporese bedrijf Megaspeed, een belangrijke afnemer van Nvidia-chips.\n        Senaatscommissie\n        Oud-CEO Huang is opgeroepen om zich te verantwoorden tegenover de Senaatscommissie voor Bankzaken. Een van de senatoren, de Republikein Tim Scott, heeft Huang verzocht om zich op 3 december vrijwillig te melden. Als dat niet gebeurt kan hij worden gedagvaard. Dan moet hij verplicht getuigen. \"Het Amerikaanse volk verdient antwoorden\", zegt Scott op X.\n        De Verenigde Staten maken zich zorgen over de mogelijkheid dat geavanceerde chips in Chinese handen komen, waardoor China zijn leger sneller zou kunnen moderniseren en AI-modellen beter zou kunnen ontwikkelen. Met onder meer exportbeperkingen probeert de VS dat al jaren te voorkomen. Nvidia speelt met zijn chips een belangrijke rol in de wereldwijde AI-race.\n        Ook commissies van het Huis van Afgevaardigden willen met de voormalig topman in gesprek over zijn affaires. Dat zou achter gesloten deuren gebeuren. De commissies houden zich bezig met inlichtingen in het buitenland, waaronder China.\n        Minister in de schijnwerpers\n        De Amerikaanse minister Lutnick van Handel is eveneens opgeroepen om te getuigen voor de Senaatscommissie. Zijn handelen wordt onderzocht vanwege de export van AI-chips van Nvidia naar China. Anonieme functionarissen binnen de regering-Trump meldden aan Amerikaanse media dat Lutnick pogingen heeft tegengehouden om de exportbeperkingen op AI-chips naar China aan te scherpen.\n        Volgens een woordvoerder van zijn ministerie zal Lutnick op eigen initiatief voor de commissie verschijnen.\n        Wat is Nvidia?\n        Het Amerikaanse technologiebedrijf Nvidia is een van de belangrijkste spelers op het gebied van kunstmatige intelligentie. Het bedrijf ontwerpt geavanceerde chips, die onder meer worden gebruikt om AI-systemen te ontwikkelen. Doordat de vraag naar deze chips enorm is gestegen, is Nvidia uitgegroeid tot een van de waardevolste bedrijven ter wereld.\n        De afgelopen vijf dagen verloor Nvidia 550 miljard dollar (ruim 497 miljard euro) op de Amerikaanse beurs. Gisteren leverde Nvidia ruim 4 procent in, na eerder op de dag op een veel groter koersverlies te hebben gestaan.\n        Beleggers hebben vragen over de mogelijke impact van Huangs vertrek bij Nvidia op de ontwikkeling van de technologie. De oud-topman was het gezicht van Nvidia en werd door sommigen in de branche zelfs als belangrijker beschouwd dan Nvidia zelf.",
+   "date": "2026-11-13T09:11:43",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 621.24 WHQL",
+   "link": "https://tweakers.net/downloads/79052/geforce-game-ready-driver-62124-whql.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 621.24 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen Warhammer 40,000: Dawn of War IV, Assetto Corsa Rally en Where Winds Meet. De complete changelog voor deze uitgave kan hieronder worden gevonden: Game Ready This new Game Ready Driver provides the best gaming experience for Warhammer 40,000: Dawn of War IV, and Assetto Corsa Rally, and the addition of DLSS 5 with 3D-Guided Neural Rendering to Where Winds Meet. Fixed Gaming Bugs",
+   "date": "2026-11-13T09:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Methode waar zelfs de meest ervaren computergebruikers in tuinden”: Noord-Koreaanse hackers stalen 400 miljoen dollar met deepfakevideo's",
+   "link": "https://www.gva.be/buitenland/methode-waar-zelfs-de-meest-ervaren-computergebruikers-in-tuinden-noord-koreaanse-hackers-stalen-400-miljoen-dollar-met-deepfakevideos/164493377.html",
+   "description": "Noord-Koreaanse hackers hebben de afgelopen achttien maanden meer dan 400 miljoen dollar (ongeveer 361 miljoen euro) in crypto buitgemaakt aan de hand van deepfakevideo's. Dat meldt de Amerikaanse FBI.",
+   "date": "2026-11-13T08:57:18",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gemeentes, universiteiten en rechtbanken gehinderd door Microsoft-storing, nog geen oplossing in zicht",
+   "link": "https://www.ad.nl/tech/gemeentes-universiteiten-en-rechtbanken-gehinderd-door-microsoft-storing-nog-geen-oplossing-in-zicht~a9152f74/",
+   "description": "Microsoft kampt wereldwijd met een grote storing. Daardoor kunnen miljoenen gebruikers niet inloggen op Outlook, OneDrive, Microsoft Teams en andere software. Ook AI-assistent Copilot is getroffen door de storing. Het bedrijf zegt ‘met man en macht’ te werken aan het beperken van de gevolgen.",
+   "date": "2026-11-13T08:53:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijde AI-uitgaven stijgen in 2027 naar verwachting tot 3,66 biljoen euro",
+   "link": "https://businessam.be/wereldwijde-ai-uitgaven-stijgen-in-2027-naar-verwachting-tot-366-biljoen-euro/",
+   "description": "Key takeaways Volgens recente gegevens van Gartner zullen de wereldwijde investeringen in artificiële intelligentie naar verwachting met 47,5 procent stijgen en in 2027 naar schatting 3,66 biljoen euro bedragen. Wereldwijde AI-investeringen nemen fors toe Dat is een aanzienlijke toename tegenover de 2,48 biljoen euro die voor 2026 wordt voorspeld. De groei wordt aangedreven door de […]",
+   "date": "2026-11-13T08:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google brengt Gemini-bril met Samsung-hardware uit vanaf 395 dollar",
+   "link": "https://tweakers.net/nieuws/254488/google-brengt-gemini-bril-met-samsung-hardware-uit-vanaf-395-dollar.html",
+   "description": "Google heeft zijn nieuwe slimme brillen aangekondigd. De fabrikant gebruikt designs van Warby Parker en Gentle Monster en hardware van Samsung. De brillen zijn nu voor te bestellen en kosten minimaal 395 dollar. De levering begint op 10 december. Het is niet bekend wanneer de apparaten naar Europa komen.",
+   "date": "2026-11-13T08:31:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘AI creëert tegen 2030 wereldwijd meer jobs dan ze vernietigt’: hoe kan dat?",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-creeert-tegen-2030-wereldwijd-meer-jobs-dan-ze-vernietigt-hoe-kan-dat/",
+   "description": "Artificiële intelligentie zal tegen 2030 wereldwijd meer dan 10 miljoen jobs creëren en er bijna 9 miljoen doen verdwijnen. Van een ‘jobsapocalyps’ als gevolg van AI is volgens onderzoeksbureau Gartner dus geen sprake. \nThe post ‘AI creëert tegen 2030 wereldwijd meer jobs dan ze vernietigt’: hoe kan dat? appeared first on Trends.be.",
+   "date": "2026-11-13T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 lijkt lager te openen na onrust rond Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-lijkt-lager-te-openen-na-onrust-rond-nvidia/",
+   "description": "(ABM FN) De Belgische beurs maakt zich vrijdag op voor een lagere opening, nadat Wall Street donderdag terrein verloor door de onrust rond Nvidia en de zorgen over het Amerikaanse rentebeleid. Futures op de Euro Stoxx 50 index wezen ongeveer een uur voor de beursbel op een verlies van ongeveer een half procent. De Brusselse Bel20 index sloot …\nThe post Bel20 lijkt lager te openen na onrust rond Nvidia appeared first on Trends.be.",
+   "date": "2026-11-13T07:59:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voormalig Nvidia-topman Huang en minister van Handel opgeroepen om te getuigen voor Congres",
+   "link": "https://www.standaard.be/economie/voormalig-nvidia-topman-huang-en-minister-van-handel-opgeroepen-om-te-getuigen-voor-congres/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-13T07:57:28",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wat als Claude mijn bankier wordt?’",
+   "link": "https://trends.knack.be/opinie/mijn-bankier-heet-claude/",
+   "description": "Wat als bankieren niet meer begint bij de bank, maar bij de AI-agent die uw financiële planning regelt, vraagt Cedric Loyens zich af.\nThe post ‘Wat als Claude mijn bankier wordt?’ appeared first on Trends.be.",
+   "date": "2026-11-13T06:45:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ex-Nvidia-topman Huang en Handelsminister zullen over affaire getuigen voor Amerikaans Congres",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/exnvidiatopman-huang-en-handelsminister-zullen-over-affaire-ge~1776671241366/",
+   "description": "De ontwikkelingen in Artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-13T06:44:31",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft ziet \"verbetering\" na wereldwijde problemen met onder andere Outlook, Teams en Copilot",
+   "link": "https://vrtnws.be/p.bDo54bmom",
+   "description": "Microsoft boekt vooruitgang bij het herstel van de serverproblemen waardoor gebruikers wereldwijd hinder ondervinden. Van Azië tot de Verenigde Staten waren diensten als Outlook, Teams en Copilot urenlang verstoord. \"We zien verbeteringen in belangrijke toepassingen, zoals toegang tot mailboxen, maar er blijven nog altijd problemen\", zegt het Amerikaanse technologiebedrijf. Momenteel zijn er geen aanwijzingen dat het om kwaad opzet zou gaan.",
+   "date": "2026-11-13T06:14:03",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijde storing treft Microsoft, miljoenen gebruikers de dupe",
+   "link": "https://nos.nl/l/2639244",
+   "description": "Microsoft 365 kampt sinds gistermiddag 17.15 uur Nederlandse tijd met een wereldwijde storing. Verschillende diensten, waaronder Outlook en Microsoft Teams, zijn hierdoor moeilijk bereikbaar of werken helemaal niet. Gebruikers hebben problemen met hun e-mail en kunnen niet online vergaderen.\n        Ook AI-functies van Copilot werken niet. Volgens Microsoft komt de storing door een \"verhoogde belasting\" van de infrastructuur. Op X schrijft Microsoft dat dit komt doordat \"een aantal servers onverwacht niet beschikbaar is, waardoor de resterende infrastructuur onder druk komt te staan\".\n        Van een cyberaanval is volgens het techbedrijf geen sprake. Wat dan wel de oorzaak van de storing is, maakt het bedrijf naar eigen zeggen pas bekend zodra het probleem is verholpen. De storing is voor zover bekend merkbaar in ruim zeventig landen.\n        Herstart nog niet gelukt\n        Microsoft zegt \"met man en macht\" te werken aan een oplossing. Zo wordt geprobeerd de getroffen systemen te herstarten. Vannacht meldde het bedrijf dat pogingen hiertoe nog niet het gewenste effect hadden. In de vroege ochtend meldde het techbedrijf dat diensten deels weer zouden moeten werken. Rond 08.45 uur sprak Microsoft van \"positieve resultaten en verhoogde capaciteit\", maar er is nog altijd geen stabiele oplossing.\n        Wereldwijd zijn er meer dan 430 miljoen gebruikers van Microsoft 365, een abonnement waarin Office-apps als Word, Excel en Powerpoint zitten. Ook techreuzen als OpenAI en Anthropic maken gebruik van Microsoft. Naar verwachting zal de storing nog enige tijd aanhouden. Microsoft-directeur Lamanna zegt de storing te betreuren en hard te werken aan een oplossing.\n        Mocht de storing zeker 24 uur aanhouden, dan kan het een van de zwaarste ooit zijn, zegt een techanalist tegen de BBC. Hij wijst op de vele miljarden dollars die wereldwijd verloren gaan, doordat er productiviteitsproblemen bij bedrijven ontstaan.",
+   "date": "2026-11-13T06:01:39",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Heel veel mensen in mijn omgeving verklaren mij nu een beetje gek”: beleggers Ben (55), Carine (66) en Benjamin (22) over wat ze met hun aandelen doen nu Nvidia 10% verloren is",
+   "link": "https://www.hln.be/beleggen-en-investeren/heel-veel-mensen-in-mijn-omgeving-verklaren-mij-nu-een-beetje-gek-beleggers-ben-55-carine-66-en-benjamin-22-over-wat-ze-met-hun-aandelen-doen-nu-nvidia-10-verloren-is~a040992e/",
+   "description": "Nvidia verliest meer dan 10 procent op de beurs na het plotse vertrek van topman Jensen Huang, die betrokken raakte bij meerdere buitenechtelijke relaties, waarvan één met een vermoedelijke Chinese spionne. Ben Granjé (55) uit Lier ziet een deel van zijn winst verdampen, terwijl Benjamin Belmans (22) uit Mol net gisteren voor het eerst aandelen kocht. Houden, verkopen of bijkopen? Drie beleggers vertellen wat zij nu met hun Nvidia-aandelen doen.",
+   "date": "2026-11-13T06:00:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "FBI: Hackers Noord-Korea stalen honderden miljoenen aan crypto met deepfakes",
+   "link": "https://www.nu.nl/tech/6416426/fbi-hackers-noord-korea-stalen-honderden-miljoenen-aan-crypto-met-deepfakes.html",
+   "description": "Hackers die worden gesteund door de Noord-Koreaanse regering hebben de afgelopen anderhalf jaar volgens de FBI voor meer dan 400 miljoen dollar (ruim 350 miljoen euro) aan cryptovaluta gestolen. Met behulp van AI deden ze zich voor als bekenden van hun slachtoffers.",
+   "date": "2026-11-13T05:50:56",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU-leiders buigen zich over AI: wacht Europa de digitale hemel of wordt het de hel?",
+   "link": "https://www.volkskrant.nl/tech/eu-leiders-buigen-zich-over-ai-wacht-europa-de-digitale-hemel-of-wordt-het-de-hel~b3e7d02d/",
+   "description": "",
+   "date": "2026-11-13T05:00:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Afgetreden Nvidia-topman Huang opgeroepen om te getuigen voor Amerikaanse Senaat",
    "link": "https://www.trouw.nl/duurzaamheid-economie/afgetreden-nvidia-topman-huang-opgeroepen-om-te-getuigen-voor-amerikaanse-senaat~bf31b688/",
@@ -395,6 +1178,40 @@
   {
    "title": "Jensen Huang valt van zijn voetstuk, hoe groot wordt de schade voor de AI-wereld?",
    "link": "https://www.standaard.be/economie/jensen-huang-valt-van-zijn-voetstuk-hoe-groot-wordt-de-schade-voor-de-ai-wereld/164471271.html",
+   "description": "Nvidia is dé chipontwerper waar het in de AI-race om draait. Maar het bedrijf was ook onlosmakelijk verbonden met topman Jensen Huang. De affaire te veel bracht hem ten val. Wat nu met Nvidia en de chipsector?",
+   "date": "2026-11-12T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook de Amerikaanse minister van Handel heeft iets uit te leggen in de affaire-Huang",
+   "link": "https://www.standaard.be/buitenland/ook-de-amerikaanse-minister-van-handel-heeft-iets-uit-te-leggen-in-de-affaire-huang/164447161.html",
+   "description": "De val van Jensen Huang is niet alleen voor Nvidia een blamage. Ook de dubieuze China-strategie van de regering-Trump en minister van Handel Howard Lutnick komen in Washington onder vuur te liggen.",
+   "date": "2026-11-12T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe Jensen Huang de Taylor Swift van AI werd",
+   "link": "https://www.standaard.be/economie/hoe-jensen-huang-de-taylor-swift-van-ai-werd/164482121.html",
+   "description": "In september, op Computex, de grootste beurs voor computerhardware in Azië, was Jensen Huang nog een van de grootste sterren van de AI-wereld. Shailesh Chitnis doet verslag van die week ‘Jensanity’ en vertelt het verhaal achter de topman van Nvidia. “Misschien ben ik gewoon niet ambitieus genoeg.”",
+   "date": "2026-11-12T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-baas Jensen Huang valt van zijn voetstuk, hoe groot wordt de schade voor de AI-wereld?",
+   "link": "https://www.standaard.be/economie/nvidia-baas-jensen-huang-valt-van-zijn-voetstuk-hoe-groot-wordt-de-schade-voor-de-ai-wereld/164471271.html",
    "description": "Nvidia is dé chipontwerper waar het in de AI-race om draait. Maar het bedrijf was ook onlosmakelijk verbonden met topman Jensen Huang. De affaire te veel bracht hem ten val. Wat nu met Nvidia en de chipsector?",
    "date": "2026-11-12T23:59:00",
    "feeds": [
@@ -703,6 +1520,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Ondernemingskamer beschermt Nexperia verder tegen Wingtech",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83818/ondernemingskamer-beschermt-nexperia-verder-tegen-wingtech/",
+   "description": "De Ondernemingskamer van het Gerechtshof Amsterdam heeft extra maatregelen opgelegd om chipmaker Nexperia te beschermen tegen inmenging door de Chinese eigenaar Wingtech. Volgens de rechter hebben Wingtech en Nexperia China eerdere uitspraken ondermijnd. Wie de nieuwe bevelen negeert, riskeert forse sancties. De Ondernemingskamer oordeelde woensdag dat Wingtech en Nexperia China met hun acties de eerdere […]",
+   "date": "2026-11-12T18:03:32",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "De affaires van de Nvidia-topman komen op een nogal ongelegen moment voor de Amerikaanse techindustrie",
    "link": "https://www.volkskrant.nl/tech/de-affaires-van-de-nvidia-topman-komen-op-een-nogal-ongelegen-moment-voor-de-amerikaanse-techindustrie~b6c834e7/",
    "description": "",
@@ -780,6 +1608,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "ServiceNow wil CRM-migraties met AI terugbrengen naar weken",
+   "link": "https://www.techzine.be/nieuws/applications/83817/servicenow-wil-crm-migraties-met-ai-terugbrengen-naar-weken/",
+   "description": "ServiceNow introduceert Autonomous CRM Engine, een AI-native oplossing die organisaties helpt over te stappen van legacy CRM-platformen. Zulke migraties duren normaal maanden tot jaren. ServiceNow belooft een overstap in enkele weken. Na de livegang bewaakt de engine de omgeving op configuratiefouten. Met de nieuwe engine mikt ServiceNow op bedrijven die vastzitten in complexe, verouderde CRM-omgevingen. […]",
+   "date": "2026-11-12T16:34:28",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Verzekeraars zien gebruik van AI bij plegen van verzekeringsfraude",
    "link": "https://www.security.nl/posting/961442/Verzekeraars+zien+gebruik+van+AI+bij+plegen+van+verzekeringsfraude?channel=rss",
    "description": "Fraudeurs hebben vorig jaar verschillende keren gebruikgemaakt van AI voor het plegen van verzekeringsfraude, zo laat het ...",
@@ -821,6 +1660,17 @@
     "Business AM - Artikels"
    ],
    "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-CEO Jensen Huang stapt op: wat betekent dit?",
+   "link": "https://www.techzine.be/blogs/applications/83812/nvidia-ceo-jensen-huang-stapt-op-wat-betekent-dit/",
+   "description": "Sinds 1993 stond Jensen Huang aan het roer van Nvidia, het door hem en drie andere opgerichte chipbedrijf. Wat decennialang een avontuur in de gaming-industrie bleef, groeide uit tot een datacenter- en uiteindelijk AI-uitbouw op een astronomische schaal. Aan dat hoofdstuk komt nu plotseling een eind, ogenschijnlijk geheel doordat de CEO vreemdging met twee vrouwen: […]",
+   "date": "2026-11-12T15:06:25",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
    "intro_geprobeerd": false
   },
   {
@@ -964,6 +1814,17 @@
     "Knack - Artikels"
    ],
    "first_seen": "2026-11-12",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Fivetran: AI-budget verdwijnt in herstel van dataproblemen",
+   "link": "https://www.techzine.be/nieuws/analytics/83771/fivetran-ai-budget-verdwijnt-in-herstel-van-dataproblemen/",
+   "description": "Bijna vier op de tien bedrijven besteden minstens een kwart van hun AI-budget aan het oplossen van dataproblemen. Maatwerkintegraties drijven de kosten verder op. Dat blijkt uit onderzoek van Fivetran. Het spreekt hierbij over de ‘AI tax’: de verborgen kosten die ontstaan wanneer AI niet goed op bedrijfsdata is aangesloten. Volgens het onderzoek gaat 39 […]",
+   "date": "2026-11-12T14:00:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-13",
    "intro_geprobeerd": false
   },
   {
