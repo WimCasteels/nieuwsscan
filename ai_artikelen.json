@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T19:21:40",
+ "generated": "2026-11-14T03:55:07",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 31,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 37,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 172,
+   "count": 175,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 95,
+   "count": 99,
    "error": null
   },
   {
@@ -315,6 +315,218 @@
   }
  ],
  "articles": [
+  {
+   "title": "Drie wetenschappers over de infiltratie van AI in hun vakgebied: ‘Wordt wiskunde vooral een kwestie van goed prompten?’",
+   "link": "https://www.demorgen.be/tech-wetenschap/drie-wetenschappers-over-de-infiltratie-van-ai-in-hun-vakgebied-wordt-wiskunde-vooral-een-kwestie-van-goed-prompten~ba815cf5a/",
+   "description": "",
+   "date": "2026-11-14T03:00:23",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ex-topman van Nvidia Jensen Huang misleidde topjurist over affaire met Chinese zakenvrouw",
+   "link": "https://www.gva.be/buitenland/ex-topman-van-nvidia-jensen-huang-misleidde-topjurist-over-affaire-met-chinese-zakenvrouw/164547837.html",
+   "description": "Jensen Huang, de voormalige CEO van Nvidia, heeft verschillende leidinggevenden van het bedrijf misleid over zijn relatie met de Chinese zakenvrouw Alice Huang, met wie hij een affaire had. Bij hen waren ook de hoofdjurist Tim Teter en marketingdirecteur Alison Wagonfeld. Dat blijkt uit interne correspondentie die Reuters kon inkijken en uit getuigenissen van twee ingewijden.",
+   "date": "2026-11-14T01:51:27",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China wint én verliest bij de val van Nvidia-topman Jensen Huang",
+   "link": "https://www.standaard.be/buitenland/china-wint-en-verliest-bij-de-val-van-nvidia-topman-jensen-huang/164507543.html",
+   "description": "Los van alle speculatie over listige manoeuvres en succesvolle honeytraps zat Peking deze week mee op de Jensen Huang-rollercoaster. Ook China betaalt een prijs voor het vertrek van de Nvidia-ceo.",
+   "date": "2026-11-13T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat betekenen de midterms en de zaak-Alice Huang voor onze technologie?",
+   "link": "https://www.standaard.be/media-en-cultuur/wat-betekenen-de-midterms-en-de-zaak-alice-huang-voor-onze-technologie/164292785.html",
+   "description": "De impact van de midterms was nauwelijks verwerkt, of daar volgde een tweede dreun: een spionageschandaal met de spil van de AI-boom in de hoofdrol. Wie weet levert het ons goedkopere smartphones en laptops op.",
+   "date": "2026-11-13T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google brengt slimme Gemini-bril met Samsung-hardware uit vanaf 395 dollar",
+   "link": "https://www.hln.be/tech/google-brengt-slimme-gemini-bril-met-samsung-hardware-uit-vanaf-395-dollar~a907d47f/",
+   "description": "Google heeft slimme brillen aangekondigd met monturen van Warby Parker en Gentle Monster en hardware van Samsung. Ze zijn nu in de VS te bestellen vanaf 395 dollar. De levering begint op 10 december.",
+   "date": "2026-11-13T22:30:31",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia zakt opnieuw bij bredere chipramsj op Wall Street",
+   "link": "https://www.tijd.be/r/t/1/id/10700168",
+   "description": "De sfeer op Wall Street was opnieuw behoorlijk bedrukt. Nvidia sloot na een volatiele sessie andermaal in het rood.",
+   "date": "2026-11-13T22:02:05",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI kat net ontdekte aap om tot niet-bestaande vogel",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/ai-kat-net-ontdekte-aap-om-tot-niet-bestaande-vogel~b9f9331f/",
+   "description": "",
+   "date": "2026-11-13T22:00:10",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Jensen Huang, de AI-visionair die zijn eigen blinde vlek niet zag",
+   "link": "https://www.tijd.be/r/t/1/id/10700283",
+   "description": "Jensen Huang maakte Nvidia tot de spil van de AI-revolutie en werd zelf een van de machtigste CEO’s ter wereld. Uitgelekte affaires en een Chinees spionagedossier brachten de ‘rockster van de techwereld’ in enkele dagen ten val. Toch kan hij de geschiedenis ingaan als de man die in één generatie het waardevolste bedrijf ter wereld bouwde.",
+   "date": "2026-11-13T21:31:31",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-zaak zet spotlights op schimmige wereld van Chinese spionage",
+   "link": "https://www.trouw.nl/buitenland/nvidia-zaak-zet-spotlights-op-schimmige-wereld-van-chinese-spionage~b9f57615/",
+   "description": "",
+   "date": "2026-11-13T20:56:06",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-aandelen houden stand ondanks crisis bij Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10699981",
+   "description": "Met de exit van Jensen Huang bij Nvidia verdwijnt een spilfiguur in de financiering van de wereldwijde datacenterboom van het toneel. Maar dat doet de 'AI-trade' op de beurzen niet ontsporen. Het AI-bedrijf Anthropic wil volgende week de grootste beursgang ooit realiseren.",
+   "date": "2026-11-13T20:39:37",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "FT: ‘Nvidia benadert Arm-topman Rene Haas als mogelijke opvolger van Huang’",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/ft-nvidia-benadert-arm-topman-rene-haas-als-mogelijke-opvolger-van-huang-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post FT: ‘Nvidia benadert Arm-topman Rene Haas als mogelijke opvolger van Huang’ appeared first on Trends.be.",
+   "date": "2026-11-13T20:27:16",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Youtuber kan mp3-nummers afspelen in Factorio via ingebouwde speakers",
+   "link": "https://tweakers.net/geek/254524/youtuber-kan-mp3-nummers-afspelen-in-factorio-via-ingebouwde-speakers.html",
+   "description": "Factorio is een game waar je met heel erg veel kennis bijzonder creatieve dingen in kunt maken. Maar wat nou als je de game ook een beetje nuttig kunt maken? Youtuber Nablanaut heeft een dappere poging gedaan. Hij kan nu muziek afspelen op Factorio-speakers. Daarvoor gebruikt hij algoritmes om bestaande mp3's uit elkaar te trekken en die te vertalen naar de instrumenten in de game.",
+   "date": "2026-11-13T20:20:41",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Nvidia polst topman Arm als opvolger voor Huang'",
+   "link": "https://www.tijd.be/r/t/1/id/10700532",
+   "description": "In de zoektocht naar een opvolger voor Jensen Huang heeft de raad van bestuur van de Amerikaanse chipgigant Nvidia Rene Haas, de topman van de Britse chipdesigner Arm Holdings, benaderd. Dat meldt de Britse zakenkrant Financial Times.",
+   "date": "2026-11-13T20:11:21",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘In schrikbarend tempo wordt duidelijk wat de prijs is van ons gebrek aan ambitie’",
+   "link": "https://www.tijd.be/r/t/1/id/10700545",
+   "description": "De debacles rond Nvidia en Microsoft duwen ons met de neus op de feiten: we zijn gevaarlijk afhankelijk van Amerikaanse technologie en daar hangt een kostprijs aan vast.",
+   "date": "2026-11-13T19:53:07",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wellicht begrijpen Nvidia-beleggers dat een bedrijf zelden staat of valt met wie er aan het hoofd staat",
+   "link": "https://www.standaard.be/economie/beurs/wellicht-begrijpen-nvidia-beleggers-dat-een-bedrijf-zelden-staat-of-valt-met-wie-er-aan-het-hoofd-staat/164528917.html",
+   "description": "Na de affaires van ceo Jensen Huang ging Nvidia deze week stevig onderuit. En dat terwijl techaandelen vorige week al stevige klappen hadden gekregen. Toch is de koersval van Nvidia geen reden tot paniek.",
+   "date": "2026-11-13T19:45:00",
+   "feeds": [
+    "De Standaard - Biz Financiele Markten",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-gigant Anthropic aast bij beursgang op record van SpaceX",
+   "link": "https://www.standaard.be/economie/ai-gigant-anthropic-aast-bij-beursgang-op-record-van-spacex/164494318.html",
+   "description": "Beleggers lopen storm voor de beursgang van Anthropic. Het bedrijf achter AI-assistent Claude staat op het punt om volgende week op verschillende vlakken het record van SpaceX aan te scherpen.",
+   "date": "2026-11-13T19:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Axelera's Titania-chip werkt met Lpddr-geheugen en past in bestaande datacenters",
+   "link": "https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html",
+   "description": "De Nederlandse AI-start-up Axelera heeft de specificaties bekendgemaakt van zijn AI-chiplet Titania. Die chip is gemaakt zodat gpu's in bestaande datacenterracks met luchtkoeling kunnen worden gezet, zonder dat speciale vloeistofkoeling nodig is. De chip gebruikt verder Lpddr6-geheugen in plaats van HBM, terwijl dat laatste juist gangbaarder is voor AI-systemen.",
+   "date": "2026-11-13T19:37:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft zegt sorry voor wereldwijde storing en meldt ‘bemoedigende vooruitgang’: ‘Niets met cyberaanvallen of AI te maken’",
+   "link": "https://www.demorgen.be/snelnieuws/microsoft-zegt-sorry-voor-wereldwijde-storing-en-meldt-bemoedigende-vooruitgang-niets-met-cyberaanvallen-of-ai-te-maken~b9152f74/",
+   "description": "",
+   "date": "2026-11-13T19:23:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft biedt excuses aan voor wereldwijde storing, diensten grotendeels hersteld",
+   "link": "https://vrtnws.be/p.Nv3A0e1kw",
+   "description": "Microsoft heeft zijn verontschuldigingen aangeboden voor de technische problemen waar klanten wereldwijd al een hele dag mee kampen. Tegelijk zegt het bedrijf achter onder meer Outlook, Teams en Copilot dat zijn diensten intussen \"een breed herstel en stabiliteit\" vertonen. Al is de situatie nog niet helemaal genormaliseerd.",
+   "date": "2026-11-13T19:22:23",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
   {
    "title": "“Topman van chipontwerper Arm gepolst als opvolger van Jensen Huang bij Nvidia”",
    "link": "https://www.gva.be/economie/bedrijven/topman-van-chipontwerper-arm-gepolst-als-opvolger-van-jensen-huang-bij-nvidia/164540578.html",
@@ -398,7 +610,8 @@
    "description": "",
    "date": "2026-11-13T18:30:50",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-11-13",
    "intro_geprobeerd": true
@@ -791,6 +1004,17 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Het “bange hertje” leidt nu het grootste bedrijf ter wereld: wie is Colette Kress, de nieuwe topvrouw van Nvidia?",
+   "link": "https://www.gva.be/economie/het-bange-hertje-leidt-nu-het-grootste-bedrijf-ter-wereld-wie-is-colette-kress-de-nieuwe-topvrouw-van-nvidia/164504049.html",
+   "description": "Toen ze er begon, was Nvidia “het kleinste bedrijf waarvoor ik ooit heb gewerkt”. Nu is het een van de grootste ter wereld, en is ze er de baas. Wie is “bang hertje” Colette Kress?",
+   "date": "2026-11-13T11:50:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Cisco profiteert van AI-‘supercyclus’ met voorspelde omzet van 75 miljard",
    "link": "https://www.techzine.be/nieuws/infrastructure/83821/cisco-profiteert-van-ai-supercyclus-met-voorspelde-omzet-van-75-miljard/",
    "description": "Cisco-aandelen stegen donderdag, nadat de fabrikant van netwerkapparatuur resultaten over het eerste kwartaal van het boekjaar rapporteerde die beter waren dan verwacht. Het bedrijf verhoogde de omzetprognose en gaat uit van een aanhoudend sterke vraag van bedrijven die hun AI-infrastructuur uitbreiden. Cisco probeert voet aan de grond te krijgen in de ontwikkeling van de AI-infrastructuur, […]",
@@ -1141,6 +1365,17 @@
    ],
    "first_seen": "2026-11-13",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Informaticus Ilyas Nasrullah over AI: ‘Ik ben er niet van overtuigd dat dit onze wiskundekennis nu tien of twintig jaar vooruithelpt’",
+   "link": "https://www.demorgen.be/tech-ai/informaticus-ilyas-nasrullah-over-ai-ik-ben-er-niet-van-overtuigd-dat-dit-onze-wiskundekennis-nu-tien-of-twintig-jaar-vooruithelpt~b5ded9f5/",
+   "description": "",
+   "date": "2026-11-13T03:00:00",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
   },
   {
    "title": "Ook Amerikaans minister van Handel heeft iets uit te leggen in de affaire-Jensen Huang",
