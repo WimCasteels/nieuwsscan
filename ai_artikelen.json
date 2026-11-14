@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T03:55:07",
+ "generated": "2026-11-14T17:50:33",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 37,
+   "count": 35,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 175,
+   "count": 165,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 99,
+   "count": 87,
    "error": null
   },
   {
@@ -316,6 +316,149 @@
  ],
  "articles": [
   {
+   "title": "AI is boosdoener bij datalekken: 'Binnen een halve minuut ontdek je zwakheden'",
+   "link": "https://www.nu.nl/tech/6416361/ai-is-boosdoener-bij-datalekken-binnen-een-halve-minuut-ontdek-je-zwakheden.html",
+   "description": "Van sportclubs tot cadeauwinkels: steeds meer bedrijven worden getroffen door hacks waarbij persoonsgegevens op straat komen te liggen. NUjij'ers vrezen dat AI deze golf van aanvallen verder aanwakkert. \"Nu ontdek je binnen een halve minuut zwakheden.\"",
+   "date": "2026-11-14T13:02:02",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Trump kocht tot vijf miljoen dollar aan Nvidia-aandelen en versoepelde vervolgens exportregels chips naar China • Trump, Xi en Poetin ontmoeten elkaar volgende week",
+   "link": "https://www.demorgen.be/snelnieuws/live-trump-kocht-tot-vijf-miljoen-dollar-aan-nvidia-aandelen-en-versoepelde-vervolgens-exportregels-chips-naar-china~b13cc951/",
+   "description": "",
+   "date": "2026-11-14T12:37:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Huang is weg, leve Huang? Ook zoon, dochter én schoonzoon van ontslagen CEO maken carrière bij chipreus Nvidia",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/14/crisis-bij-nvidia-toont-hoezeer-de-familie-huang-verweven-is-met/",
+   "description": "Nu Nvidia-CEO Jensen Huang is moeten opstappen na zijn liefdesaffaire met een mogelijke Chinese spion wordt pas echt duidelijk hoe fel het bedrijf verweven is met de Huangs. Want ook zijn zoon, dochter én schoonzoon zijn actief bij de chipreus. En welke financiële stok heeft zijn vrouw achter de deur?",
+   "date": "2026-11-14T11:49:16",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Huang is weg, leve Huang? Ook zoon, dochter én schoonzoon van ontslagen CEO maken carrière bij chipreus Nvidia",
+   "link": "https://vrtnws.be/p.XEVDA6K0O",
+   "description": "Nu Nvidia-CEO Jensen Huang is moeten opstappen na zijn liefdesaffaire met een mogelijke Chinese spion wordt pas echt duidelijk hoe fel het bedrijf verweven is met de Huangs. Want ook zijn zoon, dochter én schoonzoon zijn actief bij de chipreus. En welke financiële stok heeft zijn vrouw achter de deur?",
+   "date": "2026-11-14T11:49:16",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In 2026 werden al meer dan twee keer zoveel CVE-bugs geregistreerd als in 2025",
+   "link": "https://tweakers.net/nieuws/254534/in-2026-werden-al-meer-dan-twee-keer-zoveel-cve-bugs-geregistreerd-als-in-2025.html",
+   "description": "Er zijn in 2026 al meer dan 100.000 bugs geregistreerd met een CVE-nummer, stelt securitybedrijf VulnCheck. Dat zijn er meer dan twee keer zoveel als in heel 2025. Dat komt voornamelijk door kunstmatige intelligentie, die in rap tempo nieuwe kwetsbaarheden vindt.",
+   "date": "2026-11-14T11:43:29",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 scherpt record verder aan",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-scherpt-record-verder-aan-4/",
+   "description": "(ABM FN) De Brusselse beurs heeft zijn all time high afgelopen week aangescherpt tot 6.144 punten, met hulp van zwaargewicht Argenx en chipbakker Melexis, die niet meegetrokken werd in de malaise rond Nvidia na een positief analistenrapport.De Bel20 sloot vrijdag af op 6.120 punten. Een week eerder was de slotstand 5.996 punten.Lagere energieprijzen en koopjesjagers gaven …\nThe post Bel20 scherpt record verder aan appeared first on Trends.be.",
+   "date": "2026-11-14T11:08:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Schermtijd | Ik gaf een prentenboek uit, koop het alsjeblieft niet",
+   "link": "https://www.nu.nl/tech/6416355/ik-gaf-een-prentenboek-uit-koop-het-alsjeblieft-niet.html",
+   "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer zet hij een AI-prentenboek te koop in de winkel van Amazon.",
+   "date": "2026-11-14T10:30:08",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "FT: Nvidia zou Rene Haas van Arm hebben benaderd om Jensen Huang op te volgen",
+   "link": "https://tweakers.net/nieuws/254538/ft-nvidia-zou-rene-haas-van-arm-hebben-benaderd-om-jensen-huang-op-te-volgen.html",
+   "description": "Nvidia zou Rene Haas hebben gevraagd ceo te worden. Hij is sinds 2022 de baas van Arm. Haas heeft daar nog niet op geantwoord. Nvidia zegt dat het nog geen mogelijke kandidaten officieel heeft benaderd.",
+   "date": "2026-11-14T10:26:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ex-ceo Jensen Huang misleidde topjurist en Nvidia-top maandenlang over affaire met vermeende Chinese spionne",
+   "link": "https://www.ad.nl/tech/ex-ceo-jensen-huang-misleidde-topjurist-en-nvidia-top-maandenlang-over-affaire-met-vermeende-chinese-spionne~afa53737/",
+   "description": "Maandenlang hield Jensen Huang de schijn hoog. De voormalige ceo van Nvidia ontkende met klem dat hij een affaire had met de Chinese zakenvrouw Alice Huang, die door Amerikaanse inlichtingendiensten in verband wordt gebracht met spionage voor Peking. Nu blijkt dat hij daarbij ook zijn eigen topjurist en andere leidinggevenden op het verkeerde been zette.",
+   "date": "2026-11-14T09:35:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Storing bij Microsoft 365 is na ruim 36 uur helemaal voorbij",
+   "link": "https://tweakers.net/nieuws/254532/storing-bij-microsoft-365-is-na-ruim-36-uur-helemaal-voorbij.html",
+   "description": "De grote storing bij Microsoft 365 is opgelost. Dat zegt Microsoft op zaterdagochtend op X. Daarmee duurde de storing meer dan 36 uur. Microsoft biedt zijn excuses aan en zegt dat de storing niet werd veroorzaakt door een cyberaanval of door AI of AI-agents die fouten maakten.",
+   "date": "2026-11-14T09:15:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wereldwijde Microsoft-storing opgelost: Outlook, Teams en Copilot werken weer",
+   "link": "https://www.hln.be/tech/wereldwijde-microsoft-storing-opgelost-outlook-teams-en-copilot-werken-weer~ac83f430/",
+   "description": "Sinds donderdag kampte Microsoft met een wereldwijde storing waardoor gebruikers problemen hadden met onder meer Teams, Outlook, OneDrive, Copilot en Microsoft 365. Intussen meldt het technologiebedrijf dat alle diensten en producten opnieuw normaal werken. Volg in deze liveblog alle ontwikkelingen.",
+   "date": "2026-11-14T07:20:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Je ziet ze overal, de met AI gemaakte reclameposters: ‘Jammer dat het zo’n eenheidsworst is geworden’",
+   "link": "https://www.ad.nl/binnenland/je-ziet-ze-overal-de-met-ai-gemaakte-reclameposters-jammer-dat-het-zon-eenheidsworst-is-geworden~a9e5abf3/",
+   "description": "In de snackbar, op de markt of in de sportkantine: plots zijn ze overal. Bomvolle, schreeuwerige AI-posters die allemaal op elkaar lijken. Volgens reclame-experts sorteren ze vaak nauwelijks effect. „Het is een ontploffing aan boodschappen.’’",
+   "date": "2026-11-14T06:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla laat geselecteerde klanten Cybercab kopen voor eigen gebruik",
+   "link": "https://www.gva.be/buitenland/tesla-laat-geselecteerde-klanten-cybercab-kopen-voor-eigen-gebruik/164548184.html",
+   "description": "Tesla nodigt een selecte groep klanten uit om de Cybercab te kopen voor eigen gebruik, maakte de autobouwer vrijdag bekend. Daarmee zet het bedrijf een stap om volledig ontworpen zelfrijdende auto’s bij klanten te krijgen.",
+   "date": "2026-11-14T05:05:21",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Drie wetenschappers over de infiltratie van AI in hun vakgebied: ‘Wordt wiskunde vooral een kwestie van goed prompten?’",
    "link": "https://www.demorgen.be/tech-wetenschap/drie-wetenschappers-over-de-infiltratie-van-ai-in-hun-vakgebied-wordt-wiskunde-vooral-een-kwestie-van-goed-prompten~ba815cf5a/",
    "description": "",
@@ -338,12 +481,24 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Ex-CEO Jensen Huang misleidde topjurist en leidinggevenden binnen Nvidia over affaire met Chinese spionne: “Hij omschreef relatie als gewone omgang met klant”",
+   "link": "https://www.gva.be/buitenland/ex-ceo-jensen-huang-misleidde-topjurist-en-leidinggevenden-binnen-nvidia-over-affaire-met-chinese-spionne-hij-omschreef-relatie-als-gewone-omgang-met-klant/164547837.html",
+   "description": "Jensen Huang, de voormalige CEO van Nvidia, heeft verschillende leidinggevenden van het bedrijf misleid over zijn relatie met de Chinese zakenvrouw Alice Huang, met wie hij een affaire had. Bij hen waren ook de hoofdjurist Tim Teter en marketingdirecteur Alison Wagonfeld. Dat blijkt uit interne correspondentie die Reuters kon inkijken en uit getuigenissen van twee ingewijden.",
+   "date": "2026-11-14T01:51:26",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "China wint én verliest bij de val van Nvidia-topman Jensen Huang",
    "link": "https://www.standaard.be/buitenland/china-wint-en-verliest-bij-de-val-van-nvidia-topman-jensen-huang/164507543.html",
    "description": "Los van alle speculatie over listige manoeuvres en succesvolle honeytraps zat Peking deze week mee op de Jensen Huang-rollercoaster. Ook China betaalt een prijs voor het vertrek van de Nvidia-ceo.",
    "date": "2026-11-13T23:59:00",
    "feeds": [
-    "De Standaard - Buitenland"
+    "De Standaard - Buitenland",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-14",
    "intro_geprobeerd": false
@@ -615,6 +770,17 @@
    ],
    "first_seen": "2026-11-13",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft biedt excuses aan na urenlange storing bij onder meer Outlook",
+   "link": "https://nos.nl/l/2639353",
+   "description": "Microsoft heeft zijn excuses aangeboden voor de grote storing die sinds gisteren aan de gang was.\n        Het spijt ons enorm dat deze storing onze klanten en partners heeft getroffen. We weten dat ze erop vertrouwen dat onze diensten werken en we nemen die verantwoordelijkheid uiterst serieus\", stelt de techgigant.\n        De wereldwijde storing is aan het afnemen, meldt het bedrijf. Door de storing konden miljoenen gebruikers geen e-mails ontvangen en versturen en was online vergaderen via Teams ook soms niet mogelijk. Ook was AI-assistent Copilot getroffen.\n        De storing begon gistermiddag rond 17.00 uur. Het hoogtepunt van de storingsmeldingen in Nederland lag volgens de website Allestoringen vanochtend rond 09.00 uur. Vandaag rond 12.30 uur begonnen de meldingen flink af te nemen.\n        Volgens het bedrijf waren serverproblemen de oorzaak en was er geen sprake van een hack. De techgigant geeft geen verdere details, maar heeft het over een \"verhoogde belasting\" waardoor \"een aantal servers onverwacht niet beschikbaar was\".\n        Rechtbanken\n        In ruim zeventig landen werd melding gedaan van problemen.\n        In Nederland waren onder meer rechtbanken niet per mail te bereiken. Ook gemeenten, waaronder Leeuwarden en Barneveld, meldden problemen te hebben met e-mails. Met software-updates begonnen de problemen in de loop van de dag af te nemen.\n        In een aantal Canadese ziekenhuizen ging de communicatie moeizamer. Zo konden bij meerdere ziekenhuizen alleen telefonisch patiëntenafspraken worden ingepland of afgezegd, meldt CBC News.\n        De Britse politie riep mensen op te bellen in plaats van online een formulier in te vullen. Ook overheidsdiensten in onder meer Japan, Singapore en India ondervonden problemen.\n        'Microsoft 364'\n        Omdat diensten van Microsofts abonnementsservice Microsoft 365 werden getroffen, grapten veel gebruikers op sociale media dat de service beter Microsoft 364 kon heten, omdat ze onder meer Outlook en Teams al een dag niet of slecht konden bereiken.",
+   "date": "2026-11-13T18:18:34",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-14",
+   "intro_geprobeerd": false
   },
   {
    "title": "AI-aandelen krijgen dag na ontslag Nvidia-CEO Jensen Huang klappen op de beurs",
