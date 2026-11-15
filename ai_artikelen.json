@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T17:50:33",
+ "generated": "2026-11-15T03:24:55",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 35,
+   "count": 33,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 165,
+   "count": 167,
    "error": null
   },
   {
@@ -315,6 +315,28 @@
   }
  ],
  "articles": [
+  {
+   "title": "Microsoft herstelt wereldwijde storing na meer dan 24 uur: Outlook, Teams en Copilot werken weer",
+   "link": "https://businessam.be/microsoft-herstelt-wereldwijde-storing-na-meer-dan-24-uur-outlook-teams-en-copilot-werken-weer/",
+   "description": "Key takeaways Microsoft heeft aangekondigd dat zijn digitale diensten volledig zijn hersteld na een catastrofale wereldwijde storing die essentiële activiteiten meer dan een dag lang heeft verstoord. Het technologiebedrijf bevestigde zaterdag dat applicaties zoals Outlook, Teams en Copilot weer werken voor alle gebruikers wereldwijd. Na zich te hebben verontschuldigd voor de chaos, verklaarde het bedrijf […]",
+   "date": "2026-11-14T19:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia richt pijlen op CEO van Arm als mogelijke opvolger van opgestapte Jensen Huang",
+   "link": "https://businessam.be/nvidia-richt-pijlen-op-ceo-van-arm-als-mogelijke-opvolger-van-opgestapte-jensen-huang/",
+   "description": "Key takeaways Nvidia is momenteel op zoek naar een nieuwe vaste leider na het aftreden van Jensen Huang. Colette Kress ad-interim In de tussentijd heeft Colette Kress, Chief Financial Officer en Executive Vice President van het bedrijf, de functie van interim-CEO op zich genomen. Kress, die in september 2013 bij het bedrijf in dienst trad, […]",
+   "date": "2026-11-14T18:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
   {
    "title": "AI is boosdoener bij datalekken: 'Binnen een halve minuut ontdek je zwakheden'",
    "link": "https://www.nu.nl/tech/6416361/ai-is-boosdoener-bij-datalekken-binnen-een-halve-minuut-ontdek-je-zwakheden.html",
