@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T03:24:55",
+ "generated": "2026-11-15T18:33:04",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 33,
+   "count": 31,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 90,
    "error": null
   },
   {
@@ -315,6 +315,128 @@
   }
  ],
  "articles": [
+  {
+   "title": "De week die komt: begroting, Nvidia, Walmart, DEME, Anthropic, klimaattop en GTA VI",
+   "link": "https://www.tijd.be/r/t/1/id/10699618",
+   "description": "Hoe verloopt de vuurdoop van de nieuwe Nvidia-CEO? Kan De Wever met goed nieuws naar de koning? Tekent Anthropic voor de grootste beursgang ooit? Hoe doen Disney, Walmart, DEME, Nike, Argenx, Aedifica en EVS het? Hoe evolueren de Europese inflatie en economische groei? Wat hebben Trump, Xi en Poetin elkaar te zeggen? Levert de klimaattop resultaat op? En breekt GTA VI alle records? U komt het allemaal deze week te weten.",
+   "date": "2026-11-15T17:30:38",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Megaspeed zegt dat Alice Huang bedrijf al vorig jaar verliet",
+   "link": "https://www.tijd.be/r/t/1/id/10705650",
+   "description": "Het bedrijf Megaspeed, genoemd bij het ontslag van Nvidia-topman Jensen Huang, reageert voor het eerst sinds de controverse. Volgens Megaspeed vertrok de veelbesproken Chinese topvrouw Alice Huang er al in augustus vorig jaar.",
+   "date": "2026-11-15T16:50:47",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "15/11 in Nieuwsuur: Vliegtuigen raken gps-signaal kwijt • Anthropic naar de beurs • Hoe leer je het vak als thuiswerker?",
+   "link": "https://nos.nl/l/2639606",
+   "description": "Vliegtuigen raken gps-signaal kwijt\n        Zeven vliegtuigen hebben afgelopen maandag aan de luchtverkeersleiding gemeld dat hun gps-signaal is verstoord. Volgens het ministerie van Infrastructuur en Waterstaat is de veiligheid niet in het geding geweest.\n        De Rijksinspectie Digitale Infrastructuur onderzoekt de verstoring. Het is \"aannemelijk\" dat de verstoring opzettelijk is gebeurd, zegt een woordvoerder van de luchtverkeersleiding tegen NRC. \n        Anthropic naar de beurs\n        AI-bedrijf Anthropic gaat naar de beurs. Dat gebeurt naar verwachting komende week. Niet alleen op de financiële markten wordt met spanning meegekeken, ook binnen de techwereld. De beursgang is namelijk de ultieme test voor de AI-sector.\n        Als beleggers te weinig vertrouwen hebben in Anthropic, kunnen de gevolgen groot zijn. Econoom Mathijs Bouman legt uit waarom.\n        Hoe leer je het vak als thuiswerker?\n        Het sentiment rond thuiswerken lijkt te veranderen: werknemers zijn nog steeds enthousiast, terwijl werkgevers hun personeel toch graag vaker op kantoor willen zien.\n        Maar hoe is het als je jong bent en het vak nog moeten leren, terwijl je collega's thuis achter hun laptop zitten? Hoe word je ingewerkt als je elkaar nauwelijks ziet? We gaan langs bij een bedrijf in Hoofddorp waar de norm is dat alle werknemers vijf dagen op kantoor zijn.",
+   "date": "2026-11-15T16:46:30",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Transportminister VS wijt nationale vliegstoring aan routerupgrade door aannemer",
+   "link": "https://tweakers.net/nieuws/254550/transportminister-vs-wijt-nationale-vliegstoring-aan-routerupgrade-door-aannemer.html",
+   "description": "Een routerupgrade door een lokale aannemer op een afgelegen locatie zou de oorzaak zijn voor het landelijke lamleggen van Amerikaans vliegverkeer dit weekend. De verstoring zou dus niet door een cyberaanval of een mislukte implementatie van een gepland AI-systeem zijn veroorzaakt.",
+   "date": "2026-11-15T13:49:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Musk, Sweeney en andere belanghebbenden willen terugkeer van Nvidia-ceo Huang",
+   "link": "https://tweakers.net/nieuws/254552/musk-sweeney-en-andere-belanghebbenden-willen-terugkeer-van-nvidia-ceo-huang.html",
+   "description": "Een reeks techtopmensen en Nvidia-aandeelhouders, waaronder SpaceX-ceo Elon Musk en Epic Games-ceo Tim Sweeney, pleiten via een petitie voor de terugkeer van Nvidia-ceo Jensen Huang. Ze eisen van het Nvidia-bestuur 'overtuigend bewijs' dat zijn vertrek in het belang van het bedrijf is.",
+   "date": "2026-11-15T13:25:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Komende week in het teken van Nvidia en beursgang Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/komende-week-in-het-teken-van-nvidia-en-beursgang-anthropic/",
+   "description": "(ABM FN) De komende beursweek kent twee grote events: de cijfers van Nvidia en de langverwachte beursgang van Anthropic.Op macro-economisch vlak zijn vooral de notulen van het laatste rentebesluit van de Federal Reserve interessant. Een hardnekkige inflatie dwingt de Fed vermoedelijk tot een nieuwe renteverhoging in december. Bestuurder Christopher Waller hintte afgelopen week zelfs op een …\nThe post Komende week in het teken van Nvidia en beursgang Anthropic appeared first on Trends.be.",
+   "date": "2026-11-15T13:04:23",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Silicon Valley bereidt nu al comeback van gevallen Nvidia-baas voor: “Terugkeer ‘Godfather van AI’ is onvermijdelijk”",
+   "link": "https://www.hln.be/buitenland/silicon-valley-bereidt-nu-al-comeback-van-gevallen-nvidia-baas-voor-terugkeer-godfather-van-ai-is-onvermijdelijk~a4aae3d0/",
+   "description": "Silicon Valley beraamt nu al de comeback van de gevallen Nvidia-topman Jensen Huang. Dat schrijft ‘Politico’. De techsector denkt volop na over manieren waarop de “Godfather van AI” kan terugkeren naar een machtspositie. “Het is onvermijdelijk”, klinkt het.",
+   "date": "2026-11-15T10:44:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Vooruitblik op de beursweek: Nvidia onder het vergrootglas",
+   "link": "https://trends.knack.be/beleggen/adviezen/vooruitblik-op-de-beursweek-nvidia-onder-het-vergrootglas/",
+   "description": "Zelden werd zo uitgekeken naar een kwartaalrapport van Nvidia. Het bedrijf publiceert dinsdag na het sluiten van Wall Street zijn resultaten over het derde kwartaal, dat eindigde op 25 oktober. Maar vooral de positie van CEO Jensen Huang staat ter discussie. Daarnaast staan deze week ook de Amerikaanse detailhandelsverkopen en de notulen van de Federal Reserve op de agenda.\nThe post Vooruitblik op de beursweek: Nvidia onder het vergrootglas appeared first on Trends.be.",
+   "date": "2026-11-15T10:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is Ethan Mollick de J.K. Rowling van de AI-literatuur?",
+   "link": "https://trends.knack.be/opinie/is-ethan-mollick-de-j-k-rowling-van-de-ai-literatuur/",
+   "description": "Ik had met mijn zoon Steven een weddenschap afgesloten: wie krijgt als eerste het nieuwe boek van Ethan Mollick in handen? Ik verloor. Leveringen werden uitgesteld, deadlines verschoven. Zijn de boeken van Ethan Mollick de Harry Potters van de AI-literatuur geworden?\nThe post Is Ethan Mollick de J.K. Rowling van de AI-literatuur? appeared first on Trends.be.",
+   "date": "2026-11-15T07:19:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Als AI de journalistiek binnendringt | Luisterverhaal op zondag",
+   "link": "https://www.nrc.nl/nieuws/2026/11/15/als-ai-de-journalistiek-binnendringt-luisterverhaal-op-zondag-a4941418",
+   "description": "AI dringt zich steeds vaker op aan NRC-redacteur Juurd Eijsvoogel als hij aan het werk is – tot zijn ergernis. Hij vraagt zich af: ben ik te oud en inflexibel?",
+   "date": "2026-11-15T05:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang was belangrijkste figuur van AI-revolutie, nu is hij alles kwijt",
+   "link": "https://www.nu.nl/tech/6416310/jensen-huang-was-belangrijkste-figuur-van-ai-revolutie-nu-is-hij-alles-kwijt.html",
+   "description": "Het zijn turbulente weken voor voormalig NVIDIA-topman Jensen Huang. Berichten over affaires en Chinese spionage zetten niet alleen de reputatie van de leider van de AI-revolutie, maar mogelijk ook de nationale veiligheid van de VS onder druk. Hoe heeft dit allemaal kunnen gebeuren?",
+   "date": "2026-11-15T04:58:54",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Microsoft herstelt wereldwijde storing na meer dan 24 uur: Outlook, Teams en Copilot werken weer",
    "link": "https://businessam.be/microsoft-herstelt-wereldwijde-storing-na-meer-dan-24-uur-outlook-teams-en-copilot-werken-weer/",
@@ -489,6 +611,17 @@
     "De Morgen - Wetenschap"
    ],
    "first_seen": "2026-11-14",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Jonge wiskundigen wordt het gras vanonder hun voeten weggemaaid’: stort AI de wetenschap in een existentiële crisis?",
+   "link": "https://www.demorgen.be/tech-wetenschap/jonge-wiskundigen-wordt-het-gras-vanonder-hun-voeten-weggemaaid-stort-ai-de-wetenschap-in-een-existentiele-crisis~ba815cf5a/",
+   "description": "",
+   "date": "2026-11-14T03:00:00",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-11-15",
    "intro_geprobeerd": true
   },
   {
