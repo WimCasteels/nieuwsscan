@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T18:33:04",
+ "generated": "2026-11-16T03:34:28",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 36,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 167,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 91,
    "error": null
   },
   {
@@ -316,6 +316,50 @@
  ],
  "articles": [
   {
+   "title": "Gaat er na de beursgang van Anthropic straks 230 miljard naar goede doelen? ‘We staan aan de vooravond van een gigantische filantropische golf’",
+   "link": "https://www.demorgen.be/nieuws/gaat-er-na-de-beursgang-van-anthropic-straks-230-miljard-naar-goede-doelen-we-staan-aan-de-vooravond-van-een-gigantische-filantropische-golf~b99e624d/",
+   "description": "",
+   "date": "2026-11-16T03:00:18",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-16",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Opgestapte topman Jensen Huang onderzoekt mogelijke comeback bij Nvidia na spionageschandaal’",
+   "link": "https://www.ad.nl/buitenland/opgestapte-topman-jensen-huang-onderzoekt-mogelijke-comeback-bij-nvidia-na-spionageschandaal~a5a90056/",
+   "description": "Jensen Huang, de ex-CEO van chipbedrijf Nvidia die eerder deze week opstapte na een vermoedelijk spionageschandaal, bekijkt of hij kan terugkeren als topman bij het bedrijf. Dat schrijft de Britse zakenkrant Financial Times (FT) zondag.",
+   "date": "2026-11-16T00:51:34",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aan het expertenpanel dat zich straks over mijn onderzoeksvoorstel buigt: aan AI zal ik weinig hebben, en dat is nu juist de waarde ervan",
+   "link": "https://www.standaard.be/opinies/aan-het-expertenpanel-dat-zich-straks-over-mijn-onderzoeksvoorstel-buigt-aan-ai-zal-ik-weinig-hebben-en-dat-is-nu-juist-de-waarde-ervan/164573149.html",
+   "description": "De impact van AI op onderzoek is de perfectionering van een academische cultuur waarin al langer veel meer gepubliceerd wordt dan er ooit gelezen kan worden, schrijft Wiebe Sieds Koopal. Het is een aanleiding om de onderzoekscultuur aan onze universiteiten eindelijk eens te herbronnen.",
+   "date": "2026-11-15T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang overweegt volgens ‘Financial Times’ terugkeer als topman Nvidia",
+   "link": "https://www.hln.be/nieuws/jensen-huang-overweegt-volgens-financial-times-terugkeer-als-topman-nvidia~a222ee89/",
+   "description": "Jensen Huang overweegt een terugkeer als topman van Nvidia en heeft met vertrouwelingen gesproken over de mogelijkheid om opnieuw aan de slag te gaan. Dat meldt de ‘Financial Times’ op gezag van ingewijden.",
+   "date": "2026-11-15T22:26:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-16",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "De week die komt: begroting, Nvidia, Walmart, DEME, Anthropic, klimaattop en GTA VI",
    "link": "https://www.tijd.be/r/t/1/id/10699618",
    "description": "Hoe verloopt de vuurdoop van de nieuwe Nvidia-CEO? Kan De Wever met goed nieuws naar de koning? Tekent Anthropic voor de grootste beursgang ooit? Hoe doen Disney, Walmart, DEME, Nike, Argenx, Aedifica en EVS het? Hoe evolueren de Europese inflatie en economische groei? Wat hebben Trump, Xi en Poetin elkaar te zeggen? Levert de klimaattop resultaat op? En breekt GTA VI alle records? U komt het allemaal deze week te weten.",
@@ -346,6 +390,17 @@
     "NOS - Tech"
    ],
    "first_seen": "2026-11-15",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De zaak-Huang maakt duidelijk hoe riskant het bestuursmodel van de AI-sector is",
+   "link": "https://www.nrc.nl/nieuws/2026/11/15/de-zaak-huang-maakt-duidelijk-hoe-riskant-het-bestuursmodel-van-de-ai-sector-is-a4941433",
+   "description": "De macht bij de toonaangevende AI-bedrijven ligt in handen van een kleine groep mensen – of vaak slechts één. Dat schakelt voor bestuurders lekker snel in revolutionaire tijden als deze, maar voorkomt ook tegenspraak.",
+   "date": "2026-11-15T16:17:03",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-16",
    "intro_geprobeerd": false
   },
   {
