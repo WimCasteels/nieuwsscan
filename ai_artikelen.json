@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-16T21:47:32",
+ "generated": "2026-11-17T05:57:59",
  "feeds": [
   {
    "name": "AD - Tech",
    "url": "https://www.ad.nl/tech/rss.xml",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Apache.be - Artikels",
@@ -28,68 +28,68 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Cartoons",
    "url": "https://www.demorgen.be/puzzels-cartoons/rss.xml",
-   "count": 34,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 1,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Luister",
    "url": "https://www.demorgen.be/luister/rss.xml",
-   "count": 28,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Oorlog Oekraine",
    "url": "https://www.demorgen.be/oorlog-in-oekraine/rss.xml",
-   "count": 13,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Politiek",
    "url": "https://www.demorgen.be/politiek/rss.xml",
-   "count": 15,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Sport",
    "url": "https://www.demorgen.be/sport/rss.xml",
-   "count": 16,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Morgen - Wetenschap",
    "url": "https://www.demorgen.be/tech-wetenschap/rss.xml",
-   "count": 29,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "De Standaard - Binnenland",
@@ -208,32 +208,32 @@
   {
    "name": "HLN - Economie",
    "url": "https://www.hln.be/economie/rss.xml",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "HLN - Multimedia",
    "url": "https://www.hln.be/multimedia/rss.xml",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "HLN - Opinie",
    "url": "https://www.hln.be/opinie/rss.xml",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "HLN - Tech",
    "url": "https://www.hln.be/tech/rss.xml",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Humo - Vandaag",
    "url": "https://www.humo.be/vandaag/rss.xml",
-   "count": 3,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Knack - Artikels",
@@ -250,14 +250,14 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 158,
    "error": null
   },
   {
    "name": "NU.nl - Tech",
    "url": "https://www.nu.nl/rss/tech",
-   "count": 30,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Security.NL - Artikels",
@@ -274,26 +274,26 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Trouw - Wetenschap",
    "url": "https://www.trouw.nl/wetenschap/rss.xml",
-   "count": 9,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Tweakers - Mixed",
    "url": "https://tweakers.net/feeds/mixed.xml",
-   "count": 40,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "VRT NWS - Artificiele Intelligentie",
@@ -310,11 +310,55 @@
   {
    "name": "Volkskrant - Tech",
    "url": "https://www.volkskrant.nl/tech/rss.xml",
-   "count": 66,
-   "error": null
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  ],
  "articles": [
+  {
+   "title": "Nvidia-topman Huang mogelijk in Chinese honeytrap beland: expert legt uit hoe seksspionage werkt",
+   "link": "https://vrtnws.be/p.nwveeewxp",
+   "description": "Inlichtingendiensten wereldwijd maken gebruik van seksspionage, waarbij ze doelbewust toplui van bedrijven of zelfs hun secretaresses tussen de lakens geheimen proberen te ontfutselen. Dat zegt Kristof Clerix, spionage-expert en onderzoeksjournalist bij Knack, naar aanleiding van het verhaal rond Nvidia-topman Jensen Huang, die mogelijk in een Chinese honeytrap is beland. \"Een topman heeft heel veel interessante informatie, maar een secretaresse heeft vaak toegang tot dezelfde documenten.\"",
+   "date": "2026-11-17T05:24:48",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Californië spant rechtszaak aan tegen OpenAI na cyberaanvallen",
+   "link": "https://www.gva.be/economie/bedrijven/californie-spant-rechtszaak-aan-tegen-openai-na-cyberaanvallen/164656021.html",
+   "description": "Californië heeft als eerste Amerikaanse staat een rechtszaak aangespannen tegen OpenAI vanwege de cyberaanvallen die AI-modellen op eigen houtje uitvoerden. Het bedrijf zou een gevaarlijk product hebben ontwikkeld zonder toereikende veiligheidsprocedures of toezicht.",
+   "date": "2026-11-17T04:26:15",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Studenten computerwetenschappen maken zich zorgen: “Nog voor je aan je job begint, moet je al vrezen dat je vervangen bent door AI”",
+   "link": "https://www.standaard.be/binnenland/studenten-computerwetenschappen-maken-zich-zorgen-nog-voor-je-aan-je-job-begint-moet-je-al-vrezen-dat-je-vervangen-bent-door-ai/164516174.html",
+   "description": "Ook aan de Vlaamse universiteiten is niets hetzelfde sinds AI op de deur heeft geklopt. We spraken met studenten computerwetenschappen, die de omwenteling vanop de eerste rij meemaken. “Volgens mij is AI te snel losgelaten op de wereld. Het was te vroeg.”",
+   "date": "2026-11-16T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lost AI het klimaatprobleem op? Voorlopig draagt ze er vooral toe bij",
+   "link": "https://www.standaard.be/opinies/lost-ai-het-klimaatprobleem-op-voorlopig-draagt-ze-er-vooral-toe-bij/164603945.html",
+   "description": "De panne bij Microsoft doet Hendrik Vos terugdenken aan de begindagen van het internet, en vooruitblikken naar een toekomst met AI.",
+   "date": "2026-11-16T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
   {
    "title": "\"Bestuur Nvidia overweegt niet om Jensen Huang terug te brengen als CEO\"",
    "link": "https://www.gva.be/economie/bedrijven/bestuur-nvidia-overweegt-niet-om-jensen-huang-terug-te-brengen-als-ceo/164652900.html",
