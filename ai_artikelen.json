@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T05:57:59",
+ "generated": "2026-11-17T20:35:43",
  "feeds": [
   {
    "name": "AD - Tech",
    "url": "https://www.ad.nl/tech/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 30,
+   "error": null
   },
   {
    "name": "Apache.be - Artikels",
@@ -28,68 +28,68 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 29,
+   "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 43,
+   "error": null
   },
   {
    "name": "De Morgen - Cartoons",
    "url": "https://www.demorgen.be/puzzels-cartoons/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 34,
+   "error": null
   },
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 29,
+   "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 1,
+   "error": null
   },
   {
    "name": "De Morgen - Luister",
    "url": "https://www.demorgen.be/luister/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 28,
+   "error": null
   },
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 29,
+   "error": null
   },
   {
    "name": "De Morgen - Oorlog Oekraine",
    "url": "https://www.demorgen.be/oorlog-in-oekraine/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 13,
+   "error": null
   },
   {
    "name": "De Morgen - Politiek",
    "url": "https://www.demorgen.be/politiek/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 15,
+   "error": null
   },
   {
    "name": "De Morgen - Sport",
    "url": "https://www.demorgen.be/sport/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 16,
+   "error": null
   },
   {
    "name": "De Morgen - Wetenschap",
    "url": "https://www.demorgen.be/tech-wetenschap/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 29,
+   "error": null
   },
   {
    "name": "De Standaard - Binnenland",
@@ -208,32 +208,32 @@
   {
    "name": "HLN - Economie",
    "url": "https://www.hln.be/economie/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 30,
+   "error": null
   },
   {
    "name": "HLN - Multimedia",
    "url": "https://www.hln.be/multimedia/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 30,
+   "error": null
   },
   {
    "name": "HLN - Opinie",
    "url": "https://www.hln.be/opinie/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 30,
+   "error": null
   },
   {
    "name": "HLN - Tech",
    "url": "https://www.hln.be/tech/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 30,
+   "error": null
   },
   {
    "name": "Humo - Vandaag",
    "url": "https://www.humo.be/vandaag/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 3,
+   "error": null
   },
   {
    "name": "Knack - Artikels",
@@ -250,14 +250,14 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 157,
    "error": null
   },
   {
    "name": "NU.nl - Tech",
    "url": "https://www.nu.nl/rss/tech",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 30,
+   "error": null
   },
   {
    "name": "Security.NL - Artikels",
@@ -274,26 +274,26 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 23,
+   "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 87,
+   "error": null
   },
   {
    "name": "Trouw - Wetenschap",
    "url": "https://www.trouw.nl/wetenschap/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 9,
+   "error": null
   },
   {
    "name": "Tweakers - Mixed",
    "url": "https://tweakers.net/feeds/mixed.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 40,
+   "error": null
   },
   {
    "name": "VRT NWS - Artificiele Intelligentie",
@@ -310,11 +310,606 @@
   {
    "name": "Volkskrant - Tech",
    "url": "https://www.volkskrant.nl/tech/rss.xml",
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "count": 66,
+   "error": null
   }
  ],
  "articles": [
+  {
+   "title": "Beleggers in Anthropic hebben eigenlijk geen idee wat ze kopen",
+   "link": "https://www.nrc.nl/nieuws/2026/11/17/beleggers-in-anthropic-hebben-eigenlijk-geen-idee-wat-ze-kopen-a4941632",
+   "description": "Een voordeel van de (enorme) beursgang van Anthropic: eindelijk krijgt het bedrijf een objectievere prijs. De waarde van de aandelen is extreem lastig te bepalen.",
+   "date": "2026-11-17T19:45:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google Maps laat gebruikers bestemmingen zoeken via gewone vragen aan Gemini",
+   "link": "https://www.hln.be/tech/google-maps-laat-gebruikers-bestemmingen-zoeken-via-gewone-vragen-aan-gemini~afdeac85/",
+   "description": "Google brengt de AI-functie Ask Maps uit in meer dan 30 Europese landen. Die stelt gebruikers in staat om vragen te stellen aan de AI-assistent Gemini, die in Maps is verwerkt. Vervolgens geeft de navigatiedienst een gepersonaliseerd antwoord.",
+   "date": "2026-11-17T19:35:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bloomberg: slimme bril van Apple wordt bediend via iPhone en Siri AI",
+   "link": "https://www.hln.be/apple/bloomberg-slimme-bril-van-apple-wordt-bediend-via-iphone-en-siri-ai~a86ab499/",
+   "description": "De aankomende slimme bril van Apple zou geen eigen apps krijgen, maar de stemassistent Siri gebruiken om apps op de iPhone van de gebruiker te bedienen. Dat zegt Mark Gurman van persbureau Bloomberg op basis van ingewijden. De bril zou daarnaast op te laden zijn terwijl een gebruiker hem draagt.",
+   "date": "2026-11-17T19:20:00",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Er mochten wel enkele honderden miljarden in rook opgaan",
+   "link": "https://www.standaard.be/opinies/er-mochten-wel-enkele-honderden-miljarden-in-rook-opgaan/164690771.html",
+   "description": "Vertrouwen is het hoogste goed voor een bankier. Vandaag weten we hoe zwaar de bankier van AI, Nvidia, het vertrouwen in de hele ecosysteem heeft geschaad.",
+   "date": "2026-11-17T19:15:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street: Nvidia-zenuwen houden beurzen in het rood",
+   "link": "https://www.tijd.be/r/t/1/id/10705947",
+   "description": "De Amerikaanse beurzen verliezen na de eerdere rammeling opnieuw terrein. Beleggers wachten met een bang hartje de resultaten en de analistencall van Nvidia af. Disney veert op, met dank aan beter dan verwachte resultaten. Nike wint niet op zijn beleggersdag.",
+   "date": "2026-11-17T19:14:26",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse DOJ erkent onderzoek naar Megaspeed na ophef over affaire Nvidia-ceo",
+   "link": "https://tweakers.net/nieuws/254642/amerikaanse-doj-erkent-onderzoek-naar-megaspeed-na-ophef-over-affaire-nvidia-ceo.html",
+   "description": "Het Amerikaanse ministerie van Justitie (DOJ) onderzoekt samen met het ministerie van Handel het Singaporese bedrijf Megaspeed voor het schenden van exportbeperkingen. Dat onderzoek loopt voor zover bekend al langer, maar daar doet het DOJ normaliter geen uitspraken over.",
+   "date": "2026-11-17T19:11:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kunnen Anthropic en Nvidia de AI-handel wel stutten?",
+   "link": "https://www.standaard.be/economie/kunnen-anthropic-en-nvidia-de-ai-handel-wel-stutten/164662281.html",
+   "description": "In een zenuwachtige markt kun je beter even de kat uit de boom kijken. Toch komt net dan Anthropic naar de beurs.",
+   "date": "2026-11-17T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gewezen Nvidia-topman Huang \"zou vereerd zijn terug te keren als CEO”, bedrijf start zoektocht naar opvolger",
+   "link": "https://www.gva.be/economie/bedrijven/gewezen-nvidia-topman-huang-zou-vereerd-zijn-terug-te-keren-als-ceo-bedrijf-start-zoektocht-naar-opvolger/164700002.html",
+   "description": "Voor het eerst sinds de heisa over zijn vermeende affaires uitbrak en zijn vertrek als CEO bij Nvidia, heeft Jensen Huang van zich laten horen. “Ik zou vereerd zijn als ik mag terugkeren als CEO”, staat in een korte verklaring. Het bestuur van Nvidia lijkt andere plannen te hebben.",
+   "date": "2026-11-17T19:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang bevestigt bereid te zijn terug te keren als CEO van Nvidia",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/jensen-huang-bevestigt-bereid-te-zijn-terug-te-keren-als-ceo-van-nvidia-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Jensen Huang bevestigt bereid te zijn terug te keren als CEO van Nvidia appeared first on Trends.be.",
+   "date": "2026-11-17T18:40:12",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen sluiten lager",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-lager-18/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn dinsdag lager geëindigd, terwijl halfgeleideraandelen onder druk stonden in aanloop naar de cijfers van techzwaargewicht Nvidia, die vanavond na het slot van Wall Street verschijnen.De Stoxx Europe 600 eindigde 1,8 procent lager en sloot op 650,72 punten. De Duitse DAX sloot 2,1 procent in de min op 26.045,37 punten. …\nThe post Europese beurzen sluiten lager appeared first on Trends.be.",
+   "date": "2026-11-17T18:32:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggers wachten vol spanning op eerste resultaten van Nvidia zonder Huang",
+   "link": "https://www.standaard.be/economie/beleggers-wachten-vol-spanning-op-eerste-resultaten-van-nvidia-zonder-huang/164683878.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Op de beurs’ overschouwen we drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-11-17T18:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NAVO werkt samen met OpenAI voor cyberveiligheid",
+   "link": "https://www.gva.be/economie/bedrijven/navo-werkt-samen-met-openai-voor-cyberveiligheid/164704092.html",
+   "description": "Het Amerikaanse technologiebedrijf OpenAI gaat samenwerken met het militaire bondgenootschap NAVO. Dat zal toegang krijgen tot geavanceerde cyberveiligheidsmodellen om zijn netwerken te beveiligen. Dat heeft OpenAI dinsdag aangekondigd.",
+   "date": "2026-11-17T18:26:59",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NAVO werkt samen met OpenAI om netwerken te beveiligen tegen cyberdreigingen",
+   "link": "https://www.hln.be/tech/navo-werkt-samen-met-openai-om-netwerken-te-beveiligen-tegen-cyberdreigingen~a21a19c6/",
+   "description": "Het Amerikaanse technologiebedrijf OpenAI gaat samenwerken met het militaire bondgenootschap NAVO. Dat zal toegang krijgen tot geavanceerde cyberveiligheidsmodellen om zijn netwerken te beveiligen. Dat heeft OpenAI aangekondigd.",
+   "date": "2026-11-17T18:21:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI ziet beursgang van Anthropic niet als bedreiging voor eigen beursplannen",
+   "link": "https://businessam.be/openai-maakt-zich-niet-druk-om-beursgang-van-concurrent-anthropic/",
+   "description": "Key takeaways Het management van OpenAI toont zich weinig bezorgd over de aanstaande beursgang van Anthropic. Tijdens een recent optreden op het forum Silicon Valley & The World van Semafor wuifden CEO Sam Altman en CFO Sarah Friar de bezorgdheid weg dat hun concurrent eerder naar de beurs zou gaan. Dat meldt Business Insider. Toen […]",
+   "date": "2026-11-17T18:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 met stevig verlies richting cijfers Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-met-stevig-verlies-richting-cijfers-nvidia/",
+   "description": "(ABM FN) De Brusselse beurs is dinsdag met een stevig verlies gesloten, net als de omringende beurzen.De Bel20 index daalde met 1,9 procent naar 5.987 punten.Beleggers zijn volgens hoofdeconoom Bernard Keppenne van CBC Banque in afwachting van de cijfers van Nvidia vanavond. Het aandeel verloor ruim een procent.\"Vallende bladeren hopen zich op en worden weggevaagd door …\nThe post Bel20 met stevig verlies richting cijfers Nvidia appeared first on Trends.be.",
+   "date": "2026-11-17T17:50:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huang wil voor commissies Congres verschijnen én is bereid terug te keren als Nvidia-topman",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/huang-wil-voor-commissies-congres-verschijnen-en-is-bereid-terug~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-17T17:35:55",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Jensen Huang spreekt voor het eerst na vertrek bij Nvidia: “Zou vereerd zijn om terug te keren als ceo”",
+   "link": "https://www.standaard.be/economie/jensen-huang-spreekt-voor-het-eerst-na-vertrek-bij-nvidia-zou-vereerd-zijn-om-terug-te-keren-als-ceo/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-17T17:33:46",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang reageert voor het eerst na ontslag bij Nvidia door affaires: ‘Verschillende mensen willen dat ik terugkeer als CEO’",
+   "link": "https://www.demorgen.be/tech-ai/jensen-huang-reageert-voor-het-eerst-na-ontslag-bij-nvidia-door-affaires-verschillende-mensen-willen-dat-ik-terugkeer-als-ceo~bf70a186/",
+   "description": "",
+   "date": "2026-11-17T17:29:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Tijd om uit technologie te stappen? ‘Als je een index koopt, neem dan een gelijkgewogen versie’",
+   "link": "https://trends.knack.be/beleggen/adviezen/te-veel-nvidia-of-tsmc-in-je-portefeuille-als-je-een-index-koopt-neem-dan-een-gelijkgewogen-versie/",
+   "description": "Rond AI is het de jongste weken een en al ruis. De chipaandelen gingen op één dag 12 procent onderuit en Nvidia verloor zijn topman. Deze week moet de beursgang van Anthropic bewijzen dat beleggers AI blijven financieren. Is het tijd om uit technologie te stappen, en waarin beleg je dan wel?\nThe post Tijd om uit technologie te stappen? ‘Als je een index koopt, neem dan een gelijkgewogen versie’ appeared first on Trends.be.",
+   "date": "2026-11-17T17:09:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De Duitse gok van Tesla: elk jaar een miljoen Cybercabs bouwen en verkopen in Europa",
+   "link": "https://www.standaard.be/economie/de-duitse-gok-van-tesla-elk-jaar-een-miljoen-cybercabs-bouwen-en-verkopen-in-europa/164662876.html",
+   "description": "Op een moment dat de Duitse auto-industrie in zwaar weer zit, gaat Tesla net fors investeren bij onze oosterburen. Het bouwt een nieuwe assemblagelijn voor de Cybercab: een zelfrijdende auto zonder stuur, maar ook zonder toestemming om in Europa rond te rijden.",
+   "date": "2026-11-17T16:20:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia maakt zich op voor eerste kwartaalrapport sinds vertrek van topman Jensen Huang",
+   "link": "https://businessam.be/nvidia-resultaten-eerste-rapport-sinds-het-vertrek-van-jensen-huang/",
+   "description": "Key takeaways Nvidia maakt vandaag zijn kwartaalcijfers bekend. Het is de eerste rapportageperiode sinds het vertrek van Jensen Huang, de voormalige CEO en medeoprichter van het bedrijf. Analisten richten blik op toekomst van Nvidia Tijdens de aansluitende teleconferentie zal interim-directeur Colette Kress voor het eerst analisten te woord staan. De vragen zullen naar verwachting vooral […]",
+   "date": "2026-11-17T16:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Datingapp Grindr introduceert abonnement van 120 dollar per maand",
+   "link": "https://www.nu.nl/economie/6416887/datingapp-grindr-introduceert-abonnement-van-120-dollar-per-maand.html",
+   "description": "Grindr lanceert dinsdag wereldwijd een abonnement van 120 dollar (ongeveer 103 euro) per maand. Daarmee wordt de datingapp een stuk duurder voor gebruikers die extra functies willen, zoals AI-aanbevelingen.",
+   "date": "2026-11-17T15:51:52",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe onmisbaar is Jensen Huang, en hoe moet het nu verder bij Nvidia?",
+   "link": "https://trends.knack.be/ai-en-tech/hoe-onmisbaar-is-jensen-huang-en-hoe-moet-het-nu-verder-bij-nvidia/",
+   "description": "Blijft Nvidia ook zonder topman Jensen Huang aan de top in de AI-chipindustrie? Met hem verdwijnt de visie achter Nvidia’s succes, maar mogelijk ook de circulaire investeringen die beleggers nerveus maken.  Een blik in de toekomst van Nvidia aan de hand van drie cruciale vragen. \nThe post Hoe onmisbaar is Jensen Huang, en hoe moet het nu verder bij Nvidia? appeared first on Trends.be.",
+   "date": "2026-11-17T15:20:03",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-bestuur stelt toezichtcommissie voor exportregels in na vertrek ceo Huang",
+   "link": "https://tweakers.net/nieuws/254622/nvidia-bestuur-stelt-toezichtcommissie-voor-exportregels-in-na-vertrek-ceo-huang.html",
+   "description": "Het bestuur van Nvidia richt een commissie op die toezicht houdt op de naleving van exportregels en het bedrijfsbeleid op het gebied van nationale veiligheid. Dit kondigt de gpu-maker aan nog geen week nadat ceo Jensen Huang aftrad. De Amerikaanse overheid doet onderzoek naar smokkel van AI-chips.",
+   "date": "2026-11-17T15:13:36",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street op weg naar verdeelde opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-op-weg-naar-verdeelde-opening-3/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan dinsdag een verdeelde opening tegemoet, nadat de sombere stemming rond technologieaandelen tegen het einde van de ochtend ten positieve keerde, in aanloop naar cruciale kwartaalcijfers van Nvidia.Ongeveer een uur voor de officiële opening noteerden de futures op de S&P 500 nagenoeg vlak, terwijl de Nasdaq een plus van 0,4 …\nThe post Wall Street op weg naar verdeelde opening appeared first on Trends.be.",
+   "date": "2026-11-17T15:10:07",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kaseya zet MCP-deur open voor LLM’s naar Autotask en Datto RMM",
+   "link": "https://www.techzine.be/nieuws/applications/83855/kaseya-zet-mcp-deur-open-voor-llms-naar-autotask-en-datto-rmm/",
+   "description": "Kaseya brengt eigen MCP-servers uit voor Autotask, Datto RMM en IT Glue. Daarmee kunnen AI-tools zoals Claude, waar de nadruk bij de aankondiging op ligt, direct bij klant-, ticket- en apparaatdata van MSP’s. Andere uitbreidingen zijn Kaseya Insights, dat in alpha verschijnt, en een snellere remote-engine voor Datto RMM. De MCP-servers staan vanaf vandaag op […]",
+   "date": "2026-11-17T15:00:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia waarschuwt klanten voor juridische risico’s als zij AI-rekenkracht aan Chinese bedrijven verhuren",
+   "link": "https://businessam.be/nvidia-waarschuwt-klanten-voor-juridische-risicos-bij-het-verhuren-van-ai-rekenkracht-aan-chinese-bedrijven/",
+   "description": "Key takeaways Volgens een rapport van CNBC heeft Nvidia zijn klanten gewaarschuwd dat aanstaande Amerikaanse wetgeving, die het gebruik op afstand van hoogwaardige AI-hardware door Chinese bedrijven moet beperken, kan leiden tot juridische aansprakelijkheid voor zowel de hardwareleverancier als de kopers. Remote Access Security Act Bronnen die bekend zijn met de zaak zeggen dat Nvidia […]",
+   "date": "2026-11-17T14:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Proton brengt AI-desktopapp voor Windows, macOS en Linux uit",
+   "link": "https://tweakers.net/nieuws/254618/proton-brengt-ai-desktopapp-voor-windows-macos-en-linux-uit.html",
+   "description": "Proton heeft een desktopapp uitgebracht voor zijn AI-dienst Lumo. De app voor Windows, macOS en Linux-gebaseerde besturingssystemen kan onder meer mails en lokale bestanden als context meenemen.",
+   "date": "2026-11-17T14:22:53",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic wordt duizelingwekkend groot. Hoeveel is 1.400 miljard?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/17/beursgang-anthropic-hoeveel-is-1400-miljard-a4941613",
+   "description": "Donderdag gaat Anthropic naar de beurs. Daarbij mikt het vijf jaar jonge bedrijf op een beurswaarde van 1.400 miljard dollar. Het record van SpaceX (1.780 miljard dollar) zal Anthropic niet breken, maar de AI-ontwikkelaar schaart zich wel al direct onder de grote jongens. Hoe staat dit bedrag in verhouding tot de waarde van andere bedrijven?",
+   "date": "2026-11-17T14:06:30",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Bel20 blijft onder druk",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-bel20-blijft-onder-druk/",
+   "description": "(ABM FN) De Brusselse beurs slaagde er dinsdagmiddag niet in om te herstellen van de lagere opening.Rond twee uur noteerde de Bel20 ongeveer 1,3 procent lager op 6.024 punten.Beleggers wachten nu op de kwartaalcijfers van Nvidia vanavond nabeurs en dan vooral op de eerste toelichting van interim-topvrouw Colette Kress na het vertrek van Jensen Huang. Alle aandelen …\nThe post Beursupdate: Bel20 blijft onder druk appeared first on Trends.be.",
+   "date": "2026-11-17T13:54:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-topman Sam Altman verwacht dat AI-sector ook zonder Jensen Huang veerkrachtig blijft",
+   "link": "https://businessam.be/sam-altman-zegt-dat-de-ai-sector-veerkrachtig-zal-blijven-na-het-vertrek-van-huang/",
+   "description": "Key takeaways Tijdens een recent optreden op het forum “Silicon Valley & The World” van Semafor deelde OpenAI-topman Sam Altman zijn visie op de stabiliteit van de AI-sector na het aftreden van Jensen Huang, CEO van Nvidia. Huang trad vorige week af na beschuldigingen van een affaire met iemand die ervan wordt verdacht een Chinese […]",
+   "date": "2026-11-17T13:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple laat iPhone Duo ontgrendelen met gezichtsscan",
+   "link": "https://tweakers.net/nieuws/254612/apple-laat-iphone-duo-ontgrendelen-met-gezichtsscan.html",
+   "description": "Apple werkt aan een gezichtsherkenningsfunctie voor de iPhone Duo om de telefoon te ontgrendelen. De functie is slechts gedeeltelijk een alternatief voor de vingerafdrukscanner en zit in de tweede bèta van iOS 27.3.",
+   "date": "2026-11-17T12:59:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen lager voor cruciale Nvidia-cijfers",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-lager-voor-cruciale-nvidia-cijfers/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen stonden dinsdag lager, in afwachting van de kwartaalcijfers van Nvidia dinsdag nabeurs. Beleggers hopen dat die een einde maken aan de verkoopgolf onder de grote technologieaandelen van de afgelopen weken.De brede STOXX Europe 600 verloor 0,7 procent tot 657,52 punten. De Duitse DAX verloor 0,8 procent tot 26.386 punten …\nThe post Europese beurzen lager voor cruciale Nvidia-cijfers appeared first on Trends.be.",
+   "date": "2026-11-17T12:32:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Politie vindt lege racks bij Megaspeed in onderzoek naar Nvidia-chipsmokkel’",
+   "link": "https://tweakers.net/nieuws/254606/politie-vindt-lege-racks-bij-megaspeed-in-onderzoek-naar-nvidia-chipsmokkel.html",
+   "description": "De Indonesische politie trof eerder dit jaar bij een inval in de lokale vestiging van Nvidia-partner Megaspeed lege serverracks aan. Sommige racks zaten nog in het verpakkingsmateriaal. Dat meldt The Straits Times. De inval hield verband met een Amerikaans onderzoek naar mogelijke smokkel van AI-chips naar China.",
+   "date": "2026-11-17T12:14:50",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Californië klaagt OpenAI aan na meerdere cyberbeveiligingsincidenten",
+   "link": "https://businessam.be/californie-klaagt-openai-aan-wegens-inbreuken-op-de-cyberveiligheid-van-ai/",
+   "description": "Key takeaways OpenAI wordt geconfronteerd met een rechtszaak van de Amerikaanse staat Californië naar aanleiding van verschillende cyberbeveiligingsinbreuken die worden toegeschreven aan zijn AI-systemen. Californië beschuldigt OpenAI van nalatigheid Procureur-generaal Rob Bonta heeft maandag de juridische procedure in gang gezet. Volgens hem heeft het in San Francisco gevestigde bedrijf de openbare veiligheid in gevaar gebracht […]",
+   "date": "2026-11-17T12:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia maakt werk van handhaving exportrestricties met nieuw comité",
+   "link": "https://www.techzine.be/nieuws/privacy-compliance/83853/nvidia-maakt-werk-van-handhaving-exportrestricties-met-nieuw-comite/",
+   "description": "Het bestuur van Nvidia heeft een nieuw comité opgericht dat toezicht gaat houden op ‘nationale veiligheid’ in het algemeen en exportcontrole in het bijzonder. Het besluit volgt op een turbulente maand, waarin CEO Jensen Huang aftrad en meerdere onderzoeken naar chipleveringen aan China van start gingen. Een terugkeer van Huang lijkt uitgesloten, ondanks vele suggesties […]",
+   "date": "2026-11-17T11:48:03",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van Nvidia tot de NAVO in Brussel: hoe seks en honeytraps worden ingezet als spionagewapen",
+   "link": "https://www.knack.be/nieuws/wereld/van-de-navo-tot-nvidia-hoe-seks-en-liefde-als-als-spionagewapen-worden-ingezet/",
+   "description": "De topman van chipproducent Nvidia zou in een Chinese honeytrap zijn gelopen. Inlichtingendiensten zetten al langer lust en liefde in om geheimen te ontfutselen – en Brussel was vaak hun jachtterrein.\nThe post Van Nvidia tot de NAVO in Brussel: hoe seks en honeytraps worden ingezet als spionagewapen appeared first on Knack.",
+   "date": "2026-11-17T11:40:52",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Bel20 zakt langzaam verder weg",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-bel20-zakt-langzaam-verder-weg-2/",
+   "description": "(ABM FN) De Brusselse beurs noteerde dinsdag sterk lager, na de verkoopgolf op Wall Street maandagavond, waarbij met name de AI-gerelateerde technologiebedrijven opnieuw onder druk stonden.De Bel20 noteerde 1,1 procent lager op 6.034,23 punten.“Dit zijn van die dagen waarop beleggers waarschijnlijk liever nog even onder de dekens blijven liggen”, zei Simon Wiersma van ING.De grote vraag …\nThe post Beursupdate: Bel20 zakt langzaam verder weg appeared first on Trends.be.",
+   "date": "2026-11-17T11:34:38",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla Cybercab-robotaxi rolt vanaf 2029 van de Berlijnse band",
+   "link": "https://tweakers.net/nieuws/254610/tesla-cybercab-robotaxi-rolt-vanaf-2029-van-de-berlijnse-band.html",
+   "description": "Tesla wil zijn Gigafactory bij Berlijn uitbreiden om hier vanaf 2029 Cybercabs te produceren. Dat zijn zelfrijdende auto's zonder stuur of pedalen, met ruimte voor twee inzittenden. Vermoedelijk zijn die voor Europa bedoeld, al bevestigt Tesla dat niet. Op termijn wil het bedrijf een miljoen Cybercabs per jaar kunnen produceren in de Berlijnse fabriek.",
+   "date": "2026-11-17T11:16:26",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GBA tikt chatbot-app op vingers wegens illegaal trainen met gevoelige data",
+   "link": "https://www.security.nl/posting/962021/GBA+tikt+chatbot-app+op+vingers+wegens+illegaal+trainen+met+gevoelige+data?channel=rss",
+   "description": "De Belgische privacytoezichthouder GBA heeft een chatbot-app op de vingers getikt wegens het illegaal trainen van het eigen ...",
+   "date": "2026-11-17T10:41:11",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-bestuur heeft voorlopig geen plannen om Jensen Huang opnieuw aan te stellen als CEO",
+   "link": "https://businessam.be/nvidia-bestuur-wil-jensen-huang-niet-opnieuw-aanstellen-als-ceo/",
+   "description": "Key takeaways Volgens een bron die met CNBC sprak, heeft de raad van bestuur van Nvidia geen plannen om Jensen Huang opnieuw aan te stellen als CEO. Een anonieme bron die op de hoogte is van de situatie verklaarde dat de bestuurders zich momenteel vooral bezighouden met een lopend onderzoek naar het gedrag van Huang. […]",
+   "date": "2026-11-17T10:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia verkleint belangen in Nokia en Intel",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-verkleint-belangen-in-nokia-en-intel/",
+   "description": "(ABM FN-Dow Jones) Nvidia heeft zijn belangen in Nokia en Intel fors verkleind. Dat bleek dinsdag uit een melding van de Amerikaanse ontwikkelaar van AI-technologie aan beurswaakhond SEC.Het belang in Nokia werd verminderd met 93,5 miljoen stukken tot 72,9 miljoen. De waarde van het belang daalde hierdoor van 2,2 miljard naar 739 miljoen dollar.Het belang in …\nThe post Nvidia verkleint belangen in Nokia en Intel appeared first on Trends.be.",
+   "date": "2026-11-17T09:56:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google brengt Gemini naar soevereine Google Cloud Dedicated",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83852/google-brengt-gemini-naar-soevereine-google-cloud-dedicated/",
+   "description": "Google Cloud brengt Gemini-modellen naar Google Cloud Dedicated, de cloud die lokale partners beheren. Ook komen er nieuwe functies voor sleutelbeheer en compliance. Daarnaast start een accelerator voor Europese startups. Dat maakt Google Cloud bekend op de Sovereign AI Summit in Brussel. Op Google Cloud Dedicated draaiden tot vandaag alleen open modellen uit de Model […]",
+   "date": "2026-11-17T09:55:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI in VS aangeklaagd wegens tientallen hacks door AI-agents",
+   "link": "https://www.security.nl/posting/962016/OpenAI+in+VS+aangeklaagd+wegens+tientallen+hacks+door+AI-agents?channel=rss",
+   "description": "De Amerikaanse staat Californië heeft OpenAI aangeklaagd wegens tientallen hacks die door AI-agents waren uitgevoerd. Volgens ...",
+   "date": "2026-11-17T09:53:49",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse ministeries van Handel en Justitie melden plotseling al een jaar smokkel van chips van Nvidia te onderzoeken",
+   "link": "https://www.volkskrant.nl/buitenland/amerikaanse-ministeries-van-handel-en-justitie-melden-plotseling-al-een-jaar-smokkel-van-chips-van-nvidia-te-onderzoeken~b6a87df2/",
+   "description": "",
+   "date": "2026-11-17T09:43:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AMD rondt overname World Labs af voor spatial intelligence",
+   "link": "https://www.techzine.be/nieuws/applications/83849/amd-rondt-overname-world-labs-af-voor-spatial-intelligence/",
+   "description": "AMD heeft de overname van World Labs afgerond. AMD kocht de AI-start-up voor 8,2 miljard dollar. Het bedrijf van wetenschapper Fei-Fei Li, die het oprichtte in 2024, ontwikkelt world models voor het genereren en simuleren van interactieve 3D-omgevingen. Li wordt chief scientist bij AMD en ze wordt een ‘direct report’ aan CEO Lisa Su. De […]",
+   "date": "2026-11-17T09:39:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Russen breken met human-in-the-loop voor volledig autonome cyberaanval",
+   "link": "https://www.techzine.be/nieuws/security/83848/russen-breken-met-human-in-the-loop-voor-volledig-autonome-cyberaanval/",
+   "description": "Google Threat Intelligence Group stuitte op een volledig geautomatiseerde cyberaanval waarbij Franse websites het doelwit waren. Alles van het ontdekken van kwetsbaarheden tot de exploitatie ervan en installatie van webshells was AI-gedreven. Het is de voorhoede van een reeks cyberaanvallen die de legitieme IT-infrastructuren van de wereld dreigt plat te leggen. De Franse sites in […]",
+   "date": "2026-11-17T09:04:02",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse luchtmacht herziet strategie na amper twee jaar en zet sterker in op AI en autonome systemen",
+   "link": "https://businessam.be/amerikaanse-luchtmacht-herziet-strategie-na-amper-twee-jaar-en-zet-sterker-in-op-ai-en-autonome-systemen/",
+   "description": "Key takeaways De Amerikaanse luchtmacht heeft haar strategische blauwdruk bijgewerkt en Force Design 2026 geïntroduceerd ter vervanging van de in 2024 geïmplementeerde richtlijnen. Details blijven geheim Volgens een officiële woordvoerder dient dit nieuwe kader als een blijvend leidraad voor het in kaart brengen van operationele uitdagingen, het sturen van de ontwikkeling van capaciteiten en het […]",
+   "date": "2026-11-17T08:28:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Californië klaagt OpenAI aan om Hugging Face-hack: 'gevaar voor maatschappij'",
+   "link": "https://tweakers.net/nieuws/254600/californie-klaagt-openai-aan-om-hugging-face-hack-gevaar-voor-maatschappij.html",
+   "description": "De Amerikaanse staat Californië heeft OpenAI aangeklaagd vanwege de Hugging Face-hack van afgelopen juli. Volgens de staat was de hack te voorspellen en had het AI-bedrijf onvoldoende beschermingsmaatregelen getroffen. De staat eist dat OpenAI stopt met zulk gedrag.",
+   "date": "2026-11-17T07:37:56",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS verscherpen exportcontroles om Chinese toegang tot Amerikaanse rekenkracht te beperken",
+   "link": "https://businessam.be/vs-verscherpen-exportcontroles-om-chinese-toegang-tot-amerikaanse-rekenkracht-te-beperken/",
+   "description": "Key takeaways Het Bureau of Industry and Security (BIS) van het Amerikaanse Ministerie van Handel heeft nieuwe regelgeving ingevoerd om te voorkomen dat entiteiten waarop beperkingen gelden, met name die gevestigd in China, exportcontroles omzeilen door op afstand toegang te krijgen tot geavanceerde Amerikaanse rekenkracht. De maatregelen, die zijn ontwikkeld onder leiding van de Nationale […]",
+   "date": "2026-11-17T07:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Huang gaat, Nvidia blijft’",
+   "link": "https://trends.knack.be/opinie/huang-gaat-nvidia-blijft/",
+   "description": "Wordt Jensen Huang de Jack Ma van Amerika? Ma was ooit de prins van het Chinese kapitalisme. Een leraar Engels die vanuit zijn flat Alibaba oprichtte en een imperium bouwde dat handel, logistiek, cloudcomputing en digitale betalingen omspande. Time zette hem op de cover, Fortune rekende hem tot de grootste leiders ter wereld. Charismatisch, strijdlustig …\nThe post ‘Huang gaat, Nvidia blijft’ appeared first on Trends.be.",
+   "date": "2026-11-17T07:19:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen stevig lager door zorgen over AI-sector",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-stevig-lager-door-zorgen-over-ai-sector/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden dinsdagochtend overwegend lager, waarbij vooral technologieaandelen onder druk stonden na nieuwe Amerikaanse beperkingen op de export van geavanceerde AI-chips naar China. Beleggers kijken daarnaast met spanning uit naar de kwartaalcijfers van Nvidia.De Zuid-Koreaanse Kospi verloor rond de klok van 7 uur 2,7 procent en was daarmee de grootste daler …\nThe post Aziatische beurzen stevig lager door zorgen over AI-sector appeared first on Trends.be.",
+   "date": "2026-11-17T07:15:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen gaan rode opening tegemoet",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-gaan-rode-opening-tegemoet/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan dinsdag een lagere opening tegemoet, waarbij de focus zal liggen op de cijfers van Nvidia die vanavond nabeurs worden gepubliceerd.IG voorziet na de koersval op Wall Street een openingsverlies van 145 punten voor de Duitse DAX en een min van 36 punten voor de Franse CAC 40. De …\nThe post Europese beurzen gaan rode opening tegemoet appeared first on Trends.be.",
+   "date": "2026-11-17T06:59:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-agents kloppen aan bij API’s: is governance er klaar voor?",
+   "link": "https://www.techzine.be/blogs/devops/83846/ai-agents-kloppen-aan-bij-apis-is-governance-er-klaar-voor/",
+   "description": "De vraag is niet langer hoe we AI-agents verbinden met enterprise-systemen, maar hoe we controle houden zodra ze daarin zelfstandig acties uitvoeren. Hans Bot, enterprise architect bij Yenlo, waarschuwt dat IT-governance fundamenteel op de schop moet. Hij pleit voor een eigen identiteit en wallet per agent: “Naast een workforce krijg je ook een agentforce.” AI-agents […]",
+   "date": "2026-11-17T06:30:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Nvidia-topman Huang mogelijk in Chinese honeytrap beland: expert legt uit hoe seksspionage werkt",
    "link": "https://vrtnws.be/p.nwveeewxp",
@@ -343,7 +938,8 @@
    "description": "Ook aan de Vlaamse universiteiten is niets hetzelfde sinds AI op de deur heeft geklopt. We spraken met studenten computerwetenschappen, die de omwenteling vanop de eerste rij meemaken. “Volgens mij is AI te snel losgelaten op de wereld. Het was te vroeg.”",
    "date": "2026-11-16T23:59:00",
    "feeds": [
-    "De Standaard - Binnenland"
+    "De Standaard - Binnenland",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-17",
    "intro_geprobeerd": false
@@ -636,6 +1232,17 @@
     "Knack - Artikels"
    ],
    "first_seen": "2026-11-16",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Memes over affaire Nvidia-ceo worden gegenereerd met zijn eigen technologie",
+   "link": "https://www.standaard.be/buitenland/memes-over-affaire-nvidia-ceo-worden-gegenereerd-met-zijn-eigen-technologie/164614826.html",
+   "description": "Op het internet worden volop door AI-gegeneerde video’s gedeeld van Jensen Huang, de ceo van Nvidia. De Chinese spionne waarmee hij vreemdging op zijn vrouw speelt in de meeste video’s een glansrol.",
+   "date": "2026-11-16T16:01:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-17",
    "intro_geprobeerd": false
   },
   {
