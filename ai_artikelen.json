@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T20:35:43",
+ "generated": "2026-11-18T05:01:49",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 32,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 159,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,127 @@
   }
  ],
  "articles": [
+  {
+   "title": "Geen terugkeer voor Jensen Huang, wel recordcijfers: interim-topvrouw stelt Nvidia-belegger gerust",
+   "link": "https://www.tijd.be/r/t/1/id/10705955",
+   "description": "Nvidia trekt op in de nabeurshandel, nu de AI-chipontwikkelaar met sterker dan verwachte cijfers en prognoses is gekomen. Interim-CEO Colette Kress verhoogde tevens de verwachtingen voor volgend boekjaar en gaf sterk commentaar tijdens de analistencall. ‘We zijn niet van plan Jensen Huang weer CEO te maken’, liet voorzitter Harvey Jones weten.",
+   "date": "2026-11-18T01:39:23",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Winst van chipreus Nvidia in derde kwartaal verdubbeld",
+   "link": "https://www.gva.be/economie/bedrijven/winst-van-chipreus-nvidia-in-derde-kwartaal-verdubbeld/164713695.html",
+   "description": "Het Amerikaanse chipbedrijf Nvidia, tot voor kort het meest waardevolle bedrijf op de beurs, heeft in het derde kwartaal van 2026 zowel zijn omzet als zijn winst verdubbeld. Het overtreft daarmee ruimschoots de verwachtingen van analisten.",
+   "date": "2026-11-18T00:14:59",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Raad van bestuur Nvidia wil Jensen Huang niet opnieuw aanstellen als CEO",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/raad-van-bestuur-nvidia-wil-jensen-huang-niet-opnieuw-aanstellen~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-17T23:13:14",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Chipreus Nvidia overtreft verwachtingen, raad van bestuur wil niet weten van terugkeer Huang",
+   "link": "https://www.standaard.be/economie/chipreus-nvidia-overtreft-verwachtingen-raad-van-bestuur-wil-niet-weten-van-terugkeer-huang/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-17T23:12:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia overtreft verwachtingen in derde kwartaal, omzet meer dan verdubbeld",
+   "link": "https://vrtnws.be/p.Yb5Q8dDkR",
+   "description": "De Amerikaanse chipgigant Nvidia heeft zijn omzet in het derde kwartaal meer dan verdubbeld en daarmee de verwachtingen van de markt overtroffen. Dat is een opsteker voor het bedrijf, dat verwikkeld is in een schandaal dat leidde tot het vertrek van topman Jensen Huang.",
+   "date": "2026-11-17T22:41:14",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia groeit sterker dan verwacht",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/nvidia-groeit-sterker-dan-verwacht/",
+   "description": "(ABM FN-Dow Jones) Nvidia heeft in het derde kwartaal een hogere omzet en winst geboekt dan de markt had verwacht. Dit bleek dinsdagavond uit de cijfers van de Amerikaanse chipreus die werden overschaduwd door het schandaal rond voormalig topman en oprichter Jensen Huang. De omzet steeg op jaarbasis met 103 procent tot 116 miljard dollar. In …\nThe post Nvidia groeit sterker dan verwacht appeared first on Trends.be.",
+   "date": "2026-11-17T22:40:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Californië klaagt OpenAI aan: AI-wedloop mag niet boven veiligheid gaan",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/californie-klaagt-openai-aan-ai-wedloop-mag-niet-boven-veiligheid-gaan~b616c536/",
+   "description": "",
+   "date": "2026-11-17T22:00:33",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Waarom Rutger Bregman tóch waarschuwt voor AI",
+   "link": "https://www.nrc.nl/nieuws/2026/11/17/waarom-rutger-bregman-toch-waarschuwt-voor-ai-a4941330",
+   "description": "Al tien jaar voorspelt een kleine groep experts krankzinnige dingen over AI. Al tien jaar krijgen ze gelijk. En nu loopt de wereld vijf maanden vóór op hun engste scenario, schrijft Rutger Bregman.",
+   "date": "2026-11-17T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hammerspace Data System gebruikt Open Flash Platform om AI-storage te versimpelen",
+   "link": "https://www.techzine.be/blogs/infrastructure/83858/hammerspace-data-system-gebruikt-open-flash-platform-om-ai-storage-te-versimpelen/",
+   "description": "Zonder data is er geen AI. Toch is data/storage lange tijd een wat ondergeschoven kindje geweest in AI, omdat met name compute maar ook networking meer aandacht kregen. Dat is aan het veranderen. Hammerspace komt tijdens Supercomputing deze week met het eigen Hammerspace Data System, een enkel datasysteem voor AI. Belangrijk onderdeel ervan is Hammerspace […]",
+   "date": "2026-11-17T22:00:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe datacenters in de ruimte tot nieuwe wapenwedloop leiden: \"Als Musk 1 miljoen nieuwe AI-satellieten bouwt, doet China het ook\"",
+   "link": "https://vrtnws.be/p.kQO1DkQX7",
+   "description": "Datacenters in de ruimte kunnen een belangrijke rol spelen in de nieuwe wapenwedloop tussen de VS en China. Dat zegt ruimtevaartingenieur Stijn Ilsen nu SpaceX zulke installaties hoog boven het aardoppervlak wil bouwen. \"Het is opportunisme van Elon Musk, in de ruimte is oneindig veel zonne-energie en geen regelgeving.\"",
+   "date": "2026-11-17T21:56:31",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang wil wel terugkeren als ceo van Nvidia, mits bestuur dat goedkeurt",
+   "link": "https://tweakers.net/nieuws/254648/jensen-huang-wil-wel-terugkeren-als-ceo-van-nvidia-mits-bestuur-dat-goedkeurt.html",
+   "description": "Jensen Huang wil wel terugkeren als ceo van Nvidia, mits het bestuur besluit dat dit het 'beste voor de aandeelhouders, werknemers, het bedrijf en Amerika' is. Huang moest onlangs bij het bedrijf vertrekken nadat bekend werd dat hij meerdere affaires had met werknemers en een vermeende Chinese spion.",
+   "date": "2026-11-17T21:23:14",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Beleggers in Anthropic hebben eigenlijk geen idee wat ze kopen",
    "link": "https://www.nrc.nl/nieuws/2026/11/17/beleggers-in-anthropic-hebben-eigenlijk-geen-idee-wat-ze-kopen-a4941632",
@@ -355,7 +476,8 @@
    "description": "Vertrouwen is het hoogste goed voor een bankier. Vandaag weten we hoe zwaar de bankier van AI, Nvidia, het vertrouwen in de hele ecosysteem heeft geschaad.",
    "date": "2026-11-17T19:15:00",
    "feeds": [
-    "De Standaard - Opinies"
+    "De Standaard - Opinies",
+    "De Standaard - Economie"
    ],
    "first_seen": "2026-11-17",
    "intro_geprobeerd": false
@@ -380,6 +502,17 @@
     "Tweakers - Mixed"
    ],
    "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerika neemt Megaspeed onder de loep na ophef over affaire Nvidia-ceo",
+   "link": "https://tweakers.net/nieuws/254642/amerika-neemt-megaspeed-onder-de-loep-na-ophef-over-affaire-nvidia-ceo.html",
+   "description": "Het Amerikaanse ministerie van Justitie (DOJ) onderzoekt samen met het ministerie van Handel het Singaporese bedrijf Megaspeed voor het schenden van exportbeperkingen. Dat onderzoek loopt voor zover bekend al langer, maar daar doet het DOJ normaliter geen uitspraken over.",
+   "date": "2026-11-17T19:11:24",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-18",
    "intro_geprobeerd": false
   },
   {
@@ -534,6 +667,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-11-17",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De Duitse gok van Tesla: elk jaar een miljoen zelfrijdende auto’s zonder stuur bouwen en verkopen in Europa",
+   "link": "https://www.standaard.be/economie/de-duitse-gok-van-tesla-elk-jaar-een-miljoen-zelfrijdende-autos-zonder-stuur-bouwen-en-verkopen-in-europa/164662876.html",
+   "description": "Op een moment dat de Duitse auto-industrie in zwaar weer zit, gaat Tesla net fors investeren bij onze oosterburen. Het bouwt een nieuwe assemblagelijn voor de Cybercab: een zelfrijdende auto zonder stuur, maar ook zonder toestemming om in Europa rond te rijden.",
+   "date": "2026-11-17T16:20:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-18",
    "intro_geprobeerd": false
   },
   {
