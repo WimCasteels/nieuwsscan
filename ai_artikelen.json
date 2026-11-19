@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T20:14:09",
+ "generated": "2026-11-19T04:58:56",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 153,
+   "count": 157,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 98,
+   "count": 99,
    "error": null
   },
   {
@@ -316,6 +316,95 @@
  ],
  "articles": [
   {
+   "title": "Anthropic prijst aandeel op 83 dollar voor grootste beursgang ooit",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/anthropic-prijst-aandeel-op-83-dollar-voor-grootste-beursgang-ooit~b00cf077/",
+   "description": "",
+   "date": "2026-11-19T02:56:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic maakt zich met 83 dollar per aandeel op voor grootste beursgang ooit: SpaceX onttroond",
+   "link": "https://www.gva.be/economie/beurs/anthropic-maakt-zich-met-83-dollar-per-aandeel-op-voor-grootste-beursgang-ooit-spacex-onttroond/164772194.html",
+   "description": "AI-bedrijf Anthropic gaat bij zijn beursgang in New York op donderdag aandelen uitgeven voor een prijs van 83 dollar per stuk. Dat heeft het bedrijf woensdag gemeld in een persbericht. Anthropic haalt zo 81,3 miljard dollar op en stoot SpaceX van de troon voor de grootste beursintroductie ooit.",
+   "date": "2026-11-19T02:20:21",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Anthropic pakt groot uit bij beursgang met prijs per aandeel van 83 dollar”",
+   "link": "https://www.demorgen.be/snelnieuws/anthropic-pakt-groot-uit-bij-beursgang-met-prijs-per-aandeel-van-83-dollar~be851bf3/",
+   "description": "",
+   "date": "2026-11-19T01:55:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Anthropic trekt prijs bij beursdebuut verder op’",
+   "link": "https://www.tijd.be/r/t/1/id/10706131",
+   "description": "Het ziet ernaar uit dat de grootste beursgang ooit nog iets groter gaat worden. Anthropic, het bedrijf achter onder meer de AI-assistent Claude, zou de prijsvork bij zijn beursintroductie optrekken.",
+   "date": "2026-11-18T22:52:49",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic overstijgt verwachtingen met beursgang van 83 dollar per aandeel",
+   "link": "https://www.standaard.be/economie/anthropic-overstijgt-verwachtingen-met-beursgang-van-83-dollar-per-aandeel/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-18T22:46:30",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederland loopt voorop met AI-gebruik op werk",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/nederland-loopt-voorop-met-ai-gebruik-op-werk~b715f400/",
+   "description": "",
+   "date": "2026-11-18T22:00:37",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Opinie: AI legt bloot hoe subjectief de toekenning van subsidieaanvragen is",
+   "link": "https://www.trouw.nl/opinie/opinie-ai-legt-bloot-hoe-subjectief-de-toekenning-van-subsidieaanvragen-is~b3087a2f/",
+   "description": "",
+   "date": "2026-11-18T20:52:26",
+   "feeds": [
+    "Trouw - Opinie",
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Digitale Bonnie & Clyde van ‘GTA VI’ breken nu al records",
+   "link": "https://www.tijd.be/r/t/1/id/10706114",
+   "description": "Later op de dag maakt Anthropic zijn langverwachte beursdebuut. Dat zal heel wat gamers worst wezen: zij houden zich donderdag vooral bezig met de release van ‘GTA VI’.",
+   "date": "2026-11-18T20:27:43",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Sterke resultaten van Nvidia kunnen de belegger niet overtuigen",
    "link": "https://www.standaard.be/economie/sterke-resultaten-van-nvidia-kunnen-de-belegger-niet-overtuigen/164747854.html",
    "description": "De onverwacht sterke resultaten van Nvidia nemen de twijfels op de beurs niet weg. De hoop is dat de beursgang van Anthropic donderdag een zetje geeft na een rotmaand voor technologie.",
@@ -335,6 +424,17 @@
     "De Standaard - Economie"
    ],
    "first_seen": "2026-11-18",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia wil tonen dat het zonder Jensen Huang verder kan, maar cruciale vragen blijven onbeantwoord",
+   "link": "https://www.standaard.be/economie/nvidia-wil-tonen-dat-het-zonder-jensen-huang-verder-kan-maar-cruciale-vragen-blijven-onbeantwoord/164743201.html",
+   "description": "Jensen Huang komt niet meer terug en de groei en winstmarge van Nvidia blijven indrukwekkend hoog. Ceo ad interim Colette Kress gaf op haar vuurdoop een solide indruk: “We gaan toekomstige investeringen en garantiestellingen grondig evalueren.”",
+   "date": "2026-11-18T19:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-19",
    "intro_geprobeerd": false
   },
   {
@@ -423,6 +523,17 @@
     "De Morgen - In Het Nieuws"
    ],
    "first_seen": "2026-11-18",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amper 1,17 gram CO2 per kilowattuur: waarom deze Zweedse datacenters wereldwijd aandacht trekken",
+   "link": "https://www.demorgen.be/nieuws/amper-1-17-gram-co2-per-kilowattuur-waarom-deze-zweedse-datacenters-wereldwijd-aandacht-trekken~b54cd311/",
+   "description": "",
+   "date": "2026-11-18T18:40:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-19",
    "intro_geprobeerd": true
   },
   {
