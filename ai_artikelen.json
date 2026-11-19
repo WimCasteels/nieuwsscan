@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T04:58:56",
+ "generated": "2026-11-19T20:20:20",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 1,
+   "count": 0,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 155,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 99,
+   "count": 91,
    "error": null
   },
   {
@@ -315,6 +315,831 @@
   }
  ],
  "articles": [
+  {
+   "title": "Anthropic haalt bij grootste beursgang ooit 107 miljard dollar op en vestigt record",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/anthropic-haalt-bij-grootste-beursgang-ooit-107-miljard-dollar-op-en-vestigt-record~bf2e07a8/",
+   "description": "",
+   "date": "2026-11-19T20:07:20",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Aandeel van AI-bedrijf Anthropic schiet 34 procent de hoogte in na beursgang: \"Test is geslaagd\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/aandeel-van-aibedrijf-anthropic-schiet-34-procent-de-hoogte-in-~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-19T19:59:43",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic-aandeel opent 34 procent hoger dan uitgifteprijs",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/anthropic-aandeel-opent-34-procent-hoger-dan-uitgifteprijs-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Anthropic-aandeel opent 34 procent hoger dan uitgifteprijs appeared first on Trends.be.",
+   "date": "2026-11-19T19:53:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jong Geweld | Denis Leysen (Noah): 'Aan de keukentafel zien ondernemen, maakt de sprong minder eng'",
+   "link": "https://www.tijd.be/r/t/1/id/10706225",
+   "description": "De Tijd brengt onder de vlag WAW! nieuws over starters en groeibedrijven. In de rubriek Jong Geweld laten we beloftevolle ondernemers aan het woord. Vandaag: Denis Leysen (29) van Noah, dat net zijn eerste kapitaalronde afrondde en grote bedrijven wil gidsen door de wildgroei aan artificiële intelligentie.",
+   "date": "2026-11-19T19:48:53",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ontwikkelaars kunnen Lens voor Snapchat bouwen met AI-tools als Codex",
+   "link": "https://tweakers.net/nieuws/254738/ontwikkelaars-kunnen-lens-voor-snapchat-bouwen-met-ai-tools-als-codex.html",
+   "description": "Ontwikkelaars kunnen via tools als Claude Code, Codex of Cursor een Lens voor Snapchat maken en publiceren, zonder zelf code te schrijven. Dat heeft Snap bekendgemaakt. Daarvoor kunnen ze Easy Lens CLI gebruiken.",
+   "date": "2026-11-19T19:45:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deutsche Telekom investeert 100 miljoen euro in Franse AI-start-up Mistral",
+   "link": "https://businessam.be/deutsche-telekom-investeert-100-miljoen-euro-in-franse-ai-start-up-mistral/",
+   "description": "Key takeaways Deutsche Telekom heeft een investering van 100 miljoen euro in Mistral AI aangekondigd. Het Franse bedrijf geldt als een van de belangrijkste Europese spelers op het gebied van artificiële intelligentie. Europese AI-samenwerking Deze financiering, beheerd via het T.Capital Tech Fund, markeert het begin van een strategische alliantie die tot doel heeft op maat […]",
+   "date": "2026-11-19T19:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aandeel Anthropic opent 34 procent hoger dan uitgifteprijs",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/anthropic-maakt-zich-met-prijs-van-83-dollar-per-aandeel-op-voor-grootste-beursgang-ooit/",
+   "description": "Het aandeel van Anthropic is donderdag, zoals algemeen was verwacht, fors hoger geopend dan de uitgifteprijs van 83 dollar per aandeel. Door de hoge vraag lag de openingskoers op 111,50 dollar. Het duurde een tijd voor er zich een koers had gevormd op de Nasdaq.\nThe post Aandeel Anthropic opent 34 procent hoger dan uitgifteprijs appeared first on Knack.",
+   "date": "2026-11-19T19:21:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Recordbeursgang: terwijl de AI-zeepbel-angst stijgt, haalt Anthropic 107 miljard dollar op",
+   "link": "https://www.demorgen.be/nieuws/recordbeursgang-terwijl-de-ai-zeepbel-angst-stijgt-haalt-anthropic-107-miljard-dollar-op~bc402ce8/",
+   "description": "",
+   "date": "2026-11-19T19:20:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic tekent voor grootste beursgang ooit: in één keer haalt bedrijf achter Claude 107 miljard dollar op",
+   "link": "https://www.gva.be/economie/anthropic-tekent-voor-grootste-beursgang-ooit-in-een-keer-haalt-bedrijf-achter-claude-107-miljard-dollar-op/164824912.html",
+   "description": "AI-gigant Anthropic sloopt het record bij zijn beursgang. 107 miljard dollar brengt de operatie op, dik 20 miljard méér dan SpaceX van Elon Musk. En dat was toen ook al meer dan ooit tevoren.",
+   "date": "2026-11-19T19:16:41",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen sluiten lager in schaduw van beursgang Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-sluiten-lager-in-schaduw-van-beursgang-anthropic/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn donderdag lager gesloten, hoewel halfgeleideraandelen de wind mee hadden na een geslaagde beursgang van AI-bedrijf Anthropic op Wall Street.De Stoxx Europe 600 sloot 0,9 procent lager op 638,41 punten en de Duitse DAX verloor 1,1 procent tot 25.463,81 punten. De Franse CAC 40 raakte 0,8 procent kwijt op 8.080,74 …\nThe post Europese beurzen sluiten lager in schaduw van beursgang Anthropic appeared first on Trends.be.",
+   "date": "2026-11-19T19:16:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waardering Anthropic is twee biljoen dollar bij grootste beursgang tot nu toe",
+   "link": "https://tweakers.net/nieuws/254740/waardering-anthropic-is-twee-biljoen-dollar-bij-grootste-beursgang-tot-nu-toe.html",
+   "description": "Anthropic is naar de beurs gegaan. Het aandeel van het AI-bedrijf, bekend van de AI-dienst Claude, opende een derde hoger dan de introductieprijs. Daarmee is dit de grootste beursgang tot nu toe. Het vorige record stond op naam van SpaceX.",
+   "date": "2026-11-19T19:00:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD in vizier van shortseller",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/amd-in-vizier-van-shortseller/",
+   "description": "(ABM FN-Dow Jones) Hunterbrook Capital heeft een shortpositie ingenomen in AMD vanwege zorgen over de zakelijke banden van het Amerikaanse halfgeleiderbedrijf met China. Dit meldde zusterbedrijf Hunterbrook Media donderdag. Volgens Hunterbrook is onduidelijk of AMD de vereiste vergunningen heeft om technologie te leveren aan Chinese partijen op de Amerikaanse zwarte lijst. AMD vroeg om meer tijd …\nThe post AMD in vizier van shortseller appeared first on Trends.be.",
+   "date": "2026-11-19T18:21:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia vervroegt loonsverhogingen en aandelenbeloningen om personeel te behouden na het vertrek van Jensen Huang",
+   "link": "https://businessam.be/nvidia-vervroegt-loonsverhogingen-en-aandelenbeloningen-om-personeel-te-behouden-na-het-vertrek-van-jensen-huang/",
+   "description": "Key takeaways Om een uittocht van talent na het vertrek van Jensen Huang te voorkomen, heeft Nvidia het tijdschema voor salarisverhogingen en aandelenbeloningen vervroegd. Die worden nu in december toegekend, in plaats van op de gebruikelijke datum in maart. Dat meldt WIRED. Waarnemend CEO Colette Kress kondigde het stimuleringsplan aan tijdens een recente bijeenkomst voor […]",
+   "date": "2026-11-19T18:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AB InBev en Aedifica wegen op Bel20",
+   "link": "https://www.tijd.be/r/t/1/id/10706201",
+   "description": "De Europese beurzen konden de openingswinsten niet vasthouden. Chipaandelen blonken uit dankzij een geslaagde beursgang van Anthropic. Aperam kreeg applaus voor zijn beleggersdag, terwijl Aedifica geen munt kon slaan uit zijn kwartaalupdate.",
+   "date": "2026-11-19T18:07:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aandeel Anthropic klimt bij beursgang meteen 34 procent omhoog",
+   "link": "https://www.demorgen.be/nieuws/aandeel-anthropic-klimt-bij-beursgang-meteen-34-procent-omhoog~b3a3fe17/",
+   "description": "",
+   "date": "2026-11-19T18:04:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Is Dario oké?’ De topman van Anthropic prees de beursgang aan op een manier die vragen oproept",
+   "link": "https://www.volkskrant.nl/tech/is-dario-oke-de-topman-van-anthropic-prees-de-beursgang-aan-op-een-manier-die-vragen-oproept~b174f7d7e/",
+   "description": "",
+   "date": "2026-11-19T18:00:47",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "LIVE. Aandeel Anthropic opent 34 procent hoger dan uitgifteprijs",
+   "link": "https://www.gva.be/economie/bedrijven/live.-aandeel-anthropic-opent-34-procent-hoger-dan-uitgifteprijs/164801979.html",
+   "description": "Naast de dag waarop GTA VI gelanceerd werd, zal 19 november 2026 ook de geschiedenisboeken ingaan als de dag van de grootste beursgang ooit. AI-bedrijf Anthropic, bekend van de chatbot Claude, stoot daarmee SpaceX van de troon. Volg de ontwikkelingen hier LIVE.",
+   "date": "2026-11-19T17:59:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Stevig verlies voor Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/stevig-verlies-voor-bel20/",
+   "description": "(ABM FN) De Brusselse beurs is donderdag met verlies gesloten, ondanks een succesvolle IPO van Anthropic.De Bel20 daalde met 1,1 procent naar 5,885,51 punten en presteerde daarmee slechter dan de omringende beurzen.Anthropic werd vandaag voor 83 dollar per aandeel naar de Nasdaq gebracht. Het aandeel opende uiteindelijk op 111,50 dollar.\"Beursgeschiedenis\", zei hoofdeconoom Erik Joly van ABN …\nThe post Stevig verlies voor Bel20 appeared first on Trends.be.",
+   "date": "2026-11-19T17:56:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Koers AI-bedrijf Anthropic meteen door het dak: aandeel opent 34 procent hoger",
+   "link": "https://www.ad.nl/economie/koers-ai-bedrijf-anthropic-meteen-door-het-dak-aandeel-opent-34-procent-hoger~acab0b73/",
+   "description": "De koers van AI-bedrijf Anthropic ging donderdag bij het beursdebuut direct door het dak. Het aandeel schoot meteen naar 111,50 dollar, 34 procent hoger dan de introductiekoers van 83 dollar. Het gaat om de grootste beursgang ooit, die tegenwicht moet bieden aan de penarie in de sector.",
+   "date": "2026-11-19T17:56:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic schiet 34 procent hoger tijdens grootste beursgang ooit: waardering van 2.000 miljard dollar",
+   "link": "https://www.tijd.be/r/t/1/id/10706260",
+   "description": "Anthropic krijgt een bijzonder warm welkom van beleggers. Met 107,3 miljard dollar aan opgehaald kapitaal verslaat de moeder van de bekende chatbot Claude alle records.",
+   "date": "2026-11-19T17:55:52",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Recordbeursgang voor AI-bedrijf Anthropic, koers stijgt meteen met een derde",
+   "link": "https://nos.nl/l/2640176",
+   "description": "Het aandeel van AI-bedrijf Anthropic is de eerste uren na de beursgang flink in waarde gestegen. De openingskoers van het bedrijf achter AI-model Claude stond rond 17.45 uur Nederlandse tijd op 111 dollar. Dat is ruim een derde hoger dan de introductieprijs.\n        Anthropic haalt met de beursgang 81 miljard dollar (zo'n 74 miljard euro) op. Een aantal zittende investeerders, waaronder Nvidia, Google en Microsoft, legt nog eens 26 miljard dollar in. Daarmee overtreft het de beursgang van SpaceX, tot vandaag de grootste beursgang ooit.\n        Veel belangstelling\n        Het bedrijf kreeg vanmiddag om 15.30 uur Nederlandse tijd een notering aan de Nasdaq, de Amerikaanse beurs waar in de belangrijkste techbedrijven wordt gehandeld. Het duurt meestal even voordat er bij nieuwe aandelen een koers bekend is.\n        In totaal kwamen er 980 miljoen aandelen beschikbaar. De belangstelling was groot. Een week van tevoren was de beursgang volgens persbureau Bloomberg al zes keer overtekend.\n        Door de grote vraag werd de introductieprijs, de prijs waarvoor een aandeel in eerste instantie wordt verkocht, woensdag nog verhoogd naar 83 dollar. Eerder werd die prijs ergens tussen de 70 en 78 dollar geschat.\n        Optimisme\n        In aanloop naar de beursgang ging het regelmatig over de risico's. In de prospectus, de papieren die een bedrijf moet inleveren voor een beursgang, waarschuwde Anthropic bijvoorbeeld voor de gevaren van AI. Ook draait het bedrijf flink verlies en heeft het een miljardenschuld.\n        Toch lijkt het er niet op dat beleggers zich daardoor hebben laten afschrikken. De beurs in New York begon vandaag met winst. Vooral de tech- en chipaandelen deden het goed in afwachting van de openingskoers van Anthropic.\n        In deze video gaan we verder in op het risico van die torenhoge verwachtingen: \n        De beursgang van Anthropic komt in onrustige tijden in de AI-sector. Na het vertrek van Nvidia-topman Jensen Huang daalde de beurskoers van de chipfabrikant flink. Ook de aandelen van AI-bedrijven zakten de afgelopen tijd.\n        Na de winst van de Democraten tijdens de tussentijdse verkiezingen in de Verenigde Staten leken beleggers zich zorgen te maken of ze de enorme AI-investering wel kunnen terugverdienen.",
+   "date": "2026-11-19T17:52:36",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CO₂-uitstoot van datacenters zal tegen 2030 met 70 procent stijgen, waarschuwt het IEA",
+   "link": "https://businessam.be/co%e2%82%82-uitstoot-van-datacenters-zal-tegen-2030-met-70-procent-stijgen-waarschuwt-het-iea/",
+   "description": "Key takeaways Het Internationaal Energieagentschap (IEA) meldde onlangs dat de CO₂-uitstoot van datacenters wereldwijd tegen 2030 naar verwachting met 70 procent zal stijgen. AI stuwt energieverbruik van datacenters omhoog Volgens de World Energy Outlook 2026 wordt die toename voornamelijk veroorzaakt door de groeiende energiebehoefte van artificiële intelligentie. Het agentschap schat dat het totale elektriciteitsverbruik van […]",
+   "date": "2026-11-19T17:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - GPU-Z 2.72.0",
+   "link": "https://tweakers.net/downloads/79122/gpu-z-2720.html",
+   "description": "Versie 2.72.0 van GPU-Z is uitgekomen. Dit programma kan precies vertellen welke grafische kaart in de pc zit. Zo vermeldt het onder meer fabrikant, model, type, revisie en snelheid van de grafische processor, maar ook de hoeveelheid, type en snelheid van het geheugen. Hoewel de naam en het uiterlijk doen denken aan CPU-Z en PCI-Z, vergelijkbare programma's voor processors en PCI-devices, zijn die programma's van andere makers. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 2.72.0:",
+   "date": "2026-11-19T17:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Politie arresteert man in Israël die moordplan op zijn vrouw besprak met ChatGPT",
+   "link": "https://www.demorgen.be/nieuws/politie-arresteert-man-in-israel-die-moordplan-op-zijn-vrouw-besprak-met-chatgpt~bdf33b0a/",
+   "description": "",
+   "date": "2026-11-19T16:49:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Deutsche Telekom investeert 100 miljoen euro in Mistral, de Europese tegenhanger van OpenAI en Anthropic",
+   "link": "https://www.hln.be/tech/deutsche-telekom-investeert-100-miljoen-euro-in-mistral-de-europese-tegenhanger-van-openai-en-anthropic~a87e189a/",
+   "description": "Deutsche Telekom investeert 100 miljoen euro in het Franse AI-bedrijf Mistral, waarvan ook de Nederlandse chipmachinemaker ASML aandeelhouder is. Volgens het Duitse telecomconcern is de investering een eerste stap naar een strategische samenwerking met Mistral.",
+   "date": "2026-11-19T16:42:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Grootste beursgang ooit en het aandeel knalt meteen 34 procent hoger: waarom Anthropic onverwacht een groot succes werd",
+   "link": "https://www.standaard.be/economie/grootste-beursgang-ooit-en-het-aandeel-knalt-meteen-34-procent-hoger-waarom-anthropic-onverwacht-een-groot-succes-werd/164780943.html",
+   "description": "Anthropic haalt 107,3 miljard dollar op door naar de beurs te gaan. Het is meteen de grootste beursintroductie ooit. Het aandeel schoot bij de eerste koers meteen 34 procent hoger dan de introductieprijs en startte zijn beurscarrière aan 112 dollar per stuk.",
+   "date": "2026-11-19T16:40:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Adviesverhoging naar kopen voor Nvidia",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/adviesverhoging-naar-kopen-voor-nvidia/",
+   "description": "De nieuwsstroom rond Nvidia werd de voorbije weken nagenoeg volledig beheerst door het gerommel rond CEO Jensen Huang. Het schandaal heeft het aandeel nog goedkoper gemaakt. \nThe post Adviesverhoging naar kopen voor Nvidia appeared first on Trends.be.",
+   "date": "2026-11-19T16:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic is nu beursgenoteerd en de AI-hype krijgt een stresstest",
+   "link": "https://www.techzine.be/blogs/applications/83885/anthropic-is-nu-beursgenoteerd-en-de-ai-hype-krijgt-een-stresstest/",
+   "description": "In januari 2021 begonnen zeven voormalige OpenAI-medewerkers met een nieuw AI-bedrijf: Anthropic. Een kleine zes jaar later weet de maker van het alomtegenwoordige Claude eerder de Nasdaq te bereiken dan OpenAI. Belangrijker is het traject dat de waarde van het AI-bedrijf nu neemt na een afgezwakte waardering en twijfels alom over het standhouden van de […]",
+   "date": "2026-11-19T15:59:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Export van Zuid-Korea bereikt 1 biljoen dollar dankzij AI-chipboom",
+   "link": "https://businessam.be/export-van-zuid-korea-bereikt-1-biljoen-dollar-dankzij-ai-chipboom/",
+   "description": "Key takeaways Aangedreven door de wereldwijde opmars van artificiële intelligentie is Zuid-Korea het vierde land in de geschiedenis geworden dat de grens van 1 biljoen dollar (ongeveer 910 miljard euro) aan jaarlijkse export heeft overschreden, waarmee het zich voegt bij China, de Verenigde Staten en Duitsland. AI-chipboom De belangrijkste motor achter die groei is de […]",
+   "date": "2026-11-19T15:58:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canva laat gebruikers alle generatieve AI-functies met één knop uitzetten",
+   "link": "https://tweakers.net/nieuws/254728/canva-laat-gebruikers-alle-generatieve-ai-functies-met-een-knop-uitzetten.html",
+   "description": "Designtool Canva introduceert een knop om alle functies die gebruikmaken van generatieve AI in één keer uit te schakelen. De functie is per direct beschikbaar. Ook is er een schakelaar om minder door AI gemaakte content te zien bij het zoeken.",
+   "date": "2026-11-19T15:53:27",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Mistral brengt desktopapp van AI-agent Vibe uit voor macOS en Windows",
+   "link": "https://tweakers.net/nieuws/254720/mistral-brengt-desktopapp-van-ai-agent-vibe-uit-voor-macos-en-windows.html",
+   "description": "Mistral heeft een desktopapp van zijn AI-agent Vibe uitgebracht voor macOS en Windows. Ondersteuning voor Linux-gebaseerde besturingssystemen volgt later, zo zegt het Franse bedrijf. De app ondersteunt werken met lokale bestanden, cloudsessies in een sandbox en parallelle sessies.",
+   "date": "2026-11-19T15:17:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tegen de hallucinaties van de mens is nog steeds geen intelligente machine opgewassen",
+   "link": "https://www.nrc.nl/nieuws/2026/11/19/tegen-de-hallucinaties-van-de-mens-is-nog-steeds-geen-intelligente-machine-opgewassen-a4941596",
+   "description": "De mens is niet meer het meest intelligente wezen op de planeet – wat nu? De strijd met machines valt wellicht niet meer te winnen op het gebied van calculerende rationaliteit. Maar als het gaat om de meest vruchtbare hallucinaties is mensheid nog steeds superieur aan AI. Dat stemt hoopvol.",
+   "date": "2026-11-19T15:02:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic kan twee biljoen dollar waard worden: wie zijn de zeven toekomstige techmiljardairs achter chatbot Claude?",
+   "link": "https://www.demorgen.be/tech-ai/anthropic-kan-twee-biljoen-dollar-waard-worden-wie-zijn-de-zeven-toekomstige-techmiljardairs-achter-chatbot-claude~be08f2ae/",
+   "description": "",
+   "date": "2026-11-19T15:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street wacht groene opening bij beursdebuut Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-wacht-groene-opening-bij-beursdebuut-anthropic/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet, hoewel de openingsindicatie iets minder optimistisch is dan eerder op de middag. De Nasdaq-futures noteerden ongeveer een half uur voor de opening 1,8 procent hoger, waar dat eerder nog meer dan 2 procent was. Futures op de S&P 500 stegen richting de gong met …\nThe post Wall Street wacht groene opening bij beursdebuut Anthropic appeared first on Trends.be.",
+   "date": "2026-11-19T14:58:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google mag 600 miljoen berichten van failliete Spirit Airlines kopen voor AI",
+   "link": "https://tweakers.net/nieuws/254716/google-mag-600-miljoen-berichten-van-failliete-spirit-airlines-kopen-voor-ai.html",
+   "description": "Een rechter in New York keurt Googles aankoop van Spirit Airlines-bedrijfsdata goed. De Amerikaanse luchtvaartmaatschappij ging failliet en sloot een datadeal met Google voor 10 miljoen dollar. De vakbond Association of Flight Attendants-CWA vocht dit aan, kreeg concessies en trok het bezwaar in.",
+   "date": "2026-11-19T14:38:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "OpenAI-CEO Sam Altman ziet Jensen Huang als onmisbare figuur in de AI-sector",
+   "link": "https://businessam.be/openai-ceo-sam-altman-ziet-jensen-huang-als-onmisbare-figuur-in-de-ai-sector/",
+   "description": "Key takeaways De AI-sector gaat een nieuwe fase in. Die wordt niet alleen gekenmerkt door snelle technologische doorbraken en de lancering van nieuwe modellen, maar ook door het vertrek van een belangrijke bedrijfsleider. Jensen Huang, medeoprichter en voormalig CEO van Nvidia, heeft onlangs zijn functie neergelegd na een reeks controverses. Die hadden onder meer betrekking […]",
+   "date": "2026-11-19T14:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "DDR6 wordt kleiner, kostbaarder en een AI-werkpaard",
+   "link": "https://www.techzine.be/nieuws/devices/83883/ddr6-wordt-kleiner-kostbaarder-en-een-ai-werkpaard/",
+   "description": "JEDEC, de organisatie die de open standaarden voor computergeheugen bepaalt, geeft een nieuwe voorproef van DDR6. De transfersnelheid stevent af op 12,8 GT/s, ofwel 12.800 MT/s. Dat is circa drie keer sneller dan de JEDEC-standaard voor DDR5 op 4800 MT/s. Echter is de belangrijkere specificatie vermoedelijk betekenisvolle: de databus wordt 50 procent breder, wat voor […]",
+   "date": "2026-11-19T14:17:52",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-drivers zouden tot 30GB per uur onnodig naar ssd's schrijven",
+   "link": "https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-tot-30gb-per-uur-onnodig-naar-ssds-schrijven.html",
+   "description": "De Nvidia GeForce-drivers zouden onnodig veel data naar ssd's schrijven. Gebruikers melden dat de drivers tot 30GB per uur naar hun ssd schrijven. AMD-drivers hadden eerder in november al een soortgelijk probleem.",
+   "date": "2026-11-19T14:08:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lenovo boekt recordomzet dankzij sterke vraag naar AI-producten",
+   "link": "https://businessam.be/lenovo-boekt-recordomzet-dankzij-sterke-vraag-naar-ai-producten/",
+   "description": "Key takeaways Aangedreven door een enorme stijging in de verkoop van AI-gerichte producten behaalde Lenovo Group in het tweede kwartaal een ongekende omzet. Volgens het tussentijdse financiële verslag van het bedrijf steeg de totale omzet voor de periode eindigend op 30 september tot 30,24 miljard dollar (27,4 miljard euro), wat neerkomt op een stijging van […]",
+   "date": "2026-11-19T14:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Aperam en Umicore trekken de kop",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-aperam-en-umicore-trekken-de-kop/",
+   "description": "(ABM FN) De Brusselse beurs noteerde donderdagmiddag in het rood. De Bel20 index daalde met 0,8 procent naar 5.903 punten.Beleggers wachten op de IPO van Anthropic vanmiddag op de Nasdaq.Hoofdeconoom Erik Joly van ABN AMRO België rekent op een flinke koersstijging voor het aandeel, zo zei hij donderdag in gesprek met ABM Financial News. De eerste …\nThe post Beursupdate: Aperam en Umicore trekken de kop appeared first on Trends.be.",
+   "date": "2026-11-19T13:54:19",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duizenden werknemers Anthropic worden miljonair dankzij beursgang: “Wie er vroeg bij was, kan beter af zijn dan personeel met topfunctie”",
+   "link": "https://www.hln.be/economie/duizenden-werknemers-anthropic-worden-miljonair-dankzij-beursgang-wie-er-vroeg-bij-was-kan-beter-af-zijn-dan-personeel-met-topfunctie~af17ecbf/",
+   "description": "Wie vandaag bij het beursdebuut aandelen van Anthropic wil bemachtigen, hoopt op stevige koerswinsten. Maar de grootste winnaars zitten al binnen het AI-bedrijf zelf. Volgens schattingen zullen minstens 4.250 huidige en voormalige werknemers dankzij de beursgang miljonair worden. Voor liefst 598 van hen zou hun aandelenpakket zelfs meer dan 100 miljoen dollar (91 miljoen euro) waard zijn.",
+   "date": "2026-11-19T13:50:21",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat zegt Claude zelf over zijn eigen aandeel? En wat adviseert ChatGPT? Wij deden de test",
+   "link": "https://www.standaard.be/economie/wat-zegt-claude-zelf-over-zijn-eigen-aandeel-en-wat-adviseert-chatgpt-wij-deden-de-test/164780596.html",
+   "description": "Wie weet er meer over de beursgang van Anthropic dan de AI-chatbots zelf, dachten we bij de redactie. Dus deden we vanochtend de test: wat raden Claude en rivaal ChatGPT aan? Kopen of niet?",
+   "date": "2026-11-19T13:10:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beleggers stappen voor 1,1 miljard dollar in Anthropic",
+   "link": "https://www.gva.be/economie/bedrijven/europese-beleggers-stappen-voor-11-miljard-dollar-in-anthropic/164791681.html",
+   "description": "Particuliere beleggers in het Verenigd Koninkrijk en de rest van Europa hebben voor 1,1 miljard dollar (omgerekend 1 miljard euro) aan aandelen van Anthropic gekocht, als onderdeel van de grootste beursgang ooit. Dat bericht persbureau Bloomberg op basis van documenten die zijn ingediend bij toezichthouders.",
+   "date": "2026-11-19T13:03:45",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI dreigt kwart van Belgische banen te vervangen, maar biedt ook kansen voor groei",
+   "link": "https://businessam.be/ai-dreigt-kwart-van-belgische-banen-te-vervangen-maar-biedt-ook-kansen-voor-groei/",
+   "description": "Key takeaways Volgens een studie van McKinsey zou ongeveer 25 procent van de Belgische banen in de komende vier jaar kunnen worden vervangen door artificiële intelligentie, robotica of de huidige digitale ontwikkelingen. De analyse, onder de aandacht gebracht door De Tijd, onderzoekt strategieën om het economische momentum van het land aanzienlijk te versnellen. Strategische troeven […]",
+   "date": "2026-11-19T13:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cyberaanval op Europese Commissie: AI maakt hackers steeds gevaarlijker",
+   "link": "https://businessam.be/cyberaanval-op-europese-commissie-ai-maakt-hackers-steeds-gevaarlijker/",
+   "description": "Key takeaways De Europese Commissie onderzoekt momenteel een cyberaanval dat gericht was op haar interne HR-infrastructuur. Hoewel de identiteit van de daders nog onbekend is, werken specialisten van CERT-EU eraan om vast te stellen of er vertrouwelijke werknemersgegevens zijn gestolen. De aanval trof voornamelijk Sysper, het portaal dat wordt gebruikt voor het beheer van salarisadministratie, […]",
+   "date": "2026-11-19T12:47:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cyberaanval legt HR-systemen Europese Commissie plat",
+   "link": "https://www.techzine.be/nieuws/security/83881/cyberaanval-legt-hr-systemen-europese-commissie-plat/",
+   "description": "De Europese Commissie is getroffen door een cyberaanval waarbij mogelijk grote hoeveelheden persoonsgegevens zijn blootgelegd. Hackers gebruikten de AI-tool ARTEX om kwetsbaarheden in IT-systemen op te sporen. De verstoringen duren al ruim tien dagen. Dat meldt Politico op basis van meerdere bronnen binnen de EU. CERT-EU, de cybersecuritywaakhond van de Europese instellingen, ontdekte eerder deze […]",
+   "date": "2026-11-19T12:30:57",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen hoger rond lunchtijd",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-hoger-rond-lunchtijd-6/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden donderdag rond lunchtijd overwegend hoger, terwijl beleggers in afwachting waren van de langverwachte beursgang van AI-bedrijf Anthropic en ook met een schuin oog naar China kijken, waar de presidenten Trump, Xi en Poetin elkaar ontmoeten.De Stoxx Europe 600 stond 0,2 procent hoger op 644,99 punten. De Duitse DAX …\nThe post Europese beurzen hoger rond lunchtijd appeared first on Trends.be.",
+   "date": "2026-11-19T12:18:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "MongoDB neemt Firebolt over voor real-time analytics",
+   "link": "https://www.techzine.be/nieuws/analytics/83879/mongodb-neemt-firebolt-over-voor-real-time-analytics/",
+   "description": "MongoDB heeft Firebolt overgenomen, de maker van een high-performance analytics-engine. De engine gaat naast de operationele database draaien en blijft automatisch gesynchroniseerd. Zo moeten applicaties en AI-agents analyses op live data uitvoeren zonder aparte datapijplijn. Wie analyses wil draaien op operationele data, kopieert die data doorgaans naar een apart systeem, zoals een datawarehouse. Dat betekent […]",
+   "date": "2026-11-19T11:56:06",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse privacywaakhond raadt AI-camerabrillen af na zorgwekkende tests",
+   "link": "https://tweakers.net/nieuws/254706/nederlandse-privacywaakhond-raadt-ai-camerabrillen-af-na-zorgwekkende-tests.html",
+   "description": "De Nederlandse Autoriteit Persoonsgegevens raadt consumenten af een AI-camerabril te kopen. Dat doet de toezichthouder na onderzoek naar zes van dit soort brillen. Volgens de AP vormen de brillen ernstige risico's voor de veiligheid van gebruikers en omstanders.",
+   "date": "2026-11-19T11:25:52",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: winst voor Aperam in rode Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-winst-voor-aperam-in-rode-bel20/",
+   "description": "(ABM FN) De Brusselse beurs koerste donderdagochtend licht lager, mede door verliezen bij AB InBev, Solvay en Elia. Rond de klok van elf uur verloor de Bel20 0,4 procent op 5.930,04 punten.\"Terwijl beleggers zich zorgen maken over de enorme investeringen in AI, blijkt de belangstelling voor bedrijven die deze technologie ontwikkelen bijzonder groot. De beursgang van …\nThe post Beursupdate: winst voor Aperam in rode Bel20 appeared first on Trends.be.",
+   "date": "2026-11-19T11:14:01",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software kopen of zelf bouwen? AI maakt die keuze juist complexer",
+   "link": "https://trends.knack.be/ai-en-tech/digitale-strategie/software-kopen-of-zelf-bouwen-ai-maakt-die-keuze-juist-complexer/",
+   "description": "De keuze tussen software kopen of zelf bouwen houdt IT-managers al decennialang bezig. Vroeger gaven vooral budget en technische complexiteit de doorslag. Vandaag dwingt artificiële intelligentie bedrijven tot een bredere afweging. \nThe post Software kopen of zelf bouwen? AI maakt die keuze juist complexer appeared first on Trends.be.",
+   "date": "2026-11-19T11:12:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gemini 4 Neon is Googles vierde nieuwe AI-model in korte tijd",
+   "link": "https://tweakers.net/nieuws/254708/gemini-4-neon-is-googles-vierde-nieuwe-ai-model-in-korte-tijd.html",
+   "description": "Google heeft Gemini 4 Neon uitgebracht. Het bedrijf plaatst het model tussen het lichtere Hydrogen en het krachtigere Carbon. Neon is na Argon, Carbon en Hydrogen het vierde model dat Google sinds oktober heeft uitgebracht.",
+   "date": "2026-11-19T11:02:41",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia benadert Arm-topman Rene Haas als mogelijke opvolger van Jensen Huang",
+   "link": "https://businessam.be/nvidia-benadert-arm-topman-rene-haas-als-mogelijke-opvolger-na-vertrek-van-jensen-huang/",
+   "description": "Key takeaways Na het recente aftreden van Jensen Huang is Nvidia op zoek gegaan naar een nieuwe leider en heeft het naar verluidt contact opgenomen met Arm-CEO Rene Haas over de vacature. Nvidia benadert Arm-topman als mogelijke opvolger Volgens een bericht van Bloomberg News heeft het executive search-bureau Heidrick & Struggles, in opdracht van de […]",
+   "date": "2026-11-19T11:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia doet onderzoek naar incident na claim van ransomwaregroep",
+   "link": "https://www.security.nl/posting/962275/Nvidia+doet+onderzoek+naar+incident+na+claim+van+ransomwaregroep?channel=rss",
+   "description": "Chipgigant Nvidia doet onderzoek naar een incident nadat een ransomwaregroep de naam van het bedrijf op de eigen dataleksite ...",
+   "date": "2026-11-19T10:58:51",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic stelt uitgifteprijs voor beursgang vast op 83 dollar per aandeel",
+   "link": "https://businessam.be/anthropic-vestigt-record-met-beursintroductie-gewaardeerd-op-15-biljoen-dollar/",
+   "description": "Key takeaways Anthropic heeft de uitgifteprijs voor zijn beursgang vastgesteld op 83 dollar per aandeel. Daarmee ligt de prijs boven de eerder voorspelde bandbreedte van 70 tot 78 dollar. De omvang van het aandelenaanbod maakt het bedrijf, een vooraanstaande ontwikkelaar van geavanceerde AI-modellen, tot de grootste beursgang in de geschiedenis. Daarmee overtreft Anthropic het eerdere […]",
+   "date": "2026-11-19T10:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Driver-update - AMD Radeon Software Adrenalin Edition 26.11.2 WHQL",
+   "link": "https://tweakers.net/downloads/79114/amd-radeon-software-adrenalin-edition-26112-whql.html",
+   "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.11.2 is ondersteuning voor versie 10.2 van AMD's Radeon Open Compute platform toegevoegd en bevat het verbeteringen voor de spellen Crimson Desert Enhanceden Phantom Blade Zero. Daarnaast is er aan de stabiliteit van de drivers gewerkt en zijn er diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. Highlights",
+   "date": "2026-11-19T10:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Atlassian: AI maakt code goedkoper, knelpunt verschuift",
+   "link": "https://www.techzine.be/nieuws/devops/83876/atlassian-ai-maakt-code-goedkoper-knelpunt-verschuift/",
+   "description": "In oktober daalden de AI-kosten per eenheid output voor het eerst in zes maanden, met bijna 28 procent. Ook blijft meer AI-code behouden. Toch verschuift het knelpunt naar review, planning en documentatie. Dat blijkt uit data van Atlassian. Van april tot en met september 2026 stegen de AI-uitgaven per eenheid output met een factor 4,5, […]",
+   "date": "2026-11-19T10:13:45",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Autoriteit Persoonsgegevens: 'AI-camerabrillen brengen veiligheid in gevaar'",
+   "link": "https://nos.nl/l/2640119",
+   "description": "AI-camerabrillen brengen de veiligheid van gebruikers en omstanders in gevaar. Dat concludeert de Autoriteit Persoonsgegevens (AP) na onderzoek. De privacywaakhond raadt de aankoop van AI-brillen af.\n        De AP waarschuwde eerder al dat het filmen van omstanders met zo'n bril vrijwel altijd verboden is, maar nu blijkt dat risico's niet alleen over privacy gaan.\n        Ernstige gevolgen\n        Twee van de zes onderzochte brillen werden uitgebreid getest in nagebootste praktijksituaties waarin de veiligheid van mensen een belangrijke rol speelde. Tijdens een nagebootste noodsituatie waarin reanimatieadvies werd gevraagd, beweerde een van de brillen meerdere keren dat er al een ambulance onderweg was, terwijl er geen hulpdiensten waren ingeschakeld.\n        De AP noemt geen merknamen van de onderzochte brillen en AI-modellen. De autoriteit zegt wel dat ze in Nederland te koop zijn, uit verschillende werelddelen komen en dat de prijzen variëren van minder dan 100 euro tot meer dan 500. Volgens de AP maakt het niet zoveel uit om welke merken het gaat, omdat op iedere bril wel wat aan te merken is.\n        'Leven op het spel'\n        \"Een bril die je ongemerkt filmt, is al zorgelijk. Een bril die je ook nog eens verkeerd adviseert wanneer iemands leven op het spel staat, gaat een stap te ver\", zegt Monique Verdier, vicevoorzitter van de AP.\n        Het was bekend dat AI-modellen foute antwoorden kunnen geven. Maar dat gebeurt dus ook met een bril die je de hele dag kan dragen.\n        Ook bij de bescherming van minderjarigen maakten de AI-camerabrillen fouten met mogelijk zeer ernstige gevolgen. Zo gaf een bril datingadvies aan een volwassene die aangaf interesse te hebben in een minderjarige.\n        Bij een andere test werden veiligheidswaarschuwingen bij speelgoed voor jonge kinderen niet opgevolgd. Ook bij het lezen van medicijnbijsluiters en het interpreteren van waarschuwingen voor extreem weer maakten de brillen fouten.\n        Wat is een AI-camerabril?\n        Een AI-camerabril is een bril met een camera die AI-functionaliteiten bevat en geïntegreerde sensoren, zoals een microfoon. De bril is gekoppeld aan de smartphone van de gebruiker en vanaf daar aan een AI-model.\n        Met de camera en microfoon in de bril kan de gebruiker opnames maken, die aan het AI-model kunnen worden doorgegeven. De brildrager kan het AI-model meestal aansturen via spraak en het antwoord van het AI-model krijgen via de ingebouwde speaker.\n        Sommige brillen hebben ook een displayfunctie, waardoor tekst op de brillenglazen kan worden geprojecteerd.\n        De AP bekeek voor dit onderzoek onder andere naar het ontwerp en de documentatie van de brillen en hoe ze functioneren in specifieke veiligheidsscenario's.\n        De AP wil dat de Nederlandse en Europese politiek de onderzoeksresultaten meenemen bij beslissingen of AI-camerabrillen wel of niet verboden moeten worden.\n        \"Het is van belang dat we collectief werken aan bewustwording, weerbaarheid en ethisch besef\", zegt Verdier.\n        Daarnaast adviseert de AP eigenaren en beheerders van locaties het dragen en gebruiken van camerabrillen in hun huisregels te verbieden.",
+   "date": "2026-11-19T09:45:37",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic officieel grootste beursgang: haalt 81,3 miljard op",
+   "link": "https://www.techzine.be/nieuws/analytics/83875/anthropic-officieel-grootste-beursgang-haalt-813-miljard-op/",
+   "description": "Anthropic haalt 81,3 miljard dollar op met zijn beursgang, de grootste ooit. De maker van Claude prijst zijn aandelen op 83 dollar per stuk en komt daarmee uit op een waardering van ongeveer 1,5 biljoen dollar. Vanaf donderdag wordt het aandeel op de Amerikaanse Nasdaq-beurs verhandeld. Anthropic is de eerste grote ontwikkelaar van frontier AI-modellen […]",
+   "date": "2026-11-19T09:40:35",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Silicon Valley bereidt zich voor op ontwrichting arbeidsmarkt. En wij?",
+   "link": "https://www.tijd.be/r/t/1/id/10699131",
+   "description": "Big tech maakt zich almaar nadrukkelijker zorgen over een mogelijke ontwrichting van de arbeidsmarkt door AI. Ook Amerikaanse politici komen steeds meer in beweging.",
+   "date": "2026-11-19T09:24:22",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kwart van al het werk in België in vier jaar vervangbaar door AI en robots",
+   "link": "https://www.hln.be/binnenland/kwart-van-al-het-werk-in-belgie-in-vier-jaar-vervangbaar-door-ai-en-robots~a9d6d62c/",
+   "description": "Een kwart van al het werk in ons land is in vier jaar tijd vervangbaar door robots, artificiële intelligentie of andere vormen van digitalisering die al bestaan. Dat schrijven De Tijd en L’Echo op basis van een studie van consultant McKinsey.",
+   "date": "2026-11-19T08:59:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Palo Alto Networks koopt Applied Compute voor 4,5 miljard dollar",
+   "link": "https://www.techzine.be/nieuws/security/83873/palo-alto-networks-koopt-applied-compute-voor-45-miljard-dollar/",
+   "description": "Palo Alto Networks neemt Applied Compute over, een platform voor post-training en inference van open-weight AI-modellen. Bedrijven moeten open modellen daarmee veilig kunnen trainen en uitrollen, ook in soevereine omgevingen. Het bedrag van 4,5 miljard dollar kan nog worden bijgesteld. Twee weken eerder haalde Applied Compute nog 350 miljoen dollar op tegen een waardering van […]",
+   "date": "2026-11-19T08:45:27",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 koerst af op groene opening met vizier op Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-koerst-af-op-groene-opening-met-vizier-op-anthropic/",
+   "description": "(ABM FN) De Brusselse beurs maakt zich donderdag op voor een hogere opening, ondanks aanhoudende zorgen over de enorme investeringen in kunstmatige intelligentie en de winstgevendheid daarvan.De Brusselse beurs zocht woensdag nog naar een nieuw evenwicht na de stevige koersval van dinsdag. De sterindex schommelde woensdag lang rond het nulpunt, maar sloot uiteindelijk 0,6 procent lager …\nThe post Bel20 koerst af op groene opening met vizier op Anthropic appeared first on Trends.be.",
+   "date": "2026-11-19T08:11:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Almachtige staat versus kleine mens’",
+   "link": "https://trends.knack.be/opinie/almachtige-staat-versus-kleine-mens/",
+   "description": "Klimaatcatastrofe. Massale ongelijkheid. Oorlog in Europa. AI dat jobs vernietigt. Koloniaal schuldgevoel. Een democratie in verval. Hoe voel je je na het lezen van deze woorden? Allicht niet zo goed. Dat is helaas een bewuste strategie.\n\nThe post ‘Almachtige staat versus kleine mens’ appeared first on Trends.be.",
+   "date": "2026-11-19T07:33:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren overwegend in het rood",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-overwegend-in-het-rood-6/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden donderdagochtend overwegend lager, waarbij vooral technologieaandelen onder druk stonden. De recordbeursgang van AI-bedrijf Anthropic vanmiddag wist de zorgen over de enorme investeringen in kunstmatige intelligentie en de winstgevendheid daarvan niet weg te nemen.De beurs in Taiwan verloor rond de klok van 7 uur bijna 4 procent, terwijl de Hang …\nThe post Aziatische beurzen noteren overwegend in het rood appeared first on Trends.be.",
+   "date": "2026-11-19T07:14:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen hoger",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-hoger-76/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen gaan donderdag een hogere opening tegemoet, in afwachting van de beursgang van Anthropic en de ontmoeting tussen Xi Jinping en Donald Trump.Woensdag nabeurs werd bevestigd dat de introductieprijs boven de prijsvork ligt die Anthropic had afgegeven, namelijk op 83 dollar, waar de indicatie vooraf 70 tot 78 dollar was.IG voorziet …\nThe post Europese beurzen openen hoger appeared first on Trends.be.",
+   "date": "2026-11-19T07:02:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Kwart van alle werk in België in vier jaar vervangbaar door AI en robots”",
+   "link": "https://www.gva.be/economie/kwart-van-alle-werk-in-belgie-in-vier-jaar-vervangbaar-door-ai-en-robots/164772597.html",
+   "description": "Een kwart van al het werk in ons land is in vier jaar tijd vervangbaar door robots, artificiële intelligentie of andere vormen van digitalisering die al bestaan. Dat schrijven De Tijd en L'Echo op basis van een studie van consultant McKinsey.",
+   "date": "2026-11-19T06:08:08",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Camerabrillen kunnen dragers en omstanders in gevaar brengen: 'Zorgwekkend'",
+   "link": "https://www.nu.nl/tech/6417017/camerabrillen-kunnen-dragers-en-omstanders-in-gevaar-brengen-zorgwekkend.html",
+   "description": "De Autoriteit Persoonsgegevens (AP) zegt dat AI-camerabrillen ernstige risico's voor gebruikers en omstanders kunnen veroorzaken. Zo gaf een bril in een nagebootste noodsituatie aan dat er een ambulance onderweg was, terwijl dat niet klopte.",
+   "date": "2026-11-19T06:01:21",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Autoriteit Persoonsgegevens waarschuwt voor AI-brillen: veiligheidsrisico’s voor gebruikers en omstanders",
+   "link": "https://www.nrc.nl/nieuws/2026/11/19/autoriteit-persoonsgegevens-waarschuwt-voor-ai-brillen-veiligheidsrisicos-voor-gebruikers-en-omstanders-a4941766",
+   "description": "Het gebruik van AI-camerabrillen brengt „grote en ingrijpende” veiligheidsrisico’s met zich mee, zowel voor de gebruiker zelf als omstanders.",
+   "date": "2026-11-19T06:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Video - Microsoft-storingen, multitools en Black Friday-data - Tweakers Podcast #453",
+   "link": "https://tweakers.net/video/20634/microsoft-storingen-multitools-en-black-friday-data-tweakers-podcast-453.html",
+   "description": "Deze week praten Wout Funnekotter, Jasper Bakker, Tijs Hofmans en Yannick Spinner over de crowdfundingcampagne van de Flipper One en Nvidia-topman Jensen Huang.",
+   "date": "2026-11-19T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Microsoft-storingen, multitools en Black Friday-data - Tweakers Podcast #453",
+   "link": "https://tweakers.net/geek/254682/microsoft-storingen-multitools-en-black-friday-data-tweakers-podcast-453.html",
+   "description": "Deze week praten Wout Funnekotter, Jasper Bakker, Tijs Hofmans en Yannick Spinner over de crowdfundingcampagne van de Flipper One, Nvidia-topman Jensen Huang, de grote Microsoft-storing, games recompileren en de populairste producten en categorieën rondom Black Friday.",
+   "date": "2026-11-19T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic gaat vandaag naar de beurs en mikt op recordbedrag: moet ik aandelen kopen?",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/16/anthropic-naar-de-beurs/",
+   "description": "AI is overal, maar levert de technologie ook genoeg geld op om de torenhoge verwachtingen waar te maken? Anthropic, het bedrijf achter chatbot Claude, trekt vandaag naar de beurs. Met 76 euro per aandeel en 980 miljoen aandelen op de markt, zou het 81,3 miljard euro ophalen.",
+   "date": "2026-11-19T05:46:09",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beleggers staan in de rij voor Anthropic ondanks twijfels over AI",
+   "link": "https://www.nu.nl/economie/6416984/beleggers-staan-in-de-rij-voor-anthropic-ondanks-twijfels-over-ai.html",
+   "description": "Anthropic maakt zich op voor een van de grootste beursgangen ooit. De belangstelling voor het AI-bedrijf achter chatbot Claude is enorm, maar de hoge verwachtingen rond het bedrijf brengen ook flinke risico's met zich mee.",
+   "date": "2026-11-19T05:31:23",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een on-Belgische opdracht: klaarstaan voor verandering",
+   "link": "https://www.tijd.be/r/t/1/id/10706119",
+   "description": "De Nvidia-cijfers en de megabeursgang van Anthropic leren dat er een golf van AI-verandering op ons afkomt. We kunnen beter klaarstaan om erop te surfen dan dat we ze over ons laten rollen.",
+   "date": "2026-11-19T05:00:00",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kwart van alle werk in vier jaar vervangbaar door AI en robots",
+   "link": "https://www.tijd.be/r/t/1/id/10706060",
+   "description": "Een kwart van al het werk is in vier jaar tijd vervangbaar door robots, artificiële intelligentie of andere vormen van digitalisering die al bestaan. Dat zegt de consultant McKinsey, die er een kans in ziet om de Belgische economie weer snel genoeg te doen groeien.",
+   "date": "2026-11-19T05:00:00",
+   "feeds": [
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Anthropic prijst aandeel op 83 dollar voor grootste beursgang ooit",
    "link": "https://www.trouw.nl/duurzaamheid-economie/anthropic-prijst-aandeel-op-83-dollar-voor-grootste-beursgang-ooit~b00cf077/",
