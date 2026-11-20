@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T20:20:20",
+ "generated": "2026-11-20T04:53:05",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 160,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 101,
    "error": null
   },
   {
@@ -315,6 +315,171 @@
   }
  ],
  "articles": [
+  {
+   "title": "Van zwakke groei naar 2 à 3 procent: hoe artificiële intelligentie onze economie zou kunnen redden",
+   "link": "https://www.gva.be/economie/van-zwakke-groei-naar-2-a-3-procent-hoe-artificiele-intelligentie-onze-economie-zou-kunnen-redden/164827761.html",
+   "description": "België zou tegen 2040 weer een economische groei van 2 tot 3 procent per jaar kunnen halen dankzij artificiële intelligentie en een focus op de industrie. “Het zal niet eenvoudig zijn om dat te realiseren, maar het is wel haalbaar”, aldus consultingbedrijf McKinsey.",
+   "date": "2026-11-20T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aandeelhouders slepen Alibaba voor de rechter over verzwegen banden met verdachte spionne in Nvidia-schandaal",
+   "link": "https://www.gva.be/buitenland/aandeelhouders-slepen-alibaba-voor-de-rechter-over-verzwegen-banden-met-verdachte-spionne-in-nvidia-schandaal/164832412.html",
+   "description": "Alibaba heeft zijn aandeelhouders bedrogen door zijn banden te verzwijgen met de vermoedelijke Chinese spionne wier relatie met Jensen Huang mee leidde tot diens ontslag als topman van Nvidia. Dat stellen aandeelhouders van de Chinese e-commercereus in een rechtszaak die ze donderdag in New York hebben aangespannen.",
+   "date": "2026-11-20T01:53:51",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Israëls AI-oorlogsmachine bestaat alleen dankzij Amazon, Microsoft en co.: “Ze weten alles over ons”",
+   "link": "https://www.standaard.be/buitenland/israels-ai-oorlogsmachine-bestaat-alleen-dankzij-amazon-microsoft-en-co.-ze-weten-alles-over-ons/164703325.html",
+   "description": "Het Israëlische leger voedde zijn AI-systemen met miljoenen foto’s en telefoongesprekken van Palestijnen die opgeslagen waren bij Amazon en Microsoft, essentieel voor zijn geautomatiseerde oorlog. Ook Europese legers lonken naar AI, maar kunnen evenmin om de almacht van Silicon Valley heen.",
+   "date": "2026-11-19T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Arundhati Roy ziet als Indiase schrijfster goed wat er op ons afkomt: “We moeten AI-bedrijven elimineren met alle benodigde middelen”",
+   "link": "https://www.standaard.be/media-en-cultuur/boeken/arundhati-roy-ziet-als-indiase-schrijfster-goed-wat-er-op-ons-afkomt-we-moeten-ai-bedrijven-elimineren-met-alle-benodigde-middelen/164392188.html",
+   "description": "Als Indiase schrijfster zit Arundhati Roy in een confronterende positie: AI is de wereld van de literatuur binnen gedenderd en heeft er de bodem weggeslagen. Tegelijk toont de Indiase regering, die datacentra massaal verwelkomt, dat we geen lessen trekken uit het verleden. Haar analyse hier is een uitnodiging, want verzet begint bij begrijpen wat er op het spel staat.",
+   "date": "2026-11-19T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kopen op de beurs of afwachten? Wat doe je met Anthropic?",
+   "link": "https://www.standaard.be/economie/kopen-op-de-beurs-of-afwachten-wat-doe-je-met-anthropic/164810206.html",
+   "description": "Het aandeel Anthropic knalde op zijn eerste beursdag tot 34 procent hoger, waardoor het meerjarenkoersdoel al bereikt leek. Komt u als Belgische belegger te laat?",
+   "date": "2026-11-19T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street sluit in het rood na beursgang Anthropic",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/wall-street-sluit-in-het-rood-na-beursgang-anthropic-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Wall Street sluit in het rood na beursgang Anthropic appeared first on Trends.be.",
+   "date": "2026-11-19T23:13:55",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bekijk – Siddy Jobe over de grootste beursgang ooit: ‘Anthropic heeft nu een oorlogskas van 220 miljard’",
+   "link": "https://trends.knack.be/beleggen/bekijk-siddy-jobe-over-de-grootste-beursgang-ooit-anthropic-heeft-nu-een-oorlogskas-van-220-miljard/",
+   "description": "De grootste beursgang ooit is een feit. Het aandeel van Anthropic opende donderdag 34 procent hoger dan de uitgifteprijs van 83 dollar per aandeel. Volgens techexpert Siddy Jobe is Anthropic erin geslaagd 'een enorm bedrag' van omgerekend 119 miljard dollar op te halen en beschikt het bedrijf nu over een oorlogskas van 220 miljard dollar.\nThe post Bekijk – Siddy Jobe over de grootste beursgang ooit: ‘Anthropic heeft nu een oorlogskas van 220 miljard’ appeared first on Trends.be.",
+   "date": "2026-11-19T22:57:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump kocht voor maximaal 265.000 dollar Nvidia-aandelen, ondanks mogelijke belangenconflicten",
+   "link": "https://businessam.be/trump-kocht-voor-maximaal-265-000-dollar-nvidia-aandelen-ondanks-mogelijke-belangenconflicten/",
+   "description": "Key takeaways Uit recente financiële rapporten die zijn vrijgegeven door het Amerikaanse Office of Government Ethics (OGE), blijkt dat president Donald Trump in september voor maximaal 265.000 dollar (ongeveer 240.000 euro) aan aandelen van Nvidia heeft gekocht en voor maximaal 15.000 dollar (ongeveer 14.000 euro) aan aandelen van het bedrijf heeft verkocht. Eerdere transacties Die […]",
+   "date": "2026-11-19T22:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic sluit eerste beursdag af met 17 procent winst",
+   "link": "https://www.standaard.be/economie/anthropic-sluit-eerste-beursdag-af-met-17-procent-winst/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-19T22:14:07",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street sluit flink in het rood na beursgang Anthropic",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-sluit-flink-in-het-rood-na-beursgang-anthropic/",
+   "description": "(ABM FN-Dow Jones) Wall Street heeft donderdag een flinke stap teruggedaan. De beursgang van Anthropic kon niet voorkomen dat de Amerikaanse beurzen behoorlijk in het rood doken. Hoewel de koersbepaling aanvankelijk voor optimisme zorgde, sloeg het sentiment om door winstnemingen en twijfels over AI als megatrend, wat ook de chipsector raakte.De S&P 500 sloot twee procent …\nThe post Wall Street sluit flink in het rood na beursgang Anthropic appeared first on Trends.be.",
+   "date": "2026-11-19T22:10:32",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI sceptics focus on the wrong threats",
+   "link": "https://www.nrc.nl/nieuws/2026/11/19/ai-sceptics-focus-on-the-wrong-threats-a4941336",
+   "description": "They overlook how vulnerable the status quo is and how much AI can help defenders, writes Anne Neuberger.",
+   "date": "2026-11-19T22:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Airco’s, datacenters, Iranoorlog: de grootste energiecrisis ooit dwingt tot duurzame oplossingen, zeggen experts",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/airco-s-datacenters-iranoorlog-de-grootste-energiecrisis-ooit-dwingt-tot-duurzame-oplossingen-zeggen-experts~b75a1681/",
+   "description": "",
+   "date": "2026-11-19T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic sloopt records bij beursgang: beleggers negeren waarschuwingen voor AI-zeepbel en ‘vernietiging van de mensheid’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/beleggers-lopen-storm-terwijl-de-makers-waarschuwen-dat-ai-de-mensheid-kan-vernietigen/",
+   "description": "De makers van chatbot Claude waarschuwen er zelf voor dat hun technologie de mensheid kan vernietigen, maar dat schrok beleggers niet af bij de beursintroductie van Anthropic. Het AI-bedrijf tekende voor de grootste beursgang ooit, en was meteen 2000 miljard dollar waard.\nThe post Anthropic sloopt records bij beursgang: beleggers negeren waarschuwingen voor AI-zeepbel en ‘vernietiging van de mensheid’ appeared first on Knack.",
+   "date": "2026-11-19T21:48:50",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "LCL Data Centers wint Trends Impact Award voor Climate & Energy (kmo’s)",
+   "link": "https://trends.knack.be/ondernemen/lcl-data-centers-wint-trends-impact-award-voor-climate-energy-kmos/",
+   "description": "Terwijl de bouw van steeds meer datacenters – aangedreven door de opkomst van artificiële intelligentie (AI) – leidt tot een grotere energievraag, produceert het Belgische datacenterbedrijf LCL Data Centers lokaal hernieuwbare energie. Dat past in de evolutie naar Europese datasoevereiniteit en duurzame energie.\nThe post LCL Data Centers wint Trends Impact Award voor Climate & Energy (kmo’s) appeared first on Trends.be.",
+   "date": "2026-11-19T21:10:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic viert beursfeest, maar op Wall Street gaan de lichten uit",
+   "link": "https://www.tijd.be/r/t/1/id/10706287",
+   "description": "De grootste beursgang uit de geschiedenis moest de twijfels over de AI-hausse wegblazen. Maar terwijl Anthropic afsloot met een winst van 17 procent, kleurde de rest van Wall Street dieprood. Wordt de grootste beursgang ooit ook het laatste feestje van de AI-hausse?",
+   "date": "2026-11-19T20:56:42",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Anthropic haalt bij grootste beursgang ooit 107 miljard dollar op en vestigt record",
    "link": "https://www.trouw.nl/duurzaamheid-economie/anthropic-haalt-bij-grootste-beursgang-ooit-107-miljard-dollar-op-en-vestigt-record~bf2e07a8/",
@@ -412,6 +577,17 @@
     "Gazet van Antwerpen - Economie"
    ],
    "first_seen": "2026-11-19",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic bewijst dat Musk ongelijk had: AI-bedrijf achter Claude verpulvert record met beursgang",
+   "link": "https://www.gva.be/economie/anthropic-bewijst-dat-musk-ongelijk-had-ai-bedrijf-achter-claude-verpulvert-record-met-beursgang/164824912.html",
+   "description": "AI-gigant Anthropic sloopt het record bij zijn beursgang. 107 miljard dollar brengt de operatie op, dik 20 miljard méér dan SpaceX van Elon Musk. En dat was toen ook al meer dan ooit tevoren.",
+   "date": "2026-11-19T19:16:41",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-20",
    "intro_geprobeerd": false
   },
   {
