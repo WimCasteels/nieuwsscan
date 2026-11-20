@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:53:05",
+ "generated": "2026-11-20T19:57:12",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 0,
+   "count": 1,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 168,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 101,
+   "count": 92,
    "error": null
   },
   {
@@ -315,6 +315,459 @@
   }
  ],
  "articles": [
+  {
+   "title": "5 favoriete aandelen van Shane Kelly: 'De verkoopgolf in dit aandeel als vermeende AI-verliezer is onterecht'",
+   "link": "https://www.tijd.be/r/t/1/id/10705870",
+   "description": "De beursexpert van M&G zorgt voor drie Europese en twee Amerikaanse namen.",
+   "date": "2026-11-20T19:01:27",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nasdaq tuimelt bijna 4 procent, Anthropic keldert 13 procent",
+   "link": "https://www.tijd.be/r/t/1/id/10706501",
+   "description": "Het is weer hommeles op Wall Street. De AI-paniek slaat verder om zich heen met forse verliezen voor techaandelen. Anthropic krijgt een opdoffer en noteert nog slechts 2 dollar boven zijn intekenprijs. Apple werkt aan een eigen AI-agent en beperkt zo zijn verlies tot 1 procent.",
+   "date": "2026-11-20T18:57:18",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijf Anthropic levert weer flink in na knallend beursdebuut: daling van 14 procent",
+   "link": "https://www.ad.nl/economie/ai-bedrijf-anthropic-levert-weer-flink-in-na-knallend-beursdebuut-daling-van-14-procent~a407a646/",
+   "description": "AI-bedrijf Anthropic was vrijdag een grote verliezer op de aandelenbeurzen in New York, een dag na de recordbeursgang van de maker van chatbot Claude. Het aandeel kelderde bijna 14 procent, waarmee de koerswinst van 17 procent op donderdag bijna volledig in rook is opgegaan.",
+   "date": "2026-11-20T18:57:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van Hollywoodhunk tot miljardenbelegger: is Ashton Kutcher de beste durfkapitalist ter wereld?",
+   "link": "https://www.tijd.be/r/t/1/id/10706426",
+   "description": "Na Uber, Airbnb en Spotify heeft Ashton Kutcher (48) met de beursgang van Anthropic opnieuw de jackpot gewonnen. Op sociale media wordt de Hollywoodacteur al uitgeroepen tot de beste durfkapitalist aller tijden. Terecht?",
+   "date": "2026-11-20T18:50:38",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen hard onderuit in slechtste week sinds Liberation Day",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-hard-onderuit-in-slechtste-week-sinds-liberation-day/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn vrijdag flink lager gesloten en gingen op weekbasis ook hard onderuit. Halfgeleideraandelen stonden het meest onder druk door de aanhoudende zorgen over Nvidia en het tegenvallende beursdebuut van Anthropic.De Stoxx Europe 600 sloot vrijdag 2,0 procent lager op 625,65 punten. Op weekbasis verloor de index 5,8 procent. De Duitse …\nThe post Europese beurzen hard onderuit in slechtste week sinds Liberation Day appeared first on Trends.be.",
+   "date": "2026-11-20T18:41:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic-aandeel onderuit bij opening Wall Street",
+   "link": "https://trends.knack.be/nieuws/live/trends-live/anthropic-aandeel-onderuit-bij-opening-wall-street-307973/",
+   "description": "Financieel-economische nieuws van vandaag in één oogopslag.\nThe post Anthropic-aandeel onderuit bij opening Wall Street appeared first on Trends.be.",
+   "date": "2026-11-20T18:14:10",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Recordbeursgang Anthropic spoelt AI-zorgen niet weg op beurs",
+   "link": "https://www.standaard.be/economie/recordbeursgang-anthropic-spoelt-ai-zorgen-niet-weg-op-beurs/164843433.html",
+   "description": "Zowel de goede resultaten van Nvidia als de ongeziene beursgang van Anthropic, donderdag, kunnen de AI-rally geen extra brandstof geven. “We zien een serieuze correctie.”",
+   "date": "2026-11-20T17:54:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijf Anthropic keldert 14 procent op Wall Street na grootste beursgang ooit",
+   "link": "https://www.demorgen.be/nieuws/ai-bedrijf-anthropic-keldert-14-procent-op-wall-street-na-grootste-beursgang-ooit~b168fdfa/",
+   "description": "",
+   "date": "2026-11-20T17:44:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "JFrog bouwt drie lagen vertrouwen in Software Supply Chain",
+   "link": "https://www.techzine.be/blogs/devops/83898/jfrog-bouwt-drie-lagen-vertrouwen-in-software-supply-chain/",
+   "description": "Om AI-agents in de Software Supply Chain (SSC) onder controle te houden, bouwt JFrog drie lagen in zijn platform. Het gaat om afscherming van wat agents binnenhalen (Immunize), automatische remediatie van wat agents releasen (Remediate) en wat agents verschepen (Control). JFrog ziet dat vertrouwen echt de grens bepaalt van wat organisaties met AI kunnen bouwen. […]",
+   "date": "2026-11-20T17:17:18",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ongemakkelijke beursgang Anthropic brengt het vertrouwen in de AI-sector voorlopig nog niet terug",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/ongemakkelijke-beursgang-anthropic-brengt-het-vertrouwen-in-de-ai-sector-voorlopig-nog-niet-terug-a4941935",
+   "description": "Hoewel de beursgang van Anthropic donderdag op economisch vlak redelijk succesvol verliep, bleek het enthousiasme voor de potentie van het AI-bedrijf niet besmettelijk voor de rest van de markt. Het zal nu het kapitalistische spel ongenadig hard moeten gaan spelen.",
+   "date": "2026-11-20T16:59:56",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cursor overweegt Chinese AI-modellen uit te faseren",
+   "link": "https://www.techzine.be/nieuws/devops/83896/cursor-overweegt-chinese-ai-modellen-uit-te-faseren/",
+   "description": "Hoe goed de open-weight modellen van Chinese AI-bedrijven ook zijn, Cursor wil van ze af. Het dochterbedrijf van SpaceX ziet geopolitieke risico’s als een belangrijke motivatie om van de afhankelijkheid af te komen. Dit terwijl het eigen Composer 2 zelf niet mogelijk was geweest zonder foundation model Kimi K2.5 van het Chinese Moonshot AI. Het […]",
+   "date": "2026-11-20T16:32:34",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tiktok lanceert AI-scanner, maar waterdichte detectie bestaat niet: “Het blijft een kaas met gaten”",
+   "link": "https://www.standaard.be/media-en-cultuur/tiktok-lanceert-ai-scanner-maar-waterdichte-detectie-bestaat-niet-het-blijft-een-kaas-met-gaten/164844557.html",
+   "description": "Tiktok lanceert een dienst waarmee iedereen kan nagaan of beelden met zijn AI-tools gemaakt zijn. Bekende gebruikers en politici kunnen het platform ook laten speuren naar deepfakes waarin hun gezicht wordt gebruikt. Maar hoe waterdicht is dat?",
+   "date": "2026-11-20T16:30:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Prada vs Dior: modehuizen kiezen voor kerstcampagnes met zichtbaar vakmanschap als tegenhanger voor AI",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/prada-vs-dior-modehuizen-kiezen-voor-kerstcampagnes-met-zichtbaar-vakmanschap-als-tegenhanger-voor-ai-a4941769",
+   "description": "De kerstcampagnes van Prada en Dior zijn dit jaar ‘handgemaakte’ animatievideo’s. Daarmee spelen de modehuizen in op de herwaardering van vakmanschap in het AI-tijdperk: exclusiviteit in een nieuw jasje. De reacties op de films lopen sterk uiteen.",
+   "date": "2026-11-20T15:50:19",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ubisoft start bedrijf voor 'AI-gameplayinnovatie' en ontslaat 166 ontwikkelaars",
+   "link": "https://tweakers.net/nieuws/254768/ubisoft-start-bedrijf-voor-ai-gameplayinnovatie-en-ontslaat-166-ontwikkelaars.html",
+   "description": "Ubisoft richt dochterbedrijf Motherbrain op, een studio die AI-oplossingen voor gameplay moet ontwikkelen. De producten zouden ook buiten Ubisoft-games kunnen verschijnen en 'alle gamemakers' kunnen ondersteunen. Tegelijkertijd ontslaat het bedrijf 166 werknemers van Canadese studio's.",
+   "date": "2026-11-20T15:49:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-twijfels bij beleggers: Aandeel Anthropic onderuit bij opening Wall Street",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/aitwijfels-bij-beleggers-aandeel-anthropic-onderuit-bij-openin~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-20T15:46:21",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Koen Dejonckheere (Gimv): 'Ik snap niet dat onze politici er niet in slagen een plan te maken'",
+   "link": "https://www.tijd.be/r/t/1/id/10706324",
+   "description": "Artificiële intelligentie brengt ons aan de vooravond van een economische renaissance, zegt Koen Dejonckheere, de CEO van de investeringsmaatschappij Gimv. Maar de politieke wereld ziet het niet. 'Ik pleit voor een opstand van de jonge mensen.'",
+   "date": "2026-11-20T15:39:09",
+   "feeds": [
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Belgie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bitcoin stevent af op zevende opeenvolgende verliesweek door onzekerheid op financiële markten",
+   "link": "https://businessam.be/bitcoin-stevent-af-op-zevende-opeenvolgende-verliesweek-door-onzekerheid-op-financiele-markten/",
+   "description": "Key takeaways Bitcoin kende vrijdag een aanzienlijke daling. De cryptomunt zakte onder de grens van 62.000 dollar en naderde daarmee het laagste niveau in vijf maanden. Door die terugval stevent de munt af op een zevende opeenvolgend wekelijks verlies. Een bredere terugtrekking uit beleggingen in artificiële intelligentie heeft het enthousiasme voor risicovolle activa getemperd. Op […]",
+   "date": "2026-11-20T15:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Angstcultuur, affaires en ‘Toy Jensen’: hoe de familie Huang Nvidia in haar greep kreeg",
+   "link": "https://www.demorgen.be/nieuws/angstcultuur-affaires-en-toy-jensen-hoe-de-familie-huang-nvidia-in-haar-greep-kreeg~b6b03054/",
+   "description": "",
+   "date": "2026-11-20T15:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Verkoopgolf op Wall Street houdt aan",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/verkoopgolf-op-wall-street-houdt-aan/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de belangrijkste indices donderdag al 2 procent inleverden. Ongeveer een halfuur voor de reguliere handel noteerden de futures op de S&P 500 1,0 procent lager en die op de Nasdaq 1,9 procent. De futures op de Dow Jones noteerden 0,4 procent lager.Het aandeel Anthropic …\nThe post Verkoopgolf op Wall Street houdt aan appeared first on Trends.be.",
+   "date": "2026-11-20T14:48:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple ontwikkelt autonome AI-agent om concurrentie met OpenAI en Google aan te gaan",
+   "link": "https://businessam.be/apple-ontwikkelt-eigen-ai-agent-om-de-concurrentie-met-openai-en-google-aan-te-gaan/",
+   "description": "Key takeaways Volgens Bloomberg News werkt Apple momenteel aan een autonome AI-assistent die namens gebruikers complexe taken kan uitvoeren. Met dit initiatief wil de techgigant de concurrentie aangaan op het snelgroeiende gebied van AI-agents. Aanwijzingen uit vacatures Aanwijzingen voor het project zijn te vinden in vacatures op de officiële carrièrepagina van Apple. Daarin zoekt het […]",
+   "date": "2026-11-20T14:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: rode koersen domineren",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-rode-koersen-domineren-3/",
+   "description": "(ABM FN) De Brusselse beurs is op weg naar een stevig weekverlies van 5 procent, met vrijdagmiddag een daling van 1,2 procent voor de sterindex.Een koersdaling vanmiddag van beursnieuweling Anthropic van meer dan 9 procent wakkert de onrust aan.In de sterindex noteerde alleen Aedifica hoger, met een winst van 0,9 procent. GBL en de indexzwaargewichten AB …\nThe post Beursupdate: rode koersen domineren appeared first on Trends.be.",
+   "date": "2026-11-20T13:58:56",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Signal blokkeert screenshotmogelijkheid in mobiele apps om AI-agents te weren",
+   "link": "https://tweakers.net/nieuws/254760/signal-blokkeert-screenshotmogelijkheid-in-mobiele-apps-om-ai-agents-te-weren.html",
+   "description": "Signal blokkeert de screenshotmogelijkheid voor iOS- en Android-gebruikers. Hiermee wil de versleuteldechatdienst voorkomen dat AI-agents met gesprekken kunnen meelezen. Op Windows-pc's blokkeert Signal screenshots al langer standaard.",
+   "date": "2026-11-20T13:41:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Deutsche Telekom jaagt soevereine AI aan met 100 miljoen voor Mistral",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83895/deutsche-telekom-jaagt-soevereine-ai-aan-met-100-miljoen-voor-mistral/",
+   "description": "Deutsche Telekom (DT) steekt via zijn investeringstak T.Capital Tech Fund 100 miljoen euro in het Franse Mistral AI. Het Duitse telecombedrijf noemt het de eerste stap richting een strategisch partnerschap, waarbij het dezelfde bewoording kiest als grootschalig investeerder ASML. Samen met Mistral wil DT de Duitse industrie en overheden van soevereine AI voorzien. De Franse […]",
+   "date": "2026-11-20T12:56:42",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen dalen vijfde dag op rij",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-dalen-vijfde-dag-op-rij/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden vrijdag rond het middaguur voor de vijfde dag op rij lager. Beleggers verkochten opnieuw AI-gerelateerde aandelen, omdat het vertrouwen in de toekomstige verdienmodellen van deze bedrijven verder afneemt.De breed samengestelde Stoxx Europe 600 stond 1,7 procent lager op 627,47 punten en koerst af op een weekverlies van circa 5,5 …\nThe post Europese beurzen dalen vijfde dag op rij appeared first on Trends.be.",
+   "date": "2026-11-20T12:13:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Signal gaat chats beschermen tegen AI-agents Apple en Google",
+   "link": "https://www.security.nl/posting/962436/Signal+gaat+chats+beschermen+tegen+AI-agents+Apple+en+Google?channel=rss",
+   "description": "Signal gaat chats van gebruikers beschermen tegen de AI-agents van Apple en Google, maar waarschuwt dat er meer nodig is om de ...",
+   "date": "2026-11-20T11:44:25",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Extreme waarschuwingen, extreme beurshausse: met grootste beursgang ooit haalde Anthropic veel geld op voor nog meer riskante activiteiten",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/bij-de-beursgang-van-anthropic-is-de-menselijke-uitsterving-een-risicoparagraaf-geworden-a4941821",
+   "description": "Te midden van bizar klinkende waarschuwingen over „existentieel risico” door oncontroleerbare kunstmatige intelligentie, ging AI-bedrijf Anthropic donderdag feestelijk naar de beurs. Om veel geld op te halen voor nog meer riskante activiteiten.",
+   "date": "2026-11-20T10:52:23",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic ziet waardering na sterke beursstart terugvallen tot onder 2 biljoen dollar",
+   "link": "https://businessam.be/anthropic-haalt-107-miljard-dollar-op-via-beursgang-te-midden-van-marktvolatiliteit/",
+   "description": "Key takeaways De beursgang van Anthropic werd gekenmerkt door extreme volatiliteit. Hoewel het aandeel donderdag zijn eerste handelsdag afsloot op 97,17 dollar – een stijging van 17 procent ten opzichte van de beursintroductieprijs van 83 dollar – verloor het aandeel aanzienlijk terrein na een vroege piek van 111,50 dollar. Door die aanvankelijke stijging liep de […]",
+   "date": "2026-11-20T10:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Apple werkt volgens offline gehaalde vacature aan zelfstandige AI-agent",
+   "link": "https://tweakers.net/nieuws/254752/apple-werkt-volgens-offline-gehaalde-vacature-aan-zelfstandige-ai-agent.html",
+   "description": "Apple meldt in een vacaturetekst dat het bedrijf werkt aan een eigen AI-agent. Die zou net als de agents van onder meer OpenAI en Anthropic zelfstandig de pc van de gebruiker kunnen bedienen en kunnen programmeren.",
+   "date": "2026-11-20T10:10:09",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De matrix | Copy, paste, datalek",
+   "link": "https://www.tijd.be/r/t/1/id/10705809",
+   "description": "Werknemers en ambtenaren die te maken krijgen met AI-tools die niet aan de norm voldoen, grijpen massaal naar clandestiene praktijken.",
+   "date": "2026-11-20T10:09:18",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beurzen wereldwijd hard onderuit ondanks recordbeursgang Anthropic",
+   "link": "https://www.ad.nl/economie/beurzen-wereldwijd-hard-onderuit-ondanks-recordbeursgang-anthropic~a82d93a8/",
+   "description": "De langverwachte recordbeursgang van het Amerikaanse AI-bedrijf Anthropic heeft niet voor het gehoopte herstel in de techsector gezorgd. De aanvankelijke koerswinst is gehalveerd en de beurzen in de VS, Azië en Europa duiken diep in het rood.",
+   "date": "2026-11-20T10:02:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Ja, het is tijd om in paniek te raken over AI’, zegt Rutger Bregman",
+   "link": "https://www.demorgen.be/meningen/ja-het-is-tijd-om-in-paniek-te-raken-over-ai-zegt-rutger-bregman~bedfb3f5/",
+   "description": "",
+   "date": "2026-11-20T10:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Advocate die AI-teksten citeerde mag twee jaar niet voor Europees hof pleiten",
+   "link": "https://www.tijd.be/r/t/1/id/10706319",
+   "description": "Het Europees Mensenrechtenhof heeft een Roemeense advocate geschorst omdat ze voor de rechters foutieve AI-teksten heeft gedeclameerd. De advocate spreekt van ‘citeerfouten’.",
+   "date": "2026-11-20T09:53:29",
+   "feeds": [
+    "De Tijd - Politiek Europa"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jeugdvriend van Dario Amodei, zijn zus en een journalist: deze 7 oprichters van Anthropic zijn op slag multimiljardair",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/20/wie-zijn-de-7-oprichters-van-anthropic/",
+   "description": "Ze verlieten OpenAI 6 jaar geleden en waarschuwen sindsdien voor ongecontroleerde AI-ontwikkeling. Maak kennis met de 'Anthropic 7': de 7 oprichters van het bedrijf achter chatbot Claude.",
+   "date": "2026-11-20T09:24:54",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Google stuurt AI-systemen de ruimte in met Blue Origin",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83890/google-stuurt-ai-systemen-de-ruimte-in-met-blue-origin/",
+   "description": "Google heeft Blue Origin gekozen voor de eerste heavy-lift lancering van Project Suncatcher. De New Glenn-raket moet in het eerste kwartaal van 2029 satellieten met TPU’s in een zonsynchrone baan brengen. Elke satelliet krijgt ongeveer de rekenkracht van een datacenterrack. De twee bedrijven hebben een overeenkomst voor lanceerdiensten gesloten. Het gaat om de eerste lancering […]",
+   "date": "2026-11-20T09:17:55",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech Podcast | De zin en onzin van cyberverzekeringen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-tech-podcast-de-zin-en-onzin-van-cyberverzekeringen/",
+   "description": "Het regent cyberaanvallen. Maar anders dan bij grote ondernemingen hebben de meeste Belgische kmo’s geen cyberverzekering. Hardnekkige vooroordelen blijken de boosdoener.\nThe post AI & Tech Podcast | De zin en onzin van cyberverzekeringen appeared first on Trends.be.",
+   "date": "2026-11-20T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hun vader was leerbewerker, ze maakten als broer en zus vaak ruzie, nu zijn ze steenrijk: wie zijn Dario en Daniela, oprichters van Anthropic?",
+   "link": "https://www.hln.be/economie/hun-vader-was-leerbewerker-ze-maakten-als-broer-en-zus-vaak-ruzie-nu-zijn-ze-steenrijk-wie-zijn-dario-en-daniela-oprichters-van-anthropic~a651a58a/",
+   "description": "Hun vader was een Italiaanse migrant die op jonge leeftijd stierf, hun moeder werkte aan renovatieprojecten voor bibliotheken. Ze maakten vaak ruzie en zij stal vaak zijn speelgoed. Nu staan Dario (43) en zijn zus Daniela (39) Amodei aan het hoofd van Anthropic, een bedrijf dat 1.500 miljard dollar waard is. Dit zijn de nieuwe keizers van Silicon Valley.",
+   "date": "2026-11-20T09:00:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic kan vertrouwen niet herstellen: beurzen in Azië hard onderuit door verkoopgolf in techsector",
+   "link": "https://www.hln.be/economie/anthropic-kan-vertrouwen-niet-herstellen-beurzen-in-azie-hard-onderuit-door-verkoopgolf-in-techsector~afb093bf/",
+   "description": "De beurzen in Azië zijn vrijdag overspoeld door een verkoopgolf in de techsector. Vooral de aandelenmarkten in Japan, Zuid-Korea en Taiwan, waar veel grote tech- en chipbedrijven zijn genoteerd, worden hard getroffen. Ook de Europese beurzen openden met verliezen.",
+   "date": "2026-11-20T07:55:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen kelderen door verkoopgolf in AI-aandelen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-kelderen-door-verkoopgolf-in-ai-aandelen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen stonden vrijdagochtend fors onder druk, waarbij vooral de aandelenmarkten in Zuid-Korea, Taiwan en Japan zware verliezen leden. Beleggers blijven massaal afscheid nemen van tech- en chipaandelen vanwege toenemende twijfels over de vooruitzichten voor kunstmatige intelligentie.De Zuid-Koreaanse KOSPI 50 en de Taiwanese TSEC Taiwan 50 verloren rond de klok van zeven …\nThe post Aziatische beurzen kelderen door verkoopgolf in AI-aandelen appeared first on Trends.be.",
+   "date": "2026-11-20T07:09:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat lezers schrijven over AI in de journalistiek, en wat ze vinden van AI in hun werk",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/wat-lezers-schrijven-over-ai-in-de-journalistiek-en-wat-ze-vinden-van-ai-in-hun-werk-a4941760",
+   "description": "Niet schrikken. Deze Broncode gaat over jullie. Onze lezers, die steeds vaker ook luisteraars en kijkers zijn. Die tijd en aandacht geven aan onze journalistiek. En die vaak slim zijn, veel weten en beleven, en ons soms van repliek dienen of extra informatie sturen. Zoals deze week, de laatste voor mijn pensioen.",
+   "date": "2026-11-20T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI versnelt opsporing van softwarefouten, maar haastige updates kunnen storingen veroorzaken",
+   "link": "https://businessam.be/ai-versnelt-opsporing-van-softwarefouten-maar-haastige-updates-kunnen-storingen-veroorzaken/",
+   "description": "Key takeaways Volgens sectorspecialisten houdt de recente golf van technische storingen mogelijk verband met de haast waarmee bedrijven softwareaanpassingen doorvoeren als reactie op beveiligingsbedreigingen die met behulp van AI worden opgespoord. Dat meldt Reuters. De storingen treffen onder meer het vervoer, de productiviteit op de werkvloer en de financiële dienstverlening. Amerikaanse regering ontkent verband tussen […]",
+   "date": "2026-11-20T06:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pangram is de nieuwe superheld van het web, maar is deze scherprechter van het geschreven woord wel te vertrouwen?",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/pangram-is-de-nieuwe-superheld-van-het-web-maar-is-deze-scherprechter-van-het-geschreven-woord-wel-te-vertrouwen-a4940630",
+   "description": "Het internet wordt overspoeld door zielloze teksten uit AI-generatoren. De enige die daar iets tegen lijkt te kunnen doen is Pangram. Maar hoe betrouwbaar is dat programma? En hoeveel vertrouwen we elkaar eigenlijk, als alles door een detector moet?",
+   "date": "2026-11-20T06:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Van zwakke groei naar 2 à 3 procent: hoe artificiële intelligentie onze economie zou kunnen redden",
    "link": "https://www.gva.be/economie/van-zwakke-groei-naar-2-a-3-procent-hoe-artificiele-intelligentie-onze-economie-zou-kunnen-redden/164827761.html",
@@ -476,6 +929,17 @@
    "date": "2026-11-19T20:56:42",
    "feeds": [
     "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Polysense wint Trends Impact Award voor Future-Defining Technologies",
+   "link": "https://trends.knack.be/ondernemen/polysense-wint-trends-impact-award-voor-future-defining-technologies/",
+   "description": "In de voedingssector is verspilling niet het gevolg van een gebrek aan wil, maar van een discrepantie tussen vaste productie-instellingen en grondstoffen die voortdurend variëren. De Gentse start-up Polysense pakt dat probleem aan met behulp van AI. \nThe post Polysense wint Trends Impact Award voor Future-Defining Technologies appeared first on Trends.be.",
+   "date": "2026-11-19T20:22:00",
+   "feeds": [
+    "Data News - Artikels"
    ],
    "first_seen": "2026-11-20",
    "intro_geprobeerd": false
