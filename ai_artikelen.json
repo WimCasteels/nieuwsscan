@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T19:57:12",
+ "generated": "2026-11-21T04:45:59",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 29,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 38,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 168,
+   "count": 172,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 92,
+   "count": 85,
    "error": null
   },
   {
@@ -315,6 +315,304 @@
   }
  ],
  "articles": [
+  {
+   "title": "Riemann-hypothese bewezen? Onderzoeker zegt met AI eeuwenoud wiskundig probleem te hebben opgelost",
+   "link": "https://www.demorgen.be/snelnieuws/riemann-hypothese-bewezen-onderzoeker-zegt-met-ai-eeuwenoud-wiskundig-probleem-te-hebben-opgelost~bbb4b88dd/",
+   "description": "",
+   "date": "2026-11-21T03:43:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Mijn vriend praat met Gemini maar niet met mij’: Dirk De Wachter adviseert een lezer",
+   "link": "https://www.demorgen.be/beter-leven/mijn-vriend-praat-met-gemini-maar-niet-met-mij-dirk-de-wachter-adviseert-een-lezer~ba8c295e/",
+   "description": "",
+   "date": "2026-11-21T03:00:48",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Amazon of Alphabet: wie is het  grootste geldmonster?",
+   "link": "https://www.standaard.be/economie/geld/amazon-of-alphabet-wie-is-het-grootste-geldmonster/164718599.html",
+   "description": "Alphabet is dankzij zoekmachine Google de keizer van de internetreclame en Amazon heerst over de online supermarkten. Allebei investeren ze honderden miljarden dollars in computercapaciteit voor artificiële intelligentie.",
+   "date": "2026-11-21T02:00:00",
+   "feeds": [
+    "De Standaard - Biz Mijn Geld",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van hartinfarct tot psychose: hoe symptomen van vrouwen nog te vaak gemist worden",
+   "link": "https://www.standaard.be/binnenland/van-hartinfarct-tot-psychose-hoe-symptomen-van-vrouwen-nog-te-vaak-gemist-worden/162702648.html",
+   "description": "Vrouwen krijgen nog altijd vaker laattijdige of foute diagnoses dan mannen. Van hartziekten over psychische aandoeningen tot endometriose: artsen herkennen symptomen minder snel, omdat medische kennis nog vaak gebaseerd is op data over mannen. “Ziekteprocessen kunnen echt verschillen”, zegt cardiologe Ghossein. “Als we die data nu niet verzamelen, verankert AI voorgoed een historische ongelijkheid.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Naomi Klein en Astra Taylor over eindtijdfascisme: “De fascisten van nu gokken op ondergang, ontwrichting, terugtrekking in bunkers”",
+   "link": "https://www.standaard.be/buitenland/naomi-klein-en-astra-taylor-over-eindtijdfascisme-de-fascisten-van-nu-gokken-op-ondergang-ontwrichting-terugtrekking-in-bunkers/164864395.html",
+   "description": "Apocalyptische dreiging, door klimaatrampen of door AI, is een voedingsbodem voor ‘eindtijdfascisme’, betogen auteurs en activisten Naomi Klein en Astra Taylor. Het tegengif: “Ons leven hier aanvaarden, op deze planeet, in onze lichamen, afhankelijk van elkaar.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie betaalt voor het nieuws dat AI voor ons leest?",
+   "link": "https://www.standaard.be/media-en-cultuur/wie-betaalt-voor-het-nieuws-dat-ai-voor-ons-leest/164680588.html",
+   "description": "Steeds meer AI-agenten bezoeken het internet en verstoren de manier waarop uitgevers en webshops aan inkomsten komen. Maar volgens Stephanie Cohen van Cloudflare raken sites en AI-bedrijven er samen wel uit. “Mensen verdwijnen niet van het internet.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat is de strafste Belgische AI-innovatie van 2026? U beslist mee",
+   "link": "https://www.standaard.be/economie/wat-is-de-strafste-belgische-ai-innovatie-van-2026-u-beslist-mee/164854475.html",
+   "description": "De Standaard ging op zoek naar Belgische start-ups die met AI een positieve impact hebben op hoe we leven en werken. Ontdek de zes laureaten en kies mee wie de AI-Opener van 2026 wordt.",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie is Anthropic-ceo Dario Amodei, en valt hij te vertrouwen? “Hij speelt met vuur”",
+   "link": "https://www.standaard.be/economie/bedrijven/wie-is-anthropic-ceo-dario-amodei-en-valt-hij-te-vertrouwen-hij-speelt-met-vuur/164845217.html",
+   "description": "Deze week gaf het internationaal kapitalisme royaal zijn zegen aan de wilde plannen van Anthropic-ceo Dario Amodei. Nooit eerder werd met een beursgang zoveel geld opgehaald. Maar dat doet ook vragen rijzen. Want wie is de man eigenlijk? Hoe werd hij zo’n profeet van de AI-revolutie? En valt hij te vertrouwen?",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Sneller bosbranden detecteren? Dat doet EDGX, de start-up die AI-computers in de ruimte heeft hangen",
+   "link": "https://www.standaard.be/economie/sneller-bosbranden-detecteren-dat-doet-edgx-de-start-up-die-ai-computers-in-de-ruimte-heeft-hangen/164788814.html",
+   "description": "Bij EDGX zijn de ambities astronomisch hoog. Het bouwt AI-computers voor satellieten, zodat data niet eerst naar de aarde moeten worden gestuurd, maar meteen verwerkt worden. “De vraag naar AI-computers op een satelliet is groot.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-start-up Nuclivision: “Dankzij onze technologie kun je nu ook goede PET-scans maken bij kinderen en zwangere vrouwen”",
+   "link": "https://www.standaard.be/economie/ai-start-up-nuclivision-dankzij-onze-technologie-kun-je-nu-ook-goede-pet-scans-maken-bij-kinderen-en-zwangere-vrouwen/164765545.html",
+   "description": "Nuclivision gebruikt AI om het korrelige beeld van een kortere PET-scan met een lagere dosis radioactieve stof om te zetten in haarscherpe beelden. Dat drukt niet alleen de kosten, maar levert ook gezondheidswinst op.",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Croptic laat boeren alleen spuiten op onkruid: “Met drones en beeldherkenning zullen we de AI-revolutie in de landbouw ontketenen”",
+   "link": "https://www.standaard.be/economie/croptic-laat-boeren-alleen-spuiten-op-onkruid-met-drones-en-beeldherkenning-zullen-we-de-ai-revolutie-in-de-landbouw-ontketenen/164743506.html",
+   "description": "AI is nog niet ingeburgerd in de landbouw, maar bedrijven als Croptic willen daar verandering in brengen. Met drones en beeldherkenning maakt de start-up landbouwmachines een pak slimmer.",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Start-up Sightera: “Hoe tof zou dat zijn, als we hier in België het eerste kankerpilletje met AI konden maken?”",
+   "link": "https://www.standaard.be/economie/start-up-sightera-hoe-tof-zou-dat-zijn-als-we-hier-in-belgie-het-eerste-kankerpilletje-met-ai-konden-maken/164695797.html",
+   "description": "Vier kameraden op een zetel in de Kempen: zo begon het biotechnologische bedrijf Sightera aan een zoektocht naar medicijnen tegen bijna onverslaanbare kankers. “Vroeger deed ik in het labo zelf robottenwerk, nu maakt AI baanbrekende geneesmiddelen mogelijk.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Minder mails en saai kantoorwerk? Start-up Tekst heeft de oplossing: “Zodat mensen werk kunnen doen dat ze graag doen”",
+   "link": "https://www.standaard.be/economie/minder-mails-en-saai-kantoorwerk-start-up-tekst-heeft-de-oplossing-zodat-mensen-werk-kunnen-doen-dat-ze-graag-doen/164658390.html",
+   "description": "Ze zijn nog maar 27 jaar, maar jeugdvrienden Wouter Janssen en Tiebe Parmentier hebben al een internationaal bedrijf van 60 werknemers uitgebouwd. Met hun software, die eentonig kantoorwerk automatiseert met AI-agenten, verkopen ze “technologie die ze in Silicon Valley niet hebben”.",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De grootste overdracht van rijkdom ooit",
+   "link": "https://www.standaard.be/opinies/de-grootste-overdracht-van-rijkdom-ooit/164867011.html",
+   "description": "De fenomenale waarde van Anthropic versnelt het besef dat AI zijn gigawinst haalt door mensen en hun lonen massaal te vervangen door datacentra. Hoeveel autonomie zijn we bereid uit handen te geven?",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hallucineren kan de mens nog altijd veel beter van AI",
+   "link": "https://www.standaard.be/opinies/hallucineren-kan-de-mens-nog-altijd-veel-beter-van-ai/164846894.html",
+   "description": "Als het om de instrumentele rede gaat, heeft de mens de strijd tegen AI verloren, schrijft Arnon Grunberg. Maar de ware strijd tussen AI en de mens gaat over hallucinaties en daar geeft hij ons goede kansen.",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ondanks recordbeursgang Anthropic raken techaandelen in vrije val, Nvidia krijgt nieuwe mokerslag",
+   "link": "https://www.standaard.be/economie/ondanks-recordbeursgang-anthropic-raken-techaandelen-in-vrije-val-nvidia-krijgt-nieuwe-mokerslag/164843433.html",
+   "description": "Technologieaandelen en beurzen gaan vrijdag hard onderuit. Een bericht dat de beurswaakhond de boekhoudpraktijken van Nvidia onderzoekt, gaf nog een extra mokerslag. “We zien een serieuze correctie.”",
+   "date": "2026-11-20T22:40:41",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-bedrijf Anthropic zakt ruim 9 procent op Wall Street na grootste beursgang ooit, Nvida verliest 14 procent",
+   "link": "https://www.demorgen.be/nieuws/ai-bedrijf-anthropic-zakt-ruim-9-procent-op-wall-street-na-grootste-beursgang-ooit-nvida-verliest-14-procent~b168fdfa/",
+   "description": "",
+   "date": "2026-11-20T22:20:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI-twijfels bij beleggers: aandeel Anthropic verliest dag na grootste beursgang ooit 8,5 procent",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/aitwijfels-bij-beleggers-aandeel-anthropic-verliest-dag-na-gro~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-20T22:13:20",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Beurswaakhond onderzoekt boekhoudpraktijken Nvidia’, aandeel 14 procent onderuit",
+   "link": "https://www.tijd.be/r/t/1/id/10706506",
+   "description": "Net nu Nvidia in zijn grootste bestuurscrisis in 33 jaar zit, verschijnt er een bericht over de boekhoudpraktijken van de chipontwerper.",
+   "date": "2026-11-20T22:05:09",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met een zwerm AI-agents slaan hackers razendsnel hun slag",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/met-een-zwerm-ai-agents-slaan-hackers-razendsnel-hun-slag~b0005f03/",
+   "description": "",
+   "date": "2026-11-20T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bekijk – Hans Bourlon blikt terug op 30 jaar Studio 100: ‘Soms denk ik: ik zit in een droom’",
+   "link": "https://trends.knack.be/ondernemen/bekijk-hans-bourlon-blikt-terug-op-30-jaar-studio-100-soms-denk-ik-ik-zit-in-een-droom/",
+   "description": "Studio 100 bestaat 30 jaar. Medeoprichter Hans Bourlon blikt terug op de beginjaren en vertelt onder meer hoe Studio 100 vandaag met AI aan de slag gaat.\n\nThe post Bekijk – Hans Bourlon blikt terug op 30 jaar Studio 100: ‘Soms denk ik: ik zit in een droom’ appeared first on Trends.be.",
+   "date": "2026-11-20T21:29:45",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump roept Nvidia op om Jensen Huang nog een “tweede kans” te geven",
+   "link": "https://www.knack.be/nieuws/wereld/live/amerikaanse-verkiezingen-2024/trump-roept-nvidia-op-om-jensen-huang-nog-een-tweede-kans-te-geven-1391035/",
+   "description": "Volg hier alles over de Verenigde Staten en hun 47e president Donald Trump.\nThe post Trump roept Nvidia op om Jensen Huang nog een “tweede kans” te geven appeared first on Knack.",
+   "date": "2026-11-20T21:08:09",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Artiesten keren Etsy de rug toe nu het platform AI-modellen gaat trainen",
+   "link": "https://tweakers.net/nieuws/254790/artiesten-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html",
+   "description": "Veel contentmakers keren Etsy de rug toe omdat het artiestenplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten AI-content op het platform aan te pakken.",
+   "date": "2026-11-20T21:07:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Net nu Anthropic-koers daalt, zou Claude fundamentele wiskundetheorie bewijzen",
+   "link": "https://tweakers.net/geek/254788/net-nu-anthropic-koers-daalt-zou-claude-fundamentele-wiskundetheorie-bewijzen.html",
+   "description": "Een ingenieur beweert dat Claude de Riemann-hypothese heeft bewezen, een belangrijke theorie over priemgetallen die de basis is van honderden andere wiskundige stellingen. Die claim moet met een korrel zout worden genomen, want de ontdekker heeft geen definitief bewijs geleverd én komt precies met de doorbraak op het moment dat de beurskoers van Anthropic minder hoog lijkt dan gedacht.",
+   "date": "2026-11-20T20:46:32",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wiskundige levert met Claude het bewijs voor de Riemann-hypothese: “Meer dan 250.000 pagina’s, ik heb me geamuseerd”",
+   "link": "https://www.standaard.be/binnenland/wiskundige-levert-met-claude-het-bewijs-voor-de-riemann-hypothese-meer-dan-250.000-paginas-ik-heb-me-geamuseerd/164884546.html",
+   "description": "Een dag na de beursgang van Anthropic beweert een wiskundige van datzelfde bedrijf een van de moeilijkste wiskundige problemen opgelost te hebben. “Het is wel een troost dat er nog een mens bij betrokken was.”",
+   "date": "2026-11-20T20:06:48",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van romcom naar dotcom: acteur Ashton Kutcher wordt miljardair dankzij beursgang van Anthropic",
+   "link": "https://www.standaard.be/economie/van-romcom-naar-dotcom-acteur-ashton-kutcher-wordt-miljardair-dankzij-beursgang-van-anthropic/164838987.html",
+   "description": "De beursintroductie van Anthropic heeft een nieuwe generatie superrijken voortgebracht. Een van de opvallendste namen is acteur Ashton Kutcher, bekend van That 70s show en heel wat romcoms.",
+   "date": "2026-11-20T19:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De AI-sector wankelt, de 'Belgische techparel' EVS bezwijkt",
+   "link": "https://www.tijd.be/r/t/1/id/10706223",
+   "description": "Zelfs de ijzersterke resultaten bij Nvidia en het laaiende beursdebuut van Anthropic konden de 'AI-trade' op de beurzen geen nieuw leven inblazen. Op de Brusselse beurs lijkt EVS, dat niet zo lang geleden nog werd beschouwd als een van die zeldzame Belgische techparels, het noorden al helemaal kwijt.",
+   "date": "2026-11-20T19:43:25",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
   {
    "title": "5 favoriete aandelen van Shane Kelly: 'De verkoopgolf in dit aandeel als vermeende AI-verliezer is onterecht'",
    "link": "https://www.tijd.be/r/t/1/id/10705870",
@@ -578,6 +876,17 @@
     "Data News - Artikels"
    ],
    "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI bedreigt de wetenschap, onafhankelijk en kritisch denken is straks weg",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/ai-bedreigt-de-wetenschap-onafhankelijk-en-kritisch-denken-is-straks-weg-a4941498",
+   "description": "Individuele wetenschappers staan bijna machteloos tegenover het AI-gevaar voor de wetenschappelijke uitgangspunten, schrijven Leo Lucassen en Jan Lucassen.",
+   "date": "2026-11-20T12:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-21",
    "intro_geprobeerd": false
   },
   {
