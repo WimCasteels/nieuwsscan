@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T04:45:59",
+ "generated": "2026-11-21T18:52:09",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 27,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 38,
+   "count": 34,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 172,
+   "count": 161,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 85,
+   "count": 88,
    "error": null
   },
   {
@@ -316,6 +316,128 @@
  ],
  "articles": [
   {
+   "title": "Anthropic-onderzoeker claimt doorbraak bij beruchtste wiskunderaadsel ter wereld",
+   "link": "https://www.tijd.be/r/t/1/id/10706519",
+   "description": "Een wiskundige in dienst van AI-bedrijf Anthropic claimt met de Riemann-hypothese een van de grootste en meest prestigieuze problemen uit de wiskundegeschiedenis te hebben opgelost. Indien bewezen, betekent dit opnieuw een historische mijlpaal.",
+   "date": "2026-11-21T17:21:47",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hij moet de AI-race winnen om de wereld te redden: de CEO die doodsbang is van het ding dat hij zélf aan het maken is",
+   "link": "https://www.hln.be/buitenland/hij-moet-de-ai-race-winnen-om-de-wereld-te-redden-de-ceo-die-doodsbang-is-van-het-ding-dat-hij-zelf-aan-het-maken-is~a54a43d6/",
+   "description": "Anthropic heeft donderdag ruim 107 miljard dollar opgehaald: de grootste beursintroductie ooit. Maar daarachter schuilt een opmerkelijk verhaal. CEO Dario Amodei (43) is namelijk doodsbang voor het ding dat hij zelf aan het maken is. Maar het alternatief – dat bedrijven als OpenAI of Google de AI-race winnen – betekent volgens hem het einde van de wereld. En dus móét hij winnen.",
+   "date": "2026-11-21T16:00:00",
+   "feeds": [
+    "HLN - Economie",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-uitverkoop doet Nasdaq alle winst van 2026 verliezen",
+   "link": "https://businessam.be/ai-uitverkoop-doet-nasdaq-alle-winst-van-2026-verliezen/",
+   "description": "Key takeaways Een enorme verkoopgolf in de sector van de artificiële intelligentie (AI) heeft alle winst die in 2026 op de Nasdaq was geboekt tenietgedaan. Bij het sluiten van de beurs op vrijdag was de technologiegerichte index met 5 procent gekelderd ten opzichte van de waardering op 1 januari. In de loop van de week […]",
+   "date": "2026-11-21T13:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Datacenterbouw kost Meta zijn klimaatdoel voor 2030: 'tijdlijn heroverwegen'",
+   "link": "https://tweakers.net/nieuws/254798/datacenterbouw-kost-meta-zijn-klimaatdoel-voor-2030-tijdlijn-heroverwegen.html",
+   "description": "Meta gaat zijn eigen klimaatdoelen waarschijnlijk niet halen vanwege de ontwikkelingen in de AI-sector. Daarom gaat het bedrijf zijn 'tijdlijn heroverwegen'. Het doel was om in 2030 klimaatneutraal te zijn, maar vermoedelijk wordt het doel opgeschoven naar een later jaar. Google, Amazon en Microsoft hebben vergelijkbare doelen die vooralsnog onveranderd zijn.",
+   "date": "2026-11-21T12:20:49",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 hard onderuit terwijl AI-correctie voortduurt",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-hard-onderuit-terwijl-ai-correctie-voortduurt/",
+   "description": "(ABM FN) De Brusselse beurs is afgelopen week stevig gedaald en nam daarmee afscheid van zijn recente recordreeks, terwijl de AI-correctie een vervolg kreeg in een beursweek die in het teken stond van de kwartaalcijfers van het geplaagde Nvidia en het beursdebuut van Anthropic.De Bel20 sloot vrijdag net onder de 5.800 punten af. Vorige week was …\nThe post Bel20 hard onderuit terwijl AI-correctie voortduurt appeared first on Trends.be.",
+   "date": "2026-11-21T11:13:13",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hotfix voor Nvidia-driver moet onnodig data naar ssd schrijven verhelpen",
+   "link": "https://tweakers.net/nieuws/254796/hotfix-voor-nvidia-driver-moet-onnodig-data-naar-ssd-schrijven-verhelpen.html",
+   "description": "Nvidia brengt GeForce Hotfix Driver 621.35 uit om een recente bug te verhelpen waarbij de driver op de achtergrond onnodig tot tientallen gigabytes per uur naar ssd's schreef. Eerder hadden AMD-drivers een vergelijkbaar probleem.",
+   "date": "2026-11-21T10:49:55",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Software-update - Calibre 9.19",
+   "link": "https://tweakers.net/downloads/79142/calibre-919.html",
+   "description": "Versie 9.19 van Calibre is uitgekomen. Calibre is een open source e-bookbeheerprogramma dat haast onmisbaar is voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 9 is onder meer een boekenplank toegevoegd, wat een nieuwe manier is om alle boeken te tonen. Ook zijn er enkele optionele AI-functies toegevoegd, die bijvoorbeeld een suggestie kunnen doen welk volgend boek je moet lezen of vragen over de inhoud van een boek kunnen beantwoorden. De changelog voor deze uitgave kan hieronder worden gevonden. New features",
+   "date": "2026-11-21T10:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Trump viseert Amerikaanse bedrijven die AI-datacenters in het buitenland bouwen • Grote tekortkomingen bij opleiding ICE-agenten",
+   "link": "https://www.demorgen.be/snelnieuws/live-grote-tekortkomingen-bij-opleiding-ice-agenten~b13cc951/",
+   "description": "",
+   "date": "2026-11-21T09:05:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Bloomberg: Apple werkt aan zelfstandige AI-agent",
+   "link": "https://www.hln.be/tech/bloomberg-apple-werkt-aan-zelfstandige-ai-agent~a6572de1/",
+   "description": "Apple meldde in een vacaturetekst dat het aan een eigen AI-agent werkt. Die zou, net als de agents van OpenAI en Anthropic, zelfstandig de pc van de gebruiker kunnen bedienen en ook kunnen programmeren.",
+   "date": "2026-11-21T09:00:48",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe beeld van heuvelrug locatie van viering voor Hitler prijsgaf aan VRT NWS Pano",
+   "link": "https://vrtnws.be/p.ZWKonJxNB",
+   "description": "Gezichtsherkenning op basis van beelden op sociale media, contacten via Snapchat en een fysieke check op trainingslocaties: zo heeft VRT NWS Pano de identiteit van leden van Active Club Vlaanderen kunnen achterhalen. Om de locatie van een viering van Wolvenrad voor Hitler te achterhalen, gebruikten de makers chatbot Claude. Die kon op basis van een beeld van een heuvelrug achterhalen waar dat event zou plaatsvinden.",
+   "date": "2026-11-21T06:26:00",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na 167 jaar velt AI het oordeel: de wiskundige Riemann had gelijk",
+   "link": "https://www.trouw.nl/buitenland/na-167-jaar-velt-ai-het-oordeel-de-wiskundige-riemann-had-gelijk~b56ae5aa/",
+   "description": "",
+   "date": "2026-11-21T05:23:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Riemann-hypothese bewezen? Onderzoeker zegt met AI eeuwenoud wiskundig probleem te hebben opgelost",
    "link": "https://www.demorgen.be/snelnieuws/riemann-hypothese-bewezen-onderzoeker-zegt-met-ai-eeuwenoud-wiskundig-probleem-te-hebben-opgelost~bbb4b88dd/",
    "description": "",
@@ -331,6 +453,17 @@
    "link": "https://www.demorgen.be/beter-leven/mijn-vriend-praat-met-gemini-maar-niet-met-mij-dirk-de-wachter-adviseert-een-lezer~ba8c295e/",
    "description": "",
    "date": "2026-11-21T03:00:48",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Ik begrijp ook dat het vertrouwen enigszins geschaad is’: Dirk De Wachter over een partner die liever met Gemini praat",
+   "link": "https://www.demorgen.be/beter-leven/ik-begrijp-ook-dat-het-vertrouwen-enigszins-geschaad-is-dirk-de-wachter-over-een-partner-die-liever-met-gemini-praat~ba8c295e/",
+   "description": "",
+   "date": "2026-11-21T03:00:00",
    "feeds": [
     "De Morgen - Beter Leven"
    ],
@@ -482,6 +615,39 @@
    "intro_geprobeerd": false
   },
   {
+   "title": "Van hartinfarct tot psychose: symptomen van vrouwen worden nog te vaak gemist",
+   "link": "https://www.standaard.be/binnenland/van-hartinfarct-tot-psychose-symptomen-van-vrouwen-worden-nog-te-vaak-gemist/162702648.html",
+   "description": "Vrouwen krijgen nog altijd vaker laattijdige of foute diagnoses dan mannen. Van hartziekten over psychische aandoeningen tot endometriose: artsen herkennen symptomen minder snel, omdat medische kennis nog vaak gebaseerd is op data over mannen. “Ziekteprocessen kunnen echt verschillen”, zegt cardiologe Ghossein. “Als we die data nu niet verzamelen, verankert AI voorgoed een historische ongelijkheid.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Naomi Klein en Astra Taylor: “De fascisten van nu gokken op de ondergang en zijn volledig gericht op het overleven van een selecte groep”",
+   "link": "https://www.standaard.be/buitenland/naomi-klein-en-astra-taylor-de-fascisten-van-nu-gokken-op-de-ondergang-en-zijn-volledig-gericht-op-het-overleven-van-een-selecte-groep/164864395.html",
+   "description": "Apocalyptische dreiging, door klimaatrampen of door AI, is een voedingsbodem voor ‘eindtijdfascisme’, betogen auteurs en activisten Naomi Klein en Astra Taylor. Het tegengif: “Ons leven hier aanvaarden, op deze planeet, in onze lichamen, afhankelijk van elkaar.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hallucineren kan de mens nog altijd veel beter dan AI",
+   "link": "https://www.standaard.be/opinies/hallucineren-kan-de-mens-nog-altijd-veel-beter-dan-ai/164846894.html",
+   "description": "Als het om de instrumentele rede gaat, heeft de mens de strijd tegen AI verloren, schrijft Arnon Grunberg. Maar de ware strijd tussen AI en de mens gaat over hallucinaties en daar geeft hij ons goede kansen.",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Ondanks recordbeursgang Anthropic raken techaandelen in vrije val, Nvidia krijgt nieuwe mokerslag",
    "link": "https://www.standaard.be/economie/ondanks-recordbeursgang-anthropic-raken-techaandelen-in-vrije-val-nvidia-krijgt-nieuwe-mokerslag/164843433.html",
    "description": "Technologieaandelen en beurzen gaan vrijdag hard onderuit. Een bericht dat de beurswaakhond de boekhoudpraktijken van Nvidia onderzoekt, gaf nog een extra mokerslag. “We zien een serieuze correctie.”",
@@ -528,6 +694,17 @@
   {
    "title": "Met een zwerm AI-agents slaan hackers razendsnel hun slag",
    "link": "https://www.trouw.nl/duurzaamheid-economie/met-een-zwerm-ai-agents-slaan-hackers-razendsnel-hun-slag~b0005f03/",
+   "description": "",
+   "date": "2026-11-20T22:00:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-21",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ontsnappen aan AI? Michael Royall probeerde het twee dagen lang",
+   "link": "https://www.trouw.nl/tijdgeest/ontsnappen-aan-ai-michael-royall-probeerde-het-twee-dagen-lang~b450ef52/",
    "description": "",
    "date": "2026-11-20T22:00:00",
    "feeds": [
@@ -743,6 +920,17 @@
     "De Standaard - Cultuur"
    ],
    "first_seen": "2026-11-20",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wij worden nu de uitvoerders van het algoritme. En dan verliezen we alles’, zegt deze socioloog",
+   "link": "https://www.nrc.nl/nieuws/2026/11/20/wij-worden-nu-de-uitvoerders-van-het-algoritme-en-dan-verliezen-we-alles-a4940316",
+   "description": "Er zijn ook ándere AI-toekomsten mogelijk dan die in Silicon Valley worden geschetst. AI-agents handelen en beoordelen steeds meer in onze naam, maar socioloog Hartmut Rosa ziet mogelijkheden om onze handelingsruimte terug te claimen. „Tot nu toe waren wij de agents. Met AI draaien we dat om.”",
+   "date": "2026-11-20T16:18:02",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-21",
    "intro_geprobeerd": false
   },
   {
