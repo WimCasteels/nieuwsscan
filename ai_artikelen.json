@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T18:52:09",
+ "generated": "2026-11-22T03:50:07",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 160,
    "error": null
   },
   {
@@ -315,6 +315,17 @@
   }
  ],
  "articles": [
+  {
+   "title": "Wiskundige doorbraak met AI zorgt voor kritiek: 'Oplossen is niet het doel'",
+   "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.html",
+   "description": "Met het bewijzen van de Riemann-hypothese door een wiskundige met behulp van Claude is er opnieuw een groot wiskundig vraagstuk mogelijk opgelost door een AI-model. Het gebruik van AI bij wiskunde zal niet meer verdwijnen, maar wiskundigen vrezen dat berekeningen straks niet meer worden begrepen.",
+   "date": "2026-11-21T20:07:19",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-22",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Anthropic-onderzoeker claimt doorbraak bij beruchtste wiskunderaadsel ter wereld",
    "link": "https://www.tijd.be/r/t/1/id/10706519",
@@ -465,7 +476,8 @@
    "description": "",
    "date": "2026-11-21T03:00:00",
    "feeds": [
-    "De Morgen - Beter Leven"
+    "De Morgen - Beter Leven",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-11-21",
    "intro_geprobeerd": true
