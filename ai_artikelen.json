@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T04:31:11",
+ "generated": "2026-11-23T23:26:34",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 37,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 156,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 21,
+   "count": 22,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 93,
    "error": null
   },
   {
@@ -316,6 +316,767 @@
  ],
  "articles": [
   {
+   "title": "Techbeurs Nasdaq beleeft beste dag in 1,5 jaar na terugkeer Huang, topman onder luid applaus onthaald bij Nvidia",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/techbeurs-nasdaq-beleeft-beste-dag-in-15-jaar-na-terugkeer-huan~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-23T22:51:27",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "'Google Zoeken'-knop moet plaatsmaken voor AI-functies in zoekmachine",
+   "link": "https://www.hln.be/tech/google-zoeken-knop-moet-plaatsmaken-voor-ai-functies-in-zoekmachine~ab590dfb6/",
+   "description": "Google haalt de knop ‘Google Zoeken’ weg van de startpagina van zijn zoekmachine op pc's. In de plaats daarvan krijgen gebruikers drie knoppen voor AI-functies te zien. De wijziging is nog niet voor alle gebruikers toegepast.",
+   "date": "2026-11-23T22:14:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Huangtastische’ dag op Wall Street: Nasdaq boekt grootste dagwinst in anderhalf jaar",
+   "link": "https://www.tijd.be/r/t/1/id/10706670",
+   "description": "De onverwacht snelle terugkeer van Jensen Huang als topman van Nvidia stemde beleggers euforisch. Samen met Huang maakte ook de AI-trade een comeback op Wall Street. Die was de voorbije weken flink aan het wankelen gegaan.",
+   "date": "2026-11-23T22:08:51",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tesla werkt aan 'GTA'-achtige visualisatie voor wanneer de auto zelf rijdt",
+   "link": "https://www.hln.be/tech/tesla-werkt-aan-gta-achtige-visualisatie-voor-wanneer-de-auto-zelf-rijdt~a3fbed92/",
+   "description": "Tesla brengt in de Verenigde Staten versie 15 van Full Self-Driving uit. Daarbij geeft het autoscherm de rit realistischer weer, met een AI-gebaseerde visualisatie die online met de ‘Grand Theft Auto’-games wordt vergeleken.",
+   "date": "2026-11-23T21:29:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VN-baas Antonio Guterres pleit voor onafhankelijk toezicht op AI-risico’s",
+   "link": "https://www.demorgen.be/tech-ai/vn-baas-antonio-guterres-pleit-voor-onafhankelijk-toezicht-op-ai-risico-s~bae97b0b/",
+   "description": "",
+   "date": "2026-11-23T21:22:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Trump verdedigt terugkeer van Jensen Huang als CEO van Nvidia ondanks lopende onderzoeken",
+   "link": "https://businessam.be/jensen-huang-van-nvidia-weer-aangesteld-als-ceo-te-midden-van-handelsonderzoeken/",
+   "description": "Key takeaways Nadat de raad van bestuur van Nvidia maandag besloot Jensen Huang opnieuw aan te stellen als CEO, verklaarde president Donald Trump op Truth Social dat er geen bewijs is dat de topman wetten heeft overtreden. Trump merkte op dat de minister van Justitie deze bevinding bevestigde en stelde dat de herbenoeming van Huang […]",
+   "date": "2026-11-23T21:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon koopt bedrijf Decart achter AI-modellen voor realtimesimulatie",
+   "link": "https://tweakers.net/nieuws/254856/amazon-koopt-bedrijf-decart-achter-ai-modellen-voor-realtimesimulatie.html",
+   "description": "Amazon koopt de Israëlische start-up Decart. Het bedrijf maakt AI-modellen voor realtimesimulaties en moet Amazon-klanten helpen bij AI-prestaties en het trainen van modellen. Het is onbekend wat Amazon voor Decart heeft betaald, al gaat het volgens bronnen van Bloomberg om 7,5 miljard dollar.",
+   "date": "2026-11-23T20:28:08",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Too big to fail: hoe Jensen Huang weer in het zadel werd gehesen bij Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10706663",
+   "description": "Nog geen week geleden wilde de raad van bestuur van de chipmaker Nvidia het zelfs niet hebben over een mogelijke comeback van oprichter Jensen Huang als CEO. Maar stijgende nervositeit over de sector en politieke druk van op het allerhoogste niveau deden het tij keren.",
+   "date": "2026-11-23T20:15:38",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe big tech en Trump de terugkeer van Jensen Huang forceerden",
+   "link": "https://www.standaard.be/economie/hoe-big-tech-en-trump-de-terugkeer-van-jensen-huang-forceerden/164986184.html",
+   "description": "Nog geen week nadat de raad van bestuur een terugkeer formeel had uitgesloten, staat Jensen Huang opnieuw aan het hoofd van Nvidia. De druk van beleggers, de AI-wereld en vooral Donald Trump werd simpelweg te groot. Die laatste lijkt wel heel snel te concluderen dat er niets aan de hand is.",
+   "date": "2026-11-23T19:55:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Terugkeer van Huang bij Nvidia opent vat vol risico’s",
+   "link": "https://www.tijd.be/r/t/1/id/10706677",
+   "description": "De terugkeer van Jensen Huang als CEO van Nvidia doet beleggers juichen, maar opent op termijn een vat vol juridische en ethische risico’s.",
+   "date": "2026-11-23T19:44:45",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Terugkeer van CEO geeft Nvidia 1.000 miljard dollar meerwaarde: waarom Amerikaanse techmiljardairs zich niet alleen onaantastbaar voelen, maar het ook zijn",
+   "link": "https://www.gva.be/economie/terugkeer-van-ceo-geeft-nvidia-1.000-miljard-dollar-meerwaarde-waarom-amerikaanse-techmiljardairs-zich-niet-alleen-onaantastbaar-voelen-maar-het-ook-zijn/164997855.html",
+   "description": "De onmiddellijke terugkeer van Jensen Huang als CEO van Nvidia heeft de beurswaarde van het bedrijf met bijna 1.000 miljard dollar doen stijgen. Hoe is het mogelijk dat één man daar in zijn uppie in slaagt?",
+   "date": "2026-11-23T19:42:39",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoofd van Meta’s AI-afdeling waarschuwt dat mensen de controle over superintelligente AI dreigen te verliezen",
+   "link": "https://businessam.be/hoofd-van-metas-ai-afdeling-waarschuwt-dat-mensen-de-controle-over-superintelligente-ai-dreigen-te-verliezen/",
+   "description": "Key takeaways Alexandr Wang, hoofd van Superintelligence Labs en Chief AI Officer bij Meta, betoogde onlangs in een essay op sociale media dat de komst van superintelligentie geen verre mogelijkheid meer is, maar een onmiddellijke realiteit. Zijn bezorgdheid werd aangewakkerd door een recente doorbraak in de wiskunde, waarbij Levent Alpöge gebruikmaakte van Claude van Anthropic […]",
+   "date": "2026-11-23T19:14:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zonder Huang liep de AI-zeepbel steeds verder leeg, dus maakte Trump een spectaculaire comeback mogelijk",
+   "link": "https://www.nrc.nl/nieuws/2026/11/23/zonder-huang-liep-de-ai-zeepbel-steeds-verder-leeg-en-dus-maakte-trump-een-spectaculaire-comeback-mogelijk-a4942115",
+   "description": "Na het vertrek van Jensen Huang als topman van Nvidia werd pijnlijk duidelijk hoe afhankelijk het bedrijf was van zijn oprichter, en hoe afhankelijk de Amerikaanse aandelenmarkt was van Nvidia. Na een noodgreep van Donald Trump is zijn favoriete topman terug.",
+   "date": "2026-11-23T19:01:49",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen herstellen met hulp van Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-herstellen-met-hulp-van-nvidia/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn maandag flink hoger geëindigd, na een stevig verlies vorige week. Het nieuws dat Jensen Huang terugkeert als CEO bij Nvidia gaf een duidelijke positieve impuls tijdens de middagsessie.De Stoxx Europe 600 sloot uiteindelijk 1,8 procent hoger op 636,97 punten. De Duitse DAX sloot 2,2 procent in de plus op …\nThe post Europese beurzen herstellen met hulp van Nvidia appeared first on Trends.be.",
+   "date": "2026-11-23T18:33:02",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse politici boos over terugkeer NVIDIA-topman Huang",
+   "link": "https://www.nu.nl/economie/6417543/amerikaanse-politici-boos-over-terugkeer-nvidia-topman-huang.html",
+   "description": "De terugkeer van Jensen Huang als topman van chipbedrijf NVIDIA valt slecht bij Amerikaanse politici. Zowel Democraten als Republikeinen vinden dat er nog te veel vragen openstaan over zijn banden met een vrouw die wordt verdacht van spionage voor China.",
+   "date": "2026-11-23T18:20:04",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-boom dwingt Armenië tot energiesamenwerking met Turkije en Azerbeidzjan",
+   "link": "https://businessam.be/ai-boom-dwingt-armenie-tot-energiesamenwerking-met-turkije-en-azerbeidzjan/",
+   "description": "Key takeaways Om zijn groeiende positie in de sector van de artificiële intelligentie te behouden en verder uit te bouwen, streeft Armenië naar een strategische uitbreiding van zijn energie-infrastructuur. Daarbij behoren ook nieuwe elektriciteitsverbindingen met Turkije en Azerbeidzjan tot de plannen. ‘Crossroads of Peace’-initiatief Tijdens het evenement DigiTec 2026 in Jerevan kondigde premier Nikol Pashinyan […]",
+   "date": "2026-11-23T18:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia haalt topman Jensen Huang terug na aanhoudende druk van Donald Trump",
+   "link": "https://www.demorgen.be/nieuws/nvidia-haalt-topman-jensen-huang-terug-na-aanhoudende-druk-van-donald-trump~ba8357f8/",
+   "description": "",
+   "date": "2026-11-23T18:00:44",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Herstel in Brussel met Melexis en Umicore voorop",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/herstel-in-brussel-met-melexis-en-umicore-voorop/",
+   "description": "(ABM FN) De Brusselse beurs is maandag in het groen geëindigd, na een stevig verlies vorige week. Het nieuws dat Jensen Huang terugkeert als CEO bij Nvidia gaf de stemming een extra impuls tijdens de middagsessie.De Bel20 sloot uiteindelijk 1,6 procent in de plus op circa 5.888 punten. De sterindex zakte vorige week nog onder de …\nThe post Herstel in Brussel met Melexis en Umicore voorop appeared first on Trends.be.",
+   "date": "2026-11-23T17:57:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De AI-man om wie niemand heen kan",
+   "link": "https://www.tijd.be/r/t/1/id/10706652",
+   "description": "Hij heeft de steun van de Amerikaanse president Donald Trump, van zijn raad van bestuur en van de wereldwijde beurzen. Maar Jensen Huang maakt zijn comeback aan het roer van Nvidia als een kwetsbare man.",
+   "date": "2026-11-23T17:49:39",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump claimt sleutelrol bij terugkeer Nvidia-topman Jensen Huang na affaires: ‘Ik heb het bestuur overtuigd. Ik doe dit voor het land’",
+   "link": "https://www.demorgen.be/nieuws/trump-claimt-sleutelrol-bij-terugkeer-nvidia-topman-jensen-huang-na-affaires-ik-heb-het-bestuur-overtuigd-ik-doe-dit-voor-het-land~bda38b7b/",
+   "description": "",
+   "date": "2026-11-23T17:47:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "VS beperken verkoop van TSMC- en Samsung-chips aan Chinese bedrijven",
+   "link": "https://tweakers.net/nieuws/254846/vs-beperken-verkoop-van-tsmc-en-samsung-chips-aan-chinese-bedrijven.html",
+   "description": "De regering-Trump beperkt leveringen van bepaalde chips aan Chinese bedrijven. Het gaat om chips gemaakt op een productieproces onder de 16nm. Fabrikanten als TSMC en Samsung mogen die niet meer zelf goedkeuren voor export. Dit raakt ook smartphonemakers als OPPO, vivo en Xiaomi.",
+   "date": "2026-11-23T17:01:28",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - Waarom Jensen Huang nu terugkeert als ceo van Nvidia",
+   "link": "https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html",
+   "description": "Jensen Huang keert na bijna twee weken terug als ceo van Nvidia. Waarom gebeurt dat juist nu?",
+   "date": "2026-11-23T17:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump feliciteert wereld met terugkeer Nvidia-topman",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/trump-feliciteert-wereld-met-terugkeer-nvidia-topman/",
+   "description": "(ABM FN-Dow Jones) Volgens de Amerikaanse president Donald Trump heeft Nvidia de \"correcte en gepaste\" beslissing genomen om Jensen Huang weer aan te stellen als CEO. Dat stelde de president maandag op Truth Social.\"Het land heeft het leiderschap van Jensen bij Nvidia nodig om het succes en de welvaart, niet alleen van het bedrijf, maar ook …\nThe post Trump feliciteert wereld met terugkeer Nvidia-topman appeared first on Trends.be.",
+   "date": "2026-11-23T16:37:04",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Juiste en eerlijke beslissing”: Trump prijst terugkeer van Jensen Huang als topman Nvidia, aandeel wint meer dan 1.000 miljard dollar aan beurswaarde terug",
+   "link": "https://www.gva.be/buitenland/juiste-en-eerlijke-beslissing-trump-prijst-terugkeer-van-jensen-huang-als-topman-nvidia-aandeel-wint-meer-dan-1.000-miljard-dollar-aan-beurswaarde-terug/164975689.html",
+   "description": "De Amerikaanse president Donald Trump is verheugd over de terugkeer van Jensen Huang als topman van chipproducent Nvidia. Volgens Trump heeft de raad van bestuur de “juiste en eerlijke beslissing” genomen door de oprichter, die eerder moest vertrekken vanwege een affaire met een vermeende Chinese spionne, in ere te herstellen. Het aandeel van Nvidia noteert omstreeks 16.30 uur een winst van zowat 36 procent.",
+   "date": "2026-11-23T16:34:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia haalt topman Jensen Huang terug na aanhoudende druk van Donald Trump",
+   "link": "https://www.volkskrant.nl/tech/nvidia-haalt-topman-jensen-huang-terug-na-aanhoudende-druk-van-donald-trump~ba8357f8/",
+   "description": "",
+   "date": "2026-11-23T16:34:00",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hou op met AI te vermenselijken",
+   "link": "https://www.tijd.be/r/t/1/id/10706648",
+   "description": "Doordat AI-systemen zich menselijk voordoen, wordt het almaar moeilijker discussies over artificiële intelligentie onbevangen te voeren.",
+   "date": "2026-11-23T16:33:45",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De onverwachte terugkeer van Jensen Huang bij Nvidia",
+   "link": "https://www.nrc.nl/nieuws/2026/11/23/de-onverwachte-terugkeer-van-jensen-huang-bij-nvidia-in-het-nieuws-a4942117",
+   "description": "Jensen Huang keert terug bij chipgigant Nvidia, dat ervan overtuigd is dat Jensen Huang de juiste persoon is om het bedrijf te leiden. Na het nieuws stegen de aandelenkoersen van het bedrijf direct explosief.",
+   "date": "2026-11-23T16:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cryptobeleggers verleggen hun aandacht naar AI-aandelen en voorspellingsmarkten",
+   "link": "https://businessam.be/cryptobeleggers-verleggen-hun-aandacht-naar-ai-aandelen-en-voorspellingsmarkten/",
+   "description": "Key takeaways Volgens gegevens van Bloomberg keert een groeiend aantal beleggers in cryptovaluta digitale activa de rug toe ten gunste van snelgroeiende AI-aandelen. Nu de handelsactiviteit op cryptobeurzen afneemt, zoeken beleggers andere mogelijkheden. Zo wijken ze uit naar voorspellingsmarkten, waar ze kunnen inzetten op specifieke gebeurtenissen. Anderen gebruiken financiële derivaten om te speculeren op prijsbewegingen […]",
+   "date": "2026-11-23T16:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Techaandelen schieten omhoog bij terugkeer Jensen Huang",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83923/techaandelen-schieten-omhoog-bij-terugkeer-jensen-huang/",
+   "description": "Het aandeel Nvidia steeg maandag 28 procent als reactie op de terugkeer van Jensen Huang als CEO. Ook de bredere aandelenmarkt herstelt fors na een slechtste beursweek, met een forse plus voor veel techbedrijven. Nvidia heeft Jensen Huang met onmiddellijke ingang teruggehaald als CEO. Beleggers reageerden uitbundig. Het aandeel van de chipmaker steeg maandag 28 […]",
+   "date": "2026-11-23T16:06:47",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang opnieuw aangesteld als CEO van Nvidia: aandeel stijgt met 30 procent",
+   "link": "https://vrtnws.be/p.3BwqMBZae",
+   "description": "Jensen Huang mag terugkeren als CEO en voorzitter van technologiebedrijf Nvidia. Dat heeft de raad van bestuur van Nvidia aangekondigd. \"Jensen is de juiste persoon om het bedrijf te leiden\", klinkt het. Nochtans moest Huang nog geen 2 weken geleden vertrekken wegens 2 affaires, onder meer met een Chinese spionne. Sinds de aankondiging van Huangs terugkeer is de waarde van Nvidia-aandelen met 30 procent gestegen.",
+   "date": "2026-11-23T15:48:47",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Coup de théâtre: Jensen Huang keert terug als ceo Nvidia, aandeel veert fors op",
+   "link": "https://www.standaard.be/economie/coup-de-theatre-jensen-huang-keert-terug-als-ceo-nvidia-aandeel-veert-fors-op/164975731.html",
+   "description": "Jensen Huang keert terug als ceo van Nvidia. Volgens de raad van bestuur van de chipproducent kreeg die van de Amerikaanse regering zekerheid dat Huang geen veiligheidsrisico vormt.",
+   "date": "2026-11-23T15:46:40",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Verenigde Staten onderzoeken Megaspeed en voormalige directeur Alice Huang in zaak rond illegale distributie van Nvidia-chips",
+   "link": "https://businessam.be/verenigde-staten-onderzoeken-megaspeed-en-voormalige-directeur-alice-huang-in-zaak-rond-illegale-distributie-van-nvidia-chips/",
+   "description": "Key takeaways De Amerikaanse federale autoriteiten voeren een onderzoek naar Megaspeed International, een bedrijf uit Singapore, en zijn voormalige directeur Alice Huang. Het onderzoek houdt verband met de illegale distributie van Nvidia-halfgeleiders. Jay Clayton, de Amerikaanse directeur van de Nationale Inlichtingendienst, bevestigde zondag het lopende onderzoek en merkte op dat ambtenaren zowel het bedrijf als […]",
+   "date": "2026-11-23T15:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang keert terug als CEO van Nvidia: aandeel schiet omhoog",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/jensen-huang-keert-dan-toch-terug-als-ceo-van-nvidia-na-onderzoek-naar-spionagepoging/",
+   "description": "De raad van bestuur van chipgigant Nvidia heeft Jensen Huang met onmiddellijke ingang herbenoemd als president en Chief Executive Officer. Dat gebeurt na een reeks gesprekken en vergaderingen die volgden op berichten dat Huang het doelwit was van een buitenlandse inlichtingenoperatie.\nThe post Jensen Huang keert terug als CEO van Nvidia: aandeel schiet omhoog appeared first on Trends.be.",
+   "date": "2026-11-23T15:42:24",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia stelt Jensen Huang opnieuw aan als topman, Democraten vragen opheldering over rol van Trump",
+   "link": "https://www.knack.be/nieuws/wereld/nvidia-stelt-jensen-huang-opnieuw-aan-als-topman/",
+   "description": "Nvidia heeft medeoprichter Jensen Huang opnieuw aangesteld als CEO en voorzitter. Dat gebeurt met \"onmiddellijke ingang\", zo maakte 's werelds grootste chipmaker maandag bekend in een persbericht op zijn website.\nThe post Nvidia stelt Jensen Huang opnieuw aan als topman, Democraten vragen opheldering over rol van Trump appeared first on Knack.",
+   "date": "2026-11-23T15:40:23",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia stelt Jensen Huang elf dagen na zijn vertrek opnieuw aan als CEO",
+   "link": "https://businessam.be/nvidia-stelt-jensen-huang-elf-dagen-na-zijn-vertrek-opnieuw-aan-als-ceo/",
+   "description": "Key takeaways Het aandeel van Nvidia steeg met 30 procent nadat de raad van bestuur besloot medeoprichter Jensen Huang opnieuw aan te stellen als CEO. De opmerkelijke ommekeer komt amper elf dagen na zijn vertrek en zorgde onmiddellijk voor meer stabiliteit bij de AI-chipgigant. Na overleg met vertegenwoordigers van de Amerikaanse overheid kwam de raad […]",
+   "date": "2026-11-23T15:34:13",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI zet wiskundewereld op zijn kop na doorbraak in een van moeilijkste vraagstukken: \"We zijn in shock\"",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/23/wiskundige-en-claude-lijken-oplossing-te-vinden-voor-een-van-de/",
+   "description": "De wiskundewereld staat op zijn kop. Een wiskundige van Anthropic beweert dat hij samen met chatbot Claude de Riemann-hypothese heeft opgelost, een van de grootste onopgeloste vraagstukken in de wiskunde.",
+   "date": "2026-11-23T15:32:36",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI zet wiskundewereld op zijn kop na doorbraak in een van moeilijkste vraagstukken: \"We zijn in shock\"",
+   "link": "https://vrtnws.be/p.QAb05B81x",
+   "description": "De wiskundewereld staat op zijn kop. Een wiskundige van Anthropic beweert dat hij samen met chatbot Claude de Riemann-hypothese heeft opgelost, een van de grootste onopgeloste vraagstukken in de wiskunde. Dat zorgt voor een existentiële crisis: nu AI zelfs de moeilijkste wiskundige vraagstukken lijkt te kunnen oplossen, vragen wiskundigen zich af welke toekomst er nog voor hen is weggelegd.",
+   "date": "2026-11-23T15:32:36",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang komt terug als ceo van Nvidia",
+   "link": "https://tweakers.net/nieuws/254842/jensen-huang-komt-terug-als-ceo-van-nvidia.html",
+   "description": "Jensen Huang keert terug als directeur van chipbedrijf Nvidia. Dat zegt het bedrijf. Huang trad twee weken geleden af na de onthulling over buitenechtelijke affaires, waaronder eentje met een vrouw die vermoedelijk een Chinese spion is.",
+   "date": "2026-11-23T15:13:10",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia haalt Jensen Huang terug als topman, aandelen schieten omhoog",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/jensen-huang-ondanks-affaires-terug-als-topman-van-nvidia~bafbeefc/",
+   "description": "",
+   "date": "2026-11-23T15:10:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street maakt zich op voor een flink hogere opening",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-maakt-zich-op-voor-een-flink-hogere-opening/",
+   "description": "(ABM FN-Dow Jones) Wall Street maakt zich maandag op voor een stevig herstel, nadat de beurzen vrijdag nog diep in het rood sloten. De verkoopgolf trof vooral techaandelen, waarbij alles rondom AI onder zware druk stond. Vandaag lijken beleggers de dip aan te grijpen om weer in te stappen, vooral na het nieuws dat het bestuur …\nThe post Wall Street maakt zich op voor een flink hogere opening appeared first on Trends.be.",
+   "date": "2026-11-23T15:09:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang keert terug als CEO van Nvidia",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83921/jensen-huang-keert-terug-als-ceo-van-nvidia/",
+   "description": "Nvidia heeft Jensen Huang plotseling en per direct aangesteld als CEO, president en bestuurslid. Het bestuur stemde unaniem in na gesprekken met Huang en input van de Amerikaanse overheid. Het onderzoek naar een mogelijke buitenlandse inlichtingenoperatie gericht op Huang loopt gewoon door. Vorige week liet het bestuur van Nvidia weten dat het niet van plan […]",
+   "date": "2026-11-23T15:07:26",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Chipconcern NVIDIA haalt afgetreden Jensen Huang terug als topman na affaires",
+   "link": "https://www.nu.nl/economie/6417520/chipconcern-nvidia-haalt-afgetreden-jensen-huang-terug-als-topman-na-affaires.html",
+   "description": "Jensen Huang is na zijn eerdere aftreden opnieuw aangesteld als topman van AI-chipconcern NVIDIA. Hij trad op 12 november nog af na onthullingen over zijn affaires, met onder anderen een vermeende Chinese spion.",
+   "date": "2026-11-23T15:03:47",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hadrian breidt Nova uit: pentests starten vanuit CI-pipeline",
+   "link": "https://www.techzine.be/nieuws/security/83920/hadrian-breidt-nova-uit-pentests-starten-vanuit-ci-pipeline/",
+   "description": "Hadrian breidt zijn on-demand pentestdienst Nova uit met drie varianten: Micro Nova, Nova en Super Nova. Klanten kunnen pentests bovendien direct vanuit hun CI-pipelines starten. Het Amsterdamse securitybedrijf wil pentesten daarmee onderdeel maken van iedere softwarerelease. Hadrian bouwt een offensive security-platform op basis van agentic AI. Met de uitbreiding van Nova stemmen securityteams de omvang […]",
+   "date": "2026-11-23T14:50:51",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rene Haas blijft ceo van Arm ondanks gerucht over Nvidia-overstap",
+   "link": "https://tweakers.net/nieuws/254834/rene-haas-blijft-ceo-van-arm-ondanks-gerucht-over-nvidia-overstap.html",
+   "description": "Rene Haas blijft aan als ceo van Arm. Nvidia zou hem hebben benaderd om Jensen Huang op te volgen. Dat bevestigt Haas niet, maar hij zegt te geloven in de toekomst van Arm en bij het bedrijf te blijven. Hij heeft een nieuw contract getekend dat tot 2033 loopt.",
+   "date": "2026-11-23T14:41:22",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe Vlaams is AI? UGent verzamelt 'kromme' chatbotantwoorden voor onderzoek",
+   "link": "https://vrtnws.be/p.RaJY117Z6",
+   "description": "De UGent wil onderzoeken hoe goed de huidige AI-chatbots 'Vlaams' gebruiken en roept op om kromme teksten door te spelen. Het gaat om prompts en AI-interacties. \"We willen weten wat er on-Vlaams aanvoelt en waarom\", legt professor Orphée De Clercq uit. \"Op termijn kunnen we ze Vlaamser maken.\"",
+   "date": "2026-11-23T14:39:50",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Arm-topman Haas gaat niet naar Nvidia",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/arm-topman-haas-gaat-niet-naar-nvidia/",
+   "description": "(ABM FN-Dow Jones) Rene Haas blijft tot en met 2033 topman van de Britse chipontwerper Arm. Dit maakte het bedrijf maandag bekend. Daarmee maakt het bedrijf een einde aan speculatie dat Haas zou vertrekken om topman van Nvidia te worden. Haas tekende een nieuwe overeenkomst bij Arm. Per 1 december wordt hij daarnaast vicevoorzitter van SoftBank Group.Volgens Arm kreeg …\nThe post Arm-topman Haas gaat niet naar Nvidia appeared first on Trends.be.",
+   "date": "2026-11-23T14:13:53",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: licht koersherstel Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-licht-koersherstel-bel20-2/",
+   "description": "(ABM FN) De Brusselse beurs noteerde na lunchtijd hoger, opkrabbelend na de zware verliezen van vorige week.De Bel20 steeg 0,6 procent tot 5.833,52 punten.  Andere Europese beurzen noteerden eveneens hoger.Vooral technologie- en halfgeleideraandelen werden vorige week geraakt door de onzekerheid over de rendementen op de enorme investeringen in AI. Onrust door grootschalige cyberaanvallen en systeemstoringen bij …\nThe post Beursupdate: licht koersherstel Bel20 appeared first on Trends.be.",
+   "date": "2026-11-23T14:13:31",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursexpert Thomas Laureys: AI als scherprechter?",
+   "link": "https://trends.knack.be/beleggen/beleggers-challenge/beursexpert-thomas-laureys-ai-als-scherprechter/",
+   "description": "AI (artificiële intelligentie) is al een hele tijd het lievelingsthema van beleggers. Zal het thema ook deze Trends Beleggers Challenge bepalen?\nThe post Beursexpert Thomas Laureys: AI als scherprechter? appeared first on Trends.be.",
+   "date": "2026-11-23T13:31:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hackers zetten AI-tool Cairn in om zero-day kwetsbaarheden op te sporen",
+   "link": "https://www.security.nl/posting/962727/Hackers+zetten+AI-tool+Cairn+in+om+zero-day+kwetsbaarheden+op+te+sporen?channel=rss",
+   "description": "Chinese hackers hebben bij cyberaanvallen op meerdere Aziatische universiteiten de Cairn AI tool ingezet om zero-day ...",
+   "date": "2026-11-23T12:42:01",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe kwetsbaar is de S&P 500 voor een terugval in de AI-sector?",
+   "link": "https://businessam.be/invloed-van-ai-raakt-de-helft-van-de-marktwaarde-van-de-sp-500-te-midden-van-onrust-op-de-markt/",
+   "description": "Key takeaways Volgens een onderzoek van Capital Economics, dat Investing.com heeft ingezien, reikt de invloed van artificiële intelligentie tot ongeveer de helft van de totale marktwaarde van de S&P 500. Om dat vast te stellen, hebben analisten het AI-landschap ingedeeld in vijf segmenten: infrastructuurleveranciers, platformaanbieders die datacenters beheren, bedrijven die de technologie toepassen om winst […]",
+   "date": "2026-11-23T12:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zoek met een nieuw TikTok-account naar ‘geld’ en binnen een dag pompt het algoritme je feed vol criminele content",
+   "link": "https://www.nrc.nl/nieuws/2026/11/23/zoek-met-een-nieuw-tiktok-account-naar-geld-en-binnen-een-dag-pompt-het-algoritme-je-feed-vol-criminele-content-a4941868",
+   "description": "Hoe snel kom je op TikTok in aanraking met video’s die criminaliteit verheerlijken? Heel snel, blijkt uit onderzoek van denktank HCSS. Doordat honderdduizenden jongeren zulke filmpjes dagelijks bekijken, kan zo’n ‘nieuw normaal’ op maatschappelijke schaal ondermijnend werken.",
+   "date": "2026-11-23T11:30:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google schrapt zoekknop ten gunste van AI-knoppen in zoekmachine",
+   "link": "https://tweakers.net/nieuws/254828/google-schrapt-zoekknop-ten-gunste-van-ai-knoppen-in-zoekmachine.html",
+   "description": "Google schrapt de knop 'Google Zoeken' onder het tekstveld van zijn zoekmachine. In plaats daarvan biedt het bedrijf op zijn desktophomepage drie nieuwe knoppen die AI-functies aanroepen. Sommige Nederlandse gebruikers krijgen die al te zien. Zoekopdrachten zijn nog wel mogelijk met de entertoets.",
+   "date": "2026-11-23T11:29:04",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle stelt financiering voor OpenAI-datacenters veilig",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83912/oracle-stelt-financiering-voor-openai-datacenters-veilig/",
+   "description": "Oracle heeft de financiering veilig weten te stellen die nodig is voor de eerder gesloten infrastructuurovereenkomst met OpenAI. De aankondiging volgt op zorgen onder beleggers over de kosten voor de bouw van grootschalige AI-datacenters. Ook de financiële blootstelling van Oracle aan OpenAI maakt beleggers nerveus. Volgens Reuters bevestigde Oracle vrijdag dat de financiering rond is. […]",
+   "date": "2026-11-23T11:25:59",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Verzamelaar toont collectie van 100 videokaarten vanaf 1986",
+   "link": "https://tweakers.net/geek/254824/verzamelaar-toont-collectie-van-100-videokaarten-vanaf-1986.html",
+   "description": "Een Zuid-Koreaanse videokaartenverzamelaar deelt in een YouTube-video zijn uitgebreide collectie met kaarten van ATI/AMD, Intel, 3dfx en Nvidia. Het oudste exemplaar is een ATI Graphics Solution uit 1986; de nieuwste twee komen uit 2025.",
+   "date": "2026-11-23T11:20:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Community - Terugblik Abodag 2026 - Van thuisbatterijen tot team Zeezout",
+   "link": "https://tweakers.net/reviews/15650/terugblik-abodag-2026-van-thuisbatterijen-tot-team-zeezout.html",
+   "description": "Ruim honderd abonnees bezochten op 14 november de Tweakers Abodag. Een terugblik op sessies over thuisbatterijen en AI, rallyrijden, retrohardware en een pubquiz.",
+   "date": "2026-11-23T10:37:15",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AMD betaalt 2,9 miljard dollar voor chipstart-up Taalas om AI-inferentietechnologie te versterken",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/amd-betaalt-29-miljard-dollar-voor-ai-chipstartup-taalas-om-inferentietechnologie-te-versterken/",
+   "description": "Met de overname van het nog jonge chipbedrijf Taalas verwerft AMD technologie die AI-modellen rechtstreeks in silicium integreert. De deal gooit opnieuw olie op het vuur in de race om dominantie in AI-hardware.\nThe post AMD betaalt 2,9 miljard dollar voor chipstart-up Taalas om AI-inferentietechnologie te versterken appeared first on Trends.be.",
+   "date": "2026-11-23T10:36:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Scott Bessent eist opheldering van Nvidia over mogelijke levering van AI-chips aan China",
+   "link": "https://businessam.be/scott-bessent-eist-opheldering-van-nvidia-over-mogelijke-levering-van-ai-chips-aan-china/",
+   "description": "Key takeaways De Amerikaanse minister van Financiën Scott Bessent heeft onlangs bekendgemaakt dat de regering-Trump nog steeds wacht op opheldering van Nvidia over de mogelijke levering van geavanceerde AI-processors aan China. Tijdens een optreden in het programma “Face the Nation” van CBS News zei Bessent dat de regering contact heeft met het juridische team, de […]",
+   "date": "2026-11-23T10:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwsuur-presentator Jeroen Wollaars durft het eindelijk te zeggen: ‘Ik ben een computernerd’",
+   "link": "https://www.ad.nl/show/nieuwsuur-presentator-jeroen-wollaars-durft-het-eindelijk-te-zeggen-ik-ben-een-computernerd~a3314cc4/",
+   "description": "Dat Nieuwsuur-presentator Jeroen Wollaars (49) een ‘computernerd’ is, was lang iets waarmee hij niet echt te koop liep. Maar nu de wereld zindert van alle AI-ontwikkelingen, komt zijn kennis én kunde goed van pas. Hij bouwt er handige toepassingen mee.",
+   "date": "2026-11-23T10:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS-autoriteiten kijken kritischer dan ooit naar Nvidia’s handelspraktijken",
+   "link": "https://www.techzine.be/nieuws/privacy-compliance/83905/vs-autoriteiten-kijken-kritischer-dan-ooit-naar-nvidias-handelspraktijken/",
+   "description": "De directeur van de Amerikaanse Nationale Inlichtingendienst, Jay Clayton, meldt dat de VS een onderzoek instellen naar Alice Huang en naar Megaspeed. Huang was de oprichter van dat bedrijf. Dit meldt CNBC. Huang had naar verluidt een romantische relatie met de inmiddels afgetreden Nvidia-CEO Jensen Huang. “Er loopt een onderzoek naar haar bedrijf en naar […]",
+   "date": "2026-11-23T10:10:30",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Inkling 2 Mini: wat Claude Opus vorig jaar kon, kan lokale AI nu",
+   "link": "https://www.techzine.be/nieuws/applications/83903/inkling-2-mini-wat-claude-opus-vorig-jaar-kon-kan-lokale-ai-nu/",
+   "description": "Medio 2025 was Claude Opus 4.1 zo ongeveer het beste AI-model voor elke taak. Anthropic borduurde voort op dit succes met nieuwe LLM’s die achter gesloten muren bleven. Lokale, open AI heeft nu dezelfde prestaties als deze state-of-the-art anderhalf jaar geleden in de vorm van Inkling 2 Mini. Maker Thinking Machines heeft dat niveau bereikt […]",
+   "date": "2026-11-23T09:31:34",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beheerder van internetadressen waarschuwt voor fraude via AI-gegenereerde webshops",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/beheerder-van-internetadressen-waarschuwt-voor-fraude-via-ai-gegenereerde-webshops/",
+   "description": "Oplichters kunnen met artificiële intelligentie tegenwoordig erg eenvoudig geloofwaardige webshops namaken. Dat zegt DNS Belgium, de beheerder van de internetadressen in ons land, die waarschuwt voor oplichting naar aanleiding van Black Friday en de eindejaarsperiode. In die tijd van het jaar doen gewoonlijk veel Belgen online aankopen.\nThe post Beheerder van internetadressen waarschuwt voor fraude via AI-gegenereerde webshops appeared first on Trends.be.",
+   "date": "2026-11-23T09:26:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaans president Trump werd minstens 2 keer gewaarschuwd voor mogelijke Chinese spionage bij Nvidia, schrijft The New York Times",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/23/trump-was-op-de-hoogte-van-spionageverdenkingen/",
+   "description": "De Amerikaanse president Donald Trump zou minstens 2 keer zijn geïnformeerd over de mogelijke Chinese spionage bij Nvidia, maar zou de meldingen niet ernstig hebben genomen. Dat schrijft The New York Times.",
+   "date": "2026-11-23T08:33:43",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "NYT: Alice Huang had maandenlang contact met Chinese spionagedienst",
+   "link": "https://tweakers.net/nieuws/254814/nyt-alice-huang-had-maandenlang-contact-met-chinese-spionagedienst.html",
+   "description": "Alice Huang – met wie de toenmalige Nvidia-ceo Jensen Huang een affaire had – was van de lente van 2025 tot de herfst van 2026 in contact met een Chinese inlichtingendienst. Dat meldt The New York Times. Dit overlapt met de periode waarin Alice en Jensen Huang (geen familie) een relatie met elkaar hadden.",
+   "date": "2026-11-23T08:30:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Aziatische beurzen noteren verdeeld terwijl Amerikaanse futures stevig herstellen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/aziatische-beurzen-noteren-verdeeld-terwijl-amerikaanse-futures-stevig-herstellen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen lieten maandagochtend een verdeeld beeld zien, terwijl de Amerikaanse futures wezen op een stevig herstel op Wall Street na de forse koersverliezen van afgelopen vrijdag, toen vooral technologieaandelen zwaar onder druk stonden door aanhoudende zorgen over de AI-sector.De opleving van de Amerikaanse futures bood enige steun aan het sentiment in …\nThe post Aziatische beurzen noteren verdeeld terwijl Amerikaanse futures stevig herstellen appeared first on Trends.be.",
+   "date": "2026-11-23T07:24:14",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen openen voorzichtig na bloedbad Wall Street",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-voorzichtig-na-bloedbad-wall-street/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan maandag een voorzichtige opening tegemoet, na de slechtste beursweek sinds 'Liberation Day'. Halfgeleideraandelen stonden het meest onder druk door de aanhoudende zorgen over Nvidia en het tegenvallende beursdebuut van Anthropic.\"De Amerikaanse beurzen sloten vrijdag fors lager, waardoor de correctie op Wall Street een nieuwe fase is ingegaan. Beleggers maken …\nThe post Europese beurzen openen voorzichtig na bloedbad Wall Street appeared first on Trends.be.",
+   "date": "2026-11-23T07:01:43",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nieuwe onthulling in Nvidia-schandaal: Alice Huang had meer dan jaar contact met Chinese inlichtingenofficier",
+   "link": "https://www.demorgen.be/nieuws/nieuwe-onthulling-in-nvidia-schandaal-alice-huang-had-meer-dan-jaar-contact-met-chinese-inlichtingenofficier~b4cd9339/",
+   "description": "",
+   "date": "2026-11-23T06:58:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI als redder én vernietiger: van levensreddende medicijnen tot dodelijke biologische wapens",
+   "link": "https://businessam.be/ai-als-redder-en-vernietiger-van-levensreddende-medicijnen-tot-dodelijke-biologische-wapens/",
+   "description": "Key takeaways Jay Ritter, hoogleraar financiën aan de Universiteit van Florida en hoofd van The IPO Initiative, heeft alarm geslagen over het tweeledige karakter van artificiële intelligentie. AI als wapen Hoewel hij erkent dat tools die zijn ontwikkeld door bedrijven als Anthropic en OpenAI een revolutie teweegbrengen in farmaceutisch onderzoek en de behandeling van ernstige […]",
+   "date": "2026-11-23T06:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Achtergrond - AI-tools maken modden, porten én klonen van games makkelijker: 'Beangstigend'",
+   "link": "https://tweakers.net/reviews/15610/ai-tools-maken-modden-porten-en-klonen-van-games-makkelijker-beangstigend.html",
+   "description": "AI-tools maken het mogelijk om Minecraft-TNT te plaatsen in Red Dead Redemption en om GTA te spelen in een browser. Op dezelfde manier kan AI ook worden gebruikt voor gameclones.",
+   "date": "2026-11-23T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Lukaku naar Anderlecht of Tom Waes met een beleggingsfonds? Test hoe goed jij nep van echt kan onderscheiden met onze AI-check",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/19/vrt-nws-lanceert-ai-check-2026/",
+   "description": "Na het succes van de eerste editie lanceert VRT NWS opnieuw de AI-check. In deze test krijg je 12 nieuwe vragen voorgeschoteld en ontdek je hoe goed je AI-gegenereerde beelden, video's en muziek kunt onderscheiden van authentiek materiaal. Kan jij een deepfake onderscheiden van een echt beeld?",
+   "date": "2026-11-23T06:00:00",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "NYT: Alice Huang had contact met Chinese inlichtingendienst tijdens affaire met Nvidia-topman",
    "link": "https://www.trouw.nl/buitenland/nyt-alice-huang-had-contact-met-chinese-inlichtingendienst-tijdens-affaire-met-nvidia-topman~b23a9e4f/",
    "description": "",
@@ -325,6 +1086,17 @@
    ],
    "first_seen": "2026-11-23",
    "intro_geprobeerd": true
+  },
+  {
+   "title": "Als je Black Friday-aankoop plots geen deal meer is: wat als je 'koopje' later toch minder kost?",
+   "link": "https://www.gva.be/lifestyle/als-je-black-friday-aankoop-plots-geen-deal-meer-is-wat-als-je-koopje-later-toch-minder-kost/109274539.html",
+   "description": "Op Black Friday maak je gretig gebruik van de korting op die ene tv, keukenrobot of dat paar schoenen. Maar dan is het Cyber Monday en is hetzelfde product plots nóg goedkoper. Heb je recht op dat prijsverschil? Of kan je je aankoop zomaar terugsturen en voordeliger ‘terugkopen’?",
+   "date": "2026-11-23T02:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
   },
   {
    "title": "Wetenschapper van OpenAI stelt grenzen voor AI-ontwikkeling voor op basis van intelligentiemaat van modellen",
@@ -366,6 +1138,28 @@
    "date": "2026-11-22T23:59:00",
    "feeds": [
     "De Standaard - Sport"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Klanten kwijt, kleiner gaan wonen: opmars AI treft vertalers Gregory en Judith. “En het financiële is niet het ergste”",
+   "link": "https://www.standaard.be/economie/klanten-kwijt-kleiner-gaan-wonen-opmars-ai-treft-vertalers-gregory-en-judith.-en-het-financiele-is-niet-het-ergste/164667197.html",
+   "description": "Al meer dan 20 jaar werken Gregory Meuls en Judith De Meester als vertalers. Artificiële intelligentie dwingt het koppel zichzelf opnieuw uit te vinden. “Een deel van mijn identiteit wordt afgenomen.”",
+   "date": "2026-11-22T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De arts gebruikte AI om dossiers van patiënten te beoordelen en deelde hun gegevens daarmee. ‘Als ik een naam in ChatGPT heb laten staan, betreur ik dat zeer’",
+   "link": "https://www.nrc.nl/nieuws/2026/11/22/de-arts-gebruikte-ai-om-dossiers-van-patienten-te-beoordelen-en-deelde-hun-gegevens-in-openai-als-ik-een-naam-in-chatgpt-heb-laten-staan-betreur-ik-dat-zeer-a4941911",
+   "description": "Als medisch adviseur gebruikte C. veelvuldig AI en maakte vervolgens allerlei fouten. „Het gebruik van AI ontken ik niet, maar het is altijd gecontroleerd en ondersteunend geweest aan mijn werk”, bezweert ze het tuchtcollege.",
+   "date": "2026-11-22T19:35:00",
+   "feeds": [
+    "NRC - Artikels"
    ],
    "first_seen": "2026-11-23",
    "intro_geprobeerd": false
@@ -534,6 +1328,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-11-22",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wiskundige doorbraak met AI leidt tot kritiek: 'Oplossen is niet het doel'",
+   "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-leidt-tot-kritiek-oplossen-is-niet-het-doel.html",
+   "description": "Een wiskundige heeft met behulp van AI-model Claude de Riemann-hypothese bewezen. Wiskundigen bleven liefst 167 jaar het antwoord schuldig. Toch staat niet iedereen om het nieuws te springen. Sommige wiskundigen vrezen dat berekeningen niet meer zullen worden begrepen.",
+   "date": "2026-11-21T20:07:19",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-23",
    "intro_geprobeerd": false
   },
   {
