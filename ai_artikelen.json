@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T19:12:12",
+ "generated": "2026-11-23T04:31:11",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 32,
+   "count": 37,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 157,
+   "count": 161,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 84,
+   "count": 87,
    "error": null
   },
   {
@@ -315,6 +315,61 @@
   }
  ],
  "articles": [
+  {
+   "title": "NYT: Alice Huang had contact met Chinese inlichtingendienst tijdens affaire met Nvidia-topman",
+   "link": "https://www.trouw.nl/buitenland/nyt-alice-huang-had-contact-met-chinese-inlichtingendienst-tijdens-affaire-met-nvidia-topman~b23a9e4f/",
+   "description": "",
+   "date": "2026-11-23T03:38:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wetenschapper van OpenAI stelt grenzen voor AI-ontwikkeling voor op basis van intelligentiemaat van modellen",
+   "link": "https://www.gva.be/buitenland/wetenschapper-van-openai-stelt-grenzen-voor-ai-ontwikkeling-voor-op-basis-van-intelligentiemaat-van-modellen/164945952.html",
+   "description": "Jakub Pachocki, hoofdwetenschapper bij OpenAI, wil dat AI-ontwikkelaars samen grenzen afspreken die ze niet overschrijden zolang het toezicht op AI niet op punt staat. Hij koppelt die grenzen onder meer aan “perplexity”, een maat voor de intelligentie van een model. Topman Sam Altman steunt het voorstel.",
+   "date": "2026-11-23T00:57:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia krijgt ‘Huangover’ maar niet doorgespoeld",
+   "link": "https://www.standaard.be/economie/nvidia-krijgt-huangover-maar-niet-doorgespoeld/164923367.html",
+   "description": "Sinds begin oktober zag de Amerikaanse chipreus Nvidia al meer dan 2.800 miljard dollar aan beurswaarde in rook opgaan, terwijl nieuwe onderzoeken naar de boekhouding en mogelijke smokkel van AI-chips naar China zich blijven aandienen. De hele AI-sector komt zo in onzekerheid terecht.",
+   "date": "2026-11-22T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Klanten kwijt, kleiner gaan wonen: opmars AI treft vertalers “en het financiële is niet het ergste”",
+   "link": "https://www.standaard.be/economie/klanten-kwijt-kleiner-gaan-wonen-opmars-ai-treft-vertalers-en-het-financiele-is-niet-het-ergste/164667197.html",
+   "description": "Al meer dan 20 jaar werken Gregory Meuls en Judith De Meester als vertalers. Artificiële intelligentie dwingt het koppel zichzelf opnieuw uit te vinden. “Een deel van mijn identiteit wordt afgenomen.”",
+   "date": "2026-11-22T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De jongste titelstrijd ooit: stuwen de gen Z-schakers Magnus Carlsen richting zijn pensioen?",
+   "link": "https://www.standaard.be/sport/de-jongste-titelstrijd-ooit-stuwen-de-gen-z-schakers-magnus-carlsen-richting-zijn-pensioen/164931621.html",
+   "description": "Voor het eerst spelen twee gen Z’ers om de wereldtitel schaken: de Indiër Dommaraju Gukesh en de Oezbeek Javohir Sindarov zijn amper 20. Heeft de nieuwe lichting, die zich meer dan ooit beroept op data en AI, de generatie van Magnus Carlsen definitief voorbijgestoken?",
+   "date": "2026-11-22T23:59:00",
+   "feeds": [
+    "De Standaard - Sport"
+   ],
+   "first_seen": "2026-11-23",
+   "intro_geprobeerd": false
+  },
   {
    "title": "TikTok introduceert nieuwe AI-detectietool om deepfakes tegen te gaan",
    "link": "https://businessam.be/tiktok-introduceert-nieuwe-ai-detectietool-om-deepfakes-tegen-te-gaan/",
