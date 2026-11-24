@@ -26,7 +26,7 @@ jobs:
     timeout-minutes: 30
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy_retry.outputs.page_url }}
     env:
       # Zonder dit staat de runner op UTC en verschuiven alle artikeltijden
       # twee uur, waardoor nachtelijke artikelen onder de verkeerde dag komen.
@@ -67,5 +67,16 @@ jobs:
         with:
           path: docs
 
+      # Soms vindt deploy-pages het net geüploade artefact nog niet ("No
+      # artifacts named github-pages"). Dan na een korte pauze nog eens.
       - id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Even wachten voor een nieuwe poging
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 30
+
+      - id: deploy_retry
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
