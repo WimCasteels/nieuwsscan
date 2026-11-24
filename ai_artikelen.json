@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T23:26:34",
+ "generated": "2026-11-24T07:46:46",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 32,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 44,
+   "count": 43,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 156,
+   "count": 158,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 93,
+   "count": 94,
    "error": null
   },
   {
@@ -315,6 +315,83 @@
   }
  ],
  "articles": [
+  {
+   "title": "Europese beurzen openen voorzichtig",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-voorzichtig-15/",
+   "description": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan dinsdag een voorzichtige opening tegemoet, na een flink hoger slot op Wall Street maandagavond, waarbij Nvidia met meer dan 30 procent steeg na de verrassende terugkeer van CEO Jensen Huang.IG voorziet een openingswinst van 6 punten voor de Duitse DAX en een min van 2 punten voor de …\nThe post Europese beurzen openen voorzichtig appeared first on Trends.be.",
+   "date": "2026-11-24T07:10:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Comeback Jensen bij Nvdia zorgt ook in Azië voor extreme koersuitslagen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/comeback-jensen-bij-nvdia-zorgt-ook-in-azie-voor-extreme-koersuitslagen/",
+   "description": "(ABM FN-Dow Jones) De Aziatische beurzen noteerden dinsdagochtend fors hoger, aangevoerd door technologieaandelen, waarbij beleggers opnieuw kozen voor aandelen van bedrijven die profiteren van de investeringen in kunstmatige intelligentie.De Taiwanese beurs sprong rond de klok van zeven uur maar liefst 9,6 procent omhoog, terwijl de Zuid-Koreaanse beurs 7,9 procent won. In Tokio steeg de Nikkei-index met …\nThe post Comeback Jensen bij Nvdia zorgt ook in Azië voor extreme koersuitslagen appeared first on Trends.be.",
+   "date": "2026-11-24T07:07:08",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Siemens-topman waarschuwt dat goedkope Chinese AI-modellen de Amerikaanse techreuzen onder druk kunnen zetten",
+   "link": "https://businessam.be/siemens-topman-waarschuwt-dat-goedkope-chinese-ai-modellen-de-amerikaanse-techreuzen-onder-druk-kunnen-zetten/",
+   "description": "Key takeaways Roland Busch, de topman van Siemens, heeft de huidige sterke stijging van de uitgaven aan artificiële intelligentie omschreven als de grootste gok die de mensheid ooit heeft genomen. Dat heeft hij tegen het persbureau dpa gezegd. Chinese AI-alternatieven Hij waarschuwde dat goedkopere AI-alternatieven uit China de dominantie van Amerikaanse techgiganten kunnen bedreigen. Volgens […]",
+   "date": "2026-11-24T07:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Wij zijn de echte datacenters\": meemoo zet 25.000 historische tv-fragmenten online",
+   "link": "https://vrtnws.be/p.XEVLBbd9M",
+   "description": "Van het laatste weerbericht van Armand Pien tot de allereerste aflevering van 'Wittekerke': archiefinstelling meemoo zet 25.000 historische videofragmenten online. Het gaat om beeldmateriaal van onder meer VRT, DPG Media en regionale omroepen. Tegelijk vreest meemoo dat Vlaamse besparingen archieven minder toegankelijk maken. \"We moeten garanderen dat mensen in de toekomst hun informatie niet uitsluitend via Google of ChatGPT zoeken.\"",
+   "date": "2026-11-24T07:01:43",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meta laat AI-assistent Muse nog dit jaar los op België",
+   "link": "https://www.tijd.be/r/t/1/id/10706631",
+   "description": "De Amerikaanse techreus Meta rolt vanaf vandaag zijn hyperpopulaire persoonlijke AI-agent Muse uit in Europa. Ook België komt nog ‘voor Kerstmis’ aan de beurt, vernam De Tijd. ‘Autonome AI-agents zoals Muse beloven hele sectoren, van retail over financiële diensten tot reizen, te hertekenen.’",
+   "date": "2026-11-24T06:02:21",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Niet elke robot is een modelwerknemer. Sommige zijn niet happig op werk, blijkt uit Chinees winkelexperiment",
+   "link": "https://www.demorgen.be/tech-ai/niet-elke-robot-is-een-modelwerknemer-sommige-zijn-niet-happig-op-werk-blijkt-uit-chinees-winkelexperiment~baecbb9b/",
+   "description": "",
+   "date": "2026-11-24T03:00:04",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Beurzen in Tokio en Seoel openen hoger na terugkeer Jensen Huang bij Nvidia",
+   "link": "https://www.gva.be/economie/beurs/beurzen-in-tokio-en-seoel-openen-hoger-na-terugkeer-jensen-huang-bij-nvidia/165004124.html",
+   "description": "De beurzen in Japan en Zuid-Korea zijn dinsdag hoger geopend na de terugkeer van Jensen Huang als CEO bij chipbedrijf Nvidia. Eerder waren de beurzen in New York al fors gestegen.",
+   "date": "2026-11-24T02:12:06",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
   {
    "title": "Techbeurs Nasdaq beleeft beste dag in 1,5 jaar na terugkeer Huang, topman onder luid applaus onthaald bij Nvidia",
    "link": "https://www.vrt.be/vrtnws/nl/liveblog/techbeurs-nasdaq-beleeft-beste-dag-in-15-jaar-na-terugkeer-huan~1776671241366/",
@@ -1672,6 +1749,17 @@
     "De Standaard - Opinies"
    ],
    "first_seen": "2026-11-21",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Start-up Sightera: “Hoe tof zou dat zijn, als we in België het eerste kankerpilletje met AI konden maken?”",
+   "link": "https://www.standaard.be/economie/start-up-sightera-hoe-tof-zou-dat-zijn-als-we-in-belgie-het-eerste-kankerpilletje-met-ai-konden-maken/164695797.html",
+   "description": "Vier kameraden op een sofa in de Kempen: zo begon biotechbedrijf Sightera aan een zoektocht naar medicijnen tegen bijna onverslaanbare kankers. “Vroeger deed ik in het lab zelf robottenwerk, nu maakt AI baanbrekende geneesmiddelen mogelijk.”",
+   "date": "2026-11-20T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-24",
    "intro_geprobeerd": false
   },
   {
