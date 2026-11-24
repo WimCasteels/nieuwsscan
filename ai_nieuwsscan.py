@@ -368,12 +368,32 @@ def strip_html(text):
     return unescape(stripper.get_text()).strip()
 
 
-def fetch_url(url, timeout=15):
+MAX_DOWNLOAD = 10 * 1024 * 1024  # 10 MB: groter is geen feed of artikel meer
+
+
+def fetch_url(url, timeout=15, deadline=45):
     """Haalt de ruwe inhoud van een URL op. Herpogingen gebeuren een niveau
-    hoger, in fetch_source."""
+    hoger, in fetch_source.
+
+    `timeout` geldt per netwerkbewerking, niet voor de hele download: een
+    server die af en toe een paar bytes stuurt, houdt read() anders eindeloos
+    bezig. Daarom lezen we in stukken en stoppen we na `deadline` seconden of
+    MAX_DOWNLOAD bytes. TimeoutError is een OSError, dus fetch_source probeert
+    zo'n bron gewoon opnieuw."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    einde = time.monotonic() + deadline
+    stukken, grootte = [], 0
     with urllib.request.urlopen(req, timeout=timeout) as response:
-        return response.read()
+        while True:
+            if time.monotonic() > einde:
+                raise TimeoutError(f"download duurde langer dan {deadline} s")
+            stuk = response.read(64 * 1024)
+            if not stuk:
+                return b"".join(stukken)
+            stukken.append(stuk)
+            grootte += len(stuk)
+            if grootte > MAX_DOWNLOAD:
+                raise ValueError(f"antwoord groter dan {MAX_DOWNLOAD // (1024 * 1024)} MB")
 
 
 def parse_feed(xml_bytes):

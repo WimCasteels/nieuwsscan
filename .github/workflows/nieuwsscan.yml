@@ -22,6 +22,8 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
+    # Vangnet: zonder dit stopt GitHub een vastgelopen job pas na 6 uur.
+    timeout-minutes: 30
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -29,6 +31,8 @@ jobs:
       # Zonder dit staat de runner op UTC en verschuiven alle artikeltijden
       # twee uur, waardoor nachtelijke artikelen onder de verkeerde dag komen.
       TZ: Europe/Brussels
+      # Anders buffert Python zijn uitvoer en loopt de log achter op de scan.
+      PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
 
@@ -37,6 +41,7 @@ jobs:
           python-version: "3.12"
 
       - name: Scan uitvoeren
+        timeout-minutes: 20
         run: python ai_nieuwsscan.py
 
       - name: Archief en pagina vastleggen
