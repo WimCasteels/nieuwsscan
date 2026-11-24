@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T07:46:46",
+ "generated": "2026-11-24T13:35:51",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 28,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 26,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 155,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 94,
+   "count": 91,
    "error": null
   },
   {
@@ -315,6 +315,283 @@
   }
  ],
  "articles": [
+  {
+   "title": "Hoe Nvidia de waan van de dag tot in de hangmat brengt",
+   "link": "https://www.tijd.be/r/t/1/id/10706739",
+   "description": "De spectaculaire terugkeer van Jensen Huang bij Nvidia legt een paradox van het hangmatbeleggen bloot. Wie bewust geen individuele aandelen selecteert, is door de toenemende beursconcentratie soms meer blootgesteld aan het lot van één bedrijf dan een actieve belegger.",
+   "date": "2026-11-24T13:11:38",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX verdient miljarden door rekenkracht te verhuren aan AI-concurrenten",
+   "link": "https://businessam.be/spacex-verdient-miljarden-door-rekenkracht-te-verhuren-aan-ai-concurrenten/",
+   "description": "Key takeaways De AI-ondernemingen van Elon Musk zitten momenteel in een paradoxale situatie. Ze genereren enorme inkomsten door juist de concurrenten te ondersteunen die ze willen overtreffen. Uit berichten in The New York Times blijkt dat SpaceX miljarden verdient door zijn rekeninfrastructuur te verhuren aan andere AI-bedrijven. Om precies te zijn geeft Anthropic maandelijks ongeveer […]",
+   "date": "2026-11-24T12:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Pas op de plaats in Europa na fantastische weekstart",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/pas-op-de-plaats-in-europa-na-fantastische-weekstart/",
+   "description": "(ABM FN-Dow Jones) Beleggers in Europa doen het dinsdag rustig aan, nadat maandag de koersen omhoog spoten, nadat bekend werd dat Jensen Huang terugkeert als topman van Nvidia.De brede STOXX Europe 600 index daalde met 0,2 procent tot 635,99 punten, de Duitse DAX verloor een half procent op 25.218 punten. De Franse CAC won 0,2 procent …\nThe post Pas op de plaats in Europa na fantastische weekstart appeared first on Trends.be.",
+   "date": "2026-11-24T12:03:33",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: Bel20 doet stapje terug na koerssprong van maandag",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-bel20-doet-stapje-terug-na-koerssprong-van-maandag/",
+   "description": "(ABM FN) De Brusselse beurs noteerde dinsdagochtend licht lager, na de koerswinsten van maandag dankzij het hernieuwde optimisme over de AI-sector.Tegen het einde van de ochtend noteerde de sterindex 0,3 procent lager op 5.871,36 punten.Beleggers hebben twee bewogen handelsdagen achter de rug. Vrijdag leek de beurs nog volledig in te storten, maar maandag keerde de hoop …\nThe post Beursupdate: Bel20 doet stapje terug na koerssprong van maandag appeared first on Trends.be.",
+   "date": "2026-11-24T11:58:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon neemt AI-optimalisatietechnologie van Decart over",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83934/amazon-neemt-ai-optimalisatietechnologie-van-decart-over/",
+   "description": "Amazon maakt bekend dat het een overeenkomst heeft getekend voor de overname van de technologie achter de ‘Decart Optimization Stack’ (DOS).  De medeoprichters van Decart, Dean Leitersdorf, Moshe Shalev en Orian Leitersdorf, maken samen met hun team van AI-onderzoekers en ingenieurs de overstap naar Amazon. Amazon maakt zelf geen financiële details bekend, maar volgens SiliconANGLE, […]",
+   "date": "2026-11-24T11:56:57",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Spectaculaire koersstijging na comeback Nvidia-CEO baart econoom zorgen: “Het zijn geen mensen meer die op de knoppen duwen”",
+   "link": "https://www.gva.be/economie/spectaculaire-koersstijging-na-comeback-nvidia-ceo-baart-econoom-zorgen-het-zijn-geen-mensen-meer-die-op-de-knoppen-duwen/165017842.html",
+   "description": "De onverwachte comeback van Jensen Huang als CEO van Nvidia doet beleggers juichen. Ook Belgische aandeelhouders, van pensioenfondsen tot kleine beleggers met ETF’s, profiteren van de spectaculaire koerssprong.",
+   "date": "2026-11-24T11:53:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nothing werkt aan oortjes voor samenvatten en transcriberen van gesprekken",
+   "link": "https://tweakers.net/nieuws/254868/nothing-werkt-aan-oortjes-voor-samenvatten-en-transcriberen-van-gesprekken.html",
+   "description": "Nothing werkt aan oortjes die audio kunnen opnemen, waarna een AI-model de gesprekken transcribeert en samenvat. Deze Ear note moet ook 'verschillende AI-agents' kunnen gebruiken. De release staat gepland voor 8 december.",
+   "date": "2026-11-24T11:21:06",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-antwoorden over Belgische beursgenoteerde bedrijven blijken vaak vertekend",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/ai-antwoorden-over-belgische-beursgenoteerde-bedrijven-blijken-te-vaak-vertekend/",
+   "description": "Meer dan een derde van de AI-antwoorden over 37 Belgische beursgenoteerde bedrijven is vertekend of vereist extra menselijke controle. Dat blijkt uit een onderzoek van Backstage Communication en Finvictum.\nThe post AI-antwoorden over Belgische beursgenoteerde bedrijven blijken vaak vertekend appeared first on Trends.be.",
+   "date": "2026-11-24T11:05:26",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amazon neemt technologie en AI-specialisten van Decart over in een deal van mogelijk 7,5 miljard dollar",
+   "link": "https://businessam.be/amazon-neemt-technologie-en-ai-specialisten-van-decart-over-in-een-deal-van-mogelijk-75-miljard-dollar/",
+   "description": "Key takeaways Amazon heeft een overeenkomst gesloten om belangrijke technologie en gespecialiseerd personeel over te nemen van het Israëlische bedrijf Decart. Daarmee wil het zijn infrastructuur voor artificiële intelligentie en zijn divisie voor gespecialiseerde hardware versterken. Overname geschat op 7,5 miljard dollar Hoewel de officiële financiële details vertrouwelijk blijven, wordt de waarde van de transactie […]",
+   "date": "2026-11-24T11:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Wie deze stap niet zet, maakt van artificiële intelligentie een bodemloze put vol kapitaalvernietiging’",
+   "link": "https://trends.knack.be/opinie/ontsla-de-ai-agent-als-hij-onderpresteert-of-te-duur-wordt/",
+   "description": "De bedrijfswereld is in de ban van de AI-revolutie. Boardrooms worden platgelopen door consultants die met presentaties zwaaien over de vele opportuniteiten van artificiële intelligentie. Het nieuwe toverwoord op de slides vandaag: de AI-agent. Autonome digitale werknemers die zelfstandig complexe datatabellen doorspitten, mails beantwoorden, code schrijven en hele administratieve processen stroomlijnen. Ze werken onvermoeibaar. Ze …\nThe post ‘Wie deze stap niet zet, maakt van artificiële intelligentie een bodemloze put vol kapitaalvernietiging’ appeared first on Trends.be.",
+   "date": "2026-11-24T10:47:15",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Luid applaus voor Jensen Huang bij terugkeer op kantoor, maar voorbeurs zijn beleggers minder enthousiast",
+   "link": "https://www.tijd.be/r/t/1/id/10706711",
+   "description": "Na de verrassende terugkeer van Jensen Huang als CEO is Nvidia maandag 31 procent hoger gesloten. Maar vandaag lijkt de ontnuchtering te komen: in de voorbeurshandel valt het aandeel terug. Analisten temperen de euforie.",
+   "date": "2026-11-24T10:45:08",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang keert terug, maar Nvidia zal nooit meer hetzelfde zijn",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/jensen-huang-keert-terug-maar-nvidia-zal-nooit-meer-hetzelfde-zijn/",
+   "description": "Jensen Huang krijgt af te rekenen met een vijandig Congres, verontruste werknemers en terughoudende zakenpartners.\nThe post Jensen Huang keert terug, maar Nvidia zal nooit meer hetzelfde zijn appeared first on Knack.",
+   "date": "2026-11-24T10:30:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BumaStemra dreigt met rechtszaak tegen Nederlandse aanbieder van AI-muziek",
+   "link": "https://tweakers.net/nieuws/254866/bumastemra-dreigt-met-rechtszaak-tegen-nederlandse-aanbieder-van-ai-muziek.html",
+   "description": "BumaStemra dreigt met juridische stappen tegen een aanbieder van AI-muziek. De muziekorganisatie wil dat het Nederlandse YourNeuroTune stopt AI-muziek aanbieden die onrechtmatig werk van muziekmakers gebruikt.",
+   "date": "2026-11-24T10:18:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarde van Trumps Nvidia-aandelen steeg mogelijk met 15 miljoen dollar na terugkeer van Jensen Huang",
+   "link": "https://businessam.be/de-koersstijging-van-het-nvidia-aandeel-heeft-het-vermogen-van-trump-mogelijk-met-15-miljoen-doen-toenemen/",
+   "description": "Key takeaways Na de onverwachte aankondiging dat Jensen Huang opnieuw de functie van CEO zou opnemen, is de waarde van Donald Trumps beleggingen in Nvidia maandag mogelijk met 15 miljoen dollar (13,7 miljoen euro) gestegen. Het aandeel van het bedrijf steeg met meer dan 30 procent en herstelde daarmee van een recente periode van aanzienlijke […]",
+   "date": "2026-11-24T10:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS plaatsen Megaspeed en Singaporese dochter van Alibaba op sanctielijst",
+   "link": "https://www.tijd.be/r/t/1/id/10706706",
+   "description": "De Amerikaanse regering heeft de bedrijven Megaspeed en Apex, een Singaporese dochter van Alibaba, op een sanctielijst geplaatst. Dat doet ze na het spionageschandaal bij Nvidia.",
+   "date": "2026-11-24T10:06:07",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Ondernemen Ict"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Ik zal een betere CEO zijn”: Jensen Huang als rockster onthaald bij terugkeer in gebouwen Nvidia",
+   "link": "https://www.gva.be/economie/bedrijven/ik-zal-een-betere-ceo-zijn-jensen-huang-als-rockster-onthaald-bij-terugkeer-in-gebouwen-nvidia/165009854.html",
+   "description": "Als een rockster is Jensen Huang verwelkomd in de gebouwen van Nvidia. Hij is er weer CEO, na alle heisa van de voorbije weken. De topman was opgestapt nadat meerdere buitenechtelijke affaires aan het licht waren gekomen. Een van de vrouwen was vermoedelijk een Chinese spion.",
+   "date": "2026-11-24T10:03:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘President zet nationale veiligheid te koop om beurs hoog te houden’: Republikeinen stellen vragen bij comeback van Nvidia-topman",
+   "link": "https://www.demorgen.be/nieuws/president-zet-nationale-veiligheid-te-koop-om-beurs-hoog-te-houden-republikeinen-stellen-vragen-bij-comeback-van-nvidia-topman~b285380a/",
+   "description": "",
+   "date": "2026-11-24T10:00:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "VS zet Megaspeed en dochterbedrijf Alibaba op zwarte lijst",
+   "link": "https://www.techzine.be/nieuws/privacy-compliance/83932/vs-zet-megaspeed-en-dochterbedrijf-alibaba-op-zwarte-lijst/",
+   "description": "Het Amerikaanse ministerie van Handel heeft Megaspeed en Apex Enterprise Solutions, een in Singapore gevestigde dochteronderneming van Alibaba, toegevoegd aan zijn zwarte lijst (Entity List). Daarmee leggen de VS exportrestricties op aan bedrijven. Megaspeed is een partner van Nvidia. Het bedrijf wordt al sinds 2024 gemonitord door de Amerikaanse autoriteiten vanwege het mogelijk doorsluizen van […]",
+   "date": "2026-11-24T09:50:44",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Claude Ship reviewt, fixt en keurt pull requests zelf goed",
+   "link": "https://www.techzine.be/nieuws/devops/83931/claude-ship-reviewt-fixt-en-keurt-pull-requests-zelf-goed/",
+   "description": "Anthropic introduceert Claude Ship in bèta. Het systeem reviewt pull requests (PR’s), lost problemen op en beslist welke wijzigingen gemerged kunnen worden, op basis van een beleid dat teams zelf schrijven. Daarmee moet het werk na het openen van een PR net zo snel gaan als het schrijven van de code. Volgens Anthropic loopt het […]",
+   "date": "2026-11-24T09:00:47",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Net op tijd voor kerst: Meta maakt nieuwe AI-chatbot die kerstinkopen kan doen dit jaar nog beschikbaar in België",
+   "link": "https://www.hln.be/multimedia/net-op-tijd-voor-kerst-meta-maakt-nieuwe-ai-chatbot-die-kerstinkopen-kan-doen-dit-jaar-nog-beschikbaar-in-belgie~ac3577f4/",
+   "description": "Het Amerikaanse technologiebedrijf Meta rolt vanaf vandaag zijn nieuwe AI-assistent Muse uit in Europa. In ons land zal het populaire AI-model nog voor Kerstmis beschikbaar zijn, schrijft ‘De Tijd’. Een specifieke datum is niet bekend. “Van kerstinkopen doen tot zoeken naar een goedkoper energiecontract: Muse kan het allemaal voor je regelen”, belooft Meta.",
+   "date": "2026-11-24T08:41:00",
+   "feeds": [
+    "HLN - Multimedia",
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS legt handelsverbod op aan Megaspeed voor doorsluizen Nvidia-chips naar China",
+   "link": "https://tweakers.net/nieuws/254862/vs-legt-handelsverbod-op-aan-megaspeed-voor-doorsluizen-nvidia-chips-naar-china.html",
+   "description": "De Amerikaanse overheid heeft het Singaporese bedrijf Megaspeed en aanverwante partijen toegevoegd aan haar Entity List. Een daarvan is een dochterbedrijf van de Chinese webwinkel Alibaba. Amerikaanse bedrijven mogen alleen nog met een speciale licentie handelen met Megaspeed. Dat bedrijf zou Nvidia-chips naar China hebben gesmokkeld.",
+   "date": "2026-11-24T08:21:20",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bel20 maakt zich op voor vlakke opening na AI-rally",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/bel20-maakt-zich-op-voor-vlakke-opening-na-ai-rally/",
+   "description": "(ABM FN) De Brusselse beurs maakt zich dinsdag op voor een vrij vlakke opening, na de forse koerswinsten van maandag dankzij het hernieuwde optimisme over de AI-sector.De Bel20 sloot maandag nog 1,6 procent in de plus op circa 5.888 punten. De sterindex zakte vorige week nog onder de 5.800 punten.Op Wall Street explodeerden de beurzen maandag, …\nThe post Bel20 maakt zich op voor vlakke opening na AI-rally appeared first on Trends.be.",
+   "date": "2026-11-24T08:13:30",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Flanders Make zet in op Physical AI met drie co-creatie hubs",
+   "link": "https://www.techzine.be/nieuws/analytics/83924/flanders-make-zet-in-op-physical-ai-met-drie-co-creatie-hubs/",
+   "description": "Flanders Make lanceert een actieplan om innovatie in de Vlaamse maakindustrie te versnellen. Physical AI staat daarbij centraal. Vanaf 2027 worden de centra in Kortrijk, Leuven en Lommel co-creatie hubs, waar bedrijven en onderzoekers samen oplossingen testen in een echte productieomgeving. Physical AI is artificial intelligence die machines in staat stelt hun omgeving waar te […]",
+   "date": "2026-11-24T08:00:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Trump 'regelde' terugkeer NVIDIA-topman, maar heeft daar financieel belang bij",
+   "link": "https://www.nu.nl/tech/6417573/trump-regelde-terugkeer-nvidia-topman-maar-heeft-daar-financieel-belang-bij.html",
+   "description": "Donald Trump zegt persoonlijk te hebben geregeld dat Jensen Huang terugkeert als topman van chipbedrijf NVIDIA. De Amerikaanse president wilde de topman naar eigen zeggen behouden vanwege zijn belang voor de Amerikaanse economie. Maar Trumps eigen financiële belangen roepen vragen op.",
+   "date": "2026-11-24T07:58:59",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Valse doodsberichten en AI-artikels: zo verdient Vietnamees spamnetwerk geld met bekende Vlamingen op Facebook",
+   "link": "https://www.demorgen.be/nieuws/valse-doodsberichten-en-ai-artikels-zo-verdient-vietnamees-spamnetwerk-geld-met-bekende-vlamingen-op-facebook~babbe7f6/",
+   "description": "",
+   "date": "2026-11-24T07:47:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-24",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Europese beurzen openen voorzichtig",
    "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-openen-voorzichtig-15/",
