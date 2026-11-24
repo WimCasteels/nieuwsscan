@@ -45,7 +45,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/index.html ai_artikelen.json
           git diff --staged --quiet || git commit -m "Nieuwsscan $(date +%F)"
-          git push
+          # Tijdens de scan kan er intussen iets naar main gepusht zijn. Haal dat
+          # eerst binnen en zet de bot-commit erbovenop. Bij een conflict in de
+          # gegenereerde bestanden wint de versie van deze scan (-X theirs is bij
+          # een rebase de commit die herspeeld wordt, dus die van de bot).
+          for poging in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            echo "Push mislukt (poging $poging), opnieuw proberen..."
+            sleep 5
+          done
+          exit 1
 
       - uses: actions/configure-pages@v5
 
