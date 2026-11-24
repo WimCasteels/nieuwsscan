@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:35:51",
+ "generated": "2026-11-24T13:38:11",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 91,
+   "count": 92,
    "error": null
   },
   {
