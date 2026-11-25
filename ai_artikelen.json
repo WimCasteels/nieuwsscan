@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:59:00",
+ "generated": "2026-11-25T06:14:44",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 29,
+   "count": 28,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 42,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 30,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 28,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 163,
+   "count": 158,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 86,
+   "count": 88,
    "error": null
   },
   {
@@ -315,6 +315,106 @@
   }
  ],
  "articles": [
+  {
+   "title": "Nvidia-topman Jensen Huang excuseert zich bij personeel en volgt dagelijks therapie",
+   "link": "https://vrtnws.be/p.KK8MAPGmb",
+   "description": "Nvidia-topman Jensen Huang heeft zijn excuses aangeboden aan de werknemers van het technologiebedrijf voor het overtreden van de gedragscode. Hij volgt ook therapie. Huang maakte maandag zijn comeback als CEO.",
+   "date": "2026-11-25T05:52:22",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Van Silicon Valley tot Gaza: Belgische banken investeren miljoenen in techbedrijven die gelinkt worden aan Israëlische oorlogsvoering",
+   "link": "https://vrtnws.be/p.7nX18laBp",
+   "description": "Microsoft, Palantir, Amazon en Cisco: Belgische banken investeren honderden miljoenen euro's in technologiebedrijven die Israël voorzien van AI-systemen en digitale infrastructuur voor zijn oorlog in Gaza en de illegale bezetting van de Westelijke Jordaanoever. Dat blijkt uit nieuw onderzoek van 11.11.11, Fairfin en tientallen andere ngo’s, dat de financiële banden tussen Europese banken en betrokken bedrijven blootlegt.",
+   "date": "2026-11-25T05:19:12",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang zegt dat terugkeer bij Nvidia niet door inmenging Trump komt",
+   "link": "https://www.gva.be/economie/bedrijven/jensen-huang-zegt-dat-terugkeer-bij-nvidia-niet-door-inmenging-trump-komt/165063537.html",
+   "description": "Jensen Huang heeft dinsdag zijn excuses aangeboden aan de werknemers van Nvidia voor het overtreden van de gedragscode van het AI-chipbedrijf en verteld dat hij in therapie is. Hij keerde maandag na minder dan twee weken terug als CEO. Dat heeft volgens Huang niets te maken met de tussenkomst van Amerikaans president Donald Trump.",
+   "date": "2026-11-25T03:13:10",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huawei in VS schuldig bevonden aan diefstal van bedrijsgeheimen",
+   "link": "https://nos.nl/l/2640907",
+   "description": "Het Chinese technologiebedrijf Huawei is door een Amerikaanse jury schuldig bevonden aan het samenzweren voor het stelen van bedrijfsgeheimen, bankfraude en het omzeilen van Amerikaanse sancties. Van de ernstigste aanklacht - het runnen van een criminele organisatie - werd het bedrijf echter vrijgesproken.\n        Het bedrijf werd ervan beschuldigd banken te hebben misleid over bedrijfsactiviteiten in Iran en bedrijfsgeheimen van Amerikaanse ondernemingen te hebben gestolen. In 2018 werd Meng Wanzhou, de Chinese topvrouw van Huawei, opgepakt in Canada op last van de Verenigde Staten vanwege schending van het Amerikaanse handelsembargo met Iran.\n        Deal\n        Ze zat drie jaar vast in Canada. Wanzhou sloot een deal met de Amerikaanse aanklager, waarna ze terug mocht keren naar China. De zaak tegen Huawei als bedrijf bleef echter wel bestaan. Het proces tegen het bedrijf bij de federale rechtbank in Brooklyn in de stad New York duurde ruim twee maanden. Het Amerikaanse Openbaar Ministerie riep meer dan zestig getuigen op en de advocaten van Huawei lieten nog eens vijftien getuigen aan het woord.\n        Welke straf het Chinese bedrijf krijgt, is nog onbekend. Een rechter gaat dat op 14 september van volgend jaar bekendmaken. Het bedrijf kan in theorie financiële straffen en terugvorderingen opgelegd krijgen die in de miljarden dollars lopen.\n        Boycot\n        Sinds 2018 mochten Amerikaanse overheidsinstanties al geen apparatuur of diensten van Huawei aanschaffen en het bedrijf mag sinds 2019 geen vitale onderdelen meer leveren aan Amerikaanse communicatienetwerken. Ook in andere westerse landen mogen voor de belangrijkste delen van het telecommunicatienetwerk geen onderdelen van Huawei meer worden gebruikt. Volgens geheime diensten in westerse landen is het bedrijf een verlengstuk van de Chinese overheid.\n        In de rechtszaak in de VS ging het onder meer over diefstal. Zo zou het bedrijf volgens het Amerikaanse Openbaar Ministerie internetrouters hebben verkocht die broncodes bevatten van concurrenten. Ook zouden medewerkers onder meer foto's hebben gemaakt van bedrijfsgevoelige informatie. Volgens het OM werden hiermee onder meer de techbedrijven Cisco, Motorola en Fujitsu getroffen.\n        Hoger beroep\n        Huawei ontkent de aanklachten en zegt in hoger beroep te gaan. Volgens het bedrijf gaat het bij veel van de genoemde gevallen over geschillen over bedrijfsgeheimen die in de afgelopen twintig jaar niet via het strafrecht zijn afgehandeld, maar door civiele rechters. Ook ziet het bedrijf de vrijspraak voor het runnen van een criminele organisatie als een bevestiging dat het integer handelt.\n        De westerse gedeeltelijke boycots hebben het bedrijf nauwelijks geschaad. Het bedrijf is nog altijd in zo'n 170 landen actief en verkoopt nog steeds wereldwijd smartphones en telecomapparatuur. Het verlegde een deel van de aandacht naar de chipindustrie. In China is het bedrijf inmiddels een geduchte concurrent geworden voor Nvidia. Bij Huawei werken wereldwijd ruim 200.000 mensen.\n        Het komt weinig voor dat een groot buitenlands concern in de Verenigde Staten door de regering voor de rechter wordt gedaagd. In de meeste gevallen eindigen deze zaken met een schikking voordat de zaak daadwerkelijk begint.",
+   "date": "2026-11-25T01:48:05",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "“Ik zet mijn wekker op 6 uur, zo kan ik nog een halfuur in bed scrollen”: jongeren proberen controle over hun aandacht terug te winnen",
+   "link": "https://www.standaard.be/binnenland/ik-zet-mijn-wekker-op-6-uur-zo-kan-ik-nog-een-halfuur-in-bed-scrollen-jongeren-proberen-controle-over-hun-aandacht-terug-te-winnen/164851228.html",
+   "description": "Wat begint met een bericht beantwoorden of iets opzoeken, eindigt geregeld in een eindeloze scrolsessie. Dat ligt niet aan een gebrek aan wilskracht, benadrukt organisatie Unhooked. “Het is niet jouw schuld, maar die van het algoritme”",
+   "date": "2026-11-24T23:59:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Zonder AI-boom blijft niets over van Trumps economische erfenis",
+   "link": "https://www.standaard.be/opinies/zonder-ai-boom-blijft-niets-over-van-trumps-economische-erfenis/165039131.html",
+   "description": "Het eerherstel voor Jensen Huang is geen economisch recept om welvaart te creëren, maar gekonkel om een oligarchie te beschermen.",
+   "date": "2026-11-24T23:59:00",
+   "feeds": [
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Is Jensen Huang dan echt onmisbaar?",
+   "link": "https://www.standaard.be/economie/is-jensen-huang-dan-echt-onmisbaar/165017883.html",
+   "description": "Dat bedrijven te belangrijk kunnen zijn om te laten vallen, toonde de financiële crisis al. Dat dat nu ook geldt voor bedrijfsleiders als Jensen Huang, doet vragen rijzen over de bedrijfscultuur bij Nvidia en de kwetsbaarheid van de AI-sector. “Het is leuk dat de beurs even omhoogschiet, maar dit dreigt zich te wreken.”",
+   "date": "2026-11-24T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street ziet AI-rally alweer stilvallen",
+   "link": "https://www.tijd.be/r/t/1/id/10706810",
+   "description": "Een dag na de forse rally die Nvidia aanjoeg, drukten verliezen in chip- en AI-aandelen de Nasdaq opnieuw in het rood. Sterke resultaten in defensievere sectoren trokken de Dow Jones op het droge.",
+   "date": "2026-11-24T22:16:41",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Moeite doen voor de ander, dat wás het sinterklaasfeest – en toen kwam AI",
+   "link": "https://www.trouw.nl/opinie/moeite-doen-voor-de-ander-dat-was-het-sinterklaasfeest-en-toen-kwam-ai~b3c6567d/",
+   "description": "",
+   "date": "2026-11-24T22:00:32",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
   {
    "title": "Goldman Sachs ziet rendement op AI-investeringen als bepalend voor toekomst van de sector",
    "link": "https://businessam.be/succes-bij-beleggen-in-ai-hangt-af-van-winstgevendheid-aldus-goldman/",
