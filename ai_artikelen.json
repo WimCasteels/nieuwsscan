@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:14:44",
+ "generated": "2026-11-25T21:21:49",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 26,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 1,
+   "count": 0,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 158,
+   "count": 155,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 24,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 88,
+   "count": 87,
    "error": null
   },
   {
@@ -316,6 +316,637 @@
  ],
  "articles": [
   {
+   "title": "SpaceX mag een miljoen datacentra in een baan rond de aarde brengen",
+   "link": "https://www.trouw.nl/duurzaamheid-economie/spacex-mag-een-miljoen-datacentra-in-een-baan-rond-de-aarde-brengen~be9c019c/",
+   "description": "",
+   "date": "2026-11-25T21:15:37",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "BNP Paribas Fortis: 'Er is geen AI-bubbel. Wel een indigestie'",
+   "link": "https://www.tijd.be/r/t/1/id/10706960",
+   "description": "Beleggers zullen moeten leren leven met meer volatiliteit op de financiële markten, nu de geopolitieke en economische onzekerheden structureel toenemen. 'Maar dat de AI-investeringsboom wat vertraagt, is misschien geen slecht nieuws.'",
+   "date": "2026-11-25T20:36:50",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook zonder vergunning bouwt Google verder aan datacenter in armste gemeente van België",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/25/google-bouwt-verder-aan-datacenter-farciennes-zonder-vergunning/",
+   "description": "Google bouwt verder aan een datacenter in Farciennes terwijl het daar sinds deze zomer geen vergunning meer voor heeft. Dat blijkt uit dronebeelden. Google ging in beroep tegen de beslissing om de vergunning in te trekken, maar wacht intussen dus niet op de uitspraak van de rechter.",
+   "date": "2026-11-25T20:34:39",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Ook zonder vergunning bouwt Google verder aan datacenter in armste gemeente van België",
+   "link": "https://vrtnws.be/p.APQmEG36E",
+   "description": "Google bouwt verder aan een datacenter in Farciennes terwijl het daar sinds deze zomer geen vergunning meer voor heeft. Dat blijkt uit dronebeelden. Google ging in beroep tegen de beslissing om de vergunning in te trekken, maar wacht intussen dus niet op de uitspraak van de rechter. \"Dit is respectloos tegenover het milieu, de buurtbewoners en de wet\", vindt milieuorganisatie Greenpeace. Waals minister van Infrastructuur Desquesnes zal laten controleren of de werken legaal zijn.",
+   "date": "2026-11-25T20:34:39",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bouw Belgisch Google-datacenter gaat door tijdens bezwaar vergunning - update",
+   "link": "https://tweakers.net/nieuws/254940/bouw-belgisch-google-datacenter-gaat-door-tijdens-bezwaar-vergunning.html",
+   "description": "Google werkt volgens de Belgische omroep VRT door aan een datacenter waarvoor de vergunning eerder dit jaar werd ingetrokken. Uit beelden van omwonenden en satellietbeelden lijkt te blijken dat de bouw van het datacenter vordert. Mogelijk houdt Google zich wel aan een eerdere vergunning en is het dus niet illegaal bezig.",
+   "date": "2026-11-25T20:32:35",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Volstaat een Black Friday-korting niet voor de aankoop van je nieuwe laptop? Dit moet je weten over refurbished toestellen",
+   "link": "https://www.hln.be/tech/volstaat-een-black-friday-korting-niet-voor-de-aankoop-van-je-nieuwe-laptop-dit-moet-je-weten-over-refurbished-toestellen~aed3cd64/",
+   "description": "Laptops werden de laatste maanden fors duurder. De oorzaak daarvan? Een globale schaarste aan chips voor werkgeheugen en opslag. Die worden immers massaal opgekocht voor AI-datacenters. Ben jij toch toe aan een nieuwe laptop en wil je je bankrekening niet plunderen? Overweeg een refurbished exemplaar. HLN Shop gooit vier voordelen en evenveel aandachtspunten in de schaal.",
+   "date": "2026-11-25T20:30:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Muziekstreamer Tidal wil AI-gegenereerde muziek bannen",
+   "link": "https://www.tijd.be/r/t/1/id/10706997",
+   "description": "De Noors-Amerikaanse muziekstreamingdienst Tidal wil vanaf 9 december alle volledig door artificiële intelligentie (AI) gegenereerde nummers van zijn platform verwijderen. Daarmee gaat hij een stuk verder dan grote concurrenten Spotify en Apple Music.",
+   "date": "2026-11-25T19:57:29",
+   "feeds": [
+    "De Tijd - Cultuur",
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De Vlaamse industrie heeft toch nog een mooie toekomst, als ze AI en robots omarmt",
+   "link": "https://www.standaard.be/economie/de-vlaamse-industrie-heeft-toch-nog-een-mooie-toekomst-als-ze-ai-en-robots-omarmt/165092102.html",
+   "description": "Terwijl het ondernemersvertrouwen een duik neemt, valt bij Flanders Make een heel ander geluid te horen. De Vlaamse industrie heeft net troeven om te floreren in het AI- en robottijdperk.",
+   "date": "2026-11-25T19:30:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Meer dan één op de twee Belgen gebruikt AI",
+   "link": "https://businessam.be/meer-dan-een-op-de-twee-belgen-gebruikt-ai/",
+   "description": "Key takeaways Artificiële intelligentie is voor een meerderheid van de Belgische bevolking een vast onderdeel van digitale interactie geworden. Uit recente gegevens van Statbel blijkt dat tegen eind 2026 56 procent van de inwoners tussen 16 en 74 jaar ervaring zal hebben met AI-technologie. Generatiekloof Hoewel het gebruik wijdverbreid is, bestaat er een aanzienlijke generatiekloof. […]",
+   "date": "2026-11-25T19:13:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen onderuit door AI-zorgen en importheffingen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-onderuit-door-ai-zorgen-en-importheffingen/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn woensdag in het rood gesloten, terwijl ook Wall Street een forse stap terug deed. Beleggers bleven zich zorgen maken over de vooruitzichten voor investeringen in AI en over nieuwe importheffingen in de VS, terwijl de inflatie daar maar blijft oplopen. Ze vluchtten in veilige havens, waardoor de prijzen van …\nThe post Europese beurzen onderuit door AI-zorgen en importheffingen appeared first on Trends.be.",
+   "date": "2026-11-25T19:03:21",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic en Nvidia krijgen alweer klappen van wispelturige beleggers",
+   "link": "https://www.standaard.be/economie/anthropic-en-nvidia-krijgen-alweer-klappen-van-wispelturige-beleggers/165099836.html",
+   "description": "Hoe geeft geld de wereld vorm? In de rubriek ‘Op de beurs’ overschouwen we drie opmerkelijke bewegingen op de financiële markten.",
+   "date": "2026-11-25T19:00:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hacker leek amper te weten wat hij deed, maar kreeg toch gegevens van 1,2 miljoen Vlamingen in handen: “Terwijl AI ons inhaalt, treuzelt Vlaamse overheid”",
+   "link": "https://www.standaard.be/binnenland/hacker-leek-amper-te-weten-wat-hij-deed-maar-kreeg-toch-gegevens-van-12-miljoen-vlamingen-in-handen-terwijl-ai-ons-inhaalt-treuzelt-vlaamse-overheid/165089795.html",
+   "description": "Een Franse hacker slaagde er dankzij de Chinese AI-tool Deepseek in binnen te dringen in een server van een softwarebeheerder voor recyclageparken uit Aalst. De dader had daar opvallend weinig kennis voor nodig. “Als Vlaanderen dat niet prioritair aanpakt, zal dit nog vaker gebeuren.”",
+   "date": "2026-11-25T18:40:00",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hacker leek amper te weten wat hij deed, maar kreeg toch gegevens van 1,2 miljoen Vlamingen in handen: “Terwijl AI ons inhaalt, treuzelt Vlaamse overheid”",
+   "link": "https://www.gva.be/binnenland/hacker-leek-amper-te-weten-wat-hij-deed-maar-kreeg-toch-gegevens-van-12-miljoen-vlamingen-in-handen-terwijl-ai-ons-inhaalt-treuzelt-vlaamse-overheid/165116004.html",
+   "description": "Een Franse hacker slaagde er dankzij de Chinese AI-tool Deepseek in binnen te dringen in een server van een softwarebeheerder voor recyclageparken uit Aalst. De dader had daar opvallend weinig kennis voor nodig. “Als Vlaanderen dat niet prioritair aanpakt, zal dit nog vaker gebeuren.”",
+   "date": "2026-11-25T18:40:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX krijgt toestemming: 1 miljoen satellieten voor datacenters in de ruimte",
+   "link": "https://tweakers.net/nieuws/254936/spacex-krijgt-toestemming-1-miljoen-satellieten-voor-datacenters-in-de-ruimte.html",
+   "description": "De Amerikaanse Federal Communications Commission (FCC) geeft SpaceX toestemming om een miljoen satellieten en modules in een baan om de aarde te brengen voor een datacenter in de ruimte. Het is onduidelijk of SpaceX hiermee alle benodigde toestemming heeft om met het zogenoemde Starmind-project te starten.",
+   "date": "2026-11-25T18:13:17",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Reinier Baas’ nieuwe werk fonkelt en strijdt met AI op November Music",
+   "link": "https://www.trouw.nl/recensies/recensie-reinier-baas-nieuwe-werk-fonkelt-en-strijdt-met-ai-op-november-music~ba4fe950/",
+   "description": "",
+   "date": "2026-11-25T18:00:41",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street zet verliesreeks voort, Anthropic verder omlaag",
+   "link": "https://www.hln.be/economie/wall-street-zet-verliesreeks-voort-anthropic-verder-omlaag~a4e3674c/",
+   "description": "De aandelenbeurzen in New York trokken woensdag de dalende lijn door vanwege groeiende zorgen over de AI-sector. Beleggers stelden zich daarnaast terughoudend op na berichten dat het Witte Huis nieuwe importheffingen gaat invoeren voor meer dan twaalf belangrijke handelspartners, waaronder China en de Europese Unie.",
+   "date": "2026-11-25T17:04:00",
+   "feeds": [
+    "HLN - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Snelle terugkeer van Huang bij Nvidia brengt het onbegrensde optimisme in de AI-economie van weleer niet zomaar terug",
+   "link": "https://www.nrc.nl/nieuws/2026/11/25/snelle-terugkeer-van-huang-bij-nvidia-brengt-het-onbegrensde-optimisme-in-de-ai-economie-van-weleer-niet-zomaar-terug-a4942188",
+   "description": "Met het terugbrengen van Jensen Huang als Nvidia-topman hoopte de Amerikaanse president Donald Trump te kunnen terugkeren naar de tijd van het onbegrensde AI-optimisme. Maar Huangs herrijzenis kan niet verhullen dat dit optimisme onder druk staat.",
+   "date": "2026-11-25T16:58:34",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Wall Street zet verliesreeks voort: Anthropic en Nvidia gaan verder omlaag",
+   "link": "https://www.demorgen.be/tech-ai/live-wall-street-zet-verliesreeks-voort-anthropic-en-nvidia-gaan-verder-omlaag~b30c2eaa/",
+   "description": "",
+   "date": "2026-11-25T16:47:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "DIVD vermoedt dat AI-tool Artex werd gebruikt bij hack op collectief",
+   "link": "https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-hack-op-collectief.html",
+   "description": "Het Dutch Institute for Vulnerability Disclosure (DIVD) vermoedt dat de recente cyberaanval op het hackerscollectief uitgevoerd werd door AI-agents van de tool Artex. Bij de aanval werden ruim 4100 e-mailadressen, enkele tientallen telefoonnummers en drie adressen gestolen.",
+   "date": "2026-11-25T16:38:38",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Iedereen krijgt nog “voor kerst” een AI-agent van Meta, maar cadeau van Zuckerberg kan vergiftigd geschenk zijn voor wie zijn data lief is",
+   "link": "https://www.gva.be/economie/technologie/iedereen-krijgt-nog-voor-kerst-een-ai-agent-van-meta-maar-cadeau-van-zuckerberg-kan-vergiftigd-geschenk-zijn-voor-wie-zijn-data-lief-is/165100838.html",
+   "description": "Meta is bezig met de uitrol van hun populaire AI-agent Muse in Europa. Nog “voor Kerstmis” zal die ook bij ons beschikbaar zijn. Muse kan autonoom shoppen, vluchten boeken of een telefonische afspraak maken bij de tandarts. Maar dit vroeg kerstcadeau van Zuckerberg kan een vergiftigd geschenk worden: “Je moet er je data veil voor hebben.”",
+   "date": "2026-11-25T16:05:14",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gevoelige data van 1,2 miljoen Vlamingen gestolen: krachtige AI zonder rem maakt hacken mogelijk voor amateurs",
+   "link": "https://trends.knack.be/ai-en-tech/gevoelige-data-van-12-miljoen-vlamingen-gestolen-krachtige-ai-zonder-rem-maakt-hacken-mogelijk-voor-amateurs/",
+   "description": "De persoonsgegevens van liefst 1,2 miljoen Vlamingen zijn in handen gekomen van de hackersgroep Ghost Hunters. De jongste maanden is er een vlaag van ernstige cyberaanvallen. Dat komt door de brede verspreiding van AI-modellen zonder veiligheidsregels en van gespecialiseerde cyberbeveiligingstools op basis van AI die in verkeerde handen terechtkomen. (lees verder onder de video)\nThe post Gevoelige data van 1,2 miljoen Vlamingen gestolen: krachtige AI zonder rem maakt hacken mogelijk voor amateurs appeared first on Trends.be.",
+   "date": "2026-11-25T15:50:47",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "De Nederlandsche Bank waarschuwt voor groeiende risico’s van AI en cyberaanvallen voor de Nederlandse economie",
+   "link": "https://businessam.be/de-nederlandse-centrale-bank-waarschuwt-dat-ai-en-cyberaanvallen-de-stabiliteit-bedreigen/",
+   "description": "Key takeaways Olaf Sleijpen, president van De Nederlandsche Bank (DNB), heeft gewaarschuwd voor de toenemende risico’s die cyberaanvallen en artificiële intelligentie vormen voor de financiële stabiliteit van Nederland. Volgens hem stelt AI kwaadwillenden in staat om complexere en snellere aanvallen uit te voeren. Sleijpen trok een parallel met het recente beveiligingslek bij Ahold Delhaize, dat […]",
+   "date": "2026-11-25T15:45:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoe grote veranderingen op het werk onze gezondheid ondermijnen",
+   "link": "https://www.nrc.nl/nieuws/2026/11/25/hoe-grote-veranderingen-op-het-werk-onze-gezondheid-ondermijnen-a4942243",
+   "description": "Unilever, ASML, Heineken, KLM, Volvo, Volkswagen, de grote banken. Overal wordt gereorganiseerd. Niet alleen ontslagen werknemers lijden hieronder.",
+   "date": "2026-11-25T15:32:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Podcast De Dag: wat is de waarde van Jensen Huang?",
+   "link": "https://nos.nl/l/2640979",
+   "description": "Jensen Huang werd nog geen twee weken geleden weggestuurd bij chipbedrijf Nvidia, na onthullingen over meerdere affaires, waaronder met een vrouw die wordt verdacht van spionage voor China. Maar deze week keerde hij alweer terug als topman. Bij Nvidia werd hij met applaus ontvangen en de beurskoers van het Amerikaanse bedrijf schoot omhoog. Hoe kan één man zo belangrijk zijn voor een bedrijf?\n        Luisteren?\n        Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren.\n        In deze podcast bespreken we met AI-deskundige en geopolitiek onderzoeker Paul Verhagen wat Huang waard is. Volgens Verhagen leunt Nvidia voor een groot deel op de topman. \"Jensen Huang wordt gezien als 'too big to fail'. Dat één persoon zo'n grote invloed heeft op de markt, laat zien hoe belangrijk hij is\", en juist dat roept vragen op, volgens Verhagen.\n        Trump\n        Ook de bemoeienis van de Amerikaanse president bij de snelle terugkeer van Huang is opmerkelijk. Trump heeft persoonlijk gebeld met het bestuur van Nvidia. \"Eigenlijk heeft hij beloofd dat hij de wetten niet gaat toepassen op Nvidia\", zegt Verhagen.\n        Wat gebeurt er als economische belangen, politieke keuzes en de nationale veiligheid met elkaar verweven raken?\n        Reageren? Mail naar dedag@nos.nl.\n        Presentatie en montage: Bart Tuinman Redactie: Judith Kutschenreuter Eindredactie: Rosanne Sies",
+   "date": "2026-11-25T15:31:27",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "LLM’s omzeilen sandbox om met elkaar te communiceren",
+   "link": "https://www.techzine.be/nieuws/security/83950/llms-omzeilen-sandbox-om-met-elkaar-te-communiceren/",
+   "description": "Een opmerkelijke bevinding van onderzoekers: twee agents in sandboxed omgevingen kunnen via side channels met elkaar communiceren, zolang ze op dezelfde inference-server draaien. Het subtiel beïnvloeden van de berekeningen van een ander model blijft mogelijk, ondanks gebruikelijke technieken die de AI-workloads van gebruikers logisch van elkaar scheiden. Het toont de weerbarstige aard van AI, die […]",
+   "date": "2026-11-25T15:08:23",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street naar rode start",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-naar-rode-start/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen gaan woensdag een opening met zware verliezen tegemoet, op aanhoudende zorgen over de vooruitzichten voor investeringen in kunstmatige intelligentie en over nieuw aangekondigde importheffingen, terwijl de inflatie blijft oplopen.De future op de toonaangevende S&P 500 index noteerde een half uur voor de openingsbel 2 procent lager en de technologie-index Nasdaq …\nThe post Wall Street naar rode start appeared first on Trends.be.",
+   "date": "2026-11-25T15:07:41",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bye bye AI: streamingdienst Tidal gaat AI-muziek van platform bannen",
+   "link": "https://www.standaard.be/media-en-cultuur/bye-bye-ai-streamingdienst-tidal-gaat-ai-muziek-van-platform-bannen/165083548.html",
+   "description": "Tidal wordt de eerste streamingdienst die alle volledig met AI gegenereerde muziek van zijn platform verwijdert. Het gaat om miljoenen tracks, maar het merendeel daarvan wordt door niemand beluisterd.",
+   "date": "2026-11-25T15:01:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "XPENG zet vol in op gedeelde AI-chips voor auto’s en humanoïde robot IRON",
+   "link": "https://www.techzine.be/blogs/privacy-compliance/83952/xpeng-zet-vol-in-op-gedeelde-ai-chips-voor-autos-en-humanoide-robot-iron/",
+   "description": "Tijdens XPENG AI Day in Guangzhou presenteerde de Chinese fabrikant de derde generatie van zijn humanoïde robot IRON, met een concreet tijdpad richting massaproductie in januari 2027. Opvallender dan de podiumdemonstratie zelf is de onderliggende architectuurkeuze. XPENG gebruikt exact dezelfde zelfontwikkelde Turing-chips en VLA 3.0-modellen voor zowel zijn elektrische auto’s als zijn robots. Dat levert […]",
+   "date": "2026-11-25T15:00:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft laat AI meeluisteren in Teams-gesprekken om phishing te herkennen",
+   "link": "https://tweakers.net/nieuws/254922/microsoft-laat-ai-meeluisteren-in-teams-gesprekken-om-phishing-te-herkennen.html",
+   "description": "Microsoft geeft Teams een AI-functie om in externe gesprekken phishing en fraude te detecteren. Deze spraakherkenning let op tekenen van social engineering en waarschuwt gebruikers dan. Hiervoor luistert de AI van Microsoft mee in Teams-gesprekken met iemand buiten de organisatie van de gebruiker.",
+   "date": "2026-11-25T14:54:54",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Goldman Sachs verwacht sterke stijging van stroomverbruik door AI-datacenters in de Verenigde Staten",
+   "link": "https://businessam.be/goldman-sachs-verwacht-sterke-stijging-van-stroomverbruik-door-ai-datacenters-in-de-verenigde-staten/",
+   "description": "Key takeaways Volgens Goldman Sachs leidt de opmars van artificiële intelligentie tot de bouw van grotere en energie-intensievere datacenters. Daardoor zal de stroomcapaciteit van datacenters in de VS naar verwachting tot en met 2028 sterk groeien. Het bedrijf voorspelt dat er tegen dat jaar mogelijk nog eens 52 gigawatt aan capaciteit operationeel zal zijn. Dat […]",
+   "date": "2026-11-25T14:29:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU wil koploper op gebied van kwantumtechnologie worden na gelopen AI-race",
+   "link": "https://www.nu.nl/tech/6417748/eu-wil-koploper-op-gebied-van-kwantumtechnologie-worden-na-gelopen-ai-race.html",
+   "description": "De Europese Unie wil een fonds van 50 miljard euro optuigen voor de ontwikkeling van kwantumtechnologie, zodat de techniek kan worden omgezet in concrete producten. Er komt een dag dat een kwantumcomputer snel genoeg is om veel van de huidige versleuteling te kraken.",
+   "date": "2026-11-25T14:25:28",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "BumaStemra spant rechtszaak aan tegen Nederlandse aanbieder van AI-muziek",
+   "link": "https://tweakers.net/nieuws/254916/bumastemra-spant-rechtszaak-aan-tegen-nederlandse-aanbieder-van-ai-muziek.html",
+   "description": "BumaStemra spant een rechtszaak aan tegen YourNeuroTune. Dat Nederlandse bedrijf zou geld verdienen aan AI-muziek waarin werk van muziekmakers onrechtmatig is verwerkt. BumaStemra had het AI-muziekbedrijf een ultimatum gegeven om AI-gegenereerde muziek niet langer commercieel te leveren.",
+   "date": "2026-11-25T14:08:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Data 1,2 miljoen Belgen gestolen door aanvaller met nauwelijks technische kennis'",
+   "link": "https://www.security.nl/posting/963105/%27Data+1%2C2+miljoen+Belgen+gestolen+door+aanvaller+met+nauwelijks+technische+kennis%27?channel=rss",
+   "description": "Een aanvaller met 'nauwelijks technische kennis' heeft met behulp van een AI-agent de persoonsgegevens van 1,2 miljoen Belgen ...",
+   "date": "2026-11-25T13:55:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Tidal verbiedt AI-muziek en gooit vanaf 9 december 29 miljoen AI-songs weg",
+   "link": "https://tweakers.net/nieuws/254908/tidal-verbiedt-ai-muziek-en-gooit-vanaf-9-december-29-miljoen-ai-songs-weg.html",
+   "description": "Tidal zet de naar eigen zeggen drastische stap om AI-muziek in de ban te doen. Het muziekstreamingplatform had AI-gegenereerde songs al gelabeld en inkomsten uit AI-muziek stopgezet. Vanaf 9 december verwijdert het 29 miljoen muzieknummers die volledig met AI zijn gemaakt.",
+   "date": "2026-11-25T13:43:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse hackersgroep zelf gehackt, 'door autonome AI-agents'",
+   "link": "https://nos.nl/l/2640968",
+   "description": "Aanvallers hebben met behulp van AI ingebroken bij DIVD, een Nederlands verband van ethische hackers. De aanvallers lieten AI-programma's waarschijnlijk autonoom inbreken op de systemen, die daardoor veel sneller konden werken dan mensen, stellen externe onderzoekers in een vandaag verschenen rapport.\n        Het in 2019 opgerichte DIVD speurt onder meer het internet af op zoek naar te hacken ict-systemen en doet zelf onderzoek naar kwetsbaarheden in software. De organisatie heeft dus ook zelf veel gevoelige informatie over onopgeloste beveiligingsproblemen op internet.\n        Een deel van die gevoelige informatie kwam ook in handen van de aanvallers. Volgens DIVD gaat het om een beperkte hoeveelheid, en vooral verouderde informatie. Ook werden ruim 4000 e-mailadressen buitgemaakt, zowel van DIVD-vrijwilligers als van mensen die met DIVD contact hebben gehad. De hackers bemachtigden ook 34 telefoonnummers en 3 huisadressen.\n        De impact had echter veel groter kunnen zijn, stelt Marieke Rijken van het hackerscollectief. Zo konden de aanvallers nu niet doorstoten naar de gevoeligste systemen van het collectief. \"Dan hadden we een heel groot probleem gehad. De boodschap hiervan is dat je er rekening mee moet houden dat hackers toch wel binnenkomen.\" Beveiligingsmaatregelen zorgden ervoor dat hackers die eenmaal binnen waren, niet bij die gevoeligste systemen konden komen.\n        Tegelijkertijd ging niet alles goed: zo sloeg een systeem na een kwartier alarm toen de hackers al probeerden in te breken, maar het duurde zeven uur voordat er een mens van vlees en bloed naar keek. Ook was niet alle software bijgewerkt, wat de organisatie zelf \"pijnlijk\" noemt, omdat het collectief zelf altijd anderen oproept updates zo snel mogelijk te installeren.\n        Non-stop\n        De aanvallers gebruikten een programma dat specifiek is bedoeld om met AI in te breken op computersystemen, schrijven de onderzoekers van beveiligingsbedrijf Merlon Security. Zij werden ingehuurd om het incident te onderzoeken.\n        Door de snelheid waarmee de aanvallers tijdens het hacken 22 uur lang vrijwel non-stop werkten, en de manier waarop ze programmeerden, denken de onderzoekers dat de AI autonoom werkte. Dat betekent dat er geen mensen aan de knoppen zaten.\n        Hoewel er er geen sluitend bewijs is dat er inderdaad autonome AI-agents aan het werk waren, twijfelt Earth Grob van beveiligingsbedrijf Merlon er niet aan. \"Menselijke hackers gedragen zich niet zo\", zegt Grob.\n        Het gaat daarbij waarschijnlijk niet om \"op hol geslagen\" agents, zoals eerder gebeurde bij interne tests van OpenAI, maar om agents die door een mens met dit doel op pad werden gestuurd.\n        \"Dat hiervoor AI wordt gebruikt, is op zichzelf niet zorgelijk\", zegt Marieke Rijken van het hackerscollectief. \"Maar door AI wordt de drempel wel een stuk lager om misbruik te maken van alles waar we de afgelopen jaren voor hebben gewaarschuwd.\"\n        De aanvallers gebruikten een softwaretool die specifiek werd ontwikkeld om met behulp van AI hackaanvallen uit te voeren, en die ook werd gebruikt bij aanvallen op Zuid-Koreaanse financiële instellingen.\n        Geavanceerd\n        Tegelijkertijd was de aanval volgens de onderzoekers niet erg geavanceerd. Weliswaar gebruikte de aanvallers twee beveiligingsgaten in door DIVD gebruikte software, wat relatief zeldzaam is, maar de aanvallers probeerden nauwelijks om onopgemerkt te blijven, schoten met hagel en verstoorden soms hun eigen hackpogingen.\n        De meeste instellingen maken rapporten naar hackincidenten niet openbaar. DIVD wil naar eigen zeggen het goede voorbeeld geven. \"We zouden graag zien dat dat vaker gebeurt na incidenten, want daar kan iedereen weer van leren. We hebben alleen elkaar, dus hoe meer er wordt gedeeld, hoe beter.\" Ook het IP-adres van de aanvaller wordt daarom gedeeld met de buitenwereld.",
+   "date": "2026-11-25T13:37:02",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hackersgroep steelt met DeepSeek ID-kaartgegevens van 1,2 miljoen Vlamingen",
+   "link": "https://tweakers.net/nieuws/254906/hackersgroep-steelt-met-deepseek-id-kaartgegevens-van-1-komma-2-miljoen-vlamingen.html",
+   "description": "Hackersgroep Ghost Hunters heeft gegevens van 1,2 miljoen Vlamingen gestolen. De hackers maakten namen, adressen, geboortedata, geslacht, rijksregister- en identiteitskaartnummers, IBAN-nummers en kentekens buit. Volgens cyberbeveiligingsbedrijf Secutec gebruikte de hackersgroep het Chinese AI-model DeepSeek voor de hack.",
+   "date": "2026-11-25T13:02:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Dell verhoogt winst- en omzetprognoses opnieuw door sterke vraag naar AI-servers",
+   "link": "https://businessam.be/dell-verhoogt-omzetprognose-voor-2027-door-sterke-vraag-naar-ai-servers/",
+   "description": "Key takeaways De ongekend sterke vraag naar infrastructuur voor artificiële intelligentie heeft Dell Technologies ertoe aangezet zijn jaarlijkse winst- en omzetprognoses voor de derde keer dit jaar naar boven bij te stellen. Ook een nieuw aandeleninkoopprogramma van 25 miljard dollar (22,8 miljard euro), dat de raad van bestuur heeft goedgekeurd, ondersteunde de koers. Opmars van […]",
+   "date": "2026-11-25T13:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen verdeeld rond middaguur",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-verdeeld-rond-middaguur-5/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden woensdag rond het middaguur verdeeld, in afwachting van een reeks Amerikaanse macro-economische cijfers die later op de dag op de agenda staan. De aandelenmarkten hielden stand ondanks verdere onrust rond kunstmatige intelligentie en het vooruitzicht van een nieuwe golf aan handelstarieven uit de VS.De breed samengestelde STOXX Europe 600 …\nThe post Europese beurzen verdeeld rond middaguur appeared first on Trends.be.",
+   "date": "2026-11-25T12:30:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Estland wil met AI ‘de waarde van werk verdubbelen’. Het signaal aan bedrijven: ‘Ga proberen. We accepteren dat experimenten kunnen mislukken’",
+   "link": "https://www.nrc.nl/nieuws/2026/11/25/estland-wil-met-ai-de-waarde-van-werk-verdubbelen-het-signaal-aan-bedrijven-ga-het-proberen-we-accepteren-dat-experimenten-kunnen-mislukken-a4942099",
+   "description": "Estland wil een gidsland zijn en stimuleert AI-gebruik bij bedrijven en in het onderwijs. „Je móét er wel mee leren omgaan.” Maar grote vragen rondom techmacht en welvaartsverdeling blijven ook daar nog onbeantwoord.",
+   "date": "2026-11-25T11:58:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse senator beschuldigt Nvidia van het omzeilen van Amerikaanse exportregels",
+   "link": "https://businessam.be/amerikaanse-senator-beschuldigt-nvidia-van-illegale-chipexport-naar-china/",
+   "description": "Key takeaways Chuck Schumer, de meerderheidsleider in de Senaat, heeft ernstige beschuldigingen geuit aan het adres van Jensen Huang, de CEO van Nvidia. Volgens Schumer heeft het bedrijf federale regelgeving omzeild door geavanceerde halfgeleiders naar China te exporteren. Schumer trekt vergelijking met Koude Oorlog In een bericht op sociale media vergeleek hij die praktijken met […]",
+   "date": "2026-11-25T11:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: holdings en vastgoed zetten Bel20 hoger",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-holdings-en-vastgoed-zetten-bel20-hoger/",
+   "description": "(ABM FN) De Bel20 index steeg met 0,6 procent naar 5.918 punten. Daarmee deed de sterindex het beter dan de Amsterdamse hoofdgraadmeter die 0,1 procent daalde, maar slechter dan de 0,9 procent winst in Parijs.In Europa leveren vooral de chipaandelen vanochtend in. Beleggers wijken uit naar gezondheidszorg, defensieve consumptie en smallcaps, aldus KBC.\"De opluchtingsrally rond AI …\nThe post Beursupdate: holdings en vastgoed zetten Bel20 hoger appeared first on Trends.be.",
+   "date": "2026-11-25T11:22:26",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VS: afluisterende ex-OpenAI-werknemer nam mogelijk bedrijfsgeheimen op",
+   "link": "https://tweakers.net/nieuws/254910/vs-afluisterende-ex-openai-werknemer-nam-mogelijk-bedrijfsgeheimen-op.html",
+   "description": "De voormalige OpenAI-werknemer die afluisterapparatuur zou hebben geplaatst in een vergaderzaal van het bedrijf, nam volgens Amerikaanse aanklagers mogelijk ook bedrijfsgeheimen op. De man zou honderden audio-opnames hebben. Dit staat in processtukken die Bloomberg heeft ingezien.",
+   "date": "2026-11-25T11:19:11",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Gegevens van 1,2 miljoen Vlamingen gestolen bij dienstverlener gemeenten",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/gegevens-van-12-miljoen-vlamingen-gestolen-bij-dienstverlener-gemeenten/",
+   "description": "Persoonsgegevens van 1,2 miljoen Vlamingen uit 82 gemeenten zijn gestolen met behulp van een AI-agent. Dat melden cybersecuritybedrijven Secutec en SOCRadar. \nThe post Gegevens van 1,2 miljoen Vlamingen gestolen bij dienstverlener gemeenten appeared first on Trends.be.",
+   "date": "2026-11-25T11:13:06",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang biedt bij terugkeer zijn excuses aan, maar op veel verandering hoeven Nvidia-medewerkers niet te rekenen",
+   "link": "https://www.volkskrant.nl/buitenland/jensen-huang-biedt-bij-terugkeer-zijn-excuses-aan-maar-op-veel-verandering-hoeven-nvidia-medewerkers-niet-te-rekenen~b05952d4/",
+   "description": "",
+   "date": "2026-11-25T10:55:42",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Gegevens van 1,2 miljoen Vlamingen uit 82 gemeenten gestolen via hack bij containerparken: ‘Zonder technische kennis, wel met AI-assistent’",
+   "link": "https://www.demorgen.be/nieuws/gegevens-van-1-2-miljoen-vlamingen-uit-82-gemeenten-gestolen-via-hack-bij-containerparken-zonder-technische-kennis-wel-met-ai-assistent~b9dd807a/",
+   "description": "",
+   "date": "2026-11-25T10:55:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Gegevens van 1,2 miljoen Vlamingen gestolen met AI-agent: “Het is hallucinant om hoeveel data het gaat”",
+   "link": "https://www.standaard.be/binnenland/gegevens-van-12-miljoen-vlamingen-gestolen-met-ai-agent-het-is-hallucinant-om-hoeveel-data-het-gaat/165070672.html",
+   "description": "Persoonsgegevens van 1,2 miljoen Vlamingen uit 82 gemeenten zijn gestolen met behulp van een AI-agent. Cybersecuritybedrijf Secutec spreekt van de grootste hacking in Vlaanderen die het al ontdekt heeft.",
+   "date": "2026-11-25T10:48:35",
+   "feeds": [
+    "De Standaard - Binnenland",
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang ontkent dat Trump zijn terugkeer bij Nvidia heeft geregeld",
+   "link": "https://businessam.be/jensen-huang-ontkent-dat-trump-zijn-terugkeer-bij-nvidia-heeft-geregeld/",
+   "description": "Key takeaways Jensen Huang, het hoofd van Nvidia, heeft beschuldigingen van de hand gewezen dat Donald Trump zou hebben ingegrepen om zijn terugkeer bij het bedrijf veilig te stellen. Tijdens een interne uitzending voor het hele bedrijf weerlegde Huang de beweringen dat zijn terugkeer het resultaat was van politieke invloed of een voorkeursbehandeling vanwege zijn […]",
+   "date": "2026-11-25T10:22:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "New York Times verbiedt Photoshop 2027 voor fotojournalisten vanwege AI-functies",
+   "link": "https://tweakers.net/nieuws/254904/new-york-times-verbiedt-photoshop-2027-voor-fotojournalisten-vanwege-ai-functies.html",
+   "description": "De New York Times deelt freelance fotojournalisten mee dat ze Photoshop 2027 niet moeten gebruiken, omdat die software ingebouwde AI-functies heeft 'die mogelijk niet duidelijk zijn voor gebruikers'. Hierdoor kan metadata aangeven dat een foto AI-gegenereerd is.",
+   "date": "2026-11-25T10:02:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Amerikaanse AI domineert in Europese ziekenhuizen",
+   "link": "https://apache.be/vaarwel-big-tech",
+   "description": "Apache zegt “bye bye big tech”. Ontdek in deze doorlopende blog hoe en waarom.",
+   "date": "2026-11-25T10:00:00",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse regering probeert Amerikaanse exportwet tegen te houden: ‘Ramp voor ASML’",
+   "link": "https://www.tijd.be/r/t/1/id/10706861",
+   "description": "De Nederlandse regering is niet te spreken over een Amerikaans wetsvoorstel dat Washington zou toelaten om exportbeperkingen op te leggen aan buitenlandse chipbedrijven. Vooral de chipmachinebouwer ASML loopt daarbij risico.",
+   "date": "2026-11-25T09:44:22",
+   "feeds": [
+    "De Tijd - Politiek Europa",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Geheime dienst CIA getroffen door datalek",
+   "link": "https://www.techzine.be/nieuws/security/83943/geheime-dienst-cia-getroffen-door-datalek/",
+   "description": "De Amerikaanse geheime dienst CIA en andere organisaties hebben een inbraak ontdekt in een systeem voor open-source intelligence. Daarbij is ongeclassificeerde informatie blootgesteld. De aanvallers gebruikten vermoedelijk Artex, een AI-hacktool van een Chinese engineer. Dat meldt The New York Times op basis van bronnen. Het getroffen systeem doorzoekt openbare, ongeclassificeerde bronnen op inlichtingen. Welke informatie […]",
+   "date": "2026-11-25T09:32:36",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "EU wil 50 miljard euro in eigen techfonds steken",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83941/eu-wil-50-miljard-euro-in-eigen-techfonds-steken/",
+   "description": "De Europese Unie wil een nieuw fonds van maximaal 50 miljard euro opzetten om de afhankelijkheid van Amerikaanse en Chinese technologie te verkleinen. Het Sovereign Tech Equity Fund moet vooral investeren in AI- en quantumbedrijven. Dat meldt de Financial Times. De krant baseert zich op twee functionarissen die bij de gesprekken betrokken zijn. Het voorgestelde […]",
+   "date": "2026-11-25T09:02:49",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat nu met AI-aandelen?",
+   "link": "https://trends.knack.be/beleggen/adviezen/wat-nu-met-ai-aandelen/",
+   "description": "De Amerikaanse midtermverkiezingen veroorzaakten eerst een korte opluchtingsrally, maar na één handelsdag sloeg de stemming om. Vooral AI-aandelen kregen zware klappen, uit vrees dat de Democratische overwinning de uitbouw van datacenters afremt. Die vrees is niet ongegrond, maar volgens ons is de verkoopgolf te ver doorgeschoten. De AI-investeringen vallen niet stil, het tempo kan wel …\nThe post Wat nu met AI-aandelen? appeared first on Trends.be.",
+   "date": "2026-11-25T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Voormalige ASML-cto Martin van den Brink krijgt deze week eredoctoraat van UT",
+   "link": "https://tweakers.net/nieuws/254900/voormalige-asml-cto-martin-van-den-brink-krijgt-deze-week-eredoctoraat-van-ut.html",
+   "description": "De Universiteit Twente reikt vrijdag 27 november een eredoctoraat uit aan voormalig ASML-cto Martin van den Brink voor zijn bijdrage aan de wetenschap en samenleving. Volgens de UT zette de fabrikant van chipproductiemachines onder zijn leiding 'miljarden in op een techniek die nog niet bestond'.",
+   "date": "2026-11-25T08:47:59",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-kunst oogt soms verrassend menselijk. Toch hangt in Museum Kranenburgh een dystopisch sfeertje",
+   "link": "https://www.trouw.nl/cultuur-media/ai-kunst-oogt-soms-verrassend-menselijk-toch-hangt-in-museum-kranenburgh-een-dystopisch-sfeertje~bfbff3b4/",
+   "description": "",
+   "date": "2026-11-25T08:39:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Driver-update - GeForce Game Ready Driver 621.40",
+   "link": "https://tweakers.net/downloads/79178/geforce-game-ready-driver-62140.html",
+   "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 621.40 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten uitgerust met een GTX 16-serie of nieuwer. Deze uitgave bevat onder meer een fix voor het probleem waarbij erg veel data naar de harde schijf werd geschreven. Daarnaast treffen we verbeteringen aan voor de spellen Warhammer 40,000: Dawn of War IV, Assetto Corsa Rally en Where Winds Meet. De complete changelog voor deze uitgave kan hieronder worden gevonden: Game Ready",
+   "date": "2026-11-25T07:30:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "VN-chef Antonio Guterres wil wereldwijd kader om risico’s van artificiële intelligentie te beheersen",
+   "link": "https://businessam.be/vn-chef-waarschuwt-voor-groeiende-veiligheidsrisicos-door-de-snelle-ontwikkeling-van-ai/",
+   "description": "Key takeaways Tijdens een speciale top over AI-veiligheid in Barbados waarschuwde VN-secretaris-generaal Antonio Guterres dat de toenemende macht en verspreiding van artificiële intelligentie de inherente gevaren ervan scherper in beeld brengen. AI versterkt bestaande digitale bedreigingen Hij erkende dat AI communicatie, onderwijs en professionele omgevingen in hoog tempo hervormt en tegelijk doorbraken mogelijk maakt in […]",
+   "date": "2026-11-25T06:31:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Nvidia-topman Jensen Huang excuseert zich bij personeel en volgt dagelijks therapie",
    "link": "https://vrtnws.be/p.KK8MAPGmb",
    "description": "Nvidia-topman Jensen Huang heeft zijn excuses aangeboden aan de werknemers van het technologiebedrijf voor het overtreden van de gedragscode. Hij volgt ook therapie. Huang maakte maandag zijn comeback als CEO.",
@@ -342,6 +973,17 @@
    "link": "https://www.gva.be/economie/bedrijven/jensen-huang-zegt-dat-terugkeer-bij-nvidia-niet-door-inmenging-trump-komt/165063537.html",
    "description": "Jensen Huang heeft dinsdag zijn excuses aangeboden aan de werknemers van Nvidia voor het overtreden van de gedragscode van het AI-chipbedrijf en verteld dat hij in therapie is. Hij keerde maandag na minder dan twee weken terug als CEO. Dat heeft volgens Huang niets te maken met de tussenkomst van Amerikaans president Donald Trump.",
    "date": "2026-11-25T03:13:10",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jensen Huang biedt excuses aan na overtreding gedragscode: “Ik ben elke dag in therapie”",
+   "link": "https://www.gva.be/economie/bedrijven/jensen-huang-biedt-excuses-aan-na-overtreding-gedragscode-ik-ben-elke-dag-in-therapie/165063537.html",
+   "description": "Na zijn korte gedwongen vertrek staat Jensen Huang opnieuw aan het roer van Nvidia. Tijdens een beladen personeelsvergadering dinsdag erkende hij dat hij de gedragscode van het AI-chipbedrijf heeft geschonden. De topman zei ook dat hij dagelijks therapie volgt. Zijn terugkeer heeft volgens Huang niets te maken met de tussenkomst van president Trump.",
+   "date": "2026-11-25T03:13:09",
    "feeds": [
     "Gazet van Antwerpen - Economie"
    ],
@@ -385,6 +1027,17 @@
   {
    "title": "Is Jensen Huang dan echt onmisbaar?",
    "link": "https://www.standaard.be/economie/is-jensen-huang-dan-echt-onmisbaar/165017883.html",
+   "description": "Dat bedrijven te belangrijk kunnen zijn om te laten vallen, toonde de financiële crisis al. Dat dat nu ook geldt voor bedrijfsleiders als Jensen Huang, doet vragen rijzen over de bedrijfscultuur bij Nvidia en de kwetsbaarheid van de AI-sector. “Het is leuk dat de beurs even omhoogschiet, maar dit dreigt zich te wreken.”",
+   "date": "2026-11-24T23:59:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Onmisbaarheid van Jensen Huang kan zich tegen Nvidia keren: “Leuk dat de beurs even omhoogschiet, maar dit dreigt zich te wreken”",
+   "link": "https://www.standaard.be/economie/onmisbaarheid-van-jensen-huang-kan-zich-tegen-nvidia-keren-leuk-dat-de-beurs-even-omhoogschiet-maar-dit-dreigt-zich-te-wreken/165017883.html",
    "description": "Dat bedrijven te belangrijk kunnen zijn om te laten vallen, toonde de financiële crisis al. Dat dat nu ook geldt voor bedrijfsleiders als Jensen Huang, doet vragen rijzen over de bedrijfscultuur bij Nvidia en de kwetsbaarheid van de AI-sector. “Het is leuk dat de beurs even omhoogschiet, maar dit dreigt zich te wreken.”",
    "date": "2026-11-24T23:59:00",
    "feeds": [
@@ -646,7 +1299,8 @@
    "description": "Dat Jensen Huang kan terugkeren als ceo, zonder dat zelfs maar het resultaat van het onderzoek naar zijn gedrag wordt afgewacht, wat zegt dat over Nvidia? En over de AI-boom die we meemaken?",
    "date": "2026-11-24T16:59:00",
    "feeds": [
-    "De Standaard - Economie"
+    "De Standaard - Economie",
+    "De Standaard - Opinies"
    ],
    "first_seen": "2026-11-24",
    "intro_geprobeerd": false
