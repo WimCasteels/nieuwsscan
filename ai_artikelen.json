@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:42:55",
+ "generated": "2026-11-26T20:58:23",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 28,
+   "count": 30,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 160,
+   "count": 159,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 90,
+   "count": 96,
    "error": null
   },
   {
@@ -315,6 +315,655 @@
   }
  ],
  "articles": [
+  {
+   "title": "Waals Gewest beveelt Google om bouw van datacenter stil te leggen",
+   "link": "https://www.demorgen.be/nieuws/waals-gewest-beveelt-google-om-bouw-van-datacenter-stil-te-leggen~bac9af72/",
+   "description": "",
+   "date": "2026-11-26T20:54:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "AI levert het brein, robots de spierkracht: humanoïden zullen de economie sneller en ingrijpender veranderen dan u denkt",
+   "link": "https://www.standaard.be/economie/ai-levert-het-brein-robots-de-spierkracht-humanoden-zullen-de-economie-sneller-en-ingrijpender-veranderen-dan-u-denkt/165160162.html",
+   "description": "Binnen vijf à tien jaar doen mensachtige robots het huishouden en spoedig ook de tuin, het metselwerk en de ouderenzorg. Zijn we klaar om de humanoïden te ontmoeten?",
+   "date": "2026-11-26T19:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Hoeveel wint Peking echt bij het Nvidia-schandaal? “De achterstand van China bedraagt geen jaren meer, maar maanden”",
+   "link": "https://www.standaard.be/economie/hoeveel-wint-peking-echt-bij-het-nvidia-schandaal-de-achterstand-van-china-bedraagt-geen-jaren-meer-maar-maanden/165082761.html",
+   "description": "Het Nvidia-schandaal toont dat Peking erin slaagde om toegang te krijgen tot aanzienlijke volumes Nvidia-chips, legaal en illegaal. Wat betekent dat voor de AI-race met de VS? En waarom kan China die Nvidia-chips niet gewoon kopiëren?",
+   "date": "2026-11-26T19:40:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Na de grote gegevensdiefstal in het recyclagepark: wat moet je doen na een datalek?",
+   "link": "https://www.standaard.be/media-en-cultuur/na-de-grote-gegevensdiefstal-in-het-recyclagepark-wat-moet-je-doen-na-een-datalek/165171305.html",
+   "description": "Hackers die met persoonsgegevens aan de haal gaan: het gebeurt steeds vaker, zeker in tijden van AI. Hoe bescherm je je ertegen? “Je moet alles dubbelchecken.”",
+   "date": "2026-11-26T19:35:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Anthropic of “Anflopic”? Wie op de eerste dag aandelen kocht, is vooral een pak geld kwijt",
+   "link": "https://www.gva.be/economie/anthropic-of-anflopic-wie-op-de-eerste-dag-aandelen-kocht-is-vooral-een-pak-geld-kwijt/165175446.html",
+   "description": "Een week na de grote beursgang is de grote hype rond Anthropic gaan liggen. Wie op de eerste dag aandelen kocht, is vooral een pak geld kwijt. Maar de oorlogskas van het bedrijf achter Claude is wel stevig gespijsd.",
+   "date": "2026-11-26T19:32:56",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "In tijden van AI word ik vrolijk van taalfouten als ‘GFT-baks’",
+   "link": "https://www.standaard.be/binnenland/in-tijden-van-ai-word-ik-vrolijk-van-taalfouten-als-gft-baks/165092296.html",
+   "description": "Vrijdag gaat Winterpret open in Brussel, met lampjes, standjes en taalfouten. Politieke ergernis heeft de boel inmiddels opgeschoond. ‘De Beursplein’ is weg. An Olaerts vindt het jammer, want gepruts is een warm bewijs van menselijkheid.",
+   "date": "2026-11-26T19:32:48",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Nvidia legt leveringen AI-chips aan Zuidoost-Azië stil'",
+   "link": "https://tweakers.net/nieuws/254978/nvidia-legt-leveringen-ai-chips-aan-zuidoost-azie-stil.html",
+   "description": "Nvidia pauzeert zijn leveringen van AI-chips aan Zuidoost-Azië. Dat zeggen ingewijden tegen de Financial Times. Het bedrijf doet dat in navolging van Amerikaans exportbeleid, om te voorkomen dat Chinese bedrijven toegang krijgen tot Nvidia's AI-chips.",
+   "date": "2026-11-26T19:27:42",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waals Gewest legt bouw van datacenter van Google in Farciennes stil",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/26/google-waals-gewest/",
+   "description": "Het Waals Gewest heeft de werkzaamheden op de bouwwerf van Google in Farciennes laten stilleggen. Google had sinds deze zomer geen vergunning meer voor de bouw van een groot datacenter, maar het technologiebedrijf is de voorbije maanden doorgegaan met de bouwwerken.",
+   "date": "2026-11-26T19:13:43",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Waals Gewest legt bouw van datacenter van Google in Farciennes stil",
+   "link": "https://vrtnws.be/p.3BwNWZQNJ",
+   "description": "Het Waals Gewest heeft de werkzaamheden op de bouwwerf van Google in Farciennes laten stilleggen. Google had sinds deze zomer geen vergunning meer voor de bouw van een groot datacenter, maar het technologiebedrijf is de voorbije maanden doorgegaan met de bouwwerken.",
+   "date": "2026-11-26T19:13:43",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Duitse softwarereus SAP plant AI-reorganisatie: 10.000 jobs in gevaar'",
+   "link": "https://www.tijd.be/r/t/1/id/10707198",
+   "description": "Volgens het persagentschap Bloomberg staan bij de Duitse specialist in bedrijfssoftware SAP 10.000 jobs op de helling. SAP bereidt een herstructurering voor om klaar te zijn voor het AI-tijdperk en 'AI dieper in de software verankeren'.",
+   "date": "2026-11-26T18:56:03",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waals gewest beveelt Google om bouw datacenter stil te leggen",
+   "link": "https://www.gva.be/economie/bedrijven/waals-gewest-beveelt-google-om-bouw-datacenter-stil-te-leggen/165173437.html",
+   "description": "Het Waalse gewest heeft donderdag bevolen om de bouw van een datacenter in de gemeente Aiseau-Presles stil te leggen. Dat zegt Raphaël Stokys, ambtenaar voor het gewest.",
+   "date": "2026-11-26T18:55:37",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Le Soir betrapt journalist op ongeoorloofd gebruik van AI",
+   "link": "https://apache.be/2026/11/26/le-soir-betrapt-journalist-op-ongeoorloofd-gebruik-van-ai",
+   "description": "De Franstalige kwaliteitskrant Le Soir heeft geruisloos afscheid genomen van een journalist.",
+   "date": "2026-11-26T18:54:04",
+   "feeds": [
+    "Apache.be - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen boeken stevige winsten op stille donderdag",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-boeken-stevige-winsten-op-stille-donderdag/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen sloten donderdag met stevige winsten. Hoewel tegenvallende Amerikaanse inflatiecijfers een dag eerder nog voor schrik zorgden, trok de markt weer aan. Koopjesjagers grepen hun kans en het vertrouwen in AI bleef stabiel.De breed samengestelde STOXX Europe 600-index sloot 1,8 procent hoger op 636,98 punten en de Duitse DAX won 2,1 …\nThe post Europese beurzen boeken stevige winsten op stille donderdag appeared first on Trends.be.",
+   "date": "2026-11-26T18:39:35",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Ook gevolgen voor vestiging in Machelen? “Softwarebedrijf SAP overweegt minstens 10.000 banen te schrappen”",
+   "link": "https://www.gva.be/economie/bedrijven/ook-gevolgen-voor-vestiging-in-machelen-softwarebedrijf-sap-overweegt-minstens-10.000-banen-te-schrappen/165171489.html",
+   "description": "De Duitse ontwikkelaar van bedrijfssoftware SAP overweegt wereldwijd minstens 10.000 banen te schrappen, met de komst van artificiële intelligentie (AI). Dat bericht persagentschap Bloomberg donderdag op basis van anonieme bronnen bij het bedrijf.",
+   "date": "2026-11-26T18:17:41",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "\"Het zou wel eens sneller kunnen gaan dan we denken\": hoe realistisch is plan van Musk voor 1 miljoen datacenter-satellieten?",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/26/starmind-ai-datacenter-in-ruimte-hoe-realistisch/",
+   "description": "Het plan van SpaceX om 1 miljoen datacenter-satellieten uit te rollen, roept heel wat vragen op. Het kan leiden tot meer lichtvervuiling en mogelijke botsingen in de ruimte. Verschillende technologische uitdagingen, zoals de koeling, zijn nog niet opgelost.",
+   "date": "2026-11-26T18:06:20",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "\"Het zou wel eens sneller kunnen gaan dan we denken\": hoe realistisch is plan van Musk voor 1 miljoen datacenter-satellieten?",
+   "link": "https://vrtnws.be/p.11pNdmZxn",
+   "description": "Het plan van SpaceX om 1 miljoen datacenter-satellieten uit te rollen, roept heel wat vragen op. Het kan leiden tot meer lichtvervuiling en mogelijke botsingen in de ruimte. Verschillende technologische uitdagingen, zoals de koeling, zijn nog niet opgelost. \"Het zou weleens sneller kunnen gaan dan we denken\", merkt ruimtevaartonderzoeker Pieter Deleye op.",
+   "date": "2026-11-26T18:06:20",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een AI-robot die zijn superioriteit benadrukt tegenover een sollicitant – logisch dat die viraal gaat",
+   "link": "https://www.volkskrant.nl/tech/een-ai-robot-die-zijn-superioriteit-benadrukt-tegenover-een-sollicitant-logisch-dat-die-viraal-gaat~bd5c7ff5/",
+   "description": "",
+   "date": "2026-11-26T18:00:55",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Nvidia treft schikking van 290 miljoen dollar in zaak over cryptominers",
+   "link": "https://tweakers.net/nieuws/254976/nvidia-treft-schikking-van-290-miljoen-dollar-in-zaak-over-cryptominers.html",
+   "description": "Nvidia treft een schikking van 290 miljoen dollar met beleggers die het bedrijf in 2018 aanklaagden. Zij stelden dat de gpu-maker onvoldoende bekendmaakte hoeveel cryptominers bijdroegen aan de verkoopcijfers van gaming-gpu's.",
+   "date": "2026-11-26T17:52:12",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: SAP overweegt minstens 10.000 banen te schrappen",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-sap-overweegt-minstens-10-000-banen-te-schrappen/",
+   "description": "(ABM FN-Dow Jones) SAP bereidt een plan voor om minstens 10.000 functies te schrappen om het bedrijf klaar te stomen voor het tijdperk van kunstmatige intelligentie. Dit meldde Bloomberg donderdag op basis van bronnen. De herstructurering van het Duitse softwarebedrijf zou gevolgen hebben voor ten minste 9 procent van het wereldwijde personeelsbestand, aldus de bronnen. Het …\nThe post Media: SAP overweegt minstens 10.000 banen te schrappen appeared first on Trends.be.",
+   "date": "2026-11-26T17:40:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Black Friday duurt steeds langer, maar wordt daardoor voor consumenten minder interessant",
+   "link": "https://www.nrc.nl/nieuws/2026/11/26/black-friday-duurt-steeds-langer-maar-wordt-daardoor-voor-consumenten-minder-interessant-a4942347",
+   "description": "Om logistieke pieken op te vangen, is Black Friday opgerekt tot een maand. Daardoor voelen consumenten minder urgentie bij de aanbiedingen, ziet ABN Amro. Hoe effectief is korting nog in de strijd om aandacht van de consument als die vooral met AI z’n inkopen doet?",
+   "date": "2026-11-26T17:23:52",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Een miljoen satellieten lanceren voor datacenters in de ruimte: waanzin of binnenkort realiteit?",
+   "link": "https://www.standaard.be/economie/een-miljoen-satellieten-lanceren-voor-datacenters-in-de-ruimte-waanzin-of-binnenkort-realiteit/165139461.html",
+   "description": "Als er geen plaats meer is voor datacenters op aarde, plaats die dan in de ruimte, redeneert SpaceX. Musks bedrijf krijgt nu de toelating om één miljoen satellieten te lanceren. Is het dan echt zo eenvoudig?",
+   "date": "2026-11-26T16:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Jongeren moeten hun denken door AI &#8216;laten verrijken en niet vervangen&#8217;,  vinden onderzoekers",
+   "link": "https://www.nrc.nl/nieuws/2026/11/26/studenten-moeten-hun-denken-door-ai-laten-verrijken-en-niet-vervangen-vinden-onderzoekers-a4942264",
+   "description": "Is AI verantwoord in te zetten in het onderwijs? Onderzoekers Josien Boetje en Els Stronks willen docenten op weg helpen, want vooralsnog ontbreekt wetgeving. „Deel je scherm en laat zien hoe je AI hebt gebruikt.”",
+   "date": "2026-11-26T16:21:50",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Hegseth en Pentagon-leiders overwogen om met wet uit oorlogstijd Nvidia te dwingen Huang terug te halen, meldt ‘Washington Post’",
+   "link": "https://www.demorgen.be/snelnieuws/live-na-tik-van-hooggerechtshof-regering-trump-komt-met-nieuwe-importheffingen-voor-onder-meer-china-en-eu~b13cc951/",
+   "description": "",
+   "date": "2026-11-26T16:08:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": ".Geek - Jensen Huang krijgt gedenkplaat bij Denny's terug na comeback als Nvidia-ceo",
+   "link": "https://tweakers.net/geek/254970/jensen-huang-krijgt-gedenkplaat-bij-dennys-terug-na-comeback-als-nvidia-ceo.html",
+   "description": "Het was een bewogen maand voor Nvidia. Ceo Jensen Huang moest eerder deze maand opstappen na meerdere affaires, maar staat inmiddels weer aan het roer. Nu kunnen we zeggen dat hij écht terug is. Het Jensen Huang-plakkaat bij de Amerikaanse eetgelegenheid Denny's hangt namelijk weer op zijn plek.",
+   "date": "2026-11-26T15:58:26",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie is er aansprakelijk als een AI-agent bedrijfsgeheimen lekt?",
+   "link": "https://www.techzine.be/blogs/security/83963/wie-is-er-aansprakelijk-als-een-ai-agent-bedrijfsgeheimen-lekt/",
+   "description": "Wie bijna dertig jaar lang aan het front staat van digitale beveiliging, ziet de geschiedenis zich herhalen, maar het tempo juist drastisch versnellen. Bryan Palma begon in de jaren negentig bij de Amerikaanse Secret Service met de bestrijding van cybercriminaliteit en staat nu aan het roer van wereldwijd cybersecuritybedrijf KnowBe4. De rode draad in zijn […]",
+   "date": "2026-11-26T15:30:00",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Journalist Le Soir neemt ontslag na ongeoorloofd AI-gebruik",
+   "link": "https://www.vrt.be/vrtnws/nl/2026/11/26/journalist-le-soir-neemt-ontslag-na-ongeoorloofd-ai-gebruik/",
+   "description": "Een journalist van de Franstalige krant Le Soir heeft onlangs ontslag genomen nadat aan het licht was gekomen dat hij de gebruiksregels voor artificiële intelligentie niet had gerespecteerd. Dat bevestigt hoofdredacteur Xavier Counasse nadat nieuwssite Apache erover had bericht.",
+   "date": "2026-11-26T15:19:39",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Journalist Le Soir neemt ontslag na ongeoorloofd AI-gebruik",
+   "link": "https://vrtnws.be/p.oLqJbpaPQ",
+   "description": "Een journalist van de Franstalige krant Le Soir heeft onlangs ontslag genomen nadat aan het licht was gekomen dat hij de gebruiksregels voor artificiële intelligentie niet had gerespecteerd. Dat bevestigt hoofdredacteur Xavier Counasse nadat nieuwssite Apache erover had bericht. Le Soir heeft de verdachte stukken offline gehaald.",
+   "date": "2026-11-26T15:19:39",
+   "feeds": [
+    "VRT NWS - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wall Street dicht voor Thanksgiving",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-dicht-voor-thanksgiving/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen blijven donderdag gesloten voor de viering van Thanksgiving.Op vrijdag zal er een verkorte handelsdag zijn. Veel Amerikanen gaan tijdens deze feestdagen naar hun familie en doen de dag erna inkopen voor de feestdagen.In Europa krabbelden de aandelenmarkten donderdag op, na de forse verliezen van met name AI-gerelateerde chip- en technologiebedrijven …\nThe post Wall Street dicht voor Thanksgiving appeared first on Trends.be.",
+   "date": "2026-11-26T14:57:29",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese consument houdt AI op afstand bij online Black Friday-aankopen",
+   "link": "https://trends.knack.be/geld/europese-consument-houdt-ai-op-geruime-afstand-bij-online-black-friday-aankopen/",
+   "description": "Ook bij consumenten raakt kunstmatige intelligentie snel ingeburgerd. Zo verwelkomt 65 procent van de Europeanen AI-hulp bij het zoeken naar informatie, het invullen van formulieren of het verkennen van financiële producten. Maar zodra het gaat om het uitbesteden van online aankopen, keldert het vertrouwen tot onder 20 procent. Dat blijkt uit onderzoek van Signicat in aanloop naar Black Friday.\nThe post Europese consument houdt AI op afstand bij online Black Friday-aankopen appeared first on Trends.be.",
+   "date": "2026-11-26T14:44:28",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Woede over Meta-bril zet Nederlandse rechter onder druk: ‘U bent de eerste die hierover moet oordelen’",
+   "link": "https://www.ad.nl/tech/woede-over-meta-bril-zet-nederlandse-rechter-onder-druk-u-bent-de-eerste-die-hierover-moet-oordelen~a8e44531/",
+   "description": "De ophef die de afgelopen maanden is ontstaan over Meta’s slimme AI-bril legt een grote verantwoordelijkheid op de schouders van de Nederlandse rechter. Die moet als eerste ter wereld oordelen of het veelbesproken product moet worden verboden. Een uitspraak met mogelijk verstrekkende gevolgen. Niet alleen voor Meta, maar ook voor de toekomst van vergelijkbare AI-technologie.",
+   "date": "2026-11-26T14:30:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Kamervragen over impact van AI-modus Google Search op basisscholieren",
+   "link": "https://www.security.nl/posting/963285/Kamervragen+over+impact+van+AI-modus+Google+Search+op+basisscholieren?channel=rss",
+   "description": "In de Tweede Kamer zijn vragen aan staatssecretaris Tielen van Onderwijs gesteld over de impact van de AI-modus in Google ...",
+   "date": "2026-11-26T14:24:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rechter beslist over verbod op Meta-bril vanwege misbruik met stiekem filmen",
+   "link": "https://nos.nl/l/2641106",
+   "description": "De Consumentenbond en de stichtingen Offlimits en The Firewall willen dat de camerabril van Meta verboden wordt. De drie organisaties pleitten daar vandaag voor in de rechtbank in Amsterdam. Meta, ook het bedrijf achter Facebook, Instagram en WhatsApp, verzet zich daartegen.\n        Meta heeft de bril gemaakt samen met EssilorLuxottica, het bedrijf achter onder meer Ray-Ban. Het montuur bevat een kleine camera. Een lampje gaat branden als de camera wordt gebruikt om te laten weten dat iemand een foto of video maakt. Maar volgens de organisaties die een verbod willen, is dat niet altijd duidelijk.\n        De camerabril kan gebruikt worden om mensen te filmen of te fotograferen zonder dat zij dat doorhebben, zegt de advocaat van Offlimits, een organisatie die strijdt tegen online grensoverschrijdend gedrag. Hij zegt de camerabril zelf op straat te hebben gedragen. \"Ik voelde me een stiekeme gluurder, maar ik werd niet herkend als gluurder.\"\n        De organisaties wijzen ook op andere plekken waar stiekem beelden kunnen worden opgenomen: in kleedkamers, bij speeltuinen, op het strand en in de badkamer.\n        Meta: 'Niet verantwoordelijk voor misbruik'\n        Meta zegt dat de Meta-bril niet is ontworpen of wordt verkocht als stiekem-opnameapparaat. Het bedrijf zegt dat de bril bedoeld is voor normaal gebruik: zonder handen foto's maken, muziek luisteren, bellen en vragen stellen aan de AI-assistent.\n        Ook zegt het bedrijf dat het maatregelen heeft genomen om te voorkomen dat er opnames worden gemaakt als het lampje wordt afgedekt, bijvoorbeeld met een sticker. De eisers zeggen juist dat ook zonder sticker niet altijd duidelijk is dat het lampje brandt, bijvoorbeeld in zonlicht.\n        Volgens Meta kan het bedrijf niet verantwoordelijk worden gehouden van misbruik door \"een kleine groep gebruikers\". Het bedrijf wijst erop dat in deze zaak maar een paar meldingen bij Offlimits zijn ingediend die gingen over misbruik van de Meta-bril in Nederland, terwijl de Meta-brillen al ruim een jaar te koop zijn.\n        Offlimits zegt dat er voldoende bewijs is voor grootschalig misbruik, en verwees daarvoor naar een recent artikel in De Telegraaf. Volgens de krant werden stiekem gemaakte beelden op onder meer het strand, festivals en supermarkten van honderden Nederlandse vrouwen in een Telegram-groep gedeeld.\n        Dat Offlimits daar geen meldingen van krijgt, is volgens de stichting logisch. \"Veel slachtoffers weten juist niet dat ze zijn gefilmd, daarom kunnen zij dus ook geen melding maken.\"\n        Kabinet en toezichthouder pleiten niet voor verbod\n        Meta vindt ook dat de rechter in deze zaak niet kan beslissen over een verbod of niet. Volgens het bedrijf hoort dat oordeel thuis bij de politiek of de toezichthouder.\n        Na vragen van Tweede Kamerleden zei het kabinet in september niets te zien in een algemeen verbod voor camerabrillen. De Autoriteit Persoonsgegevens zei vorige week dat \"simpelweg verbieden\" geen oplossing is, maar is wel uiterst kritisch.\n        De toezichthouder raadt mensen af de bril te kopen en adviseert cafés of festivals om camerabrillen in huisregels te verbieden. De brillen zijn volgens de AP op dit moment \"onveilig vanwege de risico's voor gebruikers en omstanders\".\n        Het advies volgt onder meer op een incident vorig jaar op een festival in Rotterdam, toen een man werd betrapt die met een camerabril stiekem vrouwen bij de toiletten filmde.\n        De rechter doet uiterlijk op 24 december uitspraak.",
+   "date": "2026-11-26T14:20:13",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Huawei wil ASML-restricties omzeilen met slimme chipontwerpen",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83960/huawei-wil-asml-restricties-omzeilen-met-slimme-chipontwerpen/",
+   "description": "Al jaren heeft China geen toegang tot de meest geavanceerde chipapparatuur. In tegenstelling tot westerse chips lijkt er ook geen machine de exportrestricties te omzeilen. De kolossale EUV-lithografiemachines, exclusief gemaakt door ASML, lijken de enige manier te zijn om de meest verfijnde, meest nauwkeurige chipontwerpen te realiseren. Huawei denkt daar anders over, mede geholpen door […]",
+   "date": "2026-11-26T14:09:15",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-gebruik bij Nederlandse bedrijven verdubbelt in een jaar naar 41 procent",
+   "link": "https://tweakers.net/nieuws/254958/ai-gebruik-bij-nederlandse-bedrijven-verdubbelt-in-een-jaar-naar-41-procent.html",
+   "description": "41 procent van de Nederlandse bedrijven gebruikt AI, meldt het CBS. Dat is ruim twee keer zoveel als in 2025, toen nog 18 procent van de bedrijven kunstmatige intelligentie gebruikte. De toename was het grootst bij kleine en middelgrote ondernemingen.",
+   "date": "2026-11-26T13:28:25",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Miljoen datacenters van Musk in de ruimte? 'Maak me zorgen of het veilig kan'",
+   "link": "https://nos.nl/l/2641100",
+   "description": "De Amerikaanse autoriteiten hebben Elon Musk toestemming gegeven om met zijn bedrijf SpaceX een miljoen datacenters in de ruimte te brengen. Wetenschappers zetten echter grote vraagtekens bij de haalbaarheid en de veiligheid van het plan. \"Dat je het kan doen, wil niet zeggen dat je het ook móet doen\", waarschuwt satellietdeskundige Marco Langbroek van de TU Delft.\n        Communicatiewaakhond FCC had geen bezwaar tegen de plannen van SpaceX om Starmind op te zetten, een enorm satellietnetwerk van datacenters bedoeld voor AI-toepassingen op aarde. Volgens de afspraken moet er voor 2033 ten minste één satelliet zijn gelanceerd, twee jaar later moeten dat er al 100.000 zijn. Voor eind 2040 moet alles operationeel zijn.\n        \"Ik kan er met mijn hoofd niet bij\", verzucht Langbroek. \"Vanuit de veiligheid in de ruimte is het totaal onverstandig.\" Volgens hem gooit Musk de veiligheid van zo'n complex project \"over de heg\".\n        Verkeersregelaar nodig\n        Langbroek wijst erop dat de bestaande systemen al nauwelijks kunnen bijhouden waar precies alle satellieten vliegen. Dat zijn er naar schatting zo'n 17.000, waarvan er ongeveer 11.000 in de afgelopen paar jaar door Musks SpaceX zijn gelanceerd.\n        \"We zien dat het huidige trackingnetwerk van het Amerikaanse leger het al met moeite kan bijhouden. Er worden minder vaak baanupdates gegeven en er treden vaker fouten op. Ook duurt het na lanceringen langer voordat een baan te zien is.\"\n        De kans op botsingen neemt daardoor toe. Er zouden zelfs kettingreacties kunnen ontstaan waarbij brokstukken van het ene apparaat weer een gevaar vormen voor het andere. \"De moderne maatschappij is zo afhankelijk van satellieten dat als er iets misgaat in de ruimte, het ook heel grote gevolgen op aarde zal hebben.\"\n        Veel weerstand\n        Musk ziet Starmind als een oplossing voor het verzet tegen datacentra op aarde. Die vreten energie, slurpen koelwater en veroorzaken geluidsoverlast met hun constante gebrom. De tegenstand is groot: bij de recente verkiezingen in de VS stemden kiezers in 40 van 41 referenda voor strengere maatregelen.\n        Satellieten zouden die bezwaren wegnemen: in de ruimte hoort niemand het gebrom en stroom zouden de satellieten uit zonnepanelen krijgen. \"Dit zal een enorme aanwinst zijn voor de VS en de wereld\", beloofde Musk in reactie op het FCC-besluit.\n        De American Astronomical Society denkt daar anders over. De sterrenkundigen vrezen dat de nachtlucht zal oplichten met de talloze voorbijschietende satellieten. Dat gebeurt nu al door de minisatellietjes van Musks Starlink, die met het blote oog zichtbaar zijn. De nieuw voorgestelde satellieten zijn 30 bij 75 meter groot, ongeveer een kwart van de oppervlakte van het ISS.\n        Invloed op klimaat\n        Langbroek ziet nog een bezwaar: wat omhoog gaat, zal een keer ook weer neerkomen. \"Bij de terugkeer in de dampkring van oude satellieten blijft materiaal achter in de bovenste atmosfeer. Dat is nu al merkbaar, aluminiumoxides die de ozonlaag aantasten. Los daarvan beïnvloedt het de temperatuurbalans in de atmosfeer. Dat heeft allerlei effecten op het klimaat en het weer. We weten daar nog weinig van af, maar hebben er wel grote zorgen over.\"\n        Van internationale regelgeving verwacht Langbroek weinig. \"Als je dat wil regelen via bijvoorbeeld de VN, dan krijg je te maken met heel lange en trage procedures, terwijl dit in rap tempo doorgaat\", stelt hij. \"Je bent heel erg afhankelijk van het lancerende land, maar hier heeft de FCC gewoon een vergunning voor gegeven.\"\n        Wellicht dat praktische bezwaren nog een drempel zijn voor Musk: experts vragen zich af of datacenters hun warmte wel kwijt kunnen in de ruimte. Koeling is immers veel moeilijker in het isolerende vacuüm van de ruimte. Daar bestaat wel een techniek voor, maar die is op deze schaal nog nooit toegepast.",
+   "date": "2026-11-26T12:49:27",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederland wil voorkomen dat VS activiteiten van ASML in China verder aan banden legt",
+   "link": "https://businessam.be/nederland-dringt-er-bij-de-vs-op-aan-de-match-act-in-te-trekken-om-asml-te-beschermen/",
+   "description": "Key takeaways Nederland roept de Verenigde Staten op om af te zien van de MATCH Act. Dat wetsvoorstel zou de beperkingen op de activiteiten van ASML in China aanscherpen. Nederland wil zeggenschap over eigen exportregels behouden Na gesprekken met hooggeplaatste Chinese diplomaten, onder wie minister van Buitenlandse Zaken Wang Yi en vicepremier Ding Xuexiang, verklaarde […]",
+   "date": "2026-11-26T12:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen veren flink op",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-veren-flink-op/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen zijn donderdag scherp gestegen na van de schrik te zijn bekomen van tegenvallende inflatiecijfers vanuit de Verenigde Staten en doordat het sentiment rond de vooruitzichten voor AI stabiel bleef. Rond het middaguur steeg de breed samengestelde STOXX Europe 600-index 1,5 procent tot 635,66 punten en de Duitse DAX won 1,9 procent …\nThe post Europese beurzen veren flink op appeared first on Trends.be.",
+   "date": "2026-11-26T12:17:15",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Love Island VIPS’ wordt gelukkig nog ondertiteld door echte mensen",
+   "link": "https://www.nrc.nl/nieuws/2026/11/26/love-island-vips-wordt-gelukkig-nog-ondertiteld-door-echte-mensen-a4942359",
+   "description": "In Tijd voor MAX vertelde Jacob van Lier over zijn relatie met een AI-chatbot. Onze tv-recensent voelt steeds meer aversie voor levenloze dingen die zich voordoen als mensen.",
+   "date": "2026-11-26T12:00:24",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Romances blijven Nvidia achtervolgen: ook andere topmanager heeft relatie met topvrouw bij verdacht bedrijf",
+   "link": "https://www.standaard.be/economie/romances-blijven-nvidia-achtervolgen-ook-andere-topmanager-heeft-relatie-met-topvrouw-bij-verdacht-bedrijf/165130579.html",
+   "description": "Jay Puri, die tot voor kort hoofd van de verkoopafdeling bij Nvidia was, heeft al jaren een relatie met een topvrouw van Super Micro, een Amerikaans bedrijf waarvan verschillende medewerkers worden verdacht van chipsmokkel naar China.",
+   "date": "2026-11-26T11:57:32",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Open-sourcecode vertekent mogelijk AI-benchmarks",
+   "link": "https://www.techzine.be/nieuws/devops/83959/open-sourcecode-vertekent-mogelijk-ai-benchmarks/",
+   "description": "AI-agents presteren beter bij het werken met publiek beschikbare code dan met niet-openbare code. Dit blijkt uit onderzoek van JetBrains. De bevindingen roepen vragen op over de betrouwbaarheid van AI-codingbenchmarks. JetBrains heeft zijn Kotlin Benchmark herzien. Dit gebeurde nadat het aanwijzingen had gevonden dat AI-agents sluiproutes gebruikten om opdrachten te voltooien, in plaats van zelfstandig […]",
+   "date": "2026-11-26T11:47:41",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "GPT-6.2-gebruikers bereiken limiet tot 40 procent sneller na 'herstelde fout'",
+   "link": "https://tweakers.net/nieuws/254954/gpt-62-gebruikers-bereiken-limiet-tot-40-procent-sneller-na-herstelde-fout.html",
+   "description": "Gebruikers van OpenAI's krachtigste GPT-6.2-modellen lopen sneller tegen de gebruikslimiet aan. Het bedrijf heeft bij de introductie van de modellen naar eigen zeggen een 'factureringsfout' gemaakt. Daardoor konden gebruikers GPT-6.2 Sol en Astra meer gebruiken dan bedoeld.",
+   "date": "2026-11-26T11:38:05",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX mag tot 1 miljoen satellieten lanceren voor AI-datacenters in de ruimte",
+   "link": "https://businessam.be/fcc-keurt-spacex-starmind-ai-datacenters-in-de-ruimte-goed/",
+   "description": "Key takeaways De Amerikaanse telecomregulator FCC heeft SpaceX toestemming verleend om een constellatie van maximaal 1 miljoen satellieten in een baan om de aarde te brengen. “Starmind” Dit ambitieuze initiatief, bekend als Starmind, heeft tot doel datacenters in de ruimte te bouwen die specifiek zijn ontworpen voor toepassingen op het gebied van artificiële intelligentie. Volgens […]",
+   "date": "2026-11-26T11:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Factcheck: foto van Trump, Poetin en Xi is nep, net als die van Hitler, Mussolini en Hirohito",
+   "link": "https://www.knack.be/factcheck/factcheck-foto-van-trump-poetin-en-xi-is-nep-net-als-die-van-hitler-mussolini-en-hirohito/",
+   "description": "Op sociale media gaat een fotocollage rond waarin een ogenschijnlijk recent beeld van Donald Trump, Vladimir Poetin en Xi Jinping wordt gecombineerd met een ‘historische’ afbeelding van Adolf Hitler, Benito Mussolini en keizer Hirohito. AI-detectietools tonen aan dat de foto van de drie huidige wereldleiders met AI gemaakt is, en ook de afbeelding van de drie leiders van de Asmogendheden is niet authentiek. \nThe post Factcheck: foto van Trump, Poetin en Xi is nep, net als die van Hitler, Mussolini en Hirohito appeared first on Knack.",
+   "date": "2026-11-26T11:22:28",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia schort levering van AI-servers aan Indonesië, Thailand, Singapore en Maleisië op",
+   "link": "https://businessam.be/nvidia-schort-levering-van-ai-servers-aan-indonesie-thailand-singapore-en-maleisie-op/",
+   "description": "Key takeaways Na een aanscherping van de Amerikaanse exportregels heeft Nvidia zijn productiepartners opgedragen de levering van AI-servers aan vier landen in Zuidoost-Azië op te schorten. Leveringen aan vier landen opgeschort Volgens een bericht in de Financial Times, dat drie goed geïnformeerde bronnen citeert, hebben partners zoals Supermicro en Dell hun klanten in Indonesië, Thailand, […]",
+   "date": "2026-11-26T10:11:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "CBS: Nederlandse bedrijven maken steeds vaker gebruik van AI",
+   "link": "https://www.security.nl/posting/963194/CBS%3A+Nederlandse+bedrijven+maken+steeds+vaker+gebruik+van+AI?channel=rss",
+   "description": "Het gebruik van AI door Nederlandse bedrijven is in jaar tijd ruim verdubbeld, zo laat het Centraal Bureau voor de Statistiek ...",
+   "date": "2026-11-26T09:49:59",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Google bouwt Belgisch datacenter ondanks geschil over vergunning",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83957/google-bouwt-belgisch-datacenter-ondanks-geschil-over-vergunning/",
+   "description": "Google zet de bouw van een datacenter in het Belgische Farciennes door, hoewel een wijziging in de bouwvergunning is teruggedraaid. Dit meldt Greenpeace op zijn website. De ngo startte een spoedprocedure bij de Waalse overheid om een onmiddellijke stopzetting van het project af te dwingen. Google bouwt het complex met Crystal Computing, een Europese dochteronderneming, […]",
+   "date": "2026-11-26T09:32:36",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Media: Nvidia stopt chipleveringen in Zuidoost-Azië",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/media-nvidia-stopt-chipleveringen-in-zuidoost-azie/",
+   "description": "(ABM FN-Dow Jones) Nvidia heeft zijn partners, waaronder Dell en Supermicro, opgedragen om geen servers meer te verschepen naar klanten in Maleisië, Singapore, Thailand en Indonesië. Dit meldde de Financial Times donderdag op basis van drie bronnen. Dell en Supermicro verwerken de chips van Nvidia in servers en hebben afnemers in de vier landen laten weten …\nThe post Media: Nvidia stopt chipleveringen in Zuidoost-Azië appeared first on Trends.be.",
+   "date": "2026-11-26T09:00:50",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beleggingstip van de week: Upwork, opdrachtenplatform met potentieel, als de transitie slaagt",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/tip-van-de-week-upwork-opdrachtenplatform-met-potentieel-als-de-transitie-slaagt/",
+   "description": "Upwork is ’s werelds grootste onlineplatform voor freelancewerk. Bedrijven plaatsen er opdrachten voor korte- en langetermijnprojecten en worden gekoppeld aan geschikte kandidaten, van softwareontwikkeling en grafisch ontwerp tot schrijven, vertalen, marketing, administratie en AI. Upwork verzorgt de contractuele en financiële afhandeling en verdient aan commissies van freelancers en opdrachtgevers, abonnementen en betaalde zichtbaarheidsopties.Het aandeel heeft …\nThe post Beleggingstip van de week: Upwork, opdrachtenplatform met potentieel, als de transitie slaagt appeared first on Trends.be.",
+   "date": "2026-11-26T09:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cloudflare maakt websites doorzoekbaar voor AI-agents",
+   "link": "https://www.techzine.be/nieuws/applications/83955/cloudflare-maakt-websites-doorzoekbaar-voor-ai-agents/",
+   "description": "Cloudflare introduceert Search for Agents. Met één schakelaar in het dashboard maakt het bedrijf een AI Search-index van een website aan en zet het een zoekendpoint op het eigen domein. AI-agents hoeven pagina’s daardoor niet meer één voor één te crawlen. Cloudflares dienst AI Search kon websites al langer als databron gebruiken. Pagina’s werden automatisch […]",
+   "date": "2026-11-26T08:56:10",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Canonical brengt in januari AI-launcher voor Ubuntu uit",
+   "link": "https://tweakers.net/nieuws/254944/canonical-brengt-in-januari-ai-launcher-voor-ubuntu-uit.html",
+   "description": "Canonical brengt in januari een door AI aangedreven launcher voor Ubuntu uit. Dat meldt Didier Roche, ontwikkelaar bij het bedrijf. De Warty-launcher moet gebruikers 'een nieuwe manier om met je Ubuntu-desktop om te gaan' bieden.",
+   "date": "2026-11-26T08:05:58",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Japan wil na de VS en China de derde grootste AI-macht ter wereld worden",
+   "link": "https://businessam.be/japan-wil-na-de-vs-en-china-de-derde-grootste-ai-macht-ter-wereld-worden/",
+   "description": "Key takeaways Japan bereidt zich voor om ambitieuze nieuwe doelstellingen op te nemen in zijn belangrijkste veiligheidsbeleidsdocumenten, met als doel zich te profileren als de op twee na grootste macht ter wereld op het gebied van artificiële intelligentie, na de Verenigde Staten en China. Fundamentele pijler Volgens uitgelekte concepten van zijn economische veiligheidsstrategie is Japan […]",
+   "date": "2026-11-26T08:01:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Astronomen ‘onthutst’ nu SpaceX miljoen satellieten als ‘vliegende datacenters’ ruimte in mag sturen",
+   "link": "https://www.ad.nl/tech/astronomen-onthutst-nu-spacex-miljoen-satellieten-als-vliegende-datacenters-ruimte-in-mag-sturen~a6f76a4b/",
+   "description": "SpaceX heeft groen licht gekregen voor zijn project ‘Starmind’: de lancering van een miljoen satellieten in een baan rond de aarde.  Het ruimtevaartbedrijf van Elon Musk wil die gebruiken als vliegende datacentra, die kunnen draaien op zonne-energie.",
+   "date": "2026-11-26T07:57:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Nvidia stopt met export van chips naar vier landen in Zuidoost-Azië’",
+   "link": "https://www.ad.nl/tech/nvidia-stopt-met-export-van-chips-naar-vier-landen-in-zuidoost-azie~aba5249d/",
+   "description": "Chipfabrikant Nvidia stopt met de export van chips naar vier landen in Zuidoost-Azië. Dat schrijft zakenkrant Financial Times op basis van drie bronnen. Deze ingreep komt terwijl de VS de exportregels naar China aanscherpt om te voorkomen dat het land toegang krijgt tot superieure AI-chips.",
+   "date": "2026-11-26T07:38:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘The New York Times’ wil dat fotografen nieuwste Photoshop mijden vanwege verborgen AI-functies",
+   "link": "https://www.hln.be/tech/the-new-york-times-wil-dat-fotografen-nieuwste-photoshop-mijden-vanwege-verborgen-ai-functies~a6ef754f/",
+   "description": "‘The New York Times’ vraagt freelancefotografen om Photoshop 2027 niet te gebruiken wanneer ze voor de krant werken. Door ingebouwde AI-functies kunnen foto’s volgens de krant onbedoeld door AI bewerkt worden.",
+   "date": "2026-11-26T07:28:00",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bij de noodzakelijke verbouwing van de wetenschap ontstaat ook ruimte voor gekke ideeën",
+   "link": "https://www.nrc.nl/nieuws/2026/11/26/bij-de-noodzakelijke-verbouwing-van-de-wetenschap-ontstaat-ook-ruimte-voor-gekke-ideeen-a4942155",
+   "description": "De toekomst is aan AI en individuele wetenschappers, denkt het Witte Huis. Universiteiten nemen te weinig risico. Die visie op de ‘nieuwe gouden eeuw’ is niet helemáál fout.",
+   "date": "2026-11-26T07:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-gebruik door bedrijven verdubbeld, inhaalslag bij mkb'ers",
+   "link": "https://nos.nl/l/2641047",
+   "description": "Het aantal bedrijven dat gebruikmaakt van kunstmatige intelligentie, oftewel AI, is in een jaar meer dan verdubbeld. 41 procent van de bedrijven maakt daar gebruik van. Een jaar eerder was dat nog 18 procent, meldt het Centraal Bureau voor de Statistiek (CBS).\n        Bij de grotere bedrijven is het gebruik van AI het hoogst, maar in het midden- en kleinbedrijf (mkb) is het gebruik het sterkst gegroeid. \"Het lijkt erop dat de grote bedrijven bij nieuwe technologieën meteen de middelen en de mensen hebben om ermee aan de slag te gaan\", legt CBS-onderzoeker Luuk Hovius uit.\n        \"Nu we net een paar jaar verder zijn, lijken ook de kleine en middelgrote bedrijven het echt te gebruiken en te omarmen.\" Dat verklaart volgens Hovius waardoor die groei zo snel gaat.\n        AI wordt voornamelijk ingezet voor marketing of verkoop. Ook wordt het gebruikt voor de administratie van een bedrijf of voor bestuurszaken zoals de selectie van sollicitanten of het maken van de planning.\n        De toename van AI-gebruik is het sterkst bij boekhouding, controle en financieel beheer. Dat steeg van 17 procent in 2025 naar 30 procent dit jaar.\n        AI in de horeca\n        In de bouw en in de horeca wordt het minst gebruikgemaakt van AI. Maar het neemt in de horeca wel toe. \"Daar wordt het voor verschillende dingen ingezet, denk bijvoorbeeld aan het maken van teksten voor sociale media, promotiemateriaal, maar ook voor het maken van roosters\", zegt Hovius.\n        Het CBS heeft ook zzp'ers bevraagd hoe ze hiermee omgaan. Van hen gebruikt 60 procent weleens AI, vooral voor het opzoeken van informatie of het stellen van vragen.\n        Meer dan de helft van de bedrijven die één of meer AI-technologieën gebruiken, zegt dat het heeft geleid tot verhoging van de productiviteit. 30 procent zegt dat de inhoud van het werk is veranderd. Een kwart zegt dat AI-gebruik geen gevolgen heeft gehad voor het bedrijf.",
+   "date": "2026-11-26T06:53:10",
+   "feeds": [
+    "NOS - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Steeds meer Nederlandse bedrijven omarmen AI, toename sterkst in midden- en kleinbedrijf",
+   "link": "https://www.volkskrant.nl/tech/steeds-meer-nederlandse-bedrijven-omarmen-ai-toename-sterkst-in-midden-en-kleinbedrijf~b58de124/",
+   "description": "",
+   "date": "2026-11-26T06:30:01",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Video - Wout-reacties, GTA-sportscholen en Nvidia-meetings - Tweakers Podcast #454",
+   "link": "https://tweakers.net/video/20642/wout-reacties-gta-sportscholen-en-nvidia-meetings-tweakers-podcast-454.html",
+   "description": "Deze week praten we over Wout die Tweakers gaat verlaten, de terugkeer van Nvidia-ceo Jensen Huang, GTA VI en watermeters die niet tegen water kunnen.",
+   "date": "2026-11-26T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": ".Geek - Wout-reacties, GTA-sportscholen en Nvidia-meetings - Tweakers Podcast #454",
+   "link": "https://tweakers.net/geek/254924/wout-reacties-gta-sportscholen-en-nvidia-meetings-tweakers-podcast-454.html",
+   "description": "Deze week praten Wout Funnekotter, Arnoud Wokke, Jurian Ubachs en Daan van Monsjou over Wout die Tweakers gaat verlaten, de terugkeer van Nvidia-ceo Jensen Huang, GTA VI en watermeters die niet tegen water kunnen.",
+   "date": "2026-11-26T06:00:00",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
   {
    "title": "AI-wonderboy na rotzomer: 'De enige buy & hold is de Mona Lisa'",
    "link": "https://www.tijd.be/r/t/1/id/10707036",
@@ -354,7 +1003,8 @@
    "description": "",
    "date": "2026-11-26T03:00:47",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-11-26",
    "intro_geprobeerd": true
@@ -365,7 +1015,8 @@
    "description": "",
    "date": "2026-11-26T03:00:46",
    "feeds": [
-    "De Morgen - Meningen"
+    "De Morgen - Meningen",
+    "De Morgen - Best Gelezen"
    ],
    "first_seen": "2026-11-26",
    "intro_geprobeerd": true
@@ -380,6 +1031,29 @@
    ],
    "first_seen": "2026-11-26",
    "intro_geprobeerd": false
+  },
+  {
+   "title": "Gaza is geen AI-laboratorium: waarom Martijn Lauwens oproept om medeplichtigheid te stoppen",
+   "link": "https://www.demorgen.be/meningen/gaza-is-geen-ai-laboratorium-waarom-martijn-lauwens-oproept-om-medeplichtigheid-te-stoppen~bf5c8a8e/",
+   "description": "",
+   "date": "2026-11-26T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen",
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "David Fincher experimenteert met AI en dat zet kwaad bloed bij cinefielen: ‘Het is ronduit een doorn in het oog’",
+   "link": "https://www.demorgen.be/tv-cultuur/david-fincher-experimenteert-met-ai-en-dat-zet-kwaad-bloed-bij-cinefielen-het-is-ronduit-een-doorn-in-het-oog~bc6fb9d2/",
+   "description": "",
+   "date": "2026-11-26T03:00:00",
+   "feeds": [
+    "De Morgen - Best Gelezen"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
   },
   {
    "title": "Live - Wall Street sluit gemengd, AI-zorgen lijken af te nemen",
