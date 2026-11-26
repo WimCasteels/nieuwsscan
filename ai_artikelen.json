@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:21:49",
+ "generated": "2026-11-26T05:42:55",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 26,
+   "count": 28,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 31,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 155,
+   "count": 160,
    "error": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 24,
+   "count": 23,
    "error": null
   },
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 87,
+   "count": 90,
    "error": null
   },
   {
@@ -315,6 +315,116 @@
   }
  ],
  "articles": [
+  {
+   "title": "AI-wonderboy na rotzomer: 'De enige buy & hold is de Mona Lisa'",
+   "link": "https://www.tijd.be/r/t/1/id/10707036",
+   "description": "Leopold Aschenbrenner zegt met zijn fonds Situational Awareness lessen getrokken uit de existentiële crisis in juli. En dat elke belegger alert moet blijven nu AI alles op de schop neemt, ook AI-ster Nvidia en de 'Elonverse'.",
+   "date": "2026-11-26T05:20:39",
+   "feeds": [
+    "De Tijd - Nieuws"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Regering-Trump geeft Elon Musk vergunning voor AI-datacenters in de ruimte: SpaceX mag miljoen satellieten lanceren",
+   "link": "https://www.gva.be/buitenland/regering-trump-geeft-elon-musk-vergunning-voor-ai-datacenters-in-de-ruimte-spacex-mag-miljoen-satellieten-lanceren/165122505.html",
+   "description": "De regering-Trump heeft SpaceX toestemming gegeven om tot één miljoen satellieten in een baan rond de aarde te lanceren. De satellieten van het project “Starmind” moeten dienstdoen als datacenters voor AI-toepassingen. De Amerikaanse telecomregulator FCC gaf het ruimtevaart- en AI-bedrijf van Elon Musk woensdag daarvoor de gevraagde vergunning.",
+   "date": "2026-11-26T04:13:10",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI-snufjes testen op een ontheemde en uitgeputte bevolking: Gaza als dystopie waar twee realiteiten samenkomen",
+   "link": "https://www.demorgen.be/meningen/ai-snufjes-testen-op-een-ontheemde-en-uitgeputte-bevolking-gaza-als-dystopie-waar-twee-realiteiten-samenkomen~bf5c8a8e/",
+   "description": "",
+   "date": "2026-11-26T03:00:50",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Als AI ontspoort, zal Peking sneller ingrijpen dan je Jack Ma kunt zeggen",
+   "link": "https://www.demorgen.be/meningen/als-ai-ontspoort-zal-peking-sneller-ingrijpen-dan-je-jack-ma-kunt-zeggen~b2fac504/",
+   "description": "",
+   "date": "2026-11-26T03:00:47",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Toen ik vroeg wie vindt dat AI echt kan denken, bleven de handen omlaag",
+   "link": "https://www.demorgen.be/meningen/toen-ik-vroeg-wie-vindt-dat-ai-echt-kan-denken-bleven-de-handen-omlaag~be9d436cc/",
+   "description": "",
+   "date": "2026-11-26T03:00:46",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Het huidige beursklimaat is niet voor hartpatiënten: “Ik heb een traantje weggepinkt en dan een kooporder geplaatst”",
+   "link": "https://www.gva.be/binnenland/het-huidige-beursklimaat-is-niet-voor-hartpatienten-ik-heb-een-traantje-weggepinkt-en-dan-een-kooporder-geplaatst/165120814.html",
+   "description": "Het vertrek en de terugkeer van Nvidia-CEO Jensen Huang zette een ‘beursrollercoaster’ vanjewelste in gang. Niet alleen het aandeel van de chipgigant zelf, ook andere techaandelen en populaire ETF’s ook bekend als ‘trackers’ maakten gekke bokkensprongen. Hoe hebben beleggers deze wilde rit ervaren?",
+   "date": "2026-11-26T03:00:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Live - Wall Street sluit gemengd, AI-zorgen lijken af te nemen",
+   "link": "https://www.demorgen.be/tech-ai/live-wall-street-sluit-gemengd-ai-zorgen-lijken-af-te-nemen~b30c2eaa/",
+   "description": "",
+   "date": "2026-11-25T22:26:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wall Street eindigt verdeeld na onrust over AI en inflatie",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/wall-street-eindigt-verdeeld-na-onrust-over-ai-en-inflatie/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse beurzen zijn woensdag verdeeld gesloten. Terwijl de Dow Jones-index de sessie met winst wist af te ronden, eindigden de andere belangrijke graadmeters in het rood onder druk van tegenvallende inflatiecijfers en het van de hand doen van technologieaandelen door beleggers.De hoger dan verwachte inflatie voedde de onrust onder beleggers, wat mede …\nThe post Wall Street eindigt verdeeld na onrust over AI en inflatie appeared first on Trends.be.",
+   "date": "2026-11-25T22:17:20",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "China wil handelsrelaties met Nederland versterken ondanks spanningen rond Nexperia",
+   "link": "https://businessam.be/china-wil-handelsrelaties-met-nederland-versterken-ondanks-spanningen-rond-nexperia/",
+   "description": "Key takeaways Tijdens recente diplomatieke besprekingen in Peking drongen Chinese functionarissen er bij Nederland op aan om samen te werken aan het behoud van betrouwbare en stabiele industriële toeleveringsketens. Spanningen rond Nexperia Die oproep komt op een moment waarop beide landen te maken hebben met spanningen rond Nexperia, een in Nederland gevestigd halfgeleiderbedrijf dat eigendom […]",
+   "date": "2026-11-25T22:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX mag miljoen satellieten in baan rond aarde brengen voor ‘vliegende datacentra’",
+   "link": "https://www.ad.nl/tech/spacex-mag-miljoen-satellieten-in-baan-rond-aarde-brengen-voor-vliegende-datacentra~a89c88f1/",
+   "description": "SpaceX mag in de komende jaren een miljoen satellieten in een baan rond de aarde brengen. Het ruimtevaartbedrijf van Elon Musk wil die gebruiken als vliegende datacentra, die kunnen draaien op zonne-energie.",
+   "date": "2026-11-25T21:38:08",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-26",
+   "intro_geprobeerd": false
+  },
   {
    "title": "SpaceX mag een miljoen datacentra in een baan rond de aarde brengen",
    "link": "https://www.trouw.nl/duurzaamheid-economie/spacex-mag-een-miljoen-datacentra-in-een-baan-rond-de-aarde-brengen~be9c019c/",
@@ -655,6 +765,17 @@
     "NU.nl - Tech"
    ],
    "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Met zijn bemoeienis met Nvidia toont Trump zich een autocratisch leider volgens het boekje",
+   "link": "https://www.nrc.nl/nieuws/2026/11/25/met-zijn-bemoeienis-met-nvidia-toont-trump-zich-een-autocratisch-leider-volgens-het-boekje-a4942284",
+   "description": "Als de president met een pennenstreek de beurskoers van een bedrijf kan laten stijgen of dalen, waarbij zijn persoonlijke belangen ook nog eens een rol spelen, dan ben je als aandeelhouders speelbal geworden van ongrijpbare machten.",
+   "date": "2026-11-25T14:12:31",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-26",
    "intro_geprobeerd": false
   },
   {
@@ -999,6 +1120,17 @@
     "NOS - Tech"
    ],
    "first_seen": "2026-11-25",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX mag van regering-Trump miljoen satellieten de ruimte in lanceren",
+   "link": "https://www.standaard.be/buitenland/spacex-mag-van-regering-trump-miljoen-satellieten-de-ruimte-in-lanceren/165122534.html",
+   "description": "De regering-Trump heeft SpaceX woensdag toestemming gegeven om een miljoen satellieten in een baan rond de aarde te lanceren. De satellieten van het Amerikaanse ruimtevaartbedrijf zullen op termijn gaan fungeren als AI-datacenters in de ruimte.",
+   "date": "2026-11-25T01:00:00",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-26",
    "intro_geprobeerd": false
   },
   {
