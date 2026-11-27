@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:58:23",
+ "generated": "2026-11-27T05:48:19",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,7 +28,7 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 30,
+   "count": 31,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 159,
+   "count": 161,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 96,
+   "count": 100,
    "error": null
   },
   {
@@ -316,6 +316,72 @@
  ],
  "articles": [
   {
+   "title": "Trump: Huang enthousiast over zijn “tweede termijn” bij Nvidia",
+   "link": "https://www.standaard.be/buitenland/trump-huang-enthousiast-over-zijn-tweede-termijn-bij-nvidia/35131945.html",
+   "description": "De Amerikaanse tussentijdse verkiezingen zijn uitgedraaid op een duidelijke zege voor de Democraten. President Donald Trump lijkt evenwel niet van plan om gas terug te nemen. Volg hier updates.",
+   "date": "2026-11-27T03:55:56",
+   "feeds": [
+    "De Standaard - Buitenland"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Belgische AI-assistent helpt chirurgen tijdens operaties: ‘Binnen twintig jaar zal groot deel van chirurgie geautomatiseerd verlopen’",
+   "link": "https://www.demorgen.be/beter-leven/belgische-ai-assistent-helpt-chirurgen-tijdens-operaties-binnen-twintig-jaar-zal-groot-deel-van-chirurgie-geautomatiseerd-verlopen~b2c356b8/",
+   "description": "",
+   "date": "2026-11-27T03:00:33",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Waarom jaren oefenen met muziek maken, als AI het net zo goed kan?",
+   "link": "https://www.trouw.nl/cultuur-media/waarom-jaren-oefenen-met-muziek-maken-als-ai-het-net-zo-goed-kan~bf61ea9e/",
+   "description": "",
+   "date": "2026-11-26T22:00:41",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Gezichtsherkenning sluipt via geitenpaadjes de samenleving in. ‘Fabrikanten leggen de verantwoordelijkheid bij gebruikers’",
+   "link": "https://www.trouw.nl/binnenland/gezichtsherkenning-sluipt-via-geitenpaadjes-de-samenleving-in-fabrikanten-leggen-de-verantwoordelijkheid-bij-gebruikers~bf41c865/",
+   "description": "",
+   "date": "2026-11-26T22:00:39",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Journalist ‘Le Soir’ vertrekt na ongeoorloofd AI-gebruik",
+   "link": "https://www.standaard.be/binnenland/journalist-le-soir-vertrekt-na-ongeoorloofd-ai-gebruik/165167973.html",
+   "description": "Een journalist bij de Brusselse krant ‘Le Soir’ heeft zijn ontslag ingediend toen uitkwam dat hij AI gebruikte op een ongeoorloofde manier.",
+   "date": "2026-11-26T21:55:52",
+   "feeds": [
+    "De Standaard - Binnenland"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederland verzet zich tegen VS-wet die ASML-export naar China verder inperkt",
+   "link": "https://tweakers.net/nieuws/254982/nederland-verzet-zich-tegen-vs-wet-die-asml-export-naar-china-verder-inperkt.html",
+   "description": "Nederland blijft zich verzetten tegen de Amerikaanse Match Act. Dat zegt minister Sjoerd Sjoerdsma van Buitenlandse Handel en Ontwikkelingssamenwerking. Dat wetsvoorstel zou landen dwingen om de export van chipmachines naar China verder in te perken. In Nederland zou dat vooral gevolgen hebben voor ASML.",
+   "date": "2026-11-26T20:57:34",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Waals Gewest beveelt Google om bouw van datacenter stil te leggen",
    "link": "https://www.demorgen.be/nieuws/waals-gewest-beveelt-google-om-bouw-van-datacenter-stil-te-leggen~bac9af72/",
    "description": "",
@@ -324,6 +390,28 @@
     "De Morgen - In Het Nieuws"
    ],
    "first_seen": "2026-11-26",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Waals Gewest legt bouw Google-datacenter stil: techgigant werkte verder ondanks ingetrokken vergunning",
+   "link": "https://www.demorgen.be/nieuws/waals-gewest-legt-bouw-google-datacenter-stil-techgigant-werkte-verder-ondanks-ingetrokken-vergunning~bac9af72/",
+   "description": "",
+   "date": "2026-11-26T20:54:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Muziekwereld gaat strijd aan met AI-copycats",
+   "link": "https://www.trouw.nl/binnenland/muziekwereld-gaat-strijd-aan-met-ai-copycats~bf1ee918/",
+   "description": "",
+   "date": "2026-11-26T20:53:32",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-27",
    "intro_geprobeerd": true
   },
   {
