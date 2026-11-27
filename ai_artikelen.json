@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T05:48:19",
+ "generated": "2026-11-27T20:47:27",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -34,7 +34,7 @@
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
@@ -46,13 +46,13 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 31,
+   "count": 29,
    "error": null
   },
   {
    "name": "De Morgen - Koken",
    "url": "https://www.demorgen.be/koken-met-de-morgen/rss.xml",
-   "count": 0,
+   "count": 1,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 161,
+   "count": 172,
    "error": null
   },
   {
@@ -280,7 +280,7 @@
   {
    "name": "Trouw - Voorpagina",
    "url": "https://www.trouw.nl/voorpagina/rss.xml",
-   "count": 100,
+   "count": 98,
    "error": null
   },
   {
@@ -316,6 +316,527 @@
  ],
  "articles": [
   {
+   "title": "OpenAI: Apple stal bedrijfsgeheimen en belemmert onze toegang tot leveranciers",
+   "link": "https://tweakers.net/nieuws/255024/openai-apple-stal-bedrijfsgeheimen-en-belemmert-onze-toegang-tot-leveranciers.html",
+   "description": "OpenAI heeft een tegenaanklacht tegen Apple ingediend. De ChatGPT-maker claimt dat Apple zijn bedrijfsgeheimen heeft gestolen en toegang tot hardwareleveranciers blokkeerde. Apple beschuldigde OpenAI eerder juist van diefstal van bedrijfsgeheimen.",
+   "date": "2026-11-27T20:43:31",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Polen gaat AI-platform van Palantir inzetten om militaire operaties beter te plannen",
+   "link": "https://businessam.be/polen-schakelt-palantir-in-voor-ai-tool-voor-militaire-planning/",
+   "description": "Key takeaways Het Poolse ministerie van Defensie heeft een contract gesloten met de Amerikaanse softwareleverancier Palantir Technologies voor de implementatie van een AI-platform dat is ontworpen om de militaire strategische planning te verbeteren. Dat meldt TVP World. De technologie staat in Polen bekend als “Saturn” en wordt aangeduid als het Malvern Smart System. Het platform […]",
+   "date": "2026-11-27T20:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Rauwe macht regeert, bewijst de Huang-saga: ‘Bananenrepubliek? Dat is een belediging voor landen die bananen exporteren’",
+   "link": "https://www.tijd.be/r/t/1/id/10707296",
+   "description": "De spectaculaire en snelle rehabilitatie van Jensen Huang bij Nvidia laat zien dat de absolute elite een grote mate van straffeloosheid geniet. ‘Staatskapitalisme? Dat is nog een veel te beleefde term.’",
+   "date": "2026-11-27T20:10:07",
+   "feeds": [
+    "De Tijd - Nieuws",
+    "De Tijd - Politiek",
+    "De Tijd - Politiek Internationaal"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Er is iets grondig mis bij Nvidia: ‘Er leeft geen volwassen bedrijfscultuur’",
+   "link": "https://www.demorgen.be/nieuws/er-is-iets-grondig-mis-bij-nvidia-er-leeft-geen-volwassen-bedrijfscultuur~b585c044/",
+   "description": "",
+   "date": "2026-11-27T19:55:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Na een jaar van conflict stijgt de onrust onder de investeerders in Wingtech, de Chinese eigenaar van Nexperia",
+   "link": "https://www.nrc.nl/nieuws/2026/11/27/na-een-jaar-van-conflict-stijgt-de-onrust-onder-de-investeerders-in-wingtech-de-chinese-eigenaar-van-nexperia-a4942285",
+   "description": "De tijd begint te dringen voor Wingtech, het Chinese moederbedrijf van chipmaker Nexperia. De koersen staan onder druk door het aanhoudende conflict tussen de Chinese en de Europese tak. Veel van de tweehonderdduizend Chinese aandeelhouders maken zich zorgen.",
+   "date": "2026-11-27T19:46:37",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Minder jobs betekent minder belastinginkomsten: hoe gaan we onze zorg en ons onderwijs betalen in het AI-tijdperk?",
+   "link": "https://www.standaard.be/economie/minder-jobs-betekent-minder-belastinginkomsten-hoe-gaan-we-onze-zorg-en-ons-onderwijs-betalen-in-het-ai-tijdperk/164517306.html",
+   "description": "Dat landen als België nog zoveel belastinginkomsten uit arbeid halen, maakt hun schatkist kwetsbaar voor de opmars van AI. “Ons belastingstelsel is nog gebaseerd op de industriële samenleving. Maar de wereld is veranderd.”",
+   "date": "2026-11-27T19:45:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waarschuwingen te over: het financiële AI-bouwwerk kan zomaar instorten. &#8216;Mensen negeren dit catastrofale risico gewoon&#8217;",
+   "link": "https://www.nrc.nl/nieuws/2026/11/27/waarschuwingen-te-over-het-financiele-ai-bouwwerk-kan-zomaar-instorten-mensen-negeren-dit-catastrofale-risico-gewoon-a4942367",
+   "description": "De zorgen over een AI-bubbel nemen met de dag toe en de overeenkomsten met de financiële bonanza die voorafging aan de crisis van 2008 dringen zich op. Waarom is het zo moeilijk om echte lessen uit een crisis te trekken?",
+   "date": "2026-11-27T19:45:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nederlandse premier Jetten wil met Trump onderhandelen over Amerikaanse exportwet voor chipmachines",
+   "link": "https://businessam.be/nederlandse-premier-jetten-wil-met-trump-onderhandelen-over-amerikaanse-exportwet-voor-chipmachines/",
+   "description": "Key takeaways Tijdens de komende G20-top in Miami, op 14 en 15 december, wil de Nederlandse premier Rob Jetten met president Donald Trump spreken over de voorgestelde Amerikaanse MATCH Act. Nederland verzet zich momenteel tegen dit wetsvoorstel, dat steun krijgt van beide partijen in het Amerikaanse Congres. Export van chipapparatuur naar China verder beperken Het […]",
+   "date": "2026-11-27T19:44:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Umicore en Melexis helpen Bel20 aan winst",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/umicore-en-melexis-helpen-bel20-aan-winst/",
+   "description": "(ABM FN) De Brusselse beurs is vrijdag hoger geëindigd en won op weekbasis ook flink terrein.De Bel20 sloot 1,1 procent in de plus op 5.993 punten. Vorige week vrijdag zakte de sterindex nog onder de 5.800 punten.Het nieuws dat Jensen Huang terugkeert als CEO bij Nvidia creëerde afgelopen week een positieve stemming, maar marktkenners blijven benadrukken …\nThe post Umicore en Melexis helpen Bel20 aan winst appeared first on Trends.be.",
+   "date": "2026-11-27T17:58:05",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oracle wil niet je primaire cloud zijn, wel je AI-cloud",
+   "link": "https://www.techzine.be/blogs/infrastructure/83981/oracle-wil-niet-je-primaire-cloud-zijn-wel-je-ai-cloud/",
+   "description": "Oracle had lock-in tot een kunstvorm verheven, maar dat is verleden tijd. Het heeft de strijd opgegeven om je primaire cloudleverancier te zijn. Je data en databases mogen overal staan, zolang de AI-workloads maar bij Oracle draaien. Tijdens Oracle AI World werd duidelijk hoe ver Oracle daarin gaat.  Het blijft soms nog even wennen om […]",
+   "date": "2026-11-27T17:44:57",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Of het nu Russische kernsatellieten zijn of de datacenters van Musk: de ruimte vereist meer  alertheid",
+   "link": "https://www.nrc.nl/nieuws/2026/11/27/of-het-nu-russische-kernsatellieten-zijn-of-de-datacenters-van-musk-de-ruimte-vereist-meer-alertheid-a4942465",
+   "description": "Als het waar is dat Rusland – zoals in NAVO-kringen wordt besproken – nog dit jaar een satelliet met een kernwapen de ruimte in zal brengen, dan rijst de vraag wat er eigenlijk…",
+   "date": "2026-11-27T17:00:00",
+   "feeds": [
+    "NRC - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "'Nvidia Blackwell-chips duiken op in Chinees datacenter gelinkt aan Alice Huang'",
+   "link": "https://tweakers.net/nieuws/255012/nvidia-blackwell-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang.html",
+   "description": "Chinese bedrijven installeerden Nvidia Blackwell-chips in een datacenter in Shanghai. Dat meldt persbureau Bloomberg. Die chips mogen niet geleverd worden aan China. Het datacenter heeft banden met Alice Huang, een van de vrouwen met wie Nvidia-baas Jensen Huang een affaire had.",
+   "date": "2026-11-27T16:29:07",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-chips duiken op in Chinees datacenter gelinkt aan Alice Huang",
+   "link": "https://www.knack.be/nieuws/wereld/nvidia-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang/",
+   "description": "In een datacenter in de Chinese metropool Shanghai zijn krachtige Blackwell-chips van het Amerikaanse technologiebedrijf Nvidia geïnstalleerd. Dat meldt nieuwsagentschap Bloomberg. Het datacenter is gelinkt aan Alice Huang, de vermeende Chinese spion met wie Nvidia-topman Jensen Huang een affaire had.\nThe post Nvidia-chips duiken op in Chinees datacenter gelinkt aan Alice Huang appeared first on Knack.",
+   "date": "2026-11-27T15:05:10",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bank of England-gouverneur Andrew Bailey wil dat overheden vertrouwen in AI versterken",
+   "link": "https://businessam.be/bank-of-england-gouverneur-andrew-bailey-wil-dat-overheden-vertrouwen-in-ai-versterken/",
+   "description": "Key takeaways Andrew Bailey, gouverneur van de Bank of England, stelt dat overheden burgers moeten overtuigen van de positieve effecten van geavanceerde artificiële intelligentie. Dat wordt volgens hem steeds belangrijker nu de bezorgdheid groeit dat de technologie zich sneller ontwikkelt dan mensen kunnen bijhouden. Bailey wil duidelijke grenzen voor AI-ontwikkeling Bailey steunt de strategie van […]",
+   "date": "2026-11-27T15:02:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wie controleert Nvidia nog?",
+   "link": "https://www.tijd.be/r/t/1/id/10707314",
+   "description": "Hoe onmisbaarder Amerikaanse technologie voor de wereld wordt, hoe onmisbaarder de bedrijven die er eigenaar van zijn worden voor de Amerikaanse regering.",
+   "date": "2026-11-27T14:53:39",
+   "feeds": [
+    "De Tijd - Opinie"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Linux 7.5 voegt vroege ondersteuning toe voor AMD RDNA 5-gpu's",
+   "link": "https://tweakers.net/nieuws/255002/linux-75-voegt-vroege-ondersteuning-toe-voor-amd-rdna-5-gpus.html",
+   "description": "AMD voegt vroege RDNA 5-ondersteuning toe aan de aanstaande Linux 7.5-kernel. Het bedrijf werkt aan ondersteuning voor 'GC13', de gpu-core die de basis vormt voor RDNA 5-gpu's. Linux 7.5 verschijnt begin 2027, maar AMD's RDNA 5-gpu's zelf laten nog wat langer op zich wachten.",
+   "date": "2026-11-27T14:53:37",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-chips duiken op in Chinees datacenter gelinkt aan Alice Huang",
+   "link": "https://www.standaard.be/economie/nvidia-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang/35145140.html",
+   "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
+   "date": "2026-11-27T14:50:00",
+   "feeds": [
+    "De Standaard - Economie"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Positief sentiment op Wall Street tijdens Black Friday",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/positief-sentiment-op-wall-street-tijdens-black-friday/",
+   "description": "(ABM FN-Dow Jones) De Amerikaanse aandelenbeurzen zullen vrijdag naar verwachting in het groen openen voor een verkorte handelsdag, terwijl de handel in kunstmatige intelligentie-aandelen weer aantrekt aan het einde van een volatiele week. Vanwege Black Friday sluit Wall Street vrijdag om 19.00 uur Nederlandse tijd.De future op de toonaangevende S&P 500-index noteerde ongeveer een half uur …\nThe post Positief sentiment op Wall Street tijdens Black Friday appeared first on Trends.be.",
+   "date": "2026-11-27T14:49:17",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Nvidia-zaak is tekenend voor Trumps bemoeienis met de tech-industrie",
+   "link": "https://www.trouw.nl/buitenland/nvidia-zaak-is-tekenend-voor-trumps-bemoeienis-met-de-tech-industrie~b6460b74/",
+   "description": "",
+   "date": "2026-11-27T14:31:00",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Live - Bloomberg: geavanceerde Nvidia-chips gevonden bij datacenter gelinkt aan Alice Huang",
+   "link": "https://www.demorgen.be/tech-ai/live-bloomberg-geavanceerde-nvidia-chips-gevonden-bij-datacenter-gelinkt-aan-alice-huang~b30c2eaa/",
+   "description": "",
+   "date": "2026-11-27T14:07:00",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Cisco is correct gewaardeerd",
+   "link": "https://trends.knack.be/beleggen/internationale-aandelen/cisco-is-correct-gewaardeerd/",
+   "description": "De bouw van AI-datacenters scheert hoge toppen. Om die met elkaar te verbinden met geavanceerde netwerkapparatuur komt Cisco om de hoek kijken. De AI-boom heeft Cisco van een slaperig bedrijf weer tot een groeier getransformeerd. \nThe post Cisco is correct gewaardeerd appeared first on Trends.be.",
+   "date": "2026-11-27T14:00:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Oliemannetje, suikeroom en achilleshiel van de AI-industrie: de vele petten van Jensen Huang",
+   "link": "https://www.demorgen.be/nieuws/oliemannetje-suikeroom-en-achilleshiel-van-de-ai-industrie-de-vele-petten-van-jensen-huang~bca94395/",
+   "description": "",
+   "date": "2026-11-27T12:52:31",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Hoe ServiceNow AI-agents veilig en beheersbaar wil houden",
+   "link": "https://www.techzine.be/blogs/applications/83976/hoe-servicenow-ai-agents-veilig-en-beheersbaar-wil-houden/",
+   "description": "Organisaties zetten steeds vaker AI-agents in, maar in de praktijk blijkt het lastig om ze tegelijkertijd zelfstandig, rendabel en veilig te laten werken. Zonder duidelijke grenzen lopen de kosten op en ontstaan er nieuwe securityrisico’s. ServiceNow speelt in op dat knelpunt met striktere controle, zonder de autonomie van agents te verliezen. Voor het ServiceNow AI […]",
+   "date": "2026-11-27T12:32:30",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "NCSC waarschuwt voor gevaren van toegenomen gebruik van AI door bedrijven",
+   "link": "https://www.security.nl/posting/963395/NCSC+waarschuwt+voor+gevaren+van+toegenomen+gebruik+van+AI+door+bedrijven?channel=rss",
+   "description": "Naar aanleiding van de bevindingen van het CBS over het toegenomen gebruik van AI door bedrijven benadrukt het NCSC in een ...",
+   "date": "2026-11-27T12:28:00",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Europese beurzen hoger rond middaguur",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/europese-beurzen-hoger-rond-middaguur-12/",
+   "description": "(ABM FN-Dow Jones) De Europese beurzen noteerden vrijdag rond het middaguur hoger, met steun van halfgeleideraandelen, terwijl ook banken en defensiebedrijven goede zaken deden.De Stoxx Europe 600 noteerde 1,1 procent hoger op 643,77 punten. De Duitse DAX stond 0,9 procent in de plus op 25.452,51 punten. De Franse CAC 40 won 0,5 procent tot 8.146,12 punten. …\nThe post Europese beurzen hoger rond middaguur appeared first on Trends.be.",
+   "date": "2026-11-27T12:20:48",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Phishing overtuigender door AI: overheid lanceert nieuw platform om fraude te melden",
+   "link": "https://www.gva.be/binnenland/phishing-overtuigender-door-ai-overheid-lanceert-nieuw-platform-om-fraude-te-melden/165198268.html",
+   "description": "Artificiële intelligentie maakt berichten en telefoontjes van oplichters overtuigender. Een nieuwe campagne van het Centrum voor Cybersecurity België (CCB) moet mensen daarbij doen stilstaan. De boodschap: “Stop en controleer”.",
+   "date": "2026-11-27T11:50:51",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Beursupdate: AB InBev weer onder druk in groene Bel20",
+   "link": "https://trends.knack.be/beleggen/beursnieuws/beursupdate-ab-inbev-weer-onder-druk-in-groene-bel20/",
+   "description": "(ABM FN) De Brusselse beurs noteerde vrijdag aan het einde van de ochtend in het groen, ondanks dat indexzwaargewicht AB InBev weer onder druk stond.De Bel20 noteerde 0,6 procent hoger aan 5.963 punten.\"De opluchtingsrally na de terugkeer van Nvidia-topman Jensen Huang verhult een groter probleem: de AI-boom vraagt steeds meer kapitaal, terwijl het wereldwijde aanbod daarvan …\nThe post Beursupdate: AB InBev weer onder druk in groene Bel20 appeared first on Trends.be.",
+   "date": "2026-11-27T11:49:44",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitse cyberbeveiligingsauthoriteit waarschuwt voor toenemende dreiging zelfstandig opererende AI",
+   "link": "https://www.security.nl/posting/963387/Duitse+cyberbeveiligingsauthoriteit+waarschuwt+voor+toenemende+dreiging+zelfstandig+opererende+AI?channel=rss",
+   "description": "Het BSI (Bundesamt für Sicherheit in der Informationstechnik), de Duitse tegenhanger van het NCSC, waarschuwde donderdag in ...",
+   "date": "2026-11-27T11:37:43",
+   "feeds": [
+    "Security.NL - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft geeft AI-agents meer autonomie in VS Code",
+   "link": "https://www.techzine.be/nieuws/devops/83974/microsoft-geeft-ai-agents-meer-autonomie-in-vs-code/",
+   "description": "Microsoft geeft AI-agents in Visual Studio Code meer vrijheid om zelfstandig programmeertaken uit te voeren. Met versie 1.148 kunnen agents blijven werken nadat ontwikkelaars het venster hebben gesloten. Ook breidt Microsoft de mogelijkheden voor geïsoleerde ontwikkelomgevingen uit en verbetert het de prestaties van agents. Met de nieuwste release reageren AI-agents sneller. Volgens Microsoft is de […]",
+   "date": "2026-11-27T11:23:03",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Goud herstelt voorzichtig na een terugval naar het laagste niveau in twaalf maanden",
+   "link": "https://businessam.be/goud-herstelt-voorzichtig-na-een-terugval-naar-het-laagste-niveau-in-twaalf-maanden/",
+   "description": "Key takeaways De goudprijzen herstelden zich vrijdag en veerden op na een daling tot het laagste niveau in twaalf maanden. De opwaartse trend werd ondersteund door een afname van de onrust op de markt rond artificiële intelligentie, in combinatie met een afzwakkend verkoopmomentum tijdens de Amerikaanse feestdag. Om 11 uur noteerde spotgoud op 3.675 dollar […]",
+   "date": "2026-11-27T11:15:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Robert Reich over de AI-miljardairs: ‘Iemand als Elon Musk kan gewoon proberen een senator te kopen’",
+   "link": "https://www.knack.be/nieuws/technologie-ai-sociale-media-digitaal/robert-reich-over-de-ai-miljardairs-iemand-als-elon-musk-kan-gewoon-proberen-een-senator-te-kopen/",
+   "description": "Robert Reich, voormalig minister van Arbeid onder de Amerikaanse president Bill Clinton en een invloedrijke denker binnen de Democratische Partij, wil de macht van de AI-miljardairs breken. Hij legt uit hoe dat kan.\nThe post Robert Reich over de AI-miljardairs: ‘Iemand als Elon Musk kan gewoon proberen een senator te kopen’ appeared first on Knack.",
+   "date": "2026-11-27T11:00:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waals Gewest legt bouw van Google-datacenter stil na verlopen vergunning",
+   "link": "https://tweakers.net/nieuws/254990/waals-gewest-legt-bouw-van-google-datacenter-stil-na-verlopen-vergunning.html",
+   "description": "Het Waals Gewest heeft de bouw van een datacenter van Google stilgelegd. Google heeft niet meer de juiste vergunning voor die bouw, maar lijkt er wel mee door te gaan. Greenpeace startte eerder deze week al een gerechtelijke procedure om de bouw stil te leggen.",
+   "date": "2026-11-27T10:33:16",
+   "feeds": [
+    "Tweakers - Mixed"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Duitse softwaregigant SAP overweegt 10.000 banen te schrappen door opmars van AI",
+   "link": "https://businessam.be/duitse-softwaregigant-sap-overweegt-10-000-banen-te-schrappen-door-opmars-van-ai/",
+   "description": "Key takeaways Volgens een bericht van Bloomberg News overweegt de Duitse softwaregigant SAP om maar liefst 10.000 banen te schrappen. Met die mogelijke inkrimping van het personeelsbestand wil het bedrijf zich beter positioneren om te profiteren van de opmars van artificiële intelligentie. Patroon van inkrimping Indien doorgevoerd, zou dit de tweede aanzienlijke inkrimping betekenen voor […]",
+   "date": "2026-11-27T10:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "ARTEX: een AI-droom voor cyberaanvallers, maar eigenlijk doodgewoon",
+   "link": "https://www.techzine.be/blogs/security/83972/artex-een-ai-droom-voor-cyberaanvallers-maar-eigenlijk-doodgewoon/",
+   "description": "Toen de ethische hackers van DIVD zelf getroffen waren door een hack, zaten ze in hetzelfde schuitje als de CIA en de Europese Commissie. In alle drie de gevallen wijst het spoor naar ARTEX, een securityframework voor pentesting dat sinds de zomer van dit jaar beschikbaar is. Geen van de individuele onderdelen van ARTEX is […]",
+   "date": "2026-11-27T10:00:02",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Klopt dat hele Nvidia wel? De tulpengekte van 1636 lijkt er niets bij",
+   "link": "https://www.trouw.nl/columnisten/klopt-dat-hele-nvidia-wel-de-tulpengekte-van-1636-lijkt-er-niets-bij~b62c4cb0/",
+   "description": "",
+   "date": "2026-11-27T10:00:00",
+   "feeds": [
+    "Trouw - Voorpagina",
+    "Trouw - Wetenschap"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "De kwantumcomputer kan nog niks, maar trekt al volop geld aan. Kan Nederland er een nieuw ASML mee creëren?",
+   "link": "https://www.trouw.nl/wetenschap/de-kwantumcomputer-kan-nog-niks-maar-trekt-al-volop-geld-aan-kan-nederland-er-een-nieuw-asml-mee-creeren~b5452905/",
+   "description": "",
+   "date": "2026-11-27T10:00:00",
+   "feeds": [
+    "Trouw - Voorpagina",
+    "Trouw - Wetenschap"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Microsoft voegt AI-functie toe die phishing herkent in Teams-gesprekken",
+   "link": "https://www.ad.nl/tech/microsoft-voegt-ai-functie-toe-die-phishing-herkent-in-teams-gesprekken~ab36c157/",
+   "description": "Microsoft voegt een AI-functie toe aan Teams die tijdens externe gesprekken let op mogelijke phishing en fraude. De AI-aangedreven spraakherkenning waarschuwt gebruikers bij mogelijke pogingen tot misleiding.",
+   "date": "2026-11-27T09:48:00",
+   "feeds": [
+    "AD - Tech"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SAP wil ten minste 10.000 banen schrappen in AI-transitie",
+   "link": "https://www.techzine.be/nieuws/applications/83970/sap-wil-ten-minste-10-000-banen-schrappen-in-ai-transitie/",
+   "description": "SAP SE bereidt een plan voor om ten minste 10.000 arbeidsplaatsen te schrappen. Hiermee wil het softwarebedrijf zijn organisatie transformeren voor het tijdperk van AI, zo melden ingewijden. Definitief is het plan nog niet. Een formeel besluit wordt pas begin 2027 verwacht. Traditioneel kondigt SAP herstructureringsmaatregelen aan bij de presentatie van de jaarcijfers, eind januari. […]",
+   "date": "2026-11-27T09:46:26",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Microsoft laat AI phishing herkennen in externe Teams-gesprekken",
+   "link": "https://www.hln.be/tech/microsoft-laat-ai-phishing-herkennen-in-externe-teams-gesprekken~ab36c157/",
+   "description": "Microsoft voegt een AI-functie toe aan Teams die tijdens externe gesprekken let op mogelijke phishing en fraude. De AI-aangedreven spraakherkenning waarschuwt gebruikers bij mogelijke pogingen tot misleiding.",
+   "date": "2026-11-27T09:00:42",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bouw Google-datacenter in België alsnog stilgelegd",
+   "link": "https://www.techzine.be/nieuws/infrastructure/83969/bouw-google-datacenter-in-belgie-alsnog-stilgelegd/",
+   "description": "Het Waalse Farciennes krijgt vooralsnog geen Google-datacenter. Hoewel de vergunning voor de bouw ervan in de zomer al was ingetrokken, bouwde Google door. Nu heeft het Waals Gewest een stop afgedwongen. Volgens Raphael Stokis, gedelegeerd ambtenaar van het Waals Gewest, waren er zo’n 300 bouwvakkers aan het werk toen de werken werden stilgelegd. Waals minister […]",
+   "date": "2026-11-27T09:00:41",
+   "feeds": [
+    "Techzine - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Bank of England: AI-bedrijven lenen meer dan 305 miljard dollar en vergroten risico op financiële crisis",
+   "link": "https://businessam.be/bank-of-england-ai-bedrijven-lenen-meer-dan-305-miljard-dollar-en-vergroten-risico-op-financiele-crisis/",
+   "description": "Key takeaways De Bank of England heeft gewaarschuwd voor toenemende bedreigingen voor de mondiale financiële stabiliteit, daarbij verwijzend naar een combinatie van geopolitieke spanningen in het Midden-Oosten, aanhoudende inflatie en agressieve kredietopname binnen de sector van de artificiële intelligentie. Waarderingen In haar meest recente halfjaarlijkse rapport over financiële stabiliteit merkte de centrale bank op dat, […]",
+   "date": "2026-11-27T08:59:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SAP zou 10.000 banen willen schrappen",
+   "link": "https://trends.knack.be/ai-en-tech/technieuws/sap-zou-10-000-banen-willen-schrappen/",
+   "description": "De Duitse ontwikkelaar van bedrijfssoftware SAP overweegt wereldwijd minstens 10.000 banen te schrappen, met de komst van artificiële intelligentie (AI). Dat bericht persagentschap Bloomberg op basis van anonieme bronnen bij het bedrijf.\nThe post SAP zou 10.000 banen willen schrappen appeared first on Trends.be.",
+   "date": "2026-11-27T08:36:15",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "AI & Tech-podcast | AI zonder rem maakt hacken kinderspel",
+   "link": "https://trends.knack.be/ai-en-tech/ai-tech-podcast-ai-zonder-rem-maakt-hacken-kinderspel/",
+   "description": "De persoonsgegevens van liefst 1,2 miljoen Vlamingen zijn in handen gekomen van hackers. Namen, adressen, telefoonnummers, bankrekeningnummers, rijbewijzen.  De data staan nu al op het dark web. Het was de jongste weken al een vlaag aan grote cyberaanvallen, en dus kijken we naar de tools en de methodes die het hackers zo gemakkelijk maken. Dat bespreken we deze week in de podcast AI & Tech.\nThe post AI & Tech-podcast | AI zonder rem maakt hacken kinderspel appeared first on Trends.be.",
+   "date": "2026-11-27T08:30:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Donald Trump: \"Terugkeer Jensen Huang bij Nvidia geen risico voor nationale veiligheid\"",
+   "link": "https://www.vrt.be/vrtnws/nl/liveblog/donald-trump-terugkeer-jensen-huang-bij-nvidia-geen-risico-voo~1776671241366/",
+   "description": "De ontwikkelingen in artificiële intelligentie (AI) gaan razendsnel en de risico's zijn soms niet voor iedereen meteen duidelijk. Volg in deze liveblog al het nieuws over AI.",
+   "date": "2026-11-27T08:12:39",
+   "feeds": [
+    "VRT NWS - Artificiele Intelligentie"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Anthropic-topman Dario Amodei verwerpt idee om menselijke beslissingen aan AI over te laten",
+   "link": "https://businessam.be/anthropic-topman-dario-amodei-verwerpt-idee-om-menselijke-beslissingen-aan-ai-over-te-laten/",
+   "description": "Key takeaways Dario Amodei, topman van Anthropic, heeft beweringen dat hij voorstander zou zijn van het overdragen van menselijke beslissingsbevoegdheid aan artificiële intelligentie resoluut van de hand gewezen. Op X noemde Amodei het idee om de menselijke autonomie aan AI af te staan belachelijk. Hij stelde dat democratisch toezicht voorop moet blijven staan. Afwijzing van […]",
+   "date": "2026-11-27T07:33:00",
+   "feeds": [
+    "Business AM - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘IT-stagiairs leveren werkende code af, maar snappen ze ook wat ze afleveren?’",
+   "link": "https://trends.knack.be/opinie/ze-leveren-werkende-code-af-maar-snappen-ze-ook-wat-ze-afleveren/",
+   "description": "Jongeren mijden IT-opleidingen uit angst voor AI. Ze hebben deels gelijk, schrijft Maarten Anckaert van icapps. Het uitvoerende werk waarmee IT-bachelors vroeger startten, verdwijnt. Het onderwijs moet de ervaring aanleren die de werkvloer niet meer geeft.\nThe post ‘IT-stagiairs leveren werkende code af, maar snappen ze ook wat ze afleveren?’ appeared first on Trends.be.",
+   "date": "2026-11-27T07:07:00",
+   "feeds": [
+    "Data News - Artikels"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "SpaceX krijgt toestemming voor datacenters in de ruimte",
+   "link": "https://www.hln.be/tech/spacex-krijgt-toestemming-voor-datacenters-in-de-ruimte~aae371cd/",
+   "description": "De Amerikaanse telecomtoezichthouder FCC geeft SpaceX toestemming om een formatie van maximaal 1 miljoen satellieten met rekenmodules in een baan om de aarde te brengen voor het Starmind-project. Dat project moet AI-datacenters in de ruimte realiseren.",
+   "date": "2026-11-27T06:00:38",
+   "feeds": [
+    "HLN - Tech"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": false
+  },
+  {
    "title": "Trump: Huang enthousiast over zijn “tweede termijn” bij Nvidia",
    "link": "https://www.standaard.be/buitenland/trump-huang-enthousiast-over-zijn-tweede-termijn-bij-nvidia/35131945.html",
    "description": "De Amerikaanse tussentijdse verkiezingen zijn uitgedraaid op een duidelijke zege voor de Democraten. President Donald Trump lijkt evenwel niet van plan om gas terug te nemen. Volg hier updates.",
@@ -338,6 +859,17 @@
    "intro_geprobeerd": true
   },
   {
+   "title": "AI in de operatiekamer: wie krijgt de rekening gepresenteerd als het fout gaat?",
+   "link": "https://www.demorgen.be/beter-leven/ai-in-de-operatiekamer-wie-krijgt-de-rekening-gepresenteerd-als-het-fout-gaat~b2c356b8/",
+   "description": "",
+   "date": "2026-11-27T03:00:00",
+   "feeds": [
+    "De Morgen - Beter Leven"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
    "title": "Waarom jaren oefenen met muziek maken, als AI het net zo goed kan?",
    "link": "https://www.trouw.nl/cultuur-media/waarom-jaren-oefenen-met-muziek-maken-als-ai-het-net-zo-goed-kan~bf61ea9e/",
    "description": "",
@@ -353,6 +885,17 @@
    "link": "https://www.trouw.nl/binnenland/gezichtsherkenning-sluipt-via-geitenpaadjes-de-samenleving-in-fabrikanten-leggen-de-verantwoordelijkheid-bij-gebruikers~bf41c865/",
    "description": "",
    "date": "2026-11-26T22:00:39",
+   "feeds": [
+    "Trouw - Voorpagina"
+   ],
+   "first_seen": "2026-11-27",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "In 2040 moeten er 1 miljoen SpaceX-‘datacentra’ om de aarde vliegen, en daar is lang niet iedereen blij mee",
+   "link": "https://www.trouw.nl/buitenland/in-2040-moeten-er-1-miljoen-spacex-datacentra-om-de-aarde-vliegen-en-daar-is-lang-niet-iedereen-blij-mee~b08b2d44/",
+   "description": "",
+   "date": "2026-11-26T22:00:37",
    "feeds": [
     "Trouw - Voorpagina"
    ],
