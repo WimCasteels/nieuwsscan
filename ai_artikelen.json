@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:47:27",
+ "generated": "2026-11-28T05:33:07",
  "feeds": [
   {
    "name": "AD - Tech",
@@ -28,13 +28,13 @@
   {
    "name": "De Morgen - Best Gelezen",
    "url": "https://www.demorgen.be/popular/rss.xml",
-   "count": 31,
+   "count": 30,
    "error": null
   },
   {
    "name": "De Morgen - Beter Leven",
    "url": "https://www.demorgen.be/beter-leven/rss.xml",
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "name": "De Morgen - In Het Nieuws",
    "url": "https://www.demorgen.be/in-het-nieuws/rss.xml",
-   "count": 29,
+   "count": 32,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "name": "De Morgen - Meningen",
    "url": "https://www.demorgen.be/meningen/rss.xml",
-   "count": 29,
+   "count": 36,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
   {
    "name": "NRC - Artikels",
    "url": "https://www.nrc.nl/rss/",
-   "count": 172,
+   "count": 170,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "name": "Trouw - Opinie",
    "url": "https://www.trouw.nl/opinie/rss.xml",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
@@ -315,6 +315,127 @@
   }
  ],
  "articles": [
+  {
+   "title": "Wat moet je met het keurmerk AI-vrij: ‘Ik vind het ook vreemd dat je nu moet bewijzen dat je een mens bent, maar je kunt er niet omheen’",
+   "link": "https://www.volkskrant.nl/tech/wat-moet-je-met-het-keurmerk-ai-vrij-ik-vind-het-ook-vreemd-dat-je-nu-moet-bewijzen-dat-je-een-mens-bent-maar-je-kunt-er-niet-omheen~b8c9f778/",
+   "description": "",
+   "date": "2026-11-28T05:00:13",
+   "feeds": [
+    "Volkskrant - Tech"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Van Savonarola tot Jensen Huang: verliezen we het brede plaatje niet uit het oog als we focussen op de meest saillante details?’",
+   "link": "https://www.knack.be/geschiedenis/van-savonarola-tot-huang-verliezen-we-het-brede-plaatje-niet-uit-het-oog-als-we-focussen-op-de-meest-saillante-details/",
+   "description": "Sander Lefere ziet parallellen tussen de val van Savonarola in het Firenze van 1498, en de recente gebeurtenissen bij Nvidia, met topman Jensen Huang.\nThe post ‘Van Savonarola tot Jensen Huang: verliezen we het brede plaatje niet uit het oog als we focussen op de meest saillante details?’ appeared first on Knack.",
+   "date": "2026-11-28T04:19:00",
+   "feeds": [
+    "Knack - Artikels"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "‘Geen enkel AI-model zal ons op eigen houtje uitmoorden’: wiskundeprof Ann Dooms (VUB) over de stelling van Riemann en de toekomst van AI",
+   "link": "https://www.demorgen.be/tech-ai/geen-enkel-ai-model-zal-ons-op-eigen-houtje-uitmoorden-wiskundeprof-ann-dooms-vub-over-de-stelling-van-riemann-en-de-toekomst-van-ai~b2d9c328/",
+   "description": "",
+   "date": "2026-11-28T03:00:59",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Verandert AI het slagveld wel echt? De echte omwenteling moet nog komen",
+   "link": "https://www.demorgen.be/meningen/verandert-ai-het-slagveld-wel-echt-de-echte-omwenteling-moet-nog-komen~bf2267ad/",
+   "description": "",
+   "date": "2026-11-28T03:00:58",
+   "feeds": [
+    "De Morgen - Meningen"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "Wetenschappers bouwen met AI een virtuele versie van de menselijke cel",
+   "link": "https://www.demorgen.be/tech-wetenschap/wetenschappers-bouwen-met-ai-een-virtuele-versie-van-de-menselijke-cel~b2dfaf59/",
+   "description": "",
+   "date": "2026-11-28T03:00:58",
+   "feeds": [
+    "De Morgen - Wetenschap"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "‘Die algoritmes maken zichzelf helemaal gek’: zes vragen over de nerveuze financiële markten",
+   "link": "https://www.demorgen.be/nieuws/die-algoritmes-maken-zichzelf-helemaal-gek-zes-vragen-over-de-nerveuze-financiele-markten~bdacd609/",
+   "description": "",
+   "date": "2026-11-28T03:00:55",
+   "feeds": [
+    "De Morgen - In Het Nieuws"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI slaat terug en beschuldigt Apple van diefstal van bedrijfsgeheimen en druk op toeleveranciers",
+   "link": "https://www.gva.be/buitenland/openai-slaat-terug-en-beschuldigt-apple-van-diefstal-van-bedrijfsgeheimen-en-druk-op-toeleveranciers/165242190.html",
+   "description": "OpenAI, het bedrijf achter ChatGPT, is vrijdag in de tegenaanval gegaan tegen Apple. Het beschuldigt de iPhonemaker ervan bedrijfsgeheimen te hebben gestolen via een voormalige werknemer en gemeenschappelijke toeleveranciers onder druk te zetten om zijn intrede op de markt van slimme apparaten af te remmen.",
+   "date": "2026-11-28T00:52:00",
+   "feeds": [
+    "Gazet van Antwerpen - Economie"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Wat is het plan bij Nvidia na de terugkeer van Jensen Huang? Er is geen plan",
+   "link": "https://www.standaard.be/media-en-cultuur/wat-is-het-plan-bij-nvidia-na-de-terugkeer-van-jensen-huang-er-is-geen-plan/164941532.html",
+   "description": "Nvidia hijst zijn zwaargehavende oprichter weer in het zadel. Het gaf de aandelenmarkt een kortstondige boost. Maar het is moeilijk om een scenario te bedenken waarin dit goed afloopt.",
+   "date": "2026-11-27T23:59:00",
+   "feeds": [
+    "De Standaard - Cultuur"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Waar blijven de plannen om de sociale impact van AI te beteugelen?",
+   "link": "https://www.standaard.be/opinies/waar-blijven-de-plannen-om-de-sociale-impact-van-ai-te-beteugelen/165207208.html",
+   "description": "We zijn terecht bang voor de gevolgen van AI, maar om de verkeerde redenen, schrijft Harold Polis. Betaalbare pensioenen, zelfredzaamheid en flexibiliteit zijn nu belangrijker dan leefbare loopbanen en zinvol werk.",
+   "date": "2026-11-27T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": false
+  },
+  {
+   "title": "Cartoonist Badiucao, de Banksy van China, laat zich niet censureren: “Vroeger kon ik mijn werk nog online zetten. Nu wordt het vaker onderschept door AI”",
+   "link": "https://www.standaard.be/opinies/cartoonist-badiucao-de-banksy-van-china-laat-zich-niet-censureren-vroeger-kon-ik-mijn-werk-nog-online-zetten.-nu-wordt-het-vaker-onderschept-door-ai/164941516.html",
+   "description": "",
+   "date": "2026-11-27T23:59:00",
+   "feeds": [
+    "De Standaard - Opinies"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": true
+  },
+  {
+   "title": "OpenAI spant rechtszaak aan tegen Apple over diefstal bedrijfsgegevens",
+   "link": "https://www.nu.nl/tech/6418064/openai-spant-rechtszaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.html",
+   "description": "OpenAI heeft vrijdag een rechtszaak aangespannen tegen Apple vanwege vermeende diefstal van bedrijfsgegevens. Apple stapte in juli naar de rechter met beschuldigingen tegen OpenAI vanwege diefstal van bedrijfsinformatie. Dat zou OpenAI doen door voormalig Apple-personeel in dienst te nemen.",
+   "date": "2026-11-27T21:33:08",
+   "feeds": [
+    "NU.nl - Tech"
+   ],
+   "first_seen": "2026-11-28",
+   "intro_geprobeerd": false
+  },
   {
    "title": "OpenAI: Apple stal bedrijfsgeheimen en belemmert onze toegang tot leveranciers",
    "link": "https://tweakers.net/nieuws/255024/openai-apple-stal-bedrijfsgeheimen-en-belemmert-onze-toegang-tot-leveranciers.html",
